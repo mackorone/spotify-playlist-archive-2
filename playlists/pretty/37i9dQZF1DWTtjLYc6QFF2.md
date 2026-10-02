@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно із ТУЧЕЮ 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,108 likes - 63 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,111 likes - 63 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 29 | [Просто би хотіла](https://open.spotify.com/track/0mi90BK1uXtgOytAYfWyn8) | [Kristonko](https://open.spotify.com/artist/0zazzKWsThTBwSOVbwBNZY) | [Просто би хотіла](https://open.spotify.com/album/100DeUeCjmsfTWuMQGW09z) | 2:39 |
 | 30 | [На рахунок три](https://open.spotify.com/track/79aIWYzhChcOTKHv3UheC1) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [На рахунок три](https://open.spotify.com/album/3PT0PEg5HCw6UMwkiB2kYl) | 2:46 |
 | 31 | [ЩЕ](https://open.spotify.com/track/167Aq8f4lOfPaFKyvDW4v4) | [Roma Tuz](https://open.spotify.com/artist/2veNOTaTuxhLnycNMi9lWF) | [ЩЕ](https://open.spotify.com/album/4dvWuBrNVYQJBb8azPAVcy) | 2:40 |
-| 32 | [Дівчина з села](https://open.spotify.com/track/2F9dVMctpqhCfdzWTVFpGn) | [TARASYA](https://open.spotify.com/artist/2fH6dXQi7p69K8s9SU1gHn), [ДРІТА](https://open.spotify.com/artist/4C1doWhhFm7OZXDuBguhn8), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Дівчина з села](https://open.spotify.com/album/6IFWa1bDQ4sXiCJSDlYWt7) | 2:24 |
+| 32 | [Дівчина з села](https://open.spotify.com/track/2F9dVMctpqhCfdzWTVFpGn) | [TARASYA](https://open.spotify.com/artist/2fH6dXQi7p69K8s9SU1gHn), [ДРІТА](https://open.spotify.com/artist/4C1doWhhFm7OZXDuBguhn8), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Третя Штурмова](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M) | [Дівчина з села](https://open.spotify.com/album/6IFWa1bDQ4sXiCJSDlYWt7) | 2:24 |
 | 33 | [Саботаж](https://open.spotify.com/track/3V68pSYOImbsfXhvJgew0G) | [Nadeen](https://open.spotify.com/artist/5I9DCiCIPlBl87jmdKtUBG) | [Саботаж](https://open.spotify.com/album/6L0sD5f5FLSxHdzOcNRke3) | 2:57 |
 | 34 | [Моя любов – твоя опора](https://open.spotify.com/track/3WbF5v7cKRNwEqu0aH3jnI) | [TARABAROVA](https://open.spotify.com/artist/6tj6mp6fHJW5q7EfUXBXk2), [Твоя опора](https://open.spotify.com/artist/2rZNK7SuABIuRiNuh5u8U4) | [Моя любов – твоя опора](https://open.spotify.com/album/2s8F880xgPUo8hv5mwiMi1) | 3:21 |
 | 35 | [Загубитись](https://open.spotify.com/track/6OktiVUw92gMUdeiIVpQmv) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [Загубитись](https://open.spotify.com/album/2CTg7p1Jv5N2PxjeZuiXlm) | 2:27 |

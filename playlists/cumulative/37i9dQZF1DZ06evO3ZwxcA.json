@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "OUTBREAK (feat. Cory Brandan)",
+        "url": "https://open.spotify.com/album/0tlb1VwunVtvuMtt4eeB4x"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292549,
+      "name": "OUTBREAK (feat. Cory Brandan)",
+      "url": "https://open.spotify.com/track/7gfd1REaf35dS1e37SqaYj"
+    },
+    {
+      "album": {
         "name": "The Fundamental Elements of Southtown",
         "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
@@ -1046,7 +1068,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 186453,
       "name": "They Don't Like It",
       "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"

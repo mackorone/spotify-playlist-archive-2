@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 130869,
       "name": "Ap\u00e1ly",
       "url": "https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO"
@@ -5158,7 +5158,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 171692,
       "name": "BOSZORK\u00c1NY",
       "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
@@ -9510,7 +9510,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 187826,
       "name": "D\u00c9RYN\u00c9",
       "url": "https://open.spotify.com/track/0oDmYaiTVDwZ9VBmprkKYE"
@@ -11228,7 +11228,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 181530,
       "name": "Feledn\u00e9d",
       "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
@@ -23434,7 +23434,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 171665,
       "name": "NEM \u00c9RI MEG",
       "url": "https://open.spotify.com/track/3q5jY2ojaqWSruLalNfS5b"
@@ -32930,7 +32930,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 141789,
       "name": "TAKE YOUR TIME",
       "url": "https://open.spotify.com/track/5chK4xxQLLa88aU8A8w8RZ"
@@ -35997,6 +35997,28 @@
     },
     {
       "album": {
+        "name": "UTCA",
+        "url": "https://open.spotify.com/album/2tmyUAUCLbtLKMekYCi6Y6"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162555,
+      "name": "UTCA",
+      "url": "https://open.spotify.com/track/1HKO552g5ZkCXubx3i3MwW"
+    },
+    {
+      "album": {
         "name": "utema",
         "url": "https://open.spotify.com/album/0QP8g8K8Njgn4xoWLJMUuF"
       },
@@ -37064,7 +37086,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 146581,
       "name": "vrumm",
       "url": "https://open.spotify.com/track/0al6QSMsKKdGqYcbr53p9y"

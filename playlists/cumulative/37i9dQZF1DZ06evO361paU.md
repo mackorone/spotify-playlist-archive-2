@@ -4,7 +4,7 @@
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-104 songs - 7 hr 28 min
+105 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Superlove](https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Superlove](https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s) | 5:22 | 2023-07-28 |  |
 | [Superlove](https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0) | 3:28 | 2023-07-28 | 2024-07-23 |
 | [Superlove](https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg) | 3:28 | 2025-07-30 |  |
-| [The Chamber](https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 4:57 | 2023-07-28 |  |
+| [The Chamber](https://open.spotify.com/track/357VHFTxGzgY8RXetnwjFB) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/3evSJzi5ghhXuPdmttKHNq) | 4:57 | 2026-10-02 |  |
+| [The Chamber](https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 4:57 | 2023-07-28 | 2026-10-02 |
 | [The Pleasure and the Pain](https://open.spotify.com/track/4Uv7n3pkpNhwhXqb9tnj3L) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 5:08 | 2023-07-28 | 2024-12-06 |
 | [Thinking Of You](https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 6:24 | 2023-07-28 |  |
 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 | 2023-11-10 | 2023-12-14 |

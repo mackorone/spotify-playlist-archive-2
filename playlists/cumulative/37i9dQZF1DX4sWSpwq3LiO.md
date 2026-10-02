@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,875 songs - 3 day 11 hr 4 min
+1,877 songs - 3 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,6 +750,7 @@
 | [Into You](https://open.spotify.com/track/2x7VhfaYeDayVZAmByMMWY) | [Lo Kee](https://open.spotify.com/artist/08uLNgUnd5EHzB8BfTJYUF) | [Into You](https://open.spotify.com/album/22DdZx94QQ8TRPQRxdDLi3) | 2:36 | 2020-01-22 | 2020-02-04 |
 | [Intro](https://open.spotify.com/track/4MFKi6VzidmH1V6TX86ihS) | [Black Elk](https://open.spotify.com/artist/3LruscMfdxyvqJpFzywkfb) | [Sparks](https://open.spotify.com/album/3vRpqnDd3wZgehe9VIqNqV) | 1:38 | 2019-05-26\* | 2020-02-11 |
 | [Introduction](https://open.spotify.com/track/0diC07Eo4mC897aC81dXhL) | [Austen Pugh](https://open.spotify.com/artist/1Sll42K9ij3OMAk7Hvdfnu) | [Introduction](https://open.spotify.com/album/78AyIUldRlmVdsIZnZbtmZ) | 2:15 | 2021-03-31 | 2021-12-16 |
+| [Introspection](https://open.spotify.com/track/3FcaSznqduNCvDmQOXF4aE) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Introspection](https://open.spotify.com/album/7BZ6Sdo0vSiolntOc2xTtk) | 2:20 | 2026-10-02 |  |
 | [inverno 1](https://open.spotify.com/track/4dHsrfybYMwR47LWYjLxR5) | [Sebastián Voyage](https://open.spotify.com/artist/6W70NZ4bj5yPSfEXH99JYN) | [inverno](https://open.spotify.com/album/1utXo2tIXx4QD4hxu7IiZC) | 2:00 | 2023-01-27 | 2024-11-19 |
 | [Iris Dreams](https://open.spotify.com/track/5J6F9xmKo1gTw5IUjVTOx8) | [Sander Von](https://open.spotify.com/artist/0RVOnkqRPANxZjA0PWhY6t) | [Iris Dreams](https://open.spotify.com/album/4ugFb5qHziqHnAHWG8GZ9v) | 2:21 | 2026-08-07 |  |
 | [Irremplaçable](https://open.spotify.com/track/00MXTIsUxrN8hf6CgN1d2E) | [Astride Perrot](https://open.spotify.com/artist/1zefY5hiDGobvYnnl9ZxVc) | [Irremplaçable](https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW) | 3:04 | 2021-03-31 | 2022-01-13 |
@@ -1603,6 +1604,7 @@
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2020-12-01 | 2021-05-06 |
 | [The Long Way Home](https://open.spotify.com/track/0as3Ar1l4C2iHxQhhy7GIS) | [Elio Esyro](https://open.spotify.com/artist/6pYzoU8lYhRzfHPGAJkVe6) | [The Long Way Home](https://open.spotify.com/album/7xPC0t2qN4l3dIrh8vfWTY) | 2:05 | 2026-04-10 |  |
 | [The Longer I Wait](https://open.spotify.com/track/0XCTZX036IzhP1ea8CrDK3) | [Max Arnolds](https://open.spotify.com/artist/272NYvyxL9shy4vUzsvz23) | [The Longer I Wait](https://open.spotify.com/album/0CFu4CUIMG864wkfuHilVs) | 1:56 | 2022-08-08 | 2023-11-21 |
+| [The Looking Glass](https://open.spotify.com/track/2Dvek7u6bKE9IY5Qu4l132) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [The Looking Glass](https://open.spotify.com/album/674Qk06OEafqD12pfPz035) | 2:29 | 2026-10-02 |  |
 | [The Meadows 草地](https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The Meadows 草地](https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE) | 2:50 | 2023-03-20 | 2024-11-19 |
 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 | 2022-05-26 | 2023-12-06 |
 | [The Milki Way](https://open.spotify.com/track/1U9YC9rH1hg3JmB9lbdjAE) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 2:50 | 2019-07-11 | 2020-02-11 |

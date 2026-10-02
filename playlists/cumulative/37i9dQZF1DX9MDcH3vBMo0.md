@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-869 songs - 1 day 13 hr 42 min
+870 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 | 2022-04-21 | 2022-07-21 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2022-04-21 | 2022-09-24 |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-04-21 | 2023-08-15 |
+| [Quietly Passing by](https://open.spotify.com/track/4Jnm2KH4hvLWeopJtn7Dd1) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Quietly Passing by](https://open.spotify.com/album/7rTBofqPnRM33AMX56ha86) | 2:19 | 2026-10-02 |  |
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2022-04-21 | 2024-04-04 |
 | [Randonnée](https://open.spotify.com/track/2HfRtKv9HU2e9PsLFRAjkD) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Randonnée](https://open.spotify.com/album/7C4KHUzQB4b6mvdEqEEgGI) | 3:29 | 2024-03-18 | 2025-05-31 |
 | [Rannoch Moor](https://open.spotify.com/track/5M9WoeUS6hg8b1YRWMFx0M) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Rannoch Moor](https://open.spotify.com/album/1kXMEkViaETUcA6KQNXuv4) | 1:56 | 2022-04-21 | 2023-02-10 |

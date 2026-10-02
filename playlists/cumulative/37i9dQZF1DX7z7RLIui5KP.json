@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Nadia Mukami",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Genes1s",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -1678,6 +1678,28 @@
       "duration_ms": 252151,
       "name": "FASHIONISTA",
       "url": "https://open.spotify.com/track/387CJRZISeYqKypquOhNoz"
+    },
+    {
+      "album": {
+        "name": "Faya Si Faya",
+        "url": "https://open.spotify.com/album/34rryyo8GCKDFZEJUUBZqV"
+      },
+      "artists": [
+        {
+          "name": "Genes1s",
+          "url": "https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e"
+        },
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Faya Si Faya",
+      "url": "https://open.spotify.com/track/3JU4MisE3OVTp5S6sG46WT"
     },
     {
       "album": {
@@ -4558,7 +4580,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 229493,
       "name": "NYONGI",
       "url": "https://open.spotify.com/track/5PUhfcbU3PutbBtikw34C9"
@@ -5606,7 +5628,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 231817,
       "name": "Sina Makosa",
       "url": "https://open.spotify.com/track/5I5camliIvJpAlTH1Qrnj7"
@@ -6064,6 +6086,32 @@
       "duration_ms": 169132,
       "name": "Tell Nobody",
       "url": "https://open.spotify.com/track/1r8IHxVIlMDvq2BNJjsLLy"
+    },
+    {
+      "album": {
+        "name": "Tempted",
+        "url": "https://open.spotify.com/album/5ND2bgSlt7e7lE0n1yhW0T"
+      },
+      "artists": [
+        {
+          "name": "2wentysixx",
+          "url": "https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h"
+        },
+        {
+          "name": "Gabbae",
+          "url": "https://open.spotify.com/artist/4PfHsJPWAK9UOCQ562F0Hx"
+        },
+        {
+          "name": "AUGUST IV",
+          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Tempted",
+      "url": "https://open.spotify.com/track/6hLL8wyNPr8KXM7dwnmFAS"
     },
     {
       "album": {
@@ -6848,7 +6896,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 152119,
       "name": "Weche Hera",
       "url": "https://open.spotify.com/track/6x5w3lfCGbc7sAuJxkxoiv"

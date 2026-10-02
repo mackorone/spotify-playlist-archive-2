@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: Parc Jae Jung \(박재정\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,848 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,871 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Please Love Her\(Please Love Him\)](https://open.spotify.com/track/7ozjdE531dnazYTQaI6DNd) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Please Love Her\(Please Love Him\)](https://open.spotify.com/album/1aamZu86MmmH49dIsrZPyu) | 4:00 |
 | 100 | [Every moment](https://open.spotify.com/track/4ncdVjGLTiZ6bu8FsBzApB) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0G1BMH6LPxLNeBBf55rsb1) | 3:14 |
 
-Snapshot ID: `AAAAAKFejm6y4PNejrgBhzs3w1+Hqov3`
+Snapshot ID: `AAAAAO4nd6n9Hd6OP9CAIMM+jwHoTmZg`

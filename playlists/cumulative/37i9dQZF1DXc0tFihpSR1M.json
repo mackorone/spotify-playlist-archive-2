@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Metropolen",
-  "name": "Ny Pop (3)",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Taylor Swift",
+  "name": "Ny Pop",
   "tracks": [
     {
       "album": {
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 153853,
       "name": "Difficult Love",
       "url": "https://open.spotify.com/track/0UDEtLcKGBU73D15u5g1r3"
@@ -2805,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "album": {
         "name": "Dream Out Loud",
         "url": "https://open.spotify.com/album/0AZ9wbbbM32nrzD8czHDwX"
       },
@@ -2842,7 +2864,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Drive Safe",
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
@@ -3452,7 +3474,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 187423,
       "name": "FINE PLACE TO DIE",
       "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
@@ -3670,7 +3692,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 233944,
       "name": "For Your Entertainment",
       "url": "https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um"
@@ -4544,7 +4566,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 261427,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
@@ -4688,7 +4710,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 186720,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
@@ -4728,7 +4750,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 158792,
       "name": "Heaven Baby (feat. ZAYN)",
       "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
@@ -5202,7 +5224,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
@@ -5730,7 +5752,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 197032,
       "name": "i deserve better.",
       "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
@@ -7042,7 +7064,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 233731,
       "name": "Livredd for \u00e5 bli glemt",
       "url": "https://open.spotify.com/track/18t5lCoaT5aOyETbGlXq8K"
@@ -7304,7 +7326,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 176887,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
@@ -7630,7 +7652,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 239333,
       "name": "Madwoman",
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
@@ -7958,7 +7980,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174000,
       "name": "Min bydel",
       "url": "https://open.spotify.com/track/3ZVNAnhDjk8GhTeFzaRjsp"
@@ -8052,7 +8074,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 243896,
       "name": "MORNING DEW (DONK)",
       "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
@@ -8322,7 +8344,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 182582,
       "name": "new trick",
       "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
@@ -8774,7 +8796,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 166666,
       "name": "On my way",
       "url": "https://open.spotify.com/track/0ng7JVEajDAc4oYzs2yqFY"
@@ -8954,7 +8976,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 201331,
       "name": "Party",
       "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
@@ -8976,6 +8998,24 @@
       "duration_ms": 159771,
       "name": "PASSENGER",
       "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "album": {
@@ -9106,7 +9146,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
@@ -9572,7 +9612,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 199166,
       "name": "RESCUER",
       "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
@@ -9774,7 +9814,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
@@ -10021,6 +10061,24 @@
     },
     {
       "album": {
+        "name": "Se meg",
+        "url": "https://open.spotify.com/album/4ObGqZJA2pYD7VX0gx4DZg"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162644,
+      "name": "Se meg",
+      "url": "https://open.spotify.com/track/5HQifT2YhSsdems4YipbAC"
+    },
+    {
+      "album": {
         "name": "SEES IGJEN",
         "url": "https://open.spotify.com/album/0ouuDuGD9Jn8D8i4dHbxcD"
       },
@@ -10162,7 +10220,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 254026,
       "name": "She\u2019s the Best",
       "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
@@ -11022,7 +11080,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 187265,
       "name": "Summer You Were Mine",
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
@@ -11562,7 +11620,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176876,
       "name": "THAT GIRL",
       "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
@@ -12858,7 +12916,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178334,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
@@ -12894,7 +12952,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 175555,
       "name": "Watch It Burn",
       "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,661,410 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,661,634 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 14 | [AVANGARD \- Slowed](https://open.spotify.com/track/1EPi3TSB6vGbGQ4IHVpxco) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD \(Slowed\)](https://open.spotify.com/album/5n9EF7hP2GRMiklzLpPY0E) | 3:19 |
 | 15 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 |
 | 16 | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv) | 2:06 |
-| 17 | [Sem Tempo \- Super Slowed](https://open.spotify.com/track/780ZnY2NatxOl1olIhXSF9) | [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb) | [Sem Tempo](https://open.spotify.com/album/6uglHzHW6I7Byh9WXHH8bc) | 2:00 |
-| 18 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
+| 17 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
+| 18 | [Sem Tempo \- Super Slowed](https://open.spotify.com/track/780ZnY2NatxOl1olIhXSF9) | [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb) | [Sem Tempo](https://open.spotify.com/album/6uglHzHW6I7Byh9WXHH8bc) | 2:00 |
 | 19 | [Sleepwalker \- Slowed](https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Sleepwalker \(Slowed\)](https://open.spotify.com/album/2EAUAqdIVckKAPCCT0hAQg) | 4:18 |
 | 20 | [Nevada \- Slowed + Reverb](https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik) | 4:31 |
 | 21 | [CLEARED \- Remix \(Slowed\)](https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [CLEARED \- Remix \(Slowed / Sped Up\)](https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH) | 2:47 |

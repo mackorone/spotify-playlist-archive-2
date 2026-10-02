@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 18290,
+  "num_followers": 18295,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAC0fJelJ8h3j5LARvwfO7CM",
+  "snapshot_id": "arxRAAAAAABctqoGRlM0G7wVLAfNB7fv",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "The Way It Is - Remastered 2017",
-      "url": "https://open.spotify.com/track/5zt0PxcezbJTGgcZwzMz0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rules of the Road",
         "url": "https://open.spotify.com/album/4sVCJ30mcb8ZoyAL8sANyW"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 191000,
       "name": "Cunnamulla Feller - Remastered 2017",
       "url": "https://open.spotify.com/track/1wmhQHJmtJIQmwPAOdMrJi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "The Way It Is - Remastered 2017",
+      "url": "https://open.spotify.com/track/5zt0PxcezbJTGgcZwzMz0A"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Australian Boy - Remastered 2017",
-      "url": "https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 205000,
       "name": "Flying with the King",
       "url": "https://open.spotify.com/track/0Yxgs1oL6uUAIthO962wzm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Australian Boy - Remastered 2017",
+      "url": "https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH"
     },
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 161875,
-      "name": "Dumb Things",
-      "url": "https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backroad Nation",
         "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 185345,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/4aBX6LjEPOo7DVyxNJvREr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 161875,
+      "name": "Dumb Things",
+      "url": "https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L"
     },
     {
       "added_at": null,
@@ -359,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm Of The Highway (Tamworth Edition)",
+        "url": "https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm"
+      },
+      "artists": [
+        {
+          "name": "Travis Sinclair",
+          "url": "https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "I'm From The Country",
+      "url": "https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 226446,
       "name": "Walk a Country Mile",
       "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm Of The Highway (Tamworth Edition)",
-        "url": "https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm"
-      },
-      "artists": [
-        {
-          "name": "Travis Sinclair",
-          "url": "https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "I'm From The Country",
-      "url": "https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Beautiful Noise",
-      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
+      "duration_ms": 188960,
+      "name": "Cowgirls Do - Remastered 2017",
+      "url": "https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hat Town",
-        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
       "artists": [
         {
@@ -672,25 +672,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Cowgirls Do - Remastered 2017",
-      "url": "https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 171704,
-      "name": "Drive On",
-      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
+      "duration_ms": 204746,
+      "name": "Beautiful Noise",
+      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 234400,
       "name": "Country Crowd - Remastered 2017",
       "url": "https://open.spotify.com/track/11zQvjFccpnImml13XWNdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 171704,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "'Cause I'm Country - Remastered 2017",
-      "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 186933,
       "name": "Skinny Dippin' - Remastered 2017",
       "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Electric Rodeo - Remastered 2017",
+      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 260426,
-      "name": "Electric Rodeo - Remastered 2017",
-      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
+      "duration_ms": 254800,
+      "name": "'Cause I'm Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
     },
     {
       "added_at": null,

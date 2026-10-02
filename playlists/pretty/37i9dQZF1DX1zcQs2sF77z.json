@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 300949,
+  "num_followers": 301002,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
+        "name": "Mr. Vain",
+        "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "Mr. Vain - Original Radio Edit",
+      "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
-        "name": "Mr. Vain",
-        "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "Mr. Vain - Original Radio Edit",
-      "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
     },
     {
       "added_at": "2025-12-19 16:17:24",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
+      },
+      "artists": [
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/2eEnzl61veDi3zQylslIap"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
-      },
-      "artists": [
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
-      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
     },
     {
       "added_at": "2025-12-19 16:17:24",

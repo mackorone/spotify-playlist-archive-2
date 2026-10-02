@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Motel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,785 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,800 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 51 | [Despertar](https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Despertar](https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4) | 3:35 |
 | 52 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
 | 53 | [Sombra](https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [MAPAS II](https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0) | 3:43 |
-| 54 | [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 |
-| 55 | [Hagamos Que](https://open.spotify.com/track/6dERO18avM16kki5aCjTkb) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Hagamos Que](https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC) | 2:58 |
+| 54 | [Hagamos Que](https://open.spotify.com/track/6dERO18avM16kki5aCjTkb) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Hagamos Que](https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC) | 2:58 |
+| 55 | [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 |
 | 56 | [Antes Que Me Vaya](https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Antes Que Me Vaya](https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ) | 3:26 |
 | 57 | [Perfecto Final](https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Perfecto Final](https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx) | 3:26 |
 | 58 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
 | 59 | [No Volveré </3](https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [No Volveré </3](https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL) | 2:51 |
 | 60 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
 | 61 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
-| 62 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
-| 63 | [Vivos](https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Vivos](https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p) | 3:46 |
+| 62 | [Vivos](https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Vivos](https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p) | 3:46 |
+| 63 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
 | 64 | [El Reloj Me Miente](https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Reloj Me Miente](https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk) | 3:43 |
 | 65 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
 | 66 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |

@@ -1,13 +1,45 @@
 {
-  "description": "a little indie, a little pop, soda featuring Henry Morris",
-  "num_followers": 228408,
+  "description": "a little indie, a little pop, soda featuring Knox",
+  "num_followers": 228411,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN+wXD36X4n1JiObvbSGbqHop5tk",
+  "snapshot_id": "AAAAAGR+c88Cg7IswAwjsu+9TceUBhPe",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:02:37",
+      "album": {
+        "name": "My Midwest Best",
+        "url": "https://open.spotify.com/album/7dk59UXUbGolU6WYsNz1N9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/5MrsWtJVzVfMQ5hWCt4BzZ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:37",
+      "album": {
+        "name": "Fake ID",
+        "url": "https://open.spotify.com/album/1XVbSyxsxSAieByFoNXQ4z"
+      },
+      "artists": [
+        {
+          "name": "VERNIER",
+          "url": "https://open.spotify.com/artist/0y80wjp0iuR020GTfOlbo4"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Fake ID",
+      "url": "https://open.spotify.com/track/611GnFHMSAt1EGujPOy6Kf"
+    },
     {
       "added_at": "2026-09-18 04:17:46",
       "album": {
@@ -135,22 +167,6 @@
       "duration_ms": 174334,
       "name": "Sorry Much",
       "url": "https://open.spotify.com/track/31kc2aRTsb1TwByv2Zd3RC"
-    },
-    {
-      "added_at": "2026-09-18 04:17:46",
-      "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 175037,
-      "name": "Better Than Me",
-      "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
     },
     {
       "added_at": "2026-09-11 04:20:28",
@@ -527,22 +543,6 @@
       "duration_ms": 159171,
       "name": "That's a Year",
       "url": "https://open.spotify.com/track/0kZM3WMqxlJiIU43CkASer"
-    },
-    {
-      "added_at": "2026-07-10 04:02:28",
-      "album": {
-        "name": "After The After Party",
-        "url": "https://open.spotify.com/album/5VEefYsBGDmyaHJzFfDrMj"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 172135,
-      "name": "After The After Party",
-      "url": "https://open.spotify.com/track/0dYCy1JawuXIRXUuAkeFQj"
     },
     {
       "added_at": "2026-07-24 04:02:41",

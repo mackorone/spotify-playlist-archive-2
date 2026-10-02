@@ -1,6 +1,6 @@
 {
   "description": "El Malo del Bronx y su legado siempre estar\u00e1n presentes. DEP, Willie Col\u00f3n. ",
-  "num_followers": 429776,
+  "num_followers": 429784,
   "original_name": "Willie Col\u00f3n Por Siempre",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
+        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Polo Monta\u00f1es",
+          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Un Sue\u00f1o Y Nada Mas",
+      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
         "name": "B\u00fascame",
         "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 267416,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
-        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
-      },
-      "artists": [
-        {
-          "name": "Grupo Polo Monta\u00f1es",
-          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "Un Sue\u00f1o Y Nada Mas",
-      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 292653,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
         "name": "Nuestro Aniversario",
         "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
       },
@@ -1039,22 +1023,18 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
       "artists": [
         {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 293067,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
+      "duration_ms": 292653,
+      "name": "Mi Media Mitad",
+      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
         }
       ],
-      "duration_ms": 333226,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
+      "duration_ms": 293067,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1119,6 +1103,22 @@
       "duration_ms": 301373,
       "name": "Y No Hago Mas Na'",
       "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 333226,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+        "name": "40 Artistas Y Sus Super Exitos",
+        "url": "https://open.spotify.com/album/40NLX6PJuMX9BU7WZkImIF"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 295640,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
+      "duration_ms": 281840,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/0aT7slkUrMMGqe4ZVogNdy"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "40 Artistas Y Sus Super Exitos",
-        "url": "https://open.spotify.com/album/40NLX6PJuMX9BU7WZkImIF"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 281840,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/0aT7slkUrMMGqe4ZVogNdy"
+      "duration_ms": 295640,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 298346,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 305053,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 298346,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 311760,
+      "name": "Seda",
+      "url": "https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 311760,
-      "name": "Seda",
-      "url": "https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF"
     },
     {
       "added_at": "2026-02-23 19:56:34",

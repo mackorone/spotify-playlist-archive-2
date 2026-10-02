@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Roxie",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Jasiek Piwowarczyk",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -224,10 +224,28 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176202,
       "name": "A gdyby\u015b tak",
       "url": "https://open.spotify.com/track/4BzFdcTwgAV1Aouqs5Pqj2"
+    },
+    {
+      "album": {
+        "name": "A Jak",
+        "url": "https://open.spotify.com/album/79uqUDVizofi4IsC8tXNgw"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158783,
+      "name": "A Jak",
+      "url": "https://open.spotify.com/track/1IJIUgWX5Z4WTXz7S7CMB6"
     },
     {
       "album": {
@@ -268,6 +286,24 @@
       "duration_ms": 161656,
       "name": "A Nu\u017c",
       "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
+    },
+    {
+      "album": {
+        "name": "A2",
+        "url": "https://open.spotify.com/album/1j4NyStUaoif2pPqvC7NYB"
+      },
+      "artists": [
+        {
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "A2",
+      "url": "https://open.spotify.com/track/2Rp3DxWW6buNBK55yJGlDa"
     },
     {
       "album": {
@@ -326,7 +362,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 151875,
       "name": "AIOLI",
       "url": "https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ"
@@ -1338,7 +1374,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 186894,
       "name": "BINGO",
       "url": "https://open.spotify.com/track/2wGVE0g9O1W0y5qn1dhxWc"
@@ -2515,6 +2551,28 @@
     },
     {
       "album": {
+        "name": "Kr\u00f3tkie historie o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/50aXF0h2XmeO7w583rbmHt"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        },
+        {
+          "name": "Wiktor Dydu\u0142a",
+          "url": "https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193330,
+      "name": "Ci\u0105gle znajduj\u0119 twoje ubrania",
+      "url": "https://open.spotify.com/track/3D22IVr0ElopJA9bLUijD4"
+    },
+    {
+      "album": {
         "name": "Co chc\u0119, to mam",
         "url": "https://open.spotify.com/album/0YIWD4DhUgHRNaz0ub1tW1"
       },
@@ -2960,6 +3018,24 @@
       "duration_ms": 171063,
       "name": "Czere\u015bnie",
       "url": "https://open.spotify.com/track/5UiQQZALNKpofBDXzpRcfp"
+    },
+    {
+      "album": {
+        "name": "Drill Folk",
+        "url": "https://open.spotify.com/album/30CEM4tJv7Cff1kprF37Po"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "Czerwone Jagody Drill",
+      "url": "https://open.spotify.com/track/74i4GgniXU6t2mWh2etXjz"
     },
     {
       "album": {
@@ -3986,7 +4062,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 164776,
       "name": "DON JULIO",
       "url": "https://open.spotify.com/track/5540G3oL3tJVuL6zF1trC6"
@@ -4975,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "Fotografie",
+        "url": "https://open.spotify.com/album/1nPvb1iJbhfl9xjbiHsDvj"
+      },
+      "artists": [
+        {
+          "name": "Antek Smykiewicz",
+          "url": "https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182166,
+      "name": "Fotografie",
+      "url": "https://open.spotify.com/track/2nCn20SyQzdAyfF3PXch7k"
+    },
+    {
+      "album": {
         "name": "Casting / Fuckboy",
         "url": "https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4"
       },
@@ -5398,6 +5492,24 @@
       "duration_ms": 144000,
       "name": "Go\u0142\u0119bie",
       "url": "https://open.spotify.com/track/3bRmywq8MvSkeAHB3GrUUC"
+    },
+    {
+      "album": {
+        "name": "Gra (Radio Edit)",
+        "url": "https://open.spotify.com/album/4kauFXav7sG5tIuc1sSBJz"
+      },
+      "artists": [
+        {
+          "name": "Gosia Andrzejewicz",
+          "url": "https://open.spotify.com/artist/2yBf6Fa7M4au47AL1u1N7r"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155328,
+      "name": "Gra - Radio Edit",
+      "url": "https://open.spotify.com/track/4nsECoywt0kNWIKXruoWGT"
     },
     {
       "album": {
@@ -6357,6 +6469,28 @@
     },
     {
       "album": {
+        "name": "Jak my - z filmu \u201eNasza rewolucja\u201d",
+        "url": "https://open.spotify.com/album/716b7TQh18uiQ98HZsqA30"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        },
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223340,
+      "name": "Jak my - z filmu \u201eNasza rewolucja\u201d",
+      "url": "https://open.spotify.com/track/2rvtG0aAmZoOChMWSzoEZy"
+    },
+    {
+      "album": {
         "name": "Jak si\u0119 masz?",
         "url": "https://open.spotify.com/album/7tVBD8s3hArTYpLBr5WLlH"
       },
@@ -6744,7 +6878,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 166161,
       "name": "just a girl",
       "url": "https://open.spotify.com/track/5j5FlA1FgfPBwgiFzenRh8"
@@ -6842,7 +6976,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 241455,
       "name": "Kapitan",
       "url": "https://open.spotify.com/track/4GYQHVcBMGRl6Vo2Zlc6fV"
@@ -8450,7 +8584,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 154545,
       "name": "Lubi\u0119",
       "url": "https://open.spotify.com/track/649HjW6EistRBhaQqucXx3"
@@ -9299,6 +9433,24 @@
     },
     {
       "album": {
+        "name": "Chcia\u0142bym urodzi\u0107 si\u0119 \u017ceby lata\u0142em",
+        "url": "https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a"
+      },
+      "artists": [
+        {
+          "name": "Artur Rojek",
+          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166730,
+      "name": "Mirafiori",
+      "url": "https://open.spotify.com/track/27GxphRF6H3OJOFy5WSLBi"
+    },
+    {
+      "album": {
         "name": "Miss Dior",
         "url": "https://open.spotify.com/album/6zYAuHh481ES1KOoptEQtQ"
       },
@@ -9742,7 +9894,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 159529,
       "name": "mo\u017cemorze",
       "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
@@ -11342,7 +11494,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 190879,
       "name": "Nie umiem kocha\u0107",
       "url": "https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4"
@@ -13339,6 +13491,28 @@
     },
     {
       "album": {
+        "name": "Plastik",
+        "url": "https://open.spotify.com/album/14UOnnKsFKk3d0qlUJDd77"
+      },
+      "artists": [
+        {
+          "name": "Ochman",
+          "url": "https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc"
+        },
+        {
+          "name": "Wszystko Dobrze",
+          "url": "https://open.spotify.com/artist/4jbnVQmPS4n3OBGlMy0H6x"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149009,
+      "name": "Plastik",
+      "url": "https://open.spotify.com/track/3WbylUSxR98O5mlqpS3UQQ"
+    },
+    {
+      "album": {
         "name": "Pla\u017ca i randka?!",
         "url": "https://open.spotify.com/album/2anfCazuuvEQzpMpotJrX6"
       },
@@ -15306,7 +15480,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 181700,
       "name": "sezon",
       "url": "https://open.spotify.com/track/5CvvWZp4Lsw97zYMg30PyL"
@@ -16385,6 +16559,24 @@
     },
     {
       "album": {
+        "name": "Po\u0142udnie",
+        "url": "https://open.spotify.com/album/682aI8kCrCpjITb2VV69hn"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "Tak bym chcia\u0142...",
+      "url": "https://open.spotify.com/track/3mbVuvuQQC9LLzvgSIHsbg"
+    },
+    {
+      "album": {
         "name": "Tak czy siak",
         "url": "https://open.spotify.com/album/4qk8WffGXUhMLh9xnawJuh"
       },
@@ -16754,7 +16946,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 173454,
       "name": "Ta\u0144cz i kochaj",
       "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
@@ -19674,7 +19866,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 197647,
       "name": "Zabierz mnie",
       "url": "https://open.spotify.com/track/3l4SiHIrsbFqVW1xjWZk6W"
@@ -19802,6 +19994,28 @@
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/5QBDROatL8ZMsXRTsZQXnc"
+    },
+    {
+      "album": {
+        "name": "Zanim Znikniesz",
+        "url": "https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew"
+      },
+      "artists": [
+        {
+          "name": "DJ Adamus",
+          "url": "https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt"
+        },
+        {
+          "name": "Kayomee",
+          "url": "https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186310,
+      "name": "Zanim Znikniesz",
+      "url": "https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv"
     },
     {
       "album": {
@@ -20574,6 +20788,24 @@
       "duration_ms": 253551,
       "name": "Z\u0142y, najgorszy sen",
       "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
+    },
+    {
+      "album": {
+        "name": "\u0106ma",
+        "url": "https://open.spotify.com/album/752dJX2tObnNhUP27eTsXT"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210151,
+      "name": "\u0106ma",
+      "url": "https://open.spotify.com/track/6SUKuGQeaGwac3lCt1c86N"
     },
     {
       "album": {

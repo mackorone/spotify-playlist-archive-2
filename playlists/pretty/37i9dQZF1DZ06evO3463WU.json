@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 161184,
+  "num_followers": 161209,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACyLoU3oqxMoE4zG5mgrpzA",
+  "snapshot_id": "arxRAAAAAADgVXGK1nUZ3zag+C0q4QTz",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "Ignoraste Mis L\u00e1grimas - Remastered 2025",
+      "url": "https://open.spotify.com/track/2bruhtOHnKcHjdEPV9jDGi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 2)",
         "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 177023,
-      "name": "Ignoraste Mis L\u00e1grimas - Remastered 2025",
-      "url": "https://open.spotify.com/track/2bruhtOHnKcHjdEPV9jDGi"
     },
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Amor Y Mi Agon\u00eda",
+        "url": "https://open.spotify.com/album/2JHN0HfZIzbrJfIWqp4TqJ"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 173928,
+      "name": "Mi Amor Y Mi Agon\u00eda",
+      "url": "https://open.spotify.com/track/4cCHoIZovhZO9u6kzTPrE1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Consentidas De Pancho Barraza",
         "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
       },
@@ -271,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Amor Y Mi Agon\u00eda",
-        "url": "https://open.spotify.com/album/2JHN0HfZIzbrJfIWqp4TqJ"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 173928,
-      "name": "Mi Amor Y Mi Agon\u00eda",
-      "url": "https://open.spotify.com/track/4cCHoIZovhZO9u6kzTPrE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuenta Conmigo",
         "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
       },
@@ -303,6 +303,22 @@
       "duration_ms": 251994,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Terco",
+        "url": "https://open.spotify.com/album/1NqMUNU9QxwLQNFKxeca1g"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "El Terco",
+      "url": "https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl"
     },
     {
       "added_at": null,
@@ -343,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Terco",
-        "url": "https://open.spotify.com/album/1NqMUNU9QxwLQNFKxeca1g"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "El Terco",
-      "url": "https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Fuerte Que Nunca",
         "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
       },
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 182613,
-      "name": "Te Amo Y Te Lo Digo",
-      "url": "https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt"
+      "duration_ms": 209374,
+      "name": "Adi\u00f3s Mi Vida",
+      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 209374,
-      "name": "Adi\u00f3s Mi Vida",
-      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
+      "duration_ms": 182613,
+      "name": "Te Amo Y Te Lo Digo",
+      "url": "https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt"
     },
     {
       "added_at": null,
@@ -616,29 +616,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 145786,
-      "name": "El Vagabundo Que Te Ama",
-      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Mi Enemigo El Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
+      "duration_ms": 213774,
+      "name": "Por Amor Y Fe",
+      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
     },
     {
       "added_at": null,
@@ -655,6 +635,26 @@
       "duration_ms": 179520,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superlameando",
+        "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Pero La Recuerdo",
+      "url": "https://open.spotify.com/track/19nz2CtctKQRKpOdPHbjzM"
     },
     {
       "added_at": null,
@@ -684,29 +684,29 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 213774,
-      "name": "Por Amor Y Fe",
-      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
+      "duration_ms": 145786,
+      "name": "El Vagabundo Que Te Ama",
+      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Superlameando",
-        "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
       "artists": [
         {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 227240,
-      "name": "Pero La Recuerdo",
-      "url": "https://open.spotify.com/track/19nz2CtctKQRKpOdPHbjzM"
+      "duration_ms": 234093,
+      "name": "Mi Enemigo El Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pap\u00e1 Soltero",
+        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Amor Que Mata",
+      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 167986,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pap\u00e1 Soltero",
-        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Amor Que Mata",
-      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Cien Por Ciento Sincero",
-      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) [Banda]",
         "url": "https://open.spotify.com/album/4J1HHM3K8s6iBq8bsrG1EK"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 218493,
       "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) - Banda",
       "url": "https://open.spotify.com/track/2sr9me0DSRx58cJS7NFa8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Cien Por Ciento Sincero",
+      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
     },
     {
       "added_at": null,

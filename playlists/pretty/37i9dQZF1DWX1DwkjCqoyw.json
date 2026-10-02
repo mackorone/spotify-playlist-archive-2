@@ -1,6 +1,6 @@
 {
   "description": "Inspired by the islands and into the mainstream. Cover: Destin Conrad",
-  "num_followers": 644707,
+  "num_followers": 644698,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "Out Of This World",
-        "url": "https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Out Of This World",
-      "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
-    },
-    {
-      "added_at": "2026-07-02 23:00:30",
-      "album": {
         "name": "Party Girls (feat. Buju Banton)",
         "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 243094,
       "name": "Party Girls (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
+    },
+    {
+      "added_at": "2026-07-02 23:00:30",
+      "album": {
+        "name": "Out Of This World",
+        "url": "https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Out Of This World",
+      "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
     },
     {
       "added_at": "2026-07-02 23:00:30",

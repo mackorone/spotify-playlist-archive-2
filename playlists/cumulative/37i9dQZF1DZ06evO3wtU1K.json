@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Tasha Unscripted",
+        "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229212,
+      "name": "An Unscripted Moment",
+      "url": "https://open.spotify.com/track/1jKu0tODuzxkz6FcCcltFn"
+    },
+    {
+      "album": {
         "name": "Jesus Over Everything (Live In Las Vegas)",
         "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
       },
@@ -2276,7 +2298,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 130272,
       "name": "The Grace Talk",
       "url": "https://open.spotify.com/track/2hJl7eUoDtCyiOpNpDGqY4"

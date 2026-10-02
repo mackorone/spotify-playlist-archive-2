@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,196 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,197 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 4 | [Zwoele Zomernachten](https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zwoele Zomernachten](https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT) | 3:15 |
 | 5 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
 | 6 | [BOEM!](https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [BOEM!](https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo) | 2:24 |
-| 7 | [So Incredible](https://open.spotify.com/track/1aYBIcbgnye5b0MjcYXoou) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [So Incredible](https://open.spotify.com/album/7vT9FjutoZJ6stgHxouGaa) | 2:57 |
+| 7 | [So Incredible](https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Incredible](https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA) | 2:57 |
 | 8 | [Anne](https://open.spotify.com/track/5GMVfVehF38Nnvk9onA6zH) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Bizzey\)](https://open.spotify.com/album/1URzOTxuNcgHnAzQkRST9P) | 1:45 |
 | 9 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
 | 10 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Mi Chico \- Official \- Jason Derulo x Melody](https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mi Chico \(Official \- Jason Derulo x Melody\)](https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3) | 2:05 |
 | 50 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 |
 
-Snapshot ID: `MlCN4AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlHfYAAAAAAAAAAAAAAAAAAAAAAAAGVu`

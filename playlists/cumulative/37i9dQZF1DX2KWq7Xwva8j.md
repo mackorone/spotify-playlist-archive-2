@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí, con nuestra nueva promoción\. Foto: Alcalá Norte.
+> El futuro ya está aquí, con nuestra nueva promoción\. Foto: El Bobo de las 3000.
 
-348 songs - 17 hr 0 min
+350 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Quiero Bailar](https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Quiero Bailar](https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g) | 2:52 | 2022-06-06 | 2023-02-22 |
 | [Quiero Hacer Música](https://open.spotify.com/track/27nKYS2p0HAgljPBbUU2Na) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/6OsTttfterE13ijlEOTWPZ) | 3:20 | 2025-03-03 | 2026-03-19 |
 | [Quiero Q Me Tatúes](https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [Quiero Q Me Tatúes](https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA) | 2:30 | 2023-05-19 | 2024-02-07 |
+| [Qué Hay Más Grande Que Este Amor](https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila / Qué Hay Más Grande Que Este Amor](https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG) | 5:58 | 2026-10-01 |  |
 | [qué voy a hacer](https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [qué voy a hacer](https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L) | 3:05 | 2023-02-07 | 2024-02-07 |
 | [qué voy a hacer](https://open.spotify.com/track/30DkvLu9N0LFqnW30cSSgi) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [SUERTE, CHICA](https://open.spotify.com/album/7wEZoRihqkS2JgKsvAewnQ) | 3:05 | 2024-02-06 | 2025-03-04 |
 | [raro](https://open.spotify.com/track/2MxxKlsVnSJnqYVG0BZJez) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [raro](https://open.spotify.com/album/2x01yTxxxkH2ihoC4pdMro) | 2:25 | 2021-12-31 | 2022-02-25 |
@@ -315,6 +316,7 @@
 | [T'enxules](https://open.spotify.com/track/4nvcsK1OktR14NLO1LxJPC) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.II : EUGA DE NIT](https://open.spotify.com/album/1cTRqFtdSOrfhAl5VygR5E) | 2:44 | 2025-03-03 | 2026-03-19 |
 | [Tan vacío \(feat\. Hens\)](https://open.spotify.com/track/7l61FJ2XoYVzJ7ybmwJ0fg) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Tan vacío \(feat\. Hens\)](https://open.spotify.com/album/4Jsv9saADsu5ASaAfItVSv) | 2:38 | 2021-12-31 | 2022-04-01 |
 | [Taxi](https://open.spotify.com/track/5d8jEQ6AFvwJQC0VWmJPrh) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Taxi](https://open.spotify.com/album/2mtpU3ZYRWk6oBTsYj2DQx) | 2:57 | 2025-03-27 | 2026-03-19 |
+| [Te Esperaré](https://open.spotify.com/track/7cUOiUPXAYAL0S0O3lL9QY) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Volviendo a Nacer](https://open.spotify.com/album/4Yq59p8hTg1AEitTPp2za1) | 4:08 | 2026-10-01 |  |
 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 | 2024-02-06 | 2025-03-04 |
 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 | 2023-03-01 | 2025-03-04 |
 | [TOTO DE LOCA](https://open.spotify.com/track/1BHscyZF6ZHx534gxTsjPe) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [Neofita](https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp) | 3:00 | 2026-03-18 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 103096,
+  "num_followers": 103110,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -627,8 +627,8 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Chante ap ret chante",
-        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+        "name": "Rap ap rete Rap",
+        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
       },
       "artists": [
         {
@@ -636,13 +636,21 @@
           "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
         },
         {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+          "name": "Medjy",
+          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
+        },
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        },
+        {
+          "name": "Steves J Bryan",
+          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
         }
       ],
-      "duration_ms": 253208,
-      "name": "Bay Vag",
-      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+      "duration_ms": 236923,
+      "name": "Si Yo Vle",
+      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -735,8 +743,8 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Rap ap rete Rap",
-        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
       },
       "artists": [
         {
@@ -744,21 +752,13 @@
           "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
         },
         {
-          "name": "Medjy",
-          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
-        },
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        },
-        {
-          "name": "Steves J Bryan",
-          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
         }
       ],
-      "duration_ms": 236923,
-      "name": "Si Yo Vle",
-      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Lakou",
-        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
+        "name": "Ogou (Pran Ka Mwen)",
+        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
       },
       "artists": [
         {
-          "name": "Tafa Mi-Soleil",
-          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
         }
       ],
-      "duration_ms": 192941,
-      "name": "Lakou",
-      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
+      "duration_ms": 296666,
+      "name": "Ogou (Pran Ka Mwen)",
+      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1155,22 +1159,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Ogou (Pran Ka Mwen)",
-        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
+        "name": "Lakou",
+        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "Tafa Mi-Soleil",
+          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
         }
       ],
-      "duration_ms": 296666,
-      "name": "Ogou (Pran Ka Mwen)",
-      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
+      "duration_ms": 192941,
+      "name": "Lakou",
+      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1455,42 +1455,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Se Ou M Chwazi",
-        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
-      },
-      "artists": [
-        {
-          "name": "D-Singer",
-          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
-        },
-        {
-          "name": "Rob Vital",
-          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
-        }
-      ],
-      "duration_ms": 218191,
-      "name": "Se Ou M Chwazi",
-      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Tou Limen",
-      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "10 IS IT",
         "url": "https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU"
       },
@@ -1511,6 +1475,42 @@
       "duration_ms": 229341,
       "name": "Valide",
       "url": "https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Tou Limen",
+      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Se Ou M Chwazi",
+        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+      },
+      "artists": [
+        {
+          "name": "D-Singer",
+          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
+        },
+        {
+          "name": "Rob Vital",
+          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+        }
+      ],
+      "duration_ms": 218191,
+      "name": "Se Ou M Chwazi",
+      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
+      },
+      "artists": [
+        {
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+        },
+        {
+          "name": "Spectrum the Originator",
+          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
+        }
+      ],
+      "duration_ms": 166008,
+      "name": "Wine Pon Me - Remix",
+      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7"
       },
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
-      },
-      "artists": [
-        {
-          "name": "J. Sevad",
-          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
-        },
-        {
-          "name": "Spectrum the Originator",
-          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
-        }
-      ],
-      "duration_ms": 166008,
-      "name": "Wine Pon Me - Remix",
-      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Sol\u00e8y Midi",
         "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
       },
@@ -1835,22 +1835,6 @@
       "duration_ms": 229205,
       "name": "Sol\u00e8y Midi",
       "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Fete Nap Fete Ti Babas (Live)",
-        "url": "https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml"
-      },
-      "artists": [
-        {
-          "name": "Haitian sky",
-          "url": "https://open.spotify.com/artist/6GWK0aG3Hq8YSopy1milwv"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Fete Nap Fete Ti Babas - Live",
-      "url": "https://open.spotify.com/track/3uz0KBWrclYlVgSgfC2tue"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1875,22 +1859,38 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "DILEMMA",
-        "url": "https://open.spotify.com/album/7asSYtN8VUWMJiBK6tCw4H"
+        "name": "Fete Nap Fete Ti Babas (Live)",
+        "url": "https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml"
       },
       "artists": [
         {
-          "name": "Dave Casseus",
-          "url": "https://open.spotify.com/artist/6M0ExvsS8reHN5VKnqy1Eu"
-        },
-        {
-          "name": "Phanuel",
-          "url": "https://open.spotify.com/artist/25wDxLvG5zX7B00AR6mhA4"
+          "name": "Haitian sky",
+          "url": "https://open.spotify.com/artist/6GWK0aG3Hq8YSopy1milwv"
         }
       ],
-      "duration_ms": 148650,
-      "name": "DILEMMA",
-      "url": "https://open.spotify.com/track/66hJl21lRutbfOCcELoS1R"
+      "duration_ms": 190333,
+      "name": "Fete Nap Fete Ti Babas - Live",
+      "url": "https://open.spotify.com/track/3uz0KBWrclYlVgSgfC2tue"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
+      },
+      "artists": [
+        {
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+        },
+        {
+          "name": "BlecksFlex",
+          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
+        }
+      ],
+      "duration_ms": 164607,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
     }
   ],
   "unique_name": "Haitian Heat",

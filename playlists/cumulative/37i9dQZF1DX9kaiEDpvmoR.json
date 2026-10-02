@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Ain't Built For Leaving",
+        "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212442,
+      "name": "Ain't Built For Leaving",
+      "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
+    },
+    {
+      "album": {
         "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
       },
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 234360,
       "name": "Blindg\u00e5ngare",
       "url": "https://open.spotify.com/track/100mfCn33NMGrzd2L7Tr5L"
@@ -5108,7 +5126,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 251000,
       "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
       "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
@@ -6376,7 +6394,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 300360,
       "name": "Losin' Kind - Nebraska Outtakes",
       "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
@@ -6496,6 +6514,24 @@
       "duration_ms": 221416,
       "name": "Lukas, Dennis och Farsan",
       "url": "https://open.spotify.com/track/5GgwN0GRRi3z7uftDPS5MK"
+    },
+    {
+      "album": {
+        "name": "LYS",
+        "url": "https://open.spotify.com/album/624OBpuQPED3Y7nPwEPAuz"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182602,
+      "name": "LYS",
+      "url": "https://open.spotify.com/track/1nno9CRqizBhln1kEsDFPi"
     },
     {
       "album": {
@@ -7060,6 +7096,24 @@
       "duration_ms": 142600,
       "name": "Mitt i min stad",
       "url": "https://open.spotify.com/track/2a3FwtpaCCz8WkQVKRUrPn"
+    },
+    {
+      "album": {
+        "name": "Moderna tider",
+        "url": "https://open.spotify.com/album/1d3a5sjYx3iiaDffKC1BJl"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273253,
+      "name": "Moderna tider",
+      "url": "https://open.spotify.com/track/1TR2P4Q2GeMdQd3EBQL9zZ"
     },
     {
       "album": {
@@ -8038,6 +8092,24 @@
       "duration_ms": 299861,
       "name": "Pl\u00e5ster",
       "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+    },
+    {
+      "album": {
+        "name": "Potatisl\u00e5ten",
+        "url": "https://open.spotify.com/album/3XQrZRQ3RbvkinNLcbpIZf"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "Potatisl\u00e5ten",
+      "url": "https://open.spotify.com/track/4qxLriw41OHdEa6HaDwFf9"
     },
     {
       "album": {
@@ -11644,7 +11716,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 288020,
       "name": "You",
       "url": "https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M"

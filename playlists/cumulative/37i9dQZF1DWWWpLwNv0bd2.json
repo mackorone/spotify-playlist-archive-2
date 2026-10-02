@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 247279,
       "name": "Aarathi Kannukkulla (From \"Arjunan Per Paththu\")",
       "url": "https://open.spotify.com/track/32Rw7OqzhmwKRHBwYw8ES2"
@@ -235,6 +235,32 @@
     },
     {
       "album": {
+        "name": "Anbil Avan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1CPT8nOZy9qaYywu4pVjwv"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Madrashe",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286200,
+      "name": "Aasai Varame",
+      "url": "https://open.spotify.com/track/2skC84DRVxohNEBadH7ozW"
+    },
+    {
+      "album": {
         "name": "Aasai Varame (From \"Anbil Avan\")",
         "url": "https://open.spotify.com/album/6BS5SUmKQpkOzGgW3chxxx"
       },
@@ -254,7 +280,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 286200,
       "name": "Aasai Varame - From \"Anbil Avan\"",
       "url": "https://open.spotify.com/track/7LjXOglx1K698kPUfQfgrQ"
@@ -1906,7 +1932,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165000,
       "name": "Doki Doki",
       "url": "https://open.spotify.com/track/4ayZ2o7iS1DkkkGnvTpJpc"
@@ -3022,7 +3048,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 204545,
       "name": "INDRA - From \"Once More\"",
       "url": "https://open.spotify.com/track/1C2WwxYjx6kEXzebEDHQFd"
@@ -3521,6 +3547,32 @@
     },
     {
       "album": {
+        "name": "Anbil Avan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1CPT8nOZy9qaYywu4pVjwv"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "Kalla Nikkiriye",
+      "url": "https://open.spotify.com/track/7kWrkdaOjc5nXTwQpIbtuj"
+    },
+    {
+      "album": {
         "name": "Kalla Nikkiriye (From \"Anbil Avan\")",
         "url": "https://open.spotify.com/album/1b6DcDpacQ2SKhUd8F7a6q"
       },
@@ -3540,7 +3592,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 241500,
       "name": "Kalla Nikkiriye - From \"Anbil Avan\"",
       "url": "https://open.spotify.com/track/7AbVMf4nLaIq3edGHzRiLd"
@@ -4939,6 +4991,58 @@
     },
     {
       "album": {
+        "name": "Yezhu Kadal Yezhu Malai - Side A (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RzVjjwy6eoy8ysB1jyX2Q"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205285,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/2BsAPORVM3rWX2segrS1Bn"
+    },
+    {
+      "album": {
+        "name": "Yezhu Kadal Yezhu Malai - Side A (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RzVjjwy6eoy8ysB1jyX2Q"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Siddharth",
+          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297750,
+      "name": "Marubadi Nee",
+      "url": "https://open.spotify.com/track/3E5uOBqguiJnrYUdXRXQXS"
+    },
+    {
+      "album": {
         "name": "Mayakirriye - Single",
         "url": "https://open.spotify.com/album/3SPqv6jQCx2HoaO3qna0A5"
       },
@@ -5694,6 +5798,32 @@
       "duration_ms": 218059,
       "name": "Nadhiye (From \"The Girlfriend\")",
       "url": "https://open.spotify.com/track/3tJ6v4iv1ABETZG9jSq6Ni"
+    },
+    {
+      "album": {
+        "name": "Yezhu Kadal Yezhu Malai - Side A (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RzVjjwy6eoy8ysB1jyX2Q"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283846,
+      "name": "Namakkaai Oru Vaanam",
+      "url": "https://open.spotify.com/track/3w8xJbu9LBvZmr5FBGFJHU"
     },
     {
       "album": {
@@ -7914,7 +8044,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 206600,
       "name": "Sengathiye (From \"Delivery Boy\")",
       "url": "https://open.spotify.com/track/3vj0s7dBf0WmYQONf3iRs0"
@@ -10740,6 +10870,32 @@
       "duration_ms": 254354,
       "name": "Yetho Yetho (From \"Gandhi Talks\") (Tamil)",
       "url": "https://open.spotify.com/track/1G3bz6YER5qTKxcAu2N4j0"
+    },
+    {
+      "album": {
+        "name": "Yezhu Kadal Yezhu Malai - Side A (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RzVjjwy6eoy8ysB1jyX2Q"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184571,
+      "name": "Yezhezhu Malai",
+      "url": "https://open.spotify.com/track/48RpoZSj3ZXMHdL5LXEABU"
     },
     {
       "album": {

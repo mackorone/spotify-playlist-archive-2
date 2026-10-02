@@ -3306,7 +3306,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 580500,
       "name": "ENOUGH FOR ME",
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
@@ -7808,7 +7808,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 123711,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/4oacaORBXYl2wecW0fFYsn"
@@ -9361,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "My Testimony Go Loud",
+        "url": "https://open.spotify.com/album/6CXTrb9JJQ0iv6HiTS6Esh"
+      },
+      "artists": [
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254571,
+      "name": "My Testimony Go Loud",
+      "url": "https://open.spotify.com/track/3ofRw6SN27rtuPYerPDuIz"
+    },
+    {
+      "album": {
         "name": "My Thanksgiving",
         "url": "https://open.spotify.com/album/5W6id9lWl3ApyumkpwhKZD"
       },
@@ -10022,7 +10040,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 317675,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
@@ -12732,6 +12750,24 @@
       "duration_ms": 259588,
       "name": "SEE ME THROUGH (RECOVERY)",
       "url": "https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb"
+    },
+    {
+      "album": {
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142835,
+      "name": "see the truth",
+      "url": "https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp"
     },
     {
       "album": {

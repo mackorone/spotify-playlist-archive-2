@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 
 > This is Jão\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,798 likes - 44 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,877 likes - 44 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aurora](https://open.spotify.com/track/6PPB5jKQ257UqzP7tgmozP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:40 |
 | 2 | [Meninos e Meninas](https://open.spotify.com/track/5B1skkpiljQOQLAmANiaDa) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:41 |
 | 3 | [Essa Eu Fiz Pro Nosso Amor](https://open.spotify.com/track/4JwwAxvprUGhrecdjSjfHN) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:14 |
-| 4 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 |
-| 5 | [Catedral](https://open.spotify.com/track/3mzJgriFYY654vVhzwCepw) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:41 |
+| 4 | [Alinhamento Milenar](https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:21 |
+| 5 | [Por Você](https://open.spotify.com/track/1jBmw9hizoiIpxqFy8hNS2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:31 |
 | 6 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 |
-| 7 | [Alinhamento Milenar](https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:21 |
-| 8 | [O Triste É Que Eu Te Amo](https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:32 |
-| 9 | [Por Você](https://open.spotify.com/track/1jBmw9hizoiIpxqFy8hNS2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:31 |
+| 7 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 |
+| 8 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 |
+| 9 | [Catedral](https://open.spotify.com/track/3mzJgriFYY654vVhzwCepw) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:41 |
 | 10 | [Acontece](https://open.spotify.com/track/5wqAUETEzXz6h54rbQ5sfr) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:41 |
-| 11 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 |
-| 12 | [Religião](https://open.spotify.com/track/3scObqC1IgM7yC6KvoTkeP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:12 |
+| 11 | [O Triste É Que Eu Te Amo](https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:32 |
+| 12 | [Julho](https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:07 |
 | 13 | [O Amor](https://open.spotify.com/track/2BRYHmPbc5BUffYcAtRhv8) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 2:57 |
 | 14 | [Santo](https://open.spotify.com/track/23n4YuEtkZuALpk0wG3ZMT) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:42 |
-| 15 | [Julho](https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:07 |
+| 15 | [Religião](https://open.spotify.com/track/3scObqC1IgM7yC6KvoTkeP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:12 |
 | 16 | [A Rua](https://open.spotify.com/track/2OKEIwfQhf2a6lJuR3aMXJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:36 |
 | 17 | [Coincidências](https://open.spotify.com/track/6Nhfb01I0ceS1yVgIDykqm) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:40 |
 | 18 | [Doce](https://open.spotify.com/track/0U2PbvCX6MHp72tqiaCPSS) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:15 |
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 22 | [Coringa](https://open.spotify.com/track/5j3p2WnU8ha4K4ybaTZ4Hx) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:07 |
 | 23 | [Acidente](https://open.spotify.com/track/0soeEPl0HwEmuC0LNQ1dSp) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:06 |
 | 24 | [A Última Noite](https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 4:15 |
-| 25 | [Escorpião](https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:28 |
-| 26 | [AMOR PIRATA](https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [AMOR PIRATA](https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm) | 2:52 |
+| 25 | [AMOR PIRATA](https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [AMOR PIRATA](https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm) | 2:52 |
+| 26 | [Escorpião](https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:28 |
 | 27 | [Mal](https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Mal](https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7) | 2:46 |
 | 28 | [VSF](https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:56 |
-| 29 | [Maria](https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 1:58 |
-| 30 | [Locadora \(Versão Estendida\)](https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 4:38 |
+| 29 | [Locadora \(Versão Estendida\)](https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 4:38 |
+| 30 | [Maria](https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 1:58 |
 | 31 | [Imaturo](https://open.spotify.com/track/0S86atec73KKaexn67JsDy) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:58 |
 | 32 | [Triste Pra Sempre](https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 2:59 |
-| 33 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Coisas da Geração](https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k) | 3:00 |
-| 34 | [Supernova](https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:01 |
+| 33 | [Supernova](https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:01 |
+| 34 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Coisas da Geração](https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k) | 3:00 |
 | 35 | [Ainda Te Amo](https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:10 |
 | 36 | [Enquanto Me Beija](https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:39 |
 | 37 | [Louquinho](https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Louquinho](https://open.spotify.com/album/3ibAprngolKW66RngB6cBs) | 2:56 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 43 | [Me Beija Com Raiva](https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:16 |
 | 44 | [Eu Quero Ser Como Você](https://open.spotify.com/track/3XbqMexOs4oiE9n6ATZ35K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:09 |
 
-Snapshot ID: `armuAAAAAAChHmxAU4dWVu2AYKnJRm4/`
+Snapshot ID: `arxRAAAAAABV5WI1lXiIQDHKAcM61VxK`

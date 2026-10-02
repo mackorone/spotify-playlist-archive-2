@@ -1,13 +1,29 @@
 {
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Danyl & A6el.",
-  "num_followers": 119846,
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: TH\u00c9A.",
+  "num_followers": 119851,
   "original_name": "Courant Alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACG49kcjuqO0UjBnV5Yx3QGdJxoU",
+  "snapshot_id": "AAAAAB8pjftl7uTDj26nfEZ6Vwz/NemK",
   "tracks": [
+    {
+      "added_at": "2026-10-01 22:01:50",
+      "album": {
+        "name": "POPSTAR SPEEDRUN",
+        "url": "https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "BRAINDEAD (Okay!)",
+      "url": "https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a"
+    },
     {
       "added_at": "2026-09-24 22:01:44",
       "album": {
@@ -29,20 +45,20 @@
       "url": "https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx"
     },
     {
-      "added_at": "2026-09-17 22:02:15",
+      "added_at": "2026-10-01 22:01:50",
       "album": {
-        "name": "tout \u00e0 la fois",
-        "url": "https://open.spotify.com/album/25vPmMrpmS13iWYqutq37z"
+        "name": "Biopic",
+        "url": "https://open.spotify.com/album/015fcq6qJjulKwDyzSdFFz"
       },
       "artists": [
         {
-          "name": "satine",
-          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+          "name": "Stanislas",
+          "url": "https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1"
         }
       ],
-      "duration_ms": 164000,
-      "name": "pas assez",
-      "url": "https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA"
+      "duration_ms": 229400,
+      "name": "Biopic",
+      "url": "https://open.spotify.com/track/5OOO12AefQmA6PNvOaC5Xf"
     },
     {
       "added_at": "2026-09-24 22:01:44",
@@ -65,6 +81,38 @@
       "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
     },
     {
+      "added_at": "2026-09-17 22:02:15",
+      "album": {
+        "name": "tout \u00e0 la fois",
+        "url": "https://open.spotify.com/album/25vPmMrpmS13iWYqutq37z"
+      },
+      "artists": [
+        {
+          "name": "satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "pas assez",
+      "url": "https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA"
+    },
+    {
+      "added_at": "2026-10-01 22:01:50",
+      "album": {
+        "name": "Mec Normal",
+        "url": "https://open.spotify.com/album/4DrSzyacBLr10kPXyu5RSz"
+      },
+      "artists": [
+        {
+          "name": "Ariane Bonzini",
+          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
+        }
+      ],
+      "duration_ms": 213746,
+      "name": "Loin De Moi",
+      "url": "https://open.spotify.com/track/4nwrzpcTlORPRJ0ZllSQRn"
+    },
+    {
       "added_at": "2026-09-10 22:00:51",
       "album": {
         "name": "je fais pleurer les hommes",
@@ -81,80 +129,24 @@
       "url": "https://open.spotify.com/track/5MPoJl0VcsotowwzLQCTyQ"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
+      "added_at": "2026-10-01 22:01:50",
       "album": {
-        "name": "Kill It With The Beat",
-        "url": "https://open.spotify.com/album/45In5WyfJ6yOq24bVd6WOl"
+        "name": "Ph\u00e9nom\u00e8ne",
+        "url": "https://open.spotify.com/album/33dwEnfktJrytwlanY8e7X"
       },
       "artists": [
         {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "Kill It With The Beat",
-      "url": "https://open.spotify.com/track/2oN4lORHOZdxyPeTLEvn9S"
-    },
-    {
-      "added_at": "2026-09-24 22:01:44",
-      "album": {
-        "name": "La petite voix dans ma t\u00eate",
-        "url": "https://open.spotify.com/album/5r4LjMKuXAu5AV0fEZXoAI"
-      },
-      "artists": [
-        {
-          "name": "Paolo.",
-          "url": "https://open.spotify.com/artist/1UrkKlrHZfYlz4vhXeDRF4"
-        }
-      ],
-      "duration_ms": 159148,
-      "name": "La petite voix dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/3AswcjKb7sfFfqb8XNJ1Vm"
-    },
-    {
-      "added_at": "2026-09-17 22:02:15",
-      "album": {
-        "name": "Quand est-ce qu'on oublie qu'on aime",
-        "url": "https://open.spotify.com/album/5abHchSNqSZF0M4mhPlKDR"
-      },
-      "artists": [
-        {
-          "name": "Zed Yun Pavarotti",
-          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
         },
         {
-          "name": "Marguerite Thiam",
-          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ"
         }
       ],
-      "duration_ms": 212626,
-      "name": "Quand est-ce qu'on oublie qu'on aime",
-      "url": "https://open.spotify.com/track/2mOGkkEHVnivEvMVjhKQSq"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Bizarre",
-        "url": "https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU"
-      },
-      "artists": [
-        {
-          "name": "Thx4Crying",
-          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
-        },
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        },
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
+      "duration_ms": 155586,
+      "name": "Ph\u00e9nom\u00e8ne",
+      "url": "https://open.spotify.com/track/4BZIRIwAL2maJYwxKZrZgY"
     },
     {
       "added_at": "2026-09-24 22:01:44",
@@ -173,22 +165,6 @@
       "url": "https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "c'est ok",
-        "url": "https://open.spotify.com/album/1tzynDqK1DyMLS10ff7fxw"
-      },
-      "artists": [
-        {
-          "name": "Copycat",
-          "url": "https://open.spotify.com/artist/7A1oIMLzxdXV57RVrDFrE2"
-        }
-      ],
-      "duration_ms": 177727,
-      "name": "c'est ok",
-      "url": "https://open.spotify.com/track/5Canxhfh2Ydgq5JR7e26Hm"
-    },
-    {
       "added_at": "2026-09-24 22:01:44",
       "album": {
         "name": "C'est \u00e7a que je veux",
@@ -203,6 +179,22 @@
       "duration_ms": 169173,
       "name": "C'est \u00e7a que je veux",
       "url": "https://open.spotify.com/track/4ceSHKoIuiuh7T7dgv1IYP"
+    },
+    {
+      "added_at": "2026-10-01 22:01:50",
+      "album": {
+        "name": "Mode avion",
+        "url": "https://open.spotify.com/album/2SfT9JoG6pXqK5qYKxfWEX"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "duration_ms": 143960,
+      "name": "Mode avion",
+      "url": "https://open.spotify.com/track/5m7dCoZBRogxdYhjenjs1j"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -243,6 +235,90 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
+        "name": "Kill It With The Beat",
+        "url": "https://open.spotify.com/album/45In5WyfJ6yOq24bVd6WOl"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Kill It With The Beat",
+      "url": "https://open.spotify.com/track/2oN4lORHOZdxyPeTLEvn9S"
+    },
+    {
+      "added_at": "2026-10-01 22:01:50",
+      "album": {
+        "name": "Tout est facile",
+        "url": "https://open.spotify.com/album/0IqkkvkolyF92zvcgfxXKY"
+      },
+      "artists": [
+        {
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+        },
+        {
+          "name": "Lesley",
+          "url": "https://open.spotify.com/artist/4iPGEsej2ak9iDheY1I0Tt"
+        },
+        {
+          "name": "RAPHA",
+          "url": "https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW"
+        },
+        {
+          "name": "Bruant",
+          "url": "https://open.spotify.com/artist/2EfwQcJnqlGwAUqasHlHSO"
+        },
+        {
+          "name": "G\u00e9n\u00e9ration D\u00e9brouille",
+          "url": "https://open.spotify.com/artist/4G6KO5j7IoMEM3A7Gk6g2s"
+        }
+      ],
+      "duration_ms": 186550,
+      "name": "Tout est facile",
+      "url": "https://open.spotify.com/track/5XtgNLRh1K5kdiXQ4s5k3d"
+    },
+    {
+      "added_at": "2026-09-17 22:02:15",
+      "album": {
+        "name": "Quand est-ce qu'on oublie qu'on aime",
+        "url": "https://open.spotify.com/album/5abHchSNqSZF0M4mhPlKDR"
+      },
+      "artists": [
+        {
+          "name": "Zed Yun Pavarotti",
+          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
+        },
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Quand est-ce qu'on oublie qu'on aime",
+      "url": "https://open.spotify.com/track/2mOGkkEHVnivEvMVjhKQSq"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "c'est ok",
+        "url": "https://open.spotify.com/album/1tzynDqK1DyMLS10ff7fxw"
+      },
+      "artists": [
+        {
+          "name": "Copycat",
+          "url": "https://open.spotify.com/artist/7A1oIMLzxdXV57RVrDFrE2"
+        }
+      ],
+      "duration_ms": 177727,
+      "name": "c'est ok",
+      "url": "https://open.spotify.com/track/5Canxhfh2Ydgq5JR7e26Hm"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
         "name": "ANTIPOP",
         "url": "https://open.spotify.com/album/5tSubN95RxcLUgWihyu7Xb"
       },
@@ -261,6 +337,22 @@
       "url": "https://open.spotify.com/track/3tQK1usqWAoMkiXp54i4Ok"
     },
     {
+      "added_at": "2026-10-01 22:01:50",
+      "album": {
+        "name": "Rouge ciel",
+        "url": "https://open.spotify.com/album/7aRONpyCc3bHrki3n1Wqnh"
+      },
+      "artists": [
+        {
+          "name": "JeanneTo",
+          "url": "https://open.spotify.com/artist/4QZHVgbqlCMCvLBtTcV39a"
+        }
+      ],
+      "duration_ms": 212807,
+      "name": "De r\u00eaves et de sang",
+      "url": "https://open.spotify.com/track/2Wkk99mGku9rqpqQcN9jJp"
+    },
+    {
       "added_at": "2026-09-24 22:01:44",
       "album": {
         "name": "BABYBOY",
@@ -277,20 +369,60 @@
       "url": "https://open.spotify.com/track/5FgtKtNcsGQvg6tUmNArzt"
     },
     {
-      "added_at": "2026-09-24 22:01:44",
+      "added_at": "2026-10-01 22:01:50",
       "album": {
-        "name": "ROMANCE RODEO",
-        "url": "https://open.spotify.com/album/7pgJyoe9Um0keycHs8Xmin"
+        "name": "Na\u00eff",
+        "url": "https://open.spotify.com/album/5q5Z6W7IIEp4EHp34nL4Qf"
       },
       "artists": [
         {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI"
+          "name": "Nerlov",
+          "url": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
         }
       ],
-      "duration_ms": 169009,
-      "name": "LES FOURMIS",
-      "url": "https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV"
+      "duration_ms": 194960,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/3LysS5jMJjCEpGuxQeP5X7"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU"
+      },
+      "artists": [
+        {
+          "name": "Thx4Crying",
+          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
+        },
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
+    },
+    {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
+        "name": "La petite voix dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/5r4LjMKuXAu5AV0fEZXoAI"
+      },
+      "artists": [
+        {
+          "name": "Paolo.",
+          "url": "https://open.spotify.com/artist/1UrkKlrHZfYlz4vhXeDRF4"
+        }
+      ],
+      "duration_ms": 159148,
+      "name": "La petite voix dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/3AswcjKb7sfFfqb8XNJ1Vm"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -307,22 +439,6 @@
       "duration_ms": 158063,
       "name": "Sorry I'm French",
       "url": "https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W"
-    },
-    {
-      "added_at": "2026-09-24 22:01:44",
-      "album": {
-        "name": "MACKINTOSH",
-        "url": "https://open.spotify.com/album/153XRh2PH4lvf4I2EnGdAy"
-      },
-      "artists": [
-        {
-          "name": "sheng",
-          "url": "https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn"
-        }
-      ],
-      "duration_ms": 115488,
-      "name": "MACKINTOSH",
-      "url": "https://open.spotify.com/track/5LY4qEP5Hj4SSRPB9PQORX"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -345,40 +461,20 @@
       "url": "https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL"
     },
     {
-      "added_at": "2026-09-17 22:02:15",
+      "added_at": "2026-09-24 22:01:44",
       "album": {
-        "name": "L\u00c9TAL",
-        "url": "https://open.spotify.com/album/2H12z9QcXd3MiahYo3WsNj"
+        "name": "ROMANCE RODEO",
+        "url": "https://open.spotify.com/album/7pgJyoe9Um0keycHs8Xmin"
       },
       "artists": [
         {
-          "name": "TH\u00c9A",
-          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
-        },
-        {
-          "name": "Rebeka Warrior",
-          "url": "https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4"
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI"
         }
       ],
-      "duration_ms": 165626,
-      "name": "L\u00c9TAL",
-      "url": "https://open.spotify.com/track/7dOi1Ewgw5nTOCE2NsB26c"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/55bAkqv3DoCtJjQLAsaoeJ"
-      },
-      "artists": [
-        {
-          "name": "Of\u00e9",
-          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "C\u0153ur",
-      "url": "https://open.spotify.com/track/1RfaaZVPySn5XaNfW4zWhF"
+      "duration_ms": 169009,
+      "name": "LES FOURMIS",
+      "url": "https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -395,6 +491,38 @@
       "duration_ms": 200826,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
+    },
+    {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
+        "name": "MACKINTOSH",
+        "url": "https://open.spotify.com/album/153XRh2PH4lvf4I2EnGdAy"
+      },
+      "artists": [
+        {
+          "name": "sheng",
+          "url": "https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn"
+        }
+      ],
+      "duration_ms": 115488,
+      "name": "MACKINTOSH",
+      "url": "https://open.spotify.com/track/5LY4qEP5Hj4SSRPB9PQORX"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/55bAkqv3DoCtJjQLAsaoeJ"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "C\u0153ur",
+      "url": "https://open.spotify.com/track/1RfaaZVPySn5XaNfW4zWhF"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -461,22 +589,6 @@
       "url": "https://open.spotify.com/track/2WbfIgFaOqMOwWyAzIqVyC"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "M\u00e9tronome",
-        "url": "https://open.spotify.com/album/3a9DxiK7dazGC8zJn0IewC"
-      },
-      "artists": [
-        {
-          "name": "MILHA",
-          "url": "https://open.spotify.com/artist/70iLKg3WPPNNMhzv8xA6ns"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "M\u00e9tronome",
-      "url": "https://open.spotify.com/track/5tdZCfaUM2J7LOVnDOExfF"
-    },
-    {
       "added_at": "2026-09-17 22:02:15",
       "album": {
         "name": "Sang sur le jean",
@@ -491,6 +603,22 @@
       "duration_ms": 190000,
       "name": "Sang sur le jean",
       "url": "https://open.spotify.com/track/58viLn4Q1Zvg86M7SxgMCa"
+    },
+    {
+      "added_at": "2026-09-17 22:02:15",
+      "album": {
+        "name": "OLALA",
+        "url": "https://open.spotify.com/album/7buhbL3okIzVzizN4kaJHx"
+      },
+      "artists": [
+        {
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
+        }
+      ],
+      "duration_ms": 153948,
+      "name": "OLALA",
+      "url": "https://open.spotify.com/track/1W4hvl0PetDuUgXeJ3z0vb"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -539,22 +667,6 @@
       "duration_ms": 136453,
       "name": "Homme Facile",
       "url": "https://open.spotify.com/track/7MK9lUvaxOni0YIVz9L0fV"
-    },
-    {
-      "added_at": "2026-09-17 22:02:15",
-      "album": {
-        "name": "OLALA",
-        "url": "https://open.spotify.com/album/7buhbL3okIzVzizN4kaJHx"
-      },
-      "artists": [
-        {
-          "name": "Simia",
-          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
-        }
-      ],
-      "duration_ms": 153948,
-      "name": "OLALA",
-      "url": "https://open.spotify.com/track/1W4hvl0PetDuUgXeJ3z0vb"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -607,34 +719,18 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "Fucked Up",
-        "url": "https://open.spotify.com/album/1WKTadb3dZbjTEtWZkHtM2"
+        "name": "pleurer, baiser, rire",
+        "url": "https://open.spotify.com/album/1MARX9XFzXGfu2uAbs9Z2P"
       },
       "artists": [
         {
-          "name": "Blaame",
-          "url": "https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl"
+          "name": "ange",
+          "url": "https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Fucked Up",
-      "url": "https://open.spotify.com/track/0IyTGXvTJ3vRDC7cS9wi9J"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Ma routine sur Vivastreet",
-        "url": "https://open.spotify.com/album/63iXUyOAAGlvf2r59NzxUI"
-      },
-      "artists": [
-        {
-          "name": "Stanislas",
-          "url": "https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1"
-        }
-      ],
-      "duration_ms": 175213,
-      "name": "Ma routine sur Vivastreet",
-      "url": "https://open.spotify.com/track/6NGKyrt8m0cnhVY3EGGuCY"
+      "duration_ms": 103986,
+      "name": "pleurer, baiser, rire",
+      "url": "https://open.spotify.com/track/2K2NUCIZ4gQ1M5tAunR6Yv"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -723,70 +819,6 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "Colleurs de stickers",
-        "url": "https://open.spotify.com/album/4HVKkjq3ybH5UUMNo7eNVP"
-      },
-      "artists": [
-        {
-          "name": "Nerlov",
-          "url": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Colleurs de stickers",
-      "url": "https://open.spotify.com/track/60YaehJGYS4tZTWao3d3an"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Oublie-Moi",
-        "url": "https://open.spotify.com/album/3rhRAIOOkEk15CpMQU1CYl"
-      },
-      "artists": [
-        {
-          "name": "Ariane Bonzini",
-          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Oublie-Moi",
-      "url": "https://open.spotify.com/track/7rnsq8BtFBiuELlMWQGlKS"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "pleurer, baiser, rire",
-        "url": "https://open.spotify.com/album/1MARX9XFzXGfu2uAbs9Z2P"
-      },
-      "artists": [
-        {
-          "name": "ange",
-          "url": "https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG"
-        }
-      ],
-      "duration_ms": 103986,
-      "name": "pleurer, baiser, rire",
-      "url": "https://open.spotify.com/track/2K2NUCIZ4gQ1M5tAunR6Yv"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Je te donnerais",
-        "url": "https://open.spotify.com/album/5bfnw2F8mXCCMBDs5r7pgh"
-      },
-      "artists": [
-        {
-          "name": "Philippe Katerine",
-          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Je te donnerais",
-      "url": "https://open.spotify.com/track/0wnYswRkILI93NbVhtfrbw"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
         "name": "Coup de t\u00eate",
         "url": "https://open.spotify.com/album/4psXOwsMMKgHN0qezkcmNO"
       },
@@ -819,22 +851,6 @@
       "duration_ms": 153750,
       "name": "PAS +",
       "url": "https://open.spotify.com/track/5QkBwwh6SKPIVBE5Xzhp4y"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Temp\u00eate",
-        "url": "https://open.spotify.com/album/7fcB91H0LuS8zzg4kymcww"
-      },
-      "artists": [
-        {
-          "name": "Odezenne",
-          "url": "https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp"
-        }
-      ],
-      "duration_ms": 258148,
-      "name": "Temp\u00eate",
-      "url": "https://open.spotify.com/track/1w4adoqWBcsxBxMFIoNVZ1"
     },
     {
       "added_at": "2026-09-10 22:00:51",

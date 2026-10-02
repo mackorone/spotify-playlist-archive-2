@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 152275,
       "name": "100 Degrees",
       "url": "https://open.spotify.com/track/01bjgHUeiU87H8SOvoLB73"
@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/4lPBUasyGc1tERVIjpiyGM"
+      },
+      "artists": [
+        {
+          "name": "Fang Wu",
+          "url": "https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210208,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/17hrsMKL1Qvc5i3VjnjpqY"
+    },
+    {
+      "album": {
         "name": "Gei",
         "url": "https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts"
       },
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 191641,
       "name": "\u4e09\u79d2\u4e00\u751f - \u570b\u8a9e\u7248",
       "url": "https://open.spotify.com/track/3NHwxTGQoweXVhcjQWRcco"
@@ -1234,6 +1252,24 @@
       "duration_ms": 239266,
       "name": "\u4e0d\u5c0f\u5fc3\u611b\u4e0a\u4f60 ft. \u9b4f\u5982\u8431 waa wei",
       "url": "https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP"
+    },
+    {
+      "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/4lPBUasyGc1tERVIjpiyGM"
+      },
+      "artists": [
+        {
+          "name": "Fang Wu",
+          "url": "https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211629,
+      "name": "\u4e0d\u60f3\u60f3\u592a\u591a",
+      "url": "https://open.spotify.com/track/68kEMcsGiRMoVbjXVdc7zr"
     },
     {
       "album": {

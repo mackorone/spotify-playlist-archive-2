@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35514,
+  "num_followers": 35515,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
-      },
-      "artists": [
-        {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Gotta Get Funky",
-      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Mesa Dulce",
         "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 219632,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Gotta Get Funky",
+      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -551,6 +551,26 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "Sudaka",
+        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 202808,
+      "name": "Sudaka",
+      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "Lev\u00e1ntate y Anda",
         "url": "https://open.spotify.com/album/49OWyv7bujYuq4ipISG2pW"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 188730,
       "name": "Lev\u00e1ntate y Anda",
       "url": "https://open.spotify.com/track/4s5x65KhC8IATvwQtTaXbR"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
-        "name": "Sudaka",
-        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 202808,
-      "name": "Sudaka",
-      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Angelitos",
-        "url": "https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF"
-      },
-      "artists": [
-        {
-          "name": "Carlota Urdiales",
-          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
-        },
-        {
-          "name": "Dano",
-          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "Angelitos",
-      "url": "https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "D\u00cdA 3",
         "url": "https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 240561,
       "name": "Mia Mia",
       "url": "https://open.spotify.com/track/02SIubR3tBpcxUa3jp4NX7"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Angelitos",
+        "url": "https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF"
+      },
+      "artists": [
+        {
+          "name": "Carlota Urdiales",
+          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "Angelitos",
+      "url": "https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Combustication",
-        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Coconut Boogaloo",
-      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 267705,
       "name": "Sinestesia",
       "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Combustication",
+        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Coconut Boogaloo",
+      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -795,18 +795,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Vos No",
-        "url": "https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief"
+        "name": "RE$FRIADO",
+        "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
       "artists": [
         {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+          "name": "Kiddo Toto",
+          "url": "https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6"
+        },
+        {
+          "name": "Wirchi",
+          "url": "https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1"
         }
       ],
-      "duration_ms": 220752,
-      "name": "Vos No",
-      "url": "https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol"
+      "duration_ms": 203506,
+      "name": "Baila el Funk",
+      "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -827,22 +831,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "RE$FRIADO",
-        "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
+        "name": "Vos No",
+        "url": "https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief"
       },
       "artists": [
         {
-          "name": "Kiddo Toto",
-          "url": "https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6"
-        },
-        {
-          "name": "Wirchi",
-          "url": "https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1"
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Baila el Funk",
-      "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
+      "duration_ms": 220752,
+      "name": "Vos No",
+      "url": "https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Good to Know",
-        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
-      },
-      "artists": [
-        {
-          "name": "Grace & Badlove",
-          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Good to Know",
-      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Espacios",
         "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Good to Know",
+        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
+      },
+      "artists": [
+        {
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Good to Know",
+      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "No la Ves",
-        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 259553,
-      "name": "No la Ves",
-      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Miro donde miro",
         "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "No la Ves",
+        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 259553,
+      "name": "No la Ves",
+      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "Que Me Pasa",
         "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 184421,
       "name": "Que Me Pasa",
       "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
       "artists": [
         {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
         }
       ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "El Efecto Calma",
         "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 246085,
       "name": "El Efecto Calma",
       "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+        "name": "Jose Molina in Session",
+        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
       },
       "artists": [
         {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+          "name": "Jose Molina",
+          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
+      "duration_ms": 466409,
+      "name": "No Me Lo Digas (In Session)",
+      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1647,22 +1663,6 @@
       "duration_ms": 185312,
       "name": "Melod\u00edas",
       "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
-        "name": "Fiestas en las Nubes",
-        "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
-      },
-      "artists": [
-        {
-          "name": "INTI GARCIA",
-          "url": "https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Fiestas en las Nubes",
-      "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
     }
   ],
   "unique_name": "Nota Funk",

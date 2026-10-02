@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 244727,
+  "num_followers": 244753,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACYl9Mf+r0lXecw5fdojI5J",
+  "snapshot_id": "arxRAAAAAAAI/tDbh3EGVepQi9bI6+pL",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Vicios",
         "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 159693,
       "name": "Dos Vicios",
       "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Dos Amigos",
-        "url": "https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Tumba de Mi Madre",
-      "url": "https://open.spotify.com/track/63nEJSYwC2tp7PEhI6goQc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 146040,
       "name": "Llor\u00e9 a Mi Madre",
       "url": "https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Dos Amigos",
+        "url": "https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Tumba de Mi Madre",
+      "url": "https://open.spotify.com/track/63nEJSYwC2tp7PEhI6goQc"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Aut\u00e9nticos",
-        "url": "https://open.spotify.com/album/5thl5PvQuIr1UIF1q8HEwo"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 119486,
-      "name": "Cielo Azul Cielo Nublado",
-      "url": "https://open.spotify.com/track/2TSnh3icR23mUQC3wIOorU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 149626,
       "name": "Que Seas Dichosa",
       "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Aut\u00e9nticos",
+        "url": "https://open.spotify.com/album/5thl5PvQuIr1UIF1q8HEwo"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 119486,
+      "name": "Cielo Azul Cielo Nublado",
+      "url": "https://open.spotify.com/track/2TSnh3icR23mUQC3wIOorU"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspiraci\u00f3n Norte\u00f1a",
-        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "Donde Estar\u00e1 Mi Caballo",
-      "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos de Arranque",
         "url": "https://open.spotify.com/album/79RUrWQpAipr8jRffhK4Ez"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 167906,
       "name": "La Discusion Fue Una Yegua",
       "url": "https://open.spotify.com/track/0m0zyyyNNEKXPWSkzU3SHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspiraci\u00f3n Norte\u00f1a",
+        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "Donde Estar\u00e1 Mi Caballo",
+      "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
     },
     {
       "added_at": null,

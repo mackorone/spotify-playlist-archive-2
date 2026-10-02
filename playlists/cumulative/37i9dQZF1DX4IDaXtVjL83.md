@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: YOUNG POSSE, Kim Oki\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Alok, NAYEON of TWICE\)
 
-290 songs - 15 hr 9 min
+291 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-12-20 | 2025-03-07 |
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 | 2022-07-22 | 2024-04-19 |
 | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/track/0VdikQbDdOqxdWQyYsLmne) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [KIM CHAEWON](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7) | 2:44 | 2025-07-11 |  |
+| [Bye Bye Inhibitions](https://open.spotify.com/track/0uI8zAUhinOJDIfWYam8lX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Bye Bye Inhibitions](https://open.spotify.com/album/39DwtUa6MsygEQAFlyExSq) | 2:26 | 2026-10-02 |  |
 | [C'mon \(feat\. Aminé\)](https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK) | [JINI](https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [An Iron Hand In A Velvet Glove](https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL) | 3:13 | 2023-10-12 | 2025-09-30 |
 | [CALL](https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars / ソリクン \-Japanese ver.\-](https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0) | 2:47 | 2021-12-20 | 2022-06-01 |
 | [Call It Off](https://open.spotify.com/track/0CVfsusVjjnR7CfDAlp25o) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Call It Off](https://open.spotify.com/album/5eLFx3qaedNQ1VOYdQZf7V) | 3:36 | 2025-04-25 | 2026-05-30 |
@@ -121,7 +122,7 @@
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-07 |  |
 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 | 2023-06-08 | 2025-06-14 |
 | [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 | 2024-03-05 | 2026-04-03 |
-| [Haze](https://open.spotify.com/track/4zEcgcI2fo5cHvhi7RDLIJ) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF) | [Haze](https://open.spotify.com/album/1bWJFxDYBN3Pc0KHw2GeSB) | 3:27 | 2026-09-23 |  |
+| [Haze](https://open.spotify.com/track/4zEcgcI2fo5cHvhi7RDLIJ) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF) | [Haze](https://open.spotify.com/album/1bWJFxDYBN3Pc0KHw2GeSB) | 3:27 | 2026-09-23 | 2026-10-02 |
 | [Hey Hello](https://open.spotify.com/track/77hIkkruDPGPQzbpr4c3wm) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Hey Hello](https://open.spotify.com/album/3LNfDuAu8Hhf6J43lvgvba) | 3:23 | 2024-08-30 | 2026-09-04 |
 | [Home](https://open.spotify.com/track/1ios97PK96GBYvGeLwwKqb) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Home \[The Seasons : Sung Si\-kyung's Ear Candy\]](https://open.spotify.com/album/4sPc1UoWFrsBFimrYwdfF1) | 3:39 | 2026-09-03 |  |
 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 | 2024-07-08 |  |

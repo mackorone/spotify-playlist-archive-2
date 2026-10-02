@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 62550,
+  "num_followers": 62552,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADBefbX6bN9GVohr8Ky6x0I",
+  "snapshot_id": "arxRAAAAAAC/16FJG4htZJd1c88LKbBg",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 133226,
-      "name": "Been Smoking Too Long",
-      "url": "https://open.spotify.com/track/5PRuDR6a4sh2CnnzRMI0ps"
+      "duration_ms": 31146,
+      "name": "Come Into The Garden - Introduction",
+      "url": "https://open.spotify.com/track/7z7wqwQDAwdGd8HjR3zVhG"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 31146,
-      "name": "Come Into The Garden - Introduction",
-      "url": "https://open.spotify.com/track/7z7wqwQDAwdGd8HjR3zVhG"
+      "duration_ms": 133226,
+      "name": "Been Smoking Too Long",
+      "url": "https://open.spotify.com/track/5PRuDR6a4sh2CnnzRMI0ps"
     },
     {
       "added_at": null,

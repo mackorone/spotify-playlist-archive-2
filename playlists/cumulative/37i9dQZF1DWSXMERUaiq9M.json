@@ -476,7 +476,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 154000,
       "name": "Acid For Breakfast",
       "url": "https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql"
@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/1FTdKsBQiet2njV85fnF5U"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317173,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/4DyVcvjsGGOOeiU4DkcIky"
+    },
+    {
+      "album": {
         "name": "Ayi Giri / Dopamine Machine",
         "url": "https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7"
       },
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 146804,
       "name": "Berlin '99",
       "url": "https://open.spotify.com/track/2mBIpDdERKz7unqVVuHOnP"
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 230886,
       "name": "Dance In The Light",
       "url": "https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz"
@@ -3952,7 +3970,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 196916,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8"
@@ -5507,6 +5525,28 @@
     },
     {
       "album": {
+        "name": "Forever Within Me",
+        "url": "https://open.spotify.com/album/29UiRLdWwBigUiyBybNQIQ"
+      },
+      "artists": [
+        {
+          "name": "L.zwo",
+          "url": "https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Forever Within Me",
+      "url": "https://open.spotify.com/track/4jeAvMLpxlHoP9aWkSCs9x"
+    },
+    {
+      "album": {
         "name": "FORTUNE COOKIE",
         "url": "https://open.spotify.com/album/6PwP8KFzCBNeOcznuloC13"
       },
@@ -5674,6 +5714,24 @@
       "duration_ms": 208000,
       "name": "Funk Star",
       "url": "https://open.spotify.com/track/1moKT6MaEdNRmWOZgb36wv"
+    },
+    {
+      "album": {
+        "name": "FVCK BOYS",
+        "url": "https://open.spotify.com/album/7KISacicZzPCXQUGhQ43nt"
+      },
+      "artists": [
+        {
+          "name": "CVNTS",
+          "url": "https://open.spotify.com/artist/6OOF9nSZbNw4etK0InqtEZ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180394,
+      "name": "FVCK BOYS",
+      "url": "https://open.spotify.com/track/3nh6ce6TEVIfgS1hbkNWIO"
     },
     {
       "album": {
@@ -6149,6 +6207,28 @@
     },
     {
       "album": {
+        "name": "God Gave Us Techno",
+        "url": "https://open.spotify.com/album/3VxlGgGwrPTL4IW0wfC7IH"
+      },
+      "artists": [
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188357,
+      "name": "God Gave Us Techno",
+      "url": "https://open.spotify.com/track/3qgHj0sK3BAoxD4oOtUXBy"
+    },
+    {
+      "album": {
         "name": "Going Existential In The Rave",
         "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
       },
@@ -6332,6 +6412,32 @@
       "duration_ms": 205012,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/4U4XNkHA99dkqFbOxc8OjL"
+    },
+    {
+      "album": {
+        "name": "Hard To be Around",
+        "url": "https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        },
+        {
+          "name": "Cleopard2000",
+          "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176223,
+      "name": "Hard To be Around",
+      "url": "https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"
     },
     {
       "album": {
@@ -11254,7 +11360,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 152606,
       "name": "Oldschool",
       "url": "https://open.spotify.com/track/1JopyNdeuw8C1bimbS9p9f"
@@ -11320,7 +11426,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 162857,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/77AhO59wOXtyPxTj8AC2Wa"
@@ -12264,7 +12370,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 190400,
       "name": "Proton",
       "url": "https://open.spotify.com/track/2AzAamWZi47Fv7nds8h7AM"
@@ -13306,7 +13412,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 249729,
       "name": "Save You",
       "url": "https://open.spotify.com/track/0yRy7vY6LV9071w4kS0MCO"
@@ -13420,6 +13526,28 @@
       "duration_ms": 165293,
       "name": "Schreien! - Turbo Remix",
       "url": "https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6"
+    },
+    {
+      "album": {
+        "name": "Sentimental Ultra",
+        "url": "https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Spriitzz",
+          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Sentimental Ultra",
+      "url": "https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk"
     },
     {
       "album": {
@@ -15658,6 +15786,42 @@
       "duration_ms": 241548,
       "name": "Touch My Body",
       "url": "https://open.spotify.com/track/4phMw5RRSbWpVWCBvOwsoO"
+    },
+    {
+      "album": {
+        "name": "44030",
+        "url": "https://open.spotify.com/album/1Rz0AZ7vubdT66WgJIR1ZD"
+      },
+      "artists": [
+        {
+          "name": "Somewhen",
+          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/7t2s1JIVyjP0FyQ07pFmyf"
+    },
+    {
+      "album": {
+        "name": "44030",
+        "url": "https://open.spotify.com/album/1Rz0AZ7vubdT66WgJIR1ZD"
+      },
+      "artists": [
+        {
+          "name": "Somewhen",
+          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/0cDZATxF6OuURP58JE3OXx"
     },
     {
       "album": {

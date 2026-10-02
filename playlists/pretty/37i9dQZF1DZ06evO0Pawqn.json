@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAATKDre1Fjztuo+JbQIkcnc",
+  "snapshot_id": "arxRAAAAAAC0hRGEF3/5qLzH+/JXURgD",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Arrepientete",
+      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Supone",
         "url": "https://open.spotify.com/album/46lvd5Q6wvIF7l6TlDsDLj"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 165887,
       "name": "Se Supone",
       "url": "https://open.spotify.com/track/0ilbMi7Ahnyr5qGQaeNdbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Arrepientete",
-      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Nosotros Tambien Podemos",
+      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 181002,
       "name": "Nada Contigo-La Banqueta",
       "url": "https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 164728,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 210546,
-      "name": "Nosotros Tambien Podemos",
-      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
+      "duration_ms": 164728,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 195291,
-      "name": "Cien Anos",
-      "url": "https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L"
+      "duration_ms": 177706,
+      "name": "Dulce Morena",
+      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Dulce Morena",
-      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
+      "duration_ms": 195291,
+      "name": "Cien Anos",
+      "url": "https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
       "duration_ms": 161026,
       "name": "Cajita De Cart\u00f3n",
       "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 206236,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 206236,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiranos del Norte",
         "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
       },
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 195004,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X"
+      "duration_ms": 230034,
+      "name": "Echame a Mi la Culpa",
+      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 230034,
-      "name": "Echame a Mi la Culpa",
-      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
+      "duration_ms": 195004,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X"
     },
     {
       "added_at": null,

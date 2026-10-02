@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los Gemelos De Sinaloa poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras.",
+  "description": "El Rabbanito poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras.",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -1328,6 +1328,28 @@
       "duration_ms": 225416,
       "name": "ALFOMBRA ROJA",
       "url": "https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86"
+    },
+    {
+      "album": {
+        "name": "Algobierno",
+        "url": "https://open.spotify.com/album/64nRIBsaqpvORMq4MWwMMx"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124243,
+      "name": "Algobierno",
+      "url": "https://open.spotify.com/track/0sgSnxmU3knTyciXomcyjG"
     },
     {
       "album": {
@@ -3865,6 +3887,28 @@
     },
     {
       "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171676,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn"
+    },
+    {
+      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
       },
@@ -5355,6 +5399,24 @@
     },
     {
       "album": {
+        "name": "De M\u00e9xico Soy",
+        "url": "https://open.spotify.com/album/3TlUK5ukcTDdHXan3QEIQp"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162112,
+      "name": "De M\u00e9xico Soy",
+      "url": "https://open.spotify.com/track/6DGPN25C9jioipnxlahZ3J"
+    },
+    {
+      "album": {
         "name": "De Trago En Trago",
         "url": "https://open.spotify.com/album/0YMa5EGXvE8uwAIyNDnxyJ"
       },
@@ -6790,6 +6852,28 @@
       "duration_ms": 178986,
       "name": "El Callado",
       "url": "https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3"
+    },
+    {
+      "album": {
+        "name": "El Ceviche",
+        "url": "https://open.spotify.com/album/4vZeSqIMoFzwXCne8uyGcL"
+      },
+      "artists": [
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166850,
+      "name": "El Ceviche",
+      "url": "https://open.spotify.com/track/1Iqaw43wwpxLqZCb06YK18"
     },
     {
       "album": {
@@ -8738,6 +8822,24 @@
       "duration_ms": 199114,
       "name": "ESPEJO",
       "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
+    },
+    {
+      "album": {
+        "name": "Esta Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164926,
+      "name": "Esta Mi Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/4mGMdbgvHJHOeRpBe0bI5C"
     },
     {
       "album": {
@@ -11095,6 +11197,32 @@
     },
     {
       "album": {
+        "name": "La Cazadora",
+        "url": "https://open.spotify.com/album/03jIAWMrRp5Bra8pIMdzK1"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191481,
+      "name": "La Cazadora",
+      "url": "https://open.spotify.com/track/5CJSOx4mGZk5jIoCv1QjR6"
+    },
+    {
+      "album": {
         "name": "La Cherokee",
         "url": "https://open.spotify.com/album/1KoUyx6tosCXD7qidBRXae"
       },
@@ -11918,6 +12046,28 @@
       "duration_ms": 195608,
       "name": "La Sand\u00eda",
       "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
+    },
+    {
+      "album": {
+        "name": "Enfocado's",
+        "url": "https://open.spotify.com/album/6KXcxx3POGHgaHYnaPYeO3"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        },
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123706,
+      "name": "La Silverado",
+      "url": "https://open.spotify.com/track/2FqsYzZfvWgm9UJZeFEWtv"
     },
     {
       "album": {
@@ -14645,6 +14795,24 @@
     },
     {
       "album": {
+        "name": "Mil x Hora",
+        "url": "https://open.spotify.com/album/6ve34licV5FXj6JhbgYdcO"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149351,
+      "name": "Mil x Hora",
+      "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
+    },
+    {
+      "album": {
         "name": "MINIMI",
         "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
       },
@@ -17351,6 +17519,28 @@
     },
     {
       "album": {
+        "name": "PJM",
+        "url": "https://open.spotify.com/album/0qKaJwbXwmZ9AmxnGsQCYK"
+      },
+      "artists": [
+        {
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131628,
+      "name": "PJM",
+      "url": "https://open.spotify.com/track/0YopquwKvnkylezOWZmHat"
+    },
+    {
+      "album": {
         "name": "Sin Rumbo",
         "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
       },
@@ -18460,6 +18650,24 @@
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+    },
+    {
+      "album": {
+        "name": "Que Se Vaya",
+        "url": "https://open.spotify.com/album/5o1z80S9I0tVQk9Qk2NA7H"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Que Se Vaya",
+      "url": "https://open.spotify.com/track/3uBksEvrCiVBRsBW0zSw2n"
     },
     {
       "album": {

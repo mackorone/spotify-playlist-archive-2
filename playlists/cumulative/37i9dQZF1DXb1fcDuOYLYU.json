@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "LOS CISNES",
+        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177215,
+      "name": "CARI\u00d1O",
+      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
+    },
+    {
+      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm"
       },
@@ -1664,6 +1682,24 @@
       "duration_ms": 262706,
       "name": "Como Tu Mujer",
       "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
+    },
+    {
+      "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
     },
     {
       "album": {
@@ -2058,7 +2094,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 145506,
       "name": "Da Me",
       "url": "https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0"
@@ -2296,6 +2332,24 @@
       "duration_ms": 173693,
       "name": "Disc\u00falpeme Se\u00f1or",
       "url": "https://open.spotify.com/track/6MqntUCuoSKDuJujwZfoF2"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/3PMiqyeyog96N8A8GpDVJY"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/50WkRwFR0BAo6If7GtXnA8"
     },
     {
       "album": {
@@ -2662,7 +2716,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 170742,
       "name": "En Esta Boca",
       "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
@@ -3437,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
+    },
+    {
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -3712,7 +3784,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 114952,
       "name": "La Baby Cambi\u00f3",
       "url": "https://open.spotify.com/track/1qLnwbCwQ2YyubFYM0Pw1Z"
@@ -5817,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "No Tengo Remedio",
+        "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189101,
+      "name": "No Tengo Remedio",
+      "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
+    },
+    {
+      "album": {
         "name": "NO+SAD",
         "url": "https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam"
       },
@@ -5926,7 +6016,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 191863,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
@@ -6478,7 +6568,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
@@ -7520,7 +7610,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 171789,
       "name": "SOL",
       "url": "https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z"
@@ -8039,6 +8129,28 @@
     },
     {
       "album": {
+        "name": "Todavia",
+        "url": "https://open.spotify.com/album/1Td517a9y1xQJITOrZqfm2"
+      },
+      "artists": [
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3"
+        },
+        {
+          "name": "DJ Pablito",
+          "url": "https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "Todavia",
+      "url": "https://open.spotify.com/track/56GdtA7PRUT4YRAtjSs4D3"
+    },
+    {
+      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
       },
@@ -8480,7 +8592,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 212727,
       "name": "verano en la ciudad",
       "url": "https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo"
@@ -8698,6 +8810,24 @@
       "duration_ms": 206000,
       "name": "Ya Es Hora",
       "url": "https://open.spotify.com/track/2SKNarYKa7W0iCOq7u96N8"
+    },
+    {
+      "album": {
+        "name": "ya no estoy",
+        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178874,
+      "name": "ya no estoy",
+      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
     },
     {
       "album": {

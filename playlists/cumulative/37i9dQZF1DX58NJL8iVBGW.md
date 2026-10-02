@@ -4,7 +4,7 @@
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-259 songs - 16 hr 0 min
+261 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Devils](https://open.spotify.com/track/4YJpXSRosOLGssNpjIYsUk) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/7vxVCBXPKqZ2YKfKFVTLIe) | 2:24 | 2021-08-16 | 2026-04-14 |
 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 | 2022-06-06 | 2024-04-19 |
 | [Devil’s Girl](https://open.spotify.com/track/19b2hhB7RnOURfZ68WVOdV) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Heart Song](https://open.spotify.com/album/7Knd1sUOhMwC8mgZDRWL1v) | 4:41 | 2021-08-16 | 2022-07-29 |
-| [Dig](https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 2:15 | 2021-08-16 |  |
+| [Dig](https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 2:15 | 2021-08-16 | 2026-10-02 |
 | [Diggin A Grave](https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Micah P\. Hinson and the Opera Circuit](https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z) | 2:05 | 2022-06-06 | 2024-04-19 |
 | [Diggin A Grave](https://open.spotify.com/track/7vlxnv7ltMD5ZmCi1Eqspv) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Micah P\. Hinson and the Opera Circuit](https://open.spotify.com/album/6MnBtBXOql5faawKnOqFGh) | 2:05 | 2021-08-16 | 2022-07-29 |
 | [Dime in My Pocket](https://open.spotify.com/track/390taocGJx2gn52h8MrCNh) | [Desert Noises](https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe) | [Dime in My Pocket \- Single](https://open.spotify.com/album/5mcfzpCZKppFEGAkhhfPSK) | 1:48 | 2021-08-16 | 2022-07-17 |
@@ -155,8 +155,9 @@
 | [Judgement Day](https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Reckoning](https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u) | 3:07 | 2026-09-25 |  |
 | [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 | 2021-08-16 | 2026-09-12 |
 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 | 2026-08-28 |  |
+| [Little Dove](https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL) | [Lacy Green](https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL), [Adam Wright](https://open.spotify.com/artist/22rPdPcY0bEc2E0TgD70bc), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Little Dove](https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke) | 3:48 | 2026-10-02 |  |
 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 | 2021-08-16 |  |
-| [Loneliness](https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb) | [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Loneliness](https://open.spotify.com/album/4FhRFKIWfuNSGoO2PMhT0U) | 3:28 | 2026-07-10 |  |
+| [Loneliness](https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb) | [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Loneliness](https://open.spotify.com/album/4FhRFKIWfuNSGoO2PMhT0U) | 3:28 | 2026-07-10 | 2026-10-02 |
 | [Long Time Travelin'](https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 1:28 | 2022-06-06 | 2023-12-23 |
 | [Long Time Travelin'](https://open.spotify.com/track/40Z0RlvQXnw1Lil59ueR1g) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/5yajiidmeTtXWvsz0MZIlJ) | 1:28 | 2023-12-12 | 2024-04-19 |
 | [Long Time Travelin'](https://open.spotify.com/track/65GlvrOfL2tArX1jJv36Sr) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/4vdbptzhY4LSdn8H31J08U) | 1:28 | 2021-08-16 | 2022-07-29 |
@@ -216,6 +217,7 @@
 | [Sleeping on the Blacktop](https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1fU47P4gQ63M7Rr7gNtZZz) | 3:12 | 2021-08-16 | 2026-08-29 |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 | 2022-06-06 | 2023-08-31 |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 | 2023-07-17 | 2024-04-19 |
+| [Sling and Stone](https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow) | [Jess Woodland](https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq) | [Sling and Stone](https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk) | 3:14 | 2026-10-02 |  |
 | [Snake Song](https://open.spotify.com/track/0ki12WtT63xUQCYkVpRZGZ) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/0cSyiBaPRl6MG4lMuKYL97) | 2:48 | 2021-08-16 | 2026-07-11 |
 | [Snake Song](https://open.spotify.com/track/3jc4jAmJuYXE2pPEgZ2pNS) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4X4QDTg9KAvDBwdrHvntus) | 2:48 | 2022-06-06 | 2022-11-13 |
 | [Snake Song](https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:48 | 2022-06-06 | 2024-04-19 |

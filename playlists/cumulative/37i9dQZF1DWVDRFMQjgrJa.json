@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134320,
+      "name": "Con Que Me Pagas",
+      "url": "https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX"
+    },
+    {
+      "album": {
         "name": "Con Toda La Fe",
         "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
       },
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 160217,
       "name": "Estrellita Marinera",
       "url": "https://open.spotify.com/track/4Taym6YKbhXQwEsltfBUDC"

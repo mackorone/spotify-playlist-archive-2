@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-357 songs - 14 hr 39 min
+360 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2021-12-14 | 2023-09-19 |
 | [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 | 2023-08-07 | 2025-11-13 |
 | [I Dare Not Dream: Fantasia on a Theme](https://open.spotify.com/track/7yw6puga275rUZa82ItJy8) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream: Fantasia on a Theme](https://open.spotify.com/album/6Afe584fHx7s4nT3gBHRAn) | 2:54 | 2024-10-01 |  |
+| [I Got You](https://open.spotify.com/track/0SurkBGkCDBiidU74wnWhE) | [Emander](https://open.spotify.com/artist/0qDPvhleFKlgI3jLKQh90n) | [I Got You](https://open.spotify.com/album/6IkUQRW8xr8xCOfSFvry0c) | 1:54 | 2026-10-02 |  |
 | [I Still Miss You](https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [I Still Miss You](https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA) | 2:06 | 2023-06-20 |  |
 | [If It Snows](https://open.spotify.com/track/5uaOLZ0lOsNgVGSlfgj8U7) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [If It Snows](https://open.spotify.com/album/1YwmuYcOKl6lOBeQ5b4T9y) | 4:11 | 2022-04-28 | 2022-07-21 |
 | [If Life Was a Movie](https://open.spotify.com/track/1N1hyuRCNsnCju2cQKVHvt) | [John Sachs](https://open.spotify.com/artist/36zpvuRMJBhxITxE9MP4Dn) | [If Life Was a Movie](https://open.spotify.com/album/3qTbSVue1rwLVNL2tqyuby) | 1:45 | 2024-11-28 | 2025-04-09 |
@@ -161,6 +162,7 @@
 | [La creacion](https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi) | [Juergen Steltzer](https://open.spotify.com/artist/3zHnZ3P1rQsteEjGjhj01r) | [Hidden Signs](https://open.spotify.com/album/7K0BbmfNlhgi912nRhA7gC) | 3:04 | 2021-12-14 | 2025-05-15 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-12-14 | 2025-05-15 |
 | [Las Torres](https://open.spotify.com/track/1u3vCCEmUHOrHjLlwR2nyU) | [Rafael Zoko](https://open.spotify.com/artist/4CdJuIDunYuaxiRa0PUulq) | [Las Torres](https://open.spotify.com/album/070fTp4tPS3XzSckZra1ZK) | 3:00 | 2022-03-03 | 2023-11-11 |
+| [Last Summer Light](https://open.spotify.com/track/5sm3L8o04UNgRDFpUJJGun) | [Evan Scudo](https://open.spotify.com/artist/52YRLeGKgHrZwxxXqfIJ8w) | [Last Summer Light](https://open.spotify.com/album/367SZszttQPhvDkeDgOp1T) | 2:00 | 2026-10-02 |  |
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2021-12-14 | 2025-05-15 |
 | [Le coeur du ciel](https://open.spotify.com/track/5LeWHNHdXsCo5TUKpzL3Na) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Le coeur du ciel](https://open.spotify.com/album/2jAFSLRQe0O6aACZyD7Gn7) | 2:08 | 2023-06-20 | 2025-02-22 |
 | [Le Lac des Buttes](https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ) | [Nicolas Dupain\-Aignon](https://open.spotify.com/artist/13jahwQWxrUhKBpng3HRQf) | [Lac des Buttes](https://open.spotify.com/album/5f7kNJ30Borz8VHTtsuG32) | 2:13 | 2023-08-15 | 2025-11-13 |
@@ -306,6 +308,7 @@
 | [The book of love](https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [The book of love](https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ) | 2:30 | 2023-11-08 |  |
 | [The Chapel](https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [The Chapel](https://open.spotify.com/album/6D6v2edEjUDk5OMVcvzbGO) | 3:30 | 2021-12-14 | 2025-06-11 |
 | [The Long Return](https://open.spotify.com/track/5AevI3cV3brwdOTSh1sfNo) | [Ezequiel Aragón](https://open.spotify.com/artist/683KE92SAUqlhIstBnBBXd) | [The Long Return](https://open.spotify.com/album/4XJd4lS5T8QnUww28zblCt) | 2:06 | 2026-09-18 |  |
+| [The New Season](https://open.spotify.com/track/4cMiXS1lpmobLYm97H5iYW) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [The New Season](https://open.spotify.com/album/1goMQ3J8VIXZbHfoPLkFaH) | 2:37 | 2026-10-02 |  |
 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-12 | 2025-11-13 |
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2021-12-14 | 2023-09-19 |
 | [The Road Leading Home](https://open.spotify.com/track/6MjhNXAhiZn5q8233Uzxn7) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [The Road Leading Home](https://open.spotify.com/album/787Zif3QbLeV0K7IDRKgnp) | 2:36 | 2025-08-05 |  |

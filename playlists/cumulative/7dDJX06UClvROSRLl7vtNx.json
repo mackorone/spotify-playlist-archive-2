@@ -32665,6 +32665,28 @@
     },
     {
       "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/6WnDosHEdUlJvzfNCFXcQ8"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        },
+        {
+          "name": "After June",
+          "url": "https://open.spotify.com/artist/54ca7OngsDRKrfApI0An72"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121428,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/2Ia6O1SIMz8ab2YZm8yYu9"
+    },
+    {
+      "album": {
         "name": "Wild World",
         "url": "https://open.spotify.com/album/0Vom7oxn5OCQKninzyvnqR"
       },

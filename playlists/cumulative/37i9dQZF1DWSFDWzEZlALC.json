@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: mathi",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Ivo Martin",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 206408,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/0Q4wFsYNtf9nl7WkPXsb5g"
@@ -6007,6 +6007,24 @@
     },
     {
       "album": {
+        "name": "Cry Baby Cry",
+        "url": "https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Cry Baby Cry",
+      "url": "https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG"
+    },
+    {
+      "album": {
         "name": "c\u00f4te d\u2019azur",
         "url": "https://open.spotify.com/album/2hTUA4B6JZ2wLr1ReJeyiP"
       },
@@ -7812,7 +7830,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 208078,
       "name": "Du",
       "url": "https://open.spotify.com/track/0aT7NR7uu8Hwv2vak9pcGz"
@@ -12706,7 +12724,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 129934,
       "name": "gewitter",
       "url": "https://open.spotify.com/track/4FTQpUEBblkDyn16dDjJtF"
@@ -13100,6 +13118,24 @@
       "duration_ms": 199125,
       "name": "Grauer Regenbogen",
       "url": "https://open.spotify.com/track/3jwhquyMwXSIhm3DJ0fcSy"
+    },
+    {
+      "album": {
+        "name": "Gro\u00dfe Fragen",
+        "url": "https://open.spotify.com/album/5KmpkBEqeXCtnKVKFyAvKB"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173206,
+      "name": "Gro\u00dfe Fragen",
+      "url": "https://open.spotify.com/track/4eXkBcQR26SLaoWYsPyZwJ"
     },
     {
       "album": {
@@ -16341,6 +16377,24 @@
     },
     {
       "album": {
+        "name": "Initialen",
+        "url": "https://open.spotify.com/album/11tfUWcFaNVaKXZNybnKBH"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167763,
+      "name": "Initialen",
+      "url": "https://open.spotify.com/track/60wRBOGgG38SeB5GJXRWsN"
+    },
+    {
+      "album": {
         "name": "Innenhof",
         "url": "https://open.spotify.com/album/6zYNjyY25QsA5bTiQUgxv7"
       },
@@ -17558,7 +17612,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 279097,
       "name": "Kartenhaus",
       "url": "https://open.spotify.com/track/38xbNP5TeQM90LW0FVqbOo"
@@ -21965,6 +22019,24 @@
     },
     {
       "album": {
+        "name": "Meine Wohnung",
+        "url": "https://open.spotify.com/album/7izhVupfvrvTSa4bxGbRi5"
+      },
+      "artists": [
+        {
+          "name": "Julie",
+          "url": "https://open.spotify.com/artist/5oauHSnziOzOh8jYhHs8Oi"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147217,
+      "name": "Meine Wohnung",
+      "url": "https://open.spotify.com/track/3C8j2U99wCx4nMyhsG4HHd"
+    },
+    {
+      "album": {
         "name": "meinen die uns",
         "url": "https://open.spotify.com/album/0tJ2DBgAhFaeE3AgTLYNaU"
       },
@@ -24373,6 +24445,24 @@
     },
     {
       "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/251HCSTn6NU91AxAJk2bA6"
+      },
+      "artists": [
+        {
+          "name": "gereon",
+          "url": "https://open.spotify.com/artist/565n6lo7aHtnqFDCN8HVtP"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141285,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/7txOS94i7qA6DnzFPPVwu5"
+    },
+    {
+      "album": {
         "name": "ok wenn du weinst",
         "url": "https://open.spotify.com/album/5pbngCjT6zUmGfHxI3SsRq"
       },
@@ -24454,6 +24544,24 @@
       "duration_ms": 146301,
       "name": "oktober",
       "url": "https://open.spotify.com/track/28PQchsQ78scEeJoFCEZRv"
+    },
+    {
+      "album": {
+        "name": "oktober",
+        "url": "https://open.spotify.com/album/6C230g1UOxyCivhVA8HMHU"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167081,
+      "name": "oktober",
+      "url": "https://open.spotify.com/track/2HJGbzD9NRvYV9Hs1qOs6a"
     },
     {
       "album": {
@@ -27593,6 +27701,24 @@
     },
     {
       "album": {
+        "name": "Schwere Zeiten",
+        "url": "https://open.spotify.com/album/6IFQInMDm8HTlvQFlpX662"
+      },
+      "artists": [
+        {
+          "name": "FREDRIK",
+          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208208,
+      "name": "Schwere Zeiten",
+      "url": "https://open.spotify.com/track/39P0DriLS9uhRqH99JHv33"
+    },
+    {
+      "album": {
         "name": "Schwerelos",
         "url": "https://open.spotify.com/album/4B2cqjCgqcDdripE2e574R"
       },
@@ -30510,7 +30636,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 147115,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/70pIqegEtsCh9xjQ98v3sa"
@@ -31888,7 +32014,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 121749,
       "name": "tussis > macker (mit tussi nr.1)",
       "url": "https://open.spotify.com/track/2WcQomRjWTCIonoSWNaNVC"
@@ -32482,7 +32608,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 122206,
       "name": "Urlaub auf der Autobahn",
       "url": "https://open.spotify.com/track/5Uo8BNl6iPgkekMp1dEEKX"
@@ -34092,7 +34218,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 221150,
       "name": "Was ist passiert",
       "url": "https://open.spotify.com/track/1Zz9FaZMEwOSPAYvINAAQW"
@@ -35760,6 +35886,24 @@
       "duration_ms": 153200,
       "name": "wir heben ab",
       "url": "https://open.spotify.com/track/0rDPHtQHu7a0s3Z6yyb6vL"
+    },
+    {
+      "album": {
+        "name": "wir laufen zusammen weg.",
+        "url": "https://open.spotify.com/album/2UXN8ApvSPoDpTZ9Vxtxjy"
+      },
+      "artists": [
+        {
+          "name": "Luca Noel",
+          "url": "https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158202,
+      "name": "wir laufen zusammen weg.",
+      "url": "https://open.spotify.com/track/1PaEqysWzQu7nzJnqc8uGB"
     },
     {
       "album": {

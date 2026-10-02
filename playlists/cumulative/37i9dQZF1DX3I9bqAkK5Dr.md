@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Saloni
 
-592 songs - 1 day 11 hr 10 min
+593 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Idhi Prema](https://open.spotify.com/track/6d3gMJtIqr84iWNIIVuQEQ) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Manasa Adusumilli](https://open.spotify.com/artist/0Ivg5nroRBuw5n8wX6TIDm), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Lalitha Shravani](https://open.spotify.com/artist/7h32Npfr5JQkupWW6OgWZS) | [Idhi Prema](https://open.spotify.com/album/3dv7xRIqqy2MuhYUONItic) | 3:00 | 2023-10-04 | 2025-08-15 |
 | [Idhivarakepudu](https://open.spotify.com/track/2X171GMMznwh0UZr5QJ0gF) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Idhivarakepudu](https://open.spotify.com/album/2K0f2Co8UA0qxGwKmGPGkY) | 3:58 | 2025-11-06 | 2026-03-28 |
 | [In Search Of Life](https://open.spotify.com/track/0irshJTIoKgQVTfiIjq2CH) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [In Search Of Life](https://open.spotify.com/album/00Q5uYS7BzbLpm08mxC23e) | 3:45 | 2023-04-05 | 2023-07-04 |
+| [IN TIME](https://open.spotify.com/track/4aONUYz7sbEPQLUI0tkGlK) | [Abhiram Dantuluri](https://open.spotify.com/artist/05PgRa1qJ4K1bDmkCGcGnT), [Prakruthi Reddy](https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN), [Sri Sai Kiran](https://open.spotify.com/artist/5qGB4a7ofOTfizCOQX5U5b), [Eli Pafumi](https://open.spotify.com/artist/0BSiD6MNk4MeHBg9IPyuON) | [IN TIME](https://open.spotify.com/album/6FCRB8FszM8dhqJWeR1NLJ) | 4:24 | 2026-09-29 |  |
 | [INDIAN HIPHOP](https://open.spotify.com/track/113BYbdqf0kWunlw3ZG6nb) | [IN SAINITY](https://open.spotify.com/artist/5olrFo2BenPv61UX8CaK6P), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj), [MAAMSAHARI](https://open.spotify.com/artist/7hwk312K7gTvkDm62e36eR) | [INDIAN HIPHOP](https://open.spotify.com/album/423h0WhPvPaMpQaeBAngli) | 2:50 | 2025-09-05 | 2025-11-12 |
 | [Indrajaalam](https://open.spotify.com/track/6bBtQflwHLrskjlPciYyoI) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Indrajaalam](https://open.spotify.com/album/2ih6hzcJEBCmeKgXJbIivT) | 4:26 | 2022-10-28 | 2023-05-26 |
 | [Inkola](https://open.spotify.com/track/1koGGNOAWSLg6qh2kxS6UX) | [DaKrish](https://open.spotify.com/artist/3loSOILEnkRrBpuwUnjxaD) | [Inkola](https://open.spotify.com/album/67SfotzEC6YyLiiLcfdkF4) | 2:25 | 2025-01-29 | 2025-05-30 |

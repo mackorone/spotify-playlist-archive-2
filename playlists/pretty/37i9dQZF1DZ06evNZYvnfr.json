@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 5620,
+  "num_followers": 5623,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADplziqK5HZo2LNhFTk2KGA",
+  "snapshot_id": "arxRAAAAAAAvtDROCJweDNGVs1f9H+1f",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Story Your Glory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
       "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 188544,
-      "name": "My Story Your Glory - Micah Tyler Collab Version",
-      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
+      "duration_ms": 184911,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
+        "name": "My Story Your Glory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
       },
       "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 184911,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO"
+      "duration_ms": 188544,
+      "name": "My Story Your Glory - Micah Tyler Collab Version",
+      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 223883,
-      "name": "You Make Sense",
-      "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
+      "duration_ms": 232869,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/6XdxpgFTSv93A0cyHVV19T"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 232869,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/6XdxpgFTSv93A0cyHVV19T"
+      "duration_ms": 223883,
+      "name": "You Make Sense",
+      "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
     },
     {
       "added_at": null,

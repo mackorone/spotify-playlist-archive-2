@@ -1,15 +1,43 @@
 {
-  "description": "Motion & good vibes! Cover: Issah",
-  "num_followers": 333998,
+  "description": "Motion & good vibes! Cover: Veertien, Elf & RResstante",
+  "num_followers": 333994,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD3eBkxmzOxAmRUgrk7lmCvv404p",
+  "snapshot_id": "AAAAALyVyTDzdYgyJsXDlkJa7Pokew75",
   "tracks": [
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/6oYiQXxQB0vy3t53ctS6Jk"
+      },
+      "artists": [
+        {
+          "name": "Elf",
+          "url": "https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0"
+        },
+        {
+          "name": "Veertien",
+          "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+        },
+        {
+          "name": "RResstante",
+          "url": "https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC"
+        },
+        {
+          "name": "Reimas",
+          "url": "https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5HXeCwmw49PWb9ufQyTWB9"
+    },
+    {
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "BADDIES IN BELGICA",
         "url": "https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k"
@@ -25,7 +53,23 @@
       "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
+      "album": {
+        "name": "Fijnproever",
+        "url": "https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q"
+    },
+    {
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "SLICK",
         "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
@@ -41,7 +85,23 @@
       "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 195285,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
+    },
+    {
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "WASABi",
         "url": "https://open.spotify.com/album/52CdDvBiSQYtM6YcNQwYLH"
@@ -65,7 +125,7 @@
       "url": "https://open.spotify.com/track/0rGvB4wGVmJP2xJPH5BFDN"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "RMB (Ring My Bell) [Dutch Remix]",
         "url": "https://open.spotify.com/album/0eN66Qybkjf74fezPXrV5Y"
@@ -85,23 +145,7 @@
       "url": "https://open.spotify.com/track/136gKCrEqngRWnuqhITjin"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 195285,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Laat Los",
         "url": "https://open.spotify.com/album/5S8wkK1ykrJf0LuuvOa5fi"
@@ -121,7 +165,7 @@
       "url": "https://open.spotify.com/track/6yDx7d75fj1kbdBwUiLZOH"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Bottega",
         "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
@@ -137,7 +181,7 @@
       "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "CITY GIRLS",
         "url": "https://open.spotify.com/album/5mVUUnAT9X1hxH3wwQVRuh"
@@ -157,7 +201,7 @@
       "url": "https://open.spotify.com/track/69LWmODl0HPfbteNIPurOm"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "VOODOO",
         "url": "https://open.spotify.com/album/3ecBewVWWL3H9lmqD2Jh5I"
@@ -177,7 +221,7 @@
       "url": "https://open.spotify.com/track/1m6CMEuJPdFJolVZOyuuy8"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Sant\u00e9",
         "url": "https://open.spotify.com/album/61Nzzb8k9ZOw8Us2x2J1Rb"
@@ -201,27 +245,35 @@
       "url": "https://open.spotify.com/track/6HhjFgF2NZcw424Tq6Ox3y"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
-        "name": "CLUB IS BOM",
-        "url": "https://open.spotify.com/album/0Ny7MI5x5AJ28qfxxFjwM8"
+        "name": "Ballerina",
+        "url": "https://open.spotify.com/album/2NU0uBPSnUhtHvVlo8y0CF"
       },
       "artists": [
         {
-          "name": "Babel-Ish",
-          "url": "https://open.spotify.com/artist/1fVUzi8EF2oGNzPuP7g7EG"
+          "name": "KARYO",
+          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
         },
         {
-          "name": "LorryRast",
-          "url": "https://open.spotify.com/artist/5vjMyJWKTvMpRxR9XzQYqO"
+          "name": "Iamroyston",
+          "url": "https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i"
+        },
+        {
+          "name": "Contrass",
+          "url": "https://open.spotify.com/artist/0SSGz7Qs6EYEwJlcRDWRvN"
+        },
+        {
+          "name": "Lkhn",
+          "url": "https://open.spotify.com/artist/0A9xIjRKoCT98oZkPEq7RJ"
         }
       ],
-      "duration_ms": 105831,
-      "name": "CLUB IS BOM",
-      "url": "https://open.spotify.com/track/0QZ9NyYRgNwXqeVahHnxvD"
+      "duration_ms": 125400,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/5cTDO7ZCsNsEVEyA2Kri8m"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Shawty Come On",
         "url": "https://open.spotify.com/album/5gJRKQtRof0zpUjrlCPec9"
@@ -241,7 +293,7 @@
       "url": "https://open.spotify.com/track/2zDhPEIPW4l0e7gTzWsPt5"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y"
@@ -261,7 +313,55 @@
       "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
+      "album": {
+        "name": "HELLOW",
+        "url": "https://open.spotify.com/album/1f5syRhp4ZgXlfq737m0e2"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 140072,
+      "name": "HELLOW",
+      "url": "https://open.spotify.com/track/4SflWbTGSxuuZVihqZnoKo"
+    },
+    {
+      "added_at": "2026-10-01 22:01:40",
+      "album": {
+        "name": "Baddies Club",
+        "url": "https://open.spotify.com/album/7gzD8uQEkDLWRPzsNh4iPo"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Baddies Club",
+      "url": "https://open.spotify.com/track/3QboaWCTwe8CF1Do1NtrPe"
+    },
+    {
+      "added_at": "2026-10-01 22:01:40",
+      "album": {
+        "name": "Shoot My Shot",
+        "url": "https://open.spotify.com/album/3iGwhL9GFQSHZRdQz8W8dc"
+      },
+      "artists": [
+        {
+          "name": "BTJE",
+          "url": "https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV"
+        }
+      ],
+      "duration_ms": 129677,
+      "name": "Shoot My Shot",
+      "url": "https://open.spotify.com/track/2WRzPSeVGDly5pc8Ha1r45"
+    },
+    {
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Gimme Gimme",
         "url": "https://open.spotify.com/album/2OVSBdWqi2dEA1bTqOhp53"
@@ -289,107 +389,7 @@
       "url": "https://open.spotify.com/track/291ozoyovT0N8Chwm9E9yd"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "HELLOW",
-        "url": "https://open.spotify.com/album/1f5syRhp4ZgXlfq737m0e2"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 140072,
-      "name": "HELLOW",
-      "url": "https://open.spotify.com/track/4SflWbTGSxuuZVihqZnoKo"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "K*tje Likken",
-        "url": "https://open.spotify.com/album/44ViY4CKKodbSNieEsV0qt"
-      },
-      "artists": [
-        {
-          "name": "IMMO",
-          "url": "https://open.spotify.com/artist/4u4FCKbVpmElVrIlqpBSjm"
-        },
-        {
-          "name": "TAVV",
-          "url": "https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM"
-        },
-        {
-          "name": "Beckie",
-          "url": "https://open.spotify.com/artist/26vgmDQj9sciypmPvShds8"
-        },
-        {
-          "name": "Ori",
-          "url": "https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1"
-        }
-      ],
-      "duration_ms": 128611,
-      "name": "K*tje Likken",
-      "url": "https://open.spotify.com/track/6LOI58zBN2myBRbygbnDMe"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Baddies Club",
-        "url": "https://open.spotify.com/album/7gzD8uQEkDLWRPzsNh4iPo"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Baddies Club",
-      "url": "https://open.spotify.com/track/3QboaWCTwe8CF1Do1NtrPe"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Shoot My Shot",
-        "url": "https://open.spotify.com/album/3iGwhL9GFQSHZRdQz8W8dc"
-      },
-      "artists": [
-        {
-          "name": "BTJE",
-          "url": "https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV"
-        }
-      ],
-      "duration_ms": 129677,
-      "name": "Shoot My Shot",
-      "url": "https://open.spotify.com/track/2WRzPSeVGDly5pc8Ha1r45"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Ze zijn Jarig",
-        "url": "https://open.spotify.com/album/2HELeBYiib0RchcZZJ94Mj"
-      },
-      "artists": [
-        {
-          "name": "Elka $ava",
-          "url": "https://open.spotify.com/artist/0IXfAEtMWooymMr5x9TIs7"
-        },
-        {
-          "name": "Aptijt",
-          "url": "https://open.spotify.com/artist/0ELGXwQP9ojdXEwL8ZjkQn"
-        },
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Ze zijn Jarig",
-      "url": "https://open.spotify.com/track/2zEOqCPT93dIwiCANEziZE"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Osso",
         "url": "https://open.spotify.com/album/0prA4VMDqiTs6pEr5pPoBA"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/05HjN1JDMU4avSiOAQa8Cz"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Gun Me",
         "url": "https://open.spotify.com/album/4WMNReftTwjeDbLllr3ZXX"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/4Aeb37AXzOxqP25gPREyQH"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "DJ ROFFA (LIVE @ FLEX FM)",
         "url": "https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/272LHoUTjBH084rYEZ3X4T"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "LIT",
         "url": "https://open.spotify.com/album/4HdqHkhQ68rPrbo48qAGk1"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/0nGMyl2aeLDpZsVyf9GAhC"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "DEMMI MARROKI",
         "url": "https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "L'undertaker, Pt.2",
         "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
@@ -533,7 +533,27 @@
       "url": "https://open.spotify.com/track/5K5nYUjeH3DUcAYTQpZT6o"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
+      "album": {
+        "name": "CLUB IS BOM",
+        "url": "https://open.spotify.com/album/0Ny7MI5x5AJ28qfxxFjwM8"
+      },
+      "artists": [
+        {
+          "name": "Babel-Ish",
+          "url": "https://open.spotify.com/artist/1fVUzi8EF2oGNzPuP7g7EG"
+        },
+        {
+          "name": "LorryRast",
+          "url": "https://open.spotify.com/artist/5vjMyJWKTvMpRxR9XzQYqO"
+        }
+      ],
+      "duration_ms": 105831,
+      "name": "CLUB IS BOM",
+      "url": "https://open.spotify.com/track/0QZ9NyYRgNwXqeVahHnxvD"
+    },
+    {
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Babacan",
         "url": "https://open.spotify.com/album/7djwdUEwFmuQMhDHjUnndN"
@@ -557,7 +577,7 @@
       "url": "https://open.spotify.com/track/1Rivqj8NT6A37CMGSZywXA"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "DJ",
         "url": "https://open.spotify.com/album/3g0J73UzqE9DmNVqbJ0p9a"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Stupid (Move It)",
         "url": "https://open.spotify.com/album/6mw5Lz20a0Nrn0j18rc4pk"
@@ -597,63 +617,39 @@
       "url": "https://open.spotify.com/track/6kfsiJ3wSS97qM0oQxey2n"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
-        "name": "That's My Type",
-        "url": "https://open.spotify.com/album/6L8dZEntatgOrWMOiONooZ"
+        "name": "Pon Time Again (Club Remixes)",
+        "url": "https://open.spotify.com/album/3iwKKaENAjCnnVP8iXwMqT"
       },
       "artists": [
         {
-          "name": "Benzo",
-          "url": "https://open.spotify.com/artist/0GCWppR5RVwCGB8pdKaA7k"
-        }
-      ],
-      "duration_ms": 104237,
-      "name": "That's My Type",
-      "url": "https://open.spotify.com/track/5pmhsXwL7Pd5uARKhGFr60"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         },
         {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 168331,
-      "name": "Ms. Paper (feat. Theodora)",
-      "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Kiba Hasi Kumi",
-        "url": "https://open.spotify.com/album/182O5HKU6Qqyf1CjdXMxvc"
-      },
-      "artists": [
-        {
-          "name": "KARYO",
-          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
         },
         {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+          "name": "Yung Alpha",
+          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
+        },
+        {
+          "name": "ORANGE HILL",
+          "url": "https://open.spotify.com/artist/52P8wnoGYORbI1uZLC6b5P"
+        },
+        {
+          "name": "BADBOX",
+          "url": "https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf"
         }
       ],
-      "duration_ms": 118080,
-      "name": "Kiba Hasi Kumi",
-      "url": "https://open.spotify.com/track/4DNWHSNBl850XwGoaRDTqU"
+      "duration_ms": 308000,
+      "name": "Pon Time Again - BadBox Club Remix",
+      "url": "https://open.spotify.com/track/1MwIefbdmBlZgvc4Zh9jCp"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "DRIBBELEN",
         "url": "https://open.spotify.com/album/483KgDOxhtNiI4lG2jotCZ"
@@ -677,7 +673,7 @@
       "url": "https://open.spotify.com/track/2GSzwgVhIKwLDG68tQqVfm"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "DJ ROFFA (LIVE @ FLEX FM)",
         "url": "https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh"
@@ -697,7 +693,7 @@
       "url": "https://open.spotify.com/track/40b6xJ99S7rTBKBOleYU4B"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Nala Flow",
         "url": "https://open.spotify.com/album/69M1KAj9kJWSnuInufgFUY"
@@ -717,7 +713,7 @@
       "url": "https://open.spotify.com/track/0pMjcIJm6NMsIIG2RBdnPj"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Go Down",
         "url": "https://open.spotify.com/album/2cHKiJ6xPrxeLPOIrutLOK"
@@ -741,7 +737,7 @@
       "url": "https://open.spotify.com/track/5fbE2mzBMo7u0FvT6MQrwT"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Offline",
         "url": "https://open.spotify.com/album/0rCKeKhHd2PxT7t6WskOwB"
@@ -761,7 +757,7 @@
       "url": "https://open.spotify.com/track/47o1tPr03M90YKFO4zCHoM"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Giv Dem Wha Dey Wan",
         "url": "https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf"
@@ -781,7 +777,7 @@
       "url": "https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Baddie\u2019s Hier",
         "url": "https://open.spotify.com/album/31udnukFxYubpQltKWkZ6A"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/5Fr0m8RZP4bueLTiD86MN3"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "nooit goed",
         "url": "https://open.spotify.com/album/63HBrOBODfgTLCFuX0BEXO"
@@ -829,7 +825,7 @@
       "url": "https://open.spotify.com/track/58uIdv4eaQ7hhwJ1dbgU5q"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "alle baddies",
         "url": "https://open.spotify.com/album/2z28ARvrEpWPGbukR1kGXT"
@@ -857,39 +853,7 @@
       "url": "https://open.spotify.com/track/2sLGd8jUJGGDTECIBV1LMY"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/7tzBC7fXZKDhNyQECQVd1m"
-      },
-      "artists": [
-        {
-          "name": "Tera K\u00f2r\u00e1",
-          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
-        },
-        {
-          "name": "Shaz",
-          "url": "https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9"
-        },
-        {
-          "name": "Captain Scrappy",
-          "url": "https://open.spotify.com/artist/2jIdSiHnlOMWGnJwxTFAEO"
-        },
-        {
-          "name": "SAGE FWI",
-          "url": "https://open.spotify.com/artist/6gjMbxDHd7jY74R0T384M9"
-        },
-        {
-          "name": "DJ Addo",
-          "url": "https://open.spotify.com/artist/29Exc1nK0cLqigZFHBtdB6"
-        }
-      ],
-      "duration_ms": 114014,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/13CiTQvNCngWGsL1SrDFjZ"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Zet Het",
         "url": "https://open.spotify.com/album/5W5U9O7xvg8ot6O5msC231"
@@ -905,7 +869,7 @@
       "url": "https://open.spotify.com/track/7scwK2eRedF2TFHkxastTx"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Pump It Up",
         "url": "https://open.spotify.com/album/4oM6Biaxvn6GhInwP4QcMP"
@@ -921,7 +885,7 @@
       "url": "https://open.spotify.com/track/0upSzPwtWJze81q4umsKIN"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Alles Is Ok\u00e9",
         "url": "https://open.spotify.com/album/03XHGM7fb7OAXxeSYCQJCi"
@@ -945,7 +909,7 @@
       "url": "https://open.spotify.com/track/5TZ8Lh4qmnTkZocWmlo5dr"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Freak In The Weekend",
         "url": "https://open.spotify.com/album/0N3QCPcztGHKyP55w6VMEI"
@@ -969,31 +933,7 @@
       "url": "https://open.spotify.com/track/6cbstES4Jf6WMG15WfNiIx"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Line Up",
-        "url": "https://open.spotify.com/album/6S9qsE8NkX0ZWOEzyRfE5j"
-      },
-      "artists": [
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        },
-        {
-          "name": "Giniio",
-          "url": "https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM"
-        },
-        {
-          "name": "Jhorrmountain",
-          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "Line Up",
-      "url": "https://open.spotify.com/track/4ImREwu4LD5sd3nc9ubtj2"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Exotisch (Sangria)",
         "url": "https://open.spotify.com/album/168cUsH1xYOtXelbsh7U00"
@@ -1017,7 +957,7 @@
       "url": "https://open.spotify.com/track/0wETChJmZMcTIaFpi685x9"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "L'undertaker Part.1",
         "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
@@ -1033,7 +973,7 @@
       "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/4YNfqUF8keHTgZuNpz7vPE"
@@ -1053,7 +993,7 @@
       "url": "https://open.spotify.com/track/3kihf5wWzLdE0xwmVDtPSU"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "PLECHE",
         "url": "https://open.spotify.com/album/4f8HNZUBCy103UG6GPBOJu"
@@ -1073,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4iCifwCwUSJRfbCL0G2s6s"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "AL ME LADIES (feat. Scarface)",
         "url": "https://open.spotify.com/album/3TuIkrTo6MZGWQLkchWExB"
@@ -1105,39 +1045,7 @@
       "url": "https://open.spotify.com/track/5xatt9NJdj7mAYE5ZxrpPo"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Madd Ting (Remix)",
-        "url": "https://open.spotify.com/album/6b1Lzzk3fbf9hw3pj2dxAz"
-      },
-      "artists": [
-        {
-          "name": "KARYO",
-          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
-        },
-        {
-          "name": "JUGGLERZ",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
-        },
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Jhorrmountain",
-          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "Madd Ting - Remix",
-      "url": "https://open.spotify.com/track/3VzM9h29NlXJt5SdD1AE1d"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "POPULAIR",
         "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
@@ -1161,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "VIVE LA MONNAIE",
         "url": "https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An"
@@ -1181,27 +1089,7 @@
       "url": "https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "So Amazing",
-        "url": "https://open.spotify.com/album/4lpKhHcpX7Cq2Z70z9rhFt"
-      },
-      "artists": [
-        {
-          "name": "Dylisa",
-          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
-        },
-        {
-          "name": "FJ",
-          "url": "https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49"
-        }
-      ],
-      "duration_ms": 148172,
-      "name": "So Amazing",
-      "url": "https://open.spotify.com/track/2K4g1jqXcHov6GBfSaBd25"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "COCA BODY",
         "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
@@ -1225,7 +1113,7 @@
       "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Obsesi\u00f3n",
         "url": "https://open.spotify.com/album/2S8bpFQn8cc2yl6EQKhWHi"
@@ -1245,7 +1133,7 @@
       "url": "https://open.spotify.com/track/0fBteXpHd8vCMptP4YLtTi"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Rozen & Blaadjes",
         "url": "https://open.spotify.com/album/1v6MVT0CLct3K7NGC9gQmj"
@@ -1269,7 +1157,7 @@
       "url": "https://open.spotify.com/track/2GRrIFuUibIBf2RMFYu1MR"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "R&B SH*T",
         "url": "https://open.spotify.com/album/7LNisNMZx8RErvkiqSaKac"
@@ -1289,27 +1177,7 @@
       "url": "https://open.spotify.com/track/7m8PKvUkxutSYHsXOyY68Q"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/4j52h0Jclht4HPXKho4sHo"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        },
-        {
-          "name": "Penchi",
-          "url": "https://open.spotify.com/artist/4NOvTuUeo0tIV8uZx5iEgl"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/3oIdq3dNLGB6sHUKPTYqmm"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Destin\u00e9e Supremacy",
         "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
@@ -1325,31 +1193,27 @@
       "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
-        "name": "Spoilen",
-        "url": "https://open.spotify.com/album/6fDkEXhvO2ABPYGuRpsZYD"
+        "name": "BANDZ WILL MAKE HER DANCE",
+        "url": "https://open.spotify.com/album/7HB63LtdEj3TIYfq7NLsQh"
       },
       "artists": [
         {
-          "name": "Stanga",
-          "url": "https://open.spotify.com/artist/6cnlzMlMZJtZMKROe8wNwZ"
+          "name": "2LLOOSE",
+          "url": "https://open.spotify.com/artist/0Vubhkx1iwaetTI7K9x36W"
         },
         {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/4fETIXsKMsonclRBVrUGe4"
-        },
-        {
-          "name": "Coldcase",
-          "url": "https://open.spotify.com/artist/3IYJJywEefHtO0WnPs5mkI"
+          "name": "Thirty4.",
+          "url": "https://open.spotify.com/artist/2psvaasrIp6HmHAeOTMcuo"
         }
       ],
-      "duration_ms": 207857,
-      "name": "Spoilen",
-      "url": "https://open.spotify.com/track/1G6VgvEO8hQ1cDsoeIIutM"
+      "duration_ms": 202000,
+      "name": "BANDZ WILL MAKE HER DANCE",
+      "url": "https://open.spotify.com/track/3eZcZEkUBWmPJexuA0lyaW"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Ben Binnen",
         "url": "https://open.spotify.com/album/700vt7p4iv203FNrCDRPyj"
@@ -1377,7 +1241,7 @@
       "url": "https://open.spotify.com/track/0HIusHq6F43gP0Wc0xgnK1"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Ereronde (Deluxe)",
         "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
@@ -1393,43 +1257,7 @@
       "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "PUNTA CANA (feat. ADF Antje & Trapmoneybiggie)",
-        "url": "https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf"
-      },
-      "artists": [
-        {
-          "name": "ADF",
-          "url": "https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "DJ DYLVN",
-          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
-        },
-        {
-          "name": "Carel",
-          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
-        },
-        {
-          "name": "ADF Antje",
-          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
-        },
-        {
-          "name": "Trapmoneybiggie",
-          "url": "https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv"
-        }
-      ],
-      "duration_ms": 148185,
-      "name": "PUNTA CANA",
-      "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Maladie",
         "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
@@ -1445,7 +1273,7 @@
       "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Kontinental",
         "url": "https://open.spotify.com/album/7lfdPGFAAb1q865fCg0h9P"
@@ -1465,7 +1293,7 @@
       "url": "https://open.spotify.com/track/7lZMfofccEtyb3SEAWzWFP"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Sensa (Remix)",
         "url": "https://open.spotify.com/album/2g8XQcDhSdUBuMAtBg6xb9"
@@ -1489,7 +1317,7 @@
       "url": "https://open.spotify.com/track/76yGv86zc8Jr62SKbpploW"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
@@ -1505,7 +1333,7 @@
       "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "F*CK KLEINE",
         "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
@@ -1525,7 +1353,7 @@
       "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
     },
     {
-      "added_at": "2026-09-24 22:01:20",
+      "added_at": "2026-10-01 22:01:40",
       "album": {
         "name": "De Ene Hand Wast De Ander (Deluxe)",
         "url": "https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5"
@@ -1539,26 +1367,6 @@
       "duration_ms": 189026,
       "name": "Maak Me Niet Heet",
       "url": "https://open.spotify.com/track/0npU90BM992t07Oh3hfaYb"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Tropische Winter - EP",
-        "url": "https://open.spotify.com/album/5Fb375HJAjUo2cpMVcMeYd"
-      },
-      "artists": [
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 131621,
-      "name": "Hoe Het Zit",
-      "url": "https://open.spotify.com/track/5vcX8np7L6fTFlcfiEZCSK"
     }
   ],
   "unique_name": "La Vida Loca",

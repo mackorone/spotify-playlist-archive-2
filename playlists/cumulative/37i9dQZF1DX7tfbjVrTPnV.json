@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Son Volt",
+  "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
   "name": "Americana Icons",
   "tracks": [
     {
@@ -1959,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "Hear Me Now",
+        "url": "https://open.spotify.com/album/4RSgFSoQ18kyzbmUKcO3jp"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255342,
+      "name": "Hear Me Now",
+      "url": "https://open.spotify.com/track/4WsqDR7XJqVJO0xuPcoLuX"
+    },
+    {
+      "album": {
         "name": "My Favorite Picture Of You",
         "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
       },
@@ -2302,7 +2324,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 149422,
       "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
       "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
@@ -3390,7 +3412,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 195266,
       "name": "Never Let a Day Go By",
       "url": "https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl"
@@ -5070,6 +5092,24 @@
       "duration_ms": 329746,
       "name": "Time After Time - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+    },
+    {
+      "album": {
+        "name": "Found Dogs",
+        "url": "https://open.spotify.com/album/383eZVIN0GzKNWEQZwC6sM"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/1U5aOY6V1s7D1jbnrzq7JA"
     },
     {
       "album": {

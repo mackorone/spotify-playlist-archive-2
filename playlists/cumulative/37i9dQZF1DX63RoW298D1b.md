@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-268 songs - 11 hr 18 min
+270 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-09-05 | 2025-03-13 |
 | [Land between lakes](https://open.spotify.com/track/1uw3cBoD7RE98MyBlOlKAn) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [Land between lakes](https://open.spotify.com/album/6pp5hT2brxt970S7wlxyD4) | 2:25 | 2026-06-12 |  |
 | [Largo](https://open.spotify.com/track/5rRK6mamdef3a6eWz14vzU) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Afterglow](https://open.spotify.com/album/6Xc8TRCE8M96FBYcPp34YT) | 3:13 | 2023-05-09 | 2025-03-13 |
+| [Lavanda](https://open.spotify.com/track/476apSk4bDj06MZzObFOMy) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Lavanda](https://open.spotify.com/album/2aO5gDoO79xetdM0i7x3bn) | 2:13 | 2026-10-02 |  |
 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 | 2023-12-12 |  |
 | [le voyageur](https://open.spotify.com/track/2P98sgjysEmr03BP9oeAVV) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [le voyageur](https://open.spotify.com/album/4LmxUW2uMCOho2RHATKWvX) | 2:30 | 2024-10-01 |  |
 | [Lemon Drops](https://open.spotify.com/track/7DOdOzLWTowPBXMCHpR3mq) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Lemon Drops](https://open.spotify.com/album/4jT1vkr1Nu2b74zbo8xDSU) | 2:11 | 2023-07-18 | 2024-02-03 |
@@ -171,6 +172,7 @@
 | [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 | 2024-03-19 | 2025-09-18 |
 | [Now And Before](https://open.spotify.com/track/4tMEY0J6K9yqD87Soyghrk) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Now And Before](https://open.spotify.com/album/36YDYhgvnRFligfHWZbbIk) | 2:01 | 2025-02-26 |  |
 | [Now The Leaves Are Falling](https://open.spotify.com/track/04BbfF1OmlQYySiRkosklB) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Now The Leaves Are Falling](https://open.spotify.com/album/2LTIXjHfpEQ5qTjGFrv9Mk) | 2:12 | 2023-11-13 | 2025-04-10 |
+| [Nuit Feutrée](https://open.spotify.com/track/2Pie7jecLOQPSpkfv4HF9r) | [Matt van Stern](https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza) | [Nuit Feutrée](https://open.spotify.com/album/2fe2SGz0WLmEXkfC6etUPh) | 2:44 | 2026-10-02 |  |
 | [Old Love Letters](https://open.spotify.com/track/2mhP5eGS9TMJ1m29xzP7F6) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Old Love Letters](https://open.spotify.com/album/1prkPC6ctTBlDKcQ6zUplq) | 2:47 | 2025-09-17 |  |
 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 | 2024-05-07 |  |
 | [Once Forever Ago](https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Once Forever Ago](https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6) | 2:26 | 2024-03-05 |  |

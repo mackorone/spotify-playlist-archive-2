@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 166739,
+  "num_followers": 166744,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 295360,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Amniotic (Deluxe Version)",
         "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 274138,
       "name": "Outgrown",
       "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Underground Vibes",
-        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
-      },
-      "artists": [
-        {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Mad Blunted Jazz",
-      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Acchordance",
         "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 276154,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Underground Vibes",
+        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Mad Blunted Jazz",
+      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 196989,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Introspection",
-      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+      },
+      "artists": [
+        {
+          "name": "BV",
+          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
-      },
-      "artists": [
-        {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 148855,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1727,22 +1727,18 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "NOT TOO DEEP (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/7vunoY8kfwitFWcNaPzqNj"
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
       "artists": [
         {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 288412,
-      "name": "NOT TOO DEEP (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/2u925ft5mxwxYLhMQ7Sr72"
+      "duration_ms": 203946,
+      "name": "If You Think It's Love",
+      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

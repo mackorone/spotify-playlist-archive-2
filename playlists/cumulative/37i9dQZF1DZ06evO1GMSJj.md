@@ -4,7 +4,7 @@
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-121 songs - 7 hr 18 min
+122 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 | 2023-02-17 |  |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2022-05-29 | 2023-02-18 |
 | [Rue The Whirl](https://open.spotify.com/track/3Jp9ys8LTCzv9jPe0t8fHB) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 6:39 | 2022-07-29 | 2022-09-23 |
+| [Satellite Anthem Icarus](https://open.spotify.com/track/4b3i2rXFZx9JqQQq9KuVAj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 6:04 | 2026-10-02 |  |
 | [Satellite Anthem Icarus](https://open.spotify.com/track/6pxWghcPKRSjZPj8Ba9vpB) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 6:04 | 2022-05-29 | 2022-10-21 |
 | [Sick Times](https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:16 | 2022-06-20 | 2022-10-05 |
 | [Sixtyniner](https://open.spotify.com/track/5PC3XlGumMa31O5sKWTp1s) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 5:17 | 2022-05-29 | 2023-02-17 |
@@ -107,7 +108,7 @@
 | [Sundown](https://open.spotify.com/track/41inrFf4u5pmKmSBTN4PwQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:16 | 2022-10-12 | 2023-02-16 |
 | [Sunshine Recorder](https://open.spotify.com/track/0KrPPiJdAWrFIdn4pq3BZ2) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 6:12 | 2022-05-29 | 2022-10-13 |
 | [Tears From The Compound Eye](https://open.spotify.com/track/0nRe4ZWzbiFjJIJFEk1u3F) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 4:03 | 2022-05-29 | 2022-10-13 |
-| [Tears From The Compound Eye](https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 4:03 | 2025-10-02 |  |
+| [Tears From The Compound Eye](https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 4:03 | 2025-10-02 | 2026-10-02 |
 | [Telepath](https://open.spotify.com/track/4oQkvCJqnX5kbc0ZnB0z4n) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 1:32 | 2022-10-12 | 2023-02-15 |
 | [Telepath](https://open.spotify.com/track/6Z8bGnzoSNxuKEz70dJu6b) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 1:32 | 2023-02-14 | 2026-02-27 |
 | [Telephasic Workshop](https://open.spotify.com/track/5B5nloaA2UpNrjweosqVe3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 6:35 | 2022-05-29 | 2022-10-13 |

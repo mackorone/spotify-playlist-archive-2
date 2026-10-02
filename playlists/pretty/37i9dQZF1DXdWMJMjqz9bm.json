@@ -1,12 +1,12 @@
 {
   "description": "a little rap, a little pop, a little country... sometimes. BabyChiefDoIt on the cover.",
-  "num_followers": 226717,
+  "num_followers": 226724,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHnXre7Co/Si8EOhfMG5JqYaqn8v",
+  "snapshot_id": "AAAAAAlmeeJyY3z3Wyj/CsPnG1Dx3QHo",
   "tracks": [
     {
       "added_at": "2026-07-21 22:03:27",
@@ -55,6 +55,26 @@
       "duration_ms": 242240,
       "name": "ready or noT",
       "url": "https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU"
+    },
+    {
+      "added_at": "2026-10-02 04:00:44",
+      "album": {
+        "name": "Saka (feat. Deevs)",
+        "url": "https://open.spotify.com/album/1QPw2PAUNA2QmuHhfhlmEe"
+      },
+      "artists": [
+        {
+          "name": "Sorisa",
+          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
+        },
+        {
+          "name": "Deevs",
+          "url": "https://open.spotify.com/artist/2vChbpN0pKavKltjuPSFNN"
+        }
+      ],
+      "duration_ms": 99592,
+      "name": "Saka (feat. Deevs)",
+      "url": "https://open.spotify.com/track/4ABQ0QuzGvHFWyTNMyKUYF"
     },
     {
       "added_at": "2026-09-26 21:26:29",
@@ -867,22 +887,6 @@
       "duration_ms": 131729,
       "name": "What You Saying",
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "someone new",
-        "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "someone new",
-      "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
     },
     {
       "added_at": "2026-01-05 22:03:13",

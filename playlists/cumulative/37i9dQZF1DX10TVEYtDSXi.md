@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-299 songs - 15 hr 51 min
+300 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-21 | 2025-08-01 |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 | 2026-04-10 | 2026-07-02 |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-21 | 2025-05-09 |
-| [Rokk Tónlist](https://open.spotify.com/track/5Urju4hVP9wVbiXRjs6c7k) | [Gross](https://open.spotify.com/artist/1LxLj4vppufRm90N3Avz7k) | [Rokk Tónlist](https://open.spotify.com/album/0MIZ50vG4zFhWs3s94Kfzq) | 1:55 | 2026-09-17 |  |
+| [Rokk Tónlist](https://open.spotify.com/track/5Urju4hVP9wVbiXRjs6c7k) | [Gross](https://open.spotify.com/artist/1LxLj4vppufRm90N3Avz7k) | [Rokk Tónlist](https://open.spotify.com/album/0MIZ50vG4zFhWs3s94Kfzq) | 1:55 | 2026-09-17 | 2026-10-02 |
 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-02-14 | 2025-07-11 |
 | [Saga Class](https://open.spotify.com/track/6Ub81suCL3HnM30LJa4JST) | [HelgiT](https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL), [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Saga Class](https://open.spotify.com/album/5ws8t2nOVAeiPFd4hKxvj0) | 2:29 | 2025-09-26 | 2025-11-14 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-11 | 2025-03-29 |
@@ -304,6 +304,7 @@
 | [Íslenski draumurinn](https://open.spotify.com/track/1bsaJvHRfM8xxgLGa2PUVQ) | [Unnsteinn](https://open.spotify.com/artist/2OsysEFABxUiubXfbfmrWF), [Logi Pedro](https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H), [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Íslenski draumurinn](https://open.spotify.com/album/4yrNXXxVHzJ5wSpXVSLFhg) | 3:23 | 2025-01-31 | 2025-04-18 |
 | [Ó elsku Þjóðhátíð](https://open.spotify.com/track/4qKYw6OL6eBlmKDau5NPWS) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [Ó elsku Þjóðhátíð](https://open.spotify.com/album/7hmnusXkuvxdcrccySE5js) | 3:34 | 2026-07-03 | 2026-08-12 |
 | [Ómótstæðileg](https://open.spotify.com/track/6Ms1VXrDvwYbJzgX0siMkX) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Legend í Leiknum](https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3) | 3:08 | 2024-08-16 | 2024-08-23 |
+| [ÚT](https://open.spotify.com/track/3m24tIcvw6Uu84F9bQ2bKN) | [NUSSUN](https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx) | [ÚT](https://open.spotify.com/album/7M1QvUgGaNM5tEPBQ5iqiR) | 3:12 | 2026-10-02 |  |
 | [Þarft að vita](https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Þarft að vita](https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD) | 2:02 | 2025-08-08 | 2026-06-12 |
 | [Þessum bar](https://open.spotify.com/track/5wAqnybeSKhZtxPkMgDwzU) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [Þessum bar](https://open.spotify.com/album/3zGBuDlBdtIvt5DIlZK0Sd) | 2:23 | 2026-03-13 |  |
 | [ÞÚ ERT HÉR](https://open.spotify.com/track/0TbjheMOqpbTXuUWcL3bBt) | [Joey Christ](https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX) | [Joey 3](https://open.spotify.com/album/6cdZW1zQQd5jwQPAyf1tZZ) | 3:12 | 2025-11-07 | 2026-08-12 |

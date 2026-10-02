@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 17584,
+  "num_followers": 17596,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACnBjqY0M3MmQ0/I5VN151T",
+  "snapshot_id": "arxRAAAAAACfJ6l68PtcERhecukI9OWT",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "duration_ms": 142624,
+      "name": "Pense como uma diva",
+      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE BOX MEDLEY 12",
         "url": "https://open.spotify.com/album/1UAvKSK9Mc7Euv0HwVej1C"
       },
@@ -407,50 +451,6 @@
       "duration_ms": 352951,
       "name": "THE BOX MEDLEY 12",
       "url": "https://open.spotify.com/track/6TmtNB90rBnhIiJeJuEyWu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
-        }
-      ],
-      "duration_ms": 142624,
-      "name": "Pense como uma diva",
-      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Tipo de Garota",
+        "url": "https://open.spotify.com/album/5YM0c46VPa62NDFQExMwt9"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "O Tipo de Garota",
+      "url": "https://open.spotify.com/track/77atbKemCniSVSfMXuz6sn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SALA VERMELHA #03 - Ajuliacosta",
         "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 111157,
       "name": "SALA VERMELHA #03 - Ajuliacosta",
       "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Tipo de Garota",
-        "url": "https://open.spotify.com/album/5YM0c46VPa62NDFQExMwt9"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "O Tipo de Garota",
-      "url": "https://open.spotify.com/track/77atbKemCniSVSfMXuz6sn"
     },
     {
       "added_at": null,
@@ -1099,22 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 129386,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aju",
         "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 120893,
       "name": "7 Ruas",
       "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 129386,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J"
     },
     {
       "added_at": null,

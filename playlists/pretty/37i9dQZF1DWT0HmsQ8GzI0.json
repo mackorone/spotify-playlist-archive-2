@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
-  "num_followers": 16990,
+  "num_followers": 17008,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -863,38 +863,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Hirtelen m\u00e9ly\u00fcl",
-        "url": "https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "S\u00d6RSEGG\u0170 L\u00c1NY",
-      "url": "https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 218675,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "Jerik\u00f3",
         "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 162000,
       "name": "Jerik\u00f3",
       "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 218675,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "Hirtelen m\u00e9ly\u00fcl",
+        "url": "https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "S\u00d6RSEGG\u0170 L\u00c1NY",
+      "url": "https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "Portug\u00edzer",
+        "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 242899,
+      "name": "Portug\u00edzer",
+      "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "SZ\u00d3LNI KELL",
         "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 223386,
       "name": "KICSIKE F\u00c9NY",
       "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "Blicc",
-        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
-      },
-      "artists": [
-        {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        }
-      ],
-      "duration_ms": 228519,
-      "name": "Blicc",
-      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1099,34 +1099,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Portug\u00edzer",
-        "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
+        "name": "Blicc",
+        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
       },
       "artists": [
         {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
         }
       ],
-      "duration_ms": 242899,
-      "name": "Portug\u00edzer",
-      "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "i was wrong",
-        "url": "https://open.spotify.com/album/7EXMGa3bhTuRvarlYcGI05"
-      },
-      "artists": [
-        {
-          "name": "The Anahit",
-          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
-        }
-      ],
-      "duration_ms": 178432,
-      "name": "i was wrong",
-      "url": "https://open.spotify.com/track/6YMgZe04qLOXyc84DCyTHN"
+      "duration_ms": 228519,
+      "name": "Blicc",
+      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1143,6 +1127,22 @@
       "duration_ms": 186021,
       "name": "Harmincvalah\u00e1ny",
       "url": "https://open.spotify.com/track/1YcmGlWobFYsT03A4I0kmE"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "i was wrong",
+        "url": "https://open.spotify.com/album/7EXMGa3bhTuRvarlYcGI05"
+      },
+      "artists": [
+        {
+          "name": "The Anahit",
+          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
+        }
+      ],
+      "duration_ms": 178432,
+      "name": "i was wrong",
+      "url": "https://open.spotify.com/track/6YMgZe04qLOXyc84DCyTHN"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "MURMUR",
-        "url": "https://open.spotify.com/album/5bjkk1xSQxpdLwkJQzfrKE"
-      },
-      "artists": [
-        {
-          "name": "Fran Palermo",
-          "url": "https://open.spotify.com/artist/5pey8GDHGCU8pzAFrjKslD"
-        }
-      ],
-      "duration_ms": 216305,
-      "name": "FORK",
-      "url": "https://open.spotify.com/track/7Jajx3prPObBng9VqlIDAg"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 205688,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "MURMUR",
+        "url": "https://open.spotify.com/album/5bjkk1xSQxpdLwkJQzfrKE"
+      },
+      "artists": [
+        {
+          "name": "Fran Palermo",
+          "url": "https://open.spotify.com/artist/5pey8GDHGCU8pzAFrjKslD"
+        }
+      ],
+      "duration_ms": 216305,
+      "name": "FORK",
+      "url": "https://open.spotify.com/track/7Jajx3prPObBng9VqlIDAg"
     },
     {
       "added_at": "2026-09-18 15:19:05",

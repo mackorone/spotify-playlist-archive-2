@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178338,
       "name": "Nsovo Moment - Live",
       "url": "https://open.spotify.com/track/6CvCuC5MNDNnAsufy8sRqr"
@@ -4236,6 +4236,32 @@
       "duration_ms": 294336,
       "name": "Ukwetsimile",
       "url": "https://open.spotify.com/track/5zNda7f8w3Co4pcFxm1rRe"
+    },
+    {
+      "album": {
+        "name": "Uloyiko Lwami",
+        "url": "https://open.spotify.com/album/2sg3JwDRtVuNg9SyREvnta"
+      },
+      "artists": [
+        {
+          "name": "Brilliant Baloyi",
+          "url": "https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA"
+        },
+        {
+          "name": "Siyakha Khitha",
+          "url": "https://open.spotify.com/artist/70skg68CEMDXoJG2sv6wMe"
+        },
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485960,
+      "name": "Uloyiko Lwami 2.0",
+      "url": "https://open.spotify.com/track/2emoPu2M9pl2m30BESXX2J"
     },
     {
       "album": {

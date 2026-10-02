@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "FAR AWAY",
+        "url": "https://open.spotify.com/album/5SUp3SMovKemBkHpEFVfYw"
+      },
+      "artists": [
+        {
+          "name": "Smeels",
+          "url": "https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188029,
+      "name": "488",
+      "url": "https://open.spotify.com/track/3fhqY2T90LO2vLivB7XJi4"
+    },
+    {
+      "album": {
         "name": "+99XP",
         "url": "https://open.spotify.com/album/29t2X8bZK7I6MbpXV6BDX9"
       },
@@ -200,6 +218,24 @@
       "duration_ms": 164534,
       "name": "Allo docteur",
       "url": "https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn"
+    },
+    {
+      "album": {
+        "name": "Alov",
+        "url": "https://open.spotify.com/album/5e95lZXVU60ySREfcEUd6s"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158372,
+      "name": "Alov",
+      "url": "https://open.spotify.com/track/2IcYyyyn0RbB36N5Pglgmd"
     },
     {
       "album": {
@@ -636,6 +672,24 @@
       "duration_ms": 138000,
       "name": "Boy",
       "url": "https://open.spotify.com/track/6aiO1XYF4px8guDCAYgaZt"
+    },
+    {
+      "album": {
+        "name": "POPSTAR SPEEDRUN",
+        "url": "https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138626,
+      "name": "BRAINDEAD (Okay!)",
+      "url": "https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a"
     },
     {
       "album": {
@@ -1205,6 +1259,32 @@
     },
     {
       "album": {
+        "name": "Cuenta (feat. Meryl & Shay)",
+        "url": "https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Cuenta (feat. Meryl & Shay)",
+      "url": "https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr"
+    },
+    {
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/55bAkqv3DoCtJjQLAsaoeJ"
       },
@@ -1432,7 +1512,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 115638,
       "name": "DIMA RAVE",
       "url": "https://open.spotify.com/track/3hkiHz4uwZ73c4QstMuwWy"
@@ -1540,7 +1620,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 167160,
       "name": "Douter",
       "url": "https://open.spotify.com/track/5fpLrRSDJ42NhWy47dOG6K"
@@ -2164,6 +2244,24 @@
       "duration_ms": 179906,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/6yY37qebXqwV4IsgNn0ARw"
+    },
+    {
+      "album": {
+        "name": "Vie d'Adulte",
+        "url": "https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP"
+      },
+      "artists": [
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Hauteur",
+      "url": "https://open.spotify.com/track/4SzrnrK1JA1LLyOPp0NrOx"
     },
     {
       "album": {
@@ -2884,7 +2982,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 115426,
       "name": "LA BARMAID!",
       "url": "https://open.spotify.com/track/2WbfIgFaOqMOwWyAzIqVyC"
@@ -3458,7 +3556,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165626,
       "name": "L\u00c9TAL",
       "url": "https://open.spotify.com/track/7dOi1Ewgw5nTOCE2NsB26c"
@@ -3570,6 +3668,24 @@
       "duration_ms": 162630,
       "name": "madame",
       "url": "https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX"
+    },
+    {
+      "album": {
+        "name": "MALADE!",
+        "url": "https://open.spotify.com/album/5gTFsUMApzVa40elOuNUwf"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94346,
+      "name": "MALADE!",
+      "url": "https://open.spotify.com/track/3YS37AuvybZaRj5w3Z9Vs9"
     },
     {
       "album": {
@@ -4421,6 +4537,28 @@
     },
     {
       "album": {
+        "name": "UN \u00c9T\u00c9 \u00c0 LA CIT\u00c9",
+        "url": "https://open.spotify.com/album/09dlEdppiL0dEgjfXLzxxc"
+      },
+      "artists": [
+        {
+          "name": "Saaro",
+          "url": "https://open.spotify.com/artist/7EhNT3E3h56XbuohaGE0Z1"
+        },
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Pas Id\u00e9e (feat. Yorssy)",
+      "url": "https://open.spotify.com/track/35ay1ftHnmf3t5d8byq1FG"
+    },
+    {
+      "album": {
         "name": "Ce qu'il restera de nous (et plus encore)",
         "url": "https://open.spotify.com/album/2I2dnvenAEBqTghHc50ebK"
       },
@@ -4522,7 +4660,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 160408,
       "name": "Plus Rien",
       "url": "https://open.spotify.com/track/2gXpqKabH56iKkpOthaeZ3"
@@ -4850,7 +4988,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 163000,
       "name": "Rek",
       "url": "https://open.spotify.com/track/4QCBVk0hoDdy9Hukn7r6fF"
@@ -5434,7 +5572,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 109272,
       "name": "SWISS BANK",
       "url": "https://open.spotify.com/track/2LPCLNTqOrSZPvweyk0T7t"
@@ -5564,7 +5702,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 210000,
       "name": "Termin\u00e9",
       "url": "https://open.spotify.com/track/2kCpJcd7oKKJBb8oCkAQdu"

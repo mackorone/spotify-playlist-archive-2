@@ -2237,6 +2237,32 @@
     },
     {
       "album": {
+        "name": "Mtg Que Chega Me Machucou",
+        "url": "https://open.spotify.com/album/64VU2rCPsKnCrW4oyQRS97"
+      },
+      "artists": [
+        {
+          "name": "DJ LKS 067",
+          "url": "https://open.spotify.com/artist/1hvIB4huz2PS9YhLax2gzG"
+        },
+        {
+          "name": "FreesTyle Sounds",
+          "url": "https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151389,
+      "name": "Mtg Que Chega Me Machucou",
+      "url": "https://open.spotify.com/track/7JXxmpfV4tMKjx71JWHLk8"
+    },
+    {
+      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -5036,7 +5062,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 137272,
       "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
       "url": "https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i"

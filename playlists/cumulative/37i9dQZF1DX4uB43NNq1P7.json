@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Lilies",
+        "url": "https://open.spotify.com/album/6Q7a1kvIG9t3GgmTY2TeL3"
+      },
+      "artists": [
+        {
+          "name": "Nils Olov",
+          "url": "https://open.spotify.com/artist/1dgIBgGAPHKb49Cao2Z5U9"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Lilies (in the Rain)",
+      "url": "https://open.spotify.com/track/4sSIPu2WU8TZo3yN4PH36Z"
+    },
+    {
+      "album": {
         "name": "Lluvia Suave",
         "url": "https://open.spotify.com/album/1ZOvYb0aFVlgXd6vv2Wo1e"
       },
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 162000,
       "name": "Pitter Patter",
       "url": "https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu"
@@ -2306,6 +2324,24 @@
       "duration_ms": 178000,
       "name": "Summer Rainbow",
       "url": "https://open.spotify.com/track/3ZoWGe3xD7pQDuEoix445S"
+    },
+    {
+      "album": {
+        "name": "Sweet Consequences",
+        "url": "https://open.spotify.com/album/5OAjP1zvLsdqTjl3veYWTv"
+      },
+      "artists": [
+        {
+          "name": "Candle One",
+          "url": "https://open.spotify.com/artist/4M5zaVmJAvkuuGI3HJ5UJY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102545,
+      "name": "Sweet Consequences",
+      "url": "https://open.spotify.com/track/0yVOQ9HSzfu4dc08hCRkjR"
     },
     {
       "album": {

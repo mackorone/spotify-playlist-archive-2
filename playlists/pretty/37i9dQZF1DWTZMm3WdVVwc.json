@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27128,
+  "num_followers": 27127,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
-        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
-      },
-      "artists": [
-        {
-          "name": "Junichi Inagaki",
-          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
-        }
-      ],
-      "duration_ms": 269626,
-      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
-      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "ALLSEASON EP.",
@@ -731,6 +715,22 @@
       "duration_ms": 250864,
       "name": "0\u2103\u306e\u65e5\u66dc",
       "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
+        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
+      },
+      "artists": [
+        {
+          "name": "Junichi Inagaki",
+          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+        }
+      ],
+      "duration_ms": 269626,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
+      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/3doATATHVivzB3EJqZS1eG"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 209639,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Gen",
@@ -899,6 +883,22 @@
       "duration_ms": 248666,
       "name": "Why",
       "url": "https://open.spotify.com/track/1v8JIAvZLQXgqhVer4ira5"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
-        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
-      },
-      "artists": [
-        {
-          "name": "Shogo Hamada",
-          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
-        }
-      ],
-      "duration_ms": 311946,
-      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
-      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
-    },
-    {
       "added_at": "2025-12-11 02:28:39",
       "album": {
         "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
@@ -1151,6 +1135,22 @@
       "duration_ms": 266954,
       "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
       "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
+        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
+      },
+      "artists": [
+        {
+          "name": "Shogo Hamada",
+          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
+        }
+      ],
+      "duration_ms": 311946,
+      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
+      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
     },
     {
       "added_at": "2025-03-11 22:40:18",

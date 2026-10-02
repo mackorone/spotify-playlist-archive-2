@@ -9104,7 +9104,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 289670,
       "name": "Just a Little Lovin\u2019",
       "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
@@ -9184,6 +9184,32 @@
       "duration_ms": 150000,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/1Mr8z0evbafjEIqH2RpESs"
+    },
+    {
+      "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/6EdX0JXcU5p1MfCAKN7CUM"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233250,
+      "name": "Just Squeeze Me",
+      "url": "https://open.spotify.com/track/6Rsb2OPZxxFPNG5u5kptMM"
     },
     {
       "album": {
@@ -9660,7 +9686,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 219014,
       "name": "Les deux printemps",
       "url": "https://open.spotify.com/track/52vBcU6dYSpbra7lar3BYF"
@@ -10232,7 +10258,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 271177,
       "name": "Love Is a Place",
       "url": "https://open.spotify.com/track/41REeAwdQL9lrWtLlbXBIz"
@@ -14079,6 +14105,24 @@
     },
     {
       "album": {
+        "name": "Sinatra, My Sweetheart",
+        "url": "https://open.spotify.com/album/6c7A8tjVwBFN4guBxFQz4N"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217096,
+      "name": "She's Funny That Way",
+      "url": "https://open.spotify.com/track/4zWl1fZ1iWB45qfAZ1iz2O"
+    },
+    {
+      "album": {
         "name": "Shiny Stockings",
         "url": "https://open.spotify.com/album/7uLkCFhxXT6373P8pulfLC"
       },
@@ -16185,6 +16229,24 @@
     },
     {
       "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/1ZJX3MkgGkFZmutJAHZS3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165876,
+      "name": "The Best Things Happen While You're Dancing",
+      "url": "https://open.spotify.com/track/4m0TCAd9hKenEoyTu6D24l"
+    },
+    {
+      "album": {
         "name": "You're Fine",
         "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
       },
@@ -17146,7 +17208,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 148042,
       "name": "Think of Me Softly",
       "url": "https://open.spotify.com/track/6CT3JLkpXM5B2hxgJMV0BV"
@@ -19154,6 +19216,24 @@
       "duration_ms": 283377,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"
+    },
+    {
+      "album": {
+        "name": "Windy Nights",
+        "url": "https://open.spotify.com/album/51QRdCuPLXyHgVMKgDORFN"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204557,
+      "name": "Windy Nights",
+      "url": "https://open.spotify.com/track/3HcrNDrjhcRtoHVGPrACj1"
     },
     {
       "album": {

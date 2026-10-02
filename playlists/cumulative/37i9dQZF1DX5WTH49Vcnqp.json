@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define, but easy to love. Cover: Julia Jacklin",
+  "description": "Music that's hard to define, but easy to love. Cover: Logic1000",
   "name": "Front Left",
   "tracks": [
     {
@@ -330,6 +330,28 @@
       "duration_ms": 191074,
       "name": "2gether",
       "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
+    },
+    {
+      "album": {
+        "name": "Confirmation!",
+        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "FAUZIA",
+          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164611,
+      "name": "2Love (feat. FAUZIA)",
+      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
     },
     {
       "album": {
@@ -7948,7 +7970,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 223700,
       "name": "Different Religion (feat. Model/Actriz)",
       "url": "https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV"
@@ -10556,7 +10578,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 180645,
       "name": "Feel The Real",
       "url": "https://open.spotify.com/track/3FDChZZUOTKZIZsGPYUnFK"
@@ -19821,6 +19843,24 @@
     },
     {
       "album": {
+        "name": "Pursuit of Anything",
+        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Lucky, Forever",
+      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
+    },
+    {
+      "album": {
         "name": "Lunchtime",
         "url": "https://open.spotify.com/album/2CMjz9lnTrLQAecRlZZiL9"
       },
@@ -26844,7 +26884,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 204202,
       "name": "Sand",
       "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
@@ -33078,6 +33118,24 @@
       "duration_ms": 135145,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/1MEnBRNqcVp38fmYnW9qE6"
+    },
+    {
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
     },
     {
       "album": {

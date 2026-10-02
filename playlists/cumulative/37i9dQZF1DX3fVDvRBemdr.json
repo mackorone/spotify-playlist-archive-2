@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop. Cover: Gerard Joling",
+  "description": "De nieuwste Hollands & Volkspop. Cover: Donnie & Justen de Wildt",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -1142,6 +1142,24 @@
       "duration_ms": 206298,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/05AVFzPtFgvDoEVDBoSifN"
+    },
+    {
+      "album": {
+        "name": "Appelsap",
+        "url": "https://open.spotify.com/album/2M9fCHO2iT4SyY3sgejLd2"
+      },
+      "artists": [
+        {
+          "name": "Kevin Par\u00e9",
+          "url": "https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "Appelsap",
+      "url": "https://open.spotify.com/track/1I7XQgW1WVy3hjShQ2FJHJ"
     },
     {
       "album": {
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 134546,
       "name": "De klok die tikt maar door",
       "url": "https://open.spotify.com/track/16tncKUuUJbrC8tLnR8DOj"
@@ -3301,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "Dik In Orde",
+        "url": "https://open.spotify.com/album/01LUwha0JL8L7FHb8fmZGH"
+      },
+      "artists": [
+        {
+          "name": "Raffie de Driver",
+          "url": "https://open.spotify.com/artist/1SJnoeN8EaCqWJBbeXi1tn"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193884,
+      "name": "Dik In Orde",
+      "url": "https://open.spotify.com/track/4J03i4i32jkbapSi0wXRST"
+    },
+    {
+      "album": {
         "name": "Diner Voor Twee",
         "url": "https://open.spotify.com/album/7eigNO4pIpnIB9btmu9gAU"
       },
@@ -3568,6 +3604,24 @@
       "duration_ms": 140098,
       "name": "Doen We Het Vaker",
       "url": "https://open.spotify.com/track/0TnZ9a7qyF3nZS3bnc8JBo"
+    },
+    {
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/0qZSbOfk4tK06722DOdduv"
+      },
+      "artists": [
+        {
+          "name": "Toon Schut",
+          "url": "https://open.spotify.com/artist/4vZnZBqVPhnTFy8xBQNpC2"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153350,
+      "name": "Don Juan",
+      "url": "https://open.spotify.com/track/6aNZD8vntHkk8M5yARpEuL"
     },
     {
       "album": {
@@ -5205,6 +5259,24 @@
     },
     {
       "album": {
+        "name": "Hangxiety",
+        "url": "https://open.spotify.com/album/70LnZLv28TPOiPBGPkRqoc"
+      },
+      "artists": [
+        {
+          "name": "Mikki van Wijk",
+          "url": "https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139463,
+      "name": "Hangxiety",
+      "url": "https://open.spotify.com/track/0CV2Q62N0y694aWIzfXzfB"
+    },
+    {
+      "album": {
         "name": "Happie Sappie BBQ-tje (feat. Jean Paul)",
         "url": "https://open.spotify.com/album/4KyKM5a0BF2yortjIuIlkC"
       },
@@ -6004,7 +6076,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 160781,
       "name": "Hypnose",
       "url": "https://open.spotify.com/track/7ATMIrDLDbASh2lscHksUd"
@@ -7098,6 +7170,24 @@
       "duration_ms": 193539,
       "name": "Ik Wil Je Kussen 2.0",
       "url": "https://open.spotify.com/track/1uU3iQCiGsR8kq4DCq79KX"
+    },
+    {
+      "album": {
+        "name": "Ik wil jou",
+        "url": "https://open.spotify.com/album/0p8hB4RjAuOhWgVHOgEihm"
+      },
+      "artists": [
+        {
+          "name": "Jan Wolters",
+          "url": "https://open.spotify.com/artist/4EtJ1OniPEqijDvHQU0esN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193910,
+      "name": "Ik wil jou",
+      "url": "https://open.spotify.com/track/32RhYcl7oPFRhZDIExoE9J"
     },
     {
       "album": {
@@ -10025,6 +10115,24 @@
     },
     {
       "album": {
+        "name": "Mijn meissie",
+        "url": "https://open.spotify.com/album/6dB9ltDO8No2Q3OeTOuLJv"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Tanis",
+          "url": "https://open.spotify.com/artist/6m3iqVYsvXo0uVfWGSTk7Q"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170214,
+      "name": "Mijn meissie",
+      "url": "https://open.spotify.com/track/0g7n1uJl0u7pq1cgxRKN2Z"
+    },
+    {
+      "album": {
         "name": "Mijn Vader",
         "url": "https://open.spotify.com/album/0J5t9pYHLzRl93fcUpp9vY"
       },
@@ -10271,6 +10379,24 @@
     },
     {
       "album": {
+        "name": "My Little Lady",
+        "url": "https://open.spotify.com/album/26rpWpV8qFClptDjSXWHec"
+      },
+      "artists": [
+        {
+          "name": "Marco de Hollander",
+          "url": "https://open.spotify.com/artist/4nwhnw1lPCR31e95U4Blir"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "My Little Lady",
+      "url": "https://open.spotify.com/track/0gGePUZ5hNrtrCdtP7VEKe"
+    },
+    {
+      "album": {
         "name": "Nachtenlang",
         "url": "https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh"
       },
@@ -10452,7 +10578,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 145781,
       "name": "Niet Zo Bij Mij",
       "url": "https://open.spotify.com/track/0vGhsdlU74edh1570DWm3c"
@@ -11287,6 +11413,28 @@
     },
     {
       "album": {
+        "name": "Partytent",
+        "url": "https://open.spotify.com/album/3fGwD8nd8KY9Sk7kesDSOU"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162910,
+      "name": "Partytent",
+      "url": "https://open.spotify.com/track/5HndG3ksWnTSf32DUvpyUM"
+    },
+    {
+      "album": {
         "name": "Perfecto",
         "url": "https://open.spotify.com/album/6LdYWC2sgbjDNcpDIu1XNA"
       },
@@ -11426,6 +11574,24 @@
       "duration_ms": 154687,
       "name": "Polonaise",
       "url": "https://open.spotify.com/track/21UV7LsN7h8yZ2P1x04LSz"
+    },
+    {
+      "album": {
+        "name": "Polonaise door de Nacht",
+        "url": "https://open.spotify.com/album/0py4k2MomiJ986Ybz1yO0G"
+      },
+      "artists": [
+        {
+          "name": "Fons Veurink",
+          "url": "https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194590,
+      "name": "Polonaise door de Nacht",
+      "url": "https://open.spotify.com/track/72BEra9RPq2623q74LSlAH"
     },
     {
       "album": {
@@ -12218,7 +12384,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178572,
       "name": "Stem In Je Hart",
       "url": "https://open.spotify.com/track/3gDh5tdexIUxKyRvlqXmxk"
@@ -12630,7 +12796,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 143636,
       "name": "Tour de Frans (Hey Fransie)",
       "url": "https://open.spotify.com/track/59Gt0pczJlB8zYTUqdKzxC"
@@ -13224,7 +13390,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 213674,
       "name": "Verlangen",
       "url": "https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV"
@@ -13516,6 +13682,24 @@
       "duration_ms": 164710,
       "name": "Voor Jouw Sorry",
       "url": "https://open.spotify.com/track/12sYI0teAFpEhoyHyao05M"
+    },
+    {
+      "album": {
+        "name": "Voor Me Winnen",
+        "url": "https://open.spotify.com/album/1kvHXWIQyJF1e4mPYWO8re"
+      },
+      "artists": [
+        {
+          "name": "Randy Watzeels",
+          "url": "https://open.spotify.com/artist/2cxDvJbPgwPJ16IkfPE3xM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142335,
+      "name": "Voor Me Winnen",
+      "url": "https://open.spotify.com/track/1P45vESjHqo8t4RPAVR9DM"
     },
     {
       "album": {
@@ -15208,6 +15392,24 @@
       "duration_ms": 166826,
       "name": "Zoenen In De Kroeg",
       "url": "https://open.spotify.com/track/5F8xhAikAFJLEVISJLO1uK"
+    },
+    {
+      "album": {
+        "name": "Zolang Ik Maar Bij Je Ben",
+        "url": "https://open.spotify.com/album/06Y0DAxPeLdt9ShiWWVWCy"
+      },
+      "artists": [
+        {
+          "name": "Maurice Fermont",
+          "url": "https://open.spotify.com/artist/6gNWuMH7krMlUq3U1wKjAD"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188952,
+      "name": "Zolang Ik Maar Bij Je Ben",
+      "url": "https://open.spotify.com/track/0D7KZiQ9ZUuoiqv1LsCdRV"
     },
     {
       "album": {

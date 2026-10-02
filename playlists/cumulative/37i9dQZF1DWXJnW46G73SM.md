@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> شجّع المنتَج المحلي\. الغلاف: ندى نادر
+> شجّع المنتَج المحلي\. الغلاف: تاج
 
-1,820 songs - 4 day 4 hr 43 min
+1,821 songs - 4 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Kalt, Dafaat El Rent\. BEGAD! \- Remix](https://open.spotify.com/track/0L7Q1XgengourSIqYLPzJx) | [Alexis Reel](https://open.spotify.com/artist/0mpeIPP4thGi1a3HfCPTQE), [AphroBarbie](https://open.spotify.com/artist/3dvGfwNOZ1RTwkxcR0764e) | [Kalt, Dafaat El Rent\. BEGAD! \(Remix\)](https://open.spotify.com/album/45n7nq9l9pb5O1RjFZgGnh) | 3:33 | 2026-07-23 | 2026-08-11 |
 | [Kam Sana](https://open.spotify.com/track/1Og247VjsUi4hZIBq6fZEt) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kam Sana](https://open.spotify.com/album/6yxp3wpvxoafrJ6vhdfG35) | 2:56 | 2023-07-08 | 2023-08-11 |
 | [KAN](https://open.spotify.com/track/0bG4e13MjolDszR22Qfub9) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [KAN](https://open.spotify.com/album/2S5ec3ra7ZXHnVTkqDgJQ2) | 2:32 | 2024-02-13 | 2024-04-12 |
+| [KAN 3ALA BALY](https://open.spotify.com/track/5iWOYRRyIJeLfPwFFjs0tu) | [TAG](https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2) | [KAN 3ALA BALY](https://open.spotify.com/album/6Sn1vG4oZgCYZB1CXbdEuM) | 2:46 | 2026-10-01 |  |
 | [Kan Leek Ma3aya](https://open.spotify.com/track/49HBQNQ0f0zVPGblfUxHUI) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Kan Leek Ma3aya](https://open.spotify.com/album/4shOpQ1HTOY7VwGbruGtll) | 3:01 | 2024-11-15 | 2024-12-27 |
 | [Kan Leek Ma3aya \- Acoustic](https://open.spotify.com/track/3jvauNjqqBjYNN64zQbLWb) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Kan Leek Ma3aya \(Acoustic\)](https://open.spotify.com/album/6rp2svVf0tecAy6HT143YV) | 2:48 | 2024-12-13 | 2025-01-24 |
 | [Kan Leena Nas](https://open.spotify.com/track/4zrtZYqeupstqg4uQoSzOC) | [Haitham Nabil](https://open.spotify.com/artist/3OFNnk9OMpPvJ0qnb6v66W) | [Kan Leena Nas](https://open.spotify.com/album/73Ud3B4lPnMDZu1PPbiU2W) | 4:19 | 2024-02-09 | 2024-03-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 387228,
+  "num_followers": 387232,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 215111,
+      "name": "Beat of My Heart",
+      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 306466,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Beat of My Heart",
-      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Starfire",
         "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 190057,
       "name": "Cheap Date",
       "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "New Paint - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "First Try (Team Swim Mix)",
         "url": "https://open.spotify.com/album/1msfl4Ye25not0Tj5eWHT2"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 190044,
       "name": "First Try (Team Swim Mix)",
       "url": "https://open.spotify.com/track/7arcVtHon0y7CLKWyaKpLV"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "New Paint - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Instinct",
-        "url": "https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW"
-      },
-      "artists": [
-        {
-          "name": "Josh Cashman",
-          "url": "https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "Instinct",
-      "url": "https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Walk into a Storm",
         "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 191914,
       "name": "Is It Ever Gonna Be Easy",
       "url": "https://open.spotify.com/track/6K1MklYCOtE3ydMrG0Pv1N"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW"
+      },
+      "artists": [
+        {
+          "name": "Josh Cashman",
+          "url": "https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m"
+        }
+      ],
+      "duration_ms": 284546,
+      "name": "Instinct",
+      "url": "https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F"
     },
     {
       "added_at": "2024-07-05 21:33:59",

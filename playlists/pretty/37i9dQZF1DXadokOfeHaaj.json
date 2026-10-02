@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 44013,
+  "num_followers": 44015,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "Beaux Neptune",
-          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
-        }
-      ],
-      "duration_ms": 194887,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
         "name": "Sick Of Love (Mura Masa Remix)",
         "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 334078,
       "name": "Sick Of Love - Mura Masa Remix",
       "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 199196,
-      "name": "It's So Nice (ft. 3DDY)",
-      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/0VJhL9eUwtKSAiqVOYKsFV"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 225391,
       "name": "Woman",
       "url": "https://open.spotify.com/track/0nVA2gw5AKuuJjiVKwJvhB"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
+        "name": "Last October",
+        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 188452,
+      "name": "Last October",
+      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
         "name": "The Nightlife",
         "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 244708,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
-        "name": "Last October",
-        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 188452,
-      "name": "Last October",
-      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "Bond Girl",
-        "url": "https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 151003,
-      "name": "Bond Girl",
-      "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
         "name": "Sd-3",
         "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 160263,
       "name": "Pink Bape Lighter",
       "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
+        "name": "Bond Girl",
+        "url": "https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 151003,
+      "name": "Bond Girl",
+      "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -1195,26 +1195,18 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "What You Want (SG Lewis Remix)",
-        "url": "https://open.spotify.com/album/1HKaZdOadRfquf0hGyDjBZ"
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E"
       },
       "artists": [
         {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
         }
       ],
-      "duration_ms": 198520,
-      "name": "What You Want - SG Lewis Remix",
-      "url": "https://open.spotify.com/track/5mFCEnWFocy9hDLHE0H7qo"
+      "duration_ms": 228977,
+      "name": "PROJECT X",
+      "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -1239,6 +1231,30 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
+        "name": "What You Want (SG Lewis Remix)",
+        "url": "https://open.spotify.com/album/1HKaZdOadRfquf0hGyDjBZ"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "What You Want - SG Lewis Remix",
+      "url": "https://open.spotify.com/track/5mFCEnWFocy9hDLHE0H7qo"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/4KhVjMxDfGEwDh4D8w4QzF"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 208024,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/1odZc6QF2iVlTRhoYm6BoW"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
-        "name": "PROJECT X",
-        "url": "https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E"
-      },
-      "artists": [
-        {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
-        }
-      ],
-      "duration_ms": 228977,
-      "name": "PROJECT X",
-      "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "hav u a sec",
-        "url": "https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui"
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/4RAgkSkg9JplbrF3bGSB4o"
       },
       "artists": [
         {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        },
+        {
+          "name": "Shadow Child",
+          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
         }
       ],
-      "duration_ms": 298132,
-      "name": "hav u a sec",
-      "url": "https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6"
+      "duration_ms": 233000,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/2igRYKCoC6FWq2JeGEo0WC"
     }
   ],
   "unique_name": "Indie Electronic ",

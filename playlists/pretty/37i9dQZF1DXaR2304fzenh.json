@@ -1,6 +1,6 @@
 {
   "description": "El t\u00edtulo says it all, a whole mood! ",
-  "num_followers": 429087,
+  "num_followers": 429232,
   "original_name": "Fiesta y Desmadre",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 180871,
+      "name": "El Taquicardio",
+      "url": "https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 213943,
       "name": "Porte Exuberante",
       "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 180871,
-      "name": "El Taquicardio",
-      "url": "https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Changuito Me Apodaron",
-        "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 163350,
-      "name": "Changuito Me Apodaron",
-      "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 237826,
       "name": "La Ultima Sombra",
       "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Changuito Me Apodaron",
+        "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 163350,
+      "name": "Changuito Me Apodaron",
+      "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
       "artists": [
         {
@@ -1144,29 +1144,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
-        "name": "Aprevenido",
-        "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
-      },
-      "artists": [
-        {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 169402,
-      "name": "Aprevenido",
-      "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1183,6 +1167,22 @@
       "duration_ms": 217600,
       "name": "La Casita",
       "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Aprevenido",
+        "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 169402,
+      "name": "Aprevenido",
+      "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
       "artists": [
         {
@@ -1232,13 +1232,29 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "De Sinaloa Para El Mundo",
+        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 161613,
+      "name": "Escuela Del Virus Antrax",
+      "url": "https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1283,22 +1299,6 @@
       "duration_ms": 156710,
       "name": "Pelotero A La Bola",
       "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
-        "name": "De Sinaloa Para El Mundo",
-        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 161613,
-      "name": "Escuela Del Virus Antrax",
-      "url": "https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Malas Rachas",
-        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 260285,
-      "name": "Malas Rachas - En Vivo",
-      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Los Buitres Con Tololoche",
         "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
       },
@@ -1611,6 +1587,30 @@
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/4EAhDuoqyRtV4WiuN49OUe"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 260285,
+      "name": "Malas Rachas - En Vivo",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "VACAS FLACAS",
-        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 216288,
-      "name": "VACAS FLACAS",
-      "url": "https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Poco A Poco",
         "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "VACAS FLACAS",
+        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 216288,
+      "name": "VACAS FLACAS",
+      "url": "https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2"
     }
   ],
   "unique_name": "Fiesta y Desmadre",

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,384 songs - 3 day 13 hr 13 min
+1,386 songs - 3 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Crying Lightning](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:44 | 2020-10-20 |  |
 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/4QOqvhGpIbEKvQVJAqQa3L) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Y’all](https://open.spotify.com/album/3QliGTfl4dbkKLI17VkbVl) | 2:23 | 2025-12-29 |  |
 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/6P3vusStV43K0SOHyLeYjY) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:35 | 2025-05-12 |  |
+| [crystallized](https://open.spotify.com/track/5yUwlZ1IS6Yg1FqyAqK9Ro) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [crystallized & death rolL](https://open.spotify.com/album/1dvP2ORk7syTl4Q72C7VIU) | 2:39 | 2026-10-01 |  |
 | [Cudi Montage](https://open.spotify.com/track/4kUZvXB3LC3an3HX6h0s17) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 3:17 | 2021-10-22 |  |
 | [Cupid](https://open.spotify.com/track/6yu9LcfTlFwc16D3xtJ8AI) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 2:57 | 2022-01-07 |  |
 | [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 | 2024-06-13 | 2025-12-11 |
@@ -268,6 +269,7 @@
 | [Dead Man Walking](https://open.spotify.com/track/4j6lDQ7Nl4ClcTtur36CMN) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:16 | 2021-12-18 |  |
 | [deadroses](https://open.spotify.com/track/3cuW0sgJND4ZkdN1m7m7Gg) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 3:04 | 2022-05-26 |  |
 | [Dealer](https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:34 | 2021-10-21 |  |
+| [death rolL](https://open.spotify.com/track/2WyamBrb8ICGHr42YxTZt6) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [crystallized & death rolL](https://open.spotify.com/album/1dvP2ORk7syTl4Q72C7VIU) | 4:14 | 2026-10-01 |  |
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2023-11-16 |  |
 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-03-02 |  |
 | [Denver](https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:38 | 2023-04-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 715736,
+  "num_followers": 715804,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADGpvET6VTetQSn44UFJntj",
+  "snapshot_id": "arxRAAAAAACOPAgeIEMh3KCCJJDckVUG",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/1AyCx0WQX2pRFTQdbicwcK"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 283848,
-      "name": "Into the Groove",
-      "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CONFESSIONS II",
         "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 263469,
       "name": "One Step Away",
       "url": "https://open.spotify.com/track/7eidNIYy4hPOlGioM7jBwx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1AyCx0WQX2pRFTQdbicwcK"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 283848,
+      "name": "Into the Groove",
+      "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
+      "duration_ms": 281880,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 281880,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 315466,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -628,9 +612,25 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 231133,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/1AMZVcZvuPKqxm822W8PGV"
+      "duration_ms": 232626,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/6WjrgHvISFS0Oj3vk3XLiE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 315466,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/1AMZVcZvuPKqxm822W8PGV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 287906,
       "name": "Give It 2 Me",
       "url": "https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 232626,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/6WjrgHvISFS0Oj3vk3XLiE"
     },
     {
       "added_at": null,

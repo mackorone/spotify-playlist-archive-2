@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra & DesaKTa2
 
-643 songs - 1 day 14 hr 43 min
+644 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 | [Te hubieras ido antes \- En Vivo](https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [En la piel](https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ) | 5:10 | 2023-09-26 |  |
 | [Te Mentiría](https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25 \- Veinticinco](https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2) | 3:37 | 2022-07-22 | 2024-04-19 |
 | [Te Mentiría](https://open.spotify.com/track/0WdttC6k9GGARGjFo3I8J1) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25](https://open.spotify.com/album/4Izm5vwVnN28o2XxNi4pU2) | 3:37 | 2021-12-24 | 2022-07-29 |
-| [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 | 2026-09-11 |  |
+| [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 | 2026-09-11 | 2026-10-02 |
 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-12-24 | 2023-05-26 |
 | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/track/7o3AnZAepnOd46KYzgpAMf) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/album/3Es15bUlmBVcCH8RpPsEjH) | 3:33 | 2021-12-24 | 2024-01-05 |
 | [Te Olvidaré](https://open.spotify.com/track/3oFyo3dM2dmg2Q2asnzzLh) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Te Olvidaré](https://open.spotify.com/album/13lbWskqHSqj6VoHk9Txl2) | 3:04 | 2024-05-03 | 2024-05-18 |
@@ -627,6 +627,7 @@
 | [Voy A Olvidarme De Mi](https://open.spotify.com/track/7At4ts4UEcrRJSP0rR3Q0B) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Voy A Olvidarme De Mi](https://open.spotify.com/album/4FEH9l7ARowZhR1kL9X4WF) | 3:07 | 2023-07-21 | 2026-09-05 |
 | [VUELA](https://open.spotify.com/track/6ryIAZUcqNrMi5D9kVaU7x) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [VUELA](https://open.spotify.com/album/6tcsMZC2aZNXWymJNghFyi) | 2:38 | 2024-11-15 | 2025-04-12 |
 | [Vuela \(En Vivo\)](https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [La Fiesta Es de Primera](https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu) | 5:19 | 2021-12-24 | 2024-01-27 |
+| [Víveme \(Arena Buenos Aires 2026\)](https://open.spotify.com/track/7xCQYpBQLRbXgYfki4sIp4) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Víveme \(Arena Buenos Aires 2026\)](https://open.spotify.com/album/36m5iCKxUJAD3YpwWpdUgn) | 3:57 | 2026-09-25 |  |
 | [Y TE VAS](https://open.spotify.com/track/21RG4bCz6wb3iDCshmUGYT) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:28 | 2024-02-02 | 2024-05-24 |
 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 | 2021-12-24 | 2022-07-29 |
 | [Ya lo sabía](https://open.spotify.com/track/5hqxuK3VJuESk7V1TPt7UT) | [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Ya lo sabía](https://open.spotify.com/album/3bBKKJriXCCiBr0eDDBGR8) | 3:19 | 2021-12-24 | 2022-07-09 |

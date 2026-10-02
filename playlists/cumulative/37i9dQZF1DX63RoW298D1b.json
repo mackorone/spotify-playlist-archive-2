@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Lavanda",
+        "url": "https://open.spotify.com/album/2aO5gDoO79xetdM0i7x3bn"
+      },
+      "artists": [
+        {
+          "name": "Petit Lilou",
+          "url": "https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133250,
+      "name": "Lavanda",
+      "url": "https://open.spotify.com/track/476apSk4bDj06MZzObFOMy"
+    },
+    {
+      "album": {
         "name": "Le Recueillement",
         "url": "https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6"
       },
@@ -2960,6 +2978,24 @@
       "duration_ms": 132366,
       "name": "Now The Leaves Are Falling",
       "url": "https://open.spotify.com/track/04BbfF1OmlQYySiRkosklB"
+    },
+    {
+      "album": {
+        "name": "Nuit Feutr\u00e9e",
+        "url": "https://open.spotify.com/album/2fe2SGz0WLmEXkfC6etUPh"
+      },
+      "artists": [
+        {
+          "name": "Matt van Stern",
+          "url": "https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164183,
+      "name": "Nuit Feutr\u00e9e",
+      "url": "https://open.spotify.com/track/2Pie7jecLOQPSpkfv4HF9r"
     },
     {
       "album": {

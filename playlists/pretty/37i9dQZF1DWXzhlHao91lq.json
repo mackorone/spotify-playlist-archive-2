@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Renee's Song",
-        "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 130545,
-      "name": "Renee's Song",
-      "url": "https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Mission Bell",
         "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 318840,
       "name": "Violin",
       "url": "https://open.spotify.com/track/7eRDTkDUO5UVWgla9Max4h"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Renee's Song",
+        "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 130545,
+      "name": "Renee's Song",
+      "url": "https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "to be honest",
-        "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 145298,
-      "name": "confidence",
-      "url": "https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 178751,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "to be honest",
+        "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 145298,
+      "name": "confidence",
+      "url": "https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Two Punks In Love",
-        "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Two Punks In Love",
-      "url": "https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Give Me Everything",
         "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 192542,
       "name": "Give Me Everything",
       "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Two Punks In Love",
+        "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Two Punks In Love",
+      "url": "https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Taylor Manns",
+          "url": "https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9"
         }
       ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+      "duration_ms": 193779,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

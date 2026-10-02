@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 27964,
+  "num_followers": 27969,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADGv5axYNrI+IiQdDI2sJJq",
+  "snapshot_id": "arxRAAAAAAA6p8a6FbhJGBr3RNyRI3EH",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/73GQBZ5nJxcsc5YWvba688"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 138989,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/18M8lkxW7epH3aR6Lr0hff"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 136890,
       "name": "Rivers - Solo Piano Version",
       "url": "https://open.spotify.com/track/5Rwivn8wMEQ6TP6XshXhZq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/73GQBZ5nJxcsc5YWvba688"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 138989,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/18M8lkxW7epH3aR6Lr0hff"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 234057,
-      "name": "S\u00f6",
-      "url": "https://open.spotify.com/track/71aLNi77h5ACkPX3AjfJhu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 181952,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 234057,
+      "name": "S\u00f6",
+      "url": "https://open.spotify.com/track/71aLNi77h5ACkPX3AjfJhu"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 123850,
-      "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
-      "url": "https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH"
       },
@@ -599,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
       "artists": [
         {
@@ -608,9 +592,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 216625,
-      "name": "Story of You",
-      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
+      "duration_ms": 123850,
+      "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
+      "url": "https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd"
     },
     {
       "added_at": null,
@@ -631,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paper Hearts",
-        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
       "artists": [
         {
@@ -640,9 +624,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 166810,
-      "name": "Last Trip Around the Sun",
-      "url": "https://open.spotify.com/track/52olPHqdeVypEojzLu24Oj"
+      "duration_ms": 216625,
+      "name": "Story of You",
+      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 138795,
       "name": "When the Bells Ring",
       "url": "https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 166810,
+      "name": "Last Trip Around the Sun",
+      "url": "https://open.spotify.com/track/52olPHqdeVypEojzLu24Oj"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 191445,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
+      "duration_ms": 170032,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 170032,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
+      "duration_ms": 76923,
+      "name": "Midnight Reverie",
+      "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 208023,
       "name": "Forever Song",
       "url": "https://open.spotify.com/track/3QT8S7ZBD5kfQX3aJ7Nb5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 76923,
-      "name": "Midnight Reverie",
-      "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
     },
     {
       "added_at": null,

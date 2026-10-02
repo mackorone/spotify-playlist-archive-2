@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Racoon",
+  "description": "Frisse Nederlandse pop. Cover: Suzan & Freek",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -4127,6 +4127,24 @@
     },
     {
       "album": {
+        "name": "Bussen",
+        "url": "https://open.spotify.com/album/2OD5jAMkleV4hgpmvUJ6FT"
+      },
+      "artists": [
+        {
+          "name": "LUUK",
+          "url": "https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132261,
+      "name": "Bussen",
+      "url": "https://open.spotify.com/track/2gOL4IOFaOaBRrQx6xqLtb"
+    },
+    {
+      "album": {
         "name": "Buurt Boos",
         "url": "https://open.spotify.com/album/1ssuuKdHsOGyigapY4bxDk"
       },
@@ -8140,7 +8158,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 117000,
       "name": "Gevaarlijk",
       "url": "https://open.spotify.com/track/7kuPk2p387tnOYTTGu0FmK"
@@ -9844,7 +9862,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 151097,
       "name": "Hij",
       "url": "https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx"
@@ -11157,6 +11175,24 @@
     },
     {
       "album": {
+        "name": "Ik Beloof Je Dat Het Beter Wordt",
+        "url": "https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Ik Beloof Je Dat Het Beter Wordt",
+      "url": "https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE"
+    },
+    {
+      "album": {
         "name": "Ik Ben Er Nog Steeds",
         "url": "https://open.spotify.com/album/1ReCEskfy54ocNuO3RpS5y"
       },
@@ -11842,6 +11878,28 @@
       "duration_ms": 187800,
       "name": "Ik Zeg Niets",
       "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
+    },
+    {
+      "album": {
+        "name": "Ik Zing",
+        "url": "https://open.spotify.com/album/491aQnOVV8alceqdFqtTam"
+      },
+      "artists": [
+        {
+          "name": "Clouseau",
+          "url": "https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222976,
+      "name": "Ik Zing",
+      "url": "https://open.spotify.com/track/38rook8KIh6wCyPSK8CMBH"
     },
     {
       "album": {
@@ -15235,6 +15293,24 @@
     },
     {
       "album": {
+        "name": "Kijk Je Naar Mij?",
+        "url": "https://open.spotify.com/album/0Dmabzo3P2nHBYb0fWpDZu"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180866,
+      "name": "Luzacstraat",
+      "url": "https://open.spotify.com/track/5IH1bXoWQd64kOIwfpT1Kc"
+    },
+    {
+      "album": {
         "name": "Maak Me Los",
         "url": "https://open.spotify.com/album/6JZh3qnth9kx8f9l3OL8Ix"
       },
@@ -15308,7 +15384,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 195094,
       "name": "Mag ik vanavond bij je blijven?",
       "url": "https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ"
@@ -15492,7 +15568,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 120895,
       "name": "Marchar",
       "url": "https://open.spotify.com/track/0NYBQ5Yzk7eGUgE7ift7cx"
@@ -15676,6 +15752,24 @@
       "duration_ms": 199639,
       "name": "Meisje",
       "url": "https://open.spotify.com/track/7xcuQ0m5rSUgrjh2YVTUz4"
+    },
+    {
+      "album": {
+        "name": "Meisje",
+        "url": "https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi"
+      },
+      "artists": [
+        {
+          "name": "Trijntje Oosterhuis",
+          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203559,
+      "name": "Meisje",
+      "url": "https://open.spotify.com/track/5CqUZRlI77svQlTHewLwQP"
     },
     {
       "album": {
@@ -16400,7 +16494,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 177169,
       "name": "Misschien Is Het Tijd",
       "url": "https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm"
@@ -19247,6 +19341,28 @@
     },
     {
       "album": {
+        "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
+        "url": "https://open.spotify.com/album/7CkFGcKMO939zANooTt2W4"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239424,
+      "name": "Passie",
+      "url": "https://open.spotify.com/track/0FfFpBiLKxAnoUx2PYeVua"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2026 (Yves Berendse)",
         "url": "https://open.spotify.com/album/4SRtdeedZBNyRWEOOkJMmF"
       },
@@ -19341,6 +19457,24 @@
     },
     {
       "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/4o6Q9UNplVun5nsP2FRRvt"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171075,
+      "name": "Pijnstiller",
+      "url": "https://open.spotify.com/track/11wW1i3hmPCBO49XNgxcHx"
+    },
+    {
+      "album": {
         "name": "Plaatje",
         "url": "https://open.spotify.com/album/68NmDfErCwLSWNbsIkHo5Q"
       },
@@ -19428,6 +19562,28 @@
       "duration_ms": 183169,
       "name": "Plus 1",
       "url": "https://open.spotify.com/track/3ypWTDKWHj7dtfYB6zXVrt"
+    },
+    {
+      "album": {
+        "name": "Pokerface",
+        "url": "https://open.spotify.com/album/2i0kTMuNjMe0wTmTFLKGq4"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156571,
+      "name": "Pokerface",
+      "url": "https://open.spotify.com/track/599Q3PcqiQR3xDmaLIYttX"
     },
     {
       "album": {
@@ -21867,6 +22023,24 @@
     },
     {
       "album": {
+        "name": "Stuurloos",
+        "url": "https://open.spotify.com/album/4sLqs1mbLHANb0OGiMAVO1"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160534,
+      "name": "Stuurloos",
+      "url": "https://open.spotify.com/track/5bCciSSJvPmdosIEFI3rIi"
+    },
+    {
+      "album": {
         "name": "Sugardaddy",
         "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
       },
@@ -22120,7 +22294,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 172400,
       "name": "Te Mooi Om Waar Te Zijn",
       "url": "https://open.spotify.com/track/64BraxIjZP43uHmkEmYjik"
@@ -26826,6 +27000,24 @@
       "duration_ms": 181249,
       "name": "Zo Dichtbij",
       "url": "https://open.spotify.com/track/2j1as6rFD5wD6VGDoW01Ho"
+    },
+    {
+      "album": {
+        "name": "Zo draaien we door",
+        "url": "https://open.spotify.com/album/1W99Z7mlmxPiY7hGKnNzxO"
+      },
+      "artists": [
+        {
+          "name": "Emma Annelie",
+          "url": "https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167337,
+      "name": "Zo draaien we door",
+      "url": "https://open.spotify.com/track/73dfC8tNQm0n9vZesabQmV"
     },
     {
       "album": {

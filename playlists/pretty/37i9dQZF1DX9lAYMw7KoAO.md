@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,324 likes - 50 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,519 likes - 50 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 32 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 33 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 |
 | 34 | [Jesus Iye](https://open.spotify.com/track/4jcantRx2m6O7NAVvopqSb) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesus Iye](https://open.spotify.com/album/7KDurcyV9btooGNJegwVtl) | 8:45 |
-| 35 | [Baruch Hashem Adonai \- Live](https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Baruch Hashem Adonai \(Live\)](https://open.spotify.com/album/2VS8HyIhoys9tLoUG7Ati5) | 19:03 |
-| 36 | [Undignified \(Excuse Me\)](https://open.spotify.com/track/3aSBRG5HYyEgWyuUgrRJLE) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Undignified \(Excuse Me\)](https://open.spotify.com/album/4lXkDJfCaDkRRcfDD6d16R) | 8:53 |
+| 35 | [Undignified \(Excuse Me\)](https://open.spotify.com/track/3aSBRG5HYyEgWyuUgrRJLE) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Undignified \(Excuse Me\)](https://open.spotify.com/album/4lXkDJfCaDkRRcfDD6d16R) | 8:53 |
+| 36 | [Baruch Hashem Adonai \- Live](https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Baruch Hashem Adonai \(Live\)](https://open.spotify.com/album/2VS8HyIhoys9tLoUG7Ati5) | 19:03 |
 | 37 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 |
 | 38 | [YOU ARE GOOD](https://open.spotify.com/track/3OBCah0meHK9O5Ss3dztNZ) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Flames Of A Wildfire](https://open.spotify.com/album/21wuL307v10SocLogEugfv) | 5:06 |
 | 39 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Fragrance](https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance](https://open.spotify.com/album/2e8K2P2XWzFxeyGWEHVEKV) | 4:27 |
 | 50 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 |
 
-Snapshot ID: `AAAAACV6DfMZwNyOI7rryxIL9qtJGPyh`
+Snapshot ID: `AAAAAG1jh9ECZJ/DZIgRNLe3VeojvvCG`

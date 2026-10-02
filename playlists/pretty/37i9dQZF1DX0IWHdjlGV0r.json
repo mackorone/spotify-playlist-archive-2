@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 130182,
+  "num_followers": 130197,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 164211,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -503,38 +519,18 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "I Nomi del Diavolo",
-        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
       },
       "artists": [
         {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 164211,
-      "name": "Lilith",
-      "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 215421,
-      "name": "X CASO (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+      "duration_ms": 186008,
+      "name": "Ciao Baby",
+      "url": "https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -555,18 +551,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Eclissi",
-        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 186008,
-      "name": "Ciao Baby",
-      "url": "https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV"
+      "duration_ms": 215421,
+      "name": "X CASO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "GVESVS",
-        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "Veleno",
-      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "Tutti i Nomi del Diavolo",
         "url": "https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 179072,
       "name": "Donna",
       "url": "https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "GVESVS",
+        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Veleno",
+      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "4U EP",
+        "url": "https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 186110,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/5Ro2csr2lw3pEcGAlkuHVp"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "L'Angelo del Male",
         "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 186000,
       "name": "Sola (feat. Lazza, Tedua)",
       "url": "https://open.spotify.com/track/5r9wBfbbK4JcZUEAGFg6su"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "4U EP",
-        "url": "https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 186110,
-      "name": "4U",
-      "url": "https://open.spotify.com/track/5Ro2csr2lw3pEcGAlkuHVp"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "26",
-        "url": "https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P"
-      },
-      "artists": [
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "Nn \u00e8 divertente",
-      "url": "https://open.spotify.com/track/5JBpzVzJmlvr8cgApQHceV"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "Mercurio",
         "url": "https://open.spotify.com/album/3pXSt0UQJINOx5GP6NORLj"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 205720,
       "name": "Soli (Assieme)",
       "url": "https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "Nn \u00e8 divertente",
+      "url": "https://open.spotify.com/track/5JBpzVzJmlvr8cgApQHceV"
     },
     {
       "added_at": "2026-08-26 22:01:25",

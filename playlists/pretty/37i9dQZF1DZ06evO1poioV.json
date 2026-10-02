@@ -1,29 +1,13 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 125470,
+  "num_followers": 125491,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAAPqi68JhPXENrAX2mix/4s",
+  "snapshot_id": "arxRAAAAAACMIHf0Gvqdle0iUWEMVL6a",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Church & State (Sad Gay Version)",
-        "url": "https://open.spotify.com/album/6mTWD8HWph5F6PZlfy4hpc"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "Church & State - Sad Gay Version",
-      "url": "https://open.spotify.com/track/2J7DE0FvovLhz64va1qWzz"
-    },
     {
       "added_at": null,
       "album": {
@@ -339,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 211674,
-      "name": "The Eye",
-      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uninvited (Live at Newport Folk)",
         "url": "https://open.spotify.com/album/0vnpFlDtL4MvrVU8OP5dUf"
       },
@@ -367,6 +335,22 @@
       "duration_ms": 311346,
       "name": "Uninvited - Live at Newport Folk",
       "url": "https://open.spotify.com/track/6SoNwpuHbn8YmTZhaLpQEe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 211674,
+      "name": "The Eye",
+      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
     },
     {
       "added_at": null,
@@ -683,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human (feat. Jon Hopkins) [Sad Gay Version]",
-        "url": "https://open.spotify.com/album/4mv0k5VhGDcbq3FCwVZoS5"
+        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
       },
       "artists": [
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 235986,
-      "name": "Human (feat. Jon Hopkins) - Sad Gay Version",
-      "url": "https://open.spotify.com/track/3bVFS7hCCgwqmkCeVpxVZc"
+      "duration_ms": 191661,
+      "name": "And So It Goes - Film Version from \u201cPractical Magic 2\"",
+      "url": "https://open.spotify.com/track/1wsqZU8WbZoSLRNrjzSGVt"
     },
     {
       "added_at": null,
@@ -723,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Hard Way Home",
-      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 191661,
-      "name": "And So It Goes - Film Version from \u201cPractical Magic 2\"",
-      "url": "https://open.spotify.com/track/1wsqZU8WbZoSLRNrjzSGVt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brandy Clark",
         "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
       },
@@ -771,6 +719,74 @@
       "duration_ms": 276146,
       "name": "Dear Insecurity (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Hard Way Home",
+      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human (feat. Jon Hopkins) [Sad Gay Version]",
+        "url": "https://open.spotify.com/album/4mv0k5VhGDcbq3FCwVZoS5"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Human (feat. Jon Hopkins) - Sad Gay Version",
+      "url": "https://open.spotify.com/track/3bVFS7hCCgwqmkCeVpxVZc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 345026,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
     },
     {
       "added_at": null,
@@ -815,34 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
       },
       "artists": [
         {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
         },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 345026,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
     },
     {
       "added_at": null,
@@ -879,42 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 287545,
-      "name": "A Long Goodbye",
-      "url": "https://open.spotify.com/track/77tp1Yy4gys1k5bDtUygfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Water Witch",
-      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
       },
@@ -935,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 287545,
+      "name": "A Long Goodbye",
+      "url": "https://open.spotify.com/track/77tp1Yy4gys1k5bDtUygfu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 182186,
       "name": "Josephine",
       "url": "https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Church & State (Sad Gay Version)",
+        "url": "https://open.spotify.com/album/6mTWD8HWph5F6PZlfy4hpc"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Church & State - Sad Gay Version",
+      "url": "https://open.spotify.com/track/2J7DE0FvovLhz64va1qWzz"
     },
     {
       "added_at": null,
@@ -967,26 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
     }
   ],
   "unique_name": "This Is Brandi Carlile",

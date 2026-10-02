@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-2,154 songs - 4 day 22 hr 58 min
+2,155 songs - 4 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,7 +647,7 @@
 | [EVERESTE](https://open.spotify.com/track/1EY3azP5rIyN2g4UcBHQS9) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [94](https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy) | 2:48 | 2026-04-11 | 2026-04-13 |
 | [EVERESTE](https://open.spotify.com/track/5y9CWZurQSSHA3EG1bAG4g) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [EVERESTE](https://open.spotify.com/album/6AjfCNBmdrhdLAHosk6wV5) | 2:48 | 2026-02-28 | 2026-03-05 |
 | [Every Angel is Terrifying](https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:47 | 2022-01-08 | 2022-01-10 |
-| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2025-09-29 |  |
+| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2025-09-29 | 2026-10-02 |
 | [Evidências](https://open.spotify.com/track/1X95pCQG939KCbJL6yVQgw) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr) | [Do Tamanho do Nosso Amor](https://open.spotify.com/album/6dLip1k4dsDn2xdoi1T077) | 4:39 | 2025-09-24 | 2025-09-30 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-15 | 2025-03-27 |
 | [Evoque Prata](https://open.spotify.com/track/0bBwi6ddYeTv5fXgHAdfiH) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [MC MENOR SG](https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Evoque Prata](https://open.spotify.com/album/5lvH0uC0dJxie3qMtGuawa) | 1:47 | 2023-02-16 | 2023-05-18 |
@@ -1129,7 +1129,7 @@
 | [making the bed](https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:18 | 2023-09-09 | 2023-09-13 |
 | [Maladie](https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3) | 3:12 | 2026-08-25 | 2026-09-23 |
 | [Maladie](https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI) | 3:12 | 2026-06-02 | 2026-08-26 |
-| [Maladie](https://open.spotify.com/track/33Plu4Rq3ZmOfLLNQcAGva) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker](https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn) | 3:12 | 2026-09-22 | 2026-10-01 |
+| [Maladie](https://open.spotify.com/track/33Plu4Rq3ZmOfLLNQcAGva) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker](https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn) | 3:12 | 2026-09-22 |  |
 | [Maladie](https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM) | 3:12 | 2026-05-23 | 2026-06-03 |
 | [Malvada](https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Malvada](https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy) | 2:25 | 2022-02-05 | 2022-08-24 |
 | [Malvadinho](https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w) | [Malvadinho](https://open.spotify.com/album/0OSgbe5GNzV5ShonkfL6Ev) | 2:00 | 2024-11-11 | 2024-12-05 |
@@ -1919,7 +1919,7 @@
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-03-29 | 2022-04-02 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2024-09-26 | 2024-11-08 |
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-09-27 | 2024-11-09 |
-| [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 | 2026-06-20 |  |
+| [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 | 2026-06-20 | 2026-10-02 |
 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2026-06-21 | 2026-09-14 |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2022-08-26 | 2023-05-27 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-20 | 2024-04-24 |
@@ -2043,6 +2043,7 @@
 | [Visão Noturna](https://open.spotify.com/track/3UCqd9sT0C9qDayjFHBQjd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:41 | 2023-02-23 | 2023-03-19 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2022-08-26 | 2024-08-23 |
 | [Vivo](https://open.spotify.com/track/0QFUOtyHtjEQnrcHTfQkDg) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 3:10 | 2024-02-17 | 2024-03-04 |
+| [Voar](https://open.spotify.com/track/54IJk4ONmSkwCO63YKJTNB) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Voar](https://open.spotify.com/album/38nCRSs2sVkNb7x6nhyJhE) | 3:15 | 2026-10-01 |  |
 | [Você Ja Sabe](https://open.spotify.com/track/0kcS3YhPRQnpUOUSiHDW1R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 2:44 | 2026-07-25 | 2026-07-27 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-05-28 |
 | [VOLTA](https://open.spotify.com/track/3CpaYsotb6gvM1RGtksLlr) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:57 | 2023-01-21 | 2023-01-29 |

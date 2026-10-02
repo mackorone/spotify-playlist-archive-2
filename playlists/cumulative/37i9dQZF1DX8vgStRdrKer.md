@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-878 songs - 3 day 4 hr 51 min
+879 songs - 3 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Mercy \(Hlabelela\)](https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [The Gift, Vol\. 1](https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1) | 3:06 | 2024-03-01 | 2024-05-24 |
 | [Mess into a Message](https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Mess into a Message](https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz) | 3:17 | 2024-02-23 | 2024-04-09 |
 | [MIGHTY](https://open.spotify.com/track/3xNjE6DkeGcbY609vKInbD) | [Dapiano](https://open.spotify.com/artist/2WWmcre3dzNsQAHtO83lhD), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [MIGHTY](https://open.spotify.com/album/4gTrk7E7BJ6QGusoLQgKt3) | 3:15 | 2025-05-16 | 2025-06-13 |
+| [Mighty Name Of Jesus \(Cover\)](https://open.spotify.com/track/7hTsP9R7JsYif0Xo2q7bgZ) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Mighty Name Of Jesus \(Cover\)](https://open.spotify.com/album/2DYYOz6tsylNGTGUjCmi3g) | 4:38 | 2026-09-18 |  |
 | [Mighty Warrior](https://open.spotify.com/track/0GcUmKSKiFJ3dkQaAltX4p) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Mighty Warrior](https://open.spotify.com/album/05odyOKOKwvYwg79vBtki5) | 4:00 | 2025-05-30 | 2025-06-06 |
 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 | 2023-12-01 | 2024-03-16 |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-09-15 | 2024-03-16 |
@@ -844,7 +845,7 @@
 | [WORTHY](https://open.spotify.com/track/01VqTmMt86wGlRVjvrhZ23) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [WORTHY](https://open.spotify.com/album/64aFpFjW3mtEzikvLGTWzW) | 3:56 | 2025-08-29 |  |
 | [Worthy](https://open.spotify.com/track/7A9tLnXKOViEouTjNuAPpS) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [Kolawole Bekes](https://open.spotify.com/artist/7tLyiCHrnIe6aEsEDoAybu), [YYC Worship](https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc) | [Worthy](https://open.spotify.com/album/1Ye2PTve8bZ4ooIkiPTy6S) | 12:02 | 2026-04-03 | 2026-05-09 |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 | 2025-06-27 |
-| [Worthy to be Praised](https://open.spotify.com/track/1ACRUpV6HQul9s1cLUERGf) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Worthy to be Praised](https://open.spotify.com/album/4iGyKlkJfU3EWA1D2VzVZj) | 3:44 | 2026-07-17 |  |
+| [Worthy to be Praised](https://open.spotify.com/track/1ACRUpV6HQul9s1cLUERGf) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Worthy to be Praised](https://open.spotify.com/album/4iGyKlkJfU3EWA1D2VzVZj) | 3:44 | 2026-07-17 | 2026-10-02 |
 | [Yahweh](https://open.spotify.com/track/7keSeJsCKZCTGq2bv03jnN) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d), [Hyeladi](https://open.spotify.com/artist/57cJyeJhMFEY7Uln3Pdn20) | [Yahweh](https://open.spotify.com/album/2KDz1ryzGCPtWX3WQae5Oj) | 14:16 | 2026-04-03 | 2026-05-22 |
 | [Yahweh](https://open.spotify.com/track/0rCqiszNjjmwidpPGp8bW6) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Yahweh](https://open.spotify.com/album/4FTzomnXkLei8TG5sWYKTu) | 5:15 | 2025-07-04 | 2025-10-18 |
 | [Yahweh](https://open.spotify.com/track/0wlZMHkTTTHjUMudVOO3PZ) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Yahweh](https://open.spotify.com/album/1hvBhzoIX98bfsaSWkr8FV) | 4:02 | 2025-06-20 | 2025-08-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Kweku Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,804 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,837 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 17 | [Power House](https://open.spotify.com/track/3ydB5jGKrEzWRHJRXmF3Nn) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:30 |
 | 18 | [ISALE EKO](https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ISALE EKO](https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF) | 2:20 |
 | 19 | [Oku](https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE RETURN \(Eze Onyịkọ\)](https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH) | 3:29 |
-| 20 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
-| 21 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
+| 20 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
+| 21 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
 | 22 | [No Days Off](https://open.spotify.com/track/4Wp5CGnsDETGQBXLrNfEv4) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:20 |
 | 23 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 24 | [Aimoye](https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Aimoye](https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf) | 2:14 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 55 | [OTS](https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 3:43 |
 | 56 | [News at 7](https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [News at 7](https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt) | 2:46 |
 | 57 | [I DONT CARE](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 2:58 |
-| 58 | [Ole](https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Ole](https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk) | 2:15 |
-| 59 | [Motho Waka](https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Motho Waka](https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl) | 3:05 |
+| 58 | [Motho Waka](https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Motho Waka](https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl) | 3:05 |
+| 59 | [Ole](https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Ole](https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk) | 2:15 |
 | 60 | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD) | 2:28 |
 | 61 | [TAI CHI](https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [TAI CHI](https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg) | 2:49 |
 | 62 | [Akosua Broni](https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Sexy Highlife](https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi) | 2:07 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 67 | [Legacy \(feat\. Jesse Jagz, Ice Prince & Blaqbonez\)](https://open.spotify.com/track/41BBGVEiYGGvNgO3fjfegO) | [Chocolate City](https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Legacy \(feat\. Jesse Jagz, Ice Prince & Blaqbonez\)](https://open.spotify.com/album/28pficBKrjRzddaQThdPo6) | 4:25 |
 | 68 | [JET SET](https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [OG Mahilet](https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT), [Hoodbaby](https://open.spotify.com/artist/2QUhLhWyOfUIJnSCwmJNbY) | [JET SET](https://open.spotify.com/album/3hlJr1ryAyQ9mavdIqLneV) | 3:04 |
 | 69 | [Modern man](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 3:32 |
-| 70 | [Juice](https://open.spotify.com/track/3FKMnb3BpxnPtLviwtNz1v) | [CJ Tell'm](https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T) | [Juice](https://open.spotify.com/album/7GkqQthzG3je276bnSIiBI) | 2:49 |
+| 70 | [Reason](https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Tytanium](https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX) | [Reason](https://open.spotify.com/album/1wrWSz0lA8otyYg85jRmli) | 2:01 |
 
 Snapshot ID: `AAAAAMXZ1+bwkNnX3yoqkeheLNMWAGU0`

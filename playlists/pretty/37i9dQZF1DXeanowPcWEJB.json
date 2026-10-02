@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 158368,
+  "num_followers": 158378,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -287,8 +287,8 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+        "name": "Para Cuando Regreses",
+        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
         }
       ],
-      "duration_ms": 161250,
-      "name": "No",
-      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+      "duration_ms": 140874,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Para Cuando Regreses",
-        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
+        "name": "No",
+        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
         }
       ],
-      "duration_ms": 140874,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
+      "duration_ms": 161250,
+      "name": "No",
+      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -399,6 +399,22 @@
       "duration_ms": 195000,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Juan Gabriel Instrumental",
+        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
+      },
+      "artists": [
+        {
+          "name": "Chamin Madero",
+          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -431,22 +447,6 @@
       "duration_ms": 145750,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Juan Gabriel Instrumental",
-        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
-      },
-      "artists": [
-        {
-          "name": "Chamin Madero",
-          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 309933,
       "name": "Popurri de Jose Alfredo Jimenez: Ella / La Enorme Distancia / Que Te Vaya Bonito / V\u00e1monos",
       "url": "https://open.spotify.com/track/6ACOpwrtWV5oIsAZjVUrGw"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Te Extra\u00f1o",
         "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+        "name": "Spanish Guitar Latin Hits",
+        "url": "https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Manuel Granada",
+          "url": "https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV"
         }
       ],
-      "duration_ms": 168250,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+      "duration_ms": 159600,
+      "name": "Cielito Lindo - Guitar Version",
+      "url": "https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -755,22 +771,6 @@
       "duration_ms": 175356,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Spanish Guitar Latin Hits",
-        "url": "https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U"
-      },
-      "artists": [
-        {
-          "name": "Manuel Granada",
-          "url": "https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Cielito Lindo - Guitar Version",
-      "url": "https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "16 Fabulosas Interpretaciones Con Juan Ver\u00f3nico y Su Guitarra",
+        "url": "https://open.spotify.com/album/0aKe13vTjDCDDI5E4kXKJP"
+      },
+      "artists": [
+        {
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+        }
+      ],
+      "duration_ms": 138760,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/40rY5j5e4JNkG47sAdq0UB"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "16 Fabulosas Interpretaciones Con Juan Ver\u00f3nico y Su Guitarra",
-        "url": "https://open.spotify.com/album/0aKe13vTjDCDDI5E4kXKJP"
-      },
-      "artists": [
-        {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
-        }
-      ],
-      "duration_ms": 138760,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/40rY5j5e4JNkG47sAdq0UB"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Tan Enamorados",
         "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Luna Lunera",
-        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
-      },
-      "artists": [
-        {
-          "name": "Cortando Troncos",
-          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra",
         "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 150293,
       "name": "Renunciaci\u00f3n",
       "url": "https://open.spotify.com/track/4cBQl53QbFzcK9Gk44aoBr"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Luna Lunera",
+        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
+      },
+      "artists": [
+        {
+          "name": "Cortando Troncos",
+          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "La Consentida",
-        "url": "https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra",
         "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 212973,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/0znUdNIr1OnHLW6Z1O22aB"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "La Consentida",
+        "url": "https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
     },
     {
       "added_at": "2024-07-11 01:27:02",

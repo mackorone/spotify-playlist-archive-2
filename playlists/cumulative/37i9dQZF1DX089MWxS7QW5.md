@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: wnsday\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: DPR CREAM\)
 
-671 songs - 1 day 11 hr 53 min
+673 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Call me more sometimes](https://open.spotify.com/track/4lKOkt7lH8lJyPP7tSBa0Y) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Call me more sometimes](https://open.spotify.com/album/1afLJlSObs6o8OvbIOserN) | 3:49 | 2024-10-17 | 2025-03-13 |
 | [Call Me Now](https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI) | [Lee Ju Chun](https://open.spotify.com/artist/15v1aovRbcGMoYIMmI8Vp2) | [Call Me Now](https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U) | 3:42 | 2022-07-07 | 2022-11-15 |
 | [Calvin Kl3in](https://open.spotify.com/track/5yQLVUzLc4GjJTUjQImF7H) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Calvin Kl3in](https://open.spotify.com/album/7rPZlHvXCIVnO9oxeU2PF1) | 2:30 | 2025-04-18 | 2025-08-06 |
-| [Can't We](https://open.spotify.com/track/2UOu58pk79EF52wROoNPgx) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [The Most Beautiful Moment in Life pt.2](https://open.spotify.com/album/3Gi4pk43k4X9AJMT3oFhJq) | 4:34 | 2026-04-13 |  |
+| [Can't We](https://open.spotify.com/track/2UOu58pk79EF52wROoNPgx) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [The Most Beautiful Moment in Life pt.2](https://open.spotify.com/album/3Gi4pk43k4X9AJMT3oFhJq) | 4:34 | 2026-04-13 | 2026-10-02 |
 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 | 2023-01-10 | 2023-07-08 |
 | [Candy For You](https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Candy For You](https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA) | 2:38 | 2023-03-27 | 2023-04-28 |
 | [Candyfloss](https://open.spotify.com/track/0JHkSP9Qdc8MXrF7TN05pT) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/6rvgvS5UBHKyehCptlQOga) | 3:16 | 2023-08-29 | 2023-11-03 |
@@ -193,6 +193,7 @@
 | [Everlasting](https://open.spotify.com/track/48uFYEit9rEVqraiPON5Hm) | [SO HYUN](https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1) | [Frame Narrative](https://open.spotify.com/album/7auICUiN0Fwsk0egwzzF4D) | 3:18 | 2024-04-04 | 2024-08-02 |
 | [Everyday](https://open.spotify.com/track/7EjAdL6I6fa0dHGq13UMRu) | [doyouka](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [Everyday](https://open.spotify.com/album/6iwJoVdq1sFsX3LZIbaZLM) | 3:35 | 2025-10-22 | 2026-04-13 |
 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 | 2022-07-07 | 2022-11-15 |
+| [ew](https://open.spotify.com/track/4Bz9x9jfUk0RwTNwZ6uiGI) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw) | [ew](https://open.spotify.com/album/5ICf3hoX6MM6quhgh5lOas) | 2:05 | 2026-10-01 |  |
 | [excuses](https://open.spotify.com/track/24ZZsTtsIqEYxhVXL8k75e) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [excuses](https://open.spotify.com/album/7vrkB5apr0lk3SAihR9xxA) | 2:51 | 2022-05-28 | 2022-06-10 |
 | [F.I.T.Y \(feat\. SLOTH\)](https://open.spotify.com/track/26vaDk8eELZZcDC5RilJyS) | [Seo dawit](https://open.spotify.com/artist/0Mo9obfgmz5W9bwTj5JVCN), [SLOTH](https://open.spotify.com/artist/1vMIbKFKUPCyanN0obXqjo) | [F.I.T.Y](https://open.spotify.com/album/0uGMpEVYUgmehdC29uDiY8) | 3:07 | 2024-10-27 | 2025-03-13 |
 | [Fade away \(Feat\. Wilcox\)](https://open.spotify.com/track/0Ph88trmaZJoua1Fluu3RQ) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8), [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [Fade away \(Feat\. Wilcox\)](https://open.spotify.com/album/2WmPIKfHBw3oGhPmulmujp) | 3:23 | 2024-09-13 | 2025-01-25 |
@@ -588,7 +589,7 @@
 | [Time Lapse](https://open.spotify.com/track/54XrNRY4jPnzAVamPvuA7o) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0a0LC99zZ0UArr1fFrt49U) | 3:22 | 2025-07-09 | 2026-01-23 |
 | [Time Machine](https://open.spotify.com/track/2kjAFB7VptwuosL0WSmPV2) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Time Machine](https://open.spotify.com/album/3BatyD1PQYv2rkHjUTC68T) | 2:39 | 2024-10-17 | 2025-03-13 |
 | [To be honest](https://open.spotify.com/track/0lxBdQxyYdd0uSDbo5RaXw) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [To be honest](https://open.spotify.com/album/5pFXN6DU3OjKKo7Jt1sb74) | 3:10 | 2023-01-20 | 2023-08-18 |
-| [To Mars](https://open.spotify.com/track/40YQG7PQix3RMgzkKLzrVP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [To Mars](https://open.spotify.com/album/0hCPD44BiJeCwHWVSl3sWR) | 2:44 | 2026-04-13 |  |
+| [To Mars](https://open.spotify.com/track/40YQG7PQix3RMgzkKLzrVP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [To Mars](https://open.spotify.com/album/0hCPD44BiJeCwHWVSl3sWR) | 2:44 | 2026-04-13 | 2026-10-02 |
 | [To you](https://open.spotify.com/track/4mYPnxp4nS9rzK4OY2mKQP) | [XAVII](https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh) | [To you](https://open.spotify.com/album/064cd3ECQA3xzCqjOeh8Us) | 2:52 | 2023-10-05 | 2024-01-09 |
 | [To You Who Want My Downfall](https://open.spotify.com/track/5zk55KR533Us6j3XibdzHc) | [Park Se Jung](https://open.spotify.com/artist/4NegBbNnbzZqSOWOKpRpyx) | [To You Who Want My Downfall](https://open.spotify.com/album/32C6eogH4cKjn5pcKePJ8v) | 2:22 | 2026-06-03 |  |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-11-28 | 2024-04-19 |
@@ -632,6 +633,7 @@
 | [When I'm With You \(feat\. E.ul\)](https://open.spotify.com/track/6BEVwCsmP4HcTqaSpsvpnb) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [When I'm With You \(feat\. E.ul\)](https://open.spotify.com/album/14AVhoGHg9RrsTX7Fc2Upz) | 3:06 | 2025-04-18 | 2025-08-06 |
 | [When It Rains](https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [When It Rains](https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ) | 3:14 | 2022-08-18 | 2023-01-21 |
 | [When Spring Comes](https://open.spotify.com/track/6zQrcQ7jXnlvj9Q8WBrMCf) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [When Spring Comes](https://open.spotify.com/album/5qOhC1bkR3CdCFQytnGsOx) | 3:07 | 2026-03-20 | 2026-07-29 |
+| [WHERE](https://open.spotify.com/track/6FoBAPO9N9Y9rRSPSvmICb) | [JAYN](https://open.spotify.com/artist/47fnCoAB0tj85SzEl9sGKz) | [JAYN](https://open.spotify.com/album/09UjDIpsF3wA0lGix9iaMw) | 3:06 | 2026-10-01 |  |
 | [Where′s my soul](https://open.spotify.com/track/4Xk6MCUuYXcKnbCDuB5LQT) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Where′s my soul](https://open.spotify.com/album/6xEyOe28RIZJgmpfhOiV8m) | 2:40 | 2025-03-13 | 2025-07-09 |
 | [white](https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [wintersleep](https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg) | 3:00 | 2023-01-13 | 2023-07-08 |
 | [White Lie \(feat\. GI$T\)](https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [White Lie](https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg) | 3:24 | 2022-07-27 | 2022-12-14 |

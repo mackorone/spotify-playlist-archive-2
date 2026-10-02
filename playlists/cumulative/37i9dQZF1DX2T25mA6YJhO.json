@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Aiko el grupo.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Nepal Nepal.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 167354,
       "name": "1900",
       "url": "https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU"
+    },
+    {
+      "album": {
+        "name": "Un \u00c1ngel Y Yo",
+        "url": "https://open.spotify.com/album/2PmHU4cHEgkH7Z6VV5gIy9"
+      },
+      "artists": [
+        {
+          "name": "MaiteQuiero",
+          "url": "https://open.spotify.com/artist/6z3adcBXMsz0Y5VGyWTO69"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239202,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/1hXsU2SNpddLk7sDHPBt9k"
     },
     {
       "album": {
@@ -782,7 +800,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 180923,
       "name": "Amida",
       "url": "https://open.spotify.com/track/5GGHRgvPDXkIJZXVpNXUlU"
@@ -934,6 +952,24 @@
       "duration_ms": 184039,
       "name": "Antes era campo todo esto",
       "url": "https://open.spotify.com/track/6jGI3vbERKOJdY4QnnCy66"
+    },
+    {
+      "album": {
+        "name": "Antifiesta",
+        "url": "https://open.spotify.com/album/3JqKMLp1ykirxAukz2AgLy"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283386,
+      "name": "Antifiesta",
+      "url": "https://open.spotify.com/track/0NaXSXAAukAvEkzLiNB3Ax"
     },
     {
       "album": {
@@ -1865,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Calienta que sales",
+        "url": "https://open.spotify.com/album/0d6aODNJfbaNZ0odNMcb34"
+      },
+      "artists": [
+        {
+          "name": "Viva Belgrado",
+          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229247,
+      "name": "Calienta que sales",
+      "url": "https://open.spotify.com/track/7xR6RpEyG66VqT4TfJjCe4"
+    },
+    {
+      "album": {
         "name": "Calle Plata",
         "url": "https://open.spotify.com/album/6vFve1hrFj2UBoSRW2beM9"
       },
@@ -1920,6 +1974,24 @@
       "duration_ms": 210700,
       "name": "Candorro",
       "url": "https://open.spotify.com/track/63JIRwhrwP2a4glqAbrH2b"
+    },
+    {
+      "album": {
+        "name": "Cantar Motor",
+        "url": "https://open.spotify.com/album/6B3XnXHE26TrtoB76mAPf9"
+      },
+      "artists": [
+        {
+          "name": "Pinpilinpussies",
+          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185234,
+      "name": "Cantar Motor",
+      "url": "https://open.spotify.com/track/0dqMo1ubNnkksKLXeXpl0Q"
     },
     {
       "album": {
@@ -4115,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "El Momento M\u00e1s Extra\u00f1o",
+        "url": "https://open.spotify.com/album/1cJpAqN4IU23knqKLDg0l9"
+      },
+      "artists": [
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274768,
+      "name": "El Momento M\u00e1s Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4afIBB3rDy8DfySC4iOGV1"
+    },
+    {
+      "album": {
         "name": "El muro",
         "url": "https://open.spotify.com/album/2uYx5sh5wKco59aTeQROGe"
       },
@@ -4404,7 +4494,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 181648,
       "name": "En todas partes",
       "url": "https://open.spotify.com/track/1udZzlKUDhffTRldHgh4qn"
@@ -5236,7 +5326,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 207731,
       "name": "Fuerza de Gravedad",
       "url": "https://open.spotify.com/track/1rdea9MHR3D6q83pAoDnny"
@@ -6140,7 +6230,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 185537,
       "name": "IMPOSIBLE",
       "url": "https://open.spotify.com/track/5E0cuMcQlX39Dugg57D4Ei"
@@ -7842,7 +7932,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179819,
       "name": "Luz Azul",
       "url": "https://open.spotify.com/track/0DIy7zUt76lKrGtznGx22l"
@@ -8204,6 +8294,24 @@
       "duration_ms": 180705,
       "name": "Mat\u00e1ndome",
       "url": "https://open.spotify.com/track/0aTiOLRPBlE0sodetaM1ck"
+    },
+    {
+      "album": {
+        "name": "VOLVER A CASA",
+        "url": "https://open.spotify.com/album/5nXAgunI7K8Jqd1cxvDoJ2"
+      },
+      "artists": [
+        {
+          "name": "Nadie Pat\u00edn",
+          "url": "https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171787,
+      "name": "MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/5u3S6XYuVUXKcDTI9iu1Gf"
     },
     {
       "album": {
@@ -9034,7 +9142,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 145701,
       "name": "Nada",
       "url": "https://open.spotify.com/track/2zrearlsYlJC1yu5Uo5DYZ"
@@ -9124,7 +9232,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 198533,
       "name": "Ning\u00fan sentido",
       "url": "https://open.spotify.com/track/3xztxFaaABmYkvDuJgb4H0"
@@ -11850,7 +11958,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 135500,
       "name": "San Ant\u00f3n 21",
       "url": "https://open.spotify.com/track/6PuO0OWCAwBOtAuDbF9aqe"
@@ -12284,6 +12392,24 @@
       "duration_ms": 205957,
       "name": "Sin Hablar",
       "url": "https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433"
+    },
+    {
+      "album": {
+        "name": "Razones para ser mejor",
+        "url": "https://open.spotify.com/album/22A4wMSFbC66WtW5HSHUHa"
+      },
+      "artists": [
+        {
+          "name": "Nepal Nepal",
+          "url": "https://open.spotify.com/artist/5IgKw66ky3FmSx4GZftWvc"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206296,
+      "name": "Sin mirar la hora",
+      "url": "https://open.spotify.com/track/5G9Z6W2lRrXufKxkqwr4Z6"
     },
     {
       "album": {
@@ -14570,6 +14696,24 @@
       "duration_ms": 171740,
       "name": "Y no lo ves",
       "url": "https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi"
+    },
+    {
+      "album": {
+        "name": "Un Mundo para Glub",
+        "url": "https://open.spotify.com/album/58LpqETY1Q0p4taoSL4yqb"
+      },
+      "artists": [
+        {
+          "name": "BALONCESTO",
+          "url": "https://open.spotify.com/artist/37KpgwJAlQfKRRwdEkv1CO"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201352,
+      "name": "y que suba el mar",
+      "url": "https://open.spotify.com/track/5ThOfGiwQcNEPHxUvIFB8b"
     },
     {
       "album": {

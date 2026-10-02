@@ -4042,7 +4042,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -9208,7 +9208,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -10972,6 +10972,40 @@
       "duration_ms": 153272,
       "name": "Kygo Jo (feat. Lyng) - Kygo Remix",
       "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
+    },
+    {
+      "album": {
+        "name": "LA LIGA",
+        "url": "https://open.spotify.com/album/3EvZfe1UY1mq2hPahgfAGy"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        },
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "LA LIGA",
+      "url": "https://open.spotify.com/track/2echXrccqUfuCST3xF5zjX"
     },
     {
       "album": {
@@ -13546,7 +13580,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199345,
       "name": "N\u00e4r vi gr\u00e4ver guld i USA - Spotify Singles",
       "url": "https://open.spotify.com/track/3vKjA3z6VhX5A6kppUOkHV"
@@ -17535,6 +17569,24 @@
     },
     {
       "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "album": {
         "name": "STOR MAN",
         "url": "https://open.spotify.com/album/2zkfMfrIQicYXK6tEDlavG"
       },
@@ -17580,6 +17632,28 @@
       "duration_ms": 179462,
       "name": "Stora bl\u00e5",
       "url": "https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D"
+    },
+    {
+      "album": {
+        "name": "Love & Tears",
+        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
     },
     {
       "album": {

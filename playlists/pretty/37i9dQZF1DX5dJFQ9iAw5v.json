@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 34277,
+  "num_followers": 34279,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
         "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 413595,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -687,30 +687,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "All the Things You Are",
-        "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
-      },
-      "artists": [
-        {
-          "name": "Ruben Lopez Furst",
-          "url": "https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX"
-        },
-        {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
-        },
-        {
-          "name": "Luis Ceravolo",
-          "url": "https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E"
-        }
-      ],
-      "duration_ms": 408293,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Flor de piel",
         "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 120327,
       "name": "Diez Fotos Viejas-Pieza 1",
       "url": "https://open.spotify.com/track/1np704HUCoilDckrl6dqUa"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "All the Things You Are",
+        "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
+      },
+      "artists": [
+        {
+          "name": "Ruben Lopez Furst",
+          "url": "https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX"
+        },
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        },
+        {
+          "name": "Luis Ceravolo",
+          "url": "https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E"
+        }
+      ],
+      "duration_ms": 408293,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1067,18 +1067,38 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Roman",
-        "url": "https://open.spotify.com/album/4z7OxQXwykb4W5uBkbGiY0"
+        "name": "Afropuertas",
+        "url": "https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp"
       },
       "artists": [
         {
-          "name": "ROM\u00c1N",
-          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+        },
+        {
+          "name": "Carlos Michelini",
+          "url": "https://open.spotify.com/artist/6Tbr0u2xVmOLKADh9PO0Nm"
+        },
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        },
+        {
+          "name": "Marcelo Mayor",
+          "url": "https://open.spotify.com/artist/7I1eGOWhHuhI3xfwXWsFBV"
+        },
+        {
+          "name": "Ezequiel \"Chino\" Piazza",
+          "url": "https://open.spotify.com/artist/6WCG05WxHQv0BzAuNgULo6"
+        },
+        {
+          "name": "Beto Merino",
+          "url": "https://open.spotify.com/artist/6yNrmekUamVKW9wdewueXT"
         }
       ],
-      "duration_ms": 291561,
-      "name": "Bill's Groove",
-      "url": "https://open.spotify.com/track/34fbQjaiSWhK8bP6zfblCS"
+      "duration_ms": 362066,
+      "name": "Do\u00f1a Cha Cha",
+      "url": "https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1095,6 +1115,22 @@
       "duration_ms": 292572,
       "name": "Creer en las Hojas",
       "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Roman",
+        "url": "https://open.spotify.com/album/4z7OxQXwykb4W5uBkbGiY0"
+      },
+      "artists": [
+        {
+          "name": "ROM\u00c1N",
+          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
+        }
+      ],
+      "duration_ms": 291561,
+      "name": "Bill's Groove",
+      "url": "https://open.spotify.com/track/34fbQjaiSWhK8bP6zfblCS"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1387,22 +1423,6 @@
       "duration_ms": 361280,
       "name": "Viva Jujuy",
       "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "...Baby One More Time",
-        "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
-      },
-      "artists": [
-        {
-          "name": "Manto de Carne",
-          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
     }
   ],
   "unique_name": "Jazz Argentino",

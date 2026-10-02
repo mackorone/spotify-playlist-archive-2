@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 338677,
+  "num_followers": 338700,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADikWCkB3rzUu8K3fUGwSnz",
+  "snapshot_id": "arxRAAAAAABrt6KvSxVBBxhm63hE9p7d",
   "tracks": [
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Sun: Girls Trip",
-        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 192723,
-      "name": "Blue Moon - Girls Trip",
-      "url": "https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 183560,
       "name": "Saving My Love (feat. Kehlani)",
       "url": "https://open.spotify.com/track/1VzQrfygsLEi0Vle8FSea0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 192723,
+      "name": "Blue Moon - Girls Trip",
+      "url": "https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx"
     },
     {
       "added_at": null,

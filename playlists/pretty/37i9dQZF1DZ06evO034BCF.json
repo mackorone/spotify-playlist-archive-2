@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2296,
+  "num_followers": 2301,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAAJ9Yk4xKtUt/zltUB4CnJz",
+  "snapshot_id": "arxRAAAAAACf7bLCSLejJ5Y+n+LVCNf5",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
+        "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Tik-Tak Polka, Polka schnell, Op. 365",
+      "url": "https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Discoveries",
         "url": "https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 293173,
       "name": "Conga del Fuego - Live",
       "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
-        "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
-      },
-      "artists": [
-        {
-          "name": "Johann Strauss II",
-          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Tik-Tak Polka, Polka schnell, Op. 365",
-      "url": "https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4"
     },
     {
       "added_at": null,

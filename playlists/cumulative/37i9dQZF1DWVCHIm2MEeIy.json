@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 234198,
       "name": "333",
       "url": "https://open.spotify.com/track/57zfeOLdcnfon3aLrjFxvq"
@@ -1481,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "Behelit",
+        "url": "https://open.spotify.com/album/5g1WGgywHpPVoQHUPkeyLV"
+      },
+      "artists": [
+        {
+          "name": "MOORAD",
+          "url": "https://open.spotify.com/artist/5pRx0QMB8qp8v59Ga9JbU4"
+        },
+        {
+          "name": "Ghoul (ZA)",
+          "url": "https://open.spotify.com/artist/1PCo4OSRCiClmjmir02vA5"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312017,
+      "name": "Behelit",
+      "url": "https://open.spotify.com/track/1HWjiwvQ52hfK0Yhl6FlxW"
+    },
+    {
+      "album": {
         "name": "Beide alleine",
         "url": "https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte"
       },
@@ -1922,7 +1944,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 200951,
       "name": "Blurred Signal",
       "url": "https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe"
@@ -3308,6 +3330,32 @@
       "duration_ms": 229000,
       "name": "Dancing in the Sand",
       "url": "https://open.spotify.com/track/3F4qrkZNUO6j5qCCBX7V3U"
+    },
+    {
+      "album": {
+        "name": "DANGER DANGER (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180150,
+      "name": "DANGER DANGER (feat. Skepta)",
+      "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
     },
     {
       "album": {
@@ -4900,7 +4948,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 315289,
       "name": "Get it back",
       "url": "https://open.spotify.com/track/1msQY1B1gGKe8cGkmihSqH"
@@ -5221,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "Guapa",
+        "url": "https://open.spotify.com/album/0WICIKtAIl2ZPUalqwei98"
+      },
+      "artists": [
+        {
+          "name": "Kid Simius",
+          "url": "https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312397,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/1yqvcYStf8sAPERxUIK3yC"
+    },
+    {
+      "album": {
         "name": "KOMMIT",
         "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
       },
@@ -5250,7 +5316,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 226560,
       "name": "Habits",
       "url": "https://open.spotify.com/track/6fJ8hmxZvVAkEg2J6GXYcJ"
@@ -5480,6 +5546,24 @@
       "duration_ms": 505336,
       "name": "HI",
       "url": "https://open.spotify.com/track/5x0lhxt4DBf7ja3RRCLCXF"
+    },
+    {
+      "album": {
+        "name": "High Fly",
+        "url": "https://open.spotify.com/album/2LulREuRaeJ3r4uvFCgKjJ"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168230,
+      "name": "High Fly",
+      "url": "https://open.spotify.com/track/0HYitTcI6GwzmuO4j07f4f"
     },
     {
       "album": {
@@ -6807,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "Le Vol",
+        "url": "https://open.spotify.com/album/5Qzl6dr6ufoO2LTUVjodsR"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231290,
+      "name": "Le Vol",
+      "url": "https://open.spotify.com/track/56zTp6H6QQ9A9RreEvOZWz"
+    },
+    {
+      "album": {
         "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
         "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
       },
@@ -7933,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229174,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
+    },
+    {
+      "album": {
         "name": "Mi Lugar Favorito",
         "url": "https://open.spotify.com/album/0wHZgfmNyvLvngZmEEWKHl"
       },
@@ -8204,6 +8324,24 @@
       "duration_ms": 384760,
       "name": "Mother",
       "url": "https://open.spotify.com/track/5HJEdaxYV6DZ3ju0szNERM"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/4oLgZhBGWsykHxliIhSGhp"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/140fOwMwpxbDhy9KLpgI8f"
     },
     {
       "album": {
@@ -9800,7 +9938,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 260039,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN"
@@ -13248,7 +13386,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 217706,
       "name": "Time To Be Free",
       "url": "https://open.spotify.com/track/7GevNuZmuGwHpzLng50Cjk"
@@ -14316,7 +14454,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 191250,
       "name": "What I Please",
       "url": "https://open.spotify.com/track/0Bw9RNYV6jPG7JWUBk6iiX"

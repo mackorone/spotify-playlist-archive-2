@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma",
-  "num_followers": 396488,
+  "num_followers": 396506,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
+        "name": "La Faldita",
+        "url": "https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "La Faldita",
+      "url": "https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
         "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha (En Vivo)",
         "url": "https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 947950,
       "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
       "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
-        "name": "La Faldita",
-        "url": "https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz"
-      },
-      "artists": [
-        {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "La Faldita",
-      "url": "https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
         }
       ],
-      "duration_ms": 245120,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm"
+      "duration_ms": 264146,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
     }
   ],
   "unique_name": "Merengue Mania",

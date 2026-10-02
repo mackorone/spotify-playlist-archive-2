@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Fallon",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : DAKEEZ",
   "name": "R&Bae",
   "tracks": [
     {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 134936,
       "name": "50 Gars",
       "url": "https://open.spotify.com/track/1B0jx8RVaD2cEvVwVCrAOW"
@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Alov",
+        "url": "https://open.spotify.com/album/5e95lZXVU60ySREfcEUd6s"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158372,
+      "name": "Alov",
+      "url": "https://open.spotify.com/track/2IcYyyyn0RbB36N5Pglgmd"
+    },
+    {
+      "album": {
         "name": "Alter ego (Aida#6)",
         "url": "https://open.spotify.com/album/666bzTXaZyQQzDhnE7l0BW"
       },
@@ -430,6 +448,24 @@
       "duration_ms": 158253,
       "name": "Al\u00e9atoire",
       "url": "https://open.spotify.com/track/3bJMgoBmqRGFr8LCUqtBBz"
+    },
+    {
+      "album": {
+        "name": "AMOUR & SACRIFICE PART.II",
+        "url": "https://open.spotify.com/album/61E561Bc6h0L2NA7RRF8lA"
+      },
+      "artists": [
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "AMOUR & SACRIFICE PART.II",
+      "url": "https://open.spotify.com/track/6ptAjfB1A5qMT3H0JX8k0o"
     },
     {
       "album": {
@@ -4304,7 +4340,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 162000,
       "name": "En bas de chez moi",
       "url": "https://open.spotify.com/track/3FoX8jrM7dyXZJD5jVPih4"
@@ -7540,6 +7576,24 @@
       "duration_ms": 202106,
       "name": "London Fever",
       "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
+    },
+    {
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/5wKwjKjTWJzSa10G8Uni52"
+      },
+      "artists": [
+        {
+          "name": "Lykuin",
+          "url": "https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4bRaeEqCtTevan9rq3NomZ"
     },
     {
       "album": {
@@ -10876,6 +10930,24 @@
       "duration_ms": 141226,
       "name": "Position",
       "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+    },
+    {
+      "album": {
+        "name": "POSITION",
+        "url": "https://open.spotify.com/album/6zSfpaNnuyRnKwiXXo3IsD"
+      },
+      "artists": [
+        {
+          "name": "JEUDI",
+          "url": "https://open.spotify.com/artist/6HZ8c7N6ysiZJf4HkGCszd"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173195,
+      "name": "POSITION",
+      "url": "https://open.spotify.com/track/03PUBNIQ75G1EoQVWyn2i2"
     },
     {
       "album": {
@@ -14982,7 +15054,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165600,
       "name": "Z\u00c9RO DEFAUT",
       "url": "https://open.spotify.com/track/4JJpP2JWOL2hO4vx4WJQ0l"
@@ -15138,7 +15210,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 160767,
       "name": "\u00c7a va aller",
       "url": "https://open.spotify.com/track/4s6i1gchWOJXTUPy7dc8uA"

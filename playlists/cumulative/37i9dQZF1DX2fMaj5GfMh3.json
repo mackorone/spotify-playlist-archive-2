@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: Sugababes",
+  "description": "De nieuwste pop songs. Cover: Holly Humberstone",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 150901,
       "name": "A Little More Fun",
       "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
@@ -3029,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Born For You",
+        "url": "https://open.spotify.com/album/5mCXq7JbA0KKtXNJXe5I5r"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155248,
+      "name": "Born For You",
+      "url": "https://open.spotify.com/track/6P4KOxSNS12SAa0zYExbwZ"
+    },
+    {
+      "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
@@ -3343,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Broken chair",
+        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220677,
+      "name": "Broken chair",
+      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
+    },
+    {
+      "album": {
         "name": "Broken Sunshine",
         "url": "https://open.spotify.com/album/7vucHZXvKvdwPhlZzzJvTR"
       },
@@ -3586,7 +3622,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 181810,
       "name": "Cairo FM",
       "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
@@ -6872,7 +6908,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 235943,
       "name": "Dream Crusher",
       "url": "https://open.spotify.com/track/6WOoArvGAUJlYWR4qg9oos"
@@ -7330,7 +7366,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 163827,
       "name": "Electrified",
       "url": "https://open.spotify.com/track/5XuizbY6zjpAjpuljymNbT"
@@ -8584,6 +8620,28 @@
       "duration_ms": 187423,
       "name": "FINE PLACE TO DIE",
       "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/7E7ldaTtHThRPsE6uQaPqR"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182833,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/18ZScFhFloaJJxJcnrLezb"
     },
     {
       "album": {
@@ -16735,6 +16793,24 @@
     },
     {
       "album": {
+        "name": "Met my match",
+        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165339,
+      "name": "Met my match",
+      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
+    },
+    {
+      "album": {
         "name": "Middle Ground",
         "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
@@ -17018,6 +17094,24 @@
       "duration_ms": 144230,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW"
+    },
+    {
+      "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"
     },
     {
       "album": {
@@ -18818,7 +18912,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 231729,
       "name": "Omw",
       "url": "https://open.spotify.com/track/0cIYBzZaosRGgEhy3ykvph"
@@ -19587,6 +19681,42 @@
     },
     {
       "album": {
+        "name": "Panic First!",
+        "url": "https://open.spotify.com/album/3RfTi4xYVmJeOBq785CDJu"
+      },
+      "artists": [
+        {
+          "name": "Judith",
+          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "panic first!",
+      "url": "https://open.spotify.com/track/7wakoFGB8xsobcKVKOqoa7"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1Gs6J7dE84FioFXpScmIM4"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202460,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5n4qgPv315nvmlWtaqHA6g"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -20072,7 +20202,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 167920,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
@@ -21194,7 +21324,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 190219,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/4t0HaKMY1PEoZgWcJb8Byn"
@@ -21396,6 +21526,24 @@
       "duration_ms": 163228,
       "name": "Roots",
       "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/4GOKo5KliZ5rFOo4nt1XBE"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244455,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/62nvyOhzrDwwLCzOYzSoZx"
     },
     {
       "album": {
@@ -24711,6 +24859,24 @@
     },
     {
       "album": {
+        "name": "Take It Off For You",
+        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156540,
+      "name": "Take It Off For You",
+      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
+    },
+    {
+      "album": {
         "name": "Take Me Down",
         "url": "https://open.spotify.com/album/59jzztO0Je3HP7zgxJOO0i"
       },
@@ -25396,6 +25562,28 @@
       "duration_ms": 187786,
       "name": "That's What You Get",
       "url": "https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE"
+    },
+    {
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278629,
+      "name": "That's Why I Love You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq"
     },
     {
       "album": {
@@ -26439,6 +26627,24 @@
     },
     {
       "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
+    },
+    {
+      "album": {
         "name": "Too Far",
         "url": "https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4"
       },
@@ -27056,7 +27262,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 163000,
       "name": "Us Against The World",
       "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
@@ -28196,7 +28402,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 184500,
       "name": "When I'm Drunk",
       "url": "https://open.spotify.com/track/1kQ4XawYNdsqvsbyHzN2AB"
@@ -29128,6 +29334,24 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "album": {
+        "name": "Make It Make Sense",
+        "url": "https://open.spotify.com/album/6C7FqS0rJW6MQL5rMkxx1p"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "You Make It Make Sense",
+      "url": "https://open.spotify.com/track/0evRhqpMd7JfuNszB8Np1S"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 128720,
+  "num_followers": 128764,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAA/FElZ/Y6EIaHIn0Mn20yQ",
+  "snapshot_id": "arxRAAAAAACfH8eg+LLECUnpjAixN1VH",
   "tracks": [
     {
       "added_at": null,
@@ -400,25 +400,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187992,
-      "name": "In Motion",
-      "url": "https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt"
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
     },
     {
       "added_at": null,
@@ -468,9 +452,25 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 187992,
+      "name": "In Motion",
+      "url": "https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt"
     },
     {
       "added_at": null,

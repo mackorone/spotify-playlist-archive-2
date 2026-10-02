@@ -4463,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "Leaving Lewis",
+        "url": "https://open.spotify.com/album/70qBYevsHzieH2yI36dmXg"
+      },
+      "artists": [
+        {
+          "name": "Willie Campbell",
+          "url": "https://open.spotify.com/artist/1f9HLcCq2yssKl9qIhpXAU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198923,
+      "name": "Leaving Lewis",
+      "url": "https://open.spotify.com/track/0ALm9JXJJWok8bmnF0fTcI"
+    },
+    {
+      "album": {
         "name": "waxing | waning",
         "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
       },

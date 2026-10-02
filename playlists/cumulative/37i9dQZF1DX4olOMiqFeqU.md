@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-211 songs - 15 hr 0 min
+212 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Oksihina](https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Oksihina](https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29) | 3:24 | 2025-07-30 |  |
 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 | 2022-06-13 |  |
 | [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 | 2024-01-10 | 2025-03-26 |
+| [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/track/1I44TjvgnOjZTxaGs0E44W) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [kung tayo’y nasa isang horror na pelikula, tiyak ako ang una mong papatayin](https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu) | 3:27 | 2026-10-02 |  |
 | [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/track/1GqZU8Isnm4Bwx7V3na5tO) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/album/4XcBixCavHYqmVPCAr2jwN) | 4:40 | 2026-05-20 | 2026-08-08 |
 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2022-04-19 |  |
 | [Pahinga](https://open.spotify.com/track/5gsrnGObHgA9RxbzSbsHj9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Pahinga](https://open.spotify.com/album/5kR9f0sM2O0w0S7BC3TaSP) | 4:21 | 2025-10-22 | 2026-03-19 |
@@ -175,7 +176,7 @@
 | [Same Ground](https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:27 | 2022-04-19 | 2026-03-23 |
 | [Sana \- Single Version](https://open.spotify.com/track/1X4l4i472kW5ofFP8Xo0x0) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/4njOhY51h2CBqdAX4o41U1) | 4:37 | 2022-04-19 | 2022-11-01 |
 | [Sana \- Single Version](https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl) | 4:37 | 2022-09-20 | 2024-03-07 |
-| [Saranggola](https://open.spotify.com/track/2V3HVXu25O5xCAjmmptYCo) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Saranggola](https://open.spotify.com/album/36gNzsCUsMd3CoD9zGyMUp) | 4:26 | 2025-12-03 |  |
+| [Saranggola](https://open.spotify.com/track/2V3HVXu25O5xCAjmmptYCo) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Saranggola](https://open.spotify.com/album/36gNzsCUsMd3CoD9zGyMUp) | 4:26 | 2025-12-03 | 2026-10-02 |
 | [Sila](https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Sila](https://open.spotify.com/album/0qwujayb77utSpftsXjdP3) | 5:26 | 2024-04-17 |  |
 | [Simpleng Tao](https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3) | [Gloc 9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [G9](https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG) | 4:04 | 2022-06-13 | 2023-06-04 |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2025-06-25 |  |

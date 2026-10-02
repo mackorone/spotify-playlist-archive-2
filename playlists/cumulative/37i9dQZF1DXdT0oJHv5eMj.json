@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "Phone, Keys, Wallet",
+        "url": "https://open.spotify.com/album/0wZS1yQVF4GM8Mzcr95ErJ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172255,
+      "name": "Phone, Keys, Wallet",
+      "url": "https://open.spotify.com/track/6ZdlOSd1gmKc09ixTr3pjO"
+    },
+    {
+      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },

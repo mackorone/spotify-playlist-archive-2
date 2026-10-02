@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Joyce Alane",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -1150,6 +1150,24 @@
       "duration_ms": 131037,
       "name": "Back for More (with Anitta)",
       "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
+    },
+    {
+      "album": {
+        "name": "LOST IN LUST",
+        "url": "https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177382,
+      "name": "BAD GOOD",
+      "url": "https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl"
     },
     {
       "album": {
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 196455,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6RqlhCt1obVazYJY1nBz89"

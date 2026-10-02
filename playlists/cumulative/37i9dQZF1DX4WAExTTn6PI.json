@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178165,
       "name": "Containers",
       "url": "https://open.spotify.com/track/6Q31tPQvSuR7mwFYDmOxPu"
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 144381,
       "name": "Cutbank of Cleves",
       "url": "https://open.spotify.com/track/7oqhSdGGBOoqsLa4YoFICK"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 286514,
       "name": "Darker Out Tonight",
       "url": "https://open.spotify.com/track/0WO1fIkYIF4MCNdNPcKecl"
@@ -2306,6 +2306,24 @@
       "duration_ms": 360393,
       "name": "Further From the Country",
       "url": "https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS"
+    },
+    {
+      "album": {
+        "name": "Gas Station",
+        "url": "https://open.spotify.com/album/0xLHLpXK78LJGiejjj2g3o"
+      },
+      "artists": [
+        {
+          "name": "Willi Carlisle",
+          "url": "https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158120,
+      "name": "Gas Station",
+      "url": "https://open.spotify.com/track/6FKh0JEZ5yY6A6lPxIEjPA"
     },
     {
       "album": {
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 218746,
       "name": "Let Being Sober Be Your Cure",
       "url": "https://open.spotify.com/track/22fHxcpB9XDGw0o2asLdgm"
@@ -4302,6 +4320,32 @@
       "duration_ms": 273241,
       "name": "Little Boxes",
       "url": "https://open.spotify.com/track/7chSr6q1DmIJUGwi0O4h5L"
+    },
+    {
+      "album": {
+        "name": "Little Dove",
+        "url": "https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke"
+      },
+      "artists": [
+        {
+          "name": "Lacy Green",
+          "url": "https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL"
+        },
+        {
+          "name": "Adam Wright",
+          "url": "https://open.spotify.com/artist/22rPdPcY0bEc2E0TgD70bc"
+        },
+        {
+          "name": "Thomm Jutz",
+          "url": "https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228176,
+      "name": "Little Dove",
+      "url": "https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL"
     },
     {
       "album": {
@@ -6547,6 +6591,24 @@
     },
     {
       "album": {
+        "name": "Sling and Stone",
+        "url": "https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk"
+      },
+      "artists": [
+        {
+          "name": "Jess Woodland",
+          "url": "https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194982,
+      "name": "Sling and Stone",
+      "url": "https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow"
+    },
+    {
+      "album": {
         "name": "So Damn Lucky",
         "url": "https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu"
       },
@@ -6616,7 +6678,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 180250,
       "name": "Sometimes I Think About You",
       "url": "https://open.spotify.com/track/0Sqlzv37E6nqOm6WVkv3Zn"
@@ -7038,6 +7100,24 @@
       "duration_ms": 189329,
       "name": "Sweet Misery",
       "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
+    },
+    {
+      "album": {
+        "name": "Take One Too",
+        "url": "https://open.spotify.com/album/1gpL83N5OwyhO7KHwv66IQ"
+      },
+      "artists": [
+        {
+          "name": "Talise",
+          "url": "https://open.spotify.com/artist/2y5FoD2JGJB0CDtlVVfHPO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250076,
+      "name": "Take One Too",
+      "url": "https://open.spotify.com/track/32gmTjLxRY9Mg8LgoSFjq0"
     },
     {
       "album": {
@@ -7978,6 +8058,32 @@
       "duration_ms": 224466,
       "name": "We're All Good",
       "url": "https://open.spotify.com/track/5OwsUX0ycNCeY39sxp0c81"
+    },
+    {
+      "album": {
+        "name": "Wedding Day",
+        "url": "https://open.spotify.com/album/7tKJdQ7TwG4MMpntBsNauz"
+      },
+      "artists": [
+        {
+          "name": "Jess Nolan",
+          "url": "https://open.spotify.com/artist/0Jzzw8DkFO8mlK8ZqIJCNJ"
+        },
+        {
+          "name": "Fretland",
+          "url": "https://open.spotify.com/artist/0L5WuCpuA7ezlQ6fIQZjAx"
+        },
+        {
+          "name": "Lilly Winwood",
+          "url": "https://open.spotify.com/artist/3mU9T77X4VyIE2Eb9Av8Sp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219237,
+      "name": "Wedding Day",
+      "url": "https://open.spotify.com/track/4l7ADsV32QhNfbS4mnnUT9"
     },
     {
       "album": {

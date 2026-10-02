@@ -7113,6 +7113,32 @@
     },
     {
       "album": {
+        "name": "Get Ready to Go (with Dr. Seuss' Cat in the Hat)",
+        "url": "https://open.spotify.com/album/6pYjVN72qXCursJVeVGTHt"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        },
+        {
+          "name": "Dr. Seuss",
+          "url": "https://open.spotify.com/artist/4mi47OiK1uIz0TygMvYgW2"
+        },
+        {
+          "name": "Dr. Seuss' Cat in the Hat",
+          "url": "https://open.spotify.com/artist/7mkZn7UlaPKXlurQPZfF9Y"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122386,
+      "name": "Get Ready to Go (with Dr. Seuss' Cat in the Hat)",
+      "url": "https://open.spotify.com/track/0DmZuXjbXpIpLpuvkyq8Y4"
+    },
+    {
+      "album": {
         "name": "The Pop Ups Essentials",
         "url": "https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf"
       },
@@ -11552,7 +11578,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 60000,
       "name": "Kitty Bear Dance Party",
       "url": "https://open.spotify.com/track/4hQIotCCN1WGdo6Ht0CAFr"
@@ -12721,6 +12747,24 @@
     },
     {
       "album": {
+        "name": "Little Peter Rabbit",
+        "url": "https://open.spotify.com/album/7IP4QwJvRtOb3gjRNBWuD5"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209821,
+      "name": "Little Peter Rabbit",
+      "url": "https://open.spotify.com/track/3OWzdge99fGvLXZoXsZ962"
+    },
+    {
+      "album": {
         "name": "Living With Liberty (Skye's Music Party)",
         "url": "https://open.spotify.com/album/4tgJda8PJwAik3isJWNn7D"
       },
@@ -13378,7 +13422,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 193103,
       "name": "Manners",
       "url": "https://open.spotify.com/track/4gS0WDCFCaud48XFHlDJ2F"
@@ -13862,7 +13906,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 48631,
       "name": "Mission Theme Song",
       "url": "https://open.spotify.com/track/033iQyDDeGssAIJeIZJ38Q"
@@ -15270,7 +15314,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 61200,
       "name": "One, Two, Buckle My Shoe Circle Time",
       "url": "https://open.spotify.com/track/5BtMLVYPY5vsMUlQQnZ4ae"
@@ -16428,7 +16472,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 142941,
       "name": "Power Up",
       "url": "https://open.spotify.com/track/2K1DI3D1BYZLQC65KaVp8b"
@@ -16464,7 +16508,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 144893,
       "name": "Pretty In Paris",
       "url": "https://open.spotify.com/track/4rmqg5G2ZD0AfBkzToB13i"
@@ -16860,7 +16904,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 106667,
       "name": "Ride My Bike",
       "url": "https://open.spotify.com/track/1lxVoSnERlkFqbES8rMbY9"
@@ -17174,7 +17218,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 122475,
       "name": "Rubber Duckie - from \"Sesame Street\"",
       "url": "https://open.spotify.com/track/2SkDK4MACq0BFfIQkP4y0E"
@@ -22932,7 +22976,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 49102,
       "name": "Watch Out for That Rake",
       "url": "https://open.spotify.com/track/6oKpLMgvQV4fNAAY4uXkKz"

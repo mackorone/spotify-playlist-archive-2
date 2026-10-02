@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Alternative Arabic songs. Cover: Faraj Suleiman",
+  "description": "Alternative Arabic songs. Cover: Kazdoura",
   "name": "Arab Indie",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 114857,
       "name": "3ayb Wlo",
       "url": "https://open.spotify.com/track/5fkL85ZqUZipFRkcKYlVlR"
@@ -280,6 +280,24 @@
       "duration_ms": 205423,
       "name": "Al3ab",
       "url": "https://open.spotify.com/track/2aLxkQKd73nJesKCeYdoXA"
+    },
+    {
+      "album": {
+        "name": "Ala Mahlak",
+        "url": "https://open.spotify.com/album/2W1eijKTTh51wSK57sPSMB"
+      },
+      "artists": [
+        {
+          "name": "Kazdoura",
+          "url": "https://open.spotify.com/artist/7zm6lF98wKwyohB2zFetum"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238235,
+      "name": "Ala Mahlak",
+      "url": "https://open.spotify.com/track/3NlAlZb79jl3zjRP4W9VsM"
     },
     {
       "album": {
@@ -880,7 +898,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 237250,
       "name": "El Ayyam",
       "url": "https://open.spotify.com/track/1CI4ip4q7xg6jdfkFZN1eZ"
@@ -1518,6 +1536,24 @@
       "duration_ms": 160500,
       "name": "Hassasa - \u062d\u0633\u0627\u0633\u0629",
       "url": "https://open.spotify.com/track/3FzjUNvNyjhKBQh0iNPZBW"
+    },
+    {
+      "album": {
+        "name": "HAWAJEES",
+        "url": "https://open.spotify.com/album/3RA250kyDYtXQMuEPN8LYh"
+      },
+      "artists": [
+        {
+          "name": "AL7AMDAN",
+          "url": "https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169207,
+      "name": "HAWAJEES",
+      "url": "https://open.spotify.com/track/1fNZP4KHcumdoR9HMXzFOm"
     },
     {
       "album": {
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 188686,
       "name": "Manhoos - \u0645\u0646\u062d\u0648\u0633",
       "url": "https://open.spotify.com/track/5lYSkHKGVBzPNRyVtLpORG"
@@ -4674,6 +4710,28 @@
       "duration_ms": 216000,
       "name": "\u0644\u0648",
       "url": "https://open.spotify.com/track/3zmnkk8mrFEr7gUcPDd5t7"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0633\u0627\u062d\u0629",
+        "url": "https://open.spotify.com/album/79LPgTbWWCYoQmNbftwFuR"
+      },
+      "artists": [
+        {
+          "name": "Faraj Suleiman",
+          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
+        },
+        {
+          "name": "Stephanie Atala",
+          "url": "https://open.spotify.com/artist/3JdUFXhNjJufnoXDwK3rjs"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229873,
+      "name": "\u0645\u0633\u0627\u062d\u0629 \u0627\u0648\u0644\u0649",
+      "url": "https://open.spotify.com/track/0EaKBXMBGzvm5xADM9hAIr"
     },
     {
       "album": {

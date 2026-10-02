@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 991305,
+  "num_followers": 991437,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABqYt7HWrpxv8qYSepDt24r",
+  "snapshot_id": "arxRAAAAAAA6RvX/7B5ZWkFFZIcjDA0o",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
+      "duration_ms": 204966,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 204966,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
+      "duration_ms": 192440,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
     },
     {
       "added_at": null,

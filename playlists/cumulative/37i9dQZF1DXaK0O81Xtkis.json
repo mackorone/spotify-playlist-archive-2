@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Henry Morris",
+  "description": "a little indie, a little pop, soda featuring Knox",
   "name": "soda",
   "tracks": [
     {
@@ -786,7 +786,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 172135,
       "name": "After The After Party",
       "url": "https://open.spotify.com/track/0dYCy1JawuXIRXUuAkeFQj"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 175037,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
@@ -8744,6 +8744,24 @@
       "duration_ms": 238146,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/10hFskWYgBsQzouIOpkfdk"
+    },
+    {
+      "album": {
+        "name": "Fake ID",
+        "url": "https://open.spotify.com/album/1XVbSyxsxSAieByFoNXQ4z"
+      },
+      "artists": [
+        {
+          "name": "VERNIER",
+          "url": "https://open.spotify.com/artist/0y80wjp0iuR020GTfOlbo4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "Fake ID",
+      "url": "https://open.spotify.com/track/611GnFHMSAt1EGujPOy6Kf"
     },
     {
       "album": {
@@ -22204,6 +22222,24 @@
       "duration_ms": 149253,
       "name": "S.A.D.",
       "url": "https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S"
+    },
+    {
+      "album": {
+        "name": "My Midwest Best",
+        "url": "https://open.spotify.com/album/7dk59UXUbGolU6WYsNz1N9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/5MrsWtJVzVfMQ5hWCt4BzZ"
     },
     {
       "album": {

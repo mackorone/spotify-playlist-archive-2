@@ -5920,7 +5920,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -6358,7 +6358,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Bezdarbnieks",
       "url": "https://open.spotify.com/track/3LpgRnosHNXRpLRrUn0ua2"
@@ -26418,7 +26418,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 181894,
       "name": "Koks no Peru",
       "url": "https://open.spotify.com/track/4mwZbBm18xZFnFZZ6FLrhQ"
@@ -29708,7 +29708,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -32464,7 +32464,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 171351,
       "name": "Message In A Bottle",
       "url": "https://open.spotify.com/track/3N9VkIAUJRm1nUSBiSAhkd"
@@ -34682,7 +34682,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 271067,
       "name": "M\u016bsu m\u012blest\u012bba",
       "url": "https://open.spotify.com/track/0OkU8xnHpHmbfrgdJa0NFs"
@@ -40542,7 +40542,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 153028,
       "name": "Pl\u0101ksteris",
       "url": "https://open.spotify.com/track/1oGmFrMqitiA38yJZnvWin"
@@ -45182,6 +45182,24 @@
       "duration_ms": 192750,
       "name": "Sav\u0101 Josl\u0101",
       "url": "https://open.spotify.com/track/4mrSiHGCw7Dwt0gV8q6Zfm"
+    },
+    {
+      "album": {
+        "name": "Sav\u0101 va\u013c\u0101",
+        "url": "https://open.spotify.com/album/3MoamKFzdXzsw6nT6XDoeg"
+      },
+      "artists": [
+        {
+          "name": "Kautkaili",
+          "url": "https://open.spotify.com/artist/6TEN0WFRF6LcgKwcw0nAyX"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Sav\u0101 va\u013c\u0101",
+      "url": "https://open.spotify.com/track/30zElv9YGM8m0xpbFsdB7h"
     },
     {
       "album": {
@@ -51622,7 +51640,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 251042,
       "name": "Test\u0113",
       "url": "https://open.spotify.com/track/01Dm7twhtLg8INxGfhSYcz"
@@ -55222,7 +55240,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 218915,
       "name": "Tuvums",
       "url": "https://open.spotify.com/track/7oi3p8naIo7uaAjXlza0Sf"
@@ -56352,7 +56370,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 176903,
       "name": "Varb\u016bt",
       "url": "https://open.spotify.com/track/5qWqDaiBU5lFpx7CXWmMo7"
@@ -64324,6 +64342,28 @@
       "duration_ms": 175774,
       "name": "\u0422\u0440\u0438 \u0431\u0443\u043a\u0432\u044b",
       "url": "https://open.spotify.com/track/1kkcd0I9xMcGiu9nT2dGZA"
+    },
+    {
+      "album": {
+        "name": "\u0442\u044b \u0432 \u043c\u043e\u0438\u0445 \u043c\u044b\u0441\u043b\u044f\u0445 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430",
+        "url": "https://open.spotify.com/album/2SoeUHKa7AJYohBOyjkDha"
+      },
+      "artists": [
+        {
+          "name": "\u0443\u0440\u0430\u043b \u0433\u0430\u0439\u0441\u0438\u043d",
+          "url": "https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm"
+        },
+        {
+          "name": "\u0441\u043d\u044f\u043b\u0446\u0435\u043f\u0438",
+          "url": "https://open.spotify.com/artist/2U8WjSfWrXusGaZXinLUtl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117708,
+      "name": "\u0442\u044b \u0432 \u043c\u043e\u0438\u0445 \u043c\u044b\u0441\u043b\u044f\u0445 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430",
+      "url": "https://open.spotify.com/track/3wOM6MY3KmA5470mfYbH6K"
     },
     {
       "album": {

@@ -3005,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/2YXfiy1aLXEorGVokUw5hi"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150410,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/6ldE1maDt5nGQ41Sh7BviE"
+    },
+    {
+      "album": {
         "name": "booboo",
         "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
       },
@@ -8144,10 +8162,6 @@
         {
           "name": "Joshua Robbie",
           "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
-        },
-        {
-          "name": "Dolore",
-          "url": "https://open.spotify.com/artist/6SvOamW1u9CE5YicXDZrrg"
         }
       ],
       "date_added": "2026-04-16",
@@ -12795,6 +12809,24 @@
     },
     {
       "album": {
+        "name": "Club Phi",
+        "url": "https://open.spotify.com/album/5tGj2FJFQ26KHjiIcROWgH"
+      },
+      "artists": [
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195230,
+      "name": "Keep It Movin\u2019",
+      "url": "https://open.spotify.com/track/0JOfGKa9pJE031SlQwLZx8"
+    },
+    {
+      "album": {
         "name": "Keep It Up",
         "url": "https://open.spotify.com/album/3Aba6SRKmfxh4jB260TmI3"
       },
@@ -15196,6 +15228,28 @@
       "duration_ms": 173260,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/1qlYxTujEOmfutweVURtNZ"
+    },
+    {
+      "album": {
+        "name": "Mari\u00f4",
+        "url": "https://open.spotify.com/album/1l3aOvhCVXwiZ6hORsLh2c"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Jast",
+          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120238,
+      "name": "Mari\u00f4",
+      "url": "https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M"
     },
     {
       "album": {
@@ -20472,6 +20526,28 @@
       "duration_ms": 209280,
       "name": "See You Sweat",
       "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
+    },
+    {
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/5XsL9OkrlwSFgGT9626tCF"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/0I90jklTm1yNB0FUak33Va"
     },
     {
       "album": {

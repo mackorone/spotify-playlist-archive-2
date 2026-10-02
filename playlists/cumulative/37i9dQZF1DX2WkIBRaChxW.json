@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Jhen\u00e9 Aiko.",
+  "description": "What's happening in r&b, right now \u2013 featuring Victoria Mon\u00e9t.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -2028,6 +2028,24 @@
       "duration_ms": 180563,
       "name": "Attention",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/734jfnKMwg4HBiVhv28cDE"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149793,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/1roqyVogiw4VZOcAqlTNlO"
     },
     {
       "album": {
@@ -5092,7 +5110,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179074,
       "name": "Classic",
       "url": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
@@ -6028,7 +6046,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 167226,
       "name": "Cry When I'm Alone",
       "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
@@ -9116,7 +9134,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194526,
       "name": "Fly U Out",
       "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
@@ -14920,7 +14938,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199859,
       "name": "Lie With Me",
       "url": "https://open.spotify.com/track/5DKau2qqKNHSipkNO57wYK"
@@ -19002,7 +19020,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 192306,
       "name": "OH MAN",
       "url": "https://open.spotify.com/track/6PlDfaiu0l777DqPolHkDQ"
@@ -19676,6 +19694,24 @@
       "duration_ms": 170943,
       "name": "Opposite",
       "url": "https://open.spotify.com/track/1hjQHLXevphvGIZUfRC239"
+    },
+    {
+      "album": {
+        "name": "options",
+        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212131,
+      "name": "options",
+      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
     },
     {
       "album": {
@@ -20764,6 +20800,24 @@
       "duration_ms": 177562,
       "name": "Please Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
+    },
+    {
+      "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/5BCRJIvyrmmEkaEaSe9edd"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136148,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/6HQhguObjnchjOPxKSeR7A"
     },
     {
       "album": {
@@ -23213,6 +23267,28 @@
     },
     {
       "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158026,
+      "name": "See You In My Dreams (feat. SZA)",
+      "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -24366,6 +24442,28 @@
       "duration_ms": 262147,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/31dK8fLdLeNQVyrwZ1unsy"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {
@@ -26307,6 +26405,24 @@
     },
     {
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/6MApwcu8R5B6q0nRsPmraC"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213562,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/2BCoCVN64DUwGlz9qnAaVM"
+    },
+    {
+      "album": {
         "name": "Long Time Running EP",
         "url": "https://open.spotify.com/album/1jhv9k3iorVzdZ5I6ahTlm"
       },
@@ -28220,7 +28336,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179815,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/3rFcgqq2tPwNT5G5TzISDA"

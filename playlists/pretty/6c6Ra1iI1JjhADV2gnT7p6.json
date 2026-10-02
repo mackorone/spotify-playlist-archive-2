@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60616,
+  "num_followers": 60622,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABdhfpk+V1gV1dKzOoMsWaavcjTiNx/",
+  "snapshot_id": "AABdiE0s4+Gx+5B+dANnxSPmGNqBbq7h",
   "tracks": [
     {
       "added_at": "2026-09-25 12:11:20",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-09-25 12:11:20",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/0AQYj0Oo5qFdSAWyiRA30D"
-      },
-      "artists": [
-        {
-          "name": "Moon Panda",
-          "url": "https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm"
-        }
-      ],
-      "duration_ms": 155835,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/2zdRzCTb6gWrz6q143e1H8"
-    },
-    {
-      "added_at": "2026-09-25 12:11:20",
-      "album": {
         "name": "Lights On",
         "url": "https://open.spotify.com/album/2fyy1n1jqzaYwa7qZ11MWB"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2026-09-25 12:11:20",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1IOR4Zxe0gN9PBvcoHbLQB"
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/0AQYj0Oo5qFdSAWyiRA30D"
       },
       "artists": [
         {
-          "name": "Richard",
-          "url": "https://open.spotify.com/artist/3HS6px0MI4gaSa72SCAZFf"
+          "name": "Moon Panda",
+          "url": "https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm"
         }
       ],
-      "duration_ms": 210461,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/7A0QXcUjIL4boq9gyNMGtO"
+      "duration_ms": 155835,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/2zdRzCTb6gWrz6q143e1H8"
     },
     {
       "added_at": "2026-09-25 12:11:20",
@@ -263,6 +247,22 @@
       "duration_ms": 201284,
       "name": "Benefit",
       "url": "https://open.spotify.com/track/3mGHXcMY8iOBJja0C52Cax"
+    },
+    {
+      "added_at": "2026-09-25 12:11:20",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1IOR4Zxe0gN9PBvcoHbLQB"
+      },
+      "artists": [
+        {
+          "name": "Richard",
+          "url": "https://open.spotify.com/artist/3HS6px0MI4gaSa72SCAZFf"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/7A0QXcUjIL4boq9gyNMGtO"
     },
     {
       "added_at": "2026-09-25 12:11:20",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-25 12:11:20",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 208331,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
-    },
-    {
-      "added_at": "2026-09-25 12:11:20",
-      "album": {
         "name": "Inventio",
         "url": "https://open.spotify.com/album/0ZicqrgX0XyaFYe9xJbO4Z"
       },
@@ -1324,7 +1308,7 @@
       },
       "artists": [
         {
-          "name": "sofii",
+          "name": "Sofii",
           "url": "https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS"
         }
       ],
@@ -1483,6 +1467,22 @@
       "duration_ms": 240500,
       "name": "Drogas",
       "url": "https://open.spotify.com/track/5OVtgoBTDdO718Nk5nglSC"
+    },
+    {
+      "added_at": "2026-09-25 12:11:20",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 208331,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
     },
     {
       "added_at": "2026-09-25 12:11:20",
@@ -4476,7 +4476,7 @@
           "url": "https://open.spotify.com/artist/7kLgX4yCdK8YP9LkNc2bXD"
         }
       ],
-      "duration_ms": 204114,
+      "duration_ms": 195614,
       "name": "DVD",
       "url": "https://open.spotify.com/track/7u6n15swtCmOCtKxzBRwQU"
     },
@@ -13656,7 +13656,7 @@
       },
       "artists": [
         {
-          "name": "sofii",
+          "name": "Sofii",
           "url": "https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS"
         }
       ],
@@ -14416,7 +14416,7 @@
       },
       "artists": [
         {
-          "name": "sofii",
+          "name": "Sofii",
           "url": "https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS"
         }
       ],

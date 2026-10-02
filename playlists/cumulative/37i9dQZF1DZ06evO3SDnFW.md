@@ -4,7 +4,7 @@
 
 > This is Sam Fender\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 54 min
+47 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Back To Black \- BBC Radio 1 Live Session](https://open.spotify.com/track/3KtKOYmUpcmAU1SzArnFrp) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Back To Black \(BBC Radio 1 Live Session\)](https://open.spotify.com/album/3WuNB1VMKoPtUhm09D1QLt) | 5:12 | 2025-10-28 |  |
 | [Chin Up](https://open.spotify.com/track/66KZtX4hp3Y7JaqmNL5z4i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:23 | 2025-10-28 |  |
 | [Crumbling Empire](https://open.spotify.com/track/5M4BVWXiOUabQUqdY8eqJt) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 5:07 | 2025-10-28 |  |
-| [Dead Boys](https://open.spotify.com/track/7g93COdRFvOxwpxPlvrqLM) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:23 | 2025-10-28 |  |
+| [Dead Boys](https://open.spotify.com/track/7g93COdRFvOxwpxPlvrqLM) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:23 | 2025-10-28 | 2026-10-02 |
 | [Empty Spaces](https://open.spotify.com/track/1uBUgPtcd2EWKZ78FRijVb) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 4:54 | 2025-12-07 |  |
 | [Fortuna's Wheel](https://open.spotify.com/track/4przkHpP9uPwmNNcYW7ZnY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 1:42 | 2025-12-07 |  |
 | [Friday Fighting](https://open.spotify.com/track/7MRJJbjlgJF6n9QHbp6IA9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Friday Fighting](https://open.spotify.com/album/4fjvLL6wVDF81R0mY53TTH) | 3:10 | 2025-10-28 |  |
@@ -54,5 +54,6 @@
 | [Wild Grey Ocean](https://open.spotify.com/track/4unenxuWoIq4RYG5hyHZpK) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 3:54 | 2025-10-28 |  |
 | [Wild Long Lie](https://open.spotify.com/track/5lQS3Q71OZWEA2tt7TcWai) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 6:04 | 2025-10-28 | 2026-01-31 |
 | [Will We Talk?](https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 2:42 | 2025-10-28 |  |
+| [You're Not The Only One](https://open.spotify.com/track/50PsIMoFsYh2clFHipEi8c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 4:35 | 2026-10-02 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

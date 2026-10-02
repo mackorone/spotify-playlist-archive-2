@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5  featuring LEVEL UP + Kompany",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5  featuring GHENGAR",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 184758,
       "name": "Arise",
       "url": "https://open.spotify.com/track/2vGo0fh24LZBqEYj9nFsRp"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 134400,
       "name": "AUTOPSY BUFFET",
       "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 155200,
       "name": "Bad Boy Sound",
       "url": "https://open.spotify.com/track/7eH8AYqGetO6He1hlu4qfm"
@@ -3584,7 +3584,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 187000,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/2xQ8gBWuFuZXyhXdkcOLHA"
@@ -6396,7 +6396,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 182535,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY"
@@ -6665,6 +6665,24 @@
     },
     {
       "album": {
+        "name": "Cracked",
+        "url": "https://open.spotify.com/album/4HyIeP7eDzOfdq5OH0eZty"
+      },
+      "artists": [
+        {
+          "name": "Perry Wayne",
+          "url": "https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Cracked",
+      "url": "https://open.spotify.com/track/2yjA718kTk9MwjQP3ohJxk"
+    },
+    {
+      "album": {
         "name": "Feel The Panic EP",
         "url": "https://open.spotify.com/album/0cqklN2AwGsjJpKwBAvfmZ"
       },
@@ -6702,7 +6720,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 226758,
       "name": "Crash Out",
       "url": "https://open.spotify.com/track/5uWbuRqGSBmFtzC7hIyfVr"
@@ -8303,6 +8321,28 @@
     },
     {
       "album": {
+        "name": "DIS FUNCTION",
+        "url": "https://open.spotify.com/album/4KujRdPCF2QmhQjCq9vAJH"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "DIS FUNCTION",
+      "url": "https://open.spotify.com/track/6tGqADF1MUkCEwHbY6EKCr"
+    },
+    {
+      "album": {
         "name": "DISAPPEAR",
         "url": "https://open.spotify.com/album/3oZrHDM89u8jZrYX5l53M2"
       },
@@ -8662,6 +8702,32 @@
       "duration_ms": 195692,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/23zzImIajKFyKPlg6vKsbY"
+    },
+    {
+      "album": {
+        "name": "DON'T BELIEVE IT [GRiZ Remix]",
+        "url": "https://open.spotify.com/album/3gpoyq7EIerZnz33dfnv8b"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "DON'T BELIEVE IT - GRiZ Remix",
+      "url": "https://open.spotify.com/track/4Xw0xSHDXAkilxAt2X9hIZ"
     },
     {
       "album": {
@@ -11262,7 +11328,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 129442,
       "name": "Five Hours - CELO & MACHAKI Remix",
       "url": "https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS"
@@ -12018,7 +12084,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 211862,
       "name": "FULL SEND",
       "url": "https://open.spotify.com/track/7uSupgnScNSahebyEiRitY"
@@ -16839,6 +16905,28 @@
     },
     {
       "album": {
+        "name": "Krave It",
+        "url": "https://open.spotify.com/album/6kONWDZ5NQFNERDb7C6og1"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "Xenotype",
+          "url": "https://open.spotify.com/artist/4wumsgTEUs52AhapT4S6gp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Krave It",
+      "url": "https://open.spotify.com/track/1FP7hxrUNuIGMxRnDItEjB"
+    },
+    {
+      "album": {
         "name": "KREAM TEAM / HAPPY ACCIDENTS",
         "url": "https://open.spotify.com/album/5TKCKaU9ydW6VA1ezddm3h"
       },
@@ -21180,7 +21268,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 181718,
       "name": "Onslaught",
       "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
@@ -21560,6 +21648,28 @@
       "duration_ms": 195310,
       "name": "Output",
       "url": "https://open.spotify.com/track/0Me5z9026UhGDlOoSQ6EzR"
+    },
+    {
+      "album": {
+        "name": "Outta My Head",
+        "url": "https://open.spotify.com/album/4PAVJfKpT2A8NPU0IKgvFP"
+      },
+      "artists": [
+        {
+          "name": "Edison Cole",
+          "url": "https://open.spotify.com/artist/2OJbBoEtM6pqm96ke1vNiY"
+        },
+        {
+          "name": "Madyx",
+          "url": "https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Outta My Head",
+      "url": "https://open.spotify.com/track/5ye9oQXCUuzhKDtJABl3Yg"
     },
     {
       "album": {
@@ -23422,7 +23532,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 150000,
       "name": "Raise the Dead",
       "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
@@ -23614,7 +23724,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 158082,
       "name": "Real Shit",
       "url": "https://open.spotify.com/track/6mdTEdRhJAvzBcGPsVdLfe"
@@ -23662,6 +23772,24 @@
       "duration_ms": 195428,
       "name": "Reality",
       "url": "https://open.spotify.com/track/1hOsnz6BVFpqmUF0WA9NYW"
+    },
+    {
+      "album": {
+        "name": "REBIRTH",
+        "url": "https://open.spotify.com/album/1kqzTGOwsEtj8pBT2oI5Yc"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193653,
+      "name": "REBIRTH",
+      "url": "https://open.spotify.com/track/0N7nNAqLXDvPmOlS8Thwpr"
     },
     {
       "album": {
@@ -25055,6 +25183,28 @@
     },
     {
       "album": {
+        "name": "RUNNING",
+        "url": "https://open.spotify.com/album/6i0UBDZMBkaJZw0K0Qn3t9"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "GMON",
+          "url": "https://open.spotify.com/artist/6KvE1gvzqEqea8ZODp8Qar"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "RUNNING",
+      "url": "https://open.spotify.com/track/5V7AkTzQur2Oom0R2Q83sM"
+    },
+    {
+      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/1mDAIaOkXn6c05dfk4zZUh"
       },
@@ -26304,6 +26454,24 @@
       "duration_ms": 228000,
       "name": "Silver",
       "url": "https://open.spotify.com/track/0qNl3TYeofPSRrTwPeHUpd"
+    },
+    {
+      "album": {
+        "name": "SIMON SAYS VIP",
+        "url": "https://open.spotify.com/album/4B9VFF6xU1ifx2koGNQb1R"
+      },
+      "artists": [
+        {
+          "name": "MYTHM",
+          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "SIMON SAYS VIP",
+      "url": "https://open.spotify.com/track/0UtfB8xYYi5vq2G3mp9vhP"
     },
     {
       "album": {
@@ -27776,6 +27944,28 @@
     {
       "album": {
         "name": "Step Up",
+        "url": "https://open.spotify.com/album/1Ys96E5xqKHMS6v03nBg7H"
+      },
+      "artists": [
+        {
+          "name": "Dr Donk",
+          "url": "https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu"
+        },
+        {
+          "name": "TMPR",
+          "url": "https://open.spotify.com/artist/4ahAixh0WebZ9oZtK4anNG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152068,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/44ecABHsCmyrwGAlYGtT04"
+    },
+    {
+      "album": {
+        "name": "Step Up",
         "url": "https://open.spotify.com/album/5m9cJE9aJBxj4vb9z3w6qT"
       },
       "artists": [
@@ -28280,6 +28470,28 @@
       "duration_ms": 154094,
       "name": "SUPERCAR",
       "url": "https://open.spotify.com/track/6pJIgc6lMzltj2f4CZZxkq"
+    },
+    {
+      "album": {
+        "name": "Supercharge",
+        "url": "https://open.spotify.com/album/6SaMjRWYgRW9JJ3OyPahUe"
+      },
+      "artists": [
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        },
+        {
+          "name": "SLICK",
+          "url": "https://open.spotify.com/artist/0AwoMepzmoVrEsWXft8Pe2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Supercharge",
+      "url": "https://open.spotify.com/track/4oQJgzG5JvOiLAn6CTrNfL"
     },
     {
       "album": {
@@ -29202,7 +29414,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 193600,
       "name": "THE AGITATOR",
       "url": "https://open.spotify.com/track/4jA4C5rdRwYYsZbfqsiswk"
@@ -30939,6 +31151,28 @@
     },
     {
       "album": {
+        "name": "True Killers",
+        "url": "https://open.spotify.com/album/3zxiqAY7Q2xxxbCK03mYIo"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "True Killers",
+      "url": "https://open.spotify.com/track/1AWhg4oDF4SIERk3KKoZCq"
+    },
+    {
+      "album": {
         "name": "True Trench Times",
         "url": "https://open.spotify.com/album/2LEjhTw6ma4KTnMSPyNR5o"
       },
@@ -30980,6 +31214,28 @@
       "duration_ms": 192000,
       "name": "Trust No One",
       "url": "https://open.spotify.com/track/3Y9DYNp4ysUdcbpQHaA4Tt"
+    },
+    {
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/0t6yukqugOkGCP7rTx9SSL"
+      },
+      "artists": [
+        {
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        {
+          "name": "Chozen",
+          "url": "https://open.spotify.com/artist/0T8PFaa4SnSE2VyKYN5E4N"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141517,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/370kpDKxzvGBdwZWplqc47"
     },
     {
       "album": {

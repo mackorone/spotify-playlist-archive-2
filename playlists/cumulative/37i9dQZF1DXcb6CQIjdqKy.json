@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Matthew West",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Tauren Wells",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -2867,6 +2867,28 @@
     },
     {
       "album": {
+        "name": "Here Comes The Church - Second Service",
+        "url": "https://open.spotify.com/album/2Jm86EHV5qpI88soXUABuZ"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315565,
+      "name": "Bless Your Name (with Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/5pCMG86XKpAoriBRyV8ulc"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/4soB0HMQHthndnV6tHdhhi"
       },
@@ -5088,6 +5110,28 @@
       "duration_ms": 210785,
       "name": "Desperate (with Lauren Daigle)",
       "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
+    },
+    {
+      "album": {
+        "name": "Desperate for Jesus",
+        "url": "https://open.spotify.com/album/0QcmTFn9Ps3ZYkGWZZUQz8"
+      },
+      "artists": [
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596845,
+      "name": "Desperate for Jesus",
+      "url": "https://open.spotify.com/track/67XISn3LHSTEyKd87Q0gWR"
     },
     {
       "album": {
@@ -9778,7 +9822,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 195413,
       "name": "He Will",
       "url": "https://open.spotify.com/track/45pN6CMSl2gbb2dstsIJNR"
@@ -11380,7 +11424,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 206691,
       "name": "How Great",
       "url": "https://open.spotify.com/track/6ynVRbeD7wTttPB4SddawG"
@@ -14589,6 +14633,24 @@
     },
     {
       "album": {
+        "name": "Known and Loved (Oliver's Song)",
+        "url": "https://open.spotify.com/album/4mqoOg50bFEASN19qpXyU2"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229835,
+      "name": "Known and Loved (Oliver's Song)",
+      "url": "https://open.spotify.com/track/2a4CBfsjgda40IcEJ4yCQG"
+    },
+    {
+      "album": {
         "name": "Koolaid",
         "url": "https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr"
       },
@@ -16960,6 +17022,24 @@
       "duration_ms": 149515,
       "name": "MORE!",
       "url": "https://open.spotify.com/track/66wPG22qStRk2Hl5h0905j"
+    },
+    {
+      "album": {
+        "name": "Moving Target",
+        "url": "https://open.spotify.com/album/4C3KANVpErZn25vEVc7SdU"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Moving Target",
+      "url": "https://open.spotify.com/track/64SUQzv420o9B2HGsPdL3e"
     },
     {
       "album": {
@@ -20272,7 +20352,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199160,
       "name": "Reaching For The Light",
       "url": "https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h"
@@ -26590,7 +26670,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 235000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/0q73rWQ84M1CszFeWxCGIv"
@@ -28988,6 +29068,24 @@
       "duration_ms": 160922,
       "name": "WON'T LET TOMORROW",
       "url": "https://open.spotify.com/track/0PFlqBbPx0Yszs1deYB5uH"
+    },
+    {
+      "album": {
+        "name": "Won't Miss A Moment",
+        "url": "https://open.spotify.com/album/6kfa2x0oYe2tWEEiGW97c1"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191503,
+      "name": "Won't Miss A Moment",
+      "url": "https://open.spotify.com/track/0EIDUbt5A03HtbRDpUBMgP"
     },
     {
       "album": {

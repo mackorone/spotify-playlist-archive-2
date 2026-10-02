@@ -1,13 +1,49 @@
 {
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. PeeWee y Karol Sevilla en portada \ud83c\udf39",
-  "num_followers": 177417,
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Pipe Bueno en portada \ud83c\udf39",
+  "num_followers": 177429,
   "original_name": "La Miscel\u00e1nea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALK8sw4V/RknsdfXgz6kIAcG83/c",
+  "snapshot_id": "AAAAAItyT1J8/2FYyu7jjfD1miT/mR/o",
   "tracks": [
+    {
+      "added_at": "2026-10-02 03:28:24",
+      "album": {
+        "name": "Aqu\u00ed Estoy Yo",
+        "url": "https://open.spotify.com/album/3S1shMfIc0bd3UZhMg3BsT"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 118877,
+      "name": "Que Mas",
+      "url": "https://open.spotify.com/track/1BhypqZDFxUFn0pTbAvF1T"
+    },
+    {
+      "added_at": "2026-10-02 03:28:24",
+      "album": {
+        "name": "Amor Factura",
+        "url": "https://open.spotify.com/album/3tyAXoOG4Q2nAs705ujxsy"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 237098,
+      "name": "Amor Factura",
+      "url": "https://open.spotify.com/track/3cZgBPSMbcbpfLfpmv54Nq"
+    },
     {
       "added_at": "2026-09-25 16:28:11",
       "album": {
@@ -27,6 +63,54 @@
       "duration_ms": 168750,
       "name": "EL JUEGO",
       "url": "https://open.spotify.com/track/4d7QRDUfZJvZXOxiNanAEX"
+    },
+    {
+      "added_at": "2026-10-02 03:28:24",
+      "album": {
+        "name": "Cuesti\u00f3n Que Quieras",
+        "url": "https://open.spotify.com/album/5ufEErsLzCtHoSxFzyINTm"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "duration_ms": 117214,
+      "name": "Cuesti\u00f3n Que Quieras",
+      "url": "https://open.spotify.com/track/1uuwJy5EJ0U9a4KF8o6TPT"
+    },
+    {
+      "added_at": "2026-10-02 03:28:24",
+      "album": {
+        "name": "Hay M\u00e1s Tiempo Que Vida",
+        "url": "https://open.spotify.com/album/5HZsqFKoOTqJtFW3soum4d"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Hay M\u00e1s Tiempo Que Vida",
+      "url": "https://open.spotify.com/track/5kOIX171TvyPDGsjLjNfBW"
+    },
+    {
+      "added_at": "2026-10-02 03:28:24",
+      "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/7639dfG9UL1ABs8ABtClM1"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "duration_ms": 123998,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/77ILmTvNY5SO4XKZLu2bFt"
     },
     {
       "added_at": "2026-09-25 16:28:11",

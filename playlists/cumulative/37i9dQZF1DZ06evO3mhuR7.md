@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-195 songs - 22 hr 17 min
+196 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Switch on Leon](https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Electronica 2: The Heart of Noise](https://open.spotify.com/album/2Q5Mrul369ojL9N8DWkWQZ) | 4:43 | 2022-05-29 |  |
 | [The 10 Sultans Of Rudyard \(Moo Moo Mix\)](https://open.spotify.com/track/1LAQpdO8e6MvPpN6lCK0zK) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 3:58 | 2022-05-29 |  |
 | [The Barn](https://open.spotify.com/track/3szxu9hMNEzcEgfZBk7jal) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 7:04 | 2023-06-17 | 2024-01-29 |
+| [The Barn](https://open.spotify.com/track/7HF58GR7Yg4VJgAQHzFfSl) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/64MYpg76vvfx5UmcJWFend) | 7:04 | 2026-10-02 |  |
 | [the beginning of the end](https://open.spotify.com/track/3MJQCAtKIVI6SQ9noiK0jE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 8:29 | 2023-12-13 | 2023-12-19 |
 | [the beginning of the end](https://open.spotify.com/track/5zxpmhQaKiTgL1Ym5QhpFG) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 8:29 | 2023-04-30 | 2023-11-11 |
 | [The Cult Of Youth Ambient Mix Parts 1 & 2 \- Edit](https://open.spotify.com/track/4iPCa0uM1gkpDkkdP8VCdi) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres](https://open.spotify.com/album/7Kj5DZcW4jlqGjYnu0UTT7) | 5:35 | 2022-06-01 | 2024-11-13 |
@@ -201,7 +202,7 @@
 | [why can you be in two places at once, when you can’t be anywhere at all \- where’s gary mix](https://open.spotify.com/track/7MFKi0xmbDLArsmWCgLFlz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 7:40 | 2023-04-29 | 2023-11-11 |
 | [why can you be in two places at once, when you can’t be anywhere at all \- where’s gary mix](https://open.spotify.com/track/7qYJvPxO7N9W88KAeIZExC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 7:40 | 2023-11-10 | 2025-02-17 |
 | [Wireless \- Leandro Fresco Mix](https://open.spotify.com/track/17osjMLZqm0CtnVKZ31il3) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [John Digweed \- Live At Twilo](https://open.spotify.com/album/4v4ZxQkfXCyPZHdjTGJsHc) | 13:14 | 2026-07-28 |  |
-| [Wireless MK2](https://open.spotify.com/track/7xF48L0fjSDWAlZxsY5Et6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 5:41 | 2022-05-29 |  |
+| [Wireless MK2](https://open.spotify.com/track/7xF48L0fjSDWAlZxsY5Et6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 5:41 | 2022-05-29 | 2026-10-02 |
 | [Wish I Had a Pretty Dog](https://open.spotify.com/track/6Uum9KIYa73OLiFZDRUWPZ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 5:04 | 2022-05-29 | 2022-10-30 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

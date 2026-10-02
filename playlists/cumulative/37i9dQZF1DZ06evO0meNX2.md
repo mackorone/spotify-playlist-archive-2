@@ -4,7 +4,7 @@
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 57 min
+93 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cabrón Yo Puedo](https://open.spotify.com/track/3niy6Vo9NRtb1WKsSf3hy1) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:14 | 2026-05-13 | 2026-07-05 |
 | [Cada Día Que Pasa](https://open.spotify.com/track/0IDnj6BWFr9QYNUwGvWL9T) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:51 | 2026-05-12 |  |
 | [Chavo Félix](https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 2:46 | 2024-01-29 | 2025-03-14 |
+| [Cheers](https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [La Formula](https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd) | 2:51 | 2026-10-02 |  |
 | [Cinco Celulares](https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:45 | 2026-05-11 |  |
 | [Cuando Empecé](https://open.spotify.com/track/3xsYOPxyhupVlTAjjmEkkm) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:17 | 2026-07-05 | 2026-07-20 |
 | [Cuando Empecé](https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Cuando Empecé](https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp) | 3:17 | 2026-03-29 | 2026-07-05 |
@@ -65,7 +66,7 @@
 | [NO VOLVERE \- En Vivo desde Los Ángeles](https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:33 | 2025-07-06 |  |
 | [No Voy A Cambiar](https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [No Voy A Cambiar](https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf) | 2:45 | 2025-11-02 |  |
 | [Nos Gusta La Fiesta](https://open.spotify.com/track/7aGZvbB9GoChhZ02CdfLA3) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Nos Gusta La Fiesta](https://open.spotify.com/album/0tLaUDX5gWY1sj3vZ2QTTK) | 3:58 | 2024-01-29 | 2026-05-11 |
-| [Notas Musicales](https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Notas Musicales](https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0) | 4:10 | 2024-01-29 |  |
+| [Notas Musicales](https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Notas Musicales](https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0) | 4:10 | 2024-01-29 | 2026-10-02 |
 | [Olvídame Tú](https://open.spotify.com/track/66IMXYjOUbJcImGLpyC2Ka) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/2tSsIQp0KZgCOl99gCC5Is) | 3:40 | 2025-03-17 |  |
 | [Olvídame Tú](https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06) | 3:41 | 2024-01-29 | 2025-03-17 |
 | [Pachamama](https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:20 | 2026-05-10 |  |

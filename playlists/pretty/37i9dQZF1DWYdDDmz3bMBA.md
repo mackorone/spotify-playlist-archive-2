@@ -32,6 +32,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 | 22 | [Benny Blanco Breaks Down His Demos \- Behind the Wall \(Ep\. 16\)](https://open.spotify.com/episode/1rOFKtOQAvjL5shxzwNJPN) | [Behind The Wall](https://open.spotify.com/show/5VjSRHdISZZnT9WkZC4xBb) | [Behind The Wall](https://open.spotify.com/album/5VjSRHdISZZnT9WkZC4xBb) | 1:20:53 |
 | 23 | [Story Time with Kenny Beecham](https://open.spotify.com/episode/1sdNFFBmdkypbwhUp6GowC) | [T'd Up with Pierre Andresen](https://open.spotify.com/show/7kydwMSRbw9fEFkAgiWj1Q) | [T'd Up with Pierre Andresen](https://open.spotify.com/album/7kydwMSRbw9fEFkAgiWj1Q) | 2:04:42 |
 | 24 | [The Subtle Power Moves You Need Today to Get Ahead](https://open.spotify.com/episode/2UNWlMo8gfgyfHkeLohJzR) | [Tiger Sisters](https://open.spotify.com/show/05r0jVSXGGAs8niZ1VsdzF) | [Tiger Sisters](https://open.spotify.com/album/05r0jVSXGGAs8niZ1VsdzF) | 29:05 |
-| 25 | [Episode 235: Interstellar Object 3I/ATLAS Feat\. Dr\. Avi Loeb](https://open.spotify.com/episode/0FyWOm2G93idosRqdJlZmz) | [Let's Get Haunted](https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv) | [Let's Get Haunted](https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv) | 2:15:08 |
+| 25 | [ Episode 235: Interstellar Object 3I/ATLAS Feat\. Dr\. Avi Loeb](https://open.spotify.com/episode/0FyWOm2G93idosRqdJlZmz) | [Let's Get Haunted](https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv) | [Let's Get Haunted](https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv) | 2:15:08 |
 
 Snapshot ID: `AAAAAKdHFwetpyTphLEgKLy9cH5TJo/k`

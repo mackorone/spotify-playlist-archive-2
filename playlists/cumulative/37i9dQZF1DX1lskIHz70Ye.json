@@ -3193,6 +3193,24 @@
     },
     {
       "album": {
+        "name": "Serene Sea",
+        "url": "https://open.spotify.com/album/0eYtkKp3w0yxoInwPjPvHk"
+      },
+      "artists": [
+        {
+          "name": "6 strings Guy",
+          "url": "https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129675,
+      "name": "Serene Sea",
+      "url": "https://open.spotify.com/track/5mfYwOxLzCLO0yiUpklhxI"
+    },
+    {
+      "album": {
         "name": "Seul \u00e0 nouveau",
         "url": "https://open.spotify.com/album/18hZtTW0wKoF5FdjcpNRPh"
       },

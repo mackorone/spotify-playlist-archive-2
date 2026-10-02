@@ -3893,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Don't Let It Get to You",
+        "url": "https://open.spotify.com/album/2ll6LCwWcfJljpb9qGDslb"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203746,
+      "name": "Don't Let It Get to You",
+      "url": "https://open.spotify.com/track/4QLSVMOYIFo4618S9UkRyb"
+    },
+    {
+      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -6838,7 +6856,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 197100,
       "name": "Hiljaisuus",
       "url": "https://open.spotify.com/track/2fqyLRYWZZRcJRfWmqOoIn"
@@ -12791,6 +12809,24 @@
     },
     {
       "album": {
+        "name": "Miks menit unohtaa",
+        "url": "https://open.spotify.com/album/4cve0eOlBaBDJNAusEbjPT"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168376,
+      "name": "Miks menit unohtaa",
+      "url": "https://open.spotify.com/track/7hA3nyf76gmBJOE4x6oWMK"
+    },
+    {
+      "album": {
         "name": "miks s\u00e4 teet n\u00e4in",
         "url": "https://open.spotify.com/album/3FSegFCplttHBCWg3GrjZE"
       },
@@ -15832,6 +15868,24 @@
       "duration_ms": 174474,
       "name": "Paratiisi",
       "url": "https://open.spotify.com/track/51S0Hn25rALtlGLhylAWH7"
+    },
+    {
+      "album": {
+        "name": "Paremmin ku ikin",
+        "url": "https://open.spotify.com/album/1mLf8g07UrbwP6f1yHfXoE"
+      },
+      "artists": [
+        {
+          "name": "Roosa",
+          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Paremmin ku ikin",
+      "url": "https://open.spotify.com/track/1fwY8uM3w4yf5WefXgLFTJ"
     },
     {
       "album": {
@@ -22240,7 +22294,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 147254,
       "name": "Tyhm\u00e4",
       "url": "https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5"
@@ -23094,7 +23148,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 268541,
       "name": "Vastaa",
       "url": "https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6"

@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 608325,
+  "num_followers": 608310,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Next Thing",
-        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 112879,
-      "name": "Sappho",
-      "url": "https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 237316,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Next Thing",
+        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 112879,
+      "name": "Sappho",
+      "url": "https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Anyone But You",
-        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Anyone But You",
-      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 213000,
       "name": "33 \u201cGOD\u201d",
       "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Anyone But You",
+        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Anyone But You",
+      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 200000,
       "name": "I'm Always Here",
       "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "Not for Nothing",
-        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 189290,
-      "name": "Not for Nothing",
-      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Seventeen Going Under (Deluxe)",
@@ -1055,6 +1039,22 @@
       "duration_ms": 238333,
       "name": "The Dying Light",
       "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Not for Nothing",
+        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 189290,
+      "name": "Not for Nothing",
+      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
+      },
+      "artists": [
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        },
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "duration_ms": 214419,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Thank You (SOLOMON VERSION)",
         "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 219333,
       "name": "Loneliness on the run",
       "url": "https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Unknown",
-        "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
-      },
-      "artists": [
-        {
-          "name": "Alice Auer",
-          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
-        },
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 214419,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1577,6 +1577,22 @@
       "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
     },
     {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+      },
+      "artists": [
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+    },
+    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "The Walls Are Way Too Thin",
@@ -1607,22 +1623,6 @@
       "duration_ms": 275795,
       "name": "Life's Gonna Kill You (If You Let It)",
       "url": "https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ"
-    },
-    {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "Sure",
-        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
-      },
-      "artists": [
-        {
-          "name": "Alice Auer",
-          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
     },
     {
       "added_at": "2024-05-31 15:25:10",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACQXc9KGCyo0Atr4y/6fuvC",
+  "snapshot_id": "arxRAAAAAAAN+sjlw4MeKc6o4JfoMXbV",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 294654,
-      "name": "A Portal To Silver Linings",
-      "url": "https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ"
+      "duration_ms": 240905,
+      "name": "Play In The Void",
+      "url": "https://open.spotify.com/track/6fz51xPtM0V3Zs45xkUUHf"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 267183,
-      "name": "Still Dreaming",
-      "url": "https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU"
+      "duration_ms": 294654,
+      "name": "A Portal To Silver Linings",
+      "url": "https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 240905,
-      "name": "Play In The Void",
-      "url": "https://open.spotify.com/track/6fz51xPtM0V3Zs45xkUUHf"
+      "duration_ms": 267183,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU"
     },
     {
       "added_at": null,
@@ -255,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "connected #1",
-        "url": "https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm"
+        "name": "vari/ations - Ode to Oram",
+        "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
       },
       "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 412636,
-      "name": "Moksha",
-      "url": "https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY"
+      "duration_ms": 245106,
+      "name": "Electronic Music Is Loud",
+      "url": "https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6"
     },
     {
       "added_at": null,
@@ -316,29 +320,29 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 267665,
-      "name": "Exquisite Portraiture",
-      "url": "https://open.spotify.com/track/5NLnkoYHzOSQwvdpCAUOqN"
+      "duration_ms": 371917,
+      "name": "Infinite Delight",
+      "url": "https://open.spotify.com/track/6wdWROeCaDYr9nJTglF2P3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "vari/ations - Ode to Oram",
-        "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
+        "name": "Just a Feeling",
+        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
       },
       "artists": [
         {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        },
-        {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 245106,
-      "name": "Electronic Music Is Loud",
-      "url": "https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6"
+      "duration_ms": 329363,
+      "name": "Shanti",
+      "url": "https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu"
     },
     {
       "added_at": null,
@@ -388,29 +392,25 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 371917,
-      "name": "Infinite Delight",
-      "url": "https://open.spotify.com/track/6wdWROeCaDYr9nJTglF2P3"
+      "duration_ms": 267665,
+      "name": "Exquisite Portraiture",
+      "url": "https://open.spotify.com/track/5NLnkoYHzOSQwvdpCAUOqN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Just a Feeling",
-        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
+        "name": "connected #1",
+        "url": "https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm"
       },
       "artists": [
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 329363,
-      "name": "Shanti",
-      "url": "https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu"
+      "duration_ms": 412636,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY"
     },
     {
       "added_at": null,
@@ -463,6 +463,26 @@
       "duration_ms": 359493,
       "name": "Farida",
       "url": "https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sense of Self (Spontaneous Affinity Compilation) [When the Rave Is Not Enough]",
+        "url": "https://open.spotify.com/album/4BOKWN099uCyyWwEVt71qN"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
+        }
+      ],
+      "duration_ms": 456409,
+      "name": "Sense of Self (Spontaneous Affinity Compilation) [When the Rave Is Not Enough]",
+      "url": "https://open.spotify.com/track/2ftmqwDWQff7j0vSba3B0a"
     }
   ],
   "unique_name": "This Is Arushi Jain",

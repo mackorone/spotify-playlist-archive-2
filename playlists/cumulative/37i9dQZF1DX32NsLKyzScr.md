@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,488 songs - 3 day 9 hr 0 min
+1,490 songs - 3 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Hands Down](https://open.spotify.com/track/480buFxs3pMRRIF8JWGuzc) | [Qulinez](https://open.spotify.com/artist/6d7AYr4nvqHPhfPaDLLeRU), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Hands Down](https://open.spotify.com/album/4g8eVFH3e6XEKUi0Z2AYqF) | 3:11 | 2021-11-13 | 2022-01-05 |
 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 | 2026-07-31 |  |
 | [Happy Revolution](https://open.spotify.com/track/6K22fmkCwrLdzqLUixb6Q1) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Happy Revolution](https://open.spotify.com/album/6qSGivtT6c6VqXtXNjoeuL) | 2:52 | 2022-02-04 | 2022-05-12 |
+| [Hard To be Around](https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU), [Cleopard2000](https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl) | [Hard To be Around](https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H) | 2:56 | 2026-10-02 |  |
 | [Harpoon](https://open.spotify.com/track/7Mcbk8CghT5wE6j4WfG2uQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Harpoon](https://open.spotify.com/album/6QmMZKT5XL0WVV6dvKOYMB) | 5:52 | 2020-09-21\* | 2021-01-23 |
 | [Haus Style](https://open.spotify.com/track/3cKCgr7F2oP8NFGFrc210g) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Haus Style](https://open.spotify.com/album/0wejniDudKUFNXXa6k2uRg) | 3:19 | 2020-09-21\* | 2020-11-03 |
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2024-01-05 | 2025-08-02 |
@@ -1313,6 +1314,7 @@
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-06 | 2025-03-29 |
 | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O) | 3:52 | 2022-03-11 | 2022-05-17 |
 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 | 2022-07-08 | 2022-07-29 |
+| [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 | 2026-10-02 |  |
 | [This Is Our Legacy](https://open.spotify.com/track/32aKImKoiukzUxnWENXJXb) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ) | [This Is Our Legacy](https://open.spotify.com/album/4Ce0abdgk79C6cH8frg7Eq) | 2:39 | 2021-08-07 | 2021-10-23 |
 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 | 2020-09-21\* | 2021-01-23 |
 | [Through The Storm](https://open.spotify.com/track/3CbqAQnT7oU23IvtcHO0k1) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Through The Storm](https://open.spotify.com/album/4symFkdIp5MM4yxpQITTMb) | 2:13 | 2021-05-15 | 2021-07-24 |

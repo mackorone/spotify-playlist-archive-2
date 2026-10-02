@@ -4,7 +4,7 @@
 
 > a little rap, a little pop, a little country..\. sometimes\. BabyChiefDoIt on the cover.
 
-874 songs - 1 day 15 hr 54 min
+875 songs - 1 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 | 2024-02-16 | 2024-06-01 |
 | [Sad Baby](https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B) | [Mishaal Tamer](https://open.spotify.com/artist/5qApOyCrlrukY4oYmYGeCo) | [Sad Baby](https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9) | 3:40 | 2022-07-11 | 2022-10-15 |
 | [safe to say](https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [safe to say](https://open.spotify.com/album/2eBpe2BunLdyvJJ8FsekyA) | 2:02 | 2023-06-09 | 2024-03-16 |
+| [Saka \(feat\. Deevs\)](https://open.spotify.com/track/4ABQ0QuzGvHFWyTNMyKUYF) | [Sorisa](https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8), [Deevs](https://open.spotify.com/artist/2vChbpN0pKavKltjuPSFNN) | [Saka \(feat\. Deevs\)](https://open.spotify.com/album/1QPw2PAUNA2QmuHhfhlmEe) | 1:39 | 2026-10-02 |  |
 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 | 2022-09-27 | 2022-11-12 |
 | [Same Streets](https://open.spotify.com/track/7cUhsSkqpWI8JMrlRKdEGI) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Same Streets](https://open.spotify.com/album/32bbFhtMy0OhYcE4UolJAB) | 2:33 | 2023-07-07 | 2024-06-01 |
 | [Secrets](https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Secrets](https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1) | 2:31 | 2024-12-06 | 2025-05-28 |
@@ -704,7 +705,7 @@
 | [Somebody Else](https://open.spotify.com/track/03gx1ylVNRQQtpv1VRIsHL) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Somebody Else](https://open.spotify.com/album/1p4YRsrgs9cUDNbtXN25AP) | 2:03 | 2021-11-16 | 2022-02-19 |
 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 | 2024-02-02 | 2024-06-01 |
 | [Someday](https://open.spotify.com/track/1zZO31X6KgID8JllCNMxEW) | [SMILEZ](https://open.spotify.com/artist/0lRdxaQbuLSVm4DpUPCinB) | [Ur in My World](https://open.spotify.com/album/7jtuIiYuftTgdkZzPLn3pL) | 2:06 | 2023-07-03 | 2024-06-01 |
-| [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 | 2026-01-05 |  |
+| [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 | 2026-01-05 | 2026-10-02 |
 | [Something Stupid](https://open.spotify.com/track/5i7zaf08ZrlMcsSEB111aq) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Something Stupid](https://open.spotify.com/album/0S3fTNkqwroxTqhVCryyCP) | 2:45 | 2026-02-01 | 2026-06-19 |
 | [sometimes love means letting go](https://open.spotify.com/track/7haXwJXCIif44j7JVPsh3h) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Sly Jr.](https://open.spotify.com/artist/4FUA8iAbHSy5nenK5nQzjB) | [sometimes love means letting go](https://open.spotify.com/album/6hutvnSTdYmRqYCZWdZYwx) | 1:44 | 2026-02-20 | 2026-07-25 |
 | [song for when the bar closes](https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [song for when the bar closes](https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ) | 1:44 | 2024-11-25 | 2025-05-28 |

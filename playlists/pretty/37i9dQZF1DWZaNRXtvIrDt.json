@@ -1,96 +1,96 @@
 {
-  "description": "A new world of alternative electronic music. Cover: Lady Shaka",
-  "num_followers": 128729,
+  "description": "A new world of alternative electronic music. Cover: Sam Alfred",
+  "num_followers": 128727,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEkzbbeyHad3QjGupgps4Y/HsWBg",
+  "snapshot_id": "AAAAACHip6yoKdYGjnk7MOCAzEDb18Ml",
   "tracks": [
     {
-      "added_at": "2026-08-27 20:00:11",
+      "added_at": "2026-10-01 14:00:09",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/3BniYseVeFgP3VRlbS4j7U"
+        "name": "Cash Cure the Pain",
+        "url": "https://open.spotify.com/album/579MzFdoabifPNHdgUK4T2"
       },
       "artists": [
         {
-          "name": "Lady Shaka",
-          "url": "https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt"
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
         },
         {
-          "name": "DJ PGZ",
-          "url": "https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX"
-        },
-        {
-          "name": "DoloRRes",
-          "url": "https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC"
-        },
-        {
-          "name": "Zaila",
-          "url": "https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj"
+          "name": "Dadada",
+          "url": "https://open.spotify.com/artist/33Zf7q4FgcBgjTJ2DTqQLf"
         }
       ],
-      "duration_ms": 210702,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5DXWCJDhpdGHI2oq5CEGDr"
+      "duration_ms": 266097,
+      "name": "Cash Cure the Pain",
+      "url": "https://open.spotify.com/track/1rRDI12yFOspPqTN3Ga12V"
     },
     {
-      "added_at": "2026-09-03 14:00:38",
+      "added_at": "2026-10-01 14:00:09",
       "album": {
-        "name": "Bank Storm",
-        "url": "https://open.spotify.com/album/4Qe62HE3FBFbi5wAuCDUJc"
+        "name": "I Need EP",
+        "url": "https://open.spotify.com/album/7LvFbt0joNJXFFGghdeETA"
       },
       "artists": [
         {
-          "name": "moktar",
-          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Bank Storm",
-      "url": "https://open.spotify.com/track/6HX8WkPl9lMW4p19mvhGlI"
-    },
-    {
-      "added_at": "2026-08-27 20:00:11",
-      "album": {
-        "name": "Syphon Filter",
-        "url": "https://open.spotify.com/album/6hfBgi826jO7SEMDhSvTsG"
-      },
-      "artists": [
-        {
-          "name": "Sleep D",
-          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+          "name": "IN2STELLAR",
+          "url": "https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq"
         },
         {
-          "name": "Mosam Howieson",
-          "url": "https://open.spotify.com/artist/2G2XO6kbdZXsI1uprXIdMx"
+          "name": "Jungle Georgia",
+          "url": "https://open.spotify.com/artist/3B3QwBPt7bJdfjm7DnBBxz"
+        },
+        {
+          "name": "DJ Sarah",
+          "url": "https://open.spotify.com/artist/2ENBr5U6mFa8ylriwcKdfh"
         }
       ],
-      "duration_ms": 440888,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/13ADKoNailGRb5y2CpzUYf"
+      "duration_ms": 275466,
+      "name": "I Need - 5AM Sunrise Mix",
+      "url": "https://open.spotify.com/track/09RtwKxixeK1qx6K6rjbJG"
     },
     {
-      "added_at": "2026-07-16 14:00:25",
+      "added_at": "2026-10-01 14:00:09",
       "album": {
-        "name": "Get Me Down (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC"
+        "name": "PUMP!",
+        "url": "https://open.spotify.com/album/4I4IfbtW5zz4Pr22BQjNAu"
       },
       "artists": [
         {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Caleb Jackson",
+          "url": "https://open.spotify.com/artist/3YRKJG9dgxTToWLfQnp3h3"
         }
       ],
-      "duration_ms": 194038,
-      "name": "Get Me Down (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
+      "duration_ms": 235038,
+      "name": "PUMP!",
+      "url": "https://open.spotify.com/track/7huj6KMjlyawZDeZfn2KOi"
+    },
+    {
+      "added_at": "2026-10-01 14:00:09",
+      "album": {
+        "name": "Connected By Light",
+        "url": "https://open.spotify.com/album/6b9DMqotjI0cUcw8CE1u3W"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        },
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "duration_ms": 208854,
+      "name": "Connected By Light",
+      "url": "https://open.spotify.com/track/1HBJvNFEPWy8puFVlud8GU"
     },
     {
       "added_at": "2026-07-16 14:00:25",
@@ -165,20 +165,24 @@
       "url": "https://open.spotify.com/track/5ZzxwSEbO6BSyJtOtdAs7w"
     },
     {
-      "added_at": "2026-05-21 14:00:31",
+      "added_at": "2026-08-27 20:00:11",
       "album": {
-        "name": "Rubbing",
-        "url": "https://open.spotify.com/album/4vZ3vbhSoEf4dtQpcX3yf7"
+        "name": "Syphon Filter",
+        "url": "https://open.spotify.com/album/6hfBgi826jO7SEMDhSvTsG"
       },
       "artists": [
         {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+          "name": "Sleep D",
+          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+        },
+        {
+          "name": "Mosam Howieson",
+          "url": "https://open.spotify.com/artist/2G2XO6kbdZXsI1uprXIdMx"
         }
       ],
-      "duration_ms": 335665,
-      "name": "Rubbing",
-      "url": "https://open.spotify.com/track/4miQKb9E3kVOFwHXcqfDxv"
+      "duration_ms": 440888,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/13ADKoNailGRb5y2CpzUYf"
     },
     {
       "added_at": "2026-07-23 14:00:27",
@@ -265,40 +269,48 @@
       "url": "https://open.spotify.com/track/6WeFRRqIox3cCwDRAQuLZ5"
     },
     {
-      "added_at": "2026-07-16 14:00:25",
+      "added_at": "2026-08-27 20:00:11",
       "album": {
-        "name": "All In For You (feat. KU\u010cKA)",
-        "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3BniYseVeFgP3VRlbS4j7U"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "Lady Shaka",
+          "url": "https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt"
         },
         {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+          "name": "DJ PGZ",
+          "url": "https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX"
+        },
+        {
+          "name": "DoloRRes",
+          "url": "https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC"
+        },
+        {
+          "name": "Zaila",
+          "url": "https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj"
         }
       ],
-      "duration_ms": 174566,
-      "name": "All In For You (feat. KU\u010cKA)",
-      "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
+      "duration_ms": 210702,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5DXWCJDhpdGHI2oq5CEGDr"
     },
     {
-      "added_at": "2026-05-21 14:00:31",
+      "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Spiralen",
-        "url": "https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ"
+        "name": "COULD BE WRONG",
+        "url": "https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP"
       },
       "artists": [
         {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+          "name": "LOSTBOYJAY",
+          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
         }
       ],
-      "duration_ms": 437809,
-      "name": "Spiralen",
-      "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
+      "duration_ms": 186046,
+      "name": "COULD BE WRONG",
+      "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
     },
     {
       "added_at": "2026-07-23 14:00:27",
@@ -347,130 +359,6 @@
       "duration_ms": 320597,
       "name": "Mind Blow",
       "url": "https://open.spotify.com/track/26vQCdnaD8OujkbrUInBSF"
-    },
-    {
-      "added_at": "2026-05-21 14:00:31",
-      "album": {
-        "name": "Doin' It All 4U EP",
-        "url": "https://open.spotify.com/album/3rXNiNFNqEe2gL0rpvReVS"
-      },
-      "artists": [
-        {
-          "name": "Declan McDermott",
-          "url": "https://open.spotify.com/artist/53aq3G5al39txgYlmDQ3PC"
-        },
-        {
-          "name": "lovetempo",
-          "url": "https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Doin' It All 4 U - Lovetempo Remix",
-      "url": "https://open.spotify.com/track/5nA7GhofX2ljMqDe1eCjth"
-    },
-    {
-      "added_at": "2026-08-06 14:00:17",
-      "album": {
-        "name": "She Got It Wrong",
-        "url": "https://open.spotify.com/album/0vk14QIJCJ6DSGU8hZYQXR"
-      },
-      "artists": [
-        {
-          "name": "Redrago",
-          "url": "https://open.spotify.com/artist/1xK643wA7N0ym7AhaEY2iB"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Free The Drums",
-      "url": "https://open.spotify.com/track/1csNIbXIhGt3tdFyesyNtq"
-    },
-    {
-      "added_at": "2026-07-16 14:00:25",
-      "album": {
-        "name": "Body Step",
-        "url": "https://open.spotify.com/album/5URnN4y5b5KeKrmg5c3JGA"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/3YTJkFBcTafcaepBCr8Ar0"
-    },
-    {
-      "added_at": "2026-07-23 14:00:27",
-      "album": {
-        "name": "In Movement",
-        "url": "https://open.spotify.com/album/2DSflRKLyfSZJy4UTNCRHz"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 251817,
-      "name": "In Movement",
-      "url": "https://open.spotify.com/track/2KaOLIiTvWmL94o5YYSEb7"
-    },
-    {
-      "added_at": "2026-07-16 14:00:25",
-      "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/2u4dlmnEW2hdq7E2yv4V4p"
-      },
-      "artists": [
-        {
-          "name": "Human Movement",
-          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
-        }
-      ],
-      "duration_ms": 278895,
-      "name": "Kibbeh Nayyeh",
-      "url": "https://open.spotify.com/track/1y6x1Hc0C5sVPCfngfmfOp"
-    },
-    {
-      "added_at": "2026-08-27 20:00:11",
-      "album": {
-        "name": "Emerald Web",
-        "url": "https://open.spotify.com/album/1giV4u6ARwOSNz4dcrP7qJ"
-      },
-      "artists": [
-        {
-          "name": "Jensen Interceptor",
-          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Emerald Web",
-      "url": "https://open.spotify.com/track/1oR5NzGJ9L4PSZcexlhFr4"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "COULD BE WRONG",
-        "url": "https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP"
-      },
-      "artists": [
-        {
-          "name": "LOSTBOYJAY",
-          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
-        }
-      ],
-      "duration_ms": 186046,
-      "name": "COULD BE WRONG",
-      "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -575,6 +463,22 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2026-08-27 20:00:11",
+      "album": {
+        "name": "Emerald Web",
+        "url": "https://open.spotify.com/album/1giV4u6ARwOSNz4dcrP7qJ"
+      },
+      "artists": [
+        {
+          "name": "Jensen Interceptor",
+          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Emerald Web",
+      "url": "https://open.spotify.com/track/1oR5NzGJ9L4PSZcexlhFr4"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -703,6 +607,26 @@
       "duration_ms": 548560,
       "name": "Two Months Off",
       "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
+    },
+    {
+      "added_at": "2026-07-16 14:00:25",
+      "album": {
+        "name": "Get Me Down (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 194038,
+      "name": "Get Me Down (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -867,22 +791,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "C'est Toi",
-        "url": "https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF"
-      },
-      "artists": [
-        {
-          "name": "LNRT",
-          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "C'est Toi",
-      "url": "https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "What You Like (feat. yun\u00e8 pinku)",
         "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
       },
@@ -899,6 +807,126 @@
       "duration_ms": 193893,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "C'est Toi",
+        "url": "https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF"
+      },
+      "artists": [
+        {
+          "name": "LNRT",
+          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "C'est Toi",
+      "url": "https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW"
+    },
+    {
+      "added_at": "2026-07-16 14:00:25",
+      "album": {
+        "name": "Clammy",
+        "url": "https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8"
+      },
+      "artists": [
+        {
+          "name": "Povoa",
+          "url": "https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Shut Me Down",
+      "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Heaven Scent",
+        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        },
+        {
+          "name": "Chloe Sevigny",
+          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+        }
+      ],
+      "duration_ms": 283424,
+      "name": "Heaven Scent",
+      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2026-08-03 03:01:30",
+      "album": {
+        "name": "XXXXX",
+        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 138118,
+      "name": "Taconeando",
+      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "HARDSTYLE 2",
+        "url": "https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+        }
+      ],
+      "duration_ms": 286285,
+      "name": "HARDSTYLE 2",
+      "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+        }
+      ],
+      "duration_ms": 232984,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
     }
   ],
   "unique_name": "Portal",

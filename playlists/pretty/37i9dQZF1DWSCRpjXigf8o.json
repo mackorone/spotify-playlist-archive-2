@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88631,
+  "num_followers": 88628,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
     },
     {
-      "added_at": "2026-03-26 11:46:20",
-      "album": {
-        "name": "a plumber",
-        "url": "https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN"
-      },
-      "artists": [
-        {
-          "name": "jisokuryClub",
-          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
-        }
-      ],
-      "duration_ms": 209774,
-      "name": "a plumber",
-      "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "\u982c\u306b\u3072\u3068\u53e3",
@@ -823,6 +807,22 @@
       "duration_ms": 209837,
       "name": "\u982c\u306b\u3072\u3068\u53e3",
       "url": "https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr"
+    },
+    {
+      "added_at": "2026-03-26 11:46:20",
+      "album": {
+        "name": "a plumber",
+        "url": "https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "duration_ms": 209774,
+      "name": "a plumber",
+      "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "FIVE",
-        "url": "https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 211855,
-      "name": "FIVE",
-      "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Silent Storm",
         "url": "https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 206030,
       "name": "Bloom feat. KIKI",
       "url": "https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "FIVE",
+        "url": "https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 211855,
+      "name": "FIVE",
+      "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1273,26 +1273,6 @@
       "url": "https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK"
     },
     {
-      "added_at": "2026-05-21 15:00:24",
-      "album": {
-        "name": "la misma piedra",
-        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
-      },
-      "artists": [
-        {
-          "name": "Ton Felices",
-          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 216996,
-      "name": "la misma piedra",
-      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "Connection",
@@ -1315,6 +1295,26 @@
       "duration_ms": 191000,
       "name": "Sweet Lies (feat. Miyu Takeuchi)",
       "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
+    },
+    {
+      "added_at": "2026-05-21 15:00:24",
+      "album": {
+        "name": "la misma piedra",
+        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
+      },
+      "artists": [
+        {
+          "name": "Ton Felices",
+          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 216996,
+      "name": "la misma piedra",
+      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "ceremony",
-        "url": "https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 275354,
-      "name": "ceremony",
-      "url": "https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "This must be the place",
         "url": "https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 232238,
       "name": "This must be the place",
       "url": "https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "ceremony",
+        "url": "https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 275354,
+      "name": "ceremony",
+      "url": "https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1493,20 +1493,20 @@
       "url": "https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T"
     },
     {
-      "added_at": "2026-07-16 15:00:53",
+      "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "You are Silence",
-        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2kKGCcO1yYBdkbUMRb2VxJ"
       },
       "artists": [
         {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
         }
       ],
-      "duration_ms": 361000,
-      "name": "You are Silence",
-      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
+      "duration_ms": 238249,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1gIPa9lKYq33Y7B9bJoBau"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1525,20 +1525,20 @@
       "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
+      "added_at": "2026-07-16 15:00:53",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2kKGCcO1yYBdkbUMRb2VxJ"
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
       },
       "artists": [
         {
-          "name": "TAIKING",
-          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
         }
       ],
-      "duration_ms": 238249,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1gIPa9lKYq33Y7B9bJoBau"
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",

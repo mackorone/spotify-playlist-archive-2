@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc99 with TroyBoi",
-  "num_followers": 872432,
+  "num_followers": 872421,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-09-25 04:03:00",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/6Ix3pmPZdP1MhiLeI1b4YD"
-      },
-      "artists": [
-        {
-          "name": "KEPIK",
-          "url": "https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn"
-        }
-      ],
-      "duration_ms": 236689,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/5sIW6LZPdo9q8i7MxuhJTe"
-    },
-    {
-      "added_at": "2026-09-25 04:03:00",
-      "album": {
         "name": "ALLNIGHTER",
         "url": "https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 168857,
       "name": "ALLNIGHTER",
       "url": "https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm"
+    },
+    {
+      "added_at": "2026-09-25 04:03:00",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/6Ix3pmPZdP1MhiLeI1b4YD"
+      },
+      "artists": [
+        {
+          "name": "KEPIK",
+          "url": "https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn"
+        }
+      ],
+      "duration_ms": 236689,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/5sIW6LZPdo9q8i7MxuhJTe"
     },
     {
       "added_at": "2026-09-25 04:03:00",
@@ -1631,38 +1631,6 @@
     {
       "added_at": "2026-09-25 04:03:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/1vgT9EDIH0c1yJRf3uY8X7"
-      },
-      "artists": [
-        {
-          "name": "d\u00eatre",
-          "url": "https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/3YdNUZRZC1sMFovoSLouc6"
-    },
-    {
-      "added_at": "2026-09-25 04:03:00",
-      "album": {
-        "name": "Snakebite",
-        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Snakebite",
-      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
-    },
-    {
-      "added_at": "2026-09-25 04:03:00",
-      "album": {
         "name": "ONE TWO",
         "url": "https://open.spotify.com/album/4La0bAOYp2XzsmDpljN6zD"
       },
@@ -1683,22 +1651,34 @@
     {
       "added_at": "2026-09-25 04:03:00",
       "album": {
-        "name": "Monomyth",
-        "url": "https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9"
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
       },
       "artists": [
         {
-          "name": "Saka",
-          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
-        },
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Ghoul",
-      "url": "https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a"
+      "duration_ms": 192000,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
+    },
+    {
+      "added_at": "2026-09-25 04:03:00",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/1vgT9EDIH0c1yJRf3uY8X7"
+      },
+      "artists": [
+        {
+          "name": "d\u00eatre",
+          "url": "https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/3YdNUZRZC1sMFovoSLouc6"
     },
     {
       "added_at": "2026-09-25 04:03:00",
@@ -1715,6 +1695,26 @@
       "duration_ms": 144000,
       "name": "move! (that body)",
       "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "added_at": "2026-09-25 04:03:00",
+      "album": {
+        "name": "Monomyth",
+        "url": "https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        },
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Ghoul",
+      "url": "https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a"
     },
     {
       "added_at": "2026-09-25 04:03:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2026-09-25 04:03:00",
       "album": {
-        "name": "2MINUTES",
-        "url": "https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        },
-        {
-          "name": "rossxo",
-          "url": "https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "2MINUTES",
-      "url": "https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT"
-    },
-    {
-      "added_at": "2026-09-25 04:03:00",
-      "album": {
         "name": "UH OH!",
         "url": "https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2"
       },
@@ -1807,26 +1787,38 @@
     {
       "added_at": "2026-09-25 04:03:00",
       "album": {
-        "name": "RIDDEM",
-        "url": "https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g"
+        "name": "2MINUTES",
+        "url": "https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
         },
         {
-          "name": "Allenora",
-          "url": "https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0"
-        },
-        {
-          "name": "America Foster",
-          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
+          "name": "rossxo",
+          "url": "https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W"
         }
       ],
-      "duration_ms": 207428,
-      "name": "RIDDEM",
-      "url": "https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg"
+      "duration_ms": 219428,
+      "name": "2MINUTES",
+      "url": "https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT"
+    },
+    {
+      "added_at": "2026-09-25 04:03:00",
+      "album": {
+        "name": "RXGER CLUB!",
+        "url": "https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld"
+      },
+      "artists": [
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "redSKY",
+      "url": "https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV"
     },
     {
       "added_at": "2026-09-25 04:03:00",
@@ -1847,18 +1839,26 @@
     {
       "added_at": "2026-09-25 04:03:00",
       "album": {
-        "name": "RXGER CLUB!",
-        "url": "https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld"
+        "name": "RIDDEM",
+        "url": "https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g"
       },
       "artists": [
         {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Allenora",
+          "url": "https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0"
+        },
+        {
+          "name": "America Foster",
+          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
         }
       ],
-      "duration_ms": 133333,
-      "name": "redSKY",
-      "url": "https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV"
+      "duration_ms": 207428,
+      "name": "RIDDEM",
+      "url": "https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg"
     },
     {
       "added_at": "2026-09-25 04:03:00",

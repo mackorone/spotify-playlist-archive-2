@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108931,
+  "num_followers": 108936,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAA6mkodV+vzlDaE8lzVUScD",
+  "snapshot_id": "arxRAAAAAABnghAA9WMTURcckFWSQDs0",
   "tracks": [
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 246706,
-      "name": "Het Is Koud Zonder Jou",
-      "url": "https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj"
+      "duration_ms": 240133,
+      "name": "Waarom",
+      "url": "https://open.spotify.com/track/2uVNFzJr9uzO0Nsi6G6oa1"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Waarom",
-      "url": "https://open.spotify.com/track/2uVNFzJr9uzO0Nsi6G6oa1"
+      "duration_ms": 246706,
+      "name": "Het Is Koud Zonder Jou",
+      "url": "https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 218826,
-      "name": "Zomer",
-      "url": "https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m"
+      "duration_ms": 257733,
+      "name": "Dat Ene Moment",
+      "url": "https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 257733,
-      "name": "Dat Ene Moment",
-      "url": "https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z"
+      "duration_ms": 218826,
+      "name": "Zomer",
+      "url": "https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m"
     },
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry (Holland Zingt Hazes)",
+        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        },
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 220879,
+      "name": "Sorry - Holland Zingt Hazes",
+      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Met Liefde",
         "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 234533,
       "name": "Leef Nu Maar Je Eigen Leven",
       "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry (Holland Zingt Hazes)",
-        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        },
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 220879,
-      "name": "Sorry - Holland Zingt Hazes",
-      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
     },
     {
       "added_at": null,

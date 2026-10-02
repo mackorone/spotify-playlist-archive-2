@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACHVsPjVVe9GskhEzjXE51a",
+  "snapshot_id": "arxRAAAAAAB70CyJn/kyquyzjj4PLvtn",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b\u3000\u30cb\u30b3\u30d1\u30c1",
-        "url": "https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 250868,
-      "name": "\u30d8\u30df\u30bd\u30d5\u30a3\u30a2",
-      "url": "https://open.spotify.com/track/2dHrD24YYb37yUjmosVq5S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u72ec\u767d\u2192\u8e8d\u52d5\u3000<FGO\u76e4>",
         "url": "https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 282626,
       "name": "\u72ec\u767d",
       "url": "https://open.spotify.com/track/73S6qXMFVhXb4MchX0KmwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b\u3000\u30cb\u30b3\u30d1\u30c1",
+        "url": "https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 250868,
+      "name": "\u30d8\u30df\u30bd\u30d5\u30a3\u30a2",
+      "url": "https://open.spotify.com/track/2dHrD24YYb37yUjmosVq5S"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b\u3000\u30cb\u30b3\u30d1\u30c1",
-        "url": "https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        },
-        {
-          "name": "Steve Conte",
-          "url": "https://open.spotify.com/artist/5Uxss6P1MI2lX9vHvK76zK"
-        }
-      ],
-      "duration_ms": 380087,
-      "name": "The Garden of everything",
-      "url": "https://open.spotify.com/track/5dQsd3J9Xj7ef06O9Yf0So"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing 2 (Original Motion Picture Soundtrack) [Alternate Version]",
         "url": "https://open.spotify.com/album/4oPdS6pmyJhtm5W6TwzY7E"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 92891,
       "name": "Break Free - Japan Version",
       "url": "https://open.spotify.com/track/3svcAbXBX9Z4D8VqOL0bZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b\u3000\u30cb\u30b3\u30d1\u30c1",
+        "url": "https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        },
+        {
+          "name": "Steve Conte",
+          "url": "https://open.spotify.com/artist/5Uxss6P1MI2lX9vHvK76zK"
+        }
+      ],
+      "duration_ms": 380087,
+      "name": "The Garden of everything",
+      "url": "https://open.spotify.com/track/5dQsd3J9Xj7ef06O9Yf0So"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b\u3000\u30cb\u30b3\u30d1\u30c1",
-        "url": "https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 331865,
-      "name": "tune the rainbow",
-      "url": "https://open.spotify.com/track/2vBTbVowqNQEUApLooNtFz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25\u5468\u5e74\u8a18\u5ff5\u30a2\u30eb\u30d0\u30e0\u3000\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b \u30a2\u30c1\u30b3\u30c1",
         "url": "https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 102973,
       "name": "Tell me what the rain knows",
       "url": "https://open.spotify.com/track/19WWtnNcvDhVrNrLH5je1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b\u3000\u30cb\u30b3\u30d1\u30c1",
+        "url": "https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 331865,
+      "name": "tune the rainbow",
+      "url": "https://open.spotify.com/track/2vBTbVowqNQEUApLooNtFz"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25\u5468\u5e74\u8a18\u5ff5\u30a2\u30eb\u30d0\u30e0\u3000\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b \u30a2\u30c1\u30b3\u30c1",
-        "url": "https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 300200,
-      "name": "cloud 9",
-      "url": "https://open.spotify.com/track/2qGC7Kxul7KDS8Mi8u59B6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9006\u5149",
         "url": "https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0"
       },
@@ -535,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u300eFate/Grand Order\u300f\u4e3b\u984c\u6b4c\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u3000\u4f59\u97fb",
-        "url": "https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 341026,
-      "name": "\u9006\u5149-unplugged session-",
-      "url": "https://open.spotify.com/track/6YIHCnUw8Uds0cWqhqMnnU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u300c\u5287\u5834\u7528\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3000\u30a8\u30b9\u30ab\u30d5\u30ed\u30fc\u30cd\u300d\u4e3b\u984c\u6b4c\u3000\u6307\u8f2a",
         "url": "https://open.spotify.com/album/5WCmfHEXY07CkH1QORjNX7"
       },
@@ -563,6 +531,22 @@
       "duration_ms": 223966,
       "name": "\u6307\u8f2a (Single Ver.)",
       "url": "https://open.spotify.com/track/4LC4d4EHBSbWrFjdAQLG08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u300eFate/Grand Order\u300f\u4e3b\u984c\u6b4c\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u3000\u4f59\u97fb",
+        "url": "https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 341026,
+      "name": "\u9006\u5149-unplugged session-",
+      "url": "https://open.spotify.com/track/6YIHCnUw8Uds0cWqhqMnnU"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sumire / Kotoba ni Dekinai",
-        "url": "https://open.spotify.com/album/4mvCZ2dM4YhKLIvoXneU21"
+        "name": "\u300c\u3053\u3070\u3068\u3002\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u30de\u30b8\u30c3\u30af\u30ca\u30f3\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/5vvmNygwCzLKPuXwygrfIv"
       },
       "artists": [
         {
@@ -596,9 +580,25 @@
           "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
         }
       ],
-      "duration_ms": 237760,
-      "name": "Sumire",
-      "url": "https://open.spotify.com/track/4ilIh5yaPnwgXHlq3RJ2c8"
+      "duration_ms": 297812,
+      "name": "\u30de\u30b8\u30c3\u30af\u30ca\u30f3\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/1GcAsatYciWxttl5OBNpSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/2ucsRGz0s2Zc4dNCdw7y4a"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 269866,
+      "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/6hVThNX3Z0TJJ67Bj6VW24"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u300c\u3053\u3070\u3068\u3002\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u30de\u30b8\u30c3\u30af\u30ca\u30f3\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/5vvmNygwCzLKPuXwygrfIv"
+        "name": "25\u5468\u5e74\u8a18\u5ff5\u30a2\u30eb\u30d0\u30e0\u3000\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b \u30a2\u30c1\u30b3\u30c1",
+        "url": "https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
         }
       ],
-      "duration_ms": 297812,
-      "name": "\u30de\u30b8\u30c3\u30af\u30ca\u30f3\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/1GcAsatYciWxttl5OBNpSU"
+      "duration_ms": 300200,
+      "name": "cloud 9",
+      "url": "https://open.spotify.com/track/2qGC7Kxul7KDS8Mi8u59B6"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/2ucsRGz0s2Zc4dNCdw7y4a"
+        "name": "Sumire / Kotoba ni Dekinai",
+        "url": "https://open.spotify.com/album/4mvCZ2dM4YhKLIvoXneU21"
       },
       "artists": [
         {
@@ -660,9 +660,57 @@
           "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
         }
       ],
-      "duration_ms": 269866,
-      "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/6hVThNX3Z0TJJ67Bj6VW24"
+      "duration_ms": 237760,
+      "name": "Sumire",
+      "url": "https://open.spotify.com/track/4ilIh5yaPnwgXHlq3RJ2c8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u300c\u30ab\u30fc\u30c9\u30ad\u30e3\u30d7\u30bf\u30fc\u3055\u304f\u3089 \u30af\u30ea\u30a2\u30ab\u30fc\u30c9\u7de8\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 92773,
+      "name": "CLEAR \uff5eTV\u30b5\u30a4\u30ba\uff5e",
+      "url": "https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b\u3000\u30df\u30c4\u30d0\u30c1",
+        "url": "https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 305300,
+      "name": "\u304a\u304b\u3048\u308a\u306a\u3055\u3044",
+      "url": "https://open.spotify.com/track/273HQr5Q57N7aBrzVvChGi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nina",
+        "url": "https://open.spotify.com/album/1PopiddsH4mNWSqGql076Z"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "nina",
+      "url": "https://open.spotify.com/track/6Eg8Oyxo1VWL1MW3JS8Yic"
     },
     {
       "added_at": null,
@@ -699,54 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b\u3000\u30df\u30c4\u30d0\u30c1",
-        "url": "https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 305300,
-      "name": "\u304a\u304b\u3048\u308a\u306a\u3055\u3044",
-      "url": "https://open.spotify.com/track/273HQr5Q57N7aBrzVvChGi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u300c\u30ab\u30fc\u30c9\u30ad\u30e3\u30d7\u30bf\u30fc\u3055\u304f\u3089 \u30af\u30ea\u30a2\u30ab\u30fc\u30c9\u7de8\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 92773,
-      "name": "CLEAR \uff5eTV\u30b5\u30a4\u30ba\uff5e",
-      "url": "https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "nina",
-        "url": "https://open.spotify.com/album/1PopiddsH4mNWSqGql076Z"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "nina",
-      "url": "https://open.spotify.com/track/6Eg8Oyxo1VWL1MW3JS8Yic"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You can't catch me",
         "url": "https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30e2\u30a2\u30b6\u30f3\u30ef\u30fc\u30ba",
-        "url": "https://open.spotify.com/album/1d3mhEK370MhSf8QwMjUB8"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 304604,
-      "name": "\u30e2\u30a2\u30b6\u30f3\u30ef\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/3cozilW7AMWosrQItKbitH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ec\u30d7\u30ea\u30ab",
         "url": "https://open.spotify.com/album/4De7ETw90nNYeBADeq3EGN"
       },
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u304b\u305c\u3088\u307f",
-        "url": "https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl"
+        "name": "\u30e2\u30a2\u30b6\u30f3\u30ef\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/1d3mhEK370MhSf8QwMjUB8"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
         }
       ],
-      "duration_ms": 290438,
-      "name": "\u30ab\u30b6\u30df\u30c9\u30ea",
-      "url": "https://open.spotify.com/track/6LRfquScao1r6XCLyuwWVi"
+      "duration_ms": 304604,
+      "name": "\u30e2\u30a2\u30b6\u30f3\u30ef\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/3cozilW7AMWosrQItKbitH"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 265480,
       "name": "\u5149\u3042\u308c",
       "url": "https://open.spotify.com/track/29hVgemZ4kcZ9Mx5Iua6Ut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u304b\u305c\u3088\u307f",
+        "url": "https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 290438,
+      "name": "\u30ab\u30b6\u30df\u30c9\u30ea",
+      "url": "https://open.spotify.com/track/6LRfquScao1r6XCLyuwWVi"
     },
     {
       "added_at": null,

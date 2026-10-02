@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 286613,
+  "num_followers": 286674,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
+        "name": "the_1",
+        "url": "https://open.spotify.com/album/2dBiSTOvZ6Q0r3owadT63F"
+      },
+      "artists": [
+        {
+          "name": "Nori",
+          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 141437,
+      "name": "the_1",
+      "url": "https://open.spotify.com/track/2kdUxRznNPG1G0PdyvA8aE"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
         "name": "Bun It Down",
         "url": "https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam"
       },
@@ -607,26 +627,6 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "Combat (feat. Gardna)",
-        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
-      },
-      "artists": [
-        {
-          "name": "Declan Knapp",
-          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
-        },
-        {
-          "name": "Gardna",
-          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Combat (feat. Gardna)",
-      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
         "name": "Moment (feat. Charlotte Plank)",
         "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
       },
@@ -643,6 +643,26 @@
       "duration_ms": 123242,
       "name": "Moment (feat. Charlotte Plank)",
       "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
+        "name": "Combat (feat. Gardna)",
+        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
+      },
+      "artists": [
+        {
+          "name": "Declan Knapp",
+          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
+        },
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Combat (feat. Gardna)",
+      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -667,22 +687,26 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "the_1",
-        "url": "https://open.spotify.com/album/2dBiSTOvZ6Q0r3owadT63F"
+        "name": "If You Let Me (Denon Reed Remix)",
+        "url": "https://open.spotify.com/album/1Ngm0SCK04iTjyHSRnKF00"
       },
       "artists": [
         {
-          "name": "Nori",
-          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
+          "name": "Albi",
+          "url": "https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk"
         },
         {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        },
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
         }
       ],
-      "duration_ms": 141437,
-      "name": "the_1",
-      "url": "https://open.spotify.com/track/2kdUxRznNPG1G0PdyvA8aE"
+      "duration_ms": 160116,
+      "name": "If You Let Me - Denon Reed Remix",
+      "url": "https://open.spotify.com/track/5rkAi06XtpP0hCvWjhHiSU"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -715,30 +739,6 @@
       "duration_ms": 246760,
       "name": "Bassline Girl",
       "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
-        "name": "If You Let Me (Denon Reed Remix)",
-        "url": "https://open.spotify.com/album/1Ngm0SCK04iTjyHSRnKF00"
-      },
-      "artists": [
-        {
-          "name": "Albi",
-          "url": "https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk"
-        },
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        }
-      ],
-      "duration_ms": 160116,
-      "name": "If You Let Me - Denon Reed Remix",
-      "url": "https://open.spotify.com/track/5rkAi06XtpP0hCvWjhHiSU"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "Rewind Crew",
-        "url": "https://open.spotify.com/album/2gfHvl5pbe42rnIlWvIkJk"
-      },
-      "artists": [
-        {
-          "name": "REESE",
-          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
-        },
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Rewind Crew",
-      "url": "https://open.spotify.com/track/02rITP8XxNNuy9fVenZnnm"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
         "name": "The Things That We Should Say",
         "url": "https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 128394,
       "name": "The Things That We Should Say",
       "url": "https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
+        "name": "Rewind Crew",
+        "url": "https://open.spotify.com/album/2gfHvl5pbe42rnIlWvIkJk"
+      },
+      "artists": [
+        {
+          "name": "REESE",
+          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
+        },
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Rewind Crew",
+      "url": "https://open.spotify.com/track/02rITP8XxNNuy9fVenZnnm"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        },
-        {
-          "name": "Wardy",
-          "url": "https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
         "name": "Club Orthodontics",
         "url": "https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3"
       },
@@ -1135,22 +1115,22 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "Sofa Soup",
-        "url": "https://open.spotify.com/album/0GCR4QIHiueEQYO3m8Shfs"
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY"
       },
       "artists": [
         {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
         },
         {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+          "name": "Wardy",
+          "url": "https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Sofa Soup",
-      "url": "https://open.spotify.com/track/4SI8ClxzA7QHSv47ZPAhH2"
+      "duration_ms": 245106,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -1171,6 +1151,26 @@
       "duration_ms": 275962,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2f0bZbD4u8HX3Kn7PjKi6C"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
+        "name": "Sofa Soup",
+        "url": "https://open.spotify.com/album/0GCR4QIHiueEQYO3m8Shfs"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Sofa Soup",
+      "url": "https://open.spotify.com/track/4SI8ClxzA7QHSv47ZPAhH2"
     },
     {
       "added_at": "2026-09-24 23:00:05",

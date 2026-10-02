@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 111 songs - 6 hr 28 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 114 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 109 | [Butterflies](https://open.spotify.com/track/383NSGXVqSdKongECsYcnb) | [Haaniel](https://open.spotify.com/artist/3rNsxByNqSJjegnFQHkkeK) | [Butterflies](https://open.spotify.com/album/6u4DugOvPbTvHegUAXIh6L) | 2:56 |
 | 110 | [Um minuto é tanta coisa](https://open.spotify.com/track/7xzlH4QJryJONepBPeHKi9) | [Cintia](https://open.spotify.com/artist/7aoNiDI9Vs7m78GkR8iPH2) | [Um minuto é tanta coisa](https://open.spotify.com/album/7D282WFDveRnwvjroppOaE) | 2:43 |
 | 111 | [Baad Amad \(Live at Barnhouse\)\- باد آمد](https://open.spotify.com/track/6thfuOBPy9jfItEnLFFsLW) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Live at Barnhouse](https://open.spotify.com/album/1ZLsWefBqF5af0uaneVAIB) | 3:46 |
+| 112 | [Flo Flo \(feat\. Dopein\)](https://open.spotify.com/track/63puD8m1sZCxlmcxiqhAII) | [LODiVE](https://open.spotify.com/artist/4u60k8zXBWzInzqVLekWyJ), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Flo Flo](https://open.spotify.com/album/7rJYhTMF4sVpYKEO48zapy) | 3:19 |
+| 113 | [whatever happened to US?](https://open.spotify.com/track/5StfR09C6SjhDmnWAkxTm8) | [Nathan Oswalt](https://open.spotify.com/artist/1p3fViLAZhmYFaZu2EPAFO) | [whatever happened to US?](https://open.spotify.com/album/6UOtGk08ilBwvqOoIGDEZD) | 3:00 |
+| 114 | [All I'm Asking](https://open.spotify.com/track/31wDnO5bkTr89Rikz29fz8) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Never Too Late](https://open.spotify.com/album/3bNnCDLxdkSjjSsCHtn0mL) | 4:15 |
 
-Snapshot ID: `AAAYY5jUHFvzV5+F3dhHqkWmIaPatDw5`
+Snapshot ID: `AAAYZtDzDoWllgkOSyBwXt/XG57OTklf`

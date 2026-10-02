@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: jisokuryClub\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,403 songs - 3 day 12 hr 58 min
+1,404 songs - 3 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Daydream](https://open.spotify.com/track/7yYNkLrgGlWN4OnXNira9S) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Daydream](https://open.spotify.com/album/0wuCxwXVDmDh52qiBsGa9I) | 4:10 | 2022-03-31 | 2022-04-16 |
 | [Daydream](https://open.spotify.com/track/2D1IzpyMIWkwOj2DJbVktx) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Daydream](https://open.spotify.com/album/5XdewbDMSKfhLcyTk7sY47) | 2:38 | 2025-08-21 | 2025-09-26 |
 | [Daydreamer](https://open.spotify.com/track/3SFEmtI1gkOoIwe2zPeSsU) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Daydreamer](https://open.spotify.com/album/1OQAB8ZQaN5d7xpkxkH8C7) | 4:30 | 2025-01-30 | 2025-04-11 |
+| [Daydreaming](https://open.spotify.com/track/6s3aGES0MlWhPXTa8Faow4) | [Eddie and the Bricks](https://open.spotify.com/artist/2FSpLqT9FBl8OX4J3IWTto) | [inbetweeners](https://open.spotify.com/album/3zV03L85sDpwtoe33kRuHW) | 4:44 | 2026-10-02 |  |
 | [DDDD!](https://open.spotify.com/track/7uP6YcBFEsOMf7CxuqrjPh) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [DDDD!](https://open.spotify.com/album/0RUSetshoG0y6QABMEzLJw) | 4:58 | 2025-09-02 | 2025-10-10 |
 | [Dead end street](https://open.spotify.com/track/493DKBNm3txw82eK4E9u95) | [Leebull Kim](https://open.spotify.com/artist/2hgrTOhZ18zSBEMbiQldoB) | [Dead end street](https://open.spotify.com/album/7FWqnSK5Qm0wA2Jt0gDMEi) | 4:22 | 2021-12-21 | 2022-04-22 |
 | [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 | 2026-02-25 | 2026-04-09 |
@@ -491,7 +492,7 @@
 | [Heart](https://open.spotify.com/track/73aUjezd8PBHyNrW5lJ8C9) | [Yooin](https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn) | [Heart](https://open.spotify.com/album/3pisk7bLoTZREoNooWkZZU) | 2:32 | 2025-09-01 | 2025-10-02 |
 | [Heart of Gold](https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Heart of Gold](https://open.spotify.com/album/3K8n186vv6tMeS3l7fpluB) | 4:43 | 2026-05-07 | 2026-07-28 |
 | [Heart of Gold](https://open.spotify.com/track/7M42ZcNZ3jVzYvZYm0QpkV) | [Twomyung](https://open.spotify.com/artist/6uENO0HTR2Tt1sZzQmPKst), [Trickyneko](https://open.spotify.com/artist/5UNMeC6UjnNmJRkpVZJsHd), [howaho](https://open.spotify.com/artist/4lEQCDab4fOSiY7r0SlOhi) | [Heart of Gold](https://open.spotify.com/album/6Ty9ExLhYQHOwN8re6QmMF) | 3:36 | 2022-03-31 | 2022-04-05 |
-| [heaven and hell](https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [heaven and hell](https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3) | 4:28 | 2026-05-20 |  |
+| [heaven and hell](https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [heaven and hell](https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3) | 4:28 | 2026-05-20 | 2026-10-02 |
 | [Heavy Going \- Single Ver.](https://open.spotify.com/track/2o3wx46DLWC0kUiS6js2OJ) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Heavy Going](https://open.spotify.com/album/0YFFUQOr36O0gobK7vyuQd) | 4:04 | 2024-04-30 | 2024-05-10 |
 | [Hello, Goodbye](https://open.spotify.com/track/6MKJgg1iFKGOOpqge8vhhD) | [Ruru](https://open.spotify.com/artist/4flinhIhFYE7Ehy3fFBg3l) | [Hello, Goodbye](https://open.spotify.com/album/0HONgJtedOHoxfciPlocSQ) | 2:41 | 2025-09-09 | 2025-10-15 |
 | [Help](https://open.spotify.com/track/1d54SppEn5ZLbNySfrAtQq) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Help / New Love](https://open.spotify.com/album/3A35BTiOnFGO28PopdmgXZ) | 3:43 | 2024-04-30 | 2024-05-10 |

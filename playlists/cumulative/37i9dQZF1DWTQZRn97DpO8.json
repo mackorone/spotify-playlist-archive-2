@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Varnish La Piscine",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Wamen",
   "name": "le miel",
   "tracks": [
     {
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 170762,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7cRyGiBwYqHXQaBtKmflMG"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 123000,
       "name": "Corps",
       "url": "https://open.spotify.com/track/238bn38JH21VAUqG5xMWUl"
@@ -3231,6 +3231,24 @@
     },
     {
       "album": {
+        "name": "Empreinte.",
+        "url": "https://open.spotify.com/album/2dr2wl1iYqB0UhDfDOvvoT"
+      },
+      "artists": [
+        {
+          "name": "Dorysse",
+          "url": "https://open.spotify.com/artist/4uC2fePQOK7z2qeu0j6Wjk"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196473,
+      "name": "Empreinte.",
+      "url": "https://open.spotify.com/track/3dWHj5KX0u5nYFXKlnm2GV"
+    },
+    {
+      "album": {
         "name": "En apesanteur",
         "url": "https://open.spotify.com/album/0yeTO47saqkxI71QCO1vNJ"
       },
@@ -3582,7 +3600,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 182727,
       "name": "Fais moi pleuvoir",
       "url": "https://open.spotify.com/track/5vC3fGU7XI0B4Ami8RtpPE"
@@ -3756,6 +3774,24 @@
       "duration_ms": 196129,
       "name": "Finalement",
       "url": "https://open.spotify.com/track/1NzsLLC52w06Dln3UoXME2"
+    },
+    {
+      "album": {
+        "name": "Vie d'Adulte",
+        "url": "https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP"
+      },
+      "artists": [
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170773,
+      "name": "Fini",
+      "url": "https://open.spotify.com/track/6wOg028Ir9iTzesjbR2oDD"
     },
     {
       "album": {
@@ -3950,7 +3986,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 144846,
       "name": "Friend with benefits",
       "url": "https://open.spotify.com/track/6MgA1YVPItOwUi2kvBAdwB"
@@ -4243,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "Vie d'Adulte",
+        "url": "https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP"
+      },
+      "artists": [
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Hauteur",
+      "url": "https://open.spotify.com/track/4SzrnrK1JA1LLyOPp0NrOx"
+    },
+    {
+      "album": {
         "name": "Have We Lost It?",
         "url": "https://open.spotify.com/album/2e1cc5owqIUDcIeEYOxEKI"
       },
@@ -4280,6 +4334,24 @@
       "duration_ms": 120750,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/1BfZIxLgUMmy7LPIZyEENw"
+    },
+    {
+      "album": {
+        "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/0kyf1fKHdnKPrEtStxT4w4"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/6RDnE56IgXL124OFK17Ws4"
     },
     {
       "album": {
@@ -5601,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "La vie me va si bien - live session",
+        "url": "https://open.spotify.com/album/4otNnxRJ66QiF5TlI3Zl3q"
+      },
+      "artists": [
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240525,
+      "name": "L'autre banc - live version",
+      "url": "https://open.spotify.com/track/5gE7obTHQ4koCMk6naXYnO"
+    },
+    {
+      "album": {
         "name": "L'enfer",
         "url": "https://open.spotify.com/album/50wiVjcX3EC2KaLgHuYUCo"
       },
@@ -5792,7 +5882,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 236576,
       "name": "LA M\u00caME HISTOIRE",
       "url": "https://open.spotify.com/track/44p541OPMP2VEvGugqgXYA"
@@ -6876,7 +6966,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 168841,
       "name": "Maintenant je peux faire l'amour",
       "url": "https://open.spotify.com/track/7CZAQa1vqXf7DcMga5fyXp"
@@ -7040,6 +7130,24 @@
       "duration_ms": 99428,
       "name": "meen session 3 (les \u00e9toiles)",
       "url": "https://open.spotify.com/track/5J0fyQrl507FmTGE84uaDf"
+    },
+    {
+      "album": {
+        "name": "pour moi / meilleur",
+        "url": "https://open.spotify.com/album/2c8AaDWCa7vMPBR54h0VXx"
+      },
+      "artists": [
+        {
+          "name": "saphyra",
+          "url": "https://open.spotify.com/artist/52WgSfyDVgbox3BKFP3CWy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "meilleur",
+      "url": "https://open.spotify.com/track/7bK6Ss2JFy1dETsTRdwbli"
     },
     {
       "album": {
@@ -7264,7 +7372,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 166000,
       "name": "Moi",
       "url": "https://open.spotify.com/track/0mnOyAm1KkPPvCd3eMmrHZ"
@@ -9301,6 +9409,24 @@
     },
     {
       "album": {
+        "name": "Qui",
+        "url": "https://open.spotify.com/album/7lVv14cj4hKWN3KKerlL2L"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247991,
+      "name": "Qui",
+      "url": "https://open.spotify.com/track/4sqwuUeNZGR8NTIUf1I8AB"
+    },
+    {
+      "album": {
         "name": "Qui de nous",
         "url": "https://open.spotify.com/album/4YxCsd5KQkMcwU00pqvLLg"
       },
@@ -9866,6 +9992,24 @@
       "duration_ms": 193432,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/1t2cHwdbx0lmmYsfdUS0MF"
+    },
+    {
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/3pp3o0CW5cXLJQILiICOoe"
+      },
+      "artists": [
+        {
+          "name": "Za Kweli",
+          "url": "https://open.spotify.com/artist/714SH9QNh3epzzot51ywsJ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/1ZoElMsRwsAx6aSofehGGI"
     },
     {
       "album": {
@@ -11614,7 +11758,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174000,
       "name": "tu sais tout",
       "url": "https://open.spotify.com/track/5h4Urd9vrHE4BbLsVth8sn"
@@ -11730,6 +11874,24 @@
       "duration_ms": 160373,
       "name": "Un autre que moi",
       "url": "https://open.spotify.com/track/6mW9sMSGdjjMWLAiiG6uf6"
+    },
+    {
+      "album": {
+        "name": "Un peu de soleil",
+        "url": "https://open.spotify.com/album/02mzv8gKj9Lnfd0Kqopeuc"
+      },
+      "artists": [
+        {
+          "name": "Oth\u00e9lie",
+          "url": "https://open.spotify.com/artist/7e0NJkHuckuwmgxKi4aQ7S"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193486,
+      "name": "Un peu de soleil",
+      "url": "https://open.spotify.com/track/4tNqbGez0EoiVmBJNyRNFO"
     },
     {
       "album": {
@@ -11968,7 +12130,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 181176,
       "name": "Viseur",
       "url": "https://open.spotify.com/track/6FfSxK3cAq25DsEL1IHEtL"

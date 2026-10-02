@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,499 songs - 2 day 16 hr 30 min
+1,500 songs - 2 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1458,6 +1458,7 @@
 | [Wicked Game](https://open.spotify.com/track/3eX4KovuTeNJxFZZT6KeWa) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Wicked Game](https://open.spotify.com/album/7bQKXzmfZjcdWmYMCr8jZH) | 2:26 | 2025-10-23 |  |
 | [Wide Awake](https://open.spotify.com/track/74zkvKv5wYOYuHZkMD8o44) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Wide Awake](https://open.spotify.com/album/22XEOw0vqcs1Go4JYxgYb2) | 2:05 | 2026-06-04 |  |
 | [Wide Blue](https://open.spotify.com/track/1bzlLF1VeiXV51XWz8APpR) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Wide Blue](https://open.spotify.com/album/65Tk1jkREf6sDcafZ3S3gD) | 3:01 | 2024-06-07 | 2024-07-29 |
+| [Wide Open](https://open.spotify.com/track/2Ia6O1SIMz8ab2YZm8yYu9) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn), [After June](https://open.spotify.com/artist/54ca7OngsDRKrfApI0An72) | [Wide Open](https://open.spotify.com/album/6WnDosHEdUlJvzfNCFXcQ8) | 2:01 | 2026-10-01 |  |
 | [Wild World](https://open.spotify.com/track/1d3F9C4d1H7j8qd26pCJ9k) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7) | [Wild World](https://open.spotify.com/album/0Vom7oxn5OCQKninzyvnqR) | 2:24 | 2026-05-17 | 2026-08-03 |
 | [WILDFLOWER](https://open.spotify.com/track/7GaZx2LRKgiMTcc1DpVwav) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [WILDFLOWER](https://open.spotify.com/album/38rGzGEIHbwg4nIJL9kkhK) | 2:53 | 2026-08-02 |  |
 | [Will You Be Mine](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [Will You Be Mine](https://open.spotify.com/album/79387ejIshaY5c4TeTlC1V) | 3:11 | 2024-04-20 | 2024-07-14 |

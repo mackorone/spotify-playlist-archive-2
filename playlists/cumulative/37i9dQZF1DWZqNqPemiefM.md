@@ -2,9 +2,9 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: maya ongaku
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: 香田悠真
 
-1,106 songs - 3 day 11 hr 9 min
+1,107 songs - 3 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Im Fenster \- Midori Hirano Rework](https://open.spotify.com/track/7wEObJ9W8Fz7lrSP1AzhJT) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT), [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Musikhaus](https://open.spotify.com/album/0mz36V30s8QTWCTywIZhwB) | 4:24 | 2022-03-31 | 2022-07-23 |
 | [image](https://open.spotify.com/track/4XlXZp6uLCqqIdwmkBfq1D) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [prism](https://open.spotify.com/album/6PhqghpzBPmBEfpC0hb4tZ) | 3:18 | 2022-03-31 | 2022-07-18 |
 | [Images Of Broken Light](https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Saunter](https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2) | 8:29 | 2022-04-07 | 2024-02-09 |
+| [images on loan](https://open.spotify.com/track/3cCwrAFdIQz8OcDRzGrHfO) | [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47), [Jan Urila Sas](https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [images on loan](https://open.spotify.com/album/1y3tpf16OEOfBkX3O3fDo0) | 5:39 | 2026-10-01 |  |
 | [Imagination](https://open.spotify.com/track/7C8iDfeSN2FPSR6UFORB4A) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 2](https://open.spotify.com/album/4h1Yp6ITa0R2ZAB9YTsuyL) | 6:30 | 2022-03-31 | 2022-07-24 |
 | [Immature Man feat\. Jessica](https://open.spotify.com/track/3RbP2aUgLy4yh9xn4vHZYC) | [mergrim](https://open.spotify.com/artist/6gqK0fYOSvYEZlbkuf77RJ) | [Hyper Fleeting Vision](https://open.spotify.com/album/29rUFQ0LBIygUr8RikaP4n) | 5:24 | 2022-03-31 | 2022-04-07 |
 | [Immature Man feat\. Jessica](https://open.spotify.com/track/3mVnT0ApPTx8SdwMdizMGm) | [mergrim](https://open.spotify.com/artist/6gqK0fYOSvYEZlbkuf77RJ) | [Hyper Fleeting Vision](https://open.spotify.com/album/2U4gap4CU8pO5dHls2qkPN) | 5:24 | 2022-04-07 | 2022-06-15 |

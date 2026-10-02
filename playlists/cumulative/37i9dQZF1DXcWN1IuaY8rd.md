@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Black Clover”! © 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-48 songs - 2 hr 37 min
+49 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [楽しい休日](https://open.spotify.com/track/4uf7e9p1Hwu1OqWUNuR7sT) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:41 | 2021-05-26 |  |
 | [永遠に光れ \(Everlasting Shine\)](https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [DRAMA](https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf) | 3:11 | 2021-05-26 |  |
 | [決意](https://open.spotify.com/track/19tiuT7LfjaB2s9Lo5oVP4) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:41 | 2021-05-26 |  |
+| [消えない理由](https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [消えない理由](https://open.spotify.com/album/69GUXMqIsG12AEYIg5Uy7R) | 4:09 | 2026-10-01 |  |
 | [約束](https://open.spotify.com/track/0fXgGULOSfjwOElAA8ROMz) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 3:46 | 2021-05-26 |  |
 | [花が咲く道](https://open.spotify.com/track/1BxBJCHhyGYcPLZBAaC7YE) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [花が咲く道](https://open.spotify.com/album/4lKBO464MmbFPazU6RNgV8) | 3:36 | 2021-05-26 |  |
 | [落書きペイジ](https://open.spotify.com/track/7lP713bUiokrSjRcztjzgp) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [落書きペイジ](https://open.spotify.com/album/5OlJdcTJzsJMoCSsJmIwXM) | 3:25 | 2021-05-26 |  |

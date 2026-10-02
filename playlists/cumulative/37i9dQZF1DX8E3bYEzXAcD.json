@@ -744,7 +744,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 168000,
       "name": "HOOFD HEET",
       "url": "https://open.spotify.com/track/4vzRLazetY00bIIND51cbG"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 142718,
       "name": "Predator",
       "url": "https://open.spotify.com/track/0GIjjiXik7G0QuLmweZboU"
@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Spoedassistentie",
+        "url": "https://open.spotify.com/album/3Ptv43L9PQuODramS9VNXF"
+      },
+      "artists": [
+        {
+          "name": "BVL",
+          "url": "https://open.spotify.com/artist/0uh9dHfZu6d53AyFVaFolJ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127659,
+      "name": "Spoedassistentie",
+      "url": "https://open.spotify.com/track/581t1W6xIiTafsksdcSbi9"
+    },
+    {
+      "album": {
         "name": "Sporttassen",
         "url": "https://open.spotify.com/album/1C5I6oWWNGOHJqFFlMYsMv"
       },
@@ -1548,6 +1566,24 @@
       "duration_ms": 200794,
       "name": "Terug Naar Toen (feat. Lijpe)",
       "url": "https://open.spotify.com/track/78MjdEavkSKQCungaxkd7V"
+    },
+    {
+      "album": {
+        "name": "TOPFIT",
+        "url": "https://open.spotify.com/album/51IDT6haSxJgdBw0Ncp4ZV"
+      },
+      "artists": [
+        {
+          "name": "C7EVN",
+          "url": "https://open.spotify.com/artist/1x3tuAfcbsouIU4tcaSKFw"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77024,
+      "name": "TOPFIT",
+      "url": "https://open.spotify.com/track/6FLujRTgsyT07W57DzfziG"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 75264,
+  "num_followers": 75269,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACxSte6Vcl9HebIkhAaRzF9",
+  "snapshot_id": "arxRAAAAAAC914vRuzqfCb8fw2mUb5h8",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I WANNA BE YOUR SLAVE (with Iggy Pop)",
-        "url": "https://open.spotify.com/album/7B8oP2SSsvnshUidrYYgqg"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 171905,
-      "name": "I WANNA BE YOUR SLAVE (with Iggy Pop)",
-      "url": "https://open.spotify.com/track/1ojRut8t5RYNmLpJkEdJ3V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Sexorcisto: Devil Music Volume 1",
         "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 289000,
       "name": "Black Sunshine",
       "url": "https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I WANNA BE YOUR SLAVE (with Iggy Pop)",
+        "url": "https://open.spotify.com/album/7B8oP2SSsvnshUidrYYgqg"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 171905,
+      "name": "I WANNA BE YOUR SLAVE (with Iggy Pop)",
+      "url": "https://open.spotify.com/track/1ojRut8t5RYNmLpJkEdJ3V"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 314186,
-      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 219831,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 314186,
+      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Everybody's Talkin'",
-      "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 221374,
       "name": "Some Weird Sin",
       "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Everybody's Talkin'",
+      "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Les Feuilles Mortes",
-      "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 392160,
       "name": "Fall In Love With Me",
       "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Les Feuilles Mortes",
+      "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 308927,
-      "name": "China Girl",
-      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 146598,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 308927,
+      "name": "China Girl",
+      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 260030,
-      "name": "Sister Midnight",
-      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Caesar",
         "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 228466,
       "name": "Louie Louie",
       "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 260030,
+      "name": "Sister Midnight",
+      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arista Heritage Series: Iggy Pop",
-        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
       "artists": [
         {
@@ -632,25 +632,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 167560,
-      "name": "I'm Bored",
-      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 174578,
-      "name": "Funtime",
-      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
       "artists": [
         {
@@ -684,9 +668,25 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 227166,
-      "name": "Morning Show",
-      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
+      "duration_ms": 174578,
+      "name": "Funtime",
+      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arista Heritage Series: Iggy Pop",
+        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "I'm Bored",
+      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
       "duration_ms": 245866,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome To Goran Bregovic",
+        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 163013,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome To Goran Bregovic",
-        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 238387,
-      "name": "Chocolate Drops",
-      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R\u00e9sistance",
         "url": "https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C"
       },
@@ -847,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blah-Blah-Blah",
-        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
       "artists": [
         {
@@ -856,9 +840,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 357706,
-      "name": "Shades",
-      "url": "https://open.spotify.com/track/7FhazKWdLIXBTHOxl6tpjK"
+      "duration_ms": 238387,
+      "name": "Chocolate Drops",
+      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
     },
     {
       "added_at": null,
@@ -875,6 +859,22 @@
       "duration_ms": 172880,
       "name": "I Want To Go To The Beach",
       "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blah-Blah-Blah",
+        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 357706,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/7FhazKWdLIXBTHOxl6tpjK"
     }
   ],
   "unique_name": "This Is Iggy Pop",

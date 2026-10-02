@@ -9013,6 +9013,32 @@
     },
     {
       "album": {
+        "name": "FAKKAD",
+        "url": "https://open.spotify.com/album/3vjgZRCW0YDN0qi9jZGIco"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "KLIKK",
+          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
+        },
+        {
+          "name": "90/10",
+          "url": "https://open.spotify.com/artist/6Uo7u0FA40dcI0cFbgLrNX"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "FAKKAD",
+      "url": "https://open.spotify.com/track/5LjgVe34rt0WVnEPFuWiIi"
+    },
+    {
+      "album": {
         "name": "FAKKBOI (Skaka rumpa)",
         "url": "https://open.spotify.com/album/4xH17FsmjiBVdkXMEa9OTa"
       },

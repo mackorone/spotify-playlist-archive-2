@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 90450,
+  "num_followers": 90457,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Getting By",
-        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Troubled Water",
-      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "I Can See The Future",
         "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 289653,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Getting By",
+        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Collarbones",
+        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
+      },
+      "artists": [
+        {
+          "name": "Anna Hamilton",
+          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
+        }
+      ],
+      "duration_ms": 180947,
+      "name": "Collarbones",
+      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Everyone Around Me Dancing",
         "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Collarbones",
-        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
+        "name": "Beneath The Lilypad",
+        "url": "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
       },
       "artists": [
         {
-          "name": "Anna Hamilton",
-          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
+          "name": "Alexandra Savior",
+          "url": "https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa"
         }
       ],
-      "duration_ms": 180947,
-      "name": "Collarbones",
-      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+      "duration_ms": 224130,
+      "name": "Goodbye, Old Friend",
+      "url": "https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Beneath The Lilypad",
-        "url": "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Savior",
-          "url": "https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa"
-        }
-      ],
-      "duration_ms": 224130,
-      "name": "Goodbye, Old Friend",
-      "url": "https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 190923,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "My Maker",
-        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 259842,
-      "name": "My Maker",
-      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1355,6 +1339,22 @@
       "duration_ms": 321140,
       "name": "Where\u2019s Your Love Now - Waxahatchee Version",
       "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "One More Cowboy",
-        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "One More Cowboy",
-      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "tell me something",
         "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 237426,
       "name": "tell me something",
       "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1511,34 +1511,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+        "name": "One More Cowboy",
+        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 235000,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+      "duration_ms": 219973,
+      "name": "One More Cowboy",
+      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1555,6 +1539,22 @@
       "duration_ms": 174087,
       "name": "Nothing Comes Easy",
       "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
     },
     {
       "added_at": "2026-09-04 04:02:01",

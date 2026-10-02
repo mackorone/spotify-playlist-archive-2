@@ -1,12 +1,12 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beast In Black \n",
-  "num_followers": 824908,
+  "num_followers": 824934,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAANiEudLJS6E5H/reIoTUVElWsfP",
+  "snapshot_id": "AAAAADVleM2W6aDwdb1gmOfEalDSIqbM",
   "tracks": [
     {
       "added_at": "2026-09-22 01:57:25",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Who Wants to Burn in Heaven",
-        "url": "https://open.spotify.com/album/6ZMVbpaOeHkKr4AfJCtJ9v"
-      },
-      "artists": [
-        {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
-        }
-      ],
-      "duration_ms": 236872,
-      "name": "Who Wants to Burn in Heaven",
-      "url": "https://open.spotify.com/track/5fa6nwSGPq7hd6BDOuSHad"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Tower: Lean Into Fear",
         "url": "https://open.spotify.com/album/2UAeb1Fo9EqKHbHxRRZ85v"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 201608,
       "name": "The Tower: Lean Into Fear",
       "url": "https://open.spotify.com/track/1P4Iv9OYmZ8BEhjFquGHML"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Who Wants to Burn in Heaven",
+        "url": "https://open.spotify.com/album/6ZMVbpaOeHkKr4AfJCtJ9v"
+      },
+      "artists": [
+        {
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+        }
+      ],
+      "duration_ms": 236872,
+      "name": "Who Wants to Burn in Heaven",
+      "url": "https://open.spotify.com/track/5fa6nwSGPq7hd6BDOuSHad"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
       },
       "artists": [
         {
-          "name": "Ignea",
-          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
         }
       ],
-      "duration_ms": 320546,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
+      "duration_ms": 249600,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
       },
       "artists": [
         {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+          "name": "Ignea",
+          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
+      "duration_ms": 320546,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "Deified",
+        "url": "https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "Deified",
+      "url": "https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "Oceans Above, Stars Below",
         "url": "https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Deified",
-        "url": "https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn"
-      },
-      "artists": [
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "Deified",
-      "url": "https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Ophelia (feat. SHAOLIN G)",
-        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
-      },
-      "artists": [
-        {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
-        }
-      ],
-      "duration_ms": 288018,
-      "name": "Ophelia - feat. SHAOLIN G",
-      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Kings of Ragnar\u00f6k",
         "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 234775,
       "name": "Dance with the Devil",
       "url": "https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Thunderfist Chronicles (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 263121,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "In The Eyes Of The Enemy",
         "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "The Thunderfist Chronicles (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 263121,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "Warning Sign",
         "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Sorrowbreaker",
-        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH"
       },
       "artists": [
         {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+          "name": "Nocturna",
+          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
         }
       ],
-      "duration_ms": 177640,
-      "name": "Retrospectator",
-      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
+      "duration_ms": 234790,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO"
     }
   ],
   "unique_name": "Epic & Melodic",

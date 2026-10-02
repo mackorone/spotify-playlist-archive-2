@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 36 | [Reverse the Curse](https://open.spotify.com/track/1scT2ygrMOMDXBVAiYaxte) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 3:54 |
 | 37 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 |
 
-Snapshot ID: `armuAAAAAACSAffv6pbTmd7FS98gEAXJ`
+Snapshot ID: `arxRAAAAAABY7XBkfk7BhQSix1031Z7z`

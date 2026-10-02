@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers.",
-  "num_followers": 173565,
+  "num_followers": 173621,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "En Ik Droom",
-        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "En Ik Droom",
-      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Gevangenis",
         "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 164305,
       "name": "Gevangenis",
       "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "En Ik Droom",
+        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "En Ik Droom",
+      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Jouw Glimlach Op Je Mond",
-        "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
-      },
-      "artists": [
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Lekkerding",
-      "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Zoutelande (feat. Geike)",
         "url": "https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 223266,
       "name": "Zoutelande (feat. Geike)",
       "url": "https://open.spotify.com/track/0le8EcVp4x1JjMhwRKIOVi"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Jouw Glimlach Op Je Mond",
+        "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Lekkerding",
+      "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Gina",
-        "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
-      },
-      "artists": [
-        {
-          "name": "Robert Pater",
-          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Gina",
-      "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "GAP",
         "url": "https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 131270,
       "name": "GAP",
       "url": "https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Gina",
+        "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
+      },
+      "artists": [
+        {
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Gina",
+      "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
@@ -1587,38 +1603,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Spijt Is Voor Later",
-        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
-      },
-      "artists": [
-        {
-          "name": "Martin Morero",
-          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "Spijt Is Voor Later",
-      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Leef",
         "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 217902,
       "name": "Leef",
       "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Spijt Is Voor Later",
+        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "Spijt Is Voor Later",
+      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1671,8 +1671,8 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
       },
       "artists": [
         {
@@ -1680,9 +1680,9 @@
           "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2026-09-24 22:08:52",

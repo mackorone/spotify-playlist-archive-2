@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 357 likes - 2,697 songs - 6 day 13 hr 28 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,704 songs - 6 day 13 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2705,5 +2705,12 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2695 | [Bababoom Dub \(Melodica Cut\)](https://open.spotify.com/track/4lkg4jKhgYoO7M6pjgHajj) | [Dubmaster Conte](https://open.spotify.com/artist/12Ms9bkvJpFIpOFN6V8ZYl) | [No more Gunmen / Bababoom Dub](https://open.spotify.com/album/3Tnqm0VucHtZLb73asZEZS) | 4:45 |
 | 2696 | [Stronger](https://open.spotify.com/track/4DxIC2HyDj5boedcLIsDPd) | [Anayah Roots Levi](https://open.spotify.com/artist/2sYjFt5ayyIACrgzhcRLOO), [Costa Rebel](https://open.spotify.com/artist/4Yg4PNWpQZ3O3dkp7iz4Rz) | [Stronger](https://open.spotify.com/album/71ejRGSc6Q0IpW3BIve6MU) | 3:16 |
 | 2697 | [War Profiteers](https://open.spotify.com/track/2W7PCkxw20Y6CWpeeoyIzf) | [DAB David Asher Band](https://open.spotify.com/artist/0GhS6P8ikbiR0G2hulvtRA) | [War Profiteers](https://open.spotify.com/album/4tUZa025xjAYF6ZmSO9W00) | 4:24 |
+| 2698 | [Aevum Medium](https://open.spotify.com/track/5qwZEYgJZ366UkX5YDjbnk) | [Unfaded Studios](https://open.spotify.com/artist/3RQD5dw9Hz1imOaVda6H59) | [Nova Harmonia](https://open.spotify.com/album/6S2MXVx4gv8cASdmhi736H) | 3:32 |
+| 2699 | [Na Frente do Espelho](https://open.spotify.com/track/71TOZHtqWHbhPP03FalZL6) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp), [CafeBeatz](https://open.spotify.com/artist/038xfJHWhNeAH4kzyqQJfp), [Nabala](https://open.spotify.com/artist/0PzBs4y6dIkzxs8cJczopM) | [Seven Days of Club](https://open.spotify.com/album/5oQ8v5tGtub6hP6n0PH7Xr) | 3:22 |
+| 2700 | [Sem Colete](https://open.spotify.com/track/31NEHsV1LhAfWsGnp7zjeF) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp), [Liu Danger](https://open.spotify.com/artist/0LQetgRtKnELT97tMBN7Hb) | [Sem Colete](https://open.spotify.com/album/6eb6dZIFKLhOhsS8qZ1nBH) | 2:22 |
+| 2701 | [6 pra 1](https://open.spotify.com/track/5WLZFdt1RP9jUHLj889x6I) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp), [cafebeatz](https://open.spotify.com/artist/3m4jbkTfRPKAQXCkgzg94H) | [6 pra 1](https://open.spotify.com/album/7dgBQlumcIgv2d2WPpoNeq) | 2:40 |
+| 2702 | [Vacant \(Speed Up\)](https://open.spotify.com/track/0VW5Bt2TGWD1QsVl6fRJPz) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp) | [Vacant \(Speed Up\)](https://open.spotify.com/album/3Omc7jeA2xXV72r2ncAZ3S) | 2:04 |
+| 2703 | [Space X](https://open.spotify.com/track/387FtDh7ZIbIwgXBfdfPmY) | [Cinco Dois Zero](https://open.spotify.com/artist/44HTfgo1d0O6reBV1z8YVO), [Nabala](https://open.spotify.com/artist/0PzBs4y6dIkzxs8cJczopM), [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp), [Liu Danger](https://open.spotify.com/artist/0LQetgRtKnELT97tMBN7Hb), [Yan Nader](https://open.spotify.com/artist/0eDUVIpntIqofaWpnCFKUw) | [Space X](https://open.spotify.com/album/7ICLez2eWGoMPp7zPS0AV6) | 2:12 |
+| 2704 | [Algo Contigo](https://open.spotify.com/track/0r61mAhpd4fQxpZZj894NY) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:46 |
 
-Snapshot ID: `AAALjpg5NFpEF6jHQKWAw6Qnjwsq78pO`
+Snapshot ID: `AAALlS5Z0feWOWr0nnmkCBA0VD99az2G`

@@ -7433,6 +7433,24 @@
     },
     {
       "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/6r4dYbixrT4in4ObZ8kvlv"
+      },
+      "artists": [
+        {
+          "name": "Shane O",
+          "url": "https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129596,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0TZydi6BMu79bLSY6QOoh4"
+    },
+    {
+      "album": {
         "name": "The Essential",
         "url": "https://open.spotify.com/album/1SNwkb5nYGoI3pVzV3GFnv"
       },

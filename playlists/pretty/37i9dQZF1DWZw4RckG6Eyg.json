@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2025 that we can't get enough of. Cover: she's green",
-  "num_followers": 47395,
+  "num_followers": 47408,
   "original_name": "Indie Editors' Hyperfixations of 2025 ",
   "owner": {
     "name": "Spotify",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe"
       },
       "artists": [
         {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Adagio",
-      "url": "https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX"
+      "duration_ms": 200053,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -543,18 +543,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe"
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
       "artists": [
         {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
+      "duration_ms": 176026,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Groupie",
-        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 172415,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "If That Makes Sense",
         "url": "https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 205412,
       "name": "Estimated Delivery",
       "url": "https://open.spotify.com/track/1GIDMzcU9cvO5j7f1kuT4Z"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 172415,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Slugger",
-        "url": "https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j"
-      },
-      "artists": [
-        {
-          "name": "Derby",
-          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
-        }
-      ],
-      "duration_ms": 172690,
-      "name": "Two Step",
-      "url": "https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Sibeeria",
         "url": "https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 171732,
       "name": "Sibeeria",
       "url": "https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j"
+      },
+      "artists": [
+        {
+          "name": "Derby",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+        }
+      ],
+      "duration_ms": 172690,
+      "name": "Two Step",
+      "url": "https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -895,22 +895,6 @@
       "duration_ms": 242000,
       "name": "See You Around",
       "url": "https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
-      },
-      "artists": [
-        {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -967,6 +951,22 @@
       "duration_ms": 191365,
       "name": "Keep Falling in Love",
       "url": "https://open.spotify.com/track/2s0skXthOtkbPfyiwBf7a0"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
+      },
+      "artists": [
+        {
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+        }
+      ],
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Pieces of Yours",
-        "url": "https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve"
-      },
-      "artists": [
-        {
-          "name": "Mackeeper",
-          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
-        }
-      ],
-      "duration_ms": 110186,
-      "name": "Pieces of Yours",
-      "url": "https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Should've known better (choices)",
         "url": "https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+        "name": "Pieces of Yours",
+        "url": "https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
         }
       ],
-      "duration_ms": 202336,
-      "name": "Baby You're Lying",
-      "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
+      "duration_ms": 110186,
+      "name": "Pieces of Yours",
+      "url": "https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1331,6 +1315,22 @@
       "duration_ms": 221355,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 202336,
+      "name": "Baby You're Lying",
+      "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Patience, Moonbeam",
-        "url": "https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct"
-      },
-      "artists": [
-        {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
-        }
-      ],
-      "duration_ms": 240093,
-      "name": "Junior",
-      "url": "https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Death of a Daisy & Birth of an Oyster",
         "url": "https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 394906,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/4eq7tRIuWqgMBI2I3juWZc"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Patience, Moonbeam",
+        "url": "https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Junior",
+      "url": "https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR"
     },
     {
       "added_at": "2025-12-03 12:16:12",

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Ben PLG",
-  "num_followers": 401507,
+  "num_followers": 401538,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 165121,
+      "name": "Empty Stadium",
+      "url": "https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "IMALI",
         "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 210000,
       "name": "Make believe",
       "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 165121,
-      "name": "Empty Stadium",
-      "url": "https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "shelf",
-        "url": "https://open.spotify.com/album/1KicOJNEbUvra2jXrkDMW8"
-      },
-      "artists": [
-        {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "rentier",
-      "url": "https://open.spotify.com/track/6rqSnCp6aG6YKekjp3vIlS"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "Air / Lemonder / Viper",
         "url": "https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "shelf",
+        "url": "https://open.spotify.com/album/1KicOJNEbUvra2jXrkDMW8"
+      },
+      "artists": [
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "rentier",
+      "url": "https://open.spotify.com/track/6rqSnCp6aG6YKekjp3vIlS"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Lucky[Hymn]",
         "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
       },
@@ -307,6 +307,26 @@
       "duration_ms": 228492,
       "name": "Lucky[Hymn]",
       "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "PA' TOUCH - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 172775,
+      "name": "PA' TOUCH - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -347,6 +367,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Ta peau",
         "url": "https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K"
       },
@@ -379,22 +415,26 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "PA' TOUCH - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu"
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
       },
       "artists": [
         {
-          "name": "Ino Casablanca",
-          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
         }
       ],
-      "duration_ms": 172775,
-      "name": "PA' TOUCH - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM"
+      "duration_ms": 224206,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -419,6 +459,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Don Junio",
+        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
+      },
+      "artists": [
+        {
+          "name": "D Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+        }
+      ],
+      "duration_ms": 186772,
+      "name": "Don Junio",
+      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Cognac en canette",
         "url": "https://open.spotify.com/album/7nqiskDa1LZCOodbo1mvuP"
       },
@@ -439,22 +495,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Don Junio",
-        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
-      },
-      "artists": [
-        {
-          "name": "D Juno",
-          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
-        }
-      ],
-      "duration_ms": 186772,
-      "name": "Don Junio",
-      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "velib'bleu",
         "url": "https://open.spotify.com/album/2s3JW4L4ZpOvFC46pDSD3N"
       },
@@ -467,22 +507,6 @@
       "duration_ms": 203491,
       "name": "velib'bleu",
       "url": "https://open.spotify.com/track/4IeQKn5Lti8iobHsBdYUYu"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "sentinel",
-        "url": "https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 206501,
-      "name": "sentinel",
-      "url": "https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -503,6 +527,22 @@
       "duration_ms": 185634,
       "name": "305",
       "url": "https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "sentinel",
+        "url": "https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 206501,
+      "name": "sentinel",
+      "url": "https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -539,30 +579,6 @@
       "duration_ms": 212626,
       "name": "Quand est-ce qu'on oublie qu'on aime",
       "url": "https://open.spotify.com/track/6QiCYnNjyD0dmnNBPIytt3"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Love Triangle",
-        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        }
-      ],
-      "duration_ms": 224206,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -607,6 +623,26 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "NODA: le monde et les humains",
+        "url": "https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW"
+      },
+      "artists": [
+        {
+          "name": "Ptite Soeur",
+          "url": "https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC"
+        },
+        {
+          "name": "neophron",
+          "url": "https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "SttttRANGERENDER",
+      "url": "https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "le pr\u00e9sident s'en balek",
         "url": "https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8"
       },
@@ -623,22 +659,6 @@
       "duration_ms": 184165,
       "name": "le pr\u00e9sident s'en balek",
       "url": "https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Le Plus Beau",
-        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 168935,
-      "name": "Le Plus Beau",
-      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -683,6 +703,22 @@
       "duration_ms": 135363,
       "name": "All Mine (with Hatsune Miku, MOLIY, & jon-YAKITORY)",
       "url": "https://open.spotify.com/track/0q9RzA7nCzsa8fQX7myDYw"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 168935,
+      "name": "Le Plus Beau",
+      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -764,12 +800,16 @@
           "url": "https://open.spotify.com/artist/5MwUZ1q0Mt3va7pdO2f7sp"
         },
         {
-          "name": "Big Balth",
-          "url": "https://open.spotify.com/artist/6FFSLabqhoVVvPgjXjc81w"
+          "name": "Adelmark",
+          "url": "https://open.spotify.com/artist/7BcxOPYyeJs3on84qmaw8x"
         },
         {
           "name": "Alphonse",
           "url": "https://open.spotify.com/artist/1vflDHhlQInEkhbP4wFuc7"
+        },
+        {
+          "name": "SW",
+          "url": "https://open.spotify.com/artist/1xxvvhHpasKr4xi4AKshuv"
         },
         {
           "name": "SOYUZ",
@@ -780,33 +820,13 @@
           "url": "https://open.spotify.com/artist/55G2MTYscoGPlgKl7FlppS"
         },
         {
-          "name": "SW",
-          "url": "https://open.spotify.com/artist/1xxvvhHpasKr4xi4AKshuv"
+          "name": "Big Balth",
+          "url": "https://open.spotify.com/artist/6FFSLabqhoVVvPgjXjc81w"
         }
       ],
       "duration_ms": 206973,
       "name": "Une seule fois",
       "url": "https://open.spotify.com/track/6LHRg5NWxPK0h7TdlulPVq"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "NODA: le monde et les humains",
-        "url": "https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW"
-      },
-      "artists": [
-        {
-          "name": "Ptite Soeur",
-          "url": "https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC"
-        },
-        {
-          "name": "neophron",
-          "url": "https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "SttttRANGERENDER",
-      "url": "https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -827,22 +847,6 @@
       "duration_ms": 128733,
       "name": "Parler pour rien dire en Am",
       "url": "https://open.spotify.com/track/506mNiqZNvaOOQh3eeuQg1"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 193716,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
     }
   ],
   "unique_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",

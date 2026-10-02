@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 740852,
+  "num_followers": 741060,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 224460,
-      "name": "Place To Hide",
-      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "From Paris With Love",
         "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 288693,
       "name": "From Paris With Love - Single Version",
       "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 224460,
+      "name": "Place To Hide",
+      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 329306,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Be Still My Heart",
-      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "First Song",
         "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 283586,
       "name": "First Song",
       "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Be Still My Heart",
+      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "La belle vie - The Good Life",
         "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Edelweiss",
-        "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/7ojnM0aUTEKZYxwVwOrheU"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 276589,
       "name": "The Shadow Of Your Smile",
       "url": "https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Just a Little Lovin'",
+        "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 289670,
+      "name": "Just a Little Lovin\u2019",
+      "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1347,22 +1363,6 @@
       "duration_ms": 172080,
       "name": "Make It Another Old Fashioned, Please",
       "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Just a Little Lovin'",
-        "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 289670,
-      "name": "Just a Little Lovin\u2019",
-      "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "Next Time",
         "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
@@ -1423,18 +1439,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
       },
       "artists": [
         {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        },
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
         }
       ],
-      "duration_ms": 160626,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
+      "duration_ms": 406554,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1547,26 +1567,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Dedicated To You",
-        "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        },
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 406554,
-      "name": "Autumn Serenade",
-      "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Nice Girls Don't Stay for Breakfast",
         "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Baby Won't You Please Come Home",
-        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "The Best of Blu",
         "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 170000,
       "name": "Girl from Ipanema",
       "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "The Moon, the Stars and You",
         "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 283413,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
     },
     {
       "added_at": "2026-09-21 13:07:00",

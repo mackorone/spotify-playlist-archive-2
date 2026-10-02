@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-383 songs - 19 hr 30 min
+384 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,8 +124,9 @@
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2021-12-03 | 2023-02-01 |
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-31 | 2025-03-05 |
 | [FVN!](https://open.spotify.com/track/4lGOHDJr4PvUguwpMxjzlu) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [FVN!](https://open.spotify.com/album/4HrAnkSKPbpAhsJcp7bXSJ) | 3:10 | 2021-12-03 | 2022-07-29 |
-| [Gabber Love](https://open.spotify.com/track/0Lx5jXhypCz0fsraGYG6Y0) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Dutch Hardcore](https://open.spotify.com/album/61o3udqQJpabwIaRfPUIih) | 1:55 | 2026-07-31 |  |
+| [Gabber Love](https://open.spotify.com/track/0Lx5jXhypCz0fsraGYG6Y0) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Dutch Hardcore](https://open.spotify.com/album/61o3udqQJpabwIaRfPUIih) | 1:55 | 2026-07-31 | 2026-10-02 |
 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 | 2022-04-14 | 2022-07-29 |
+| [gay allegations ft\. my girlfriend](https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld) | [OK MICKEY](https://open.spotify.com/artist/5wqzQ2vZdhoZRAnvT463PC) | [gay allegations ft\. my girlfriend](https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3) | 1:59 | 2026-10-02 |  |
 | [Get Motivated ft\. jstlbby](https://open.spotify.com/track/3Z2Fv9bPjtEdKpxVUzAToD) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN), [jstlbby](https://open.spotify.com/artist/5BLDZvqf1kjdGL4jwFhAk5) | [Get Motivated ft\. jstlbby](https://open.spotify.com/album/72i0l28kBTOIaYKC84tMGG) | 2:24 | 2024-10-18 |  |
 | [Girls](https://open.spotify.com/track/0Nb5ft0OdmZMNJnaEkpxB6) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [You're Invited](https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs) | 1:59 | 2024-08-16 | 2024-10-26 |
 | [Give It To Me](https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq) | [Mckyyy](https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug) | [Give It To Me](https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5) | 2:51 | 2022-12-28 | 2023-01-14 |

@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 218666,
       "name": "El Men2 Remix",
       "url": "https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY"
@@ -2136,6 +2136,28 @@
       "duration_ms": 218613,
       "name": "Loco por Bailar Contigo",
       "url": "https://open.spotify.com/track/60gPl3tlOQgfzq9BMecpVS"
+    },
+    {
+      "album": {
+        "name": "LOS CISNES",
+        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        },
+        {
+          "name": "Carlos Varela",
+          "url": "https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152166,
+      "name": "LOS CISNES",
+      "url": "https://open.spotify.com/track/3qcfLvSWUs51GYPuXXpo7I"
     },
     {
       "album": {

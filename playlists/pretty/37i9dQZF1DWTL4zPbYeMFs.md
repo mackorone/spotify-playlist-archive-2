@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > Music, laughter and happiness all around on your special day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,585 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,623 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 70 | [Piya Tose Naina Laage Re Unplugged](https://open.spotify.com/track/4Koh5awXrYiWcfpQ3FOGaf) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Sanket Naik](https://open.spotify.com/artist/1Gcm9bmpbQ9zsJEFXKz6lR), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Piya Tose Naina Laage Re Unplugged \- Jonita Gandhi](https://open.spotify.com/album/354fPU4JJWaRna84lIe4Np) | 3:28 |
 | 71 | [Lagdi Hai Thaai](https://open.spotify.com/track/4hY8QWl3BGv83htRjPfprx) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Lagdi Hai Thaai \(From "Simran"\)](https://open.spotify.com/album/72iWZXfl5gkum49zQAkdHl) | 2:45 |
 | 72 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
-| 73 | [Agar Tum Saath Ho\-Maahi Ve](https://open.spotify.com/track/7E8emnJJGI1JLN7ClE5nmC) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [T\-Series Mixtape](https://open.spotify.com/album/29plpgMqtx10CBwMzOvRLW) | 4:32 |
-| 74 | [Chhup Gaya](https://open.spotify.com/track/7CPt1MsPdOE1x3LbMLgR17) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Hum Aapke Dil Mein Rahte Hain](https://open.spotify.com/album/0ZC15ASM2GUrvupE1eJRhp) | 6:42 |
+| 73 | [Chhup Gaya](https://open.spotify.com/track/7CPt1MsPdOE1x3LbMLgR17) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Hum Aapke Dil Mein Rahte Hain](https://open.spotify.com/album/0ZC15ASM2GUrvupE1eJRhp) | 6:42 |
+| 74 | [Agar Tum Saath Ho\-Maahi Ve](https://open.spotify.com/track/7E8emnJJGI1JLN7ClE5nmC) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [T\-Series Mixtape](https://open.spotify.com/album/29plpgMqtx10CBwMzOvRLW) | 4:32 |
 | 75 | [Tum Se](https://open.spotify.com/track/0pDiRD9YE6PZBBgjMyezvk) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Indraneel](https://open.spotify.com/artist/7xcbCUOXrxDyWxbYxPq60B) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 4:24 |
 
 Snapshot ID: `AAAAAFaEdNB+zxloLvx6PBora4Y5Fz34`

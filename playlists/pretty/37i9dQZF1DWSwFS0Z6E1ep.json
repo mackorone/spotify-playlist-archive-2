@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 312150,
+  "num_followers": 312176,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Buddy Knox",
-        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
-      },
-      "artists": [
-        {
-          "name": "Buddy Knox",
-          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
-        }
-      ],
-      "duration_ms": 135173,
-      "name": "Party Doll",
-      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Best Of Duane Eddy",
         "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 153533,
       "name": "Rebel Rouser",
       "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Buddy Knox",
+        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Knox",
+          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
+        }
+      ],
+      "duration_ms": 135173,
+      "name": "Party Doll",
+      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
     },
     {
       "added_at": "2022-06-07 05:25:13",

@@ -6133,6 +6133,24 @@
     },
     {
       "album": {
+        "name": "Meilenweit",
+        "url": "https://open.spotify.com/album/1TmoVo8WK6vzjeTp3BcvRO"
+      },
+      "artists": [
+        {
+          "name": "Kim Lemmi",
+          "url": "https://open.spotify.com/artist/6mTq0dGgR6kzjuSHyvb5rC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Meilenweit",
+      "url": "https://open.spotify.com/track/1EfApxJJ5UWjiqH0CBaRgS"
+    },
+    {
+      "album": {
         "name": "Aquatic Ballet",
         "url": "https://open.spotify.com/album/5J8qlAxbu3hczWlNi0CuY8"
       },
@@ -6482,7 +6500,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 154070,
       "name": "Mundo Feliz",
       "url": "https://open.spotify.com/track/1p6iZYXOelfUiGPrz602d9"
@@ -8163,6 +8181,24 @@
     },
     {
       "album": {
+        "name": "Shouting with a Whisper",
+        "url": "https://open.spotify.com/album/0wWfFcMUyMDWAQd0pm7rV1"
+      },
+      "artists": [
+        {
+          "name": "Lovebugs",
+          "url": "https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205667,
+      "name": "Shouting with a Whisper",
+      "url": "https://open.spotify.com/track/5s9VItQqugAg3FYacTU61O"
+    },
+    {
+      "album": {
         "name": "Shut The Door",
         "url": "https://open.spotify.com/album/4abBmQtwJmK6UdoMzzqykF"
       },
@@ -8300,7 +8336,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 144373,
       "name": "Since We Met",
       "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
@@ -9762,7 +9798,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194750,
       "name": "Type Of Way",
       "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
@@ -10566,6 +10602,24 @@
       "duration_ms": 205794,
       "name": "WHERE\u2019S THE FUN?",
       "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5mj3HWXKVQiU6kQcl5infd"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2wuD1A8AAc9t3y8SZvMCM0"
     },
     {
       "album": {

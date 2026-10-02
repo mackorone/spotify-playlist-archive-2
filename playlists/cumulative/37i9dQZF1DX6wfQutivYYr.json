@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sfera in cover della playlist con tutte le hit \ud83d\udd25",
+  "description": "BLANCO in cover della playlist con tutte le hit \ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 140000,
       "name": "Cuore rotto",
       "url": "https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN"
@@ -5305,6 +5305,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -6560,7 +6578,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 117293,
       "name": "Splinter Cell",
       "url": "https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK"
@@ -7350,6 +7368,24 @@
       "duration_ms": 240572,
       "name": "Un mondo a parte",
       "url": "https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr"
+    },
+    {
+      "album": {
+        "name": "Una bara per due",
+        "url": "https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286528,
+      "name": "Una bara per due",
+      "url": "https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW"
     },
     {
       "album": {

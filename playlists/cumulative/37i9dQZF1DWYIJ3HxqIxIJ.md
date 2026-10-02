@@ -2,7 +2,7 @@
 
 ### [RADAR AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYIJ3HxqIxIJ)
 
-> Local artists you need to watch, handpicked by our editors\. Cover: Lewis Love
+> Local artists you need to watch, handpicked by our editors\. Cover: Becca Hatch
 
 624 songs - 1 day 9 hr 26 min
 

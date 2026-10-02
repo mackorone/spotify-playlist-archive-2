@@ -4,7 +4,7 @@
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-56 songs - 3 hr 39 min
+58 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [さよならエレジー](https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [PLAY\(Special Edition\)](https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov) | 4:17 | 2026-07-09 |  |
 | [はあとぶれいく](https://open.spotify.com/track/5nofQAlk7aSin5fZvkM3Vv) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [すとーりーず](https://open.spotify.com/album/5jXQZzyi9xsndYnQsIGrQr) | 3:14 | 2025-05-29 |  |
 | [ばらの花](https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [TEAM ROCK](https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB) | 5:01 | 2025-12-03 |  |
+| [みずいろの雨](https://open.spotify.com/track/5G994fn8VNNtY0e54KmV03) | [Junko Yagami](https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr) | [みずいろの雨](https://open.spotify.com/album/5pbyhAVgOlPh20GJUlgDpI) | 3:24 | 2026-10-01 |  |
 | [アイラブ言う](https://open.spotify.com/track/0qNo1ESxfogTbOfMG3yyMD) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いまも忘れらんねえよ。 \(DISC 1\)](https://open.spotify.com/album/4dSwmPzbEQH3RORFTzboci) | 3:25 | 2026-07-09 |  |
 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 | 2025-09-03 |  |
 | [エンジェルベイビー](https://open.spotify.com/track/1chQj8QU3onRnLz9dGuCwk) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [ねえみんな大好きだよ](https://open.spotify.com/album/02oMXyO7O6Xz0yJ3VwOXkX) | 4:55 | 2025-05-29 |  |
@@ -54,6 +55,7 @@
 | [死ぬまでに俺がやりたいこと](https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [死ぬまでに俺がやりたいこと](https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0) | 1:40 | 2025-06-03 |  |
 | [気分上々↑↑](https://open.spotify.com/track/7tkfkqKfWtU1GIoV9IY9rQ) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimagic](https://open.spotify.com/album/3ta4Q6tlcEw3PnP3Szxi7l) | 3:49 | 2025-05-29 |  |
 | [海と山椒魚](https://open.spotify.com/track/0nysLgmTTWe6PNIjlxC8gH) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 5:13 | 2025-09-03 |  |
+| [涙がこぼれそう](https://open.spotify.com/track/2grB9T5naopW5eMPvrshDq) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [涙がこぼれそう](https://open.spotify.com/album/5vfyalPQ2pX3jaI4J3LYAH) | 5:09 | 2026-10-01 |  |
 | [理由なき反抗（The Rebel Age）](https://open.spotify.com/track/0SqitAI6LbYnOhQl4alNfL) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [FUCK FOREVER](https://open.spotify.com/album/5dAbHMKxxsRhtGqP1FBJdX) | 3:47 | 2025-05-29 |  |
 | [生活](https://open.spotify.com/track/2ulRrm1q3izEUK29GiAb4L) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [COPY](https://open.spotify.com/album/6YoUKpYK9Jnw34lqD7J1ol) | 4:10 | 2025-05-29 |  |
 | [番狂わせ](https://open.spotify.com/track/1r8Tfhx4rDerncDQyuQBEQ) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [ACHATTER](https://open.spotify.com/album/5es0pfA2D3jnXp1v1xHHbl) | 3:36 | 2025-05-29 |  |

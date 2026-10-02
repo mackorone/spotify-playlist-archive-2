@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Greyson Chance
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,597 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,607 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SAND](https://open.spotify.com/track/32w2m2sYyVq9oglWFtgC9N) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX), [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub) | [BOYSTOWN](https://open.spotify.com/album/60JSLnbbvPhmCX6EV7MIIH) | 3:24 |
-| 2 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
+| 2 | [Never Have I Ever](https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Never Have I Ever](https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z) | 2:54 |
 | 3 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 |
 | 4 | [COME2ME](https://open.spotify.com/track/2ynasQ0XWUQbY6SXB4YGLa) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [MORELUV](https://open.spotify.com/album/4UUQZqjZ8YGDE2nNviPo0R) | 3:37 |
-| 5 | [Never Have I Ever](https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Never Have I Ever](https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z) | 2:54 |
+| 5 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
 | 6 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 |
 | 7 | [2 GIRLS](https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [2 GIRLS](https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X) | 2:09 |
 | 8 | [INFRARED](https://open.spotify.com/track/0XZQ69bAYRgJawPiMNBTMI) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [IT’S ALL FUN & GAMES](https://open.spotify.com/album/4ejxxD6YhiS5HfprFnEzYb) | 2:49 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 44 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 |
 | 45 | [LEZ GO!](https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [LEZ GO!](https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv) | 2:44 |
 | 46 | [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 |
-| 47 | [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 |
-| 48 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 |
+| 47 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 |
+| 48 | [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 |
 | 49 | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/track/4Arirl7XmsQedbiU566bWb) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/album/3QFu8PfLym8S7VgUwl5WFs) | 2:58 |
 | 50 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,934 likes - 170 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,989 likes - 170 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 169 | [Space Nova](https://open.spotify.com/track/6tGauaQ8wMi37yZ6xg5mcZ) | [Galaxies Stories](https://open.spotify.com/artist/0JgZLyaQxG308bo8e7QpY4) | [Space Nova](https://open.spotify.com/album/2Fl7Ow80SLkhk4sfeEYx9U) | 2:32 |
 | 170 | [Longing](https://open.spotify.com/track/1zudXz2b2rngXFqygbfDWz) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Longing](https://open.spotify.com/album/3krQ3bdLIciqvVRPZXJ6nn) | 2:48 |
 
-Snapshot ID: `AAAAAMOZ/2YAoBoEGJOBi1kxohYsGXnx`
+Snapshot ID: `AAAAAGl9bfVUZDhLAcU+MmAdFTJ13ach`

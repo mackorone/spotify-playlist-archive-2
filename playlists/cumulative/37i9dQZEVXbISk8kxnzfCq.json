@@ -4001,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq"
+    },
+    {
+      "album": {
         "name": "Serie Dos En Uno / Pedrito Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/5iqA0oNAb139qllw4ZNdoc"
       },
@@ -5882,7 +5900,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 276000,
       "name": "De Lejitos - Remix",
       "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
@@ -7398,7 +7416,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 245500,
       "name": "El Beneficio De La Duda",
       "url": "https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn"
@@ -8714,7 +8732,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -19128,10 +19146,32 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 162857,
       "name": "Peli De Terror",
       "url": "https://open.spotify.com/track/0JJHZJCLquYTulx3unxiUH"
+    },
+    {
+      "album": {
+        "name": "Peli De Terror",
+        "url": "https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Peli De Terror",
+      "url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf"
     },
     {
       "album": {

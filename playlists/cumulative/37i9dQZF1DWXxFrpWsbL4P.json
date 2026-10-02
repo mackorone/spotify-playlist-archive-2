@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-30",
-  "description": "Dans pisti haz\u0131r! Kapak: Amelie Lens",
+  "description": "Dans pisti haz\u0131r! Kapak: Mahmut Orhan, Francis Mercier",
   "name": "DANS 2026",
   "tracks": [
     {
@@ -62,6 +62,24 @@
       "duration_ms": 187083,
       "name": "2 This",
       "url": "https://open.spotify.com/track/2KRkXR3I8mHGeQjZYALfHK"
+    },
+    {
+      "album": {
+        "name": "Wellbeing",
+        "url": "https://open.spotify.com/album/6qQiHN58KpuEHOzNl2yF5p"
+      },
+      "artists": [
+        {
+          "name": "Murteza",
+          "url": "https://open.spotify.com/artist/3CuN1DrJQyWlGRB2iiyD4x"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353617,
+      "name": "20smth",
+      "url": "https://open.spotify.com/track/1thFpbGcSQZuTNNQTcl9g6"
     },
     {
       "album": {
@@ -236,6 +254,24 @@
       "duration_ms": 193531,
       "name": "Augment",
       "url": "https://open.spotify.com/track/4WUU44j7I8GyFI2yGvYJri"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1Ku1n9LDG5re1bAQguLoUs"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271616,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4R3dbdCQbnoEUIocGkUSyz"
     },
     {
       "album": {
@@ -569,6 +605,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4Ews6zTm1tDOD6WIEx29EK"
+      },
+      "artists": [
+        {
+          "name": "Ayca",
+          "url": "https://open.spotify.com/artist/6qoCDVOriaEFwgYxU7MaTQ"
+        },
+        {
+          "name": "Victim (SE)",
+          "url": "https://open.spotify.com/artist/1bRKWcR84pvSJo1k9Em2iX"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321774,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1nj5KZtkhWHUFME7FlDxAK"
+    },
+    {
+      "album": {
         "name": "Colors Collide",
         "url": "https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb"
       },
@@ -606,7 +664,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 197705,
       "name": "Dance Floor DNA",
       "url": "https://open.spotify.com/track/37mHvuXH3cz2Dkl23ypqbc"
@@ -742,7 +800,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 158146,
       "name": "Estarabim",
       "url": "https://open.spotify.com/track/5lc0lINgFMCSY0bDhKpniP"
@@ -826,6 +884,28 @@
       "duration_ms": 226548,
       "name": "GEN MF Z",
       "url": "https://open.spotify.com/track/5rdbyZKtaVeEKtRwUwnmKj"
+    },
+    {
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/69rkRq3gEQpP4N5DmKRHS4"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153201,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/2pDtBcRYeH0JB3KFOpIEA8"
     },
     {
       "album": {
@@ -1108,7 +1188,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 158181,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
@@ -1130,6 +1210,28 @@
       "duration_ms": 194782,
       "name": "Kick Back",
       "url": "https://open.spotify.com/track/38zkzjOEj5YZWAWgDsqRHu"
+    },
+    {
+      "album": {
+        "name": "La Boca",
+        "url": "https://open.spotify.com/album/6n3z9nSprM9Jxi2bVqAMPq"
+      },
+      "artists": [
+        {
+          "name": "Epoch",
+          "url": "https://open.spotify.com/artist/0kAPihRCLbsqXsgKyPY4mv"
+        },
+        {
+          "name": "Velise",
+          "url": "https://open.spotify.com/artist/2wQUUMlfibahlIcrr1QAAH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "La Boca",
+      "url": "https://open.spotify.com/track/2rW8bb1jJc4w4XmJ5kwHTH"
     },
     {
       "album": {
@@ -1162,7 +1264,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 295487,
       "name": "Landlords Nightmare",
       "url": "https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg"
@@ -1235,6 +1337,32 @@
     },
     {
       "album": {
+        "name": "Mahalle",
+        "url": "https://open.spotify.com/album/33QzTlcmj19p3S9dZX5aXf"
+      },
+      "artists": [
+        {
+          "name": "AMELISSA",
+          "url": "https://open.spotify.com/artist/2F8ebSiU7yJrqVhQyZOIsE"
+        },
+        {
+          "name": "Ben Hims",
+          "url": "https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6"
+        },
+        {
+          "name": "Baris Turna",
+          "url": "https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152206,
+      "name": "Mahalle",
+      "url": "https://open.spotify.com/track/0OkYyt00OEIVsChhjA6vq9"
+    },
+    {
+      "album": {
         "name": "Masal",
         "url": "https://open.spotify.com/album/35KvI7Ocqd55MaG630hMLu"
       },
@@ -1268,7 +1396,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199124,
       "name": "ME PIERDO",
       "url": "https://open.spotify.com/track/5pe3CDUHD9aJ1qUaOGLToD"
@@ -1729,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/3bDrawok1I0kejA7IBEiff"
+      },
+      "artists": [
+        {
+          "name": "Conrado Stein",
+          "url": "https://open.spotify.com/artist/3hlX8k8X5zTTkRw5icDEe3"
+        },
+        {
+          "name": "logos",
+          "url": "https://open.spotify.com/artist/1RtYA8YugrzNGCttUbOAku"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297794,
+      "name": "Sinestesia",
+      "url": "https://open.spotify.com/track/51fbu8h7ySKPdfikcW43PA"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/4maJKwCO3lJompoPySoTCZ"
       },
@@ -1810,7 +1960,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 218160,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/2a9tCgOmN6riOrMO8BGc0V"
@@ -2003,6 +2153,28 @@
     },
     {
       "album": {
+        "name": "The Ninth Sun",
+        "url": "https://open.spotify.com/album/7uxqqyPirnYrBZnpGQ65gK"
+      },
+      "artists": [
+        {
+          "name": "Rapossa",
+          "url": "https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM"
+        },
+        {
+          "name": "Solkatt",
+          "url": "https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244748,
+      "name": "The Ninth Sun",
+      "url": "https://open.spotify.com/track/44mO2qbaAGy2vs8tFEQXrK"
+    },
+    {
+      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/6Ru1NQn19EmYDMG8dGiy37"
       },
@@ -2022,7 +2194,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 180019,
       "name": "The Sound - Edit",
       "url": "https://open.spotify.com/track/5p2WCbrxJtGIyGQU1wm22c"
@@ -2062,7 +2234,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179678,
       "name": "Three",
       "url": "https://open.spotify.com/track/2b0xpf2dOP8qsRPAAEOHcw"
@@ -2110,6 +2282,24 @@
       "duration_ms": 181419,
       "name": "Tribal Flex",
       "url": "https://open.spotify.com/track/6IeAVRYmV5fdiqWySLkckg"
+    },
+    {
+      "album": {
+        "name": "Vamos",
+        "url": "https://open.spotify.com/album/6GY3RETLKBc6tvgSwDJzkF"
+      },
+      "artists": [
+        {
+          "name": "Yigit Unal",
+          "url": "https://open.spotify.com/artist/4Hv9a7a3zhheufyn7gPL2O"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/1AcMf1MxfRI6wcYLntuS71"
     },
     {
       "album": {
@@ -2242,7 +2432,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 251480,
       "name": "Wtfa",
       "url": "https://open.spotify.com/track/49dsbe6B35KEXuaAGNUove"

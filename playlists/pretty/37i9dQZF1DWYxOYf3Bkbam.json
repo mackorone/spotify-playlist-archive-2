@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 66881,
+  "num_followers": 66883,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
+        "name": "La Casa del Chamam\u00e9 - ENGANCHADO",
+        "url": "https://open.spotify.com/album/4tOknS5e4Kbgt6KY7mLm46"
+      },
+      "artists": [
+        {
+          "name": "Tomas Zacarias",
+          "url": "https://open.spotify.com/artist/38VdqF7nUdzpGEXQ0Hoxr4"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "La Casa del Chamam\u00e9 - ENGANCHADO",
+      "url": "https://open.spotify.com/track/1YFE6jB75WN6j4HaeaGKzg"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 379080,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
-        "name": "La Casa del Chamam\u00e9 - ENGANCHADO",
-        "url": "https://open.spotify.com/album/4tOknS5e4Kbgt6KY7mLm46"
-      },
-      "artists": [
-        {
-          "name": "Tomas Zacarias",
-          "url": "https://open.spotify.com/artist/38VdqF7nUdzpGEXQ0Hoxr4"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "La Casa del Chamam\u00e9 - ENGANCHADO",
-      "url": "https://open.spotify.com/track/1YFE6jB75WN6j4HaeaGKzg"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Con Los Grandes",
-        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 129693,
-      "name": "La Flecha",
-      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Desde el Coraz\u00f3n de Corrientes",
         "url": "https://open.spotify.com/album/79qBF7mZkeyaPFbykHAnIo"
       },
@@ -1339,18 +1323,38 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+        "name": "Con Los Grandes",
+        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
       },
       "artists": [
         {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
         }
       ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+      "duration_ms": 129693,
+      "name": "La Flecha",
+      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Recuerdos, Tristeza y Soledad",
+        "url": "https://open.spotify.com/album/0bvdakizmjJ8idm7COAxLY"
+      },
+      "artists": [
+        {
+          "name": "Emiliano L\u00f3pez",
+          "url": "https://open.spotify.com/artist/08ziTcqYRzmsGdO63egTJ6"
+        },
+        {
+          "name": "Giannela Niwoyda",
+          "url": "https://open.spotify.com/artist/4uJ43XefasN101iGtfRnbo"
+        }
+      ],
+      "duration_ms": 233131,
+      "name": "Recuerdos, Tristeza y Soledad",
+      "url": "https://open.spotify.com/track/5RNwpUN7Orwbr4PkmzmJrz"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1387,22 +1391,18 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Recuerdos, Tristeza y Soledad",
-        "url": "https://open.spotify.com/album/0bvdakizmjJ8idm7COAxLY"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "Emiliano L\u00f3pez",
-          "url": "https://open.spotify.com/artist/08ziTcqYRzmsGdO63egTJ6"
-        },
-        {
-          "name": "Giannela Niwoyda",
-          "url": "https://open.spotify.com/artist/4uJ43XefasN101iGtfRnbo"
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
         }
       ],
-      "duration_ms": 233131,
-      "name": "Recuerdos, Tristeza y Soledad",
-      "url": "https://open.spotify.com/track/5RNwpUN7Orwbr4PkmzmJrz"
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1508,13 +1508,13 @@
       },
       "artists": [
         {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+          "name": "Palomita y Teresita base",
+          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
         }
       ],
-      "duration_ms": 134240,
-      "name": "La dama misteriosa",
-      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
+      "duration_ms": 110253,
+      "name": "Adios palomita ingrata",
+      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1524,13 +1524,13 @@
       },
       "artists": [
         {
-          "name": "Palomita y Teresita base",
-          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
       ],
-      "duration_ms": 110253,
-      "name": "Adios palomita ingrata",
-      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. Обкладинка: МС Петя
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,584 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,592 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Я Канівес](https://open.spotify.com/track/3SfhVeb6ZD943m8nCITwJV) | [MC Петя](https://open.spotify.com/artist/1SchPhijfagZ6C1yQcvqd6) | [Я Канівес](https://open.spotify.com/album/2Jjbvg2jtLXSDBAAL1j4Ih) | 2:12 |
+| 1 | [Я Канівес](https://open.spotify.com/track/3SfhVeb6ZD943m8nCITwJV) | [Третя Штурмова](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M), [MC Петя](https://open.spotify.com/artist/1SchPhijfagZ6C1yQcvqd6) | [Я Канівес](https://open.spotify.com/album/2Jjbvg2jtLXSDBAAL1j4Ih) | 2:12 |
 | 2 | [в темноті](https://open.spotify.com/track/5meoORfKXycfF87Hg03tRl) | [askwhen](https://open.spotify.com/artist/0GsArlDO65z8mj3McTCliI), [The Budchuk](https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9) | [в темноті](https://open.spotify.com/album/6iHQ5zZ0zrH3a0fsyMgU0M) | 3:02 |
 | 3 | [Діагноз](https://open.spotify.com/track/4CU3FhBlhrhPRp3san9ItE) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [Діагноз](https://open.spotify.com/album/4Tynh5zCGW9Kuv7Oxh4BHq) | 2:48 |
 | 4 | [Вбий свою голову](https://open.spotify.com/track/4qtgY1FiTUE58SYqu3j594) | [рома майк](https://open.spotify.com/artist/7pvzcDzXjFcXK40r9yzBiY) | [Не в тому Rich](https://open.spotify.com/album/6q4tz51g0C7oBwRoW9mDAR) | 2:36 |

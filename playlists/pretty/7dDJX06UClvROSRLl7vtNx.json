@@ -1,12 +1,12 @@
 {
   "description": "Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
-  "num_followers": 138347,
+  "num_followers": 138381,
   "original_name": "Beach Lounge 2026 \ud83c\udf34 IBIZA Summer Chillout",
   "owner": {
     "name": "j-dosch",
     "url": "https://open.spotify.com/user/j-dosch"
   },
-  "snapshot_id": "AABWQiaRrleBLFd7eZpP08r2wRqBef35",
+  "snapshot_id": "AABWRysIgDK9aYEuMb0qw87o3PUlngbd",
   "tracks": [
     {
       "added_at": "2023-09-22 10:40:16",
@@ -921,20 +921,24 @@
       "url": "https://open.spotify.com/track/5GL6mdzyFK2HbJiH0pg9nM"
     },
     {
-      "added_at": "2026-07-09 22:15:05",
+      "added_at": "2026-10-01 22:10:22",
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/00yjI7EzUOUCTQ8lVxUBoV"
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/6WnDosHEdUlJvzfNCFXcQ8"
       },
       "artists": [
         {
           "name": "Palmero",
           "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        },
+        {
+          "name": "After June",
+          "url": "https://open.spotify.com/artist/54ca7OngsDRKrfApI0An72"
         }
       ],
-      "duration_ms": 136859,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/13f0GBOFl1T983icdPRNIm"
+      "duration_ms": 121428,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/2Ia6O1SIMz8ab2YZm8yYu9"
     },
     {
       "added_at": "2026-08-02 21:34:49",
@@ -1297,10 +1301,10 @@
       "url": "https://open.spotify.com/track/7y3LUgB2IoaYbt3gviLVl5"
     },
     {
-      "added_at": "2026-06-11 22:17:04",
+      "added_at": "2026-07-09 22:15:05",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/1W5ZtfxcFtc45MdBia9w52"
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/00yjI7EzUOUCTQ8lVxUBoV"
       },
       "artists": [
         {
@@ -1308,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
         }
       ],
-      "duration_ms": 162545,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/5k6uisVSsskA4Zd5KY4NJS"
+      "duration_ms": 136859,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/13f0GBOFl1T983icdPRNIm"
     },
     {
       "added_at": "2025-11-30 20:21:58",
@@ -1971,6 +1975,22 @@
       "duration_ms": 133750,
       "name": "LOST IN YOUR EYES",
       "url": "https://open.spotify.com/track/7hPRfLu0xGYWsCnayrLohu"
+    },
+    {
+      "added_at": "2026-06-11 22:17:04",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/1W5ZtfxcFtc45MdBia9w52"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "duration_ms": 162545,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/5k6uisVSsskA4Zd5KY4NJS"
     },
     {
       "added_at": "2026-08-06 22:15:38",

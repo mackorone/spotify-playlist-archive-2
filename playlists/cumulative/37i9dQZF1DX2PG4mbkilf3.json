@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Chikoruss from Montr\u00e9al, QC.",
+  "description": "Your guide to R&B in Canada, with JON VINYL from Toronto, ON",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/734jfnKMwg4HBiVhv28cDE"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149793,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/1roqyVogiw4VZOcAqlTNlO"
+    },
+    {
+      "album": {
         "name": "Autopilot",
         "url": "https://open.spotify.com/album/23mjLK62CZzIr4znCohy6K"
       },
@@ -3122,6 +3140,24 @@
       "duration_ms": 162857,
       "name": "Belong",
       "url": "https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH"
+    },
+    {
+      "album": {
+        "name": "BELONG (I Thank God)",
+        "url": "https://open.spotify.com/album/1JRk9ed6sL4BEYe1FdVFlM"
+      },
+      "artists": [
+        {
+          "name": "Aphrose",
+          "url": "https://open.spotify.com/artist/2rmzhSK2Jh6O406qYuLrd6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "BELONG (I Thank God)",
+      "url": "https://open.spotify.com/track/007eHIrjbJ5sRQOGsWxZxy"
     },
     {
       "album": {
@@ -5358,7 +5394,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179074,
       "name": "Classic",
       "url": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
@@ -5398,6 +5434,24 @@
       "duration_ms": 257561,
       "name": "clear blue!",
       "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
+    },
+    {
+      "album": {
+        "name": "Clever",
+        "url": "https://open.spotify.com/album/0aLQLvlKBiD3Cwt2wd4maJ"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213635,
+      "name": "Clever",
+      "url": "https://open.spotify.com/track/7kAA4QQq89UalAJUb4J9bp"
     },
     {
       "album": {
@@ -6476,7 +6530,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 167226,
       "name": "Cry When I'm Alone",
       "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
@@ -6906,6 +6960,24 @@
       "duration_ms": 178509,
       "name": "Did U Get The Flowers?",
       "url": "https://open.spotify.com/track/2qLmFVAnKfamULrFnjImfg"
+    },
+    {
+      "album": {
+        "name": "GONER",
+        "url": "https://open.spotify.com/album/0HPJNHsgBOk12FpeIIEJ9F"
+      },
+      "artists": [
+        {
+          "name": "Brody Myles",
+          "url": "https://open.spotify.com/artist/4zwgccRcYwjxecxuLMtdAV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124330,
+      "name": "Did you wrong",
+      "url": "https://open.spotify.com/track/3XSerEUFwMD8Fg85kiJiq3"
     },
     {
       "album": {
@@ -7524,7 +7596,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 137767,
       "name": "dog eyed",
       "url": "https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN"
@@ -9962,7 +10034,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179739,
       "name": "First Time",
       "url": "https://open.spotify.com/track/6nbAr9t7b5XxuZhLVdZYrL"
@@ -11070,7 +11142,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 291677,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/1WstmAB4dxpyd6KQsws06R"
@@ -12098,7 +12170,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 138296,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1kSc0GSypXj9kPpeHSciYs"
@@ -12120,6 +12192,24 @@
       "duration_ms": 196506,
       "name": "Heaven Only Knows",
       "url": "https://open.spotify.com/track/3bYuS0r1krUv59094jVsom"
+    },
+    {
+      "album": {
+        "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/0kyf1fKHdnKPrEtStxT4w4"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/6RDnE56IgXL124OFK17Ws4"
     },
     {
       "album": {
@@ -13674,7 +13764,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 144901,
       "name": "I'm Spent (feat. Loe Shimmy)",
       "url": "https://open.spotify.com/track/0SeTP12t4EwBJ6zsjHn9Wa"
@@ -16194,7 +16284,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 235822,
       "name": "Let It Die",
       "url": "https://open.spotify.com/track/3KV99XGW5xzq8wO0lbzbRO"
@@ -17478,7 +17568,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 170126,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/4BiqhVlA0hhnN64FjN5BCu"
@@ -18942,7 +19032,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 225056,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/5AIb4hlpd7eJE9zYfuSGFL"
@@ -19112,6 +19202,24 @@
       "duration_ms": 204750,
       "name": "Movies",
       "url": "https://open.spotify.com/track/5duBEuuggu7EMMptOsH9Lc"
+    },
+    {
+      "album": {
+        "name": "Summer\u2019s Over Vol. 1",
+        "url": "https://open.spotify.com/album/0FHgWE5RL7icEatWD7xEzX"
+      },
+      "artists": [
+        {
+          "name": "Quincy Isaiah",
+          "url": "https://open.spotify.com/artist/7eAyJBfRTpp3vLocsj1X2i"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90124,
+      "name": "Moving Different",
+      "url": "https://open.spotify.com/track/4qtMEo7RTuYKbrHI4g4dbP"
     },
     {
       "album": {
@@ -20318,7 +20426,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 172400,
       "name": "nobody else matters",
       "url": "https://open.spotify.com/track/1ZYkn14gTBCiu3tN5LnzSN"
@@ -20482,6 +20590,28 @@
       "duration_ms": 235088,
       "name": "Not So Sweet",
       "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
+    },
+    {
+      "album": {
+        "name": "Not The Usual",
+        "url": "https://open.spotify.com/album/0P2lfmTt9HymO4LxVwH6I5"
+      },
+      "artists": [
+        {
+          "name": "ROME",
+          "url": "https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q"
+        },
+        {
+          "name": "Andre Waithe",
+          "url": "https://open.spotify.com/artist/1xLflNvsF8UaO0g661keJP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Not The Usual",
+      "url": "https://open.spotify.com/track/2tGVKkWLZERJL8xnmThEEz"
     },
     {
       "album": {
@@ -22835,6 +22965,24 @@
     },
     {
       "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/7Brx79rdiJvkNTfvGenc2l"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253170,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/67RKFwp0RZNtAlEPyNQG37"
+    },
+    {
+      "album": {
         "name": "Players Voicemail",
         "url": "https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs"
       },
@@ -22926,6 +23074,24 @@
       "duration_ms": 237073,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/0e4FVyZ3mwPmNTPzPy1gQ3"
+    },
+    {
+      "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/5BCRJIvyrmmEkaEaSe9edd"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136148,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/6HQhguObjnchjOPxKSeR7A"
     },
     {
       "album": {
@@ -27194,6 +27360,46 @@
       "duration_ms": 205233,
       "name": "SOFT LIFE",
       "url": "https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T"
+    },
+    {
+      "album": {
+        "name": "Solana's Interlude",
+        "url": "https://open.spotify.com/album/59A9X7NN3H556EsnVvoFMg"
+      },
+      "artists": [
+        {
+          "name": "NITAP",
+          "url": "https://open.spotify.com/artist/74BPG8mr54PDRxjszcQ6qc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Solana's Interlude",
+      "url": "https://open.spotify.com/track/5RTtCcD9WCbVGtu6lhrDk2"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {

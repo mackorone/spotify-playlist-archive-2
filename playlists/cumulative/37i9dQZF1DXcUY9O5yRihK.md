@@ -2,9 +2,9 @@
 
 ### [bossa pop](https://open.spotify.com/playlist/37i9dQZF1DXcUY9O5yRihK)
 
-> Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Liana Flores
+> Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Mei Semones
 
-193 songs - 9 hr 43 min
+194 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Hopeless Romantic](https://open.spotify.com/track/6MVMbS5zwts8wgC1Re1VKF) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Hopeless Romantic](https://open.spotify.com/album/7ld58A7mgtQhByX8NQnXN2) | 4:30 | 2023-05-26 |  |
 | [Hot Yoga](https://open.spotify.com/track/7Kww1lvMVSlOK7LttfKxNO) | [Morganne](https://open.spotify.com/artist/6Au2T6xOPGJU6SsgyLWKp8) | [Hot Yoga](https://open.spotify.com/album/2uGz5bn9F2IkqpZwwkO3be) | 2:57 | 2023-09-15 | 2024-02-03 |
 | [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2024-04-10 | 2025-03-22 |
+| [Howl](https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Howl](https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs) | 3:03 | 2026-10-02 |  |
 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 | 2023-01-06 | 2026-05-09 |
 | [I Feel Bad For You, Dave](https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [I Feel Bad For You, Dave](https://open.spotify.com/album/07HWEYuBi9Ke7E2JzHk3ab) | 3:03 | 2025-08-15 |  |
 | [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2023-07-28 |  |
@@ -199,7 +200,7 @@
 | [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 | 2025-01-03 |  |
 | [You At Home](https://open.spotify.com/track/2FGn5SVPl5kzx7kSSZ2db0) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [You At Home](https://open.spotify.com/album/3i8PAjApnVRYhrby3hzCfJ) | 2:41 | 2023-09-15 | 2023-10-24 |
 | [You're the Reason](https://open.spotify.com/track/1OJqtwMsA3RHmAYh6DHWYK) | [Chris Wright](https://open.spotify.com/artist/2PUZljI6YOKycWygjY6EQV), [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [You're the Reason](https://open.spotify.com/album/0paZI3fai3hEJUfKglHwYl) | 2:37 | 2023-01-06 | 2023-08-06 |
-| [Zarigani](https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Zarigani](https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc) | 4:33 | 2025-04-10 |  |
+| [Zarigani](https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Zarigani](https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc) | 4:33 | 2025-04-10 | 2026-10-02 |
 | [Zou bisou bisou](https://open.spotify.com/track/2fxvANiJMVbMvuqNWUilEM) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Zou bisou bisou \(Original Version\)](https://open.spotify.com/album/6RGW7AdxrvowqfBp4gP5o5) | 2:18 | 2023-01-06 | 2024-06-29 |
 
 \*This playlist was first scraped on 2023-01-18. Prior content cannot be recovered.

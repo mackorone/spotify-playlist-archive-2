@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Yeri Mua en portada \u2728",
-  "num_followers": 96460,
+  "num_followers": 96472,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 184654,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
         "name": "Mixteip",
         "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 198493,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 184654,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
-        "name": "Una y Otra Vez",
-        "url": "https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 182129,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
         "name": "Si T\u00fa Te Vas",
         "url": "https://open.spotify.com/album/1jxKltNf8xeT9pb1NmX8CV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 193437,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 182129,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
         "name": "SUPERIOR",
         "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -831,38 +831,6 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
-        "name": "Lo Que Importa",
-        "url": "https://open.spotify.com/album/7s2EbwCHMSJ7VrQJ5s8SP6"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 308250,
-      "name": "Lo Que Importa",
-      "url": "https://open.spotify.com/track/0eguGQWtFQNyPDtxi46vHM"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -895,6 +863,38 @@
       "duration_ms": 162099,
       "name": "QUIERO OLVIDARTE - Respuesta #1",
       "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
+        "name": "Lo Que Importa",
+        "url": "https://open.spotify.com/album/7s2EbwCHMSJ7VrQJ5s8SP6"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 308250,
+      "name": "Lo Que Importa",
+      "url": "https://open.spotify.com/track/0eguGQWtFQNyPDtxi46vHM"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
+        "name": "Cuando Estamos Solas",
+        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 160322,
+      "name": "Cuando Estamos Solas",
+      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
         "name": "Tu Coraz\u00f3n (Your Heart)",
         "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
-        "name": "Cuando Estamos Solas",
-        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 160322,
-      "name": "Cuando Estamos Solas",
-      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
-        "name": "T\u00fa y Yo X Siempre",
-        "url": "https://open.spotify.com/album/3E0UYsVU8PxkYYMF7ibS2Q"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 184449,
-      "name": "T\u00fa y Yo X Siempre",
-      "url": "https://open.spotify.com/track/4RJMnTu2ZiQupxcooMWGEZ"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
+        "name": "T\u00fa y Yo X Siempre",
+        "url": "https://open.spotify.com/album/3E0UYsVU8PxkYYMF7ibS2Q"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 184449,
+      "name": "T\u00fa y Yo X Siempre",
+      "url": "https://open.spotify.com/track/4RJMnTu2ZiQupxcooMWGEZ"
     },
     {
       "added_at": "2026-09-25 06:00:10",

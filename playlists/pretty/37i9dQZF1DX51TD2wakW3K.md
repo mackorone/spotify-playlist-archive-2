@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,884 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,001 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 66 | [Lucky Guy](https://open.spotify.com/track/2jSdbHZZRp6eLq8F5KPtoR) | [The Muffs](https://open.spotify.com/artist/4FYk4moRCGHdXIK3AMcelO) | [The Muffs](https://open.spotify.com/album/3f9SPyuKWxyufWWXdEmzT2) | 2:47 |
 | 67 | [Crimson Wave](https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [NVM](https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m) | 2:03 |
 | 68 | [Don't Dictate \- Demo](https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk) | [Penetration](https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV) | [Moving Targets](https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb) | 2:56 |
-| 69 | [Touch Me Again](https://open.spotify.com/track/21oFKSwN0SnBYC4bFtDZEI) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Talk of Violence](https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl) | 3:04 |
-| 70 | [Love is Short](https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:11 |
-| 71 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
+| 69 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
+| 70 | [Touch Me Again](https://open.spotify.com/track/21oFKSwN0SnBYC4bFtDZEI) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Talk of Violence](https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl) | 3:04 |
+| 71 | [Love is Short](https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:11 |
 | 72 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
 | 73 | [Across The Line](https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [The Refrigerator](https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR) | 3:19 |
 | 74 | [Outcast Stomp](https://open.spotify.com/track/7x2JpcsehK3idTXuzsimLJ) | [G.L.O.S.S.](https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU) | [Demo 2015](https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl) | 1:54 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 79 | [I Hope You Know](https://open.spotify.com/track/5FnOK06ng2h8TwNtCk7DOt) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [I Hope You Know](https://open.spotify.com/album/2RK46DbriaUmep5XnMDLvE) | 2:20 |
 | 80 | [No Control](https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [No Control](https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e) | 3:01 |
 | 81 | [JJ](https://open.spotify.com/track/1orez4wPUf42d2jtvUpm0b) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Nothing Feels Natural](https://open.spotify.com/album/0JHreJbw5DKq7Nr9aW2KqI) | 2:57 |
-| 82 | [Straight Up \(Needy\)](https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Straight Up \(Needy\)](https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX) | 3:14 |
-| 83 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 |
+| 82 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 |
+| 83 | [Straight Up \(Needy\)](https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Straight Up \(Needy\)](https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX) | 3:14 |
 | 84 | [Looking for A Fight](https://open.spotify.com/track/2Uj3b1Ce5SLBN9Xp7Zqjp5) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Ride Your Heart](https://open.spotify.com/album/5pGaGSjUiidjJEixmde6Ha) | 2:17 |
 | 85 | [I Don't Mind It](https://open.spotify.com/track/4azLr54wMnoayzplNpQpRh) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Castle Talk](https://open.spotify.com/album/4lUYpT7Ksnyn2TtLMJ6Nr8) | 3:26 |
 | 86 | [DOOMTOWN](https://open.spotify.com/track/1cLUvmoOfRZYbTedbeB9nC) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [DOOMTOWN](https://open.spotify.com/album/79TiaJjwfwiay0vdDwwa5y) | 3:18 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 92 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
 | 93 | [FUU](https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:50 |
 | 94 | [Miss Understood](https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Gato Negro](https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3) | 3:07 |
-| 95 | [Resurrection](https://open.spotify.com/track/63tZNnEOTwXWzsWmBcKjZf) | [Vice Squad](https://open.spotify.com/artist/2bnpJ3162H9AjVDukIheOn) | [The Complete Punk Singles Collection](https://open.spotify.com/album/1lghAJ2RV4kjRwTqLa4M9Q) | 4:03 |
-| 96 | [Savage](https://open.spotify.com/track/0m4r5bLIF9pZrc50oh0N38) | [The Nuns](https://open.spotify.com/artist/4lbdX52isOilRhdB9Zzs1y) | [The Nuns](https://open.spotify.com/album/1oCCvYac2MIYPX4fFJK6iD) | 2:17 |
+| 95 | [Savage](https://open.spotify.com/track/0m4r5bLIF9pZrc50oh0N38) | [The Nuns](https://open.spotify.com/artist/4lbdX52isOilRhdB9Zzs1y) | [The Nuns](https://open.spotify.com/album/1oCCvYac2MIYPX4fFJK6iD) | 2:17 |
+| 96 | [Resurrection](https://open.spotify.com/track/63tZNnEOTwXWzsWmBcKjZf) | [Vice Squad](https://open.spotify.com/artist/2bnpJ3162H9AjVDukIheOn) | [The Complete Punk Singles Collection](https://open.spotify.com/album/1lghAJ2RV4kjRwTqLa4M9Q) | 4:03 |
 | 97 | [Need](https://open.spotify.com/track/27ZihatzlzN9p9kQ31uwo1) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/6VcqAGR33EiDjGZmWgQSpY) | 2:40 |
 | 98 | [You're All Talk](https://open.spotify.com/track/56laQa3PukNJ9Fg9k0bP4E) | [The Pandoras](https://open.spotify.com/artist/1IHit5q4Ut9MlbGZUZY94D) | [Stop Pretending](https://open.spotify.com/album/2TZAqOOjAs5lw5iUq2p3sB) | 2:52 |
 | 99 | [Somos Chulas \(No Somos Pendejas\)](https://open.spotify.com/track/1kPzZGjU0mcL6Hh2DLI0of) | [Downtown Boys](https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC) | [Cost of Living](https://open.spotify.com/album/2L3KXGq3u2VpVTFMwPyPrb) | 3:23 |

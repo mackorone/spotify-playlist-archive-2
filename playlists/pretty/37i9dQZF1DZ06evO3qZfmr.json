@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 58167,
+  "num_followers": 58210,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACj1c0EXIWDIy46ey7PVs7w",
+  "snapshot_id": "arxRAAAAAADZ/IsYXNhnIvtB6j+XrHYD",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silver Sands Marina",
+        "url": "https://open.spotify.com/album/0ESd1qZt6XOB3kbqiRlTuS"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "It Just Got Weird",
+      "url": "https://open.spotify.com/track/7FqiywYL9ntgHjlddtMDUk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -491,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silver Sands Marina",
-        "url": "https://open.spotify.com/album/0ESd1qZt6XOB3kbqiRlTuS"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "It Just Got Weird",
-      "url": "https://open.spotify.com/track/7FqiywYL9ntgHjlddtMDUk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lucky (Deluxe)",
         "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistol Made of Roses",
-        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 212302,
-      "name": "He Made Me Do It",
-      "url": "https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Left Me (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 191657,
       "name": "Never Left Me (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 212302,
+      "name": "He Made Me Do It",
+      "url": "https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB"
     },
     {
       "added_at": null,

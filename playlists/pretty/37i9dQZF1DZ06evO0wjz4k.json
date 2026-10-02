@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36511,
+  "num_followers": 36519,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABCfYbJnUlCXKwHBZBe8Dmy",
+  "snapshot_id": "arxRAAAAAABCjLDIaZW6Nr7r6fdjH2NF",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Drinkin'",
-      "url": "https://open.spotify.com/track/6P7aZG4PRvErVyxtHIBts5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Probably Wrong",
         "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 201573,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 194973,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/6P7aZG4PRvErVyxtHIBts5"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 204489,
-      "name": "I Ain't Going Nowhere",
-      "url": "https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp"
+      "duration_ms": 225801,
+      "name": "Tails I Lose",
+      "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 225801,
-      "name": "Tails I Lose",
-      "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
+      "duration_ms": 204489,
+      "name": "I Ain't Going Nowhere",
+      "url": "https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfectly Lonely",
-        "url": "https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 270213,
-      "name": "Perfectly Lonely",
-      "url": "https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Between: The Collection",
         "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 207746,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfectly Lonely",
+        "url": "https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 270213,
+      "name": "Perfectly Lonely",
+      "url": "https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs"
     }
   ],
   "unique_name": "This Is Parker McCollum",

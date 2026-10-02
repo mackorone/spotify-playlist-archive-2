@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "1v1",
+        "url": "https://open.spotify.com/album/1bKGyVXrDP6DC20QOldWQg"
+      },
+      "artists": [
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186106,
+      "name": "1v1",
+      "url": "https://open.spotify.com/track/0FVfZ5OSoHjqYC2II0YdGb"
+    },
+    {
+      "album": {
         "name": "PLUTO WORLD",
         "url": "https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL"
       },
@@ -3414,7 +3436,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 149333,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/15Abt9MQ76aKspxZgFFqj5"
@@ -6310,7 +6332,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 115002,
       "name": "BIG FEELING",
       "url": "https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW"
@@ -9100,6 +9122,28 @@
       "duration_ms": 138098,
       "name": "BUSHWICK",
       "url": "https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT"
+    },
+    {
+      "album": {
+        "name": "Buss Down (1 Thing)",
+        "url": "https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119986,
+      "name": "Buss Down (1 Thing)",
+      "url": "https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh"
     },
     {
       "album": {
@@ -13465,6 +13509,24 @@
     },
     {
       "album": {
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/33DLhStECkWHNf4O8rfjzu"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/2pODBdcRoEO2cCVVA4vZLn"
+    },
+    {
+      "album": {
         "name": "Demon (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z"
       },
@@ -15965,6 +16027,32 @@
     },
     {
       "album": {
+        "name": "Earn Ya Rank (Remix)",
+        "url": "https://open.spotify.com/album/3Z40sPGGWxZNj5pNOqDkTn"
+      },
+      "artists": [
+        {
+          "name": "Spazz Vet",
+          "url": "https://open.spotify.com/artist/2Zdj2daLM2RL7VJtg9tBsf"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Surf7",
+          "url": "https://open.spotify.com/artist/1GqOAHeo3iMrmaisKTANNj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183037,
+      "name": "Earn Ya Rank - Remix",
+      "url": "https://open.spotify.com/track/4zTnfYNLBdrazWNiPNzaLH"
+    },
+    {
+      "album": {
         "name": "EAST 2 DA NORF",
         "url": "https://open.spotify.com/album/3aIji3gF3g1Q2nZAycarSd"
       },
@@ -16156,6 +16244,28 @@
       "duration_ms": 196078,
       "name": "EBT",
       "url": "https://open.spotify.com/track/0gWNq0lLP0C10Fv059l6Yn"
+    },
+    {
+      "album": {
+        "name": "Edge Of The Earth (Lunch Break Freestyle)",
+        "url": "https://open.spotify.com/album/1Z4AxH0nd5qSFIAmtlwYU7"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123432,
+      "name": "Edge Of The Earth - Lunch Break Freestyle",
+      "url": "https://open.spotify.com/track/2HWnASR2XgSp2icDv0dC8i"
     },
     {
       "album": {
@@ -16490,7 +16600,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 150248,
       "name": "ERASE YOUR SOCIAL",
       "url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
@@ -21340,7 +21450,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176029,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/0GwdNR7aAuSBkfI4Jx4qRu"
@@ -27228,7 +27338,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 147748,
       "name": "IT'S THE SUMMER",
       "url": "https://open.spotify.com/track/2JPuwCAPNO48ntbidozk0T"
@@ -41646,10 +41756,32 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 126686,
       "name": "Pink Blush",
       "url": "https://open.spotify.com/track/2FaW6Je4rEKqCE47NbLQX1"
+    },
+    {
+      "album": {
+        "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+        "url": "https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161817,
+      "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+      "url": "https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob"
     },
     {
       "album": {
@@ -43225,6 +43357,24 @@
     },
     {
       "album": {
+        "name": "Proud of You",
+        "url": "https://open.spotify.com/album/2peESn217hnWrCfdFdm6Ab"
+      },
+      "artists": [
+        {
+          "name": "Zillionaire Doe",
+          "url": "https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166278,
+      "name": "Proud of You",
+      "url": "https://open.spotify.com/track/4iqo8Brrv2eg8gs2d8l5qN"
+    },
+    {
+      "album": {
         "name": "PSA feat. Kyle Richh",
         "url": "https://open.spotify.com/album/3OIA8NOra2vqw2VzoYR8Wq"
       },
@@ -44702,7 +44852,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 112207,
       "name": "remember them days",
       "url": "https://open.spotify.com/track/1TifAMm1r1MascYZ5xGiQk"
@@ -50312,7 +50462,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "SPURS (feat. Cochise)",
       "url": "https://open.spotify.com/track/4liPjozXf3WOxLIsiK8pLJ"
@@ -53650,7 +53800,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 121752,
       "name": "They Can\u2019t Count",
       "url": "https://open.spotify.com/track/5wYRluwyyBS5lkPHzEvikU"
@@ -54214,7 +54364,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 141639,
       "name": "TIED",
       "url": "https://open.spotify.com/track/2zwzbzM7XrKaaOqcdju0oa"
@@ -59677,6 +59827,24 @@
     },
     {
       "album": {
+        "name": "WITH MY BESTIE",
+        "url": "https://open.spotify.com/album/5eo8HB4299JakFbOA064tw"
+      },
+      "artists": [
+        {
+          "name": "Iconic Savvy",
+          "url": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159633,
+      "name": "WITH MY BESTIE",
+      "url": "https://open.spotify.com/track/1FrktDz7UEUYZb7OqIx9CQ"
+    },
+    {
+      "album": {
         "name": "With My Boo",
         "url": "https://open.spotify.com/album/6nfnwJ2rMqwYhnqoM5aexC"
       },
@@ -61136,7 +61304,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 123814,
       "name": "You Scared",
       "url": "https://open.spotify.com/track/68eiQ5iwCawZq88Z5K4RA2"

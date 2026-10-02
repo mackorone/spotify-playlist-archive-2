@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 281473,
+  "num_followers": 281487,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arias",
-          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Anos Dourados",
         "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 333251,
       "name": "A Paz",
       "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
+      },
+      "artists": [
+        {
+          "name": "Adriana Arias",
+          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
+        }
+      ],
+      "duration_ms": 137424,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Samba Doce",
-        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
-      },
-      "artists": [
-        {
-          "name": "Jorge Helder",
-          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Samba Doce",
-      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Samba Sem Ver\u00e3o",
         "url": "https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH"
       },
@@ -515,22 +499,18 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Navegante - Dudu Sperb Recebe Guinga",
-        "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
+        "name": "Samba Doce",
+        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
       },
       "artists": [
         {
-          "name": "Guinga",
-          "url": "https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl"
-        },
-        {
-          "name": "Dudu Sperb",
-          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
+          "name": "Jorge Helder",
+          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
         }
       ],
-      "duration_ms": 285613,
-      "name": "Choro Pro Z\u00e9",
-      "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
+      "duration_ms": 213800,
+      "name": "Samba Doce",
+      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -547,6 +527,26 @@
       "duration_ms": 183656,
       "name": "Ataraxia",
       "url": "https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Navegante - Dudu Sperb Recebe Guinga",
+        "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
+      },
+      "artists": [
+        {
+          "name": "Guinga",
+          "url": "https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl"
+        },
+        {
+          "name": "Dudu Sperb",
+          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
+        }
+      ],
+      "duration_ms": 285613,
+      "name": "Choro Pro Z\u00e9",
+      "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Mano Que Zuera",
-        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 270386,
-      "name": "Duro Na Queda",
-      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -783,18 +783,34 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Garoa",
-        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+        "name": "Saudades de Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
       "artists": [
         {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+          "name": "Antonio Carlos Bigonha",
+          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Voa",
-      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
+      "duration_ms": 275370,
+      "name": "Perto do Tom",
+      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Mano Que Zuera",
+        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        }
+      ],
+      "duration_ms": 270386,
+      "name": "Duro Na Queda",
+      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -811,22 +827,6 @@
       "duration_ms": 152752,
       "name": "Caminhos Cruzados",
       "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Saudades de Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
-      },
-      "artists": [
-        {
-          "name": "Antonio Carlos Bigonha",
-          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
-        }
-      ],
-      "duration_ms": 275370,
-      "name": "Perto do Tom",
-      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Eu Canto pro Dia Nascer",
+        "url": "https://open.spotify.com/album/6ttt7ffHs2egzpwuQNHKjN"
+      },
+      "artists": [
+        {
+          "name": "Delia Fischer",
+          "url": "https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        }
+      ],
+      "duration_ms": 197672,
+      "name": "Eu Canto pro Dia Nascer",
+      "url": "https://open.spotify.com/track/3qvOBE1XoAdmzot2Uak4lx"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Feito \u00e0 M\u00e3o",
         "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 279456,
       "name": "Bossa de Maio",
       "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Eu Canto pro Dia Nascer",
-        "url": "https://open.spotify.com/album/6ttt7ffHs2egzpwuQNHKjN"
-      },
-      "artists": [
-        {
-          "name": "Delia Fischer",
-          "url": "https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        }
-      ],
-      "duration_ms": 197672,
-      "name": "Eu Canto pro Dia Nascer",
-      "url": "https://open.spotify.com/track/3qvOBE1XoAdmzot2Uak4lx"
     },
     {
       "added_at": "2026-08-14 03:00:55",

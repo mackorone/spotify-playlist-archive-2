@@ -1,13 +1,33 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: AVE",
-  "num_followers": 117655,
+  "num_followers": 117650,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAh/yX0i4NBoQ3rjE6IF2rJF7+qe6sL",
+  "snapshot_id": "AAAiAQMo655fuqNCoCdIj0BYdg7VhMXP",
   "tracks": [
+    {
+      "added_at": "2026-10-01 22:00:05",
+      "album": {
+        "name": "Mari\u00f4",
+        "url": "https://open.spotify.com/album/1l3aOvhCVXwiZ6hORsLh2c"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Jast",
+          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
+        }
+      ],
+      "duration_ms": 120238,
+      "name": "Mari\u00f4",
+      "url": "https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M"
+    },
     {
       "added_at": "2026-09-24 22:00:04",
       "album": {
@@ -51,6 +71,22 @@
       "duration_ms": 149538,
       "name": "Chase The Feeling (feat. ALEXX)",
       "url": "https://open.spotify.com/track/0e5Af4sM86p0CD3KpZAEY2"
+    },
+    {
+      "added_at": "2026-10-01 22:00:04",
+      "album": {
+        "name": "Club Phi",
+        "url": "https://open.spotify.com/album/5tGj2FJFQ26KHjiIcROWgH"
+      },
+      "artists": [
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "Keep It Movin\u2019",
+      "url": "https://open.spotify.com/track/0JOfGKa9pJE031SlQwLZx8"
     },
     {
       "added_at": "2026-09-24 22:00:05",
@@ -2302,10 +2338,6 @@
         {
           "name": "Joshua Robbie",
           "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
-        },
-        {
-          "name": "Dolore",
-          "url": "https://open.spotify.com/artist/6SvOamW1u9CE5YicXDZrrg"
         }
       ],
       "duration_ms": 152727,

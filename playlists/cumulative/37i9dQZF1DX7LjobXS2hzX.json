@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 210263,
       "name": "\"forever\"",
       "url": "https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW"
@@ -1278,10 +1278,28 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 162627,
       "name": "A\u00e9!",
       "url": "https://open.spotify.com/track/3NUrF07YW4mtMmxMLX1G70"
+    },
+    {
+      "album": {
+        "name": "A\u00e9!",
+        "url": "https://open.spotify.com/album/3lDIokzWA80UaqW3qJ5Dc2"
+      },
+      "artists": [
+        {
+          "name": "Salebarbes",
+          "url": "https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162627,
+      "name": "A\u00e9!",
+      "url": "https://open.spotify.com/track/5XxaofLBwXm1VbxSia5nBv"
     },
     {
       "album": {
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 166363,
       "name": "Chance",
       "url": "https://open.spotify.com/track/5Ktp9NwJYIGCL6YgdlrRy5"
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 247458,
       "name": "Dis-le",
       "url": "https://open.spotify.com/track/58H3IsZi2NemGRCttisETY"
@@ -3778,7 +3796,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 175476,
       "name": "DISCONTINU\u00c9",
       "url": "https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b"
@@ -5325,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -6672,6 +6708,24 @@
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "album": {
+        "name": "Alouette!",
+        "url": "https://open.spotify.com/album/3DH22OuM4KWNsKDevq3j3n"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108064,
+      "name": "Je confirme ma pr\u00e9sence",
+      "url": "https://open.spotify.com/track/00ambZV0SdZEILC7iTwsOo"
     },
     {
       "album": {
@@ -8186,7 +8240,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165899,
       "name": "Ma chanson pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/6TVJ1b2N8gFUa6HuEKqJ69"
@@ -10223,6 +10277,24 @@
     },
     {
       "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/49JeKZqejPtqJKpK7x9Ew4"
+    },
+    {
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -11074,6 +11146,28 @@
       "duration_ms": 191186,
       "name": "Ricardo",
       "url": "https://open.spotify.com/track/0koMZx6hCGqzZjEeJu9Dad"
+    },
+    {
+      "album": {
+        "name": "Rien d'plus beau",
+        "url": "https://open.spotify.com/album/6RZKnyEwedtnSHUscjQwpf"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Arpin L\u00e9pine",
+          "url": "https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207364,
+      "name": "Rien d'plus beau",
+      "url": "https://open.spotify.com/track/4LSoonoDaI9wC1pySjuvtg"
     },
     {
       "album": {
@@ -12158,7 +12252,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 183307,
       "name": "SPA",
       "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
@@ -13872,7 +13966,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178858,
       "name": "VAISSEAU",
       "url": "https://open.spotify.com/track/23yAISMj2p7m9oGDkyITmM"

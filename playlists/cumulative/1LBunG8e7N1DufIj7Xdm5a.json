@@ -221,6 +221,28 @@
     },
     {
       "album": {
+        "name": "Your Favorite Sins",
+        "url": "https://open.spotify.com/album/48fMy4uGhbknKMnVlBp7HU"
+      },
+      "artists": [
+        {
+          "name": "S1J",
+          "url": "https://open.spotify.com/artist/6GcGggHeS1LlSundBrW3AG"
+        },
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102562,
+      "name": "1 Am Vibes",
+      "url": "https://open.spotify.com/track/4bXVGRSQQVFvXf36Hxy5U6"
+    },
+    {
+      "album": {
         "name": "The Banana Split",
         "url": "https://open.spotify.com/album/5LsPvBY6yIRbilKjCoaGuF"
       },
@@ -70988,6 +71010,24 @@
       "duration_ms": 164696,
       "name": "Spaghetti Mafia",
       "url": "https://open.spotify.com/track/0IO7CeyQFTWrek4eTYZhp9"
+    },
+    {
+      "album": {
+        "name": "Spark Mandrill Mega Man X (Vocal Version)",
+        "url": "https://open.spotify.com/album/7d1TDCvSIGNkYlR7Husnyp"
+      },
+      "artists": [
+        {
+          "name": "Vocal Game Orchestra",
+          "url": "https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222908,
+      "name": "Spark Mandrill Mega Man X - Vocal Version",
+      "url": "https://open.spotify.com/track/61GCtHUH83JJazDKrnSLFa"
     },
     {
       "album": {

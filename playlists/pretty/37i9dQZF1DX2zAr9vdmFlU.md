@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,931 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,956 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 77 | [Me Das](https://open.spotify.com/track/6zBkexycHADArkud3zGT6x) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Me Das](https://open.spotify.com/album/4y67AtdL0t0BUHJaVgIuIG) | 3:02 |
 | 78 | [Together](https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby), [Jamie Allensworth](https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn) | [Together](https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo) | 3:43 |
 | 79 | [Picadillo](https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Delicate & Jumpy](https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J) | 5:34 |
-| 80 | [Nobreza](https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [Nobreza](https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq) | 3:21 |
-| 81 | [Agüita de Coco](https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Butera Knowless](https://open.spotify.com/artist/3x4ddfyjJHpGIBcPvdFxeK) | [Agüita de Coco](https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx) | 2:33 |
+| 80 | [Agüita de Coco](https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Butera Knowless](https://open.spotify.com/artist/3x4ddfyjJHpGIBcPvdFxeK) | [Agüita de Coco](https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx) | 2:33 |
+| 81 | [Nobreza](https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [Nobreza](https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq) | 3:21 |
 | 82 | [Yo La Vi](https://open.spotify.com/track/3Gc1LdChaPOVxFbGUuW8sq) | [Compass: Mexican Institute Of Sound + Toy Selectah](https://open.spotify.com/artist/4SXKAjs2uxonZB8OEZt8hm), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Toy Selectah](https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Compass](https://open.spotify.com/album/2SJKC7sZ0uS1m43oNarZHA) | 4:08 |
 | 83 | [30 Horas](https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ) | [Cuarta Pared](https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX) | [30 Horas](https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8) | 3:39 |
 | 84 | [La del bar](https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg) | [Gèrard](https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z) | [La del bar](https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi) | 2:34 |

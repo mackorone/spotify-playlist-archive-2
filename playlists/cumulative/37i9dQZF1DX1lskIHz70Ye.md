@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-215 songs - 10 hr 30 min
+216 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Senza Fine](https://open.spotify.com/track/2EGESNjQMOr0WPl9RCmtQo) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Senza Fine](https://open.spotify.com/album/2831RPrm9Yal2OCTmcNJ59) | 3:05 | 2022-10-07 |  |
 | [Serenade](https://open.spotify.com/track/7MD29BNc56aTaxjlGF82CL) | [Viktor Dahlgren](https://open.spotify.com/artist/6VrIZ7a7y73WrXVliEqL45) | [Serenade](https://open.spotify.com/album/6Kv6CdSStZVhsXsqKGA1Wx) | 3:15 | 2025-02-19 |  |
 | [Serenata Campechana](https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas, Vol\. 2](https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b) | 4:16 | 2022-03-03 | 2022-07-09 |
+| [Serene Sea](https://open.spotify.com/track/5mfYwOxLzCLO0yiUpklhxI) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Serene Sea](https://open.spotify.com/album/0eYtkKp3w0yxoInwPjPvHk) | 2:09 | 2026-10-02 |  |
 | [Seul à nouveau](https://open.spotify.com/track/7MQ4bNNexc21xh5WjLNaqX) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Seul à nouveau](https://open.spotify.com/album/18hZtTW0wKoF5FdjcpNRPh) | 2:18 | 2022-09-02 |  |
 | [Shades of Gold](https://open.spotify.com/track/1DwsosLW4IcmnhHQvIoLyY) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Shades of Gold](https://open.spotify.com/album/4Llm8jrhjIrVzVtkH4R8Q9) | 2:55 | 2026-05-29 |  |
 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 | 2022-03-03 |  |

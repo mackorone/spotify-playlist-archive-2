@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19669,
+  "num_followers": 19668,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACpdfihg61Mxu1IaBNENZjX",
+  "snapshot_id": "arxRAAAAAABDpF1MopKPWCGBt9A+cEXi",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 184000,
       "name": "Outside",
       "url": "https://open.spotify.com/track/66akDgOGJi139ys0umhBns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonsense (Remix)",
-        "url": "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 175648,
-      "name": "Nonsense (with Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 164256,
       "name": "Flava (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nonsense (Remix)",
+        "url": "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 175648,
+      "name": "Nonsense (with Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here 2 Stay",
         "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thieves In Atlanta (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 192048,
-      "name": "Thieves In Atlanta (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "They Got Amnesia",
         "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 185477,
       "name": "Push Start (with Coi Leray feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thieves In Atlanta (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 192048,
+      "name": "Thieves In Atlanta (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX35sy3iPnb31.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35sy3iPnb31) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX35sy3iPnb31)
 
-### [Editors' Picks: Best Canadian Songs of August](https://open.spotify.com/playlist/37i9dQZF1DX35sy3iPnb31)
+### [Editors' Picks: Best Canadian Songs of September](https://open.spotify.com/playlist/37i9dQZF1DX35sy3iPnb31)
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Lennon Stella
 

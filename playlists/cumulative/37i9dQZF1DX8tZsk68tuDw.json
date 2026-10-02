@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Mel\u00e9",
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with DJ HEARTSTRING",
   "name": "Dance Rising",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 285205,
       "name": "4X4",
       "url": "https://open.spotify.com/track/4yaWWGx1sd1E6jWalOv08M"
@@ -6502,7 +6502,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 219111,
       "name": "Back To Funk",
       "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
@@ -16364,6 +16364,32 @@
       "duration_ms": 416500,
       "name": "Confusion",
       "url": "https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7"
+    },
+    {
+      "album": {
+        "name": "Connected By Light",
+        "url": "https://open.spotify.com/album/6b9DMqotjI0cUcw8CE1u3W"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        },
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208854,
+      "name": "Connected By Light",
+      "url": "https://open.spotify.com/track/1HBJvNFEPWy8puFVlud8GU"
     },
     {
       "album": {
@@ -36792,7 +36818,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191818,
-      "name": "I Got A Story From... - Club Edit",
+      "name": "I Got A Story From... - Edds Eddit",
       "url": "https://open.spotify.com/track/28JJCpmvuGEmtKKrOEnCpo"
     },
     {
@@ -37992,7 +38018,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 226285,
       "name": "I'll Never Know",
       "url": "https://open.spotify.com/track/6yyVwtzuKV7ZPxLz60Wxp4"
@@ -39312,6 +39338,24 @@
       "duration_ms": 237986,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
+    },
+    {
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0okpe8lwtGjEk7RMjm0dZE"
+      },
+      "artists": [
+        {
+          "name": "Ellia Jaya",
+          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192180,
+      "name": "In The Zone",
+      "url": "https://open.spotify.com/track/4wPqBn3DqDyWN5hznwTRlm"
     },
     {
       "album": {
@@ -46308,6 +46352,24 @@
     {
       "album": {
         "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/3ZbK8r37aASznMcda031C5"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/7aghuR0jokdfhwirE7s8hu"
+    },
+    {
+      "album": {
+        "name": "Loosen Up",
         "url": "https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ"
       },
       "artists": [
@@ -47168,7 +47230,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 195428,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3"
@@ -49356,6 +49418,24 @@
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
+    },
+    {
+      "album": {
+        "name": "Marido Dansa EP",
+        "url": "https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154153,
+      "name": "Marido Dansa",
+      "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
     },
     {
       "album": {
@@ -54689,6 +54769,24 @@
     },
     {
       "album": {
+        "name": "Ghosts in the Static",
+        "url": "https://open.spotify.com/album/2ohC4XrHClJHBY9ayNjLpW"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "No Fool",
+      "url": "https://open.spotify.com/track/39SiHwLHq2k3SxC1EnVnoL"
+    },
+    {
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -57525,6 +57623,28 @@
     },
     {
       "album": {
+        "name": "Only Love (feat. Caroline Byrne)",
+        "url": "https://open.spotify.com/album/0EfUldJhWzfDbpKIsiRK6l"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "Only Love (feat. Caroline Byrne)",
+      "url": "https://open.spotify.com/track/2m8zrTkmOLN9kyxH1SD6Yx"
+    },
+    {
+      "album": {
         "name": "Only Love (LP Giobbi Remix)",
         "url": "https://open.spotify.com/album/45T3b0b3GdAGrg0AKVCUFB"
       },
@@ -59002,7 +59122,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 248612,
       "name": "Papi",
       "url": "https://open.spotify.com/track/0qQAMChkXSUQXikhhkbuDV"
@@ -63158,7 +63278,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 173750,
       "name": "Reason Why",
       "url": "https://open.spotify.com/track/2gdRuTUTwNMSuuBpam6XS3"
@@ -67475,6 +67595,28 @@
     },
     {
       "album": {
+        "name": "Sentimental Ultra",
+        "url": "https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Spriitzz",
+          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Sentimental Ultra",
+      "url": "https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn"
       },
@@ -69902,7 +70044,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 183809,
       "name": "So Good (feat. Kuuda)",
       "url": "https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY"
@@ -69972,7 +70114,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179500,
       "name": "So Many Things To Say",
       "url": "https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ"
@@ -78965,6 +79107,28 @@
     },
     {
       "album": {
+        "name": "To The Front",
+        "url": "https://open.spotify.com/album/0Soq75XwHqXGTgReaqVCtr"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138161,
+      "name": "To The Front",
+      "url": "https://open.spotify.com/track/7fF7p3s2PcYRuGpUPZweTm"
+    },
+    {
+      "album": {
         "name": "To The Money (feat. Flo Milli & 8AE)",
         "url": "https://open.spotify.com/album/2efMCGuPSpEgLoSPsg5a5e"
       },
@@ -82910,7 +83074,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 182441,
       "name": "Want To Know",
       "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
@@ -83056,6 +83220,24 @@
       "duration_ms": 156800,
       "name": "WARFARE",
       "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
+    },
+    {
+      "album": {
+        "name": "Warlord",
+        "url": "https://open.spotify.com/album/6tYSvopvMK6JbxwjGDwTSh"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "Warlord",
+      "url": "https://open.spotify.com/track/4WOvLGtZgRTQX3aCx9btnJ"
     },
     {
       "album": {

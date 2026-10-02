@@ -1,6 +1,6 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1632149,
+  "num_followers": 1632085,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 185640,
       "name": "Hoagy's Place",
       "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2026-07-09 23:27:48",

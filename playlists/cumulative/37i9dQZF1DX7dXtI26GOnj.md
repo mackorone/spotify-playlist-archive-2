@@ -2,9 +2,9 @@
 
 ### [Calorcito](https://open.spotify.com/playlist/37i9dQZF1DX7dXtI26GOnj)
 
-> Todo o calor latino aqui! Ay ay ay 🔥  foto: Rauw Alejandro
+> Todo o calor latino aqui! Ay ay ay 🔥  foto: Ricky Martin, PEDRO SAMPAIO
 
-575 songs - 1 day 5 hr 33 min
+576 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [PERVERSA](https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [ASTRO](https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG) | 2:12 | 2025-05-30 | 2026-04-04 |
 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-06-02 | 2023-07-08 |
 | [pessoa certa hora errada](https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [pessoa certa hora errada](https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ) | 2:44 | 2021-12-31 | 2022-04-09 |
+| [pikito pikito](https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [pikito pikito](https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB) | 3:00 | 2026-10-02 |  |
 | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF) | 3:18 | 2022-02-09 | 2022-03-05 |
 | [PISCIS](https://open.spotify.com/track/1UE0ml9PteZQJDhtV6mbb9) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [PISCIS](https://open.spotify.com/album/4u7ievdNvGacFKyTdW0eq5) | 1:52 | 2025-03-21 | 2025-06-13 |
 | [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 | 2025-01-06 | 2025-04-12 |
@@ -574,7 +575,7 @@
 | [XQTECE?](https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Omarcito Glock](https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD), [Zalo La Z](https://open.spotify.com/artist/0kBypOF0SIMAhMYaNb4Etn), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [XQTECE?](https://open.spotify.com/album/2e5r2q49amYBcZBPDnxAoK) | 3:54 | 2025-02-21 | 2025-04-19 |
 | [YA NO TE EXTRAÑO](https://open.spotify.com/track/70XGqzcK8c7GdVbr5begBH) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [YA NO TE EXTRAÑO](https://open.spotify.com/album/4RO9yfmO1QjZUklszKC4Ts) | 3:10 | 2023-12-08 | 2024-01-13 |
 | [YIN YAN](https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:09 | 2021-12-31 | 2022-01-15 |
-| [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 | 2026-04-03 |  |
+| [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 | 2026-04-03 | 2026-10-02 |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-02-09 | 2022-03-26 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-12-31 | 2023-05-20 |
 | [YOSEQTUAMAS](https://open.spotify.com/track/2SBKPe4e46SMAsoqChtoVQ) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [YOSEQTUAMAS](https://open.spotify.com/album/1nb0fMTW6uXIIy1E78GJpe) | 2:31 | 2026-07-17 |  |

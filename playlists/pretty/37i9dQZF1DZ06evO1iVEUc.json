@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAAX9/taoaigCyyR5x38+UP8",
+  "snapshot_id": "arxRAAAAAABouERQGc2HXqWdO2x81aGQ",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 237569,
-      "name": "2 Bad Habits",
-      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
+      "duration_ms": 248480,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 262766,
-      "name": "Think It Over",
-      "url": "https://open.spotify.com/track/548aQWCnaW5d6ytu4yoD4v"
+      "duration_ms": 237569,
+      "name": "2 Bad Habits",
+      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
       "duration_ms": 82866,
       "name": "Go Back To Your Life",
       "url": "https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 262766,
+      "name": "Think It Over",
+      "url": "https://open.spotify.com/track/548aQWCnaW5d6ytu4yoD4v"
     },
     {
       "added_at": null,
@@ -560,21 +560,17 @@
       "added_at": null,
       "album": {
         "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 241466,
-      "name": "Stay For A While (feat. Anthony Hamilton)",
-      "url": "https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm"
+      "duration_ms": 236533,
+      "name": "U-Haul",
+      "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
     },
     {
       "added_at": null,
@@ -636,17 +632,21 @@
       "added_at": null,
       "album": {
         "name": "Stone Love",
-        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 236533,
-      "name": "U-Haul",
-      "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
+      "duration_ms": 241466,
+      "name": "Stay For A While (feat. Anthony Hamilton)",
+      "url": "https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 185333,
-      "name": "O-O-H Child",
-      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
+      "duration_ms": 245173,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
     },
     {
       "added_at": null,
@@ -704,78 +704,6 @@
       "added_at": null,
       "album": {
         "name": "Stone Love",
-        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Come Home (Live With Me)",
-      "url": "https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Gangster And A Gentleman",
-        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
-      },
-      "artists": [
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 268693,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Pauletta Washington",
-          "url": "https://open.spotify.com/artist/1xPmfPmx5uMCXmTcB5aEiT"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Happy Being Me",
-      "url": "https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
       "artists": [
@@ -807,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Gangster And A Gentleman",
+        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
+      },
+      "artists": [
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 268693,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "18 & 18 B-Sides",
         "url": "https://open.spotify.com/album/2moGNpXgrcBzIF5M1PqF4K"
       },
@@ -831,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
       },
       "artists": [
         {
@@ -840,9 +788,45 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 271493,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
+      "duration_ms": 237133,
+      "name": "Come Home (Live With Me)",
+      "url": "https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "O-O-H Child",
+      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Pauletta Washington",
+          "url": "https://open.spotify.com/artist/1xPmfPmx5uMCXmTcB5aEiT"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Happy Being Me",
+      "url": "https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v"
     },
     {
       "added_at": null,
@@ -912,9 +896,29 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
+      "duration_ms": 271493,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chocolate Invasion (Trax From The NPG Music Club Volume One)",
+        "url": "https://open.spotify.com/album/1v48RtdtTRvnqYVOxsj2q3"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 425586,
+      "name": "U Make My Sun Shine (feat. Angie Stone)",
+      "url": "https://open.spotify.com/track/6ucOlSv5N8sa18vJIkE7lf"
     }
   ],
   "unique_name": "This Is Angie Stone",

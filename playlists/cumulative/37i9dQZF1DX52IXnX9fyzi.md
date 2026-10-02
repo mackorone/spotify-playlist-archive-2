@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-596 songs - 1 day 1 hr 39 min
+599 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2022-04-14 | 2022-07-29 |
 | [Asa No Kiri](https://open.spotify.com/track/6lQdgoT6Y7XHyWCLbHsru3) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Seishin](https://open.spotify.com/album/5MFgzKASBxKXV8fQlUxuHv) | 1:46 | 2022-07-15 | 2024-02-03 |
 | [Ascending](https://open.spotify.com/track/5Z1nCExkwBTSxXfHB00GI5) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Ascending](https://open.spotify.com/album/5Dx4wF4Hw41uaGsE8h4Cp9) | 2:44 | 2022-05-26 | 2025-01-08 |
+| [Astro](https://open.spotify.com/track/5fpSMuXfQGRsKqSE4fqepu) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Astro](https://open.spotify.com/album/50IglsFdvzadcedAMM2MZV) | 2:21 | 2026-10-02 |  |
 | [Au Chevet](https://open.spotify.com/track/1ZwBhaslHhzWcXcMcMAj8K) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [Au Chevet](https://open.spotify.com/album/3ohmAEcfLlPaUSfjBWO8H8) | 2:53 | 2022-04-14 | 2024-10-23 |
 | [Aurskog](https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Aurskog](https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG) | 2:05 | 2022-04-14 | 2026-02-11 |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2022-04-14 | 2024-04-04 |
@@ -81,6 +82,7 @@
 | [Blazing](https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Blazing](https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu) | 2:07 | 2022-04-27 | 2025-01-08 |
 | [Blessed with a fire](https://open.spotify.com/track/1CjqK7of4R5W0lrUjjfRdx) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Blessed with a fire](https://open.spotify.com/album/4OkclVD647nRAOSsgOzxKr) | 2:06 | 2023-07-18 | 2025-04-24 |
 | [Blue Balloon](https://open.spotify.com/track/1L06LDQLfZlCDbM54Wo9gT) | [Saah](https://open.spotify.com/artist/1gu7CrdnoVqZKicUZlyhoa) | [Blue Balloon](https://open.spotify.com/album/6158ZLfj9UTMVQsCcUbNKm) | 2:25 | 2023-12-12 | 2026-08-01 |
+| [Blue Glass](https://open.spotify.com/track/4nY0ny421yvfYFpdzCMG98) | [Xoi Xoi](https://open.spotify.com/artist/2sn3KUN2HhvxV2SLWMWxKl) | [Blue Glass](https://open.spotify.com/album/6Sbsq7hStpPkbkKAVyHL08) | 2:17 | 2026-10-02 |  |
 | [Blue Light](https://open.spotify.com/track/7dquOWRPNWnUT5i4R0mP90) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Blue Light](https://open.spotify.com/album/7LcAKBxLzrACoefQrTLUQ1) | 2:14 | 2022-05-26 | 2024-10-02 |
 | [Bonjour](https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Bonjour](https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD) | 2:39 | 2024-05-01 | 2026-05-23 |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/00PMrRJ5KFM730sipeOuoz) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- First Meditation](https://open.spotify.com/album/5VaNEQPcYQ87Kj1fYW1uTn) | 1:48 | 2023-09-18 | 2023-10-25 |
@@ -411,6 +413,7 @@
 | [Return of the wolves](https://open.spotify.com/track/2OIzFIGMPL2UCjtDyEjzhK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG), [Housman](https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56) | [Return of the wolves](https://open.spotify.com/album/5zldCchYUyq0M1gbxkRuhQ) | 2:46 | 2023-09-05 | 2026-02-11 |
 | [Riding the wind](https://open.spotify.com/track/4msrNRwWXkGX3qdgOgD0nJ) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Riding the wind](https://open.spotify.com/album/7n2aLPN7oTJNDQ01UexRBn) | 3:21 | 2023-08-22 | 2026-05-23 |
 | [Ripples of Moonlight](https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Ripples of Moonlight](https://open.spotify.com/album/3Kwj5lCmfovJVt9qjVT6VY) | 2:11 | 2023-11-21 | 2026-05-16 |
+| [Riviera](https://open.spotify.com/track/0vDBjIasvAVQTKCVEqumeA) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Riviera](https://open.spotify.com/album/3A7yxdrJzCWRFeNLrywF0F) | 2:43 | 2026-10-02 |  |
 | [Roku](https://open.spotify.com/track/128pMqpJNmJjl3T82dsC7U) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Asa](https://open.spotify.com/album/7e91Gkl0P2cW2NcofxcVvX) | 2:21 | 2023-09-05 | 2026-05-09 |
 | [Romance No 2 'Normandie'](https://open.spotify.com/track/4zGwlwhObmrKxQSVwaWFMA) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Romance No 2 'Normandie'](https://open.spotify.com/album/6DEdXVTwC9oIO4DVvIqT7s) | 3:14 | 2022-05-04 | 2024-10-02 |
 | [Romantic Theme X](https://open.spotify.com/track/57aqcpd8EXl1k1pWDSZY7n) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Romantic Theme X](https://open.spotify.com/album/5fcLeerhYIat8LZYcyXxU1) | 2:41 | 2023-06-20 | 2025-04-05 |

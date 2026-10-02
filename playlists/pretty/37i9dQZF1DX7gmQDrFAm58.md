@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,240 likes - 120 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,235 likes - 120 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 43 | [Butterfly Song](https://open.spotify.com/track/3B6fE7oCyZhGpEOE4eE2Ay) | [Lue Miles](https://open.spotify.com/artist/2cxel74Dv32TWXq5q9sqAU) | [Butterfly Song](https://open.spotify.com/album/4jdKw7j3RiLbd70FqoDlQj) | 2:04 |
 | 44 | [Knackle Back](https://open.spotify.com/track/7kjnyXWlhQdlrtFX1a39K8) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Knackle Back](https://open.spotify.com/album/2wOW8e8QozWcb89PDhVlaw) | 1:42 |
 | 45 | [Sleepy Teddy's Tale](https://open.spotify.com/track/45LzgmtpD3LqOfzi4bKBOr) | [Jordan Avery](https://open.spotify.com/artist/1LXnzItmTIO6wBobBHHj7a) | [Sleepy Teddy's Tale](https://open.spotify.com/album/5beaPgAqOLpHPnGfHuTQTK) | 1:22 |
-| 46 | [It's Raining, It's Pouring](https://open.spotify.com/track/5MdZWaY3aYrqRwR9y0Fq2L) | [Fukuro III](https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V) | [It's Raining, It's Pouring](https://open.spotify.com/album/3XDaVT8hBkvhlSw91AY2z3) | 2:41 |
-| 47 | [Dreamy Blue Skies](https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Dreamy Blue Skies](https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA) | 1:39 |
-| 48 | [Fun Adventure](https://open.spotify.com/track/3LwAe77XnL0B49uC6jDVTh) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [Fun Adventure](https://open.spotify.com/album/4r7cP73njueNrU9a95TVhT) | 2:26 |
+| 46 | [Dreamy Blue Skies](https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Dreamy Blue Skies](https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA) | 1:39 |
+| 47 | [Fun Adventure](https://open.spotify.com/track/3LwAe77XnL0B49uC6jDVTh) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [Fun Adventure](https://open.spotify.com/album/4r7cP73njueNrU9a95TVhT) | 2:26 |
+| 48 | [It's Raining, It's Pouring](https://open.spotify.com/track/5MdZWaY3aYrqRwR9y0Fq2L) | [Fukuro III](https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V) | [It's Raining, It's Pouring](https://open.spotify.com/album/3XDaVT8hBkvhlSw91AY2z3) | 2:41 |
 | 49 | [Hug me](https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Hug me](https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu) | 1:35 |
 | 50 | [Teeny Tiny Baby Birds](https://open.spotify.com/track/6DRSLmkTqHGodtNfRUQmiu) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Teeny Tiny Baby Birds](https://open.spotify.com/album/6y0oN1tnfkvaq7gp5Sm9bL) | 1:27 |
 | 51 | [I Am the Captain](https://open.spotify.com/track/4jUZM2I3o2TcfZjZQe1cms) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [I Am the Captain](https://open.spotify.com/album/01hhqEPnOMtMX6wgJ5hYu3) | 1:39 |
@@ -105,14 +105,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 95 | [Sweet Slumber](https://open.spotify.com/track/1iQnGjpwi75756UHViEqjN) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Lullaby Land](https://open.spotify.com/album/241TGPQPSZ5HqcyP4iSvJN) | 1:33 |
 | 96 | [BINGO](https://open.spotify.com/track/3iDlyTLMgkz5ytngqkdj9C) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [BINGO](https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI) | 2:10 |
 | 97 | [It's a Small World](https://open.spotify.com/track/5r33lzWTF5mUOaL0ydVdVG) | [Callum Waterford](https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame) | [It's a Small World](https://open.spotify.com/album/3CKHyzgaKJilIAS8l3458l) | 1:35 |
-| 98 | [Golden Dreams](https://open.spotify.com/track/7K3ct3kNB4DbmABnWsuPIq) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Golden Dreams](https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW) | 1:48 |
-| 99 | [Here Comes The Night](https://open.spotify.com/track/1RaPC5ZXzUtiGGDDMJGPXK) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Songs To Sleep To](https://open.spotify.com/album/0HmMHea4hvUgPZF3p4gsKt) | 2:09 |
-| 100 | [Coconut Lullaby](https://open.spotify.com/track/6Mw7O72duVGaJnPY6WZPWt) | [William Flake](https://open.spotify.com/artist/0p3iReA37Fhy2A1ViLUcp4) | [Coconut Lullaby](https://open.spotify.com/album/0Enm48bxdpNkTqidwAXeCZ) | 1:51 |
-| 101 | [The Stars Above](https://open.spotify.com/track/1WY6rpRhyd0RFFiHUkYjRb) | [Luna Lullaby](https://open.spotify.com/artist/536tWPZqsyMSqSLXbftqg1) | [The Stars Above](https://open.spotify.com/album/7pHXhZ3mHRPj5Go0nlCmBD) | 1:40 |
+| 98 | [The Stars Above](https://open.spotify.com/track/1WY6rpRhyd0RFFiHUkYjRb) | [Luna Lullaby](https://open.spotify.com/artist/536tWPZqsyMSqSLXbftqg1) | [The Stars Above](https://open.spotify.com/album/7pHXhZ3mHRPj5Go0nlCmBD) | 1:40 |
+| 99 | [Golden Dreams](https://open.spotify.com/track/7K3ct3kNB4DbmABnWsuPIq) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Golden Dreams](https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW) | 1:48 |
+| 100 | [Here Comes The Night](https://open.spotify.com/track/1RaPC5ZXzUtiGGDDMJGPXK) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Songs To Sleep To](https://open.spotify.com/album/0HmMHea4hvUgPZF3p4gsKt) | 2:09 |
+| 101 | [Coconut Lullaby](https://open.spotify.com/track/6Mw7O72duVGaJnPY6WZPWt) | [William Flake](https://open.spotify.com/artist/0p3iReA37Fhy2A1ViLUcp4) | [Coconut Lullaby](https://open.spotify.com/album/0Enm48bxdpNkTqidwAXeCZ) | 1:51 |
 | 102 | [You And Me](https://open.spotify.com/track/6Gkekn4vTkqR1leDE7hjs0) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Bedtime Melodies](https://open.spotify.com/album/3tBxqFudcu4upFnwbsMEG3) | 1:45 |
 | 103 | [Safe and Sound](https://open.spotify.com/track/2tYsjJ92cFc8n0dxV4EhMO) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [In My Arms](https://open.spotify.com/album/0ms2g8Zl0bs1G2VxEBl8BL) | 1:56 |
-| 104 | [Baby Miracle](https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Baby Miracle](https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi) | 1:51 |
-| 105 | [You Can Close Your Eyes](https://open.spotify.com/track/17JdBU8XhaQHTSFVRUIXg5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [You Can Close Your Eyes](https://open.spotify.com/album/0inOy4tIchEEMyQvxddMxY) | 1:46 |
+| 104 | [You Can Close Your Eyes](https://open.spotify.com/track/17JdBU8XhaQHTSFVRUIXg5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [You Can Close Your Eyes](https://open.spotify.com/album/0inOy4tIchEEMyQvxddMxY) | 1:46 |
+| 105 | [Baby Miracle](https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Baby Miracle](https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi) | 1:51 |
 | 106 | [Butterflies](https://open.spotify.com/track/6911enshoKYsen0CF2rLwq) | [Carlton Howland](https://open.spotify.com/artist/2w3kf88cpyF3SyYN0iGocx) | [Butterflies](https://open.spotify.com/album/6h7Psm9coLEenLZ5po1grF) | 1:14 |
 | 107 | [Butterfly Lullaby](https://open.spotify.com/track/47nLuiBvDPtHJeZiewC4o0) | [Isa Gillis](https://open.spotify.com/artist/3rU2YqShYRVpdKKMHcJtJZ) | [Butterfly Lullaby](https://open.spotify.com/album/0XudE2k1p1SSiC50KGaicL) | 2:35 |
 | 108 | [Little Ballerina](https://open.spotify.com/track/0iVFnnn0nCjdv2XhlO7BA9) | [Niels Olaf](https://open.spotify.com/artist/67wAX23O6iI5YrZKU1f6xq) | [Little Ballerina](https://open.spotify.com/album/7bLaVvG89oTvjZJcGWp8kO) | 1:34 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 114 | [My Pink Baloon](https://open.spotify.com/track/6BDbtRoNOapsFeJQGE5fmv) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [My Pink Baloon](https://open.spotify.com/album/1LeFmlbaMfz6i9nNEgfqh6) | 1:35 |
 | 115 | [Bedside Lamp](https://open.spotify.com/track/3XSiZolukB6iiNITmWLKbK) | [Isabella Kent](https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB) | [Bedside Lamp](https://open.spotify.com/album/6JxxZ2GZVyaUVRRXxuEsS7) | 1:15 |
 | 116 | [Lullaby For Olivia](https://open.spotify.com/track/2eLajJ02SbBuEaJ8m40af8) | [Niels Olaf](https://open.spotify.com/artist/67wAX23O6iI5YrZKU1f6xq) | [Lullaby For Olivia](https://open.spotify.com/album/4t6ZL4aPaYTb9Up7dgSsN9) | 1:37 |
-| 117 | [Sandman](https://open.spotify.com/track/02FfqOI4EcQBHfDkECZW69) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Sandman](https://open.spotify.com/album/16DUnk7CYpdtLdGFLlDc2G) | 1:32 |
-| 118 | [Sun, Sun, Sun Again](https://open.spotify.com/track/3YUgoNudwj20Sfsf7UKDZz) | [David Finnegan](https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0) | [Sun, Sun, Sun Again](https://open.spotify.com/album/43g1JHsFMK0uLnqSVb6wQR) | 1:12 |
+| 117 | [Sun, Sun, Sun Again](https://open.spotify.com/track/3YUgoNudwj20Sfsf7UKDZz) | [David Finnegan](https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0) | [Sun, Sun, Sun Again](https://open.spotify.com/album/43g1JHsFMK0uLnqSVb6wQR) | 1:12 |
+| 118 | [Sandman](https://open.spotify.com/track/02FfqOI4EcQBHfDkECZW69) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Sandman](https://open.spotify.com/album/16DUnk7CYpdtLdGFLlDc2G) | 1:32 |
 | 119 | [My Dreamland](https://open.spotify.com/track/7pr6Gr8kWMdn0tnC32SN8U) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [My Dreamland](https://open.spotify.com/album/75tjsimnIEVn869NRRiFpa) | 1:35 |
 | 120 | [Hey Jude](https://open.spotify.com/track/5R0Ltvrb5N8FnXOIbLUAos) | [Sheep Counting](https://open.spotify.com/artist/4y3z52Aw8gXJ5iHFiTJXeP) | [Hey Jude](https://open.spotify.com/album/6bd2EjJWCn1OZaETntRyED) | 1:24 |
 

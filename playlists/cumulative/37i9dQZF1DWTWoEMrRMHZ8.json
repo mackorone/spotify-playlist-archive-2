@@ -4079,6 +4079,28 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/2gjoYpivdKaMgyqfZMrAIg"
+      },
+      "artists": [
+        {
+          "name": "Afonso Dubraz",
+          "url": "https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe"
+        },
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183641,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/6FF73EidnkO6TvgnUsZNHB"
+    },
+    {
+      "album": {
         "name": "Cairo",
         "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
       },
@@ -9361,6 +9383,24 @@
     },
     {
       "album": {
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/4CpygNo6hhtstE5OKqXJBt"
+      },
+      "artists": [
+        {
+          "name": "Ananda Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D"
+    },
+    {
+      "album": {
         "name": "Flor de Maracuj\u00e1",
         "url": "https://open.spotify.com/album/6y6BalfQYIoT8Mx6Qc5bnr"
       },
@@ -9648,7 +9688,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 134341,
       "name": "Futuro Fruto",
       "url": "https://open.spotify.com/track/7BAi4V7nTi5NCDXLXvBwOt"
@@ -10631,6 +10671,24 @@
     },
     {
       "album": {
+        "name": "IP\u00ca",
+        "url": "https://open.spotify.com/album/4eY8LK7odr5p6O5dV7ks6C"
+      },
+      "artists": [
+        {
+          "name": "PP",
+          "url": "https://open.spotify.com/artist/69hIKin4Uhp9JkiruaTNeJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125432,
+      "name": "IP\u00ca",
+      "url": "https://open.spotify.com/track/2ZvTZkZ3QAprxNwLVdGff8"
+    },
+    {
+      "album": {
         "name": "Gira Mundo",
         "url": "https://open.spotify.com/album/5oh1vYj0UR3CT80XPQOPKJ"
       },
@@ -10974,6 +11032,24 @@
       "duration_ms": 247610,
       "name": "Juntinho",
       "url": "https://open.spotify.com/track/5pjPHAIQ0iCbWF48TaqhGb"
+    },
+    {
+      "album": {
+        "name": "Tarde em Copacabana",
+        "url": "https://open.spotify.com/album/1jBD8mEokebsGO3OFy5196"
+      },
+      "artists": [
+        {
+          "name": "Dom Amorim",
+          "url": "https://open.spotify.com/artist/1ZKEp9XLeKXu8qbbaw9QgA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181199,
+      "name": "Jurei",
+      "url": "https://open.spotify.com/track/7JresFyuamTkbI0vgRFysB"
     },
     {
       "album": {
@@ -11698,7 +11774,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 278212,
       "name": "Lugar Comum",
       "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
@@ -12477,6 +12553,24 @@
     },
     {
       "album": {
+        "name": "MATUMBI (Ao vivo)",
+        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
+      },
+      "artists": [
+        {
+          "name": "Lazzo Matumbi",
+          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183680,
+      "name": "MATUMBI - Ao vivo",
+      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
+    },
+    {
+      "album": {
         "name": "25 Anos de M\u00fasica",
         "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
       },
@@ -12568,7 +12662,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 188714,
       "name": "Me Devora",
       "url": "https://open.spotify.com/track/1JCG7ZiDvgpIYvXn0ciuQ5"
@@ -15181,6 +15275,28 @@
     },
     {
       "album": {
+        "name": "N\u00d3S",
+        "url": "https://open.spotify.com/album/2DTb4PV6ULoaHWgRJ2Xauh"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cruz",
+          "url": "https://open.spotify.com/artist/3rz9EEzOyMgtVEnrplaD7h"
+        },
+        {
+          "name": "garotamilena",
+          "url": "https://open.spotify.com/artist/1DwC5f9hcduIrHM6gp7mVo"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "N\u00d3S",
+      "url": "https://open.spotify.com/track/2X50ZlAwADKYkmgliV03Gm"
+    },
+    {
+      "album": {
         "name": "N\u00f3s dois \u00e9 bem melhor",
         "url": "https://open.spotify.com/album/4rzDSw6sJGijfL0H98LhO3"
       },
@@ -16640,7 +16756,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
@@ -18276,6 +18392,24 @@
       "duration_ms": 145714,
       "name": "Pra Te Dizer Que T\u00f4 Feliz Assim",
       "url": "https://open.spotify.com/track/4VggEXSKwqd0ifaWStu9wz"
+    },
+    {
+      "album": {
+        "name": "Pra Ter Fim",
+        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204177,
+      "name": "Pra Ter Fim",
+      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
     },
     {
       "album": {
@@ -20449,6 +20583,28 @@
     },
     {
       "album": {
+        "name": "Saara No Rio",
+        "url": "https://open.spotify.com/album/3X8zN1yXYLLJntjAB996UB"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Rik Oliveira",
+          "url": "https://open.spotify.com/artist/57obwqvQ0XtMlXprugNUGz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282720,
+      "name": "Saara No Rio",
+      "url": "https://open.spotify.com/track/3fgYUrgScJ7C1zLR9u0016"
+    },
+    {
+      "album": {
         "name": "Sabi\u00e1",
         "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
       },
@@ -21252,7 +21408,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 174565,
       "name": "SEM DRAMAS",
       "url": "https://open.spotify.com/track/7aYoAp3JEVSEpZHW0r06hw"
@@ -22090,7 +22246,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 230679,
       "name": "Sonhos",
       "url": "https://open.spotify.com/track/7q1hyBzGyGrMWEFxTpLJc2"
@@ -22798,7 +22954,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199000,
       "name": "Tanto Voc\u00ea",
       "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
@@ -24908,7 +25064,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 125193,
       "name": "VAMO COM CALMA, MALANDRA",
       "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
@@ -25792,6 +25948,24 @@
       "duration_ms": 149535,
       "name": "Vou Ficar Bem",
       "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"
+    },
+    {
+      "album": {
+        "name": "vov\u00f3vov\u00f4",
+        "url": "https://open.spotify.com/album/3LBgxHEn4tzZk8cvC1rBaQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "vov\u00f3vov\u00f4",
+      "url": "https://open.spotify.com/track/6CIyABTaa6C2Sqvr0NueJN"
     },
     {
       "album": {

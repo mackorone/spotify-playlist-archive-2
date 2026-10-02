@@ -13417,6 +13417,24 @@
     },
     {
       "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/7BZ6Sdo0vSiolntOc2xTtk"
+      },
+      "artists": [
+        {
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/3FcaSznqduNCvDmQOXF4aE"
+    },
+    {
+      "album": {
         "name": "inverno",
         "url": "https://open.spotify.com/album/1utXo2tIXx4QD4hxu7IiZC"
       },
@@ -28860,6 +28878,24 @@
       "duration_ms": 116220,
       "name": "The Longer I Wait",
       "url": "https://open.spotify.com/track/0XCTZX036IzhP1ea8CrDK3"
+    },
+    {
+      "album": {
+        "name": "The Looking Glass",
+        "url": "https://open.spotify.com/album/674Qk06OEafqD12pfPz035"
+      },
+      "artists": [
+        {
+          "name": "V\u00f8laire",
+          "url": "https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149962,
+      "name": "The Looking Glass",
+      "url": "https://open.spotify.com/track/2Dvek7u6bKE9IY5Qu4l132"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-225 songs - 11 hr 42 min
+227 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,11 +54,12 @@
 | [Dit Is Zo'n Dag](https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Dit Is Zo'n Dag](https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H) | 3:27 | 2025-04-16 |  |
 | [Door En Door](https://open.spotify.com/track/7cATx9Gorgj9VCl97NCWRe) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Door En Door](https://open.spotify.com/album/4MM2s2BHa319dYoeSD4e9h) | 3:13 | 2025-03-06 | 2025-04-16 |
 | [Droom Een Beetje Meer](https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Droom Een Beetje Meer](https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt) | 3:25 | 2025-04-10 |  |
-| [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 | 2025-06-04 |  |
+| [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 | 2025-06-04 | 2026-10-02 |
 | [Echo Zonder Naam](https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Echo Zonder Naam](https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd) | 3:33 | 2026-07-09 |  |
 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 | 2024-11-07 | 2026-09-25 |
 | [Een Andere Jij \- Akoestisch](https://open.spotify.com/track/0VJp4AxKemC3pmhbERavxn) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Een Andere Jij \- Akoestisch](https://open.spotify.com/album/0ApIodL4hUXlRbh1A7H2nf) | 2:45 | 2026-09-24 |  |
 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 | 2025-04-03 | 2025-05-09 |
+| [Er wordt altijd ergens gedanst](https://open.spotify.com/track/0e1WVeOISkkdZyXW47vTUS) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Er wordt altijd ergens gedanst](https://open.spotify.com/album/70wylgcdsrBAxacZfFkDru) | 3:34 | 2026-10-01 |  |
 | [Eén keer achterom](https://open.spotify.com/track/0Dacq628mf81r6ZGFGMio5) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Eén keer achterom](https://open.spotify.com/album/0TlIHAMKFWelmt9DKUxTBz) | 3:45 | 2025-11-06 | 2025-11-14 |
 | [Fiasco](https://open.spotify.com/track/7i5x2DcnSzZaysnT9TIlFu) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Fiasco](https://open.spotify.com/album/4OXuvQj5PiA5nwTyDvhBK2) | 2:22 | 2024-09-19 | 2024-10-25 |
 | [Ga Maar Gauw](https://open.spotify.com/track/7BqgNKFlthSF7kF0bjqg3N) | [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [Ga Maar Gauw](https://open.spotify.com/album/2eOt2P8J0vvlS7tR1Mw7CH) | 3:07 | 2025-05-08 |  |
@@ -132,6 +133,7 @@
 | [Louder](https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3) | 3:49 | 2024-06-24 | 2024-08-30 |
 | [Love Song](https://open.spotify.com/track/3caukRr0UZRCvg2QCvbGeH) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Love Song](https://open.spotify.com/album/214tK7D0YvGWW2p7yJgtbP) | 3:04 | 2024-09-12 | 2024-12-13 |
 | [Maar Niet Met Jou Erbij](https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Maar Niet Met Jou Erbij](https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey) | 3:01 | 2024-06-24 | 2024-11-05 |
+| [Meisje](https://open.spotify.com/track/5CqUZRlI77svQlTHewLwQP) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Meisje](https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi) | 3:23 | 2026-10-01 |  |
 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 | 2025-01-08 |  |
 | [Met de tijd](https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Met de tijd](https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW) | 3:31 | 2026-03-26 |  |
 | [Middenweg](https://open.spotify.com/track/3b9LcqTuGaPtQigdbyuFZE) | [Reyck](https://open.spotify.com/artist/36t2vlP5OiRO1G7EgxgNvU) | [Los](https://open.spotify.com/album/6bgCKabxQJRfIMpQw0oi0f) | 3:03 | 2024-07-25 | 2024-09-20 |
@@ -175,7 +177,7 @@
 | [Scherven](https://open.spotify.com/track/14h13moB369WHcbOOjOY0z) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Scherven](https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew) | 2:59 | 2025-03-06 | 2025-06-27 |
 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 | 2024-06-24 | 2024-12-13 |
 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 | 2024-11-04 | 2025-12-04 |
-| [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 | 2025-04-10 |  |
+| [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 | 2025-04-10 | 2026-10-02 |
 | [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 | 2024-12-12 | 2025-04-13 |
 | [Slaapwandelaar](https://open.spotify.com/track/47TXIa09GpZU1zSu9xc3p2) | [Bart Voncken](https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa), [Fluitsma & van Tijn](https://open.spotify.com/artist/6Rt7Udi1gfj5d1jkebhmKg) | [Slaapwandelaar](https://open.spotify.com/album/5ynpuj3Kb6zGCJSJS4NO3R) | 3:16 | 2024-06-24 | 2024-11-22 |
 | [Slapeloos](https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Slapeloos](https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4) | 3:09 | 2024-09-12 | 2025-03-07 |

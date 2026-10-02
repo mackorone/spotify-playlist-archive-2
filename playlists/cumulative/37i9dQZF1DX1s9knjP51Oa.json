@@ -11557,6 +11557,24 @@
     },
     {
       "album": {
+        "name": "Safe Harbour",
+        "url": "https://open.spotify.com/album/4ZeHt5NFc0pmd56X02b1nt"
+      },
+      "artists": [
+        {
+          "name": "Sondre Waltz",
+          "url": "https://open.spotify.com/artist/0tkvxKp9fbGRC0hg8TWp0U"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162300,
+      "name": "Safe Harbour",
+      "url": "https://open.spotify.com/track/0PFwvBe4AnIA3VXOkg0HWk"
+    },
+    {
+      "album": {
         "name": "Sagesse en Amour",
         "url": "https://open.spotify.com/album/3jlN7BgH820pjPsJw9M8C5"
       },
@@ -15558,6 +15576,24 @@
       "duration_ms": 161374,
       "name": "When the evening falls",
       "url": "https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL"
+    },
+    {
+      "album": {
+        "name": "When Time Softens",
+        "url": "https://open.spotify.com/album/0221em9Zt7xmK4CGXxRSmY"
+      },
+      "artists": [
+        {
+          "name": "Elian Vale",
+          "url": "https://open.spotify.com/artist/3rBMKkHDotvACQiKeeZOir"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144843,
+      "name": "When Time Softens",
+      "url": "https://open.spotify.com/track/30oAtgwrdeelu4WSX3ijdX"
     },
     {
       "album": {

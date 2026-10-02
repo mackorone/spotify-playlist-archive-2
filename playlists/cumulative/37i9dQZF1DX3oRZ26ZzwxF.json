@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Hoodbaby",
+  "description": "Le meilleur du rap africain francophone. Photo : Suspect 95",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -800,7 +800,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 168046,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/7bsRJRmIzJlOZOsCLOPsT6"
@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "BIGSTAR",
+        "url": "https://open.spotify.com/album/6o4ktLeFCMhl3RzR7X1Brn"
+      },
+      "artists": [
+        {
+          "name": "VVS CHATTA",
+          "url": "https://open.spotify.com/artist/0dXyT32oh3Kq7FQ1GUYdMB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105351,
+      "name": "Big Star",
+      "url": "https://open.spotify.com/track/0VlUoXTfLMHbVuJuDne2Q6"
+    },
+    {
+      "album": {
         "name": "KIN",
         "url": "https://open.spotify.com/album/2QR90IbHvWeON5AOdIG503"
       },
@@ -1026,6 +1044,28 @@
       "duration_ms": 140527,
       "name": "BLOCK",
       "url": "https://open.spotify.com/track/4kUsJ1k2xR5FrI3GttIulA"
+    },
+    {
+      "album": {
+        "name": "Blue Bird",
+        "url": "https://open.spotify.com/album/32wOUiMfqICELuKsgPjeYw"
+      },
+      "artists": [
+        {
+          "name": "Jordy Escobar",
+          "url": "https://open.spotify.com/artist/7y8rRFHnMzwKqKxgyLwJIb"
+        },
+        {
+          "name": "Genjutsu Beats",
+          "url": "https://open.spotify.com/artist/1Y7K6Fwt75xfqAfh86DDFY"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129295,
+      "name": "Blue Bird",
+      "url": "https://open.spotify.com/track/4iW60NNMkamRJZTOOHIs7B"
     },
     {
       "album": {
@@ -2054,7 +2094,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 183508,
       "name": "Comme \u00e7a",
       "url": "https://open.spotify.com/track/6cAfOKQQULYogHO1KiHoHK"
@@ -2152,7 +2192,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 143369,
       "name": "CONTINUE",
       "url": "https://open.spotify.com/track/7gq5vPY152YQkAczlqWuNb"
@@ -2288,6 +2328,24 @@
       "duration_ms": 200221,
       "name": "C\u2019PAS MM CHOSE",
       "url": "https://open.spotify.com/track/0rIE652lQqE7NK6sHR5ive"
+    },
+    {
+      "album": {
+        "name": "Daande Jamaa",
+        "url": "https://open.spotify.com/album/56kpY7BUNvFezjbXemcn83"
+      },
+      "artists": [
+        {
+          "name": "Straiker",
+          "url": "https://open.spotify.com/artist/4omH2riu3dPufwxEOitxfG"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Daande Jamaa",
+      "url": "https://open.spotify.com/track/2JFrZJfAHatl0RMM3WtIZG"
     },
     {
       "album": {
@@ -2995,6 +3053,28 @@
     },
     {
       "album": {
+        "name": "EN KINKONZ",
+        "url": "https://open.spotify.com/album/76m7lcRV6XEDS1oshLvFCS"
+      },
+      "artists": [
+        {
+          "name": "Shapat",
+          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
+        },
+        {
+          "name": "La Diktatur",
+          "url": "https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163558,
+      "name": "EN KINKONZ",
+      "url": "https://open.spotify.com/track/33HaTeHq3KBS1P3JPUAcAT"
+    },
+    {
+      "album": {
         "name": "EN STRING",
         "url": "https://open.spotify.com/album/3Q3soevfwcQiCIodGOOp90"
       },
@@ -3240,7 +3320,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 196005,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/2zF8ceLvvvP1EhI8ggypHj"
@@ -3342,6 +3422,24 @@
       "duration_ms": 109714,
       "name": "Fav\u00e9la Ghetto",
       "url": "https://open.spotify.com/track/0MAUFFPj1wK2trsXUkj9gT"
+    },
+    {
+      "album": {
+        "name": "FGLM",
+        "url": "https://open.spotify.com/album/3pqnLnDcnJyXAjbLc0X9UM"
+      },
+      "artists": [
+        {
+          "name": "Andy S",
+          "url": "https://open.spotify.com/artist/3ITARgOhBflkfjwmSNsiIK"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147695,
+      "name": "FGLM",
+      "url": "https://open.spotify.com/track/28OC9fRC71m4Oij5HiuHcz"
     },
     {
       "album": {
@@ -3658,6 +3756,32 @@
       "duration_ms": 152876,
       "name": "GAWAYA.",
       "url": "https://open.spotify.com/track/3ghVMn5q0q4Dr4D2EJx5Wz"
+    },
+    {
+      "album": {
+        "name": "GBONHI",
+        "url": "https://open.spotify.com/album/6a0FB1Zd0HvbjfflgalpAa"
+      },
+      "artists": [
+        {
+          "name": "AKIM PAPICHULO",
+          "url": "https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6"
+        },
+        {
+          "name": "Big Chekete",
+          "url": "https://open.spotify.com/artist/0mNLP348eMWipFY26v9WYu"
+        },
+        {
+          "name": "HIGHMAN",
+          "url": "https://open.spotify.com/artist/7AgxMaVIFLXaBNoN3U1TSc"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "GBONHI",
+      "url": "https://open.spotify.com/track/2bednMcqtsuplyt4vHwLis"
     },
     {
       "album": {
@@ -4240,7 +4364,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 116135,
       "name": "JIMMY DANGER",
       "url": "https://open.spotify.com/track/2WYN1uJfN94kzNHKHqZCId"
@@ -4667,6 +4791,28 @@
     },
     {
       "album": {
+        "name": "Le Repos",
+        "url": "https://open.spotify.com/album/5yMSDdAC5CvKlVm87lVOnG"
+      },
+      "artists": [
+        {
+          "name": "Suspect 95",
+          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
+        },
+        {
+          "name": "Rosemark",
+          "url": "https://open.spotify.com/artist/6BO7O3msPml9t9RFJ5esoc"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Le Repos",
+      "url": "https://open.spotify.com/track/2yL3TG0ogDF5E9KMWnUrIv"
+    },
+    {
+      "album": {
         "name": "Le succ\u00e8s",
         "url": "https://open.spotify.com/album/0H2rK6Xwxq0IHm2vktMJru"
       },
@@ -4976,7 +5122,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 117567,
       "name": "MA(R)BELLA",
       "url": "https://open.spotify.com/track/4zKtNf5qrKXhFJgHAq33vI"
@@ -5210,7 +5356,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 122812,
       "name": "Ma\u00eetre du jeu",
       "url": "https://open.spotify.com/track/0iXSNN34JiM6iQNnWzLgZd"
@@ -5362,7 +5508,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 162653,
       "name": "MINIMUM (feat. d\u00f8pelym)",
       "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
@@ -7130,7 +7276,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 169560,
       "name": "ROYALTIES (BOMBER)",
       "url": "https://open.spotify.com/track/5tQmZ0UdvyQAiovhn5qZqH"
@@ -7620,7 +7766,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 157575,
       "name": "SUR LE TERRAIN",
       "url": "https://open.spotify.com/track/34UeMLqDCZQYeVvjWiAlAw"
@@ -8637,6 +8783,24 @@
     },
     {
       "album": {
+        "name": "WALLOU",
+        "url": "https://open.spotify.com/album/0lk9DqMfUNqaimVF8jEpd9"
+      },
+      "artists": [
+        {
+          "name": "Benzolamelo",
+          "url": "https://open.spotify.com/artist/03BQDdUudnaUqRp45kAcM7"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140150,
+      "name": "WALLOU",
+      "url": "https://open.spotify.com/track/4E2ukl1HyOkU1pvV7IiQEK"
+    },
+    {
+      "album": {
         "name": "WAWA",
         "url": "https://open.spotify.com/album/2HS79kHfpCK7PG1scD5agg"
       },
@@ -8761,6 +8925,32 @@
     },
     {
       "album": {
+        "name": "YANN DIOMANDE",
+        "url": "https://open.spotify.com/album/7jTpNqM5qsK30MXptBEp9P"
+      },
+      "artists": [
+        {
+          "name": "JP N'DA",
+          "url": "https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d"
+        },
+        {
+          "name": "OG Mahilet",
+          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
+        },
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120411,
+      "name": "YANN DIOMANDE",
+      "url": "https://open.spotify.com/track/3WR288jjGiowHovOaX1qm3"
+    },
+    {
+      "album": {
         "name": "Ye connin",
         "url": "https://open.spotify.com/album/3yryFsTja1NPsKW0VN5b0l"
       },
@@ -8868,6 +9058,28 @@
       "duration_ms": 192064,
       "name": "Zigi Zaga (feat. Bol\u00e9mvn)",
       "url": "https://open.spotify.com/track/4ULxqd5Fbx3LszKJLBgPCG"
+    },
+    {
+      "album": {
+        "name": "Z\u00c9L\u00c9",
+        "url": "https://open.spotify.com/album/4inhW8gDba8UvcuuU10Scj"
+      },
+      "artists": [
+        {
+          "name": "9K YNZ",
+          "url": "https://open.spotify.com/artist/0URfErBlJnxhfxx3HSJmU4"
+        },
+        {
+          "name": "Big Chekete",
+          "url": "https://open.spotify.com/artist/0mNLP348eMWipFY26v9WYu"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140533,
+      "name": "Z\u00c9L\u00c9",
+      "url": "https://open.spotify.com/track/0jLi5SgjahwWtjLpswWogi"
     },
     {
       "album": {

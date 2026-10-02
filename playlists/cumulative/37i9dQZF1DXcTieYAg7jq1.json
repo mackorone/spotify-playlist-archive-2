@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Magnus Farrell",
+  "description": "Featuring that new vintage. Cover: Paige Fish",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -456,6 +456,28 @@
       "duration_ms": 283879,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
+    },
+    {
+      "album": {
+        "name": "Asleep Talking",
+        "url": "https://open.spotify.com/album/0yOCs3FpLPQhlEApShEkzi"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156329,
+      "name": "Asleep Talking (feat. Kylie Cantrall)",
+      "url": "https://open.spotify.com/track/7J1LX5jk1ev01SFBxDphaa"
     },
     {
       "album": {
@@ -6557,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "Midnight Crisis",
+        "url": "https://open.spotify.com/album/5NBylpmkOvFFlpF9Gx2mFl"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207654,
+      "name": "Midnight Crisis",
+      "url": "https://open.spotify.com/track/2EKRvcVCzYfamZCUWdYBJk"
+    },
+    {
+      "album": {
         "name": "Mine Forever",
         "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
@@ -8948,7 +8988,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178469,
       "name": "small talk",
       "url": "https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr"
@@ -10365,7 +10405,7 @@
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 269333,
+      "duration_ms": 269032,
       "name": "Touch Touch",
       "url": "https://open.spotify.com/track/18fRO6IsVaKNn5HIdVraSA"
     },
@@ -10618,7 +10658,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 151886,
       "name": "Waste Your Heart",
       "url": "https://open.spotify.com/track/4V2DyN6dagdCahrgkmz553"

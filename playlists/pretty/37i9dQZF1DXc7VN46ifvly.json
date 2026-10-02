@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21822,
+  "num_followers": 21828,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "Check Out",
+        "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 174138,
+      "name": "Check Out",
+      "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "Show Me The Money 12 Episode 1",
         "url": "https://open.spotify.com/album/67ieVVFQxypYAvx3FirGoG"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 270304,
       "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Check Out",
-        "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 174138,
-      "name": "Check Out",
-      "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 186805,
+      "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
+      "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "K-FLIP+",
         "url": "https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6"
       },
@@ -1119,30 +1143,6 @@
       "duration_ms": 236240,
       "name": "LOV3 (Feat. Bryan Chase, Okasian)",
       "url": "https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 186805,
-      "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
-      "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Show Me The Money 12 Episode 2",
-        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
-      },
-      "artists": [
-        {
-          "name": "Fleeky Bang",
-          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
-        },
-        {
-          "name": "J-Tong",
-          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
-        }
-      ],
-      "duration_ms": 221197,
-      "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
-      "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "IM",
         "url": "https://open.spotify.com/album/746wgMy4H3WxiBt9IEb7gb"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 240502,
       "name": "IndiGO",
       "url": "https://open.spotify.com/track/5oxmx6B0kWTuCKgBzv8NpH"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        },
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        }
+      ],
+      "duration_ms": 221197,
+      "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
+      "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
     },
     {
       "added_at": "2026-06-29 08:20:19",

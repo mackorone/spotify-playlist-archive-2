@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani di cui siamo ossessionati 🎧 Annalisa e Madame in cover
+> I brani italiani di cui siamo ossessionati 🎧 Marracash e Guè in cover
 
-722 songs - 1 day 13 hr 3 min
+727 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Canzone Estiva](https://open.spotify.com/track/0okR1YL51puEefZFTItVVR) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Canzone Estiva](https://open.spotify.com/album/0Kh1PxZEW7VJa84HBdjnNa) | 3:22 | 2026-03-12 |  |
 | [Capo Horn \(feat\. Tedua\)](https://open.spotify.com/track/7nl18LJP7p5c6NTQtcdusF) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 2:38 | 2025-06-05 | 2025-10-17 |
 | [CAPOLAVORO](https://open.spotify.com/track/0UoPFBZ7t9uFCm9Psc3QCR) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [CAPOLAVORO](https://open.spotify.com/album/7uQQpjGiucTujRmX6uc5TM) | 3:18 | 2025-03-06 | 2025-03-21 |
+| [Capricci](https://open.spotify.com/track/2VXgwSL3jCwYrnTh47mes8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:37 | 2026-10-01 |  |
 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 | 2024-12-11 | 2025-01-10 |
 | [Casa In Fiamme](https://open.spotify.com/track/0XQvtQJR0I5fjDUGswzwZU) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Casa In Fiamme](https://open.spotify.com/album/5jgyApMVKqjoCQaOuQDd34) | 3:00 | 2025-12-18 | 2026-02-25 |
 | [CASINI](https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CASINI](https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN) | 3:08 | 2026-09-09 |  |
@@ -344,6 +345,7 @@
 | [LE COSE NON DETTE \- Original Motion Picture Soundtrack](https://open.spotify.com/track/6hdzQTMLKd2IiZIeWCzV7E) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [LE COSE NON DETTE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YUuW1m2EOKpTUBvjghhLa) | 4:29 | 2026-01-15 | 2026-02-25 |
 | [LE RAGAZZE](https://open.spotify.com/track/2YVIDa7ZPLtce3VLGNcxvv) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [LE RAGAZZE](https://open.spotify.com/album/5dGbct1c1422HZRyViiNR0) | 2:59 | 2026-05-21 | 2026-09-18 |
 | [le scarpe slacciate](https://open.spotify.com/track/3OF9H9F9ieHwTDBgfNw3kZ) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 2:06 | 2025-10-16 | 2025-11-04 |
+| [Le\_Ali](https://open.spotify.com/track/2OYueGwDUsSGFcghiSaXII) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [Le\_Ali](https://open.spotify.com/album/043xwOFQiFzY1wqGXl9Kyq) | 4:06 | 2026-10-01 |  |
 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 | 2025-01-02 | 2026-01-23 |
 | [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 | 2025-02-12 | 2025-05-16 |
 | [LENTIGGINI](https://open.spotify.com/track/1YXR6Fvqz6rRnZYStqVHNJ) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [LENTIGGINI](https://open.spotify.com/album/6aeOCggQb28q7vHm6hp0Ug) | 2:59 | 2026-09-24 |  |
@@ -472,6 +474,7 @@
 | [Paparazzi](https://open.spotify.com/track/4a4t8njW5ZcYt2kKvii7bM) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Paparazzi](https://open.spotify.com/album/218XmzSDtj5o73SZbJk16Q) | 3:18 | 2026-09-17 |  |
 | [Paprika](https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Paprika](https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6) | 2:28 | 2024-07-01 | 2024-11-22 |
 | [PARADOSSALE](https://open.spotify.com/track/1E3bg4sPGZzyK4qatexweB) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:08 | 2025-11-06 | 2025-12-05 |
+| [PARAFULMINI](https://open.spotify.com/track/0JECTPjnSp9FQStc6AQOS2) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [PARAFULMINI](https://open.spotify.com/album/3fWmCHZ0fiWWH5xccEqir4) | 3:08 | 2026-10-01 |  |
 | [Paraíso \(feat\. PRACI\)](https://open.spotify.com/track/3oFDugsZh7LccP3xzhOvYe) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [CATALINA](https://open.spotify.com/album/7fqG8FHvN56MVDBZy08u1F) | 2:34 | 2026-05-14 | 2026-06-12 |
 | [Parcheggio a ore](https://open.spotify.com/track/5KmTqT6ge16FNylMiKzNXK) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Parcheggio a ore](https://open.spotify.com/album/0UOu5Bp9LL93TvfDYUEnys) | 3:23 | 2026-01-22 | 2026-02-13 |
 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:43 | 2026-05-07 | 2026-06-26 |
@@ -555,6 +558,7 @@
 | [Ricordi \(con Elisa\)](https://open.spotify.com/track/3ocAmS2NnUlIrtwYdg89lU) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ricordi \(con Elisa\)](https://open.spotify.com/album/5UN3WOoPVsl8nesjf0xowl) | 4:37 | 2026-03-26 | 2026-09-11 |
 | [RIMANI RIMANI RIMANI](https://open.spotify.com/track/6DppnYSn5RrZZjxNfUlRDS) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [RIMANI RIMANI RIMANI](https://open.spotify.com/album/1XykBGy8nRX5iAG8PeEYH4) | 2:37 | 2024-12-19 | 2025-01-17 |
 | [Risorgere](https://open.spotify.com/track/1437F3lIKt7rc1cSALqz6Q) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:57 | 2026-04-09 | 2026-04-24 |
+| [Rivoluzione](https://open.spotify.com/track/4ylLAKVwK0b9QJqJT8QU0n) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 3:15 | 2026-10-01 |  |
 | [Robina](https://open.spotify.com/track/2xxrn3RNEILOq300esEVXE) | [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [Robina](https://open.spotify.com/album/7iofPm3WPwtrbdiwr7mMl0) | 3:28 | 2026-07-02 | 2026-09-25 |
 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 | 2024-11-13 | 2025-01-17 |
 | [ROLLING STONES](https://open.spotify.com/track/0qequjSpKvUJLpIteBbkEM) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ROLLING STONES](https://open.spotify.com/album/6HeKmyM7nR5dfZAiuVbglj) | 3:02 | 2026-03-26 | 2026-05-29 |
@@ -648,6 +652,7 @@
 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 | 2024-07-01 | 2024-07-19 |
 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 | 2024-10-03 | 2025-02-04 |
 | [TAKI](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TAKI](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 | 2025-05-22 | 2025-08-29 |
+| [TE L'HO MAI DETTO](https://open.spotify.com/track/1uDA8oLxEO5Zczesd9kUPz) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [TE L'HO MAI DETTO](https://open.spotify.com/album/3FutSGXoPmY1eobDsTJ0E0) | 3:14 | 2026-10-01 |  |
 | [TELEPATICAMENTE](https://open.spotify.com/track/2mIUdUGgBX58poEIN8lrJr) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [TELEPATICAMENTE](https://open.spotify.com/album/2N8g6dAH7YvaEaMKWfbEdF) | 2:45 | 2025-10-30 | 2025-11-11 |
 | [TELEPATICAMENTE](https://open.spotify.com/track/33rr9A7hPaptunOGHdbicj) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [TELEPATICAMENTE](https://open.spotify.com/album/4NU5YOkmMzAwPkYFGasK7A) | 2:45 | 2025-11-10 | 2025-12-19 |
 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 | 2025-02-20 | 2025-03-28 |

@@ -9913,6 +9913,32 @@
     },
     {
       "album": {
+        "name": "Rani",
+        "url": "https://open.spotify.com/album/7ihRo9ZCC8QIYYlP1d3C8T"
+      },
+      "artists": [
+        {
+          "name": "SACHYN",
+          "url": "https://open.spotify.com/artist/0fqn7UJi5ch6WMfbEIvHTQ"
+        },
+        {
+          "name": "Nihal Sadiq",
+          "url": "https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh"
+        },
+        {
+          "name": "Chithragupthan",
+          "url": "https://open.spotify.com/artist/2IJ0NjTYnOYzmnoI8AwpdP"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "Rani",
+      "url": "https://open.spotify.com/track/0HAQUby4Y61sOV67vSWVCi"
+    },
+    {
+      "album": {
         "name": "RAP MONEY",
         "url": "https://open.spotify.com/album/3J9idTC9bFaMOIhxZvWGgB"
       },

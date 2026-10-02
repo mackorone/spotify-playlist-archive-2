@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 37474,
+  "num_followers": 37472,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Guapachosa",
-        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Guapachosa",
-      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -283,18 +279,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+        "name": "Guapachosa",
+        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+      "duration_ms": 186000,
+      "name": "Guapachosa",
+      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -339,42 +339,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Autorretrato",
-        "url": "https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Autorretrato",
-      "url": "https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Lo-Fi el Panadero Con el Pan",
-        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Lo-Fi el Panadero Con el Pan",
-      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "La Diabla (lofi edit)",
         "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
@@ -395,6 +359,42 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Lo-Fi el Panadero Con el Pan",
+        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Lo-Fi el Panadero Con el Pan",
+      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Autorretrato",
+        "url": "https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Autorretrato",
+      "url": "https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        },
-        {
-          "name": "Bryan Pelayo",
-          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "Ukelele At Night",
-      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "2 de suadero con todo",
         "url": "https://open.spotify.com/album/0PCCDz04565lReyRpRgGUI"
       },
@@ -803,6 +783,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        },
+        {
+          "name": "Bryan Pelayo",
+          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
+        }
+      ],
+      "duration_ms": 93000,
+      "name": "Ukelele At Night",
+      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Jardines, Vol.1",
         "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
       },
@@ -819,6 +819,42 @@
       "duration_ms": 153162,
       "name": "jazmin",
       "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "La Casa Azul",
+        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
+      },
+      "artists": [
+        {
+          "name": "De la Plante",
+          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
+        },
+        {
+          "name": "Federico Lenarduzzi",
+          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
+        }
+      ],
+      "duration_ms": 131541,
+      "name": "La Casa Azul",
+      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 121258,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -847,58 +883,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 121258,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "La Casa Azul",
-        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
-      },
-      "artists": [
-        {
-          "name": "De la Plante",
-          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
-        },
-        {
-          "name": "Federico Lenarduzzi",
-          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
-        }
-      ],
-      "duration_ms": 131541,
-      "name": "La Casa Azul",
-      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Birria",
-        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 119527,
-      "name": "Birria",
-      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "cholula, puebla",
         "url": "https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 124044,
       "name": "cholula, puebla",
       "url": "https://open.spotify.com/track/2uEOoG0dkRThbmHPz7pOXF"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Birria",
+        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 119527,
+      "name": "Birria",
+      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -947,22 +947,6 @@
       "duration_ms": 99428,
       "name": "Good things take time",
       "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Sugar Leafs",
-        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "Sugar Leafs",
-      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1015,8 +999,8 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+        "name": "Dale Dale",
+        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
       },
       "artists": [
         {
@@ -1028,9 +1012,25 @@
           "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+      "duration_ms": 148000,
+      "name": "Dale Dale",
+      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Sugar Leafs",
+        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "Sugar Leafs",
+      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1087,28 +1087,8 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
-      },
-      "artists": [
-        {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 140411,
-      "name": "El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Dale Dale",
-        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
       "artists": [
         {
@@ -1120,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Dale Dale",
-      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1147,6 +1127,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 140411,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 179000,
       "name": "22 Hrs.",
       "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 120750,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Summer Purr",
-        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
       },
       "artists": [
         {
-          "name": "Kissa Kat",
-          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Summer Purr",
-      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+      "duration_ms": 120750,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+      },
+      "artists": [
+        {
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Canciones Para Ver Las Nubes Pasar",
         "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
       },
@@ -1251,50 +1251,6 @@
       "duration_ms": 164117,
       "name": "Canci\u00f3n en Forma de Elefante",
       "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "El Chavito Triste",
-      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "98 pasos",
-        "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
-      },
-      "artists": [
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        },
-        {
-          "name": "Lofitic",
-          "url": "https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM"
-        },
-        {
-          "name": "Patiotic Records",
-          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "98 pasos",
-      "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1319,18 +1275,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+        "name": "Trompo de Pastor",
+        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
       },
       "artists": [
         {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+      "duration_ms": 150000,
+      "name": "Trompo de Pastor",
+      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1351,6 +1307,42 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "El Chavito Triste",
+      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Zer",
         "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
       },
@@ -1367,18 +1359,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Trompo de Pastor",
-        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+        "name": "98 pasos",
+        "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
       "artists": [
         {
           "name": "Omar Ju\u00e1rez",
           "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        },
+        {
+          "name": "Lofitic",
+          "url": "https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Trompo de Pastor",
-      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
+      "duration_ms": 133600,
+      "name": "98 pasos",
+      "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Abr\u00e1zame mucho estos d\u00edas",
+        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 117779,
       "name": "Mi Tierra",
       "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Abr\u00e1zame mucho estos d\u00edas",
-        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "The Plant Whisperer",
+        "url": "https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 137923,
+      "name": "Maranta",
+      "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw"
       },
@@ -1583,18 +1599,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "The Plant Whisperer",
-        "url": "https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te"
+        "name": "Songbird Serenity",
+        "url": "https://open.spotify.com/album/5YfE8lRIAt0X8A7qrkTeYB"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "Alpharene",
+          "url": "https://open.spotify.com/artist/33PxA57FPX8pGz5WcfWE8a"
+        },
+        {
+          "name": "Romega",
+          "url": "https://open.spotify.com/artist/3BRpgHuU3OnFezYg2C8rva"
+        },
+        {
+          "name": "Chill Yume",
+          "url": "https://open.spotify.com/artist/4ZBlnStaBtNzGrqKcIIl7b"
         }
       ],
-      "duration_ms": 137923,
-      "name": "Maranta",
-      "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
+      "duration_ms": 114500,
+      "name": "Songbird Serenity",
+      "url": "https://open.spotify.com/track/1RDwAD9cyldvgcHn1TvnyK"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1635,46 +1659,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Songbird Serenity",
-        "url": "https://open.spotify.com/album/5YfE8lRIAt0X8A7qrkTeYB"
-      },
-      "artists": [
-        {
-          "name": "Alpharene",
-          "url": "https://open.spotify.com/artist/33PxA57FPX8pGz5WcfWE8a"
-        },
-        {
-          "name": "Romega",
-          "url": "https://open.spotify.com/artist/3BRpgHuU3OnFezYg2C8rva"
-        },
-        {
-          "name": "Chill Yume",
-          "url": "https://open.spotify.com/artist/4ZBlnStaBtNzGrqKcIIl7b"
-        }
-      ],
-      "duration_ms": 114500,
-      "name": "Songbird Serenity",
-      "url": "https://open.spotify.com/track/1RDwAD9cyldvgcHn1TvnyK"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Dusty Beats 2",
-        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 65893,
-      "name": "Sonora (Interludio 2)",
-      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "making out",
         "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
       },
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Dusty Beats 2",
+        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 65893,
+      "name": "Sonora (Interludio 2)",
+      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "only in memories",
         "url": "https://open.spotify.com/album/11nJ7IKgzmvujw4i6nfhPr"
       },
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "2024??",
-        "url": "https://open.spotify.com/album/3TCvK7mG4jS3Gj27rvZTBf"
-      },
-      "artists": [
-        {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
-        }
-      ],
-      "duration_ms": 145391,
-      "name": "cartas en el rio",
-      "url": "https://open.spotify.com/track/0lAV12IZAElPLOQ36nuJW9"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "la zona",
         "url": "https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 124000,
       "name": "la zona",
       "url": "https://open.spotify.com/track/2FDUc0ClW6xxOSsnLkpaFM"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "2024??",
+        "url": "https://open.spotify.com/album/3TCvK7mG4jS3Gj27rvZTBf"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        }
+      ],
+      "duration_ms": 145391,
+      "name": "cartas en el rio",
+      "url": "https://open.spotify.com/track/0lAV12IZAElPLOQ36nuJW9"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1783,22 +1783,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
+        "name": "forastero.",
+        "url": "https://open.spotify.com/album/05AmU9DNnf8nNsJMQH0izW"
       },
       "artists": [
         {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+          "name": "forastero.",
+          "url": "https://open.spotify.com/artist/0GP0Jbuq5uUNpUjOGi55LL"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
+      "duration_ms": 98306,
+      "name": "semilla de merey",
+      "url": "https://open.spotify.com/track/08cs2nZs4ueoYSdyKQQZAY"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1823,34 +1819,42 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "forastero.",
-        "url": "https://open.spotify.com/album/05AmU9DNnf8nNsJMQH0izW"
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
       },
       "artists": [
         {
-          "name": "forastero.",
-          "url": "https://open.spotify.com/artist/0GP0Jbuq5uUNpUjOGi55LL"
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
         }
       ],
-      "duration_ms": 98306,
-      "name": "semilla de merey",
-      "url": "https://open.spotify.com/track/08cs2nZs4ueoYSdyKQQZAY"
+      "duration_ms": 168000,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
     },
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "she is",
-        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
+        "name": "Jardines, Vol.2",
+        "url": "https://open.spotify.com/album/7Mntz7cJqcGKJWxfqaWRQy"
       },
       "artists": [
         {
-          "name": "AGM",
-          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Multiverso Rec",
+          "url": "https://open.spotify.com/artist/4vfh7YNp9RCsbvotgivvGd"
         }
       ],
-      "duration_ms": 232514,
-      "name": "she is",
-      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
+      "duration_ms": 99958,
+      "name": "magnolia",
+      "url": "https://open.spotify.com/track/0rJobBGRwYAW2Chl3OQZ3u"
     }
   ],
   "unique_name": "LoFi mexa",

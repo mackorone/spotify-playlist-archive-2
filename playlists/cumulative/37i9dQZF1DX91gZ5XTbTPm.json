@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "50-50",
+        "url": "https://open.spotify.com/album/6LjalpZrkv12IJhX6EkILS"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161332,
+      "name": "50-50",
+      "url": "https://open.spotify.com/track/3PiAxPtaETUJ9BCz9YUXDP"
+    },
+    {
+      "album": {
         "name": "I Want Blood",
         "url": "https://open.spotify.com/album/4kJFfOgwJS9iiMdH3YztWM"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 164539,
       "name": "99 Ovrall",
       "url": "https://open.spotify.com/track/3e53bFiy5cpcNv6B95NbeN"
@@ -6709,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "CRAZY?",
+        "url": "https://open.spotify.com/album/2qgsglP1sMboHOdprRuZsT"
+      },
+      "artists": [
+        {
+          "name": "earthsignchels",
+          "url": "https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152973,
+      "name": "CRAZY?",
+      "url": "https://open.spotify.com/track/52LIfXQUI69zfdPUSnZK0h"
+    },
+    {
+      "album": {
         "name": "Creepers",
         "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
       },
@@ -6920,7 +6956,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 252656,
       "name": "Daddy Died",
       "url": "https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV"
@@ -7286,6 +7322,24 @@
       "duration_ms": 146855,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/6OaDh6LbMSh7Wvz1Me7xwn"
+    },
+    {
+      "album": {
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/33DLhStECkWHNf4O8rfjzu"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/2pODBdcRoEO2cCVVA4vZLn"
     },
     {
       "album": {
@@ -20360,7 +20414,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 115200,
       "name": "NO POTTY TRAIN",
       "url": "https://open.spotify.com/track/7K9tU1lJcLsU4eMcxYsuSn"
@@ -22532,7 +22586,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 155675,
       "name": "Play This Back",
       "url": "https://open.spotify.com/track/019EOX98z5znTG6JMEAuxb"
@@ -28679,6 +28733,28 @@
     },
     {
       "album": {
+        "name": "INNANETAPE",
+        "url": "https://open.spotify.com/album/2U6KMmA26Koq3X6X9tHEjs"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140942,
+      "name": "Suitcase",
+      "url": "https://open.spotify.com/track/4ZxqI6FC1Da6eOFvFBWBJe"
+    },
+    {
+      "album": {
         "name": "SUKISADA",
         "url": "https://open.spotify.com/album/3FfOGRD9hSOwzgKZf0sYQr"
       },
@@ -30386,7 +30462,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 159017,
       "name": "This Thing Of Ours",
       "url": "https://open.spotify.com/track/3f3tSkQZSenHPlwWle2Sx1"
@@ -33726,6 +33802,24 @@
       "duration_ms": 124608,
       "name": "WIT WHATEVER",
       "url": "https://open.spotify.com/track/0tBAUB2taQ5YjXl4fPBNxe"
+    },
+    {
+      "album": {
+        "name": "WITH MY BESTIE",
+        "url": "https://open.spotify.com/album/5eo8HB4299JakFbOA064tw"
+      },
+      "artists": [
+        {
+          "name": "Iconic Savvy",
+          "url": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159633,
+      "name": "WITH MY BESTIE",
+      "url": "https://open.spotify.com/track/1FrktDz7UEUYZb7OqIx9CQ"
     },
     {
       "album": {

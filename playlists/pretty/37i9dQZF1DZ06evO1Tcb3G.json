@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 535462,
+  "num_followers": 535546,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADhe9A90sKH40WEhA+Q3uTQ",
+  "snapshot_id": "arxRAAAAAABIT0TauGvx3F8RKqMDA/n9",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Traveller (Special Edition)",
-        "url": "https://open.spotify.com/album/56M5UIQo7xgQvoOUwkK05D"
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
       },
       "artists": [
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
-        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 266930,
-      "name": "There Will Be Time",
-      "url": "https://open.spotify.com/track/55omUd9gTCJr0higmW58BA"
+      "duration_ms": 263920,
+      "name": "Roll Away Your Stone",
+      "url": "https://open.spotify.com/track/2g4tUgmWsuK6wzsqSzftrr"
     },
     {
       "added_at": null,
@@ -423,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
+        "name": "The Traveller (Special Edition)",
+        "url": "https://open.spotify.com/album/56M5UIQo7xgQvoOUwkK05D"
       },
       "artists": [
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 263920,
-      "name": "Roll Away Your Stone",
-      "url": "https://open.spotify.com/track/2g4tUgmWsuK6wzsqSzftrr"
+      "duration_ms": 266930,
+      "name": "There Will Be Time",
+      "url": "https://open.spotify.com/track/55omUd9gTCJr0higmW58BA"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
       "duration_ms": 221226,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Timshel",
+      "url": "https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Timshel",
-      "url": "https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 376239,
-      "name": "Delta",
-      "url": "https://open.spotify.com/track/0xmkaewV7JMvZCjsFgrdv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wilder Mind",
         "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 248546,
       "name": "Snake Eyes",
       "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 376239,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/0xmkaewV7JMvZCjsFgrdv2"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 265096,
-      "name": "Beloved",
-      "url": "https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 242946,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/12ultei6RG7H4r06wJii5h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 223685,
-      "name": "October Skies",
-      "url": "https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 223706,
       "name": "Truth",
       "url": "https://open.spotify.com/track/0N0nwjlcbx58JduDVE8T2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh"
     },
     {
       "added_at": null,

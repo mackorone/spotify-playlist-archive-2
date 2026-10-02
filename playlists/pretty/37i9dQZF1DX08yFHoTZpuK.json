@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 33527,
+  "num_followers": 33576,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,22 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "BERLIN TRAX",
-        "url": "https://open.spotify.com/album/3ktsz9CUSzxZBVUbLsaYx4"
+        "name": "The Moon's Elbow",
+        "url": "https://open.spotify.com/album/69quTR1SlD7t3cAjoNhvYZ"
       },
       "artists": [
         {
-          "name": "Takkyu Ishino",
-          "url": "https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c"
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
         }
       ],
-      "duration_ms": 284333,
-      "name": "Polynasia",
-      "url": "https://open.spotify.com/track/3Ubzwa9vQ7PKGA7pn9A9nC"
+      "duration_ms": 185200,
+      "name": "The Moon's Elbow",
+      "url": "https://open.spotify.com/track/25qXnyckAQv0djLzPQ6ECh"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -203,22 +207,18 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "The Moon's Elbow",
-        "url": "https://open.spotify.com/album/69quTR1SlD7t3cAjoNhvYZ"
+        "name": "BERLIN TRAX",
+        "url": "https://open.spotify.com/album/3ktsz9CUSzxZBVUbLsaYx4"
       },
       "artists": [
         {
-          "name": "Ichika Nito",
-          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
-        },
-        {
-          "name": "Marcin",
-          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+          "name": "Takkyu Ishino",
+          "url": "https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c"
         }
       ],
-      "duration_ms": 185200,
-      "name": "The Moon's Elbow",
-      "url": "https://open.spotify.com/track/25qXnyckAQv0djLzPQ6ECh"
+      "duration_ms": 284333,
+      "name": "Polynasia",
+      "url": "https://open.spotify.com/track/3Ubzwa9vQ7PKGA7pn9A9nC"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -503,30 +503,18 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "BAMBOO",
-        "url": "https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy"
+        "name": "DONGRHYTHM",
+        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
       },
       "artists": [
         {
-          "name": "Yu Seki",
-          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
-        },
-        {
-          "name": "Yohji Igarashi",
-          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
-        },
-        {
-          "name": "HANATANI",
-          "url": "https://open.spotify.com/artist/5JFuHcjL9v7XhGmakhTOak"
-        },
-        {
-          "name": "Cota Mori",
-          "url": "https://open.spotify.com/artist/17kRKqQs7JMrBKCzIGBk37"
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
         }
       ],
-      "duration_ms": 165000,
-      "name": "BAMBOO",
-      "url": "https://open.spotify.com/track/2q2XA70NRreC33odqvghf9"
+      "duration_ms": 146867,
+      "name": "Let's go",
+      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -563,18 +551,30 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "DONGRHYTHM",
-        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
+        "name": "BAMBOO",
+        "url": "https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy"
       },
       "artists": [
         {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+          "name": "Yu Seki",
+          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
+        },
+        {
+          "name": "Yohji Igarashi",
+          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+        },
+        {
+          "name": "HANATANI",
+          "url": "https://open.spotify.com/artist/5JFuHcjL9v7XhGmakhTOak"
+        },
+        {
+          "name": "Cota Mori",
+          "url": "https://open.spotify.com/artist/17kRKqQs7JMrBKCzIGBk37"
         }
       ],
-      "duration_ms": 146867,
-      "name": "Let's go",
-      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
+      "duration_ms": 165000,
+      "name": "BAMBOO",
+      "url": "https://open.spotify.com/track/2q2XA70NRreC33odqvghf9"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
+        "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
+        "url": "https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30af\u30ce\u30dd\u30c3\u30d7\u30fb\u6709\u6a5f\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u3061\u3083\u3093",
+          "url": "https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe"
+        }
+      ],
+      "duration_ms": 159700,
+      "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
+      "url": "https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
         "name": "ALL HAZE",
         "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
-        "url": "https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL"
+        "name": "OB PKWY",
+        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
       },
       "artists": [
         {
-          "name": "\u30c6\u30af\u30ce\u30dd\u30c3\u30d7\u30fb\u6709\u6a5f\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u3061\u3083\u3093",
-          "url": "https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe"
+          "name": "banvox",
+          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
         }
       ],
-      "duration_ms": 159700,
-      "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
-      "url": "https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y"
+      "duration_ms": 235312,
+      "name": "OB PKWY",
+      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -807,22 +823,6 @@
       "duration_ms": 266909,
       "name": "Don't Cry - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
-        "name": "OB PKWY",
-        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
-      },
-      "artists": [
-        {
-          "name": "banvox",
-          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
-        }
-      ],
-      "duration_ms": 235312,
-      "name": "OB PKWY",
-      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
     },
     {
       "added_at": "2026-09-22 16:46:40",

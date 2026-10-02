@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 133333,
       "name": "ALMOST NOTHING",
       "url": "https://open.spotify.com/track/3Vik66hQCLTTLKtkFJvJgb"
@@ -2607,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "Back Into My Arms",
+        "url": "https://open.spotify.com/album/7i4CIpNEr3A978Bni6r8I5"
+      },
+      "artists": [
+        {
+          "name": "Xeno Primates",
+          "url": "https://open.spotify.com/artist/0mJelbA3iWrJJi49LoM2YZ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202448,
+      "name": "Back Into My Arms",
+      "url": "https://open.spotify.com/track/4pHo57BvIRjmhpbs4TSEIs"
+    },
+    {
+      "album": {
         "name": "Losers",
         "url": "https://open.spotify.com/album/60YzuZSiP70vLK5O88RNkZ"
       },
@@ -3000,6 +3018,24 @@
       "duration_ms": 174983,
       "name": "Bastards Reign",
       "url": "https://open.spotify.com/track/610FhcvhxP4AtrUShyKyPn"
+    },
+    {
+      "album": {
+        "name": "Bat an Eye",
+        "url": "https://open.spotify.com/album/5XkQTxPZTLW4w30lc46eyP"
+      },
+      "artists": [
+        {
+          "name": "Clone the Wolf",
+          "url": "https://open.spotify.com/artist/3BwdNhwGbhUpfSZVIRFnzd"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189839,
+      "name": "Bat an Eye",
+      "url": "https://open.spotify.com/track/5TCkprkGKb2Q7pYn2O4h7h"
     },
     {
       "album": {
@@ -10108,7 +10144,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 214083,
       "name": "Do You Feel Numb?",
       "url": "https://open.spotify.com/track/0kL0CZwm0G3F96aNyy5OWd"
@@ -11118,7 +11154,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 214374,
       "name": "EAT THE rat KING",
       "url": "https://open.spotify.com/track/01lP5bX7Udoa8GBAS9Mrr5"
@@ -11522,7 +11558,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 201124,
       "name": "Embrace The Static",
       "url": "https://open.spotify.com/track/3ibrARMxZLsX7HopVgNzgk"
@@ -17538,6 +17574,24 @@
       "duration_ms": 191270,
       "name": "I Don't Understand It",
       "url": "https://open.spotify.com/track/1FMftJu5CXMzGeJQUMTfIq"
+    },
+    {
+      "album": {
+        "name": "I don't wanna be that girl",
+        "url": "https://open.spotify.com/album/0ag2sPBjaVaCk9nyNwWe2y"
+      },
+      "artists": [
+        {
+          "name": "Echopecker",
+          "url": "https://open.spotify.com/artist/7fiEUlmjnRGtD2v5ZjwZ5D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "I don't wanna be that girl",
+      "url": "https://open.spotify.com/track/2Qx38kNXSslGPbi3jh8jv7"
     },
     {
       "album": {
@@ -25304,7 +25358,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 268267,
       "name": "Night Terror",
       "url": "https://open.spotify.com/track/5nrRFVTmpJ6xRTQrcloNeC"
@@ -32728,7 +32782,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 157805,
       "name": "Silent Sound",
       "url": "https://open.spotify.com/track/7vxk48o3sTelk6VhfoAYL1"
@@ -36001,6 +36055,24 @@
     },
     {
       "album": {
+        "name": "T.O.M.",
+        "url": "https://open.spotify.com/album/3TDgNy9GACvsoHaOdEYgxn"
+      },
+      "artists": [
+        {
+          "name": "Halfway To Neptune",
+          "url": "https://open.spotify.com/artist/4mBlUkbS7gxRnnho7DNYHy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160812,
+      "name": "T.O.M.",
+      "url": "https://open.spotify.com/track/4H9UazyBy4tzV823JYgBbC"
+    },
+    {
+      "album": {
         "name": "Universe 25",
         "url": "https://open.spotify.com/album/74qK46Kw9RtqHtul77uvHy"
       },
@@ -38814,7 +38886,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 315019,
       "name": "Thorn Tree City",
       "url": "https://open.spotify.com/track/2n0PzwDjSzcP48z9xX1oR0"
@@ -40338,7 +40410,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 306545,
       "name": "Vanquish",
       "url": "https://open.spotify.com/track/0eetGWg9jTkGW4jgsmzQoa"
@@ -42970,7 +43042,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 272959,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1dwtTzEGg3lDneWchIhfR1"
@@ -43132,7 +43204,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 262500,
       "name": "Year Of The Rats",
       "url": "https://open.spotify.com/track/511rsKVtBpa5kjK2V55U07"

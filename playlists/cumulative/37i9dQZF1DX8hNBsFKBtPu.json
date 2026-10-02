@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "We got you! Den bedste nye pop er samlet her. dreng&piger p\u00e5 cover \u2600\ufe0f",
-  "name": "Ny Pop (2)",
+  "description": "We got you! Den bedste nye pop er samlet her. Jada p\u00e5 cover \ud83e\udead",
+  "name": "Ny Pop (3)",
   "tracks": [
     {
       "album": {
@@ -2907,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Der Bor To Verdener I Mig",
+        "url": "https://open.spotify.com/album/4GjijJTBu4uFQtB828W8Rf"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "Dag Etter",
+      "url": "https://open.spotify.com/track/0yXbholP1jDYnkFXo7XwqH"
+    },
+    {
+      "album": {
         "name": "Dagen Derp\u00e5",
         "url": "https://open.spotify.com/album/05YLb831nThqKElAjQvueg"
       },
@@ -3875,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Dreaming Of You, Dreaming Of Me",
+        "url": "https://open.spotify.com/album/1gjvxO9IlYUvnrE8xjXVDI"
+      },
+      "artists": [
+        {
+          "name": "Jada",
+          "url": "https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183510,
+      "name": "Dreaming Of You, Dreaming Of Me",
+      "url": "https://open.spotify.com/track/13FoOaPzN8LhYLGsyNVu3Z"
+    },
+    {
+      "album": {
         "name": "Dreng",
         "url": "https://open.spotify.com/album/5asn67kNJehseJxmxxeJy4"
       },
@@ -4117,6 +4153,24 @@
     },
     {
       "album": {
+        "name": "Mere Pop",
+        "url": "https://open.spotify.com/album/2MsIT8eO8YuKUBabGWbE7F"
+      },
+      "artists": [
+        {
+          "name": "Marie Key",
+          "url": "https://open.spotify.com/artist/2QoSPr8Jx3mLTCqgfpAwKb"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222135,
+      "name": "Du holder mig v\u00e5gen",
+      "url": "https://open.spotify.com/track/2Cxy6CwA5Af2pNq211hkgO"
+    },
+    {
+      "album": {
         "name": "Du kom med alt det der var dig",
         "url": "https://open.spotify.com/album/3RgslpDoBkt1ipk7rOb8HK"
       },
@@ -4262,7 +4316,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 190372,
       "name": "Dysphoria",
       "url": "https://open.spotify.com/track/0CbZTdrF4xnNN1ggbnXOnZ"
@@ -5120,6 +5174,24 @@
       "duration_ms": 148577,
       "name": "Falder I",
       "url": "https://open.spotify.com/track/0CkrHSJZ1lRyBWiXqJaIZW"
+    },
+    {
+      "album": {
+        "name": "Fall In Love (To Fall Apart)",
+        "url": "https://open.spotify.com/album/2uujKHhnOIGE5t1rcUZRn6"
+      },
+      "artists": [
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157098,
+      "name": "Fall In Love (To Fall Apart)",
+      "url": "https://open.spotify.com/track/4Jm5V8QGjy3oEEWFbONXg8"
     },
     {
       "album": {
@@ -7053,6 +7125,24 @@
     },
     {
       "album": {
+        "name": "Har Du M\u00e6rket Dig Selv?",
+        "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190248,
+      "name": "Har Du M\u00e6rket Dig Selv?",
+      "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
+    },
+    {
+      "album": {
         "name": "Harder To Flatline",
         "url": "https://open.spotify.com/album/2xcpRfFxfkBfAyMxVtQCXn"
       },
@@ -7962,6 +8052,24 @@
       "duration_ms": 164696,
       "name": "hva s\u00e5?",
       "url": "https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe"
+    },
+    {
+      "album": {
+        "name": "p\u00e5 en m\u00e5de er det rart",
+        "url": "https://open.spotify.com/album/7EdU9BjQTvrm80SumtTPFK"
+      },
+      "artists": [
+        {
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163872,
+      "name": "hvad hvis du d\u00f8r og jeg ik engang ved det",
+      "url": "https://open.spotify.com/track/3wFKS6i6JxjoYt3SxDaayC"
     },
     {
       "album": {
@@ -10132,7 +10240,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 216104,
       "name": "Let\u2019s Get Married",
       "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
@@ -10292,6 +10400,24 @@
       "duration_ms": 149411,
       "name": "Ligesom blomsterne",
       "url": "https://open.spotify.com/track/36THDHtdPIxot8saoSyZFR"
+    },
+    {
+      "album": {
+        "name": "Ligge Imellem Jer",
+        "url": "https://open.spotify.com/album/6p5m3a93iuF8E8PVieRitg"
+      },
+      "artists": [
+        {
+          "name": "Laura Vejlby",
+          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153608,
+      "name": "Ligge Imellem Jer",
+      "url": "https://open.spotify.com/track/3ITShU4CuK3L4Ta79RGqMd"
     },
     {
       "album": {
@@ -14035,6 +14161,24 @@
     },
     {
       "album": {
+        "name": "Samme Himmel",
+        "url": "https://open.spotify.com/album/0foJcIvtG5GRV0D6fjsoAn"
+      },
+      "artists": [
+        {
+          "name": "Karla Korsbak",
+          "url": "https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Samme Himmel",
+      "url": "https://open.spotify.com/track/2tEfQ1qQZZC6krhfHUoy5m"
+    },
+    {
+      "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
@@ -14228,6 +14372,24 @@
       "duration_ms": 205515,
       "name": "SAVNER ET MENNESKE",
       "url": "https://open.spotify.com/track/7E7WgbepTMLByxdDZ6Vxgu"
+    },
+    {
+      "album": {
+        "name": "Savner Mig",
+        "url": "https://open.spotify.com/album/10hpwucFccoaeVt14lGzQH"
+      },
+      "artists": [
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298720,
+      "name": "Savner Mig",
+      "url": "https://open.spotify.com/track/71pNKnbdJ5GrnhrBkNgN4n"
     },
     {
       "album": {
@@ -15032,7 +15194,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 171614,
       "name": "Solrig Altan",
       "url": "https://open.spotify.com/track/5t9Zq4DT9FtqXOqB5Vl4bI"
@@ -17575,6 +17737,24 @@
     },
     {
       "album": {
+        "name": "Under Solen - Fra DR serien Aros Skattens Hemmelighed",
+        "url": "https://open.spotify.com/album/6ZVTIk6XIZ4WiSZy9oNtVF"
+      },
+      "artists": [
+        {
+          "name": "Soleima",
+          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162597,
+      "name": "Under Solen - Fra DR serien Aros Skattens Hemmelighed",
+      "url": "https://open.spotify.com/track/1IxQSGMM9PH5ujJDdC5PNz"
+    },
+    {
+      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p"
       },
@@ -17952,6 +18132,24 @@
       "duration_ms": 181906,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/10fzLhBF2aM7ECr3jZNaqm"
+    },
+    {
+      "album": {
+        "name": "You Said Jump... And I Flew",
+        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156209,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
     },
     {
       "album": {

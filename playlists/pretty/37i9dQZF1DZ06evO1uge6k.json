@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 264351,
+  "num_followers": 264359,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABuj7RnlWqv+Ho0jPsC1XvE",
+  "snapshot_id": "arxRAAAAAACAL7TIc5IUqnFlTzvR2Vdl",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "I'm Bad, I'm Nationwide",
-      "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 181666,
       "name": "Can't Stop Rockin'",
       "url": "https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "I'm Bad, I'm Nationwide",
+      "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "Cheap Sunglasses",
-      "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Futura",
         "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 243160,
       "name": "I Gotsta Get Paid",
       "url": "https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "Cheap Sunglasses",
+      "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "I Thank You",
-      "url": "https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 250120,
       "name": "Just Got Back from Baby's",
       "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "I Thank You",
+      "url": "https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 261453,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Baddest of ZZ Top",
         "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 211773,
       "name": "Gimme All Your Lovin'",
       "url": "https://open.spotify.com/track/0eSfOEuazxnW8q52siYHPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 261453,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Asleep in the Desert (Instrumental)",
-      "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 203613,
       "name": "Goin' Down to Mexico",
       "url": "https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Asleep in the Desert (Instrumental)",
+      "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
     },
     {
       "added_at": null,

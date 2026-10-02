@@ -1,12 +1,12 @@
 {
   "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme.",
-  "num_followers": 445318,
+  "num_followers": 445321,
   "original_name": "Exception Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhaQPjWrwmd+XugdN4Nb+YKecZF",
+  "snapshot_id": "AAAAAEOH9isKR19oeuZf6eo0jcUnTjoX",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:42",
@@ -27,18 +27,18 @@
     {
       "added_at": "2026-09-17 22:01:59",
       "album": {
-        "name": "Voir la mer",
-        "url": "https://open.spotify.com/album/0synaRkeUsZP3UbdzoeK0T"
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
       },
       "artists": [
         {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
         }
       ],
-      "duration_ms": 205383,
-      "name": "Mes doutes avec toi",
-      "url": "https://open.spotify.com/track/2kfX3ueJBbaJ6ZTXAt7htf"
+      "duration_ms": 168935,
+      "name": "Le Plus Beau",
+      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-09-17 22:01:59",
       "album": {
-        "name": "Le Plus Beau",
-        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
+        "name": "Voir la mer",
+        "url": "https://open.spotify.com/album/0synaRkeUsZP3UbdzoeK0T"
       },
       "artists": [
         {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
         }
       ],
-      "duration_ms": 168935,
-      "name": "Le Plus Beau",
-      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
+      "duration_ms": 205383,
+      "name": "Mes doutes avec toi",
+      "url": "https://open.spotify.com/track/2kfX3ueJBbaJ6ZTXAt7htf"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -105,58 +105,6 @@
       "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
     },
     {
-      "added_at": "2026-09-17 22:01:59",
-      "album": {
-        "name": "Les rues de l'humanit\u00e9",
-        "url": "https://open.spotify.com/album/5FIqnUxFl3xipo30khaMqC"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9 Preszow",
-          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
-        }
-      ],
-      "duration_ms": 280120,
-      "name": "Les rues de l'humanit\u00e9",
-      "url": "https://open.spotify.com/track/4UoZhdSs5oYqwW85pAaTkv"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "L'Ultrableu (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/2cQ92jgW7MfEEPebhOIFh7"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Biolay",
-          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
-        },
-        {
-          "name": "Tuten Mapu",
-          "url": "https://open.spotify.com/artist/75RDIGh3K3u3a5PZ5oAJAU"
-        }
-      ],
-      "duration_ms": 231320,
-      "name": "Ton silence",
-      "url": "https://open.spotify.com/track/0paG03UHBFUMUqAcZrlZTa"
-    },
-    {
-      "added_at": "2026-09-24 22:01:42",
-      "album": {
-        "name": "Murailles de Chine",
-        "url": "https://open.spotify.com/album/5wmAeBkWR5yiD79KJPkCIw"
-      },
-      "artists": [
-        {
-          "name": "Mathilda",
-          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
-        }
-      ],
-      "duration_ms": 228399,
-      "name": "Murailles de Chine",
-      "url": "https://open.spotify.com/track/3HY3ycfpbAYiLGPU1TgYaL"
-    },
-    {
       "added_at": "2026-09-10 22:00:49",
       "album": {
         "name": "\u00c9t\u00e9 avec toi",
@@ -189,20 +137,88 @@
       "url": "https://open.spotify.com/track/6AKgRLO2zVrFdEddw0EIWj"
     },
     {
-      "added_at": "2026-09-10 22:00:49",
+      "added_at": "2026-09-17 22:01:59",
       "album": {
-        "name": "Il faut que tu m'attendes",
-        "url": "https://open.spotify.com/album/5gYAmd2Y2Q9xaFiYZASJ3E"
+        "name": "Les rues de l'humanit\u00e9",
+        "url": "https://open.spotify.com/album/5FIqnUxFl3xipo30khaMqC"
       },
       "artists": [
         {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
         }
       ],
-      "duration_ms": 186613,
-      "name": "Il faut que tu m'attendes",
-      "url": "https://open.spotify.com/track/1m2gwUIMW2EtbqgmUhn9jo"
+      "duration_ms": 280120,
+      "name": "Les rues de l'humanit\u00e9",
+      "url": "https://open.spotify.com/track/4UoZhdSs5oYqwW85pAaTkv"
+    },
+    {
+      "added_at": "2026-10-01 22:02:00",
+      "album": {
+        "name": "souveraine : melancholia",
+        "url": "https://open.spotify.com/album/1bYvhzMLQysen43fLcZ1Xd"
+      },
+      "artists": [
+        {
+          "name": "Mathilde",
+          "url": "https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO"
+        }
+      ],
+      "duration_ms": 241967,
+      "name": "souveraine : melancholia",
+      "url": "https://open.spotify.com/track/7lz70aLFPlpvm5WGekWKJT"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "L'Ultrableu (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/2cQ92jgW7MfEEPebhOIFh7"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        },
+        {
+          "name": "Tuten Mapu",
+          "url": "https://open.spotify.com/artist/75RDIGh3K3u3a5PZ5oAJAU"
+        }
+      ],
+      "duration_ms": 231320,
+      "name": "Ton silence",
+      "url": "https://open.spotify.com/track/0paG03UHBFUMUqAcZrlZTa"
+    },
+    {
+      "added_at": "2026-10-01 22:02:00",
+      "album": {
+        "name": "Ressens",
+        "url": "https://open.spotify.com/album/4T4HAQoTZWeZyDwgKxpQ3b"
+      },
+      "artists": [
+        {
+          "name": "Hollysiz",
+          "url": "https://open.spotify.com/artist/6SLddo53tvP0cJdocEutfV"
+        }
+      ],
+      "duration_ms": 183010,
+      "name": "Ressens",
+      "url": "https://open.spotify.com/track/4ezg0M1I331BZVSY98TCFT"
+    },
+    {
+      "added_at": "2026-09-24 22:01:42",
+      "album": {
+        "name": "Murailles de Chine",
+        "url": "https://open.spotify.com/album/5wmAeBkWR5yiD79KJPkCIw"
+      },
+      "artists": [
+        {
+          "name": "Mathilda",
+          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
+        }
+      ],
+      "duration_ms": 228399,
+      "name": "Murailles de Chine",
+      "url": "https://open.spotify.com/track/3HY3ycfpbAYiLGPU1TgYaL"
     },
     {
       "added_at": "2026-09-17 22:01:59",
@@ -221,6 +237,74 @@
       "url": "https://open.spotify.com/track/5EuVCfMYvZR15XHPq1LtTt"
     },
     {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Qu'est-ce qu'on se ressemble",
+        "url": "https://open.spotify.com/album/3zVcFG7y0ukgdHFn8S54Na"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Qu'est-ce qu'on se ressemble",
+      "url": "https://open.spotify.com/track/1tcH4X0nYk8K9HKxG2d9A8"
+    },
+    {
+      "added_at": "2026-10-01 22:02:00",
+      "album": {
+        "name": "Qui",
+        "url": "https://open.spotify.com/album/7lVv14cj4hKWN3KKerlL2L"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "duration_ms": 247991,
+      "name": "Qui",
+      "url": "https://open.spotify.com/track/4sqwuUeNZGR8NTIUf1I8AB"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Il faut que tu m'attendes",
+        "url": "https://open.spotify.com/album/5gYAmd2Y2Q9xaFiYZASJ3E"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Il faut que tu m'attendes",
+      "url": "https://open.spotify.com/track/1m2gwUIMW2EtbqgmUhn9jo"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Le prochain r\u00eave (feat. Styleto)",
+        "url": "https://open.spotify.com/album/1wsEpdvPcsITTV5wd0LAuv"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "duration_ms": 196660,
+      "name": "Le prochain r\u00eave (feat. Styleto)",
+      "url": "https://open.spotify.com/track/477sMUpyAj8Am3a5VLfy8p"
+    },
+    {
       "added_at": "2026-09-24 22:01:42",
       "album": {
         "name": "Ma t\u00eate",
@@ -235,6 +319,38 @@
       "duration_ms": 187872,
       "name": "Ma t\u00eate",
       "url": "https://open.spotify.com/track/1TgOKLcJPvLXWojD035iDT"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Y'a un monde",
+        "url": "https://open.spotify.com/album/5LZOhA2ItAo67jrYJ5dPmV"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Y'a un monde",
+      "url": "https://open.spotify.com/track/4Z5VLeJ3GGcpNKt7jBxE7y"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Pour ce qui nous attend de mieux",
+        "url": "https://open.spotify.com/album/74VybRhzx6qlglHu0lWZb6"
+      },
+      "artists": [
+        {
+          "name": "Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Pour ce qui nous attend de mieux",
+      "url": "https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX"
     },
     {
       "added_at": "2026-09-24 22:01:42",
@@ -287,70 +403,18 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Le prochain r\u00eave (feat. Styleto)",
-        "url": "https://open.spotify.com/album/1wsEpdvPcsITTV5wd0LAuv"
+        "name": "Enfin Bon",
+        "url": "https://open.spotify.com/album/4YfDoDMtsY9oeVyvcgdkJQ"
       },
       "artists": [
         {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
         }
       ],
-      "duration_ms": 196660,
-      "name": "Le prochain r\u00eave (feat. Styleto)",
-      "url": "https://open.spotify.com/track/477sMUpyAj8Am3a5VLfy8p"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Qu'est-ce qu'on se ressemble",
-        "url": "https://open.spotify.com/album/3zVcFG7y0ukgdHFn8S54Na"
-      },
-      "artists": [
-        {
-          "name": "Lisa Pariente",
-          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Qu'est-ce qu'on se ressemble",
-      "url": "https://open.spotify.com/track/1tcH4X0nYk8K9HKxG2d9A8"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Y'a un monde",
-        "url": "https://open.spotify.com/album/5LZOhA2ItAo67jrYJ5dPmV"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9 Preszow",
-          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Y'a un monde",
-      "url": "https://open.spotify.com/track/4Z5VLeJ3GGcpNKt7jBxE7y"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Pour ce qui nous attend de mieux",
-        "url": "https://open.spotify.com/album/74VybRhzx6qlglHu0lWZb6"
-      },
-      "artists": [
-        {
-          "name": "Ys\u00e9",
-          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Pour ce qui nous attend de mieux",
-      "url": "https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX"
+      "duration_ms": 175970,
+      "name": "Enfin Bon",
+      "url": "https://open.spotify.com/track/01OPB7Vn1pat5iHmof1d1W"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -399,22 +463,6 @@
       "duration_ms": 293826,
       "name": "Bonjour mon amour",
       "url": "https://open.spotify.com/track/3R9KKJYSdraCwuJZVRTnCp"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Enfin Bon",
-        "url": "https://open.spotify.com/album/4YfDoDMtsY9oeVyvcgdkJQ"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Enfin Bon",
-      "url": "https://open.spotify.com/track/01OPB7Vn1pat5iHmof1d1W"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -711,22 +759,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Maman",
-        "url": "https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw"
-      },
-      "artists": [
-        {
-          "name": "Wamen",
-          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Maman",
-      "url": "https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "\u00c7a change quoi ?",
         "url": "https://open.spotify.com/album/2nMXvM7g5ZQnH6pBAj8xDS"
       },
@@ -771,26 +803,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Paris-Madrid",
-        "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
-      },
-      "artists": [
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        },
-        {
-          "name": "Inazio",
-          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
-        }
-      ],
-      "duration_ms": 199833,
-      "name": "Paris-Madrid",
-      "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "Le oui de trop",
         "url": "https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ"
       },
@@ -803,22 +815,6 @@
       "duration_ms": 160500,
       "name": "Le oui de trop",
       "url": "https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Les mots blessent",
-        "url": "https://open.spotify.com/album/1xof0wVd4NHl6GD39ay3iw"
-      },
-      "artists": [
-        {
-          "name": "Ariane Bonzini",
-          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "Les mots blessent",
-      "url": "https://open.spotify.com/track/4B1bOtFHzttyas5Q0dTU9Y"
     },
     {
       "added_at": "2026-09-10 22:00:49",

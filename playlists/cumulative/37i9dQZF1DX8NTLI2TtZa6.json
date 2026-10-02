@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Alpine",
+        "url": "https://open.spotify.com/album/4wjAUBak36GozrbvmmGwh8"
+      },
+      "artists": [
+        {
+          "name": "Phil Servati",
+          "url": "https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133750,
+      "name": "Alpine",
+      "url": "https://open.spotify.com/track/3r7Owcbj6RjFEQ3yH0jOr5"
+    },
+    {
+      "album": {
         "name": "Always and Never",
         "url": "https://open.spotify.com/album/7kSPSNQWISyJ9z0v9Kc2mD"
       },
@@ -8366,6 +8384,24 @@
       "duration_ms": 168125,
       "name": "Sand Between Our Fingers",
       "url": "https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex"
+    },
+    {
+      "album": {
+        "name": "Sands of time",
+        "url": "https://open.spotify.com/album/4y8SdEQdLt2h2rdXrZUy3u"
+      },
+      "artists": [
+        {
+          "name": "Medhi Tate",
+          "url": "https://open.spotify.com/artist/5EOHMF3L8Jtte0cid9DWS4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172790,
+      "name": "Sands of time",
+      "url": "https://open.spotify.com/track/5VV4G0X8WxjX3wLkGqGGyZ"
     },
     {
       "album": {

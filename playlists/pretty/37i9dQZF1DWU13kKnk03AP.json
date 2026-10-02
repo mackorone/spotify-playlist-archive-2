@@ -1,6 +1,6 @@
 {
   "description": "Pump it up with these current jams!",
-  "num_followers": 2197431,
+  "num_followers": 2197472,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-08-21 17:02:17",
       "album": {
+        "name": "Empires On Fire",
+        "url": "https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
+    },
+    {
+      "added_at": "2026-08-21 17:02:17",
+      "album": {
         "name": "Game Time (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 206166,
       "name": "Game Time",
       "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
-    },
-    {
-      "added_at": "2026-08-21 17:02:17",
-      "album": {
-        "name": "Empires On Fire",
-        "url": "https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Someone To You",
-      "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
     },
     {
       "added_at": "2026-08-21 17:02:17",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-08-21 17:02:17",
       "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
-    },
-    {
-      "added_at": "2026-08-21 17:02:17",
-      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 158133,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
+    },
+    {
+      "added_at": "2026-08-21 17:02:17",
+      "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "added_at": "2026-08-21 17:02:17",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-08-21 17:02:17",
       "album": {
-        "name": "round and round",
-        "url": "https://open.spotify.com/album/7fNSHWi4EJ3RHygITurjog"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 167770,
-      "name": "round and round",
-      "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
-    },
-    {
-      "added_at": "2026-08-21 17:02:17",
-      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2026-08-21 17:02:17",
+      "album": {
+        "name": "round and round",
+        "url": "https://open.spotify.com/album/7fNSHWi4EJ3RHygITurjog"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 167770,
+      "name": "round and round",
+      "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
     },
     {
       "added_at": "2026-08-21 17:02:17",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-08-21 17:02:17",
       "album": {
+        "name": "My Stupid Heart",
+        "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "My Stupid Heart",
+      "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
+    },
+    {
+      "added_at": "2026-08-21 17:02:17",
+      "album": {
         "name": "Illuminate (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/7bWcEZkWHrGumRfvN6PPWJ"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 183212,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/2xSEiQBQ39xfUgj2KmeRET"
-    },
-    {
-      "added_at": "2026-08-21 17:02:17",
-      "album": {
-        "name": "My Stupid Heart",
-        "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "My Stupid Heart",
-      "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
     },
     {
       "added_at": "2026-08-21 17:02:17",

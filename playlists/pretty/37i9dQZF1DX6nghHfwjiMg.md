@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Artistas para descubrir 📸 Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,241 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,256 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 17 | [Caminar en Cristal](https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Caminar en Cristal](https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S) | 2:24 |
 | 18 | [TODA LA VIDA](https://open.spotify.com/track/7fRUzowe7mqS8QkHzTMcJZ) | [BALTA](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ) | [AYER DIJISTE MAÑANA](https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H) | 3:04 |
 | 19 | [Encuentro](https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Encuentro](https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI) | 2:57 |
-| 20 | [Me llamas igual](https://open.spotify.com/track/3WPggo74kGnkW3deXSLlEN) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [Me llamas igual](https://open.spotify.com/album/4yFNzQ1mchVMZKwSCqfu77) | 2:07 |
+| 20 | [Me llamas igual](https://open.spotify.com/track/3WPggo74kGnkW3deXSLlEN) | [ELOISA](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [Me llamas igual](https://open.spotify.com/album/4yFNzQ1mchVMZKwSCqfu77) | 2:07 |
 | 21 | [Una Mañana Más](https://open.spotify.com/track/4bE74uhUpgxxMQxnqEOO0j) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Una Mañana Más](https://open.spotify.com/album/2RipfeES7U9HDusL4hQS9D) | 2:49 |
 | 22 | [El día que te conocí](https://open.spotify.com/track/73DPGKg8oeB4KaMZysTn7J) | [Martu Brito](https://open.spotify.com/artist/1g9OkXK7eB3DnWuVnUXpNJ) | [El día que te conocí](https://open.spotify.com/album/1TMQ4g8eP71pWzBS45vnrC) | 2:35 |
 | 23 | [NO TE CREO](https://open.spotify.com/track/27ZG0AOPFgVRpeacbBoHTr) | [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [NO TE CREO](https://open.spotify.com/album/1vB458G8iIuV779QZXzyex) | 2:38 |

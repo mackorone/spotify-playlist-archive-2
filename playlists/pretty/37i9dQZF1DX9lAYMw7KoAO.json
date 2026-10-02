@@ -1,12 +1,12 @@
 {
   "description": "The Hottest Christian and Gospel music from across the African continent.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a> ",
-  "num_followers": 344324,
+  "num_followers": 344519,
   "original_name": "African Gospel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACV6DfMZwNyOI7rryxIL9qtJGPyh",
+  "snapshot_id": "AAAAAG1jh9ECZJ/DZIgRNLe3VeojvvCG",
   "tracks": [
     {
       "added_at": "2025-12-03 12:16:06",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/4jcantRx2m6O7NAVvopqSb"
     },
     {
+      "added_at": "2025-12-24 18:51:27",
+      "album": {
+        "name": "Undignified (Excuse Me)",
+        "url": "https://open.spotify.com/album/4lXkDJfCaDkRRcfDD6d16R"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 533187,
+      "name": "Undignified (Excuse Me)",
+      "url": "https://open.spotify.com/track/3aSBRG5HYyEgWyuUgrRJLE"
+    },
+    {
       "added_at": "2026-05-01 00:02:17",
       "album": {
         "name": "Baruch Hashem Adonai (Live)",
@@ -707,22 +723,6 @@
       "duration_ms": 1143786,
       "name": "Baruch Hashem Adonai - Live",
       "url": "https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS"
-    },
-    {
-      "added_at": "2025-12-24 18:51:27",
-      "album": {
-        "name": "Undignified (Excuse Me)",
-        "url": "https://open.spotify.com/album/4lXkDJfCaDkRRcfDD6d16R"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 533187,
-      "name": "Undignified (Excuse Me)",
-      "url": "https://open.spotify.com/track/3aSBRG5HYyEgWyuUgrRJLE"
     },
     {
       "added_at": "2025-12-03 12:16:06",

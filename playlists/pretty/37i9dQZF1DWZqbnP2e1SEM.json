@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 324403,
+  "num_followers": 324401,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Dumb Decisions",
         "url": "https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 118119,
       "name": "Dumb Decisions",
       "url": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 157432,
+      "name": "Pjanoo - Radio Edit",
+      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "All Of Me",
         "url": "https://open.spotify.com/album/4BAfkyLALdxdeqdcsmQcJ1"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 133842,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/2hsXsfcHY8bTeRIaIu7K8B"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 157432,
-      "name": "Pjanoo - Radio Edit",
-      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "REACT",
-        "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 201145,
-      "name": "REACT",
-      "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 129302,
       "name": "Push It",
       "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "REACT",
+        "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 201145,
+      "name": "REACT",
+      "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Don\u2019t Go (Don\u2019t Leave)",
-        "url": "https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Don\u2019t Go (Don\u2019t Leave)",
-      "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 197549,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Don\u2019t Go (Don\u2019t Leave)",
+        "url": "https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Don\u2019t Go (Don\u2019t Leave)",
+      "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Devotion (Sweetest Emotion)",
-        "url": "https://open.spotify.com/album/5lr9NRdfJmcITfu7NCObUC"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "RAHH",
-          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
-        }
-      ],
-      "duration_ms": 157341,
-      "name": "Devotion (Sweetest Emotion)",
-      "url": "https://open.spotify.com/track/6ffejqaHW8eatoka1sntka"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml"
       },
@@ -1703,22 +1683,38 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/7EuOzXLRWg4G575PupWcPs"
+        "name": "Devotion (Sweetest Emotion)",
+        "url": "https://open.spotify.com/album/5lr9NRdfJmcITfu7NCObUC"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
         }
       ],
-      "duration_ms": 194890,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF"
+      "duration_ms": 157341,
+      "name": "Devotion (Sweetest Emotion)",
+      "url": "https://open.spotify.com/track/6ffejqaHW8eatoka1sntka"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1743,18 +1739,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/7EuOzXLRWg4G575PupWcPs"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
+      "duration_ms": 194890,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "On A Wave",
         "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
       },
@@ -1855,6 +1839,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "Million Things",
         "url": "https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi"
       },
@@ -1867,42 +1867,6 @@
       "duration_ms": 160641,
       "name": "Million Things",
       "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Baian\u00e1 (Boa Noite)",
-        "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Baian\u00e1 (Boa Noite)",
-      "url": "https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 159685,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1927,6 +1891,42 @@
       "duration_ms": 181500,
       "name": "Wanna Party (feat. Dennis G)",
       "url": "https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 159685,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Baian\u00e1 (Boa Noite)",
+        "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Baian\u00e1 (Boa Noite)",
+      "url": "https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT"
     },
     {
       "added_at": "2026-08-20 23:00:30",

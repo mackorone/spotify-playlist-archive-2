@@ -4,7 +4,7 @@
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 5 min
+108 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [El Gato](https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Gato](https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9) | 3:19 | 2023-08-08 |  |
 | [El Mes de Mayo](https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:47 | 2023-08-08 |  |
 | [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 | 2023-09-18 | 2025-05-15 |
+| [El Muchachon](https://open.spotify.com/track/5qndgRQs86gXNnFX4PGxao) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 3:25 | 2026-10-02 |  |
 | [El Nano \- Versión Estudio](https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:18 | 2023-08-08 |  |
 | [El Palenque](https://open.spotify.com/track/2oTzv8s1v7YkVC5gNYeavf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Palenque](https://open.spotify.com/album/32KlOoS4pvuDwq85Go6sjM) | 2:21 | 2026-05-17 | 2026-06-15 |
 | [El Pantro](https://open.spotify.com/track/24cV01L64dQsqRP4PEANUs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [Pa' Los Recuerdos, Vol\. 8](https://open.spotify.com/album/2CtM0Dc9UkDa3B8znLi8tw) | 3:38 | 2026-01-15 |  |
@@ -77,7 +78,7 @@
 | [La Guerra](https://open.spotify.com/track/5ynQN0wOlAQytY9otuHBo4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Entre Hierba, Polvo y Plomo](https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q) | 2:35 | 2025-02-07 | 2025-08-25 |
 | [La Lista](https://open.spotify.com/track/21HFonaVz6ErwhLCDxXpyM) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Lista](https://open.spotify.com/album/36yVFGoStjA1ZBdPV1cJFE) | 3:06 | 2026-09-14 |  |
 | [La Lotería](https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Lotería](https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ) | 2:53 | 2025-08-25 |  |
-| [La Mera Verdura](https://open.spotify.com/track/4tu4meJwua2TMNYU0gh3oV) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Mera Verdura](https://open.spotify.com/album/76XJZfWXmSTja9OkkEhvJ3) | 2:20 | 2026-08-10 |  |
+| [La Mera Verdura](https://open.spotify.com/track/4tu4meJwua2TMNYU0gh3oV) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Mera Verdura](https://open.spotify.com/album/76XJZfWXmSTja9OkkEhvJ3) | 2:20 | 2026-08-10 | 2026-10-02 |
 | [La Serenata](https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Serenata](https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F) | 2:50 | 2026-02-17 | 2026-07-21 |
 | [La Vida Cara](https://open.spotify.com/track/04jNYEutK3ApreB4VK2OWc) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Vida Cara](https://open.spotify.com/album/2V1p0bHZ7tataWUYqkwbM1) | 1:42 | 2023-08-08 | 2023-12-14 |
 | [Las Bendiciones](https://open.spotify.com/track/2wiTP6kEXPjnNNWNwzYTMH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 3:02 | 2026-01-17 | 2026-07-04 |

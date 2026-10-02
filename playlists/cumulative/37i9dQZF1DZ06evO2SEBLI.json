@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 236000,
       "name": "bath",
       "url": "https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 257993,
       "name": "Ether",
       "url": "https://open.spotify.com/track/4nPWO2GRxNoTwlBFPgMqTh"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 420979,
       "name": "Hamon",
       "url": "https://open.spotify.com/track/6mazXf0065n3ttcbEXQVba"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 329000,
       "name": "Ma",
       "url": "https://open.spotify.com/track/6JxYkB8w6fzgK0LPctp2dC"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 221101,
       "name": "Open / Rain",
       "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
@@ -686,6 +686,24 @@
       "duration_ms": 337937,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
+    },
+    {
+      "album": {
+        "name": "Sense/Margin",
+        "url": "https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Response / Water",
+      "url": "https://open.spotify.com/track/2BwSJGHy9ugzfP4qIrWbbx"
     },
     {
       "album": {

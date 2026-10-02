@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "party time \ud83d\ude42\u200d\u2194\ufe0f",
+  "description": "next level pop \ud83e\udee7 cover: tinashe ",
   "name": "Evolver",
   "tracks": [
     {
@@ -5900,7 +5900,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 146324,
       "name": "Bring Back the Beat",
       "url": "https://open.spotify.com/track/5BXHToMwKLWkTpKDINkWV4"
@@ -7639,6 +7639,24 @@
     },
     {
       "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145374,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/5ukcdW4MPdIVbda5IXed1d"
+    },
+    {
+      "album": {
         "name": "Cloudy Day",
         "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
       },
@@ -9120,7 +9138,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 235771,
       "name": "Danceteria",
       "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
@@ -17540,6 +17558,24 @@
     {
       "album": {
         "name": "Holiday",
+        "url": "https://open.spotify.com/album/0PAlQt67GMIEGeAEBO9HY5"
+      },
+      "artists": [
+        {
+          "name": "Koba Sno",
+          "url": "https://open.spotify.com/artist/38WeJWoc2Sr5ILNjqN4Fxs"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242182,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/1DURjeLg5MQFtIV6sqFhJu"
+    },
+    {
+      "album": {
+        "name": "Holiday",
         "url": "https://open.spotify.com/album/2FiATmtrSNjakqKjqgC6Vb"
       },
       "artists": [
@@ -17988,7 +18024,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 188575,
       "name": "Hot Wet Delirious",
       "url": "https://open.spotify.com/track/30WDZKen0s4FtFe2EyqaCN"
@@ -18672,6 +18708,24 @@
       "duration_ms": 190556,
       "name": "I DO ME",
       "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
+    },
+    {
+      "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/3o0XIkLo0iOS7w553EQXw3"
+      },
+      "artists": [
+        {
+          "name": "mischa and the bear",
+          "url": "https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182926,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/4cEMIWtk1TCg5UEQaSqYsk"
     },
     {
       "album": {
@@ -25068,6 +25122,32 @@
       "duration_ms": 177453,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/3ZvOClU4FkMqWU5ACbotsZ"
+    },
+    {
+      "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224206,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
     },
     {
       "album": {
@@ -33494,7 +33574,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176213,
       "name": "Ring",
       "url": "https://open.spotify.com/track/7o710zIVuJ9RaCYZMkBT3H"
@@ -35056,7 +35136,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 184817,
       "name": "SEXUALITY",
       "url": "https://open.spotify.com/track/1A1wzR1nOo0J2e6y1P4TpT"
@@ -39856,7 +39936,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 164594,
       "name": "the dog that cries",
       "url": "https://open.spotify.com/track/6NRoy34F0juS7q0JaZibmO"
@@ -40374,6 +40454,28 @@
       "duration_ms": 189628,
       "name": "the long way home (feat. Sara Kays & Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/3y4MGDUBfiRtdRAynxouy6"
+    },
+    {
+      "album": {
+        "name": "The Machine",
+        "url": "https://open.spotify.com/album/09MadoHFIY7QZ1bRx3puFE"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        },
+        {
+          "name": "ALBI.",
+          "url": "https://open.spotify.com/artist/64GJf2NeiXg0ZxbJSq9Uqb"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "The Machine",
+      "url": "https://open.spotify.com/track/4eJtma4bdOJVBP2zvYQfyZ"
     },
     {
       "album": {
@@ -43882,7 +43984,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 207813,
       "name": "Wheels Come Off",
       "url": "https://open.spotify.com/track/0iGsGiJ2NBiKr2lolzbznn"
@@ -44666,10 +44768,28 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 265551,
       "name": "work",
       "url": "https://open.spotify.com/track/5t9uZJUSpZ4tKrAyFFqZ1Y"
+    },
+    {
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/1kz9gxHNxi91VrTb8J2EHX"
+      },
+      "artists": [
+        {
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183831,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/7nCoc9T4nq0O8iuLzO6IPZ"
     },
     {
       "album": {

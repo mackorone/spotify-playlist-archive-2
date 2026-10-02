@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Melanie Santiler",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ANASOF",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176074,
       "name": "calla\u00edto safari",
       "url": "https://open.spotify.com/track/2tpCPmC6r2HYQUfVAF9GF3"
@@ -4062,7 +4062,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 162500,
       "name": "Celibato",
       "url": "https://open.spotify.com/track/4UbOCSASPnm7PWdfsrkrTe"
@@ -6107,6 +6107,28 @@
     },
     {
       "album": {
+        "name": "deditos cruzados",
+        "url": "https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205233,
+      "name": "deditos cruzados",
+      "url": "https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx"
+    },
+    {
+      "album": {
         "name": "deja de hablar",
         "url": "https://open.spotify.com/album/0dPeir5mOvORp4vlsmV3aw"
       },
@@ -7480,6 +7502,32 @@
       "duration_ms": 172685,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb"
+    },
+    {
+      "album": {
+        "name": "El Poema",
+        "url": "https://open.spotify.com/album/1F2EN3EfWjzBPkVQtrgFAA"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        },
+        {
+          "name": "Carlos Neda",
+          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
+        },
+        {
+          "name": "SANTANDER",
+          "url": "https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211712,
+      "name": "El Poema",
+      "url": "https://open.spotify.com/track/1RtgoLpHnN8BoVZsucrXYw"
     },
     {
       "album": {
@@ -11431,6 +11479,24 @@
     },
     {
       "album": {
+        "name": "La F\u00e1bula",
+        "url": "https://open.spotify.com/album/49zomDfCjLkMlgvVXEzswY"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161605,
+      "name": "La F\u00e1bula",
+      "url": "https://open.spotify.com/track/6AJpmsldHFaBUkjKV0DX9j"
+    },
+    {
+      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
       },
@@ -12794,6 +12860,28 @@
       "duration_ms": 213279,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
+    },
+    {
+      "album": {
+        "name": "Loco x mi",
+        "url": "https://open.spotify.com/album/02UuPRIX2rQnJBusDmhIBC"
+      },
+      "artists": [
+        {
+          "name": "Hana Fox",
+          "url": "https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9"
+        },
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122706,
+      "name": "Loco x mi",
+      "url": "https://open.spotify.com/track/4LAzLKDW8xSiJc5ovROg0b"
     },
     {
       "album": {
@@ -17142,7 +17230,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 132857,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/26eUKP4gYVbRkLzjDLhkub"
@@ -17414,6 +17502,24 @@
       "duration_ms": 201182,
       "name": "Palabras De Papel (Veneno)",
       "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
+    },
+    {
+      "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
     },
     {
       "album": {
@@ -22060,7 +22166,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 208465,
       "name": "Tal Vez Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
@@ -23408,7 +23514,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 138850,
       "name": "Tu lunar",
       "url": "https://open.spotify.com/track/6IVFgWwTxe3pBwNqC1Mpiw"
@@ -23538,7 +23644,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194560,
       "name": "Tu y yo",
       "url": "https://open.spotify.com/track/3TPJ3wIbNBNoYb9cisIAXY"
@@ -24000,7 +24106,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174022,
       "name": "un nuevo hombre",
       "url": "https://open.spotify.com/track/18jKuv4nRsWRZkADXbCkr0"
@@ -25596,6 +25702,24 @@
       "duration_ms": 194792,
       "name": "\u00d3rbita (Feat. Polim\u00e1 Westcoast)",
       "url": "https://open.spotify.com/track/3JfDVjrRznqU9GV5fsP9HD"
+    },
+    {
+      "album": {
+        "name": "\u00faltima vez!",
+        "url": "https://open.spotify.com/album/6tGk2bbTCCTOmJAUD4fzvp"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217278,
+      "name": "\u00faltima vez!",
+      "url": "https://open.spotify.com/track/2Y6SsgcBR0Kze3efXG54Zu"
     },
     {
       "album": {

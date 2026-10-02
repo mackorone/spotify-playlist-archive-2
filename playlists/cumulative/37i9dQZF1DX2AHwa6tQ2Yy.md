@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: TEEKS
 
-416 songs - 1 day 1 hr 45 min
+417 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2025-07-11 |  |
 | [Crossfade](https://open.spotify.com/track/7f1qQ6bzCWSh3hiaeVRyHK) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 5:33 | 2026-09-18 |  |
 | [Cure \(Acoustic\)](https://open.spotify.com/track/5TX18to7ocePDq2vztymUC) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ) | 4:21 | 2024-03-14 | 2025-04-06 |
-| [D.O.T.W \- Demo](https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Hallucinating Love \(Deluxe\)](https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1) | 2:47 | 2026-08-20 |  |
+| [D.O.T.W \- Demo](https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Hallucinating Love \(Deluxe\)](https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1) | 2:47 | 2026-08-20 | 2026-10-02 |
 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 | 2025-07-11 | 2025-10-03 |
 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 | 2022-06-02 | 2022-12-21 |
 | [david](https://open.spotify.com/track/0HcKyjCAvv2I3MDGqHYSh5) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [david](https://open.spotify.com/album/6MNMvxkiPfHkCxUYVM1dcj) | 5:09 | 2025-07-11 | 2025-11-21 |
@@ -269,6 +269,7 @@
 | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY) | 3:22 | 2026-05-28 | 2026-08-14 |
 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 | 2022-06-02 | 2025-07-11 |
 | [Open Up](https://open.spotify.com/track/4UDVrGYUdqaJ8o3yL1snpV) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Dawn](https://open.spotify.com/album/0UoHPF3kjLWKwSHkfmvlIq) | 3:51 | 2022-06-02 | 2022-11-18 |
+| [options](https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [options](https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy) | 3:32 | 2026-10-01 |  |
 | [Outright Attached](https://open.spotify.com/track/2nptVrm7B91RAFXg32YLhS) | [Tiana Rosie](https://open.spotify.com/artist/2hDHgtEkmGk5LWPOI5LHYb) | [Outright Attached](https://open.spotify.com/album/13vYfMmn4M7tXTX6PiY3Fp) | 3:23 | 2022-07-21 | 2023-06-02 |
 | [Overdose](https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Overdose](https://open.spotify.com/album/0z9eiOxFAYLI5rhHwrlE5s) | 4:30 | 2026-09-18 |  |
 | [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 | 2022-06-02 | 2022-08-26 |

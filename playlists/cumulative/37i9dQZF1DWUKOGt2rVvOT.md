@@ -4,11 +4,11 @@
 
 > 新歌不只用聽的，還要用看的！最新華語 MV 一次收好，現在就看起來！Cover: 宇宙人
 
-421 songs - 1 day 3 hr 39 min
+423 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Degrees](https://open.spotify.com/track/01bjgHUeiU87H8SOvoLB73) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [100 Degrees](https://open.spotify.com/album/5gOtkYrLpwEvTRGDi0gcct) | 2:32 | 2026-09-02 |  |
+| [100 Degrees](https://open.spotify.com/track/01bjgHUeiU87H8SOvoLB73) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [100 Degrees](https://open.spotify.com/album/5gOtkYrLpwEvTRGDi0gcct) | 2:32 | 2026-09-02 | 2026-10-02 |
 | [101](https://open.spotify.com/track/6ceN4yL9T8Nt4Chw7VZE6h) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [U:NFOLD](https://open.spotify.com/album/17c9mW5MqLtBQudtLXgsya) | 3:04 | 2026-09-17 |  |
 | [1022\-比尔的歌](https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E) | [1022\-比尔的歌](https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN) | 3:15 | 2024-01-22 | 2024-02-20 |
 | [11](https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [11](https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS) | 3:48 | 2024-11-11 | 2024-12-10 |
@@ -46,6 +46,7 @@
 | [Still Love You 依然愛著](https://open.spotify.com/track/1CJpHQuDaA8rp8YUhXtt7F) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [BOOM！怪物星人](https://open.spotify.com/album/3qDQ6Do1NbVjPxgNjSAy1M) | 3:55 | 2025-03-31 | 2025-05-06 |
 | [SUPA HERO \(feat\. BG8LOCC\)](https://open.spotify.com/track/0FbQzSm6pHy98Dse2VQXZA) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup), [BG8LOCC](https://open.spotify.com/artist/2lWqmnfn0X5kcU6JSOrjdE) | [Fxxk Sleep](https://open.spotify.com/album/30ZQ9RxY3lf0FgYFDH4vCD) | 3:11 | 2025-01-20 | 2025-02-18 |
 | [TA](https://open.spotify.com/track/3SEpoQd1OutcbIfiZQ05PK) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [TA](https://open.spotify.com/album/15ZulOUygGKb0Y5LEYUd5T) | 3:55 | 2024-07-22 | 2024-09-17 |
+| [Take Your Time](https://open.spotify.com/track/17hrsMKL1Qvc5i3VjnjpqY) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu) | [Take Your Time](https://open.spotify.com/album/4lPBUasyGc1tERVIjpiyGM) | 3:30 | 2026-10-01 |  |
 | [Vanishing Love](https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [Gei](https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts) | 4:40 | 2024-03-18 | 2024-04-19 |
 | [You Are \- TVBS ORIGINALS影集《有生之年》片頭曲](https://open.spotify.com/track/2RtmVGqH20LASdYmY4T7OY) | [陳佩賢Jesslyn](https://open.spotify.com/artist/3X0BiodYqHsxJEGQMdRWyg) | [I Am](https://open.spotify.com/album/6cOVowu2D4NUo41u9xNDww) | 2:55 | 2025-03-31 | 2025-05-06 |
 | [Your Love Song](https://open.spotify.com/track/0APUKgUaBUZwfRssuyhXil) | [Tank Lu](https://open.spotify.com/artist/7ikXXP6IM43Wf4RNmxap1C) | [Your Love Song](https://open.spotify.com/album/3y5fxJSperKQ3DuNQm2f5V) | 4:43 | 2024-01-08 | 2024-04-19 |
@@ -64,7 +65,7 @@
 | [一首歌](https://open.spotify.com/track/6RnWxFXtmTkM7SCMJffaVC) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [RISE](https://open.spotify.com/album/08iLOPluVXkxYkeqLRos70) | 1:58 | 2025-03-03 | 2025-05-20 |
 | [一首遺憾的歌](https://open.spotify.com/track/2hgJCzi6rRhyI3auwoA8CR) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [情歌比情人還懂](https://open.spotify.com/album/438bdVyICtXLEOqjneVJwd) | 4:35 | 2025-11-10 | 2025-11-25 |
 | [七月的極光](https://open.spotify.com/track/5Yldd3TzBRAnZIxssvGTHl) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:13 | 2026-09-02 |  |
-| [三秒一生 \- 國語版](https://open.spotify.com/track/3NHwxTGQoweXVhcjQWRcco) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [三秒一生](https://open.spotify.com/album/02mEibnrWcZczSrhRorn0j) | 3:11 | 2026-09-17 |  |
+| [三秒一生 \- 國語版](https://open.spotify.com/track/3NHwxTGQoweXVhcjQWRcco) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [三秒一生](https://open.spotify.com/album/02mEibnrWcZczSrhRorn0j) | 3:11 | 2026-09-17 | 2026-10-02 |
 | [不值得不适合](https://open.spotify.com/track/3nyk0gtoKNss2626JxCUm1) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [不值得不适合](https://open.spotify.com/album/58m6xAmmonP1g4iPoVaivQ) | 3:42 | 2025-07-27 | 2026-09-03 |
 | [不再可以](https://open.spotify.com/track/6GsZOW5IBV20TP2V4j4rAr) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/7u2tfOPAU2ZzHCEPKPKtX3) | 4:00 | 2025-03-03 | 2025-06-17 |
 | [不刪](https://open.spotify.com/track/6V2ycd5EqUqAl9r6NHqjNN) | [井朧](https://open.spotify.com/artist/4tz3iHSl8lR9ry1BOiF0N8) | [不刪](https://open.spotify.com/album/28mX38Svp099yUXf0qhqps) | 4:24 | 2024-01-08 | 2024-06-25 |
@@ -72,6 +73,7 @@
 | [不在一起就不會分開](https://open.spotify.com/track/7gq2WiPb6MgCAL9YEUkpZW) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [明室](https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D) | 4:47 | 2024-07-22 | 2024-10-01 |
 | [不完美的我 \(電影《跟你老婆去旅行》主題曲\)](https://open.spotify.com/track/6kI3vzfXS5SjTA6MtMjGnQ) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [不完美的我 \(電影《跟你老婆去旅行》主題曲\)](https://open.spotify.com/album/2peVoVAPYjI3UBR2J98rxG) | 4:32 | 2024-01-22 | 2024-06-25 |
 | [不小心愛上你 ft\. 魏如萱 waa wei](https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [In Mind](https://open.spotify.com/album/2tU8bZsg1ZnPRZO1gfGdpZ) | 3:59 | 2024-08-19 | 2024-10-29 |
+| [不想想太多](https://open.spotify.com/track/68kEMcsGiRMoVbjXVdc7zr) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu) | [Take Your Time](https://open.spotify.com/album/4lPBUasyGc1tERVIjpiyGM) | 3:31 | 2026-10-01 |  |
 | [不想聽見的歌](https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [不想聽見的歌](https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D) | 4:47 | 2024-09-02 | 2024-10-01 |
 | [不愛自己了](https://open.spotify.com/track/1kX9OkIAcrYldGseNeSkXo) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不遠處](https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA) | 4:16 | 2025-01-20 | 2025-02-18 |
 | [不愛自己現在的樣子 \- 影集《華麗計程車行》片尾曲](https://open.spotify.com/track/1q6OuxbnDt27VD4d2bpcDk) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [不愛自己現在的樣子 \(影集《華麗計程車行》片尾曲\)](https://open.spotify.com/album/3oXrUimjSsB8YN9GxkgZ1Q) | 4:19 | 2025-06-16 | 2026-09-03 |

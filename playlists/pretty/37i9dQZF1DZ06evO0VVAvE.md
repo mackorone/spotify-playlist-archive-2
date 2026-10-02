@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,575 likes - 47 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,591 likes - 47 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chokehold](https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh) | [Rhythm Vault](https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Chokehold](https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76) | 2:34 |
 | 2 | [Beamer](https://open.spotify.com/track/4i3wDQa5VBDPUiREGaS44Z) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:46 |
-| 3 | [Sometimes](https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sometimes](https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip) | 3:04 |
-| 4 | [Try](https://open.spotify.com/track/2P8GdpevIzNxDQWRtGgmYq) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/6CPueje2KqooPG806INnOW) | 2:13 |
+| 3 | [Try](https://open.spotify.com/track/2P8GdpevIzNxDQWRtGgmYq) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/6CPueje2KqooPG806INnOW) | 2:13 |
+| 4 | [Sometimes](https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sometimes](https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip) | 3:04 |
 | 5 | [Trenches Luv](https://open.spotify.com/track/1lcFhGrPvib79Hqm7umnKs) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 3:25 |
 | 6 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
 | 7 | [Lose My Mind](https://open.spotify.com/track/7p0zRjSeJu091IdVihXMHt) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:30 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 42 | [Oba \(feat\. Barry Jhay\)](https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:08 |
 | 43 | [The Way \- Remix](https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Okanlawon, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t) | 3:32 |
 | 44 | [Looku Looku](https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:07 |
-| 45 | [Everyday](https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk) | [TMP Offisial](https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Everyday](https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG) | 3:10 |
-| 46 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 |
+| 45 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 |
+| 46 | [Everyday](https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk) | [TMP Offisial](https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Everyday](https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG) | 3:10 |
 | 47 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
 
-Snapshot ID: `armuAAAAAAAwtDVKZgHM61re3aNf9RWh`
+Snapshot ID: `arxRAAAAAAAQyQwhem0khLVp/Gtm8Zgc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,015 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,019 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 12 | [โคมไฟระย้า](https://open.spotify.com/track/2ke4oJzLPO4QUfgMPUgBZQ) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 3:28 |
 | 13 | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/track/0GPUeoz4n9Uw6wnwHwY1JD) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/album/3KUh9eIcpGAyd3QQWJLIp4) | 5:03 |
 | 14 | [เจ้าชายของแก \(My Queen\)](https://open.spotify.com/track/6lh3qnI8SMWjMa8sJy41CD) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [เจ้าชายของแก \(My Queen\)](https://open.spotify.com/album/1gjydKMsfFAFyCTzqevCX9) | 2:58 |
-| 15 | [รางวัลผู้จำที่ดี \(Memory\)](https://open.spotify.com/track/1PFVwV88MIfPeNOrTQ9gnN) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [รางวัลผู้จำที่ดี \(Memory\)](https://open.spotify.com/album/7KZWbJOjrc3QdMj57WGZ2m) | 3:00 |
-| 16 | [แม่บอก](https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [แม่บอก](https://open.spotify.com/album/4tVX02x5uKETZGMuAxT4Ms) | 3:22 |
+| 15 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
+| 16 | [รางวัลผู้จำที่ดี \(Memory\)](https://open.spotify.com/track/1PFVwV88MIfPeNOrTQ9gnN) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [รางวัลผู้จำที่ดี \(Memory\)](https://open.spotify.com/album/7KZWbJOjrc3QdMj57WGZ2m) | 3:00 |
 | 17 | [ประดับ](https://open.spotify.com/track/0Y4JbGKpTzV4gpRgOgglAE) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:06 |
 | 18 | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/track/0LIrz28O9gQqKgki2i09l5) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/album/0wktt1y5XwMR8qXvKaXNtM) | 3:36 |
-| 19 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
+| 19 | [แม่บอก](https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [แม่บอก](https://open.spotify.com/album/4tVX02x5uKETZGMuAxT4Ms) | 3:22 |
 | 20 | [WIRUNJUMBANG](https://open.spotify.com/track/4KcLduFbl7EahX0CW5VJ7R) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [WIRUNJUMBANG](https://open.spotify.com/album/4c5WW45nQrDp00TFAWSdou) | 3:39 |
 | 21 | [ตัวปัญหา \(Envy\)](https://open.spotify.com/track/77mRCTRtDRg7UfeOqQMidd) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [ตัวปัญหา \(Envy\)](https://open.spotify.com/album/0Dbn4xDX8mguqDOA2FTkGY) | 3:03 |
 | 22 | [จุมพิต](https://open.spotify.com/track/3leItPP2XIt4eVia7kQ7ey) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MCB : Blonde Do It Better](https://open.spotify.com/album/49qzkCIVXuEu9vPqgN9UYJ) | 3:22 |

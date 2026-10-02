@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-214 songs - 14 hr 40 min
+217 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Harusnya Aku](https://open.spotify.com/track/4NO6tr1qkrDQWgz0IEyxwE) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Pagi Pulang Pagi](https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa) | 4:42 | 2024-01-05 |  |
 | [Hatiku Pilu](https://open.spotify.com/track/3QmfAanWYGLCVdJTpmnoe7) | [Setia Band](https://open.spotify.com/artist/7uEP7CL6JdUpyNTYdEzfb4) | [Satu Hati](https://open.spotify.com/album/26YJVM3W5I16HW2HBRouXL) | 3:42 | 2024-07-19 |  |
 | [Hidup Segan Mati Tak Mau](https://open.spotify.com/track/3G4XW2t5ohqHpZ8l79zKtQ) | [Gamma1](https://open.spotify.com/artist/4c4TlVWGSvRk1mBfZdYsnX) | [Hidup Segan Mati Tak Mau](https://open.spotify.com/album/1JlYOw6NNSDBYpcr5GNNPv) | 4:19 | 2024-01-05 |  |
+| [Hidup Untukmu, Mati Tanpamu](https://open.spotify.com/track/3mEoBjkivqArqpchxTDwJ7) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4EneY8crCrt61L7siIXtkS) | 5:22 | 2026-10-02 |  |
 | [Hilang Naluri](https://open.spotify.com/track/0RuptiEGaVC3ehZNUZxKYu) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:07 | 2024-08-22 |  |
 | [Hinaan Membuat Tegar](https://open.spotify.com/track/5hvAg2884QAlC5E9P30KMN) | [Stand Here Alone](https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2) | [Melodichildish](https://open.spotify.com/album/6Ww2FnpfXq6wYZHgzFl4pV) | 2:43 | 2024-04-04 |  |
 | [Hingga Nanti](https://open.spotify.com/track/5dd8CjRnvomx6tvnkp8kvP) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Persona](https://open.spotify.com/album/2L66OVISdrxclCyzq4Unsb) | 4:27 | 2024-04-19 |  |
@@ -133,6 +134,7 @@
 | [Matahariku](https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Agnes Is My Name](https://open.spotify.com/album/53aMwJ5S2SVxCPS4AznERW) | 4:26 | 2024-01-05 |  |
 | [Melawan Dunia](https://open.spotify.com/track/2BIEzj7OgqTgjLvpsID8nq) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [RAN](https://open.spotify.com/album/0r1Qvk0hjF2WfbpGx2tZ3F) | 4:34 | 2024-07-19 |  |
 | [Mendua](https://open.spotify.com/track/5g7TAIGfB6vgbaX8AH19FG) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:10 | 2024-01-05 |  |
+| [Mengejar Mimpi](https://open.spotify.com/track/7DYQu1YIeFbQtBXBEOLfC5) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Winning 11](https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc) | 4:08 | 2026-10-02 |  |
 | [Menunggu](https://open.spotify.com/track/1X8dqOX7HKN2RzVpXiNv3t) | [Mahesya](https://open.spotify.com/artist/7AO6p2l5GY4sfnWsxq0pKB) | [Menunggu](https://open.spotify.com/album/2tadOkP7ySsudaE89RvR92) | 3:27 | 2024-07-19 |  |
 | [Menunggumu](https://open.spotify.com/track/4Pob03jnmgS65WbiM1Jof9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Second Chance](https://open.spotify.com/album/2QqFeMX7L0PjVPQoYEHJs4) | 3:45 | 2024-01-05 |  |
 | [Menyimpan Rasa](https://open.spotify.com/track/1oPhiw7KmW3JK0gjuSF4YH) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Menyimpan Rasa](https://open.spotify.com/album/0E8TQKFgUP04XaMYK1ls1m) | 3:30 | 2024-05-27 |  |
@@ -176,6 +178,7 @@
 | [Separuh Aku](https://open.spotify.com/track/0OVcoOK5WVvE6D9CXkopa9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:26 | 2024-04-19 |  |
 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2024-01-05 | 2024-04-19 |
 | [Seperti Bintang \- From "Bima Satria Garuda"](https://open.spotify.com/track/4rSc4D3hA3ISpWXTX01zeb) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Seperti Bintang](https://open.spotify.com/album/4iE0MEONR8yC6AP54fgvHB) | 3:14 | 2024-01-05 |  |
+| [Seperti Itu?](https://open.spotify.com/track/52O7AV3rtploSSE7C762X8) | [Syahrini](https://open.spotify.com/artist/1m4Yv3TVgz8GZG7OAMK7mA) | [Seperti Itu?](https://open.spotify.com/album/5hjj74c5n4TreEQMC7sbfF) | 2:35 | 2026-10-02 |  |
 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 | 2024-01-05 |  |
 | [Sewindu](https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 4:00 | 2024-01-05 |  |
 | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/track/1SbpxkBg8DnkbTDgflkf6w) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 5:28 | 2024-04-19 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Rits, Noah Ysp, C7EVN, Moony11 en meer..",
+  "description": "NDD, Ocho & Ibs, Getit, 247Loosey, Ezzie & Marou en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -1145,6 +1145,28 @@
     },
     {
       "album": {
+        "name": "Andere Kant",
+        "url": "https://open.spotify.com/album/06DqEPuTDkGlzQrncGwRyS"
+      },
+      "artists": [
+        {
+          "name": "NDD",
+          "url": "https://open.spotify.com/artist/0wXZFUIlCxAi0Y49ZjCuMV"
+        },
+        {
+          "name": "JOJO AIR",
+          "url": "https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "Andere Kant",
+      "url": "https://open.spotify.com/track/3ZywXwtLMGI4rWFdLQ8lVh"
+    },
+    {
+      "album": {
         "name": "ANIME",
         "url": "https://open.spotify.com/album/1MKpvPkFSgkft0NuYYm3SQ"
       },
@@ -1717,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Bandlab",
+        "url": "https://open.spotify.com/album/17yXWMHRgk6Nd62afJFEqq"
+      },
+      "artists": [
+        {
+          "name": "Xeno",
+          "url": "https://open.spotify.com/artist/6QNmkf3USZGhsn81cZCKre"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124147,
+      "name": "Bandlab",
+      "url": "https://open.spotify.com/track/1k9S6herwnrbkzp9FJKPdm"
+    },
+    {
+      "album": {
         "name": "BILLO",
         "url": "https://open.spotify.com/album/4sdh8e9bt2FyBuqzLPapnL"
       },
@@ -1961,6 +2001,42 @@
     },
     {
       "album": {
+        "name": "BETOETERD (DELULU)",
+        "url": "https://open.spotify.com/album/1pQe1r0xJjYOwTP6Vn21e6"
+      },
+      "artists": [
+        {
+          "name": "Suilju",
+          "url": "https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133533,
+      "name": "BETOETERD (DELULU)",
+      "url": "https://open.spotify.com/track/672l5Ujrw7B2DnCHLgkwLN"
+    },
+    {
+      "album": {
+        "name": "Beverly",
+        "url": "https://open.spotify.com/album/26dePsd7Wqij6qCUeSxjqj"
+      },
+      "artists": [
+        {
+          "name": "Nafas",
+          "url": "https://open.spotify.com/artist/4w0GqjnTfkhnkDQp9uX1zq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Beverly",
+      "url": "https://open.spotify.com/track/7ascVFvbcbSH0kFwNUBglZ"
+    },
+    {
+      "album": {
         "name": "Bezig",
         "url": "https://open.spotify.com/album/0MmSCrcGOyvAq3dNOgsHzg"
       },
@@ -2016,6 +2092,36 @@
       "duration_ms": 153600,
       "name": "Biggie Doen",
       "url": "https://open.spotify.com/track/3brdVfw3eyXHcSXXwua6Q1"
+    },
+    {
+      "album": {
+        "name": "Bij Ons Hangen",
+        "url": "https://open.spotify.com/album/1uBSV3Ehc7pBKk3mH2xdHg"
+      },
+      "artists": [
+        {
+          "name": "Doordior",
+          "url": "https://open.spotify.com/artist/6BQZRRT4mgthGsvqrs8a2h"
+        },
+        {
+          "name": "Jeice",
+          "url": "https://open.spotify.com/artist/6M1mcZnPWXdpiUKkAS61EI"
+        },
+        {
+          "name": "Nintendo",
+          "url": "https://open.spotify.com/artist/3f2ybby7eIj5JWpG3IO0KZ"
+        },
+        {
+          "name": "HB The Plug",
+          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Bij Ons Hangen",
+      "url": "https://open.spotify.com/track/0M71h6PMr1iIBcEX8iyPI9"
     },
     {
       "album": {
@@ -3212,7 +3318,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 123273,
       "name": "D2F",
       "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
@@ -5786,7 +5892,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 141369,
       "name": "HAC \u00e0 DOS",
       "url": "https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU"
@@ -6536,6 +6642,24 @@
       "duration_ms": 165624,
       "name": "Huismuziek",
       "url": "https://open.spotify.com/track/2jyIoULidueBNoIaOAe0Uy"
+    },
+    {
+      "album": {
+        "name": "Huncho Story",
+        "url": "https://open.spotify.com/album/6r7S32FMtxVeliySMqhklL"
+      },
+      "artists": [
+        {
+          "name": "Getit",
+          "url": "https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Huncho Story",
+      "url": "https://open.spotify.com/track/6z3xklY5pp1aUiDk5gUYlT"
     },
     {
       "album": {
@@ -7957,6 +8081,32 @@
     },
     {
       "album": {
+        "name": "Lamb truck",
+        "url": "https://open.spotify.com/album/4JwtjpSizuajCyE1lT14ug"
+      },
+      "artists": [
+        {
+          "name": "Ocho & Ibs",
+          "url": "https://open.spotify.com/artist/5OBVpBkdc8NLgE6GoBhaRw"
+        },
+        {
+          "name": "Ocho",
+          "url": "https://open.spotify.com/artist/6MfxNsmm1A8Sji4XLWCZ4G"
+        },
+        {
+          "name": "King Ibs",
+          "url": "https://open.spotify.com/artist/1DK2S6nATVhksRiwUyowEF"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114628,
+      "name": "Lamb truck",
+      "url": "https://open.spotify.com/track/76Jj9OtTB7vqba7el4bEVa"
+    },
+    {
+      "album": {
         "name": "Lastpak",
         "url": "https://open.spotify.com/album/0u3zxvDOOPR4XjajQb1goz"
       },
@@ -8594,7 +8744,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 108235,
       "name": "Love Mij",
       "url": "https://open.spotify.com/track/2BRlnfz6hBdIRcsmnQ6tCZ"
@@ -9778,6 +9928,24 @@
       "duration_ms": 117165,
       "name": "Mood",
       "url": "https://open.spotify.com/track/1ZEvVN4HO11wmf566Utkji"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/4eSqZi2aBS5CIDxYfHdNLE"
+      },
+      "artists": [
+        {
+          "name": "RC",
+          "url": "https://open.spotify.com/artist/1MSyfneB7kTsYbRBvw0HtE"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176017,
+      "name": "More Life",
+      "url": "https://open.spotify.com/track/0HUAAlBmtKFvD4n9em3J1w"
     },
     {
       "album": {
@@ -11048,6 +11216,28 @@
     {
       "album": {
         "name": "Ondernemen",
+        "url": "https://open.spotify.com/album/74hnHEy8j0fLR8YopqGPjT"
+      },
+      "artists": [
+        {
+          "name": "Ezzie",
+          "url": "https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp"
+        },
+        {
+          "name": "Marou",
+          "url": "https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147599,
+      "name": "Ondernemen",
+      "url": "https://open.spotify.com/track/6NrAmPI31HJDI2wkKKtFfH"
+    },
+    {
+      "album": {
+        "name": "Ondernemen",
         "url": "https://open.spotify.com/album/7eEeOvKnqjaVw3LA6FDINv"
       },
       "artists": [
@@ -11522,7 +11712,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 152902,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/2bzK70xBOGCC7GsjI8U8B8"
@@ -12820,7 +13010,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 185693,
       "name": "Slide",
       "url": "https://open.spotify.com/track/0s6Tt6xdBknlCmp40iwooh"
@@ -14898,7 +15088,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 101790,
       "name": "Vlaams Belang",
       "url": "https://open.spotify.com/track/1aQyavopZCe2qLOQSDKSHw"
@@ -15322,6 +15512,24 @@
       "duration_ms": 152490,
       "name": "WDW",
       "url": "https://open.spotify.com/track/6DKfxiU9mPDb3ZtMwKdqd1"
+    },
+    {
+      "album": {
+        "name": "Weer Een Tatta",
+        "url": "https://open.spotify.com/album/7b8DIHiLBiLgoSgzppLi2O"
+      },
+      "artists": [
+        {
+          "name": "Wouter",
+          "url": "https://open.spotify.com/artist/7faVdEFUS3TRDLpSQyPzNN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Weer Een Tatta",
+      "url": "https://open.spotify.com/track/4KXSHDm2IhhG5uJryuivRn"
     },
     {
       "album": {
@@ -15856,7 +16064,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 148732,
       "name": "YENKO",
       "url": "https://open.spotify.com/track/23Xd7RqTBt0LypahS7cRSP"
@@ -16090,7 +16298,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 117987,
       "name": "Zomerblousje",
       "url": "https://open.spotify.com/track/29nZWbihJC0l6ijK7sJFkb"

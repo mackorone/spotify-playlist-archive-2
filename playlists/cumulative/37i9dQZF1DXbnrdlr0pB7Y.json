@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Coquille Paradise",
+        "url": "https://open.spotify.com/album/6ZRyZmgND6Cp64H1n5RisB"
+      },
+      "artists": [
+        {
+          "name": "Leo Testoni",
+          "url": "https://open.spotify.com/artist/0aG115WGfnrG8Ck2HFiMm4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135767,
+      "name": "Coquille Paradise",
+      "url": "https://open.spotify.com/track/4Fk0ZXtHAiauQOVAJX444m"
+    },
+    {
+      "album": {
         "name": "Alma Mexicana",
         "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
       },
@@ -1102,6 +1120,24 @@
       "duration_ms": 213455,
       "name": "In The Morning Sun",
       "url": "https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc"
+    },
+    {
+      "album": {
+        "name": "Jurubaina",
+        "url": "https://open.spotify.com/album/2AhZapx5zCSY0UxJb9YqMx"
+      },
+      "artists": [
+        {
+          "name": "Leo Testoni",
+          "url": "https://open.spotify.com/artist/0aG115WGfnrG8Ck2HFiMm4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137702,
+      "name": "Jurubaina",
+      "url": "https://open.spotify.com/track/7146GVbt0VBukli12IomPY"
     },
     {
       "album": {

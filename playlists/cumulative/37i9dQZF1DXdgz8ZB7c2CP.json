@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \u2694\ufe0f featuring MPH ",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udd4a\ufe0f featuring Alison Wonderland & WINK ",
   "name": "creamy",
   "tracks": [
     {
@@ -2904,6 +2904,24 @@
       "duration_ms": 216070,
       "name": "Blow Out",
       "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
+    },
+    {
+      "album": {
+        "name": "BLOW THE ROOF",
+        "url": "https://open.spotify.com/album/0gpokEn8fzZIK1jLCp1wLQ"
+      },
+      "artists": [
+        {
+          "name": "Chopsoe",
+          "url": "https://open.spotify.com/artist/5y8reXJqfkQwiFoFHOqTzF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158087,
+      "name": "BLOW THE ROOF",
+      "url": "https://open.spotify.com/track/3XrIj5nsy511h8TDxnpI84"
     },
     {
       "album": {
@@ -14951,6 +14969,28 @@
     },
     {
       "album": {
+        "name": "JUST MY TYPE",
+        "url": "https://open.spotify.com/album/4ieiAs22naG4n0k2xy9BqZ"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "PROP",
+          "url": "https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "JUST MY TYPE",
+      "url": "https://open.spotify.com/track/6PkFV41fnmD0Qxu16APjE5"
+    },
+    {
+      "album": {
         "name": "k_i_s_s_i_n_g.wav",
         "url": "https://open.spotify.com/album/6TCLFfCXQXpSze0ncBNpZU"
       },
@@ -17396,7 +17436,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 219510,
       "name": "Massive",
       "url": "https://open.spotify.com/track/06YSAXL2SkQImWg1oAivg8"
@@ -17458,7 +17498,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 196000,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1CR39tEwJLqb5s0DifVObL"
@@ -18762,7 +18802,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 215652,
       "name": "NIGHTS",
       "url": "https://open.spotify.com/track/6VixlHKJOoG9d8RjxmzIWo"
@@ -19074,7 +19114,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 196071,
       "name": "NOLIGHT",
       "url": "https://open.spotify.com/track/62nf1ZWpTaNxeIFUsAIHTP"
@@ -19388,7 +19428,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 212571,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/3LUFqsqH7iubyJ11TwzMhB"
@@ -22082,6 +22122,28 @@
       "duration_ms": 195428,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/2Oy6oc0Dit6XMcpTBvCdB0"
+    },
+    {
+      "album": {
+        "name": "RESCUE U",
+        "url": "https://open.spotify.com/album/547CCEN33skiHwwMobdVZo"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "RESCUE U",
+      "url": "https://open.spotify.com/track/3jDXVV12qJ0sZB3Ixp3srB"
     },
     {
       "album": {
@@ -26855,6 +26917,28 @@
     },
     {
       "album": {
+        "name": "Talk Is Boring",
+        "url": "https://open.spotify.com/album/4YIvgIsgxeF2zRkyAr9TVe"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        },
+        {
+          "name": "Conrad.",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Talk Is Boring",
+      "url": "https://open.spotify.com/track/7ml5FWDyEkYjiqFkyn7rhn"
+    },
+    {
+      "album": {
         "name": "talk smooth",
         "url": "https://open.spotify.com/album/1cgZvu5CfMP1MCq2MxKv8u"
       },
@@ -29942,6 +30026,24 @@
       "duration_ms": 195428,
       "name": "WAKE AND BREAK",
       "url": "https://open.spotify.com/track/18iBaqJWh0SjEv4MffX7na"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/43K1OV6WXaBHl19nS5QbOC"
+      },
+      "artists": [
+        {
+          "name": "Bebi",
+          "url": "https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6c0oITn5mHnWMshpVOypcf"
     },
     {
       "album": {

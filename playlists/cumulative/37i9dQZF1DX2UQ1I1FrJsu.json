@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 217240,
       "name": "Bonita Applebum",
       "url": "https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 213005,
       "name": "Day One",
       "url": "https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D"
@@ -1394,6 +1394,24 @@
       "duration_ms": 258228,
       "name": "ear to the cocoon",
       "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
+    },
+    {
+      "album": {
+        "name": "intersection",
+        "url": "https://open.spotify.com/album/1QBqcimkOSDc56jvdra679"
+      },
+      "artists": [
+        {
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287890,
+      "name": "easy going",
+      "url": "https://open.spotify.com/track/6o4ZZ5NiESEe1RUmNjgwGc"
     },
     {
       "album": {
@@ -3388,6 +3406,24 @@
       "duration_ms": 213272,
       "name": "Planes",
       "url": "https://open.spotify.com/track/6ldto3peQuqKTZKMa4SA6f"
+    },
+    {
+      "album": {
+        "name": "Va Va Voom",
+        "url": "https://open.spotify.com/album/2vgsOwnFTQyJRbLLnt3xEJ"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138932,
+      "name": "Players Bawl",
+      "url": "https://open.spotify.com/track/7oU9YCgQO4XjTd6Eh6KuT0"
     },
     {
       "album": {

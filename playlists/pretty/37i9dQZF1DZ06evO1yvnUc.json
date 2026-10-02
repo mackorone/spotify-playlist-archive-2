@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 180251,
+  "num_followers": 180338,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADHkxuTNCwhn+5S878mdDgX",
+  "snapshot_id": "arxRAAAAAACqJvrTWITH5IciinZDMOqR",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "N o C h i l l",
+      "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NDA",
         "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 256179,
       "name": "Say What (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "N o C h i l l",
-      "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
     },
     {
       "added_at": null,
@@ -302,11 +302,15 @@
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 229776,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR"
+      "duration_ms": 311197,
+      "name": "Recognize (feat. Drake)",
+      "url": "https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN"
     },
     {
       "added_at": null,
@@ -374,15 +378,11 @@
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 311197,
-      "name": "Recognize (feat. Drake)",
-      "url": "https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN"
+      "duration_ms": 229776,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 368035,
+      "name": "Since Way Back",
+      "url": "https://open.spotify.com/track/5JUu0unA8VwhTZ9LkMWUVI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
@@ -759,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "LOYAL (feat. Drake)",
-      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -795,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 368035,
-      "name": "Since Way Back",
-      "url": "https://open.spotify.com/track/5JUu0unA8VwhTZ9LkMWUVI"
+      "duration_ms": 197973,
+      "name": "LOYAL (feat. Drake)",
+      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 183219,
-      "name": "BELIEVE IT",
-      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 212280,
       "name": "Wednesday Night Interlude",
       "url": "https://open.spotify.com/track/6oLHyWvmk6bKrA91EIYZBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
     },
     {
       "added_at": null,

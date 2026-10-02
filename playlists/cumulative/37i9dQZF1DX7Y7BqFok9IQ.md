@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Ghost Hounds
 
-431 songs - 1 day 3 hr 40 min
+432 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 | 2025-09-26 |  |
 | [Everything I Need](https://open.spotify.com/track/049Im0p8yz9HJfkD6bmTJS) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Everything I Need](https://open.spotify.com/album/3BIDHTj4CA6YY6yCMehep3) | 3:26 | 2025-11-21 |  |
 | [Evil Eye](https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Evil Eye](https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap) | 2:28 | 2025-05-23 | 2026-01-17 |
-| [Evil Is a Corporation](https://open.spotify.com/track/1blW8N8bhFYbgurRHB9EnG) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Evil Is a Corporation](https://open.spotify.com/album/1XrnxEdb5uBnq06fw5xX5u) | 2:54 | 2026-08-28 |  |
+| [Evil Is a Corporation](https://open.spotify.com/track/1blW8N8bhFYbgurRHB9EnG) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Evil Is a Corporation](https://open.spotify.com/album/1XrnxEdb5uBnq06fw5xX5u) | 2:54 | 2026-08-28 | 2026-10-02 |
 | [Feeling Lucky](https://open.spotify.com/track/0yIXo17ICm98IDhEGQPzcE) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Feeling Lucky](https://open.spotify.com/album/4evbxd9lTQiyigKmw3tYzW) | 5:52 | 2025-02-14 | 2025-03-15 |
 | [Feels Like Home](https://open.spotify.com/track/4Yi0zzUGqcf4fF1hmyGfKI) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Sinner \- Songwriter](https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB) | 2:33 | 2021-11-05 |  |
 | [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 | 2023-09-30 |
@@ -242,6 +242,7 @@
 | [Make It Shake](https://open.spotify.com/track/57uYXpzoI7dOxdrOPWxZGT) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Make It Shake](https://open.spotify.com/album/165D6axZ9zq76cV1ip2qpo) | 3:14 | 2023-05-05 | 2023-05-20 |
 | [Make Your Move](https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N) | [Beyond the Badlands](https://open.spotify.com/artist/5Od4vhwUDRjIKGCu7OrFsP) | [Make Your Move](https://open.spotify.com/album/5upDTjsYYm1tAU1CWHruPz) | 3:21 | 2021-04-16 | 2026-06-13 |
 | [Manic Depression](https://open.spotify.com/track/6d1P9nP8GD8lHp5510nOwQ) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Manic Depression](https://open.spotify.com/album/2GYHjdCpvmoY35YmQxm1Es) | 4:11 | 2026-06-26 |  |
+| [Marionettes](https://open.spotify.com/track/4GoXbQggOnKCl4KLUh1aPv) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Marionettes](https://open.spotify.com/album/6LViE5sdqQnq4ocCJj00v3) | 3:14 | 2026-10-02 |  |
 | [Meet Me in the Bottom](https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Meet Me in the Bottom / Friends](https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5) | 3:08 | 2022-11-04 |  |
 | [Mercy](https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 4:26 | 2023-09-22 |  |
 | [Mercy](https://open.spotify.com/track/2krcU3B5QoN7aUw648THOk) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Mercy](https://open.spotify.com/album/1nfK9eJnGDD1FDXbRWLwT0) | 3:25 | 2022-02-25 | 2023-07-01 |

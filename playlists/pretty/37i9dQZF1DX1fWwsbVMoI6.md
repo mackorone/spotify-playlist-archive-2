@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazón Serrano, Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,461 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,500 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 18 | [Amor Vuelve \- \(En Vivo\)](https://open.spotify.com/track/29QkpKsdxiChq3xsmu5VDG) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Noche de Oro \(En Vivo\)](https://open.spotify.com/album/639y9TFplTFnb6WeqB4c9d) | 3:46 |
 | 19 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
 | 20 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
-| 21 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 |
-| 22 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 21 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 22 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 |
 | 23 | [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 |
 | 24 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 | 25 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 31 | [Juraste Querrerme](https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [El Baile de la Serpiente](https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt) | 3:29 |
 | 32 | [Tu Ausencia \- En Vivo](https://open.spotify.com/track/4Vy8gFPwZHuR35cwlYNoSE) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Nuestros 30 Años \(En Vivo\)](https://open.spotify.com/album/7uWi6ggwuyvGPmUn5QIKB1) | 5:36 |
 | 33 | [Luna Bonita](https://open.spotify.com/track/0LXiA5VilShPoZkcam7EP6) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Solo Hay Una...!](https://open.spotify.com/album/0eKI4Krwfk5MNigWz1W3aW) | 3:33 |
-| 34 | [Tú Me Haces Más Fuerte](https://open.spotify.com/track/4xb2uD9GnCXuTyzrN1PANS) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Tú Me Haces Más Fuerte](https://open.spotify.com/album/6Pst0oXGzZmBGlIXYKr5jn) | 3:22 |
-| 35 | [Si Saben Como Me Pongo Pa Que Me Invitan](https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [El Tirulá](https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG) | 3:11 |
+| 34 | [Si Saben Como Me Pongo Pa Que Me Invitan](https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [El Tirulá](https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG) | 3:11 |
+| 35 | [Tú Me Haces Más Fuerte](https://open.spotify.com/track/4xb2uD9GnCXuTyzrN1PANS) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Tú Me Haces Más Fuerte](https://open.spotify.com/album/6Pst0oXGzZmBGlIXYKr5jn) | 3:22 |
 | 36 | [Loco Corazón](https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Ámame Una Vez Más](https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G) | 4:16 |
 | 37 | [Mujer Hilandera](https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Cumbia](https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU) | 5:00 |
 | 38 | [Cumbias Pegaditas Mix 1](https://open.spotify.com/track/1KZpDYhD4ke4QipSxp4mbP) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Cumbias Pegaditas](https://open.spotify.com/album/2REuaCmnwYV8H2CWTfhCO2) | 20:03 |

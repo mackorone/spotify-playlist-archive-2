@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: \u00c9tienne Dufresne",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: LUMI\u00c8RE",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 221587,
       "name": "... And The Next Day",
       "url": "https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n"
@@ -1178,6 +1178,24 @@
       "duration_ms": 113110,
       "name": "Ce soir",
       "url": "https://open.spotify.com/track/6ERxoACVyeHr3Y5yhSpcM3"
+    },
+    {
+      "album": {
+        "name": "Sous-bois",
+        "url": "https://open.spotify.com/album/53kSoH8auDnrL91XJsWXiC"
+      },
+      "artists": [
+        {
+          "name": "Nicolas G\u00e9mus",
+          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242053,
+      "name": "Cendres",
+      "url": "https://open.spotify.com/track/4yLkTYwLbvvqm6p4stPKz1"
     },
     {
       "album": {
@@ -2803,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Ensorcel\u00e9e",
+        "url": "https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163059,
+      "name": "Ensorcel\u00e9e",
+      "url": "https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH"
+    },
+    {
+      "album": {
         "name": "ergo sum",
         "url": "https://open.spotify.com/album/0WoiaolqRVG7ET2WKgkUsK"
       },
@@ -2904,7 +2940,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174666,
       "name": "FACELIFT!",
       "url": "https://open.spotify.com/track/4LGWguFl4Hf8k9bPyb5JW5"
@@ -6163,6 +6199,24 @@
     },
     {
       "album": {
+        "name": "Les yeux couleur bois",
+        "url": "https://open.spotify.com/album/5OXG6MvvkRT1NUJAhtjiEG"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "Les yeux couleur bois",
+      "url": "https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l"
+    },
+    {
+      "album": {
         "name": "Let 'Em Go",
         "url": "https://open.spotify.com/album/5U1w2GkChTUowyfhnXMwEF"
       },
@@ -7834,7 +7888,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 172404,
       "name": "Parapluies",
       "url": "https://open.spotify.com/track/0WedARz5eioe0n7aobXXlp"
@@ -8876,7 +8930,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 213798,
       "name": "Rinque de m\u00eame que c'est",
       "url": "https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU"
@@ -8984,7 +9038,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 193999,
       "name": "Rouyn-Noranda",
       "url": "https://open.spotify.com/track/1lJ3gNl4FRFsIsVyVg5ink"
@@ -9046,6 +9100,24 @@
       "duration_ms": 210000,
       "name": "R\u00e9pondre aux oiseaux",
       "url": "https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt"
+    },
+    {
+      "album": {
+        "name": "Fek l\u00e0?",
+        "url": "https://open.spotify.com/album/0heQVzMcGhF9LCWJooKCC7"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lorange",
+          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128333,
+      "name": "R\u00e9ponse",
+      "url": "https://open.spotify.com/track/0ST5Q5Iriex4aM9Xhi3HQm"
     },
     {
       "album": {
@@ -9562,6 +9634,42 @@
       "duration_ms": 230968,
       "name": "Si y'a pu rien",
       "url": "https://open.spotify.com/track/2ca8GZaHaFjjR6019Qw3Id"
+    },
+    {
+      "album": {
+        "name": "Simone",
+        "url": "https://open.spotify.com/album/1nnhCMbTJghAsk3B3AJpFj"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259677,
+      "name": "Simone",
+      "url": "https://open.spotify.com/track/4sfvgy564LS75DJBKDvZwP"
+    },
+    {
+      "album": {
+        "name": "Sinnatuumakka (Dreams)",
+        "url": "https://open.spotify.com/album/04Rry2QpYeSmdRt50ZIuLX"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Sinnatuumakka (Dreams)",
+      "url": "https://open.spotify.com/track/2bZeUpwhBk8skDqgHMWpqi"
     },
     {
       "album": {
@@ -10128,7 +10236,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 205794,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"

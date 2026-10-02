@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Sublime on cover ",
-  "num_followers": 414402,
+  "num_followers": 414430,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -667,8 +667,8 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+        "name": "Ska and Rocksteady Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Enjoy Yourself",
-      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+      "duration_ms": 159381,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -747,8 +747,8 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Ska and Rocksteady Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 159381,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
+        "name": "Another Change of Plan",
+        "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
+      },
+      "artists": [
+        {
+          "name": "Random Hand",
+          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "Play Some Ska",
+      "url": "https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
-        "name": "Another Change of Plan",
-        "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
-      },
-      "artists": [
-        {
-          "name": "Random Hand",
-          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "Play Some Ska",
-      "url": "https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Arcade Perfect",
-        "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
-      },
-      "artists": [
-        {
-          "name": "Sonic Boom Six",
-          "url": "https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Sound of a Revolution",
-      "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Room For Abuse '06",
         "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 186804,
       "name": "Ego",
       "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Arcade Perfect",
+        "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
+      },
+      "artists": [
+        {
+          "name": "Sonic Boom Six",
+          "url": "https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Sound of a Revolution",
+      "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Lleva",
-        "url": "https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 214997,
-      "name": "Lleva",
-      "url": "https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "When God Was Great",
         "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 181000,
       "name": "Stepping Out",
       "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Lleva",
+        "url": "https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 214997,
+      "name": "Lleva",
+      "url": "https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn"
     },
     {
       "added_at": "2026-06-12 06:00:36",

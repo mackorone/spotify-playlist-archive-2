@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: JAY-Z",
+  "description": "Taking it way back! Cover: A$AP Rocky",
   "name": "Gold School",
   "tracks": [
     {
@@ -386,10 +386,32 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 244970,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/39w4Xgs8FvY2SJmZsHKn2K"
+    },
+    {
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/15tmDweVwISwJoMSLgvHpp"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245093,
+      "name": "Always On Time",
+      "url": "https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf"
     },
     {
       "album": {
@@ -1387,6 +1409,28 @@
     },
     {
       "album": {
+        "name": "Ghetto Fabolous",
+        "url": "https://open.spotify.com/album/6hl66Nlqoeppdm0dRpYA02"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306440,
+      "name": "Can't Deny It (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/7K4Aq4awgYvDKEJdEvvl4j"
+    },
+    {
+      "album": {
         "name": "Street Dreams (Bonus Track)",
         "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
       },
@@ -2086,7 +2130,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 265200,
       "name": "Elevators (Me & You)",
       "url": "https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs"
@@ -4226,7 +4270,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 251666,
       "name": "Jazzy Belle",
       "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
@@ -4788,6 +4832,28 @@
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
+    },
+    {
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/15tmDweVwISwJoMSLgvHpp"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256959,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/68ZXSfqZbAVgObLCt8Gvbi"
     },
     {
       "album": {
@@ -6080,7 +6146,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 260825,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E"
@@ -6393,6 +6459,24 @@
     },
     {
       "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Peso",
+      "url": "https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3"
+    },
+    {
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/7ulHRBCAipnGUHvnIEt59Z"
       },
@@ -6648,6 +6732,24 @@
       "duration_ms": 304506,
       "name": "Purple Pills",
       "url": "https://open.spotify.com/track/5IweeQZdY5XEzStLzUJG5t"
+    },
+    {
+      "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118346,
+      "name": "Purple Swag",
+      "url": "https://open.spotify.com/track/2mv7mXr45Mq9aOczaGCAbG"
     },
     {
       "album": {
@@ -9000,7 +9102,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 213826,
       "name": "We Gonna Make It",
       "url": "https://open.spotify.com/track/3FYSNSTUCqAZGfwEd8ui4l"
@@ -9353,6 +9455,24 @@
     },
     {
       "album": {
+        "name": "The Great Depression",
+        "url": "https://open.spotify.com/album/6npEZ6PLRAhagB3cwDZ3l7"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287866,
+      "name": "Who We Be",
+      "url": "https://open.spotify.com/track/1RbnH7qjUyWJWh8kjFIYNw"
+    },
+    {
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
@@ -9484,7 +9604,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 271973,
       "name": "Woo Hah!! Got You All in Check",
       "url": "https://open.spotify.com/track/09WxJCWFMWAxTHBLLelpDS"

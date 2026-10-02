@@ -3469,6 +3469,36 @@
     },
     {
       "album": {
+        "name": "Most Precious Love",
+        "url": "https://open.spotify.com/album/2okApCQGjBq76SInGD7tbP"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "UDAUFL",
+          "url": "https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280975,
+      "name": "Most Precious Love",
+      "url": "https://open.spotify.com/track/1Ldw6s3GxtPbnpWrcTiNNy"
+    },
+    {
+      "album": {
         "name": "Music In You",
         "url": "https://open.spotify.com/album/2XvXKXxsvh1OKl2KPkf1r8"
       },

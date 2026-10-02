@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 279681,
+  "num_followers": 279704,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAAFyY7BBMqBu+t2V6GJcLav",
+  "snapshot_id": "arxRAAAAAAByggn1rR8diR58Lz1hGvXc",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "Infatuation",
-      "url": "https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId"
     },
     {
       "added_at": null,

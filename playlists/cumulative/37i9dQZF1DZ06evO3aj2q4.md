@@ -4,7 +4,7 @@
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 4 min
+64 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Tourniquet](https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:38 | 2025-03-08 |  |
 | [Tourniquet \- Live From Le Zénith,France/2004](https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:17 | 2025-10-20 | 2026-06-09 |
 | [Use My Voice](https://open.spotify.com/track/1Buo891X2sWO0mFEr0VAmm) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:01 | 2025-03-08 |  |
-| [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 | 2025-03-08 |  |
+| [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 | 2025-03-08 | 2026-10-02 |
+| [Wasted On You](https://open.spotify.com/track/7sI2WC33xfq3Cw9C6e22pg) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/1Z6rvvQMOMZw2DgyF4CQ9t) | 4:24 | 2026-10-02 |  |
 | [Weight Of The World](https://open.spotify.com/track/1UfCIFhRr8Bci9LUJ68dvp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 | 2025-03-08 |  |
 | [What You Want](https://open.spotify.com/track/0uOo8xRtQ6okTZMR89ppVk) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:41 | 2025-03-08 |  |
 | [Who Will You Follow](https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:55 | 2026-07-01 |  |

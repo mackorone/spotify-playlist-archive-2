@@ -563,6 +563,36 @@
     },
     {
       "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227787,
+      "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky)",
+      "url": "https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc"
+    },
+    {
+      "album": {
         "name": "Back End",
         "url": "https://open.spotify.com/album/40dnVvzZfYX0330N1VqN89"
       },
@@ -6804,7 +6834,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 113333,
       "name": "POP MY SHIT",
       "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
@@ -7526,7 +7556,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 210609,
       "name": "Robbery 10",
       "url": "https://open.spotify.com/track/2W2Mmm3BaoRpKq7lr4Cpjp"
@@ -9754,7 +9784,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165668,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr"

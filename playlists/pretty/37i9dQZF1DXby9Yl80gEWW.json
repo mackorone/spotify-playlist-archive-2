@@ -1,6 +1,6 @@
 {
   "description": "No words, just chops. Cover: Bryan Sutton",
-  "num_followers": 63864,
+  "num_followers": 63885,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The Unsung Adventures of Punch Brothers",
-        "url": "https://open.spotify.com/album/1MLr9heWsK87e4gukzzytJ"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Solve Knut (untied)",
-      "url": "https://open.spotify.com/track/3oo9DJgPELTv0t6hksfcur"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Appalachian Picking Society",
         "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 213520,
       "name": "Annabelle June",
       "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "The Unsung Adventures of Punch Brothers",
+        "url": "https://open.spotify.com/album/1MLr9heWsK87e4gukzzytJ"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Solve Knut (untied)",
+      "url": "https://open.spotify.com/track/3oo9DJgPELTv0t6hksfcur"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+        }
+      ],
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 205586,
       "name": "Taxland (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
-        }
-      ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "A Man Must Carry On",
         "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 329933,
       "name": "Eternal Blues",
       "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Lonesome Whistle",
         "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 166720,
       "name": "City Of New Orleans - Instrumental",
       "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "The Seven",
+        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
+      },
+      "artists": [
+        {
+          "name": "Fireside Collective",
+          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
+        }
+      ],
+      "duration_ms": 327586,
+      "name": "The Seven",
+      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Big Daddy Rabbit",
         "url": "https://open.spotify.com/album/0WLM0wv3Im5ICb0tEa4ezB"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 264840,
       "name": "Big Daddy Rabbit",
       "url": "https://open.spotify.com/track/0rIpjFDkOQTK1gVILP01NO"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "The Seven",
-        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
-      },
-      "artists": [
-        {
-          "name": "Fireside Collective",
-          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
-        }
-      ],
-      "duration_ms": 327586,
-      "name": "The Seven",
-      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Elizabeth Brown / Sail Away",
         "url": "https://open.spotify.com/album/5thncZARxiTdu2we7s45r6"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 164160,
       "name": "Elizabeth Brown",
       "url": "https://open.spotify.com/track/1PG4aEBIfXsa5LPxzj59MA"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
-      },
-      "artists": [
-        {
-          "name": "Nick Dumas",
-          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Bozeman",
-      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "The View From Here",
         "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
+      },
+      "artists": [
+        {
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Bozeman",
+      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

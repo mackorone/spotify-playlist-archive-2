@@ -2927,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "HAWAJEES",
+        "url": "https://open.spotify.com/album/3RA250kyDYtXQMuEPN8LYh"
+      },
+      "artists": [
+        {
+          "name": "AL7AMDAN",
+          "url": "https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169207,
+      "name": "HAWAJEES",
+      "url": "https://open.spotify.com/track/1fNZP4KHcumdoR9HMXzFOm"
+    },
+    {
+      "album": {
         "name": "Abdulaziz Elmuanna 2026",
         "url": "https://open.spotify.com/album/46MLFQoXY0pnUUwnk3yKzj"
       },

@@ -2931,6 +2931,28 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/12Fn47QlhEDFYoBZCHp4VY"
+      },
+      "artists": [
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        },
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4HVXaQkI6CLCnbr0eKdku4"
+    },
+    {
+      "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/7wflWRvq8BFK9XbNW8VIYs"
       },
@@ -11818,6 +11840,32 @@
       "duration_ms": 157241,
       "name": "if you wanna",
       "url": "https://open.spotify.com/track/6E3rVTQWxbSBhSDqclngEy"
+    },
+    {
+      "album": {
+        "name": "if you wanna love me",
+        "url": "https://open.spotify.com/album/3pBAb9xoGwDswp5rMjdfMW"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "dnvn",
+          "url": "https://open.spotify.com/artist/5q1SD3zx3GPnofIAPOIFrY"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112258,
+      "name": "if you wanna love me",
+      "url": "https://open.spotify.com/track/1meldVf4wwhiQXokIEKU9M"
     },
     {
       "album": {

@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 218965,
       "name": "Aniversario Luctuoso",
       "url": "https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 184829,
       "name": "Antes de dejarme ir",
       "url": "https://open.spotify.com/track/0e4bxeAf8jtBQJD4Rgi4QX"
@@ -1260,6 +1260,24 @@
       "duration_ms": 164678,
       "name": "ciudad de las luces",
       "url": "https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5"
+    },
+    {
+      "album": {
+        "name": "2024-25",
+        "url": "https://open.spotify.com/album/2Z2ny2Plu5aGEB3K0U7a0f"
+      },
+      "artists": [
+        {
+          "name": "mis sue\u00f1os son de tu adi\u00f3s",
+          "url": "https://open.spotify.com/artist/6tUglhftsCV9KRMeizMhik"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52000,
+      "name": "Clarisa Lo Sabe Todo",
+      "url": "https://open.spotify.com/track/6QucC08SNkK43wkCQTMR6j"
     },
     {
       "album": {
@@ -2928,10 +2946,28 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 195160,
       "name": "Esta Campera",
       "url": "https://open.spotify.com/track/7ne8CdcA21ML4AIPaA1Yoj"
+    },
+    {
+      "album": {
+        "name": "ESTO NO AVANZA",
+        "url": "https://open.spotify.com/album/5BOCqhYIS7mRVlFegklZT5"
+      },
+      "artists": [
+        {
+          "name": "Malta Caramelo",
+          "url": "https://open.spotify.com/artist/4nMH5OWOUdGltvRpXDydPm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "ESTO NO AVANZA",
+      "url": "https://open.spotify.com/track/6r4KV2V5Kbg8SjonixJBBf"
     },
     {
       "album": {
@@ -3094,6 +3130,28 @@
       "duration_ms": 209032,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S"
+    },
+    {
+      "album": {
+        "name": "Fantosmia Reversi\u00f3n",
+        "url": "https://open.spotify.com/album/4TaIbVoGSPrFHbBP25OfYq"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        },
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212538,
+      "name": "Fantosmia Reversi\u00f3n",
+      "url": "https://open.spotify.com/track/3qCnb2rC9s2Be6nTXuzA0z"
     },
     {
       "album": {
@@ -4080,7 +4138,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 241500,
       "name": "Locutor de la Contra",
       "url": "https://open.spotify.com/track/0l8Xt01ssrIz4LTfHj5IIY"
@@ -4496,7 +4554,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 160381,
       "name": "Morfina",
       "url": "https://open.spotify.com/track/5tjOXv02KtdMLIAv35F3iv"
@@ -4782,7 +4840,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 172037,
       "name": "No hay amor que nos salve",
       "url": "https://open.spotify.com/track/1kqUmSQ2uc8EEpuw532wun"
@@ -5578,7 +5636,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 201287,
       "name": "Poci\u00f3n",
       "url": "https://open.spotify.com/track/1X6zLUZvZHKk8pYSIk2mqn"
@@ -5895,6 +5953,24 @@
     },
     {
       "album": {
+        "name": "que est\u00e1s haciendo",
+        "url": "https://open.spotify.com/album/1N8BqOrgmcMzdq84EhRanm"
+      },
+      "artists": [
+        {
+          "name": "BAI\u00c9",
+          "url": "https://open.spotify.com/artist/448cq7WkDND4kDPWw6Weyy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "que est\u00e1s haciendo",
+      "url": "https://open.spotify.com/track/50cKrNglskxBUWbBgzoCIt"
+    },
+    {
+      "album": {
         "name": "que se la banquen",
         "url": "https://open.spotify.com/album/2RggQwKLfVqYbNM06FDQam"
       },
@@ -6108,6 +6184,24 @@
       "duration_ms": 216092,
       "name": "Rompan Todo",
       "url": "https://open.spotify.com/track/5PZUbiba1yYXW8Y0Utb6YY"
+    },
+    {
+      "album": {
+        "name": "Afuera Corren",
+        "url": "https://open.spotify.com/album/30T4jU0nHLR3dcTAldHmw9"
+      },
+      "artists": [
+        {
+          "name": "AFUERA CORREN",
+          "url": "https://open.spotify.com/artist/0hF5nXYmYQGNrHpO8kMNO6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210221,
+      "name": "Sacrificio",
+      "url": "https://open.spotify.com/track/3grE06rMR9yaQyhgEQOOms"
     },
     {
       "album": {
@@ -6458,7 +6552,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194113,
       "name": "SOMOS PROFESIONALES",
       "url": "https://open.spotify.com/track/3XgVioizYsrzqnkbtXVb66"
@@ -6592,6 +6686,24 @@
       "duration_ms": 170304,
       "name": "SUS GRITOS",
       "url": "https://open.spotify.com/track/5bdxfSNKT2Faz39FyGLrSK"
+    },
+    {
+      "album": {
+        "name": "S\u00e1tiro",
+        "url": "https://open.spotify.com/album/1nC43J6HhAob3JxVNriSLL"
+      },
+      "artists": [
+        {
+          "name": "Magios",
+          "url": "https://open.spotify.com/artist/2s5gizTH4fArSdCp07VfSQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238139,
+      "name": "S\u00e1tiro",
+      "url": "https://open.spotify.com/track/0MIQEJHZUrrcPmPW2Pd2kR"
     },
     {
       "album": {
@@ -7154,7 +7266,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 121932,
       "name": "Vecinos",
       "url": "https://open.spotify.com/track/7zM7vEt3CEHasWxqRomYuu"

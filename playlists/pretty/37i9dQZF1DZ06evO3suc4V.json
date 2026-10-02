@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 11417,
+  "num_followers": 11419,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACKQpaMfl+vlkcM7VMF0wKh",
+  "snapshot_id": "arxRAAAAAABoLUux+CwM2vxBLw2vJ8+W",
   "tracks": [
     {
       "added_at": null,
@@ -139,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night",
-        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
       "artists": [
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Appleby",
+          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
+      "duration_ms": 217013,
+      "name": "Free Room (feat. Appleby)",
+      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
     },
     {
       "added_at": null,
@@ -195,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
       },
       "artists": [
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+      "duration_ms": 217440,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
     },
     {
       "added_at": null,
@@ -431,6 +431,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Boy (Alternative)",
+        "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -451,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -467,22 +507,6 @@
       "duration_ms": 192017,
       "name": "Video (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Island",
-        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
     },
     {
       "added_at": null,
@@ -919,26 +943,6 @@
       "duration_ms": 198449,
       "name": "Unknown - EP Version",
       "url": "https://open.spotify.com/track/1wCManUnBwrfpnwTaV93ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maybe in Nirvana",
-        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 285802,
-      "name": "Tequan (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX"
     }
   ],
   "unique_name": "This Is Ravyn Lenae",

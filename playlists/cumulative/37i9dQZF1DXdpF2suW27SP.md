@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Waze entra na zona.
+> Plutonio entra na zona.
 
-1,079 songs - 2 day 8 hr 46 min
+1,081 songs - 2 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [2 HORAS](https://open.spotify.com/track/6EToWXssCE1xbX42Gghilj) | [Fradick Draizzy](https://open.spotify.com/artist/3HSBs2HKfPygr1SpDhwQWO), [SK5naVOZ](https://open.spotify.com/artist/556Gnybrg7gvvRSw8Ulgk0), [AG ASTRO](https://open.spotify.com/artist/0JmZIeWVFPZa9OQJL2G3wA), [DelcioCy Costa](https://open.spotify.com/artist/5hprYSmIJwE5Kbo8TlgHuy) | [2 HORAS](https://open.spotify.com/album/4hFg2ctB4cPhJ2Q0wMijX0) | 2:06 | 2026-01-23 | 2026-03-06 |
 | [2023](https://open.spotify.com/track/2J1TF8fTaImU4sZhDpIsnp) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [2023](https://open.spotify.com/album/4E12XITnfM7Cer4HGi9RaZ) | 2:41 | 2023-12-15 | 2024-02-09 |
 | [25 DE ABRIL \(feat\. Plutonio\)](https://open.spotify.com/track/7gHPjqCdGSstIBz1knykYn) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [94](https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy) | 2:52 | 2026-04-09 |  |
+| [2K26 FREESTYLE](https://open.spotify.com/track/17A2TJEk8mowqttdicptSc) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9) | [2K26 FREESTYLE](https://open.spotify.com/album/5QKYIywU2MGSR8LmnP5B3j) | 2:36 | 2026-10-01 |  |
 | [3 Lugares](https://open.spotify.com/track/79N11TW32uY1w93uygGkIe) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Altifridi](https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1), [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [3 Lugares](https://open.spotify.com/album/4o4ptCszuV9U4brzpp04HN) | 3:16 | 2024-03-15 | 2024-05-10 |
 | [3 ou 4](https://open.spotify.com/track/23YkOAOVxr2fZqL2oQv52G) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [3 ou 4](https://open.spotify.com/album/0vJZv1jC0fpRX9jSAN7aWn) | 2:19 | 2026-06-25 |  |
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2022-07-16 | 2022-12-16 |
@@ -483,9 +484,10 @@
 | [Início e Final \(feat\. Julinho Ksd\)](https://open.spotify.com/track/4tAJ2hAOKnxTwE8dMS6YMG) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Saudade](https://open.spotify.com/album/6kFSyIhrIMYBOCPV2jy0ij) | 3:08 | 2026-02-20 | 2026-09-18 |
 | [Ipanema](https://open.spotify.com/track/3dGuHCcyjt9vBSWwJMlbMc) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Ipanema](https://open.spotify.com/album/2IqWfktBGpArfSn2uKSmbo) | 2:27 | 2026-07-23 |  |
 | [Ipanema](https://open.spotify.com/track/3Kzdn3Y5HcnYDRdgChsqKz) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Lista dos Não Convocados \(Mixtape\)](https://open.spotify.com/album/0WxDcCImbaX1qups97EjxW) | 2:11 | 2025-05-08 | 2025-05-16 |
+| [Isaltino](https://open.spotify.com/track/50iakLZIlmMPjJlye2Fc84) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Isaltino](https://open.spotify.com/album/5pAN7IqUrjblw2lq4nCBP0) | 3:42 | 2026-10-01 |  |
 | [Jackpot](https://open.spotify.com/track/2ATBdjH7OgwAryeowwlIXD) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8) | [Jackpot](https://open.spotify.com/album/2gmSUUVVnnsaZE6fK3Cmdq) | 2:38 | 2026-01-23 | 2026-04-03 |
 | [JAMANTAH](https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 5:12 | 2023-05-08 | 2023-09-15 |
-| [JANTAR FORA](https://open.spotify.com/track/28nMUhqPq2Ra2pQX9QxAvK) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [NARIO](https://open.spotify.com/artist/4Mmdqx1rT1I384x7vDZwpm), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [JANTAR FORA](https://open.spotify.com/album/5q397DS0akV8teIpTTTfF2) | 3:02 | 2026-09-10 |  |
+| [JANTAR FORA](https://open.spotify.com/track/28nMUhqPq2Ra2pQX9QxAvK) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [NARIO](https://open.spotify.com/artist/4Mmdqx1rT1I384x7vDZwpm), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [JANTAR FORA](https://open.spotify.com/album/5q397DS0akV8teIpTTTfF2) | 3:02 | 2026-09-10 | 2026-10-02 |
 | [Jardim](https://open.spotify.com/track/68CR5JoZqvAz1Tx9ieQFlo) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Jardim](https://open.spotify.com/album/2UOgGzsJBizdh2V413BhyC) | 3:37 | 2024-01-26 | 2024-05-24 |
 | [Jatinho](https://open.spotify.com/track/0DRfoJamhO2kJRzNAULB12) | [Rausch](https://open.spotify.com/artist/5WV5P4B72pZn3DgYzV9Z9J), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z), [Guilherme Santos](https://open.spotify.com/artist/6LjnAX0EhoG27lZ3kTLxPu) | [Jatinho](https://open.spotify.com/album/5pj3JgRdhRKS9Cy6AzCZ2n) | 2:06 | 2023-03-17 | 2023-04-07 |
 | [Je Comprends Pas](https://open.spotify.com/track/3SGZeGjpb8RTpZcctXzsC6) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Je Comprends Pas](https://open.spotify.com/album/6FR067nKNNlOz76bU8iEDI) | 3:05 | 2024-09-12 | 2025-08-08 |
@@ -592,7 +594,7 @@
 | [Menino da Mamã](https://open.spotify.com/track/12giMqnkKs2qruB6IVqshu) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino da Mamã](https://open.spotify.com/album/5lOZhbXTGbap6fbeqJhpDz) | 2:40 | 2025-03-21 | 2025-08-08 |
 | [Mensagem](https://open.spotify.com/track/45iFUQKNVkSFXah35yvZaz) | [Satiro Mc](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Mensagem](https://open.spotify.com/album/31NvTWLmlVBfnrwu1OzV1H) | 2:48 | 2024-05-02 | 2024-06-21 |
 | [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 | 2025-10-09 | 2026-04-24 |
-| [MENU](https://open.spotify.com/track/03pio8EQUEjZfAmmyezmJC) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [CAPACETE PRETO](https://open.spotify.com/album/59n1hri8PoTTPyLhCkKfwC) | 2:05 | 2026-05-07 |  |
+| [MENU](https://open.spotify.com/track/03pio8EQUEjZfAmmyezmJC) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [CAPACETE PRETO](https://open.spotify.com/album/59n1hri8PoTTPyLhCkKfwC) | 2:05 | 2026-05-07 | 2026-10-02 |
 | [Mesmo Assim](https://open.spotify.com/track/2FgZ8sm114fRxW88yMKw2p) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:13 | 2023-12-08 | 2024-01-26 |
 | [Mesmo Lugar](https://open.spotify.com/track/5WzNOAQd3wjwwnWMAPnvpY) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mesmo Lugar](https://open.spotify.com/album/0fB64sC0z6R9MW8hj0GVCp) | 3:45 | 2024-03-29 | 2024-07-27 |
 | [Messi](https://open.spotify.com/track/0s4o6kKyL4CqQnJQa4Sp5V) | [Topboy Blk](https://open.spotify.com/artist/5wQNFcDVCxuiePhZzryw6h), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W) | [Messi](https://open.spotify.com/album/6RCTYBuph7hWcvUQBfQVAi) | 2:19 | 2023-01-13 | 2023-02-03 |

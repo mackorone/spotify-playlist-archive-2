@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9752,
+  "num_followers": 9753,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADunYY+lT6E+K0fXPPhgxiQ",
+  "snapshot_id": "arxRAAAAAAD6IcNwU0BXzoNdsBlJNMGP",
   "tracks": [
     {
       "added_at": null,
@@ -183,38 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip the Night Fantastic",
-        "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
       },
       "artists": [
         {
-          "name": "Terri Lyne Carrington",
-          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
-        },
-        {
-          "name": "Social Science",
-          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Moor Mother",
-          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
-        },
-        {
-          "name": "Rashaan Carter",
-          "url": "https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ"
-        },
-        {
-          "name": "Morgan Guerin",
-          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
         }
       ],
-      "duration_ms": 337717,
-      "name": "Prayer Song",
-      "url": "https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ"
+      "duration_ms": 481220,
+      "name": "Island No. 1",
+      "url": "https://open.spotify.com/track/2m8vgajbox6jm2BbUYMqQf"
     },
     {
       "added_at": null,
@@ -255,18 +235,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+        "name": "Trip the Night Fantastic",
+        "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
       },
       "artists": [
         {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Social Science",
+          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
+        },
+        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        },
+        {
+          "name": "Rashaan Carter",
+          "url": "https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ"
+        },
+        {
+          "name": "Morgan Guerin",
+          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
         }
       ],
-      "duration_ms": 481220,
-      "name": "Island No. 1",
-      "url": "https://open.spotify.com/track/2m8vgajbox6jm2BbUYMqQf"
+      "duration_ms": 337717,
+      "name": "Prayer Song",
+      "url": "https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ"
     },
     {
       "added_at": null,
@@ -403,22 +403,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
       "artists": [
         {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 119500,
-      "name": "Beyond the Smoke Screen",
-      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
+      "duration_ms": 728064,
+      "name": "Haseen Thi",
+      "url": "https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1"
     },
     {
       "added_at": null,
@@ -475,26 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love In Exile",
-        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
       "artists": [
         {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
-        },
-        {
-          "name": "Shahzad Ismaily",
-          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 728064,
-      "name": "Haseen Thi",
-      "url": "https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1"
+      "duration_ms": 119500,
+      "name": "Beyond the Smoke Screen",
+      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
     },
     {
       "added_at": null,
@@ -511,42 +511,6 @@
       "duration_ms": 232360,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7g4891487QfCuRrENM8vUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
-      },
-      "artists": [
-        {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "There Go the Clouds",
-      "url": "https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talvar",
-        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Insaaf",
-      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
     },
     {
       "added_at": null,
@@ -575,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+        "name": "Talvar",
+        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
       },
       "artists": [
         {
@@ -584,9 +548,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 327373,
-      "name": "Na Ja Balam",
-      "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
+      "duration_ms": 200189,
+      "name": "Insaaf",
+      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
     },
     {
       "added_at": null,
@@ -604,15 +568,15 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 56597,
-      "name": "Seawall",
-      "url": "https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4"
+      "duration_ms": 166285,
+      "name": "There Go the Clouds",
+      "url": "https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
       },
       "artists": [
         {
@@ -620,9 +584,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 477881,
-      "name": "Island No. 2",
-      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
+      "duration_ms": 327373,
+      "name": "Na Ja Balam",
+      "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
     },
     {
       "added_at": null,
@@ -651,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
       },
       "artists": [
         {
@@ -660,9 +624,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 443200,
-      "name": "Baghon Main Pade Jhoole",
-      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
+      "duration_ms": 477881,
+      "name": "Island No. 2",
+      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
     },
     {
       "added_at": null,
@@ -680,29 +644,25 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 410467,
-      "name": "Rainy Streets",
-      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
+      "duration_ms": 56597,
+      "name": "Seawall",
+      "url": "https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "SPELLJAMS",
-        "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
       },
       "artists": [
-        {
-          "name": "Deru",
-          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
-        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 469421,
-      "name": "Forgotten Land",
-      "url": "https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV"
+      "duration_ms": 443200,
+      "name": "Baghon Main Pade Jhoole",
+      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
     },
     {
       "added_at": null,
@@ -731,26 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KARPEH",
-        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+        "name": "SPELLJAMS",
+        "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "Deru",
+          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
         },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Kai Eckhardt",
-          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
         }
       ],
-      "duration_ms": 197474,
-      "name": "Glass Face",
-      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+      "duration_ms": 469421,
+      "name": "Forgotten Land",
+      "url": "https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV"
     },
     {
       "added_at": null,
@@ -779,22 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution (Remix)",
-        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
       "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Qais Essar",
-          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+          "name": "Kai Eckhardt",
+          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
         }
       ],
-      "duration_ms": 635805,
-      "name": "Dil Jalaney Ki Baat",
-      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
+      "duration_ms": 197474,
+      "name": "Glass Face",
+      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
     },
     {
       "added_at": null,
@@ -819,6 +779,46 @@
       "duration_ms": 815804,
       "name": "Sharabi",
       "url": "https://open.spotify.com/track/3vIyVXqOTGNtLDoZ2zQ7Hw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+        }
+      ],
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 410467,
+      "name": "Rainy Streets",
+      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
     },
     {
       "added_at": null,

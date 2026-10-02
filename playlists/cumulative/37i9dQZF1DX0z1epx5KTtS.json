@@ -631,6 +631,52 @@
     },
     {
       "album": {
+        "name": "YOP CONFR\u00c9RIE IT'S THE END",
+        "url": "https://open.spotify.com/album/49CGOt37PX91QQcWn4F5mr"
+      },
+      "artists": [
+        {
+          "name": "l3flo",
+          "url": "https://open.spotify.com/artist/5CIecQ1dhoYwCU0UCch4Y4"
+        },
+        {
+          "name": "Yop Confr\u00e9rie",
+          "url": "https://open.spotify.com/artist/0FDZKjI23KqskNVVx9vmU1"
+        },
+        {
+          "name": "100 Papo",
+          "url": "https://open.spotify.com/artist/19dg3QEuepSiyqPPdwHmMj"
+        },
+        {
+          "name": "RUIGI BOMBE",
+          "url": "https://open.spotify.com/artist/2IrOu1Z9CjvS9KYl4cg8eV"
+        },
+        {
+          "name": "RUGO",
+          "url": "https://open.spotify.com/artist/2ggDExc2zMpm3UAblW8x74"
+        },
+        {
+          "name": "J-SK",
+          "url": "https://open.spotify.com/artist/1v1MFa4FbB2Zez6kDhC93q"
+        },
+        {
+          "name": "DAM\u2019S BOY",
+          "url": "https://open.spotify.com/artist/4X2BX1CKOqgoL0ClOnEmUv"
+        },
+        {
+          "name": "MISTER-X",
+          "url": "https://open.spotify.com/artist/3ePzGT00Ma57aRYWdEzjjV"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141956,
+      "name": "BABAYA",
+      "url": "https://open.spotify.com/track/63PE9Ei0tplWbkJOe2mvtV"
+    },
+    {
+      "album": {
         "name": "Bara",
         "url": "https://open.spotify.com/album/73HtPwWeCd4oOsFksDrvHZ"
       },
@@ -2060,7 +2106,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199341,
       "name": "Dos de chat",
       "url": "https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL"
@@ -4222,7 +4268,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174687,
       "name": "Mignon Gar\u00e7on",
       "url": "https://open.spotify.com/track/3rIdDhDjMRKOXMOPofsGxm"
@@ -5220,6 +5266,28 @@
       "duration_ms": 156279,
       "name": "Rien du Tout",
       "url": "https://open.spotify.com/track/0OAe0ZaxtHyeUhqqJx541P"
+    },
+    {
+      "album": {
+        "name": "Meilleur Joueur",
+        "url": "https://open.spotify.com/album/4aRRGfxiiOP6FbkRGXlb5p"
+      },
+      "artists": [
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128003,
+      "name": "Ripapa",
+      "url": "https://open.spotify.com/track/2y0fuyMt2jFQFZGVB0Ru4e"
     },
     {
       "album": {

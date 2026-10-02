@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Another Story",
+        "url": "https://open.spotify.com/album/4GE9j5BKXHi0ZBC3xQe8p1"
+      },
+      "artists": [
+        {
+          "name": "Carl Bom",
+          "url": "https://open.spotify.com/artist/4CJJY9yn3HJK7nmGNWVQnb"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153470,
+      "name": "Another Story",
+      "url": "https://open.spotify.com/track/0ZZDjonDMWdfmOsx57GWoO"
+    },
+    {
+      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt"
       },
@@ -4240,6 +4258,24 @@
       "duration_ms": 137265,
       "name": "Endearing",
       "url": "https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte"
+    },
+    {
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/2MtBiQEnnYmQmc4TETMrS1"
+      },
+      "artists": [
+        {
+          "name": "Henry Flower",
+          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145160,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0fCVKTLUjQy20yl3SIzWfI"
     },
     {
       "album": {
@@ -15383,6 +15419,24 @@
     },
     {
       "album": {
+        "name": "Then Gone",
+        "url": "https://open.spotify.com/album/45trMlvGrQNjRnihR7mnpM"
+      },
+      "artists": [
+        {
+          "name": "Julian North",
+          "url": "https://open.spotify.com/artist/4fzhFLI71Hrc3ONAwaiK4a"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176054,
+      "name": "Then Gone",
+      "url": "https://open.spotify.com/track/0hTPpCy0wkKkrOAGOGMsFq"
+    },
+    {
+      "album": {
         "name": "Then I Saw You",
         "url": "https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ"
       },
@@ -17022,6 +17076,24 @@
       "duration_ms": 162729,
       "name": "Westwood",
       "url": "https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg"
+    },
+    {
+      "album": {
+        "name": "What Was Lost",
+        "url": "https://open.spotify.com/album/0lvb0Aw0y8hqiGWIcsmUGI"
+      },
+      "artists": [
+        {
+          "name": "Nivellea",
+          "url": "https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "What Was Lost",
+      "url": "https://open.spotify.com/track/1uSBbi8JXEDzeTSyPfYQyP"
     },
     {
       "album": {

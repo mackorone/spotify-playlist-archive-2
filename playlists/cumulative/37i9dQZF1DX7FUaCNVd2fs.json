@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "All We See",
+        "url": "https://open.spotify.com/album/4A3HcOHWQrrrPMTSL0nSdc"
+      },
+      "artists": [
+        {
+          "name": "Caye Skye",
+          "url": "https://open.spotify.com/artist/3ocLLPDmkfgvjHZ5Yn10oW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172292,
+      "name": "All We See",
+      "url": "https://open.spotify.com/track/20Ial3wlYhf4JzjbV2YGeK"
+    },
+    {
+      "album": {
         "name": "All We Shared",
         "url": "https://open.spotify.com/album/37r4pHddFZxrafYpqPv7pl"
       },
@@ -1598,6 +1616,24 @@
       "duration_ms": 140296,
       "name": "In Those Years",
       "url": "https://open.spotify.com/track/1arB0eICekrhg2CAj2bGfR"
+    },
+    {
+      "album": {
+        "name": "Intertwine",
+        "url": "https://open.spotify.com/album/1XVFR9LxyHu1acbyzX7bL2"
+      },
+      "artists": [
+        {
+          "name": "Haupu",
+          "url": "https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197450,
+      "name": "Intertwine",
+      "url": "https://open.spotify.com/track/1r6YalZqNpY6OSjGBMQGso"
     },
     {
       "album": {
@@ -4126,6 +4162,24 @@
       "duration_ms": 160250,
       "name": "When you were near",
       "url": "https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh"
+    },
+    {
+      "album": {
+        "name": "Where Ends Meet",
+        "url": "https://open.spotify.com/album/65xMpSjSaes7qEApogMXNV"
+      },
+      "artists": [
+        {
+          "name": "Goldana",
+          "url": "https://open.spotify.com/artist/5qxFrVV26X1IFNzeaDl9Cw"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131607,
+      "name": "Where Ends Meet",
+      "url": "https://open.spotify.com/track/7ADorsO1OZNRbkYyl6M3rT"
     },
     {
       "album": {

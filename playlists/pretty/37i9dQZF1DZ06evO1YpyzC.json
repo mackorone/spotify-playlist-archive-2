@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267898,
+  "num_followers": 267899,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACHt66TtQtyTi4BHRUoR5ob",
+  "snapshot_id": "arxRAAAAAADudoBpFSgyiQoS8aN90bKK",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restless Road - EP",
-        "url": "https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh"
+        "name": "Never Be the Same (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
       },
       "artists": [
         {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 201749,
-      "name": "Take Me Home (with Kane Brown)",
-      "url": "https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp"
+      "duration_ms": 225539,
+      "name": "Never Be the Same (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
     },
     {
       "added_at": null,
@@ -795,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Be the Same (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
+        "name": "Restless Road - EP",
+        "url": "https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
         },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 225539,
-      "name": "Never Be the Same (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
+      "duration_ms": 201749,
+      "name": "Take Me Home (with Kane Brown)",
+      "url": "https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp"
     },
     {
       "added_at": null,

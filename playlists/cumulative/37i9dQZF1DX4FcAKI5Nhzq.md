@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: CRAVITY\)
 
-1,813 songs - 4 day 0 hr 39 min
+1,814 songs - 4 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [A Minute, A Second](https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A Minute, A Second](https://open.spotify.com/album/72jVNugN4j3KraXGzGEki2) | 3:12 | 2026-01-27 | 2026-03-25 |
 | [A Poem Titled You](https://open.spotify.com/track/4uW8imiqhAXandpeQk8Cnh) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [If, Vol\. 1](https://open.spotify.com/album/3D9DBNiWtmU37jYh0x5sPG) | 3:36 | 2023-07-07 | 2023-08-19 |
 | [A to Z](https://open.spotify.com/track/7qBGxGuUIQaYwm8gCVeab8) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [A to Z \(BANG YEDAM X Lulu\-lala Friends\)](https://open.spotify.com/album/4AJjxuKTdg7FfrnPmANcM4) | 2:30 | 2025-09-08 | 2025-10-08 |
+| [A4M](https://open.spotify.com/track/6gU1AMURzv5ODnCCGlapDW) | [WAYF BOYS](https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC) | [A4M](https://open.spotify.com/album/0QnoNftipuBWXxqLNeSdnW) | 2:52 | 2026-10-02 |  |
 | [ABYSS](https://open.spotify.com/track/0mvQ0J2oRljP2lcOd3ewgn) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ABYSS](https://open.spotify.com/album/2PgBHwXf7FNCF8W0JyxXlo) | 3:52 | 2023-02-23 | 2023-04-14 |
 | [Addicted](https://open.spotify.com/track/5KqgIWbRyFzLoj79sl39Ha) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1) | [Addicted](https://open.spotify.com/album/5eD9aoRipyLTsdam6hbB7k) | 3:02 | 2025-07-31 | 2025-09-23 |
 | [Addicted](https://open.spotify.com/track/2ffVhWaUuu5IRaoogJOGFz) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Fairyforest : Temptation](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) | 3:17 | 2021-10-26 | 2021-12-02 |

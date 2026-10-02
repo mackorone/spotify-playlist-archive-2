@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-108 songs - 7 hr 6 min
+109 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [O Sole Mio \- Live at the Valley of the Temples](https://open.spotify.com/track/1O9q3jEKxecE9GbUiLu9wp) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Live at the Valley of the Temples](https://open.spotify.com/album/5EBWdvHvDzQOp1v2ZNXy4h) | 3:49 | 2025-10-03 |  |
 | [Offenbach: Barcarolle \(from The Tales of Hoffman\)](https://open.spotify.com/track/0QesxIlKPMUvRlsUeAdRat) | [All Angels](https://open.spotify.com/artist/1nlqYzoK1LAlS8MmnUhfEs) | [All Angels](https://open.spotify.com/album/5sexUfmKMDnvVrvdwIf4jT) | 3:25 | 2021-09-24 |  |
 | [One Look \(feat\. Leona Lewis\)](https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:18 | 2022-05-06 |  |
+| [One Right Here](https://open.spotify.com/track/0O0OQsq0bTk0t0ohUbuFNW) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [One Right Here](https://open.spotify.com/album/2JgexwYwrhoNQsbbdZauTK) | 4:00 | 2026-10-02 |  |
 | [Pace](https://open.spotify.com/track/7slVyxlHDZbnQ5qz0gAYXF) | [Fabio D'Andrea](https://open.spotify.com/artist/68JRaDNqCVf8U5miwvFHe2), [Freddie De Tommaso](https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o) | [Pace](https://open.spotify.com/album/6MQYhciGla1N3HuZ9afcP6) | 4:59 | 2025-10-15 |  |
 | [Parisian Lovers](https://open.spotify.com/track/5uMNEYJedK8eOYcoyzJlMj) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Parisian Lovers](https://open.spotify.com/album/6U0gvl6aazi28oY4wTE9nr) | 2:42 | 2025-01-17 |  |
 | [PARTE DI ME](https://open.spotify.com/track/7raIu9CPNk3wbGl2TQOfZZ) | [Anoesjcka DeLorenzo](https://open.spotify.com/artist/4xq6vv2iFX12eyB68d8m7U), [Guy Barker](https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [PARTE DI ME](https://open.spotify.com/album/69Bd3UmrHZhtCsNGZqvgoD) | 4:28 | 2024-11-26 |  |

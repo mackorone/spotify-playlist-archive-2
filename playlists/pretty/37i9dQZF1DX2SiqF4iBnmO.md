@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,909 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,968 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 43 | [One Love](https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Back in Black](https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB) | 5:33 |
 | 44 | [Touch](https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:38 |
 | 45 | [Going Back To Cali](https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Walking With A Panther](https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA) | 4:09 |
-| 46 | [Remote Control](https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [DJ Sumbody](https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr) | [Sweet And Short](https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf) | 5:03 |
-| 47 | [How Much Can You Take?](https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT) | [M.C\. A.D.E.](https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT) | [How Much Can You Take](https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu) | 3:22 |
+| 46 | [How Much Can You Take?](https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT) | [M.C\. A.D.E.](https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT) | [How Much Can You Take](https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu) | 3:22 |
+| 47 | [Remote Control](https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [DJ Sumbody](https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr) | [Sweet And Short](https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf) | 5:03 |
 | 48 | [Sanctified Lady](https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Dream Of A Lifetime](https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf) | 5:25 |
 | 49 | [Boyz\-N\-The\-Hood \- Remastered 2002](https://open.spotify.com/track/3MOaCYx0basuKRolaLeYlM) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [Eternal E: Gangsta Memorial Edition](https://open.spotify.com/album/6IoHB4CnCpbZBowrf1qySr) | 6:18 |
 | 50 | [Rock the Box](https://open.spotify.com/track/6gzUi6an8slC9kR2A2GLiE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Rock the Box](https://open.spotify.com/album/7v0FikRO5HniiN7NV5Ciem) | 5:00 |

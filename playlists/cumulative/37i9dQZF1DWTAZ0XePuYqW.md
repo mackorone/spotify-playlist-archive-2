@@ -4,7 +4,7 @@
 
 > FLO's got that big energy.
 
-700 songs - 1 day 11 hr 2 min
+701 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Be Me](https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Be Me](https://open.spotify.com/album/3UXg4BQBhMrPNhkB0YQhn7) | 2:20 | 2025-11-28 | 2026-01-31 |
 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 | 2024-03-08 | 2024-05-18 |
 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 | 2024-06-21 | 2024-07-20 |
-| [Better For My Heart](https://open.spotify.com/track/5I8EDaJJJfZT8jVIqDSWAB) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Judith Little D](https://open.spotify.com/artist/5ndKESqmhnZNtrRnYeqHBz) | [Better For My Heart](https://open.spotify.com/album/2PfUvkqj0N0Bz4WEf2hcuv) | 3:34 | 2026-09-11 |  |
+| [Better For My Heart](https://open.spotify.com/track/5I8EDaJJJfZT8jVIqDSWAB) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Judith Little D](https://open.spotify.com/artist/5ndKESqmhnZNtrRnYeqHBz) | [Better For My Heart](https://open.spotify.com/album/2PfUvkqj0N0Bz4WEf2hcuv) | 3:34 | 2026-09-11 | 2026-10-02 |
 | [Better Late Than Never](https://open.spotify.com/track/28qhZtelvAlBcbLO57ct3V) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Better Late Than Never](https://open.spotify.com/album/1ZCmywFSmGlFaG1ix3pMd6) | 3:00 | 2024-03-22 | 2024-05-04 |
 | [Better Off](https://open.spotify.com/track/3TL3UrGWuIS8e8FXhO7qK6) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET \(Deluxe\)](https://open.spotify.com/album/5tEScQJvMZmUIqMt3DHISF) | 2:23 | 2023-08-18 | 2023-11-25 |
 | [Between The Sheets \(feat\. Ray Robinson\)](https://open.spotify.com/track/06bKoCM4yHMUpu0E0eNGjg) | [DJ Agile](https://open.spotify.com/artist/3ypWgymPzuSt8QT4Tg09Ed), [Ray Robinson](https://open.spotify.com/artist/2HSZwphXEa7hKWKnOCN0Dq) | [Between The Sheets \(feat\. Ray Robinson\)](https://open.spotify.com/album/7AEPbxh9ax7BxV1VKFNxz4) | 3:05 | 2026-04-24 | 2026-07-11 |
@@ -476,6 +476,7 @@
 | [Pipe Down](https://open.spotify.com/track/2HMQKE6g3NRdP7CcJxAA8x) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Pipe Down](https://open.spotify.com/album/2lyag7Tml8AyBbzm84ftCQ) | 2:59 | 2025-04-18 | 2025-08-30 |
 | [PIXAR](https://open.spotify.com/track/3K2AjofnBXR4IiKdI4jdWP) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [PIXAR](https://open.spotify.com/album/5K41VmBBw9UpuP2WCCuMLw) | 2:40 | 2023-08-25 | 2023-09-23 |
 | [Play](https://open.spotify.com/track/6YoqG5R2uqq5MQBj4kbnz4) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 3:19 | 2023-09-08 | 2023-10-14 |
+| [Player](https://open.spotify.com/track/7ynnIE2JkTcPfpWaH1DxMy) | [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [MATEK](https://open.spotify.com/artist/6W1873QQeyM22YAo1dm8uY) | [Player](https://open.spotify.com/album/4f8Y1PpbmWEvwSrgqOpvF0) | 2:13 | 2026-10-01 |  |
 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 | 2023-08-18 | 2023-09-16 |
 | [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 | 2026-06-05 | 2026-07-25 |
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-08-18 | 2023-10-07 |

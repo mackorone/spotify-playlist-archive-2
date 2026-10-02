@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Tinsley Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,436 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,449 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 57 | [Don't Ask Me \(Bonus Track\)](https://open.spotify.com/track/5lvg4sQSRNgr3MND6SoEWR) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sonic Soul Surfer](https://open.spotify.com/album/5IIMQ2MbC7iblV4hdMwZD4) | 7:28 |
 | 58 | [Ships in the Night](https://open.spotify.com/track/08pCnq3MdYsbEjubAWBdCt) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Ships in the Night](https://open.spotify.com/album/6m1eIQQFgZx0n5PkM3dKdx) | 3:41 |
 | 59 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 |
-| 60 | [Walking the dog](https://open.spotify.com/track/6TZa0ySHmDrjet5uk1gFSM) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom) | [Journey On](https://open.spotify.com/album/3AMhMqVJLR0Gyoz4iDdbnz) | 4:11 |
+| 60 | [Walking the Dog](https://open.spotify.com/track/6TZa0ySHmDrjet5uk1gFSM) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom) | [Journey On](https://open.spotify.com/album/3AMhMqVJLR0Gyoz4iDdbnz) | 4:11 |
 | 61 | [Break My Fall](https://open.spotify.com/track/7FSeN06d370hAEdv7hCqcU) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/2rSZBqwYTxFHA9yXxxdXxs) | 4:25 |
 | 62 | [Lead Me On](https://open.spotify.com/track/6i7pokV2JiF1et71olScGO) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Lead Me On \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4YQ7qU3Se2TBdFg7FpROPs) | 4:47 |
 | 63 | [You Don't Care for Me Enough to Cry](https://open.spotify.com/track/1tQGRq2WOBXjL3JWdWMONg) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [High on Tulsa Heat](https://open.spotify.com/album/1NvW80mVflSphrro6oWLuP) | 4:14 |

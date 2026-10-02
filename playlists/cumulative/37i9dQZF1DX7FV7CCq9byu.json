@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "name": "Ny Pop",
+  "name": "Ny Pop (2)",
   "tracks": [
     {
       "album": {
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 156329,
       "name": "Asleep Talking",
       "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 149096,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/4ykZCiEgz1rPTOlRpvYOyp"
@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 205523,
       "name": "Break Up in Reverse",
       "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
@@ -4910,7 +4910,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 151438,
       "name": "Camera",
       "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
@@ -8021,6 +8021,28 @@
     },
     {
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "album": {
         "name": "Dream As One (from Avatar: Fire and Ash)",
         "url": "https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q"
       },
@@ -8310,7 +8332,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174150,
       "name": "Dum i huvudet",
       "url": "https://open.spotify.com/track/4nX11i2MNHnznqfx3YxAPd"
@@ -10442,7 +10464,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 177464,
       "name": "For Your Eyes Only",
       "url": "https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq"
@@ -10958,6 +10980,24 @@
       "duration_ms": 215156,
       "name": "Fy faen du e deili",
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
+    },
+    {
+      "album": {
+        "name": "F\u00e5ngar dig om du faller",
+        "url": "https://open.spotify.com/album/5zTIHk3r7HX6AA7xE6W8lL"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Hultgren",
+          "url": "https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166734,
+      "name": "F\u00e5ngar dig om du faller",
+      "url": "https://open.spotify.com/track/5WeQl9pa4gE3fiXcE3F14k"
     },
     {
       "album": {
@@ -11531,6 +11571,24 @@
     },
     {
       "album": {
+        "name": "Gjort Allting Igen",
+        "url": "https://open.spotify.com/album/4xkiGsURCn3aFmCSKULkGf"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147112,
+      "name": "Gjort Allting Igen",
+      "url": "https://open.spotify.com/track/4iuBy5w5oKIaX6ihgX1CYd"
+    },
+    {
+      "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
       },
@@ -12008,7 +12066,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 248164,
       "name": "Good Reason",
       "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
@@ -12044,7 +12102,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 184117,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/2bpxHht751EzvYMtshniQb"
@@ -12156,7 +12214,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -18500,7 +18558,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 145680,
       "name": "Less than a Lover",
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
@@ -19199,6 +19257,24 @@
     },
     {
       "album": {
+        "name": "Lost a Friend",
+        "url": "https://open.spotify.com/album/2lxaPUPiE3iQxLKzMGTfIy"
+      },
+      "artists": [
+        {
+          "name": "Zikai",
+          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "Lost a Friend",
+      "url": "https://open.spotify.com/track/2mQ25VTjKEdk5ueOYSejKr"
+    },
+    {
+      "album": {
         "name": "Lost and found",
         "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
       },
@@ -19799,6 +19875,32 @@
     },
     {
       "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224206,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
+    },
+    {
+      "album": {
         "name": "LOVE YOU LESS",
         "url": "https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG"
       },
@@ -20254,7 +20356,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 132451,
       "name": "L\u00e4nge Leve (Sommaren)",
       "url": "https://open.spotify.com/track/2CSftoMORIG7yvKRo4ijJ2"
@@ -22294,7 +22396,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 217380,
       "name": "My Body Isn't Ready",
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
@@ -23187,6 +23289,24 @@
     },
     {
       "album": {
+        "name": "No Reality",
+        "url": "https://open.spotify.com/album/7r3rriNZvEOow3qsSbd3C0"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170223,
+      "name": "No Reality",
+      "url": "https://open.spotify.com/track/6bruYyprlxwkDGPG5BYGkM"
+    },
+    {
+      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
       },
@@ -23829,6 +23949,24 @@
     },
     {
       "album": {
+        "name": "offerkofta / kompispris",
+        "url": "https://open.spotify.com/album/3wzTLSTlyPYrfHlPcVmBX1"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180268,
+      "name": "offerkofta",
+      "url": "https://open.spotify.com/track/7eqPyJGjws3itT8h1nxGUS"
+    },
+    {
+      "album": {
         "name": "Oh Mother",
         "url": "https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om"
       },
@@ -23844,7 +23982,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 212534,
       "name": "Oh Mother",
       "url": "https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl"
@@ -27322,6 +27460,24 @@
     {
       "album": {
         "name": "Scissors",
+        "url": "https://open.spotify.com/album/6BmcAF9u1q45h58bzvqmlG"
+      },
+      "artists": [
+        {
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147944,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/603Wr870XQdr4pXG0qyCe2"
+    },
+    {
+      "album": {
+        "name": "Scissors",
         "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
       },
       "artists": [
@@ -29279,6 +29435,24 @@
     },
     {
       "album": {
+        "name": "Vad g\u00f6r jag nu?",
+        "url": "https://open.spotify.com/album/62Uo1Igpb6FTRC5mL8CUcj"
+      },
+      "artists": [
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199567,
+      "name": "Sovplats",
+      "url": "https://open.spotify.com/track/2uoSI0416OaFQfhZcm2GHB"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/6KQgOvQJ1NoFUXX1BuAzfZ"
       },
@@ -30106,7 +30280,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 182413,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/2OY0TuFhYouP4aPaMHtVf7"
@@ -30218,6 +30392,24 @@
       "duration_ms": 178666,
       "name": "Stop Calling",
       "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
+    },
+    {
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
     },
     {
       "album": {
@@ -30658,7 +30850,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 214778,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz"
@@ -30862,6 +31054,24 @@
       "duration_ms": 167964,
       "name": "Superman (feat. Pontus)",
       "url": "https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB"
+    },
+    {
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5TAP6BzFiAUsXosKJsc2Wt"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168624,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/7dFYLouQB4sAe6hWqNQuRQ"
     },
     {
       "album": {
@@ -32166,6 +32376,28 @@
       "duration_ms": 187786,
       "name": "That's What You Get",
       "url": "https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE"
+    },
+    {
+      "album": {
+        "name": "That's Why I Love You (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/5q6QhFiOGWHwi4ndgn9zBF"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278629,
+      "name": "That's Why I Love You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/2DZCLS4G0TgbENOwzA49lj"
     },
     {
       "album": {
@@ -33526,7 +33758,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 142112,
       "name": "Tomma glas (feat. Molly Sand\u00e9n & Dante)",
       "url": "https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz"
@@ -33606,6 +33838,24 @@
       "duration_ms": 214179,
       "name": "Ton\u00e5rsdr\u00f6m",
       "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
+    },
+    {
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
     },
     {
       "album": {
@@ -35173,6 +35423,24 @@
     },
     {
       "album": {
+        "name": "V\u00e4nner tittar inte s\u00e5 p\u00e5 varandra",
+        "url": "https://open.spotify.com/album/0pTjP3KCy5PLkXblNIsKNb"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165016,
+      "name": "V\u00e4nner tittar inte s\u00e5 p\u00e5 varandra",
+      "url": "https://open.spotify.com/track/6ctL6rLr0hNhau3v3wGhHo"
+    },
+    {
+      "album": {
         "name": "V\u00e4ntat",
         "url": "https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q"
       },
@@ -36693,6 +36961,24 @@
     },
     {
       "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
+    },
+    {
+      "album": {
         "name": "Worst behavior",
         "url": "https://open.spotify.com/album/3FOvQmvu8pPCOTPhfgrGBO"
       },
@@ -36766,7 +37052,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 161522,
       "name": "Yellow Top",
       "url": "https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5"

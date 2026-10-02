@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 228710,
+  "num_followers": 228697,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI58rqTFVucBBi2GHCtCrbDcBsOc",
+  "snapshot_id": "AAAAAL5W/Lls5VklpxjnAxG2L9W3oyB7",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:00:32",
+      "album": {
+        "name": "Good as Gone",
+        "url": "https://open.spotify.com/album/1rsYbbNufqOu0l5PskqdMV"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lauren Callihan",
+          "url": "https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2"
+        }
+      ],
+      "duration_ms": 197169,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/2TiFZSL6z8aJShLVj7h7bX"
+    },
+    {
+      "added_at": "2026-10-02 04:00:32",
+      "album": {
+        "name": "Eugene / Save The World",
+        "url": "https://open.spotify.com/album/6Dusr0zMg57KbTwHFapiQj"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 165511,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/7qmkXF08ElAFoN7Wrn3FW1"
+    },
     {
       "added_at": "2026-06-26 04:00:15",
       "album": {
@@ -1623,26 +1655,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1c3y5QNQHjn23qQ8t59qtT"
-      },
-      "artists": [
-        {
-          "name": "fika",
-          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/4IsjYlNEEsfPQGODzKyYRQ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/4a1ShZBPPlnpsXuc4WdF99"
       },
@@ -1767,26 +1779,6 @@
       "duration_ms": 183578,
       "name": "I Know (feat. Tenille Townes & Bryce Vine)",
       "url": "https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Stimulate",
-        "url": "https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 176340,
-      "name": "Better Without You",
-      "url": "https://open.spotify.com/track/3WURRexuZzg92BEcAGtfdr"
     },
     {
       "added_at": "2023-06-02 04:01:00",

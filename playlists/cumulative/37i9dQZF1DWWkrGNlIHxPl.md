@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by Arab artists\. Cover: Shargeeya
+> Global crossovers by Arab artists\. Cover: Nadine El Roubi
 
-388 songs - 21 hr 5 min
+390 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/track/0RkRvd3bccxgMYVU5PB8C7) | [Emsallam](https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/album/1MqguCDENJ5cTU2Jg2CJaE) | 2:48 | 2021-12-16 | 2022-11-20 |
 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 | 2022-06-06 | 2022-06-24 |
 | [Games](https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Games](https://open.spotify.com/album/3dCdXYs4q7pn3iCdsxzgd9) | 2:36 | 2023-04-24 | 2023-05-27 |
+| [Garden](https://open.spotify.com/track/2Hjivwv91p9oWCwn8P9TdA) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [Garden](https://open.spotify.com/album/2lldErQeUYPa4tzWJrcxWz) | 3:23 | 2026-10-01 |  |
 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 | 2023-04-01 | 2025-01-01 |
 | [Gazing](https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Gazing](https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz) | 2:53 | 2023-03-14 | 2023-04-28 |
 | [Get Low](https://open.spotify.com/track/0rbbxIeycN5WGoYWryIlWx) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Get Low](https://open.spotify.com/album/7phycFGcngvbPErCb97U1M) | 3:34 | 2022-06-06 | 2022-06-24 |
@@ -268,6 +269,7 @@
 | [PAINFUL PARADISE](https://open.spotify.com/track/3PUMFgRmBuKqGDtNKLBPt6) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [PAINFUL PARADISE](https://open.spotify.com/album/54nuF8VIzj6ZoW5yYFHt9M) | 2:55 | 2023-09-29 | 2023-12-07 |
 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 | 2021-12-16 | 2022-02-23 |
 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 | 2022-03-29 | 2023-06-25 |
+| [Pick Me Apart](https://open.spotify.com/track/1zcLozt26zvjyZ5OFTIiuJ) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Pick Me Apart](https://open.spotify.com/album/2gSjzMzlhdNGsgOWqtopPz) | 2:25 | 2026-10-01 |  |
 | [Pick up](https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Pick up](https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr) | 2:03 | 2023-07-31 | 2024-02-14 |
 | [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 | 2023-01-31 | 2024-03-21 |
 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 | 2023-04-07 | 2023-05-08 |
@@ -349,7 +351,7 @@
 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 | 2022-12-07 | 2023-03-14 |
 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 | 2022-03-07 | 2022-12-08 |
 | [This Feeling \- Kerfo Remix](https://open.spotify.com/track/3xSQJa2PyiKwcRpU4jfbzB) | [Wissam Hilal](https://open.spotify.com/artist/2yICXFfulgwVygZl6d19AZ) | [This Feeling \(Kerfo Remix\)](https://open.spotify.com/album/1TxoM5aWYB0OftQvM3oGnk) | 3:25 | 2021-12-16 | 2022-07-18 |
-| [time](https://open.spotify.com/track/5bxN3kcVUZFWuFNwmbu9sc) | [Maleka](https://open.spotify.com/artist/3eB1VORmzwBeOxRGJ259u1) | [time](https://open.spotify.com/album/27PcxS2E8HCGb1Q1xotN4u) | 2:47 | 2025-06-24 |  |
+| [time](https://open.spotify.com/track/5bxN3kcVUZFWuFNwmbu9sc) | [Maleka](https://open.spotify.com/artist/3eB1VORmzwBeOxRGJ259u1) | [time](https://open.spotify.com/album/27PcxS2E8HCGb1Q1xotN4u) | 2:47 | 2025-06-24 | 2026-10-02 |
 | [Time Machine](https://open.spotify.com/track/4e2cixaDOoBxqfeuEUJskA) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Time Machine](https://open.spotify.com/album/52JILWLCOvqJ9yqLXVKXHU) | 2:41 | 2022-09-22 | 2022-12-08 |
 | [TMO \(with Mohamed Ramadan & Gims\)](https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [TMO](https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ) | 3:25 | 2023-04-27 | 2024-10-08 |
 | [Toss & Turn](https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE) | [Yal Solan](https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs) | [Toss & Turn](https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4) | 2:51 | 2023-06-02 | 2025-08-09 |
@@ -373,7 +375,7 @@
 | [Watch Me](https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [Watch Me](https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy) | 2:35 | 2023-08-14 | 2023-10-05 |
 | [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-14 | 2023-08-20 |
 | [WATER](https://open.spotify.com/track/6s3GAR8XAY06Qk05V4A0z7) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [WATER](https://open.spotify.com/album/6Q7Q1IbhWKDthIVE6CF2ud) | 3:37 | 2022-12-07 | 2023-04-25 |
-| [Wavy in Brooklyn](https://open.spotify.com/track/1C8KiYm5khCfsqJkqlfWkb) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Mo Stank](https://open.spotify.com/artist/09mbQueasspgFFhkE1pc7V) | [Wavy in Brooklyn](https://open.spotify.com/album/4CClVr9DFvedg0LX4Q8bQD) | 2:56 | 2024-03-11 |  |
+| [Wavy in Brooklyn](https://open.spotify.com/track/1C8KiYm5khCfsqJkqlfWkb) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Mo Stank](https://open.spotify.com/artist/09mbQueasspgFFhkE1pc7V) | [Wavy in Brooklyn](https://open.spotify.com/album/4CClVr9DFvedg0LX4Q8bQD) | 2:56 | 2024-03-11 | 2026-10-02 |
 | [WE PRAY \- \(Elyanna Version\)](https://open.spotify.com/track/4rYYAWSdgENNINui9wK3O1) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(Elyanna Version\)](https://open.spotify.com/album/7EAQXnF7TwFUHYC2UtIQq6) | 3:53 | 2024-09-20 | 2024-09-28 |
 | [What I Mean](https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [What I Mean](https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY) | 2:49 | 2022-12-07 | 2023-02-25 |
 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2021-12-16 | 2022-11-20 |

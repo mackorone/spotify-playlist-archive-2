@@ -4,7 +4,7 @@
 
 > Family friendly country songs to listen to together.
 
-177 songs - 10 hr 16 min
+178 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [God's Country](https://open.spotify.com/track/4TCeFZNjGNQIpCuZmJkkE2) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Fully Loaded: God's Country](https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT) | 3:24 | 2020-09-29 | 2026-02-12 |
 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 | 2024-01-15 |  |
 | [Good Girl](https://open.spotify.com/track/3NgcaTIgVh77DdwAInp996) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Tullahoma](https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5) | 3:09 | 2020-09-29 | 2024-01-16 |
-| [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 4:14 | 2026-05-25 |  |
+| [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 4:14 | 2026-05-25 | 2026-10-02 |
 | [Growing Up](https://open.spotify.com/track/2qLlnVfkyIMtkViemtRtYb) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Growing Up](https://open.spotify.com/album/56Y7sj73J1tdMkXgRPSaMX) | 3:34 | 2021-04-09 | 2024-01-16 |
 | [Happy Anywhere](https://open.spotify.com/track/3jNItMY8Hoz2IXe7PCELVx) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Country Life](https://open.spotify.com/album/1Bt8HqQX6XLbzfFfczzGHv) | 2:51 | 2020-09-29 | 2022-11-13 |
 | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/track/2DwbFtfC6sXBiVDPmju8Dd) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/album/4K4Zt6ttyStgYV5B3bWuBi) | 2:50 | 2020-09-29 |  |
@@ -107,6 +107,7 @@
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 | 2024-01-15 |  |
 | [Love That About Her](https://open.spotify.com/track/3MCgZ7KxuZyLejqLJh8Z1W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Love That About Her](https://open.spotify.com/album/0M7fNCHp5OHtzPwiLj2fpZ) | 3:19 | 2020-09-29 | 2024-01-16 |
 | [Lovesick Blues](https://open.spotify.com/track/32d8PvwQ5G0r4uvBGdGBRz) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Famous EP](https://open.spotify.com/album/0uwi88sUbCRCvlwYEi6khZ) | 2:51 | 2020-09-29 | 2024-01-16 |
+| [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 | 2026-10-01 |  |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2023-07-12 | 2024-07-27 |
 | [Make It Sweet](https://open.spotify.com/track/23vpjrt7G0ERE2L95dyxdI) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/2u7YB4vGWWHqWJrBJTqT7V) | 3:07 | 2020-09-29 |  |
 | [Make It Sweet](https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:07 | 2020-09-29 | 2024-04-19 |

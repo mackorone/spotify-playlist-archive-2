@@ -4,7 +4,7 @@
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-108 songs - 8 hr 53 min
+109 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Del Puente Pa' Allá](https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 6:00 | 2023-12-13 |  |
 | [Digo Yo](https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:38 | 2022-09-08 | 2026-02-16 |
 | [Duele Mas](https://open.spotify.com/track/3ucblmon6wWteun2UQxzUg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Un Alto en el Camino](https://open.spotify.com/album/6zjMkgvzUOUiID1lJcFIgN) | 5:41 | 2023-12-29 | 2024-04-16 |
-| [Duele Más](https://open.spotify.com/track/3eccxwMeNfIAIxGVoHSchj) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:38 | 2022-10-16 |  |
+| [Duele Más](https://open.spotify.com/track/3eccxwMeNfIAIxGVoHSchj) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:38 | 2022-10-16 | 2026-10-02 |
+| [Duele Más](https://open.spotify.com/track/3uf5LS5RX4eyLzQuZpOTpd) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Un Alto En El Camino](https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5) | 5:40 | 2026-10-02 |  |
 | [El Amor Vendrá](https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tapando el Hueco](https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM) | 4:51 | 2022-09-08 |  |
 | [El Coco](https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tierra de Mis Amores](https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR) | 4:01 | 2022-09-08 | 2023-12-14 |
 | [El Coco](https://open.spotify.com/track/1GyiOg6NkOzpDlJQTtY0Fo) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 4:14 | 2024-01-22 | 2024-07-16 |

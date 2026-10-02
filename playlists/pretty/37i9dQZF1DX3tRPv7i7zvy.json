@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 22764,
+  "num_followers": 22782,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 145555,
+      "name": "Gen Z",
+      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
         "name": "Where We Come From, Vol. 01",
         "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
-        "name": "Gen Z",
-        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 145555,
-      "name": "Gen Z",
-      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "PopStar",
-        "url": "https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "PopStar",
-      "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
         "name": "Avana (Deluxe)",
         "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 182222,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
+        "name": "PopStar",
+        "url": "https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "PopStar",
+      "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161639,
-      "name": "Soma Obi",
-      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
         "name": "365 Days",
         "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 188041,
       "name": "365 Days",
       "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161639,
+      "name": "Soma Obi",
+      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
         "name": "Wish I Had a Girlfriend",
         "url": "https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
+        "name": "Catching Glory",
+        "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
         }
       ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
+      "duration_ms": 106997,
+      "name": "Catching Glory",
+      "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -651,22 +667,6 @@
       "duration_ms": 154838,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
-        "name": "Catching Glory",
-        "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
-      },
-      "artists": [
-        {
-          "name": "Lalid",
-          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
-        }
-      ],
-      "duration_ms": 106997,
-      "name": "Catching Glory",
-      "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
+        "name": "Steeze",
+        "url": "https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Steeze",
+      "url": "https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
         "name": "Ewor Me",
         "url": "https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey"
       },
@@ -911,42 +931,6 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
-        "name": "Steeze",
-        "url": "https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR"
-      },
-      "artists": [
-        {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Steeze",
-      "url": "https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
         "name": "Goldigga",
         "url": "https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 182265,
       "name": "Goldigga",
       "url": "https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "Adey Mad",
-        "url": "https://open.spotify.com/album/4cALuLNCZhLsdiYFAvE58S"
+        "name": "Bendova",
+        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
       },
       "artists": [
         {
-          "name": "Oseikrom Sikanii",
-          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 177566,
-      "name": "Adey Mad",
-      "url": "https://open.spotify.com/track/02lFGo5cHjVmVEThvrKuy1"
+      "duration_ms": 162941,
+      "name": "Bendova",
+      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -1055,6 +1059,22 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
+        "name": "Adey Mad",
+        "url": "https://open.spotify.com/album/4cALuLNCZhLsdiYFAvE58S"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "duration_ms": 177566,
+      "name": "Adey Mad",
+      "url": "https://open.spotify.com/track/02lFGo5cHjVmVEThvrKuy1"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T"
       },
@@ -1071,22 +1091,18 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "Bendova",
-        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
+        "name": "All Of A Sudden",
+        "url": "https://open.spotify.com/album/38W1LS7Vc0qui8HZ5xe212"
       },
       "artists": [
         {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
         }
       ],
-      "duration_ms": 162941,
-      "name": "Bendova",
-      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
+      "duration_ms": 142000,
+      "name": "All Of A Sudden",
+      "url": "https://open.spotify.com/track/14lv2xperrM7JiFLmF9b5y"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "All Of A Sudden",
-        "url": "https://open.spotify.com/album/38W1LS7Vc0qui8HZ5xe212"
+        "name": "Sneaky",
+        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
       },
       "artists": [
         {
-          "name": "AlorG",
-          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
         }
       ],
-      "duration_ms": 142000,
-      "name": "All Of A Sudden",
-      "url": "https://open.spotify.com/track/14lv2xperrM7JiFLmF9b5y"
+      "duration_ms": 166312,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -1159,22 +1175,6 @@
       "duration_ms": 202540,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6vuItm60bi4U9UOgvYanSp"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
-        "name": "Sneaky",
-        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
-      },
-      "artists": [
-        {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        }
-      ],
-      "duration_ms": 166312,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
     }
   ],
   "unique_name": "Abonten ",

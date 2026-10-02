@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49143,
+  "num_followers": 49147,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Io sono il viaggio",
-        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
-      },
-      "artists": [
-        {
-          "name": "Caparezza",
-          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
-        }
-      ],
-      "duration_ms": 333296,
-      "name": "Io sono il viaggio",
-      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Io sono il viaggio",
+        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
+      },
+      "artists": [
+        {
+          "name": "Caparezza",
+          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
+        }
+      ],
+      "duration_ms": 333296,
+      "name": "Io sono il viaggio",
+      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "VOCE e BATTERIA",
-        "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
-      },
-      "artists": [
-        {
-          "name": "Frankie hi-nrg mc",
-          "url": "https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI"
-        },
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 168593,
-      "name": "Pedala e batteria (feat. Jovanotti)",
-      "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Lealt\u00e0 e rispetto",
         "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
       },
@@ -1163,22 +1143,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Canerandagio - Parte 1",
-        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
+        "name": "VOCE e BATTERIA",
+        "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
       },
       "artists": [
         {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+          "name": "Frankie hi-nrg mc",
+          "url": "https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI"
         },
         {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
         }
       ],
-      "duration_ms": 165000,
-      "name": "TROPPAweed (feat. Noyz Narcos)",
-      "url": "https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9"
+      "duration_ms": 168593,
+      "name": "Pedala e batteria (feat. Jovanotti)",
+      "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1203,6 +1183,26 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Canerandagio - Parte 1",
+        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TROPPAweed (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Musica Cicatrene",
+        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "SECONDO MEDIOEVO",
+      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Machete Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Musica Cicatrene",
-        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "SECONDO MEDIOEVO",
-      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "GI\u00d9 DA ME",
-        "url": "https://open.spotify.com/album/7djKPOv1ZCuFubOjudHqjr"
-      },
-      "artists": [
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
-        }
-      ],
-      "duration_ms": 115800,
-      "name": "GI\u00d9 DA ME",
-      "url": "https://open.spotify.com/track/4OMdFWA9yLk8zHq6gwnSY6"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "A volte ritorno",
         "url": "https://open.spotify.com/album/5jSqRzW2LuzCdyUW6gmrsS"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 342933,
       "name": "Cinque minuti di paura",
       "url": "https://open.spotify.com/track/1hd9E8Agd4xAazyksqzjYO"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "GI\u00d9 DA ME",
+        "url": "https://open.spotify.com/album/7djKPOv1ZCuFubOjudHqjr"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        }
+      ],
+      "duration_ms": 115800,
+      "name": "GI\u00d9 DA ME",
+      "url": "https://open.spotify.com/track/4OMdFWA9yLk8zHq6gwnSY6"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Fuoco Sacro",
-        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        }
-      ],
-      "duration_ms": 193122,
-      "name": "Quante Notti (feat. Franco126)",
-      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "CHIODI",
         "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 248791,
       "name": "L'uomo dei sogni",
       "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Fuoco Sacro",
+        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "duration_ms": 193122,
+      "name": "Quante Notti (feat. Franco126)",
+      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "The Waiter",
-        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        }
-      ],
-      "duration_ms": 132640,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Milano Docet",
         "url": "https://open.spotify.com/album/0fcpty63ePPqtCKKD9CP17"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 217806,
       "name": "Sogni Diventano Incubi",
       "url": "https://open.spotify.com/track/0HLrzfagUoPKEdKpN536H9"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "The Waiter",
+        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2115,34 +2115,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Teoria Del Contrario Mixtape, Vol. 3",
-        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Kkrisna",
-          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
-        },
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        },
-        {
-          "name": "Strage",
-          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
-        }
-      ],
-      "duration_ms": 173877,
-      "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
-      "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Mercato nero",
         "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
       },
@@ -2167,6 +2139,34 @@
       "duration_ms": 275000,
       "name": "F35",
       "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Teoria Del Contrario Mixtape, Vol. 3",
+        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Kkrisna",
+          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Strage",
+          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
+        }
+      ],
+      "duration_ms": 173877,
+      "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
+      "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Parole",
-        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
-      },
-      "artists": [
-        {
-          "name": "Mistaman",
-          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Parole",
-      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 275202,
       "name": "Chi Paga",
       "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Parole",
+        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
+      },
+      "artists": [
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Parole",
+      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Flaneur",
-        "url": "https://open.spotify.com/album/1RdP7DtoHay28UDWe6Xm8N"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Ivana LCX",
-          "url": "https://open.spotify.com/artist/5V089NPCa9rnQNz4t1gBG6"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Flaneur",
-      "url": "https://open.spotify.com/track/5pAeva0OSTjKO0j4jJpuoF"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Poco dopo mezzanotte",
         "url": "https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ"
       },
@@ -2331,6 +2311,26 @@
       "duration_ms": 167961,
       "name": "Settembre",
       "url": "https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Flaneur",
+        "url": "https://open.spotify.com/album/1RdP7DtoHay28UDWe6Xm8N"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Ivana LCX",
+          "url": "https://open.spotify.com/artist/5V089NPCa9rnQNz4t1gBG6"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Flaneur",
+      "url": "https://open.spotify.com/track/5pAeva0OSTjKO0j4jJpuoF"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2379,26 +2379,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Favola",
-        "url": "https://open.spotify.com/album/4LtUc77mtEMvblER5Jf45L"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
-        }
-      ],
-      "duration_ms": 189278,
-      "name": "Favola",
-      "url": "https://open.spotify.com/track/1Qp2eMLXVnff8plWwm48i4"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Rosso Fuoco",
         "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
       },
@@ -2419,6 +2399,26 @@
       "duration_ms": 227520,
       "name": "Rosso Fuoco",
       "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Favola",
+        "url": "https://open.spotify.com/album/4LtUc77mtEMvblER5Jf45L"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+        }
+      ],
+      "duration_ms": 189278,
+      "name": "Favola",
+      "url": "https://open.spotify.com/track/1Qp2eMLXVnff8plWwm48i4"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2703,6 +2703,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/214vCBQmCXS0AdXwB7K6rz"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        }
+      ],
+      "duration_ms": 131162,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5AituxD4v7K00yqjQx851p"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Aspromonte a Roma",
         "url": "https://open.spotify.com/album/1xcJ0lk89vxauxOI8kpgpc"
       },
@@ -2723,22 +2739,6 @@
       "duration_ms": 205958,
       "name": "Putiferio",
       "url": "https://open.spotify.com/track/00WXXmVD40vXn9gS3CxNuG"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/214vCBQmCXS0AdXwB7K6rz"
-      },
-      "artists": [
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        }
-      ],
-      "duration_ms": 131162,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/5AituxD4v7K00yqjQx851p"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2815,6 +2815,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Mambo del Diablo",
+        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "Weirdo",
+          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "Mambo del Diablo",
+      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Ora Che La Musica Non C'\u00e8",
         "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
       },
@@ -2839,22 +2859,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Mambo del Diablo",
-        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
+        "name": "Nostra Signora delle Lacrime",
+        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
       },
       "artists": [
         {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "Weirdo",
-          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
+          "name": "Kento",
+          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
         }
       ],
-      "duration_ms": 166530,
-      "name": "Mambo del Diablo",
-      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
+      "duration_ms": 229588,
+      "name": "Nostra Signora delle Lacrime",
+      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2883,22 +2899,6 @@
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Nostra Signora delle Lacrime",
-        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
-      },
-      "artists": [
-        {
-          "name": "Kento",
-          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
-        }
-      ],
-      "duration_ms": 229588,
-      "name": "Nostra Signora delle Lacrime",
-      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
     },
     {
       "added_at": "2026-05-29 09:57:53",

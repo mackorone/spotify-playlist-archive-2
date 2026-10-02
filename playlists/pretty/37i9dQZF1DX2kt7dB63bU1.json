@@ -1,13 +1,85 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 174479,
+  "num_followers": 174507,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACUVSth13DIOO9mVK5S2a54HfF9E",
+  "snapshot_id": "AAAAAGJS4FZDmqJAV8b5AE0LMlwPctxh",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:00:33",
+      "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/1ZJX3MkgGkFZmutJAHZS3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 165876,
+      "name": "The Best Things Happen While You're Dancing",
+      "url": "https://open.spotify.com/track/4m0TCAd9hKenEoyTu6D24l"
+    },
+    {
+      "added_at": "2026-10-02 04:00:33",
+      "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/6EdX0JXcU5p1MfCAKN7CUM"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
+        }
+      ],
+      "duration_ms": 233250,
+      "name": "Just Squeeze Me",
+      "url": "https://open.spotify.com/track/6Rsb2OPZxxFPNG5u5kptMM"
+    },
+    {
+      "added_at": "2026-10-02 04:00:33",
+      "album": {
+        "name": "Windy Nights",
+        "url": "https://open.spotify.com/album/51QRdCuPLXyHgVMKgDORFN"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 204557,
+      "name": "Windy Nights",
+      "url": "https://open.spotify.com/track/3HcrNDrjhcRtoHVGPrACj1"
+    },
+    {
+      "added_at": "2026-10-02 04:00:33",
+      "album": {
+        "name": "Sinatra, My Sweetheart",
+        "url": "https://open.spotify.com/album/6c7A8tjVwBFN4guBxFQz4N"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 217096,
+      "name": "She's Funny That Way",
+      "url": "https://open.spotify.com/track/4zWl1fZ1iWB45qfAZ1iz2O"
+    },
     {
       "added_at": "2026-09-25 04:00:34",
       "album": {
@@ -143,22 +215,6 @@
       "duration_ms": 180913,
       "name": "So mysterious",
       "url": "https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c"
-    },
-    {
-      "added_at": "2026-09-04 04:00:26",
-      "album": {
-        "name": "Just a Little Lovin'",
-        "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 289670,
-      "name": "Just a Little Lovin\u2019",
-      "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
     },
     {
       "added_at": "2026-09-04 04:00:26",
@@ -739,22 +795,6 @@
     {
       "added_at": "2026-02-06 05:00:24",
       "album": {
-        "name": "La plus belle saison",
-        "url": "https://open.spotify.com/album/7KX6yVZvEDnEJPLrsn2Qgq"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "Les deux printemps",
-      "url": "https://open.spotify.com/track/52vBcU6dYSpbra7lar3BYF"
-    },
-    {
-      "added_at": "2026-02-06 05:00:24",
-      "album": {
         "name": "My Funny Valentine",
         "url": "https://open.spotify.com/album/1WClO9dEWjLHcF2gGdUwl8"
       },
@@ -1305,22 +1345,6 @@
       "url": "https://open.spotify.com/track/0JQtOJkm9JJH7psMoYJpjI"
     },
     {
-      "added_at": "2025-05-02 04:00:17",
-      "album": {
-        "name": "Think of Me Softly",
-        "url": "https://open.spotify.com/album/2J7DlkkwNSEmjTG4PgbKbs"
-      },
-      "artists": [
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        }
-      ],
-      "duration_ms": 148042,
-      "name": "Think of Me Softly",
-      "url": "https://open.spotify.com/track/6CT3JLkpXM5B2hxgJMV0BV"
-    },
-    {
       "added_at": "2025-04-18 04:00:31",
       "album": {
         "name": "The Very Thought of You",
@@ -1479,30 +1503,6 @@
       "duration_ms": 175070,
       "name": "Cold Cold Rain",
       "url": "https://open.spotify.com/track/1YybV3nGg1XrwKoM2PN1Oy"
-    },
-    {
-      "added_at": "2025-01-10 05:00:08",
-      "album": {
-        "name": "I Guess I Just",
-        "url": "https://open.spotify.com/album/52Jyjr3Mtxl7i7hM8SSyy9"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
-        {
-          "name": "Alex Goodman",
-          "url": "https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3"
-        },
-        {
-          "name": "Lucas Pino",
-          "url": "https://open.spotify.com/artist/5XJ3MtDvjwCTEbu4oehX7Q"
-        }
-      ],
-      "duration_ms": 271177,
-      "name": "Love Is a Place",
-      "url": "https://open.spotify.com/track/41REeAwdQL9lrWtLlbXBIz"
     },
     {
       "added_at": "2024-10-25 04:00:00",

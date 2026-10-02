@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,316 songs - 3 day 9 hr 10 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,318 songs - 3 day 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1324,5 +1324,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1314 | [Illusion of choice](https://open.spotify.com/track/03Y8tDcuOSATAfRQfuxkd2) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 5:33 |
 | 1315 | [Good grief](https://open.spotify.com/track/7dKeTL8C63usTT3TIsPfJn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 4:09 |
 | 1316 | [In another life…](https://open.spotify.com/track/0L19rVQybJ04lTSFBv31GV) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 4:25 |
+| 1317 | [crystallized](https://open.spotify.com/track/5yUwlZ1IS6Yg1FqyAqK9Ro) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [crystallized & death rolL](https://open.spotify.com/album/1dvP2ORk7syTl4Q72C7VIU) | 2:39 |
+| 1318 | [death rolL](https://open.spotify.com/track/2WyamBrb8ICGHr42YxTZt6) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [crystallized & death rolL](https://open.spotify.com/album/1dvP2ORk7syTl4Q72C7VIU) | 4:14 |
 
-Snapshot ID: `AAAKHfhagwDRcA6Jz/2xoGbKhgSMsxiW`
+Snapshot ID: `AAAKH/Sqk6Re7ufESg3CQd87rT++vG0h`

@@ -5072,7 +5072,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 306729,
       "name": "Ngihambise Kahle",
       "url": "https://open.spotify.com/track/6NZDB7MU7bNB37VUGWiLTg"
@@ -7692,6 +7692,32 @@
       "duration_ms": 486248,
       "name": "Uloyiko Lwami",
       "url": "https://open.spotify.com/track/0qH2ik4f9kEHSrDzKi6mUP"
+    },
+    {
+      "album": {
+        "name": "Uloyiko Lwami",
+        "url": "https://open.spotify.com/album/2sg3JwDRtVuNg9SyREvnta"
+      },
+      "artists": [
+        {
+          "name": "Brilliant Baloyi",
+          "url": "https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA"
+        },
+        {
+          "name": "Siyakha Khitha",
+          "url": "https://open.spotify.com/artist/70skg68CEMDXoJG2sv6wMe"
+        },
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485960,
+      "name": "Uloyiko Lwami 2.0",
+      "url": "https://open.spotify.com/track/2emoPu2M9pl2m30BESXX2J"
     },
     {
       "album": {

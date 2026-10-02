@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-491 songs - 2 day 4 hr 31 min
+492 songs - 2 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Ngeke Ng'suke Kuwe](https://open.spotify.com/track/2qMpi2KOaaE95OVSuFA3OA) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ngeke Ng'suke Kuwe](https://open.spotify.com/album/6VSBeHUCkZslvEBS4tbZOO) | 10:43 | 2024-03-29 | 2024-04-05 |
 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 | 2023-06-16 |  |
 | [Ngena Noah](https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Ngena Noah](https://open.spotify.com/album/5SLa6KjE7yFBKUiBbNSgwH) | 4:31 | 2023-03-17 | 2023-08-04 |
-| [Ngihambise Kahle](https://open.spotify.com/track/6NZDB7MU7bNB37VUGWiLTg) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Ngihambise Kahle](https://open.spotify.com/album/1coVHsiPPaoa6FPWZIPEcL) | 5:06 | 2025-07-18 |  |
+| [Ngihambise Kahle](https://open.spotify.com/track/6NZDB7MU7bNB37VUGWiLTg) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Ngihambise Kahle](https://open.spotify.com/album/1coVHsiPPaoa6FPWZIPEcL) | 5:06 | 2025-07-18 | 2026-10-02 |
 | [Nginobufakazi](https://open.spotify.com/track/3nwAv4rnjs29WbN80LnvaY) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Nginobufakazi](https://open.spotify.com/album/5T5Tzr9YcpmtUWZdahtXQT) | 8:25 | 2025-02-07 | 2025-10-31 |
 | [Ngiphe Baba Izindlebe](https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngiphe Baba Izindlebe](https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2) | 7:24 | 2023-08-25 | 2024-02-02 |
 | [Ngisize ngisize Nkosi Yami](https://open.spotify.com/track/1EtlmAlMg6V3Cb4gklkovA) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngisize ngisize Nkosi Yami](https://open.spotify.com/album/061BwSXuzM3j9KU96O24tO) | 7:54 | 2023-09-01 | 2023-09-15 |
@@ -393,6 +393,7 @@
 | [Ukwenzile \(Live\)](https://open.spotify.com/track/3FCEpzQkdb0hkhe4v1T31r) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Ukwenzile \(Live\)](https://open.spotify.com/album/727KqRu1ClKY5blwbrMyFh) | 8:48 | 2024-08-30 | 2025-02-14 |
 | [Ukwetsimile](https://open.spotify.com/track/5zNda7f8w3Co4pcFxm1rRe) | [The Light Twins](https://open.spotify.com/artist/2zvKxVB2VOf18MMBuCFsJi), [Priests of the Archdiocese of Johannesburg](https://open.spotify.com/artist/3Is6qP3Vr7AYxKlasfbkwJ) | [Ukwetsimile](https://open.spotify.com/album/03XloMxDk53z7KmBqQ1FoD) | 4:54 | 2026-02-20 | 2026-03-20 |
 | [Uloyiko Lwami](https://open.spotify.com/track/0qH2ik4f9kEHSrDzKi6mUP) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz) | [Uloyiko Lwami](https://open.spotify.com/album/68mLFu1sQsSqLvrMOU2B4g) | 8:06 | 2024-04-26 | 2024-06-07 |
+| [Uloyiko Lwami 2.0](https://open.spotify.com/track/2emoPu2M9pl2m30BESXX2J) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Siyakha Khitha](https://open.spotify.com/artist/70skg68CEMDXoJG2sv6wMe), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Uloyiko Lwami](https://open.spotify.com/album/2sg3JwDRtVuNg9SyREvnta) | 8:05 | 2026-10-02 |  |
 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 | 2019-08-19 |  |
 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 | 2023-06-09 |  |
 | [Umhlatshelo \(The Sacrifice\)](https://open.spotify.com/track/7gt15H6CRr94YljSVLK8H3) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Umhlatshelo \(The Sacrifice\)](https://open.spotify.com/album/50UIxQJzLuazRKXqWwCXd6) | 11:48 | 2023-07-07 | 2024-07-12 |

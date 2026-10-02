@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 197051,
+  "num_followers": 197058,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Microcastle",
-        "url": "https://open.spotify.com/album/4wJ585ippGitIpRcGs1GD7"
-      },
-      "artists": [
-        {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
-        }
-      ],
-      "duration_ms": 350920,
-      "name": "Nothing Ever Happened",
-      "url": "https://open.spotify.com/track/0Q2vqScvfcZOmxoXlW4p0V"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Shannon In Nashville",
         "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 163280,
       "name": "Goodbye Summer",
       "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Microcastle",
+        "url": "https://open.spotify.com/album/4wJ585ippGitIpRcGs1GD7"
+      },
+      "artists": [
+        {
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
+        }
+      ],
+      "duration_ms": 350920,
+      "name": "Nothing Ever Happened",
+      "url": "https://open.spotify.com/track/0Q2vqScvfcZOmxoXlW4p0V"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Move in Spectrums",
-        "url": "https://open.spotify.com/album/3CmwvvTV1CA3MAMxn30oH3"
-      },
-      "artists": [
-        {
-          "name": "Au Revoir Simone",
-          "url": "https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/1nagrEJxg2Tayyy7p2MnKY"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "High School Gym",
         "url": "https://open.spotify.com/album/7eOiQEZJn0rl9DzcK7kATJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 250253,
       "name": "High School Gym",
       "url": "https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Move in Spectrums",
+        "url": "https://open.spotify.com/album/3CmwvvTV1CA3MAMxn30oH3"
+      },
+      "artists": [
+        {
+          "name": "Au Revoir Simone",
+          "url": "https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1nagrEJxg2Tayyy7p2MnKY"
     },
     {
       "added_at": "2026-09-18 04:00:59",

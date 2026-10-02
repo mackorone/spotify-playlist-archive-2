@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Shane\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Dabda\) \(Meet the emerging talents of Korea!\)
 
-1,710 songs - 3 day 23 hr 42 min
+1,712 songs - 3 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [Dear Polar Bears](https://open.spotify.com/track/0fcLigZyZnPz8GOjcibxsl) | [Raon Park](https://open.spotify.com/artist/1rv3Mh0eI0ghrbNOaGGpzd) | [Dear Polar Bears](https://open.spotify.com/album/4rRnrjKpcYpcjwMKmbEozU) | 4:51 | 2023-02-08 | 2023-05-02 |
 | [Dearest](https://open.spotify.com/track/0MOaALdPP8mBe1l9GAgt4R) | [C.eV](https://open.spotify.com/artist/71gEkg8g3gl7xXBBAswD9l) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 25](https://open.spotify.com/album/3iDDJ0aPzVQd2VB1z7l4HJ) | 3:46 | 2023-09-20 | 2024-03-22 |
 | [DECK](https://open.spotify.com/track/2uzUHuFNfQN0g6gRQaTxaQ) | [heroincity](https://open.spotify.com/artist/4Sl2QYei5nqAb8bDcccyEP) | [DECK](https://open.spotify.com/album/6oh04X9sDuNnOllePJ033x) | 2:14 | 2022-09-29 | 2022-12-01 |
-| [Deep Blue Dive](https://open.spotify.com/track/3L7KQebMPA3JFIdqy8QxEc) | [SØHJ](https://open.spotify.com/artist/0eOFe05GKhx3NzYZdFkGuS) | [Ø:Between](https://open.spotify.com/album/7k60zVtBxyM4xKyCulDJrW) | 3:20 | 2026-06-24 |  |
+| [Deep Blue Dive](https://open.spotify.com/track/3L7KQebMPA3JFIdqy8QxEc) | [SØHJ](https://open.spotify.com/artist/0eOFe05GKhx3NzYZdFkGuS) | [Ø:Between](https://open.spotify.com/album/7k60zVtBxyM4xKyCulDJrW) | 3:20 | 2026-06-24 | 2026-10-02 |
 | [Deep Dive](https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC) | [Alice Syndrome](https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx) | [Deep Dive](https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI) | 2:21 | 2026-08-02 |  |
 | [Deep in the sea](https://open.spotify.com/track/1HTMounjT4wxgUEA2reDZg) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [청](https://open.spotify.com/album/3rFg1ovRVL346umBv5g4t1) | 4:30 | 2023-10-30 | 2024-04-04 |
 | [Default](https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:52 | 2024-03-21 | 2024-08-02 |
@@ -1043,6 +1043,7 @@
 | [On My Way Home](https://open.spotify.com/track/6CZkzTRpn5uK67QAim9jPw) | [KOLAVO](https://open.spotify.com/artist/3yR502TEuKfRu3qwLcn4sx) | [On My Way Home](https://open.spotify.com/album/0huLDoldnbqWCJQnxjCWv3) | 3:59 | 2022-01-10 | 2022-01-28 |
 | [On The Bus \(Feat\. Claire Hau\)](https://open.spotify.com/track/7djzHqof2rpXg1ni3AO08j) | [FDR](https://open.spotify.com/artist/1q8zOqGfkhVphMiQbhczJh), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [F.D.R 3](https://open.spotify.com/album/5xI2FIUEUIUpPLkNGVoBrT) | 3:02 | 2022-04-20 | 2022-06-10 |
 | [ON THE MOON](https://open.spotify.com/track/5A03rzpM5hMntEroRE1G2K) | [Festy Wxs](https://open.spotify.com/artist/21HMWviztlB3LNqP0nE4nu) | [ON THE MOON](https://open.spotify.com/album/44uQpU22DZSZqI9YZGwKGO) | 2:12 | 2022-07-04 | 2022-08-19 |
+| [ON\(百\)](https://open.spotify.com/track/0dkXKwpxb35tkPfN7oZUH7) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [ON\(百\)](https://open.spotify.com/album/6ivPxyvAS74hBHROw2omw3) | 7:18 | 2026-10-01 |  |
 | [ONCE](https://open.spotify.com/track/4S6o1yxyRgZexZObybUOKm) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [ONCE](https://open.spotify.com/album/1iKl22RBthjjCJCGUNjv7Z) | 3:35 | 2023-11-14 | 2024-04-04 |
 | [Once Again](https://open.spotify.com/track/4shzLSlIHhyKmTY7xRQRwU) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z) | [Once Again](https://open.spotify.com/album/05ptYQOuOL5bMv2IVEr3lP) | 3:28 | 2023-01-30 | 2023-05-02 |
 | [one by one](https://open.spotify.com/track/6Ynd6fV8o4uxjlf8xPxrx5) | [heyseunghey](https://open.spotify.com/artist/7JFpChAurxPuVqG0KsXR9g) | [one by one](https://open.spotify.com/album/4i4M8CmiCriaG709LX1T2K) | 4:03 | 2024-08-10 | 2025-02-04 |
@@ -1104,6 +1105,7 @@
 | [Pick Up The Phone \(feat\. El Vato\)](https://open.spotify.com/track/09rKh1TMsxJpiyo77fOeIO) | [Kohway](https://open.spotify.com/artist/2v9PvAakxqkcjtXU7SzlQP), [El Vato](https://open.spotify.com/artist/07Ap3mYXAcYZ5LkJO93G82) | [Pick Up The Phone](https://open.spotify.com/album/26wc1gw3UnlK8iFKSmI8EC) | 2:37 | 2022-04-20 | 2022-06-10 |
 | [PILLOW](https://open.spotify.com/track/6t3yarLHxjGbBzwOq2izGv) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [PILLOW](https://open.spotify.com/album/43jQ6ELFvwGQiOlOaVaLrr) | 3:17 | 2022-04-20 | 2022-06-10 |
 | [Pillow Talk](https://open.spotify.com/track/6YJHfDYkNnXGwBEN72TMpZ) | [JAYN LEE](https://open.spotify.com/artist/7eyeL4ApWZsWOutz8dc4Hr) | [Pillow Talk](https://open.spotify.com/album/2cUG7LiEbjQNpYbfLi5rVx) | 3:12 | 2025-03-31 | 2025-06-27 |
+| [Pitch Black](https://open.spotify.com/track/1PLhaXvO5Ue0aaxWoJe4sp) | [wnsday](https://open.spotify.com/artist/72LdkNVMGXuNd0FyRqqNhX) | [MONTE](https://open.spotify.com/album/1s7VadNfcpFUHTkZs9fDRS) | 2:42 | 2026-10-01 |  |
 | [Plain](https://open.spotify.com/track/6qbOM4pmAkhH6CtzKErZZI) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Plain](https://open.spotify.com/album/5rLjepB7ooj5Uq1YC7zL4f) | 2:39 | 2025-03-12 | 2025-06-17 |
 | [Plane](https://open.spotify.com/track/0zRjVoRMLEMgbJQ1gayqZK) | [lake tinn](https://open.spotify.com/artist/23bCMN0Dz2AFsOOK5GCQtT) | [Plane](https://open.spotify.com/album/2ZgQZLrLIBNxcuKULHqhX4) | 4:02 | 2023-03-31 | 2023-05-02 |
 | [plant](https://open.spotify.com/track/1WbgRgyOzEPbmRuq6TXsLL) | [hamzzi](https://open.spotify.com/artist/0iyQSn1NHU1W7neV9i7EZU) | [howdoifeel](https://open.spotify.com/album/2c4seOWuJ4jUxqp9eBB2QJ) | 2:40 | 2023-09-20 | 2024-03-22 |
@@ -1551,7 +1553,7 @@
 | [what he Left Behind](https://open.spotify.com/track/5B15hUpCUqrXVIounX7CXp) | [Celine](https://open.spotify.com/artist/3J7tZnIqjKIVt3p1NGpy1Q) | [what he Left Behind](https://open.spotify.com/album/5CxT3Mbzyuihuur3jZRWfn) | 3:46 | 2025-07-07 | 2025-11-03 |
 | [What i can't forget is](https://open.spotify.com/track/1LRGV6MpzodcHHw6CTIcLR) | [PEKKI](https://open.spotify.com/artist/6yTrk5y7hFaFJn3PEWuSQq) | [What i can't forget is](https://open.spotify.com/album/7Fcsm6kJuA3N2EVZ4ExNm3) | 2:50 | 2023-05-01 | 2024-01-03 |
 | [What I think of you](https://open.spotify.com/track/6xZAatNVKmfPDSpAg2uFFz) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [What I think of you](https://open.spotify.com/album/3n6M5yuXVPXmlvN8eAdbTo) | 3:35 | 2022-11-07 | 2023-02-01 |
-| [what is love?](https://open.spotify.com/track/6KhsWBgYEJuqvtXRTwJYdw) | [LIUNICORN](https://open.spotify.com/artist/3ZCrB15ZZykjX1SESZWx6L) | [what is love?](https://open.spotify.com/album/5NYJFYhPcQMjX5jlqIGrCE) | 2:54 | 2026-02-01 |  |
+| [what is love?](https://open.spotify.com/track/6KhsWBgYEJuqvtXRTwJYdw) | [LIUNICORN](https://open.spotify.com/artist/3ZCrB15ZZykjX1SESZWx6L) | [what is love?](https://open.spotify.com/album/5NYJFYhPcQMjX5jlqIGrCE) | 2:54 | 2026-02-01 | 2026-10-02 |
 | [What lasts will last](https://open.spotify.com/track/6xrMkGhv8o66AGZ0w4tTUF) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [What lasts will last](https://open.spotify.com/album/0rwO1sAEmlKU9m1HF8dXzK) | 4:18 | 2024-08-02 | 2024-10-05 |
 | [What’s Your Color?](https://open.spotify.com/track/1qoePtMooIB6pEeuMATP6Z) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [What’s Your Color?](https://open.spotify.com/album/2umblx5iUseHMJC03FJ86T) | 3:25 | 2022-08-12 | 2022-09-30 |
 | [When I see you again](https://open.spotify.com/track/4lQfn8c1FA41vCenbvLMnR) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4) | [When I see you again](https://open.spotify.com/album/07GOkLj9VmvpYtG9v1aU7i) | 2:50 | 2023-03-31 | 2024-01-03 |

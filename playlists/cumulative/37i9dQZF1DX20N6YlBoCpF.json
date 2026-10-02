@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Francois van Coke, Hunter Kennedy, Franja Du Plessis, Juan Boucher, Tasch\u00e9 en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Winter Hotel, Corlea, ROUX, Keynan Fox, Abigail de Villiers, Akademia en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -8109,6 +8109,32 @@
     },
     {
       "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0EMeDmJQLsESMq6pHeLrQ2"
+      },
+      "artists": [
+        {
+          "name": "Die K\u00earels",
+          "url": "https://open.spotify.com/artist/2ZTTYLsTxiItT682ghpsIh"
+        },
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/7GV4lMBoBmWpQ9fgCiBU0R"
+        },
+        {
+          "name": "Arri Opperman",
+          "url": "https://open.spotify.com/artist/1sjAH0qjLwFm8gQxjU8tar"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151641,
+      "name": "Chuck",
+      "url": "https://open.spotify.com/track/7cxgyzxC9ZfL5KepeaE3qO"
+    },
+    {
+      "album": {
         "name": "Clarens Winter",
         "url": "https://open.spotify.com/album/5bCIUjdtc3YdL5XrEXboCP"
       },
@@ -8568,6 +8594,24 @@
       "duration_ms": 207000,
       "name": "Dagdroom Kind",
       "url": "https://open.spotify.com/track/6UC7GvI9TLZ2ZbpGYrk5Gd"
+    },
+    {
+      "album": {
+        "name": "Dak Slat",
+        "url": "https://open.spotify.com/album/0XbjvUDYsbFTqtku2FoCDm"
+      },
+      "artists": [
+        {
+          "name": "MAEZTRO",
+          "url": "https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242023,
+      "name": "Dak Slat",
+      "url": "https://open.spotify.com/track/6nIM2g0qyGvVtiYKuhJcYf"
     },
     {
       "album": {
@@ -11168,6 +11212,32 @@
       "duration_ms": 172307,
       "name": "Die Veld",
       "url": "https://open.spotify.com/track/6ycQWdyqu35QOwG1NJZSnR"
+    },
+    {
+      "album": {
+        "name": "Die Verlang-liedjie",
+        "url": "https://open.spotify.com/album/0qfEWiEr3o6CXIExECiqWC"
+      },
+      "artists": [
+        {
+          "name": "Keynan Fox",
+          "url": "https://open.spotify.com/artist/03SpUmUBPAU3GZYKYDYZg7"
+        },
+        {
+          "name": "Abigail de Villiers",
+          "url": "https://open.spotify.com/artist/43XBjmEeV5ZHIl1eRdd5us"
+        },
+        {
+          "name": "Akademia",
+          "url": "https://open.spotify.com/artist/7j74gVzxajKkucbIiYvEOE"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224819,
+      "name": "Die Verlang-liedjie",
+      "url": "https://open.spotify.com/track/48smn2mtYcA9DciYaGE7Ul"
     },
     {
       "album": {
@@ -15709,6 +15779,24 @@
     },
     {
       "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/5Rk0pWQHgBWlg9e8e52mhC"
+      },
+      "artists": [
+        {
+          "name": "Winter Hotel",
+          "url": "https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188971,
+      "name": "Flikker",
+      "url": "https://open.spotify.com/track/5QrSecL63tp5TtbVcIpKAw"
+    },
+    {
+      "album": {
         "name": "Flippen Nice",
         "url": "https://open.spotify.com/album/3tkqXs6ODmuGr8EIWM5ZnU"
       },
@@ -17724,7 +17812,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 192149,
       "name": "Halfpad",
       "url": "https://open.spotify.com/track/2G1KsYYIZF29YKuiMiKhTp"
@@ -18726,7 +18814,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 201769,
       "name": "Hemel",
       "url": "https://open.spotify.com/track/4swwqG6ZgFShXB5vNVXE15"
@@ -20130,7 +20218,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 225000,
       "name": "Hou Aan Droom",
       "url": "https://open.spotify.com/track/0mwBPej1O7NKAfkytU8eCX"
@@ -27617,6 +27705,24 @@
     },
     {
       "album": {
+        "name": "Lekker Dans by Yzerfontein",
+        "url": "https://open.spotify.com/album/6sUCtSrKUZQdANL2hs6KJc"
+      },
+      "artists": [
+        {
+          "name": "Chris van der Westhuizen",
+          "url": "https://open.spotify.com/artist/29f30cR7q8nOrYRHLewv69"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206705,
+      "name": "Lekker Dans by Yzerfontein",
+      "url": "https://open.spotify.com/track/5Jv5EKxdZgYpZTl7P4LT59"
+    },
+    {
+      "album": {
         "name": "Lekker Ding",
         "url": "https://open.spotify.com/album/1Ma0Qcd1VdbvW6hOtSeSzV"
       },
@@ -32330,7 +32436,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 227750,
       "name": "My Vader",
       "url": "https://open.spotify.com/track/0KzeQqMaslQDpvcr3xR2HZ"
@@ -35935,6 +36041,24 @@
     },
     {
       "album": {
+        "name": "Oom Stoffel",
+        "url": "https://open.spotify.com/album/4FCM4pmqcxTRXC63RHBm4s"
+      },
+      "artists": [
+        {
+          "name": "Tiaan Grundling",
+          "url": "https://open.spotify.com/artist/0r8SdEjJLoSFVC82V5gYhH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Oom Stoffel",
+      "url": "https://open.spotify.com/track/5owZ58COzg0CU1i8WRD00X"
+    },
+    {
+      "album": {
         "name": "Oomblik Soos Nou",
         "url": "https://open.spotify.com/album/0N9L5hzNfxpnxUIfqsS6K8"
       },
@@ -38171,6 +38295,24 @@
     },
     {
       "album": {
+        "name": "Prins van Vrede",
+        "url": "https://open.spotify.com/album/4yyXLnE4fgYvbyQcJ8nEbZ"
+      },
+      "artists": [
+        {
+          "name": "Gillaume & Ren\u00e9 Worship",
+          "url": "https://open.spotify.com/artist/33r93E0IzvanO7SdLh8ZqI"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279195,
+      "name": "Prins van Vrede",
+      "url": "https://open.spotify.com/track/06Mm8PkEBtfdXxN0dvCPMk"
+    },
+    {
+      "album": {
         "name": "Probeer",
         "url": "https://open.spotify.com/album/2fFaVmvkKV0SocM9FhsdFe"
       },
@@ -39981,6 +40123,24 @@
     },
     {
       "album": {
+        "name": "Sal ek ophou",
+        "url": "https://open.spotify.com/album/7u6aVq9bcLSHOWnUTivNxn"
+      },
+      "artists": [
+        {
+          "name": "Dillon Vorster",
+          "url": "https://open.spotify.com/artist/4ozyG54ZFguh5kV6EmAsXz"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126814,
+      "name": "Sal ek ophou",
+      "url": "https://open.spotify.com/track/0u6UrhddHV1gfyyzpmBdqx"
+    },
+    {
+      "album": {
         "name": "Sal Jy Bly",
         "url": "https://open.spotify.com/album/18A946wIv0FX4aqHvChlku"
       },
@@ -41174,7 +41334,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 223440,
       "name": "Skadu Teen My Mure",
       "url": "https://open.spotify.com/track/2DVe0GvE6Q4kbLUrnph1LE"
@@ -43348,7 +43508,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 200000,
       "name": "Soos Tequila",
       "url": "https://open.spotify.com/track/7AfHO4HKiygdTg339pjBQu"
@@ -44056,7 +44216,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 207397,
       "name": "Stadig",
       "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
@@ -45498,7 +45658,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 262310,
       "name": "Swartland September",
       "url": "https://open.spotify.com/track/1fNOuuZHjwUFHIdPR1q60l"
@@ -47153,6 +47313,24 @@
     },
     {
       "album": {
+        "name": "Trappe",
+        "url": "https://open.spotify.com/album/4vCMhpRHBRrHqe0Visqvc8"
+      },
+      "artists": [
+        {
+          "name": "Corlea",
+          "url": "https://open.spotify.com/artist/6qFCW8rl6LPFNQizr5bp22"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "Trappe",
+      "url": "https://open.spotify.com/track/4axEp5Rr8DyG32xZicq4yO"
+    },
+    {
+      "album": {
         "name": "Tree Terug",
         "url": "https://open.spotify.com/album/2yPn88G3X2ZdTBaiEoTYKn"
       },
@@ -47486,6 +47664,28 @@
       "duration_ms": 163160,
       "name": "Tweegesig",
       "url": "https://open.spotify.com/track/4ocISX46WBEfML6wNG4Bos"
+    },
+    {
+      "album": {
+        "name": "Twenties",
+        "url": "https://open.spotify.com/album/4ueXKpmDDFdaJ4jA4J7sFD"
+      },
+      "artists": [
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        },
+        {
+          "name": "Richii",
+          "url": "https://open.spotify.com/artist/1JpIxCLvIzIYAxmuSL2BwO"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "Twenties",
+      "url": "https://open.spotify.com/track/4oxskGZRhq8mYof1Uj6Ap3"
     },
     {
       "album": {
@@ -49670,7 +49870,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 223950,
       "name": "Vir die Aardskinders",
       "url": "https://open.spotify.com/track/2yC8CJg1kaNSkiWqAaU6uj"
@@ -50708,7 +50908,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 208780,
       "name": "Vra Net Vir Jou",
       "url": "https://open.spotify.com/track/6n5dI8KlITx2vRvsm9ddF0"
@@ -53234,7 +53434,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 226603,
       "name": "Wildebees",
       "url": "https://open.spotify.com/track/5TxWpapVSlY8isAv2rMfnc"
@@ -54076,6 +54276,24 @@
       "duration_ms": 127269,
       "name": "ZESTY",
       "url": "https://open.spotify.com/track/3gMz2brXSblzSfdIngNVcW"
+    },
+    {
+      "album": {
+        "name": "Zippo",
+        "url": "https://open.spotify.com/album/4s7MuhvpAEi8UjFk85YEzU"
+      },
+      "artists": [
+        {
+          "name": "ROUX",
+          "url": "https://open.spotify.com/artist/7DcOlr46gvsY4Mw9qIqzwZ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213679,
+      "name": "Zippo",
+      "url": "https://open.spotify.com/track/6wxS3pz5LQWFMByAQHJcOi"
     },
     {
       "album": {

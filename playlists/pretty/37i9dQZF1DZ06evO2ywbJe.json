@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 9320,
+  "num_followers": 9334,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAAfPy7MNgG9FPkLY9lqfmLE",
+  "snapshot_id": "arxRAAAAAABiQI4w6cKaqxaw0MdbHE7L",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Let There Be Light",
+      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SORRY I'M BAD",
         "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 195692,
       "name": "BITCH & MONEY",
       "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Let There Be Light",
-      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
     },
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grind (Remix)",
         "url": "https://open.spotify.com/album/39gLwu2Xy7NTnCVGbAjH51"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 204000,
       "name": "Grind - Remix",
       "url": "https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 167657,
+      "name": "14DRoad",
+      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 208561,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/48olFFX6QTTXB47q4qfPFU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167657,
-      "name": "14DRoad",
-      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
     },
     {
       "added_at": null,

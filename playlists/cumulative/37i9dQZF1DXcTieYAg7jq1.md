@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: Magnus Farrell
+> Featuring that new vintage\. Cover: Paige Fish
 
-602 songs - 1 day 9 hr 56 min
+604 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [An Unfinished Love Song](https://open.spotify.com/track/0kdKWz0b2yv71QIjJnAqP7) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [The Veil Has Spoken](https://open.spotify.com/album/6a7FVJG6wFnYINUP2uxt6f) | 4:19 | 2026-06-12 | 2026-06-19 |
 | [Anyways, I Love You \- Better with Allen](https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Anyways, I Love You \(Better with Allen\)](https://open.spotify.com/album/0UbEkpU5BHk6ylZxp5Ttt4) | 3:46 | 2025-08-15 | 2026-04-18 |
 | [Apollo](https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:43 | 2021-12-03 | 2023-01-28 |
+| [Asleep Talking \(feat\. Kylie Cantrall\)](https://open.spotify.com/track/7J1LX5jk1ev01SFBxDphaa) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Asleep Talking](https://open.spotify.com/album/0yOCs3FpLPQhlEApShEkzi) | 2:36 | 2026-10-02 |  |
 | [Attitude](https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Attitude](https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC) | 2:55 | 2022-01-21 | 2023-03-18 |
 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 | 2022-08-12 | 2023-07-08 |
 | [Baby](https://open.spotify.com/track/7bxXiHye5YkfWVzB1KpKDu) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Tim Presley](https://open.spotify.com/artist/58oRcDOFn1MnyCBMgiWZmD) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:36 | 2022-10-28 | 2023-02-16 |
@@ -356,6 +357,7 @@
 | [Maybe the World is a Beautiful Place](https://open.spotify.com/track/6kHt1PSTReFgz2pMEvFDCT) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Hopeless Romantic](https://open.spotify.com/album/4T9XmSaKAXnEYyNn8ILJK2) | 3:35 | 2023-10-06 | 2023-11-11 |
 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 | 2022-03-11 | 2024-03-02 |
 | [Memory Of You](https://open.spotify.com/track/03HzjjG5PNUCvp8Y9Vbbvd) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Memory Of You](https://open.spotify.com/album/5rawz0bTUTbBhtMGfFTzp8) | 3:23 | 2026-04-24 |  |
+| [Midnight Crisis](https://open.spotify.com/track/2EKRvcVCzYfamZCUWdYBJk) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Midnight Crisis](https://open.spotify.com/album/5NBylpmkOvFFlpF9Gx2mFl) | 3:27 | 2026-10-02 |  |
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2021-12-03 | 2023-01-28 |
 | [Missing You](https://open.spotify.com/track/1EgGW9s2H8zNGXQHVMcUnj) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Missing You](https://open.spotify.com/album/0Cs8yc9v730VOmCOcAD6pC) | 3:10 | 2026-03-28 | 2026-09-26 |
 | [misunderstood](https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [LOVER GIRL](https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V) | 3:48 | 2026-08-21 |  |
@@ -482,7 +484,7 @@
 | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8) | 2:48 | 2024-07-12 | 2026-03-21 |
 | [Slitted Tongue](https://open.spotify.com/track/6lZpYp8Cd6tQlCDchtg3ch) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Slitted Tongue](https://open.spotify.com/album/5co49ntVCysUnAHuIBiBh2) | 3:08 | 2022-03-25 | 2023-10-24 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 | 2022-02-18 | 2024-02-03 |
-| [small talk](https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [small talk](https://open.spotify.com/album/2REu11evStja6Sagu3Tmer) | 2:58 | 2026-09-11 |  |
+| [small talk](https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [small talk](https://open.spotify.com/album/2REu11evStja6Sagu3Tmer) | 2:58 | 2026-09-11 | 2026-10-02 |
 | [Smile](https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Smile](https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu) | 2:50 | 2022-02-04 | 2024-01-20 |
 | [Smooth Sailin'](https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:03 | 2021-12-03 | 2022-05-08 |
 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:03 | 2021-12-03 | 2023-01-28 |
@@ -571,7 +573,7 @@
 | [Vinyl](https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Just My Luck](https://open.spotify.com/album/7BJsNyKpMF59uelRRp9p4K) | 3:35 | 2026-07-10 |  |
 | [Waiting](https://open.spotify.com/track/38cyORDsDiclAjM4ycBGOq) | [Brenzy](https://open.spotify.com/artist/6G6qP0sP4oPveQ4bzizz4Z), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Waiting](https://open.spotify.com/album/6RwBnR5td7Huvn4CCQLlBp) | 2:54 | 2024-04-19 | 2026-03-29 |
 | [Waiting](https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Waiting](https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt) | 3:11 | 2023-03-31 | 2023-04-29 |
-| [Waste Your Heart](https://open.spotify.com/track/4V2DyN6dagdCahrgkmz553) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Waste Your Heart](https://open.spotify.com/album/0T9elG6ZoTPMJ2yWXhQLZB) | 2:31 | 2026-05-22 |  |
+| [Waste Your Heart](https://open.spotify.com/track/4V2DyN6dagdCahrgkmz553) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Waste Your Heart](https://open.spotify.com/album/0T9elG6ZoTPMJ2yWXhQLZB) | 2:31 | 2026-05-22 | 2026-10-02 |
 | [Waterfall](https://open.spotify.com/track/0G2qT4WpiDJh32zgcdzGMF) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 2:59 | 2023-06-30 | 2023-09-23 |
 | [Waterfall](https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Waterfall](https://open.spotify.com/album/4M3EW2YEjaUKwDUyCXOWC6) | 2:59 | 2023-06-30 | 2023-09-11 |
 | [we all could use some help](https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [we all could use some help](https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz) | 2:23 | 2023-07-21 | 2025-09-06 |

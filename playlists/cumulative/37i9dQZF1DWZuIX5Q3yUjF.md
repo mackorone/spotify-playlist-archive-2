@@ -4,7 +4,7 @@
 
 > Primo Amore in cover della playlist dell'R&B italiano 🫀
 
-1,110 songs - 2 day 6 hr 43 min
+1,111 songs - 2 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,7 +700,7 @@
 | [Non è fortuna](https://open.spotify.com/track/4anVhqcUQ6meMRdz8PYFUy) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:57 | 2024-11-21 | 2025-11-21 |
 | [Nord\-Ovest](https://open.spotify.com/track/2MLVKSKlcqdVCSLifc8x0j) | [KIMONO](https://open.spotify.com/artist/5uIBCnjr8sCPeOOhQFY3Xm) | [Nord\-Ovest](https://open.spotify.com/album/0EE3quiN4ayLFs8zKF0Blj) | 2:30 | 2026-04-09 |  |
 | [Not Here to Please](https://open.spotify.com/track/7wYqphBeILgsLCS5pbX4sI) | [SAMI](https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q) | [Not Here to Please](https://open.spotify.com/album/5fOLGwwkZ28LvPan6fXQGl) | 2:28 | 2023-06-08 | 2023-08-04 |
-| [Notte](https://open.spotify.com/track/46dCukq7AyyqqBvazNBFso) | [LUZAI](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Estranea](https://open.spotify.com/album/5RQApnooaH6s8Aqw4Chp9V) | 3:47 | 2025-05-16 |  |
+| [Notte](https://open.spotify.com/track/46dCukq7AyyqqBvazNBFso) | [LUZAI](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Estranea](https://open.spotify.com/album/5RQApnooaH6s8Aqw4Chp9V) | 3:47 | 2025-05-16 | 2026-10-02 |
 | [Notte D’Amore](https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:36 | 2022-09-01 | 2024-03-22 |
 | [NRP](https://open.spotify.com/track/6DRAc2zO6ZjYywTq6yz5on) | [Bietto](https://open.spotify.com/artist/3Sip9AdfwfvfVITTR7Unxf), [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk) | [NRP](https://open.spotify.com/album/658EUyLGFHcSayRPuT0yed) | 2:45 | 2022-12-08 | 2023-01-13 |
 | [nubi di fumo \(feat\. Davìdd\)](https://open.spotify.com/track/2cqHzyO2PpcTypROv6PkRz) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw), [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [nubi di fumo \(feat\. Davìdd\)](https://open.spotify.com/album/03QfUQ2UG2bE9II9kQEuOI) | 3:00 | 2025-07-31 | 2025-11-14 |
@@ -1004,6 +1004,7 @@
 | [TEDESCA](https://open.spotify.com/track/3rpexh5KpmKD7nshRbf0nx) | [MANDORLA](https://open.spotify.com/artist/2uqOHBl4qhPz787NIOXg2I) | [TEDESCA](https://open.spotify.com/album/4BeGXIJJ1sqMGY8yMagzKk) | 2:58 | 2023-07-06 | 2023-11-24 |
 | [Televisione \(feat\. Mahmood\)](https://open.spotify.com/track/4JuUtt0xKSzIy5nrpuXL4m) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Chiamami Quando La Magia Finisce](https://open.spotify.com/album/40NoSD1gcWgmWS2M0gri9N) | 3:34 | 2023-09-28 | 2024-02-02 |
 | [Tell Me Why](https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8) | [Giusi Barone](https://open.spotify.com/artist/7pM35OnnDSSLU6alsc13Tn), [MISSILE](https://open.spotify.com/artist/7Jid1qynsHeXSNftV0jR2Q) | [Tell Me Why](https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy) | 2:03 | 2022-06-02 | 2022-11-11 |
+| [Tempesta della mente](https://open.spotify.com/track/6PnA1GKTq7Fgcanlf1xXXB) | [Éirin](https://open.spotify.com/artist/4bZViQjfhUcetbEHcpQlio) | [Tempesta della mente](https://open.spotify.com/album/2Zp3sqD2W5AapzZHGUvyjG) | 3:54 | 2026-10-01 |  |
 | [Terra](https://open.spotify.com/track/60YAdeRQQVjsiQEbrDXpW1) | [Lüzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Terra](https://open.spotify.com/album/0mofgrEIJjMuLRjYICvd17) | 2:57 | 2022-12-08 | 2023-02-09 |
 | [Tessie](https://open.spotify.com/track/5OTrpx7SZy97ymkPE6fXPS) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Tessie](https://open.spotify.com/album/0s9z3rl3VdBrORlFgrdN9H) | 3:01 | 2022-11-10 | 2023-06-09 |
 | [That's Alright](https://open.spotify.com/track/3nPKTxDzuikY4UY5K5r6Ox) | [Scozia](https://open.spotify.com/artist/06kIJSKCJs2NoULdMDwEh9) | [That's Alright](https://open.spotify.com/album/0rJ0IXykkg3mK4cTZ5WkvW) | 2:58 | 2024-03-07 | 2024-04-16 |

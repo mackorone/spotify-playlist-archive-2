@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,380 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,382 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 11 | [Playlist](https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:01 |
 | 12 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
 | 13 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
-| 14 | [Más Allá](https://open.spotify.com/track/4UoxQ5jKrS7aOsSsKGa9x4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:04 |
+| 14 | [El Disfraz](https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:48 |
 | 15 | [Demasiado](https://open.spotify.com/track/1FJoAaOtHPxAtqYVpTc4NJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:57 |
 | 16 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 17 | [Cielo en la Tierra](https://open.spotify.com/track/38aJ2Or9JcdyWEYpgtm4BL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Cielo en la Tierra](https://open.spotify.com/album/3CvUhTtF9TjUDjPGkeCfb6) | 3:50 |
-| 18 | [El Disfraz](https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:48 |
+| 18 | [Más Allá](https://open.spotify.com/track/4UoxQ5jKrS7aOsSsKGa9x4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:04 |
 | 19 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
-| 20 | [Aún Así Te Vas \- En Vivo Desde El Palacio de los Deportes, CDMX](https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Vida En Rosa Tour \(En Vivo Desde El Palacio de los Deportes, CDMX\)](https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8) | 4:25 |
-| 21 | [Sin Plan B](https://open.spotify.com/track/6wEzspgToSQT9zBzDWIThd) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Donde Quiero Estar](https://open.spotify.com/album/6w0nW1QepJjE6wlDD3FQFd) | 3:07 |
+| 20 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
+| 21 | [Aún Así Te Vas \- En Vivo Desde El Palacio de los Deportes, CDMX](https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Vida En Rosa Tour \(En Vivo Desde El Palacio de los Deportes, CDMX\)](https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8) | 4:25 |
 | 22 | [Si Tú Quisieras](https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:23 |
 | 23 | [Mundo Cruel](https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:43 |
-| 24 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
+| 24 | [Sin Plan B](https://open.spotify.com/track/6wEzspgToSQT9zBzDWIThd) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Donde Quiero Estar](https://open.spotify.com/album/6w0nW1QepJjE6wlDD3FQFd) | 3:07 |
 | 25 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
 | 26 | [Sigo Buscando](https://open.spotify.com/track/0fbj2shzxswLJ4hPnpxoFy) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Sigo Buscando](https://open.spotify.com/album/4KMZmsGlXKUTfd1Uf1CMvP) | 2:23 |
 | 27 | [El Club](https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 49 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
 | 50 | [Corazón De Judas](https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tributo A Una Leyenda Humberto Pabón \(Vol\. 1\)](https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8) | 3:52 |
 
-Snapshot ID: `armuAAAAAAClhmqm6K8EwqLfqbqsYIw6`
+Snapshot ID: `arxRAAAAAAAFvfXHmYE+VdCRdeVSB59z`

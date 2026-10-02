@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,552 songs - 3 day 18 hr 22 min
+1,555 songs - 3 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Alibi \- CASA J Remix](https://open.spotify.com/track/1ZvqM46DaPJ9ERa4PJIgOB) | [Jay Hofman](https://open.spotify.com/artist/4WWuKUayc9e9IQm8cAV72x), [CASA J](https://open.spotify.com/artist/6UoFcXpCqCyvykB1eXtZnQ) | [Alibi](https://open.spotify.com/album/1msVNemJrpRm3SXhDHws3W) | 3:12 | 2026-08-17 | 2026-09-17 |
 | [Alive](https://open.spotify.com/track/1gKY8KxcwNtdYRF8H0gxh1) | [MAOOSA](https://open.spotify.com/artist/6Q2Tv4sMicVl2LKTnqzdyV) | [Alive](https://open.spotify.com/album/69Zi6K575DePRoq5tWHwCZ) | 3:44 | 2026-03-31 | 2026-05-03 |
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2026-03-23 | 2026-04-22 |
+| [All I'm Asking](https://open.spotify.com/track/31wDnO5bkTr89Rikz29fz8) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Never Too Late](https://open.spotify.com/album/3bNnCDLxdkSjjSsCHtn0mL) | 4:15 | 2026-10-01 |  |
 | [All Over Again](https://open.spotify.com/track/4KvXKfrldA8J7d3mIFBXp5) | [Fruition](https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA) | [Black Mariah](https://open.spotify.com/album/3m00qDdaAMsv3B1W6EIhBh) | 2:53 | 2026-05-11 | 2026-07-03 |
 | [All The Right Moves](https://open.spotify.com/track/5R8u2wIpO2OKg2EhSygZne) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 3:54 | 2026-03-09 | 2026-04-12 |
 | [All The Time](https://open.spotify.com/track/7E2MmQgEzRorBQZYx853RD) | [Tathan](https://open.spotify.com/artist/02MtYbPPmiILqyRJ8ftJfV) | [All The Time](https://open.spotify.com/album/5kEJxEoZytKnaoQpr76M73) | 2:34 | 2026-02-28 | 2026-03-25 |
@@ -443,6 +444,7 @@
 | [Fish & Chips](https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Fish & Chips](https://open.spotify.com/album/6sGInEiyXDwzTwz5r4lSwx) | 3:44 | 2026-09-02 |  |
 | [Fish Tank](https://open.spotify.com/track/2hDnvkxpCSo57nPmEMN6ND) | [Buckeye Belle](https://open.spotify.com/artist/1f5o9LL9uj7X7KOBVpSiGa) | [I'd Rather Be Sleeping](https://open.spotify.com/album/4sBEZPvbIVcubfxcde4KOR) | 3:44 | 2026-04-08 | 2026-05-14 |
 | [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh), [Guðrun Sólja](https://open.spotify.com/artist/7u04eBVbYkvMPkUPkLHFu6) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 | 2026-06-20 | 2026-07-19 |
+| [Flo Flo \(feat\. Dopein\)](https://open.spotify.com/track/63puD8m1sZCxlmcxiqhAII) | [LODiVE](https://open.spotify.com/artist/4u60k8zXBWzInzqVLekWyJ), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Flo Flo](https://open.spotify.com/album/7rJYhTMF4sVpYKEO48zapy) | 3:19 | 2026-10-01 |  |
 | [Floto](https://open.spotify.com/track/0cpVDFhmJ5mRssyaE8ZjAo) | [Manu Geijo](https://open.spotify.com/artist/1Lcqhy5qgKAS6bvwjXIoxs) | [Floto](https://open.spotify.com/album/2Z8DVQAobcZtSFHc05afHk) | 3:58 | 2026-02-25 | 2026-03-25 |
 | [FLY \- Original Mix](https://open.spotify.com/track/0KGD6zRqbj2EgGeAmwB76v) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [J1 GTB](https://open.spotify.com/artist/6mm0pxFY41cqM9kjJve4jH) | [FLY \(Original Mix\)](https://open.spotify.com/album/5MUfhF7oOQvpysNAphGwEm) | 2:58 | 2026-04-02 | 2026-05-03 |
 | [follow my rhythm](https://open.spotify.com/track/0MiJdUtnv11W5MGNOMxGAB) | [MIRIIEM](https://open.spotify.com/artist/44UwKvv3KL8W83pbxsID5t), [Von Hortix](https://open.spotify.com/artist/5e0Spjepkjnoo1qJIGtcjQ) | [follow my rhythm](https://open.spotify.com/album/74OBwZJzchBJf6fpjrCFm9) | 1:59 | 2026-03-17 | 2026-04-12 |
@@ -1478,6 +1480,7 @@
 | [what you want](https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [what you want](https://open.spotify.com/album/5rncqxKNvPAqA1nZFZ7yCy) | 2:34 | 2026-08-23 | 2026-09-20 |
 | [What's My Scam?](https://open.spotify.com/track/6ZudKarH8XOwIFdPHtmYI3) | [Crant Oliver Buekeley](https://open.spotify.com/artist/3ct3WW0E8NUEZawfjPdxBa), [Dax Aloysius Buekeley](https://open.spotify.com/artist/2gEi5uDdXX5Y8CUU9PhgwX) | [Exciting Opportunities](https://open.spotify.com/album/3RVeuykb5sRt59wkzFkwI6) | 3:39 | 2025-12-23 | 2026-01-24 |
 | [What's the Use? \- Instrumental](https://open.spotify.com/track/5r4DMrQ4BpTRdnPe9QGeya) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [What's the Use? \(Instrumental\)](https://open.spotify.com/album/5FffrbI5spPovvRmhyo7UH) | 2:37 | 2026-02-26 | 2026-03-25 |
+| [whatever happened to US?](https://open.spotify.com/track/5StfR09C6SjhDmnWAkxTm8) | [Nathan Oswalt](https://open.spotify.com/artist/1p3fViLAZhmYFaZu2EPAFO) | [whatever happened to US?](https://open.spotify.com/album/6UOtGk08ilBwvqOoIGDEZD) | 3:00 | 2026-10-01 |  |
 | [When It Comes My Way](https://open.spotify.com/track/57hVO6knZIXkHRV1nxYGAP) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [When It Comes My Way](https://open.spotify.com/album/1mvmlh5yZgm1W7IMnAhVV3) | 3:10 | 2026-03-09 | 2026-04-12 |
 | [When Kermit Sings My Song](https://open.spotify.com/track/7c8SwAshSP9V2MZk0JS9UI) | [The Haze](https://open.spotify.com/artist/6iUcuJFopb8XcXduZjuGJe) | [When Kermit Sings My Song](https://open.spotify.com/album/5Kkol2UkHLgmoFkQxrernj) | 3:29 | 2026-04-21 | 2026-06-05 |
 | [When You Found Him](https://open.spotify.com/track/4Uby1hQRDJmrr2s9ZCjupQ) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [When You Found Him](https://open.spotify.com/album/7hieI6F3OVDNR27FnGnghc) | 3:39 | 2025-12-22 | 2026-01-24 |

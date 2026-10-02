@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 
 > atopa risers
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,281 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,306 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 | 11 | [Steeze](https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Steeze](https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR) | 2:06 |
 | 12 | [Gen Z](https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Gen Z](https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l) | 2:25 |
 | 13 | [Love Again \(feat\. Full Blown\)](https://open.spotify.com/track/0zZUq2EqsqD2DDDHZAgPEf) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 2:35 |
-| 14 | [STARLIFE](https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [STARLIFE](https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM) | 2:22 |
-| 15 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
+| 14 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
+| 15 | [STARLIFE](https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [STARLIFE](https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM) | 2:22 |
 | 16 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 |
 | 17 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
 | 18 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 | 33 | [Stranger](https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sweet Boy](https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs) | 2:55 |
 | 34 | [YBTM](https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [YBTM](https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv) | 2:56 |
 | 35 | [STREET CROWN \(African Dancehall\)](https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [VOICE OF THE CROWN \(African Dancehall\)](https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5) | 2:55 |
-| 36 | [IDK \(with Sarkodie\)](https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:23 |
-| 37 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
+| 36 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
+| 37 | [IDK \(with Sarkodie\)](https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:23 |
 | 38 | [BALENCIAGA II](https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [SAMA'](https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [BALENCIAGA II](https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug) | 5:01 |
 | 39 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
 | 40 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 | 45 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 |
 | 46 | [SEXY & BAD](https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [SEXY & BAD](https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3) | 3:37 |
 | 47 | [No Issues](https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [No Issues](https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn) | 3:21 |
-| 48 | [Lord Knows](https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:37 |
-| 49 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
-| 50 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 |
+| 48 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
+| 49 | [Lord Knows](https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:37 |
+| 50 | [We Go](https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [We Go](https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba) | 2:53 |
 
 Snapshot ID: `AAAAAOqdqgIdBAzLH/gLgeiPOfKNcoAG`

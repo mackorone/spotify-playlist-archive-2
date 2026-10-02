@@ -1391,6 +1391,28 @@
     },
     {
       "album": {
+        "name": "One Right Here",
+        "url": "https://open.spotify.com/album/2JgexwYwrhoNQsbbdZauTK"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240043,
+      "name": "One Right Here",
+      "url": "https://open.spotify.com/track/0O0OQsq0bTk0t0ohUbuFNW"
+    },
+    {
+      "album": {
         "name": "Pace",
         "url": "https://open.spotify.com/album/6MQYhciGla1N3HuZ9afcP6"
       },

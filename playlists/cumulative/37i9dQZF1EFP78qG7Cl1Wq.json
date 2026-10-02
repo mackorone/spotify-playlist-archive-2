@@ -2749,6 +2749,28 @@
     },
     {
       "album": {
+        "name": "Popo",
+        "url": "https://open.spotify.com/album/61VeYxptr7wSy5QfxLHzR2"
+      },
+      "artists": [
+        {
+          "name": "Monet",
+          "url": "https://open.spotify.com/artist/258AGqI6omKexzEte9BXci"
+        },
+        {
+          "name": "Mellow Bora",
+          "url": "https://open.spotify.com/artist/77EKywL0RK6rDMGuxvxZmj"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136280,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2voUe1ZoydUCnrjjSBymNz"
+    },
+    {
+      "album": {
         "name": "Blue Gum St. 3",
         "url": "https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy"
       },
@@ -2760,7 +2782,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 118230,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy"

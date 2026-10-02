@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-486 songs - 1 day 9 hr 15 min
+487 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Hatha Wagtah](https://open.spotify.com/track/4Eqz3io18FtQNfdGnsDyS7) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Hatha Wagtah](https://open.spotify.com/album/2DWKzmPb4aGU3VzL5e1gta) | 3:23 | 2021-12-23 | 2022-02-18 |
 | [Hawa Al Tayef](https://open.spotify.com/track/4Tso1qrYRD1aJVzmNh3Uq8) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Hawa Al Tayef](https://open.spotify.com/album/6VuBX8RJdyLbXFvLnI4tQL) | 4:05 | 2024-10-25 | 2025-10-18 |
 | [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 | 2023-04-22 | 2023-10-04 |
+| [HAWAJEES](https://open.spotify.com/track/1fNZP4KHcumdoR9HMXzFOm) | [AL7AMDAN](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8) | [HAWAJEES](https://open.spotify.com/album/3RA250kyDYtXQMuEPN8LYh) | 2:49 | 2026-10-01 |  |
 | [Hawwal](https://open.spotify.com/track/0qsBAxhERLLEPj7orq4euU) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Abdulaziz Elmuanna 2026](https://open.spotify.com/album/46MLFQoXY0pnUUwnk3yKzj) | 3:27 | 2026-01-15 |  |
 | [Haza Elli Temaneto](https://open.spotify.com/track/0XmVMNePLkSrqv7JlIT2vb) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Haza Elli Temaneto](https://open.spotify.com/album/62r1w9pE7RZBaXs5X11A8p) | 4:35 | 2022-12-12 | 2023-05-27 |
 | [Hazey Hyateek](https://open.spotify.com/track/30wNhABPtA2czWPuHt8ekz) | [Ali Bin Mohammed](https://open.spotify.com/artist/4E7UMK4iGyqEsTxkUlIkeP) | [Hazey Hyateek](https://open.spotify.com/album/3lmMQsvhQYHHpSs1IdN7zi) | 4:45 | 2024-09-26 | 2025-07-01 |

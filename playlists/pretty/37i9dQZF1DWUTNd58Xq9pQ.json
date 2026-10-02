@@ -1,6 +1,6 @@
 {
   "description": "Sign up for False Idols at Drumsheds <a href=\"https://register.broadwicklive.com/false-idols-london?ref=dsweb\">here</a>",
-  "num_followers": 1847,
+  "num_followers": 1849,
   "original_name": "False Idols",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
+        "name": "SLB",
+        "url": "https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "SLB",
+      "url": "https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT"
+    },
+    {
+      "added_at": "2026-08-13 11:11:48",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/76tdnPDtupBVJiQPN67GTp"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 168739,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2flLSFm3o1HbThLXabDoum"
-    },
-    {
-      "added_at": "2026-08-13 11:11:48",
-      "album": {
-        "name": "SLB",
-        "url": "https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve"
-      },
-      "artists": [
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "SLB",
-      "url": "https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT"
     },
     {
       "added_at": "2026-08-13 11:11:48",

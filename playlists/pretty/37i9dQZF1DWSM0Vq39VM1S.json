@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388229,
+  "num_followers": 388230,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-09-25 14:33:47",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-09-25 14:33:47",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2026-09-25 14:33:47",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-09-25 14:33:47",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-25 14:33:47",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT"
-      },
-      "artists": [
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
-        }
-      ],
-      "duration_ms": 218962,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4XMjBid32yY7UsphrpJevX"
-    },
-    {
-      "added_at": "2026-09-25 14:33:47",
-      "album": {
         "name": "Against The Current",
         "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 216426,
       "name": "Against The Current",
       "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
+    },
+    {
+      "added_at": "2026-09-25 14:33:47",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT"
+      },
+      "artists": [
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        }
+      ],
+      "duration_ms": 218962,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4XMjBid32yY7UsphrpJevX"
     },
     {
       "added_at": "2026-09-25 14:33:47",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-09-25 14:33:47",
       "album": {
+        "name": "22 Durnham Dew",
+        "url": "https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 195532,
+      "name": "Do No Harm (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v"
+    },
+    {
+      "added_at": "2026-09-25 14:33:47",
+      "album": {
         "name": "Your Woman",
         "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
-    },
-    {
-      "added_at": "2026-09-25 14:33:47",
-      "album": {
-        "name": "22 Durnham Dew",
-        "url": "https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 195532,
-      "name": "Do No Harm (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v"
     },
     {
       "added_at": "2026-09-25 14:33:47",

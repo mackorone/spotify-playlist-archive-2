@@ -2,9 +2,9 @@
 
 ### [Afro Gaming ](https://open.spotify.com/playlist/37i9dQZF1DX9EFllv4sqv0)
 
-> Level up your gaming with these afro tracks\. Cover: Davido
+> Level up your gaming with these afro tracks\. Cover: Magixx
 
-229 songs - 11 hr 45 min
+230 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 | 2024-10-21 |  |
 | [Bank Of America](https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:40 | 2024-10-21 |  |
 | [BB Lifestyle](https://open.spotify.com/track/7IHHG09Zw9P2uvyvhllEi7) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [Business](https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI) | 3:08 | 2026-08-19 |  |
+| [Be The One](https://open.spotify.com/track/7CekpMhAosawvtys6Mjadl) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Be The One](https://open.spotify.com/album/0ED1mUs6rE4d4Nra3SvW9C) | 2:25 | 2026-10-02 |  |
 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 | 2025-03-31 |  |
 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/6ebWhnzsRYPA8NPFw63J8m) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 3:12 | 2025-04-29 | 2026-01-15 |
 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 | 2024-10-21 | 2025-03-15 |

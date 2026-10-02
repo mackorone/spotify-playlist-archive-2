@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,059 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,058 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 23 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 |
 | 24 | [ISALE EKO](https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ISALE EKO](https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF) | 2:20 |
 | 25 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |
-| 26 | [VA LOIN](https://open.spotify.com/track/4y4vmSwPS2nj5Q3CmBWEsX) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:41 |
-| 27 | [All Ova](https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [All Ova](https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG) | 2:43 |
+| 26 | [All Ova](https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [All Ova](https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG) | 2:43 |
+| 27 | [VA LOIN](https://open.spotify.com/track/4y4vmSwPS2nj5Q3CmBWEsX) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:41 |
 | 28 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 |
 | 29 | [TOO HOT](https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [TOO HOT](https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V) | 2:24 |
 | 30 | [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 |
 | 31 | [Shy Lover](https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shy Lover](https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I) | 2:43 |
-| 32 | [Cyah Behave](https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Cyah Behave](https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G) | 2:41 |
-| 33 | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp) | 2:39 |
+| 32 | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp) | 2:39 |
+| 33 | [Cyah Behave](https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Cyah Behave](https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G) | 2:41 |
 | 34 | [No Stress](https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [No Stress](https://open.spotify.com/album/0GaXk84jAdVN9ya3x8Keud) | 2:26 |
 | 35 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 36 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 |

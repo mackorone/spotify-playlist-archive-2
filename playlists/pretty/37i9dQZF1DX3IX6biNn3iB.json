@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Becky G en portada. ",
-  "num_followers": 4360,
+  "num_followers": 4471,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
-        "name": "Creo En Ti",
-        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 202425,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
         "name": "Ivory (Marfil)",
         "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
       },
@@ -823,6 +807,38 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
+        "name": "Creo En Ti",
+        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 202425,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
+        "name": "CENTROAMERICANA",
+        "url": "https://open.spotify.com/album/5kOrfCiHuYXveMaWRUWuiD"
+      },
+      "artists": [
+        {
+          "name": "Ben Carrillo",
+          "url": "https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS"
+        }
+      ],
+      "duration_ms": 175864,
+      "name": "CENTROAMERICANA",
+      "url": "https://open.spotify.com/track/4uXWstWV7YxeoG0kx1Axlr"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
         "name": "no te vayas",
         "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
       },
@@ -835,26 +851,6 @@
       "duration_ms": 194890,
       "name": "no te vayas",
       "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
-        "name": "Pienso En Ti",
-        "url": "https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        },
-        {
-          "name": "EddyJae",
-          "url": "https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Pienso En Ti",
-      "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
     }
   ],
   "unique_name": "Our Voice",

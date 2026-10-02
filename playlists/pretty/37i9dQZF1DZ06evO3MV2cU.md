@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,609 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,606 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 3 | [Our God](https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:45 |
 | 4 | [Good Good Father](https://open.spotify.com/track/5go3zDh6wyW7DPwO2lWtmL) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:52 |
 | 5 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 |
-| 6 | [What A Beautiful Name](https://open.spotify.com/track/7yeslH8Y5kwAVJyxK7AqIt) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 5:48 |
+| 6 | [10,000 Reasons \(Bless The Lord\)](https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:51 |
 | 7 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
 | 8 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Double Take \- Chris Tomlin](https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d) | 4:27 |
 | 9 | [Whom Shall I Fear \(God Of Angel Armies\)](https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 4:27 |
-| 10 | [10,000 Reasons \(Bless The Lord\)](https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:51 |
+| 10 | [What A Beautiful Name](https://open.spotify.com/track/7yeslH8Y5kwAVJyxK7AqIt) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 5:48 |
 | 11 | [How Good It Is](https://open.spotify.com/track/0vd7dFgdILWR8nqXS6QIEi) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 3:51 |
 | 12 | [Doesn't He \(Deserve It All\)](https://open.spotify.com/track/037Q5ln2i35q79Ugfz9R5v) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Doesn't He \(Deserve It All\)](https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y) | 3:32 |
 | 13 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 41 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 |
 | 42 | [Jesus](https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:05 |
 | 43 | [God Of This City](https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Hello Love](https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk) | 4:57 |
-| 44 | [Always](https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:08 |
-| 45 | [Still The King](https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:46 |
+| 44 | [Still The King](https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:46 |
+| 45 | [Always](https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:08 |
 | 46 | [Yes And Amen](https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 5:06 |
 | 47 | [God's Great Dance Floor](https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 3:38 |
 | 48 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 8:34 |
 | 49 | [God Of This City \- Live](https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: God Of This City \(Live\)](https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa) | 5:05 |
 | 50 | [Help My Unbelief \- Acoustic](https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Help My Unbelief](https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ) | 3:26 |
 
-Snapshot ID: `armuAAAAAABVg/cnbROETbg0HqZVJWZe`
+Snapshot ID: `arxRAAAAAADA6HhV7lSVi3hsebavlgq1`

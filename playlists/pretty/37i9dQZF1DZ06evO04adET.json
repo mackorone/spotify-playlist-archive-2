@@ -1,29 +1,13 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 871663,
+  "num_followers": 871860,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADnwmbIznFOCXnZ8PC2XBQ7",
+  "snapshot_id": "arxRAAAAAABDX9mkLROlmZNgjVl2uxm+",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aprevenido",
-        "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 169402,
-      "name": "Aprevenido",
-      "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
-    },
     {
       "added_at": null,
       "album": {
@@ -615,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retumban2",
         "url": "https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy"
       },
@@ -663,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 201750,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 136913,
       "name": "Ch y la Pizza",
       "url": "https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X"
     },
     {
       "added_at": null,
@@ -819,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Es Diferente",
         "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
       },
@@ -851,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
       },
       "artists": [
         {
@@ -860,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 189243,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/391dJizAzRYufWsrP8SB35"
+      "duration_ms": 216317,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
     },
     {
       "added_at": null,
@@ -883,6 +851,22 @@
       "duration_ms": 275659,
       "name": "Paso En Culiacan",
       "url": "https://open.spotify.com/track/5McxmoutZI2oRpuTQdvH71"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 189243,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/391dJizAzRYufWsrP8SB35"
     },
     {
       "added_at": null,
@@ -947,6 +931,26 @@
       "duration_ms": 245997,
       "name": "VINO TINTO",
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Nuevo Yo",
+        "url": "https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 190782,
+      "name": "La Torre NY",
+      "url": "https://open.spotify.com/track/5HD1VkxQlGGEXhwQ2REBY2"
     }
   ],
   "unique_name": "This Is Natanael Cano",

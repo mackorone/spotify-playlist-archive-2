@@ -2,9 +2,9 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: LISA
+> The best tracks from the world of music\. Cover: Taylor Swift
 
-708 songs - 1 day 14 hr 35 min
+710 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-08 | 2024-10-10 |
 | [Mindset](https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Mindset](https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR) | 3:10 | 2024-11-12 | 2025-01-02 |
 | [missed call](https://open.spotify.com/track/4DvbIQF7woSBVO3PkxGu1y) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [missed call](https://open.spotify.com/album/3TxhBZL0RbHDMrZuoNGd9q) | 2:21 | 2025-07-09 | 2025-08-07 |
-| [MMG \(My Mine Gueh\)](https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [MMG \(My Mine Gueh\)](https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM) | 3:13 | 2026-09-04 |  |
+| [MMG \(My Mine Gueh\)](https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [MMG \(My Mine Gueh\)](https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM) | 3:13 | 2026-09-04 | 2026-10-02 |
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-26 | 2025-05-15 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 | 2025-03-27 |
 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 | 2026-01-21 | 2026-05-14 |
@@ -404,6 +404,7 @@
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-01-31 | 2024-03-21 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-22 | 2025-07-10 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-27 | 2024-05-02 |
+| [Obsessica](https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD) | 3:39 | 2026-10-01 |  |
 | [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 | 2026-08-14 |  |
 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 | 2025-04-09 | 2025-06-26 |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-06-26 |
@@ -706,11 +707,12 @@
 | [自己一個人](https://open.spotify.com/track/7vRvzhbkXkviVczo1UNBKc) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [自己一個人](https://open.spotify.com/album/4msKtvuvLM2xtpeGSfsLLc) | 4:06 | 2025-07-16 | 2025-08-15 |
 | [花期不同](https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [劉哲宇](https://open.spotify.com/artist/7cV5hNg13Bs5rLemIOMDi9), [吳維榮](https://open.spotify.com/artist/7AFolkU9lKXmyhzr09MXlz), [鄭雪琪](https://open.spotify.com/artist/1dw3TMG4Wb2Rspq6mPVcbp), [朱芷薇](https://open.spotify.com/artist/10TJ9srdH9jXPCIjf07E6W), [賴詠薇](https://open.spotify.com/artist/2A4nxDB5Ryl02YTDKHReeP) | [花期不同](https://open.spotify.com/album/6d8sTzopF0s4xeknRrFGZV) | 4:09 | 2024-10-16 | 2024-11-13 |
 | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/track/0yej2N8lQ1HQMgzSzkRilc) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/album/6st8aeddyDxftxA8tWXZhc) | 4:28 | 2025-04-30 | 2025-06-18 |
+| [要去什麼地方](https://open.spotify.com/track/4azVNx8uhpnKezwrNhcvYz) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:47 | 2026-10-01 |  |
 | [跟悲傷結了帳](https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [跟悲傷結了帳](https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo) | 3:03 | 2025-11-05 | 2026-01-22 |
 | [跳楼机](https://open.spotify.com/track/2BHXQNTVx1WWEk3WyCo4VO) | [en](https://open.spotify.com/artist/3A4OPuuXAaKWD8mlrUKXUQ) | [跳楼机](https://open.spotify.com/album/4ReDcHoNHmEX6WtgsEyo1H) | 3:29 | 2025-03-19 | 2025-04-04 |
 | [这是你期盼的长大吗](https://open.spotify.com/track/3AKYofM0vFekNthGbpjMpN) | [ZQS](https://open.spotify.com/artist/6CvqU8itTtfpm1E8Pvez33) | [这是你期盼的长大吗](https://open.spotify.com/album/4kVcOlVQGpR5ci478Y86Zv) | 3:58 | 2024-06-12 | 2024-07-11 |
 | [過了幾天 \- 合唱版](https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天 \(合唱版\)](https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa) | 4:55 | 2025-01-01 | 2025-06-06 |
-| [那天下雨了](https://open.spotify.com/track/0bWGqfaEeTIvrnKGPJFD18) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:43 | 2026-03-31 |  |
+| [那天下雨了](https://open.spotify.com/track/0bWGqfaEeTIvrnKGPJFD18) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:43 | 2026-03-31 | 2026-10-02 |
 | [青春要用幾行詩來寫 \(電視劇《顏心記》推廣曲\)](https://open.spotify.com/track/5BMwkhL43UiAOshkAW7NVP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [青春要用幾行詩來寫 \(電視劇《顏心記》推廣曲\)](https://open.spotify.com/album/74QsdlUpTEwZVozQkU0yeZ) | 4:52 | 2024-06-12 | 2024-07-04 |
 | [靠關係](https://open.spotify.com/track/0FnMg583fEr89brx7iss5s) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [靠關係](https://open.spotify.com/album/72p6dLDiWFSwptAt1RZAaS) | 3:54 | 2026-04-22 | 2026-06-12 |
 | [飞瀑而下](https://open.spotify.com/track/4hSJqNfEZAPT9IJzGUtfmg) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [飞瀑而下](https://open.spotify.com/album/5TggiwkQVxrJdFAthMTKZl) | 4:51 | 2026-03-04 | 2026-04-23 |

@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Maribou State
 
-538 songs - 1 day 9 hr 44 min
+539 songs - 1 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Handsup](https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve +1](https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ) | 3:08 | 2025-11-07 | 2026-01-19 |
 | [Hannah \(the sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(the sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-10-28 | 2024-07-27 |
 | [Happy Days \- Edit](https://open.spotify.com/track/0lPnmGoJ4iSDIflLs1Vchl) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Happy Tears](https://open.spotify.com/album/4MHelmVR9cbC7kkbmJHJAc) | 1:54 | 2025-06-12 | 2025-07-01 |
-| [hav u a sec](https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [hav u a sec](https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui) | 4:58 | 2026-07-23 |  |
+| [hav u a sec](https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [hav u a sec](https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui) | 4:58 | 2026-07-23 | 2026-10-02 |
 | [Heartfalls \(feat\. Khazali\)](https://open.spotify.com/track/6AlTHpfu0unvKz7uc3PFVv) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Heartfalls \(feat\. Khazali\)](https://open.spotify.com/album/0pav2XJdIIb7cswufb8ZwF) | 3:22 | 2025-03-21 | 2025-07-25 |
 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 | 2026-02-13 | 2026-08-12 |
 | [Her Eyes](https://open.spotify.com/track/2140Txb63i5WGqFZX52gag) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx) | 3:35 | 2024-10-24 | 2025-02-14 |
@@ -349,6 +349,7 @@
 | [Party Time \(feat\. Aatig\)](https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Party Time \(feat\. Aatig\)](https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl) | 3:19 | 2026-07-23 |  |
 | [Passed Me By](https://open.spotify.com/track/0lxipmiNQfnrpxNMprU8vc) | [Submotion Orchestra](https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA) | [Passed Me By](https://open.spotify.com/album/4rjD9u6y1TYCIfRXSogE6X) | 4:31 | 2026-05-07 | 2026-05-30 |
 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 | 2025-01-31 | 2026-05-08 |
+| [Perception](https://open.spotify.com/track/2igRYKCoC6FWq2JeGEo0WC) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Perception](https://open.spotify.com/album/4RAgkSkg9JplbrF3bGSB4o) | 3:53 | 2026-09-10 |  |
 | [Perfectly Broken](https://open.spotify.com/track/21RK93h8VJjBKaGgefZ1ro) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Perfectly Broken](https://open.spotify.com/album/7yEPOcf4i368II6RXOGq5N) | 4:00 | 2021-10-28 | 2024-02-02 |
 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 | 2024-09-19 | 2025-03-21 |
 | [Pink Bape Lighter](https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) | 2:40 | 2026-04-23 |  |

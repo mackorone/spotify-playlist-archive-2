@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "CHANGES (2a.m. Version)",
+        "url": "https://open.spotify.com/album/3q1yepROevr5CzFJd8Sral"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "CHANGES - 2a.m. Version",
+      "url": "https://open.spotify.com/track/0NkjDfL4oR4tkrL4h2nEal"
+    },
+    {
+      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/2hjrQmqKGiD2S69mTkNVR8"
       },
@@ -6336,7 +6354,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 196398,
       "name": "My Girls",
       "url": "https://open.spotify.com/track/6uJuIxDkKyhWLTCyDu5jQN"

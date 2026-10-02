@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1309058,
+  "num_followers": 1309132,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAAKGfF8r5kRk2hQ0amSvLlT",
+  "snapshot_id": "arxRAAAAAACrC4Ew93zpY/0yJd6oS6vj",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
       },
       "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 256522,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+      "duration_ms": 180000,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
     },
     {
       "added_at": null,
@@ -95,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
       "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
+      "duration_ms": 256522,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": null,

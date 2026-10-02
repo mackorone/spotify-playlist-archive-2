@@ -1,13 +1,29 @@
 {
   "description": "A warm glittering glow of ambient jazz.",
-  "num_followers": 12713,
+  "num_followers": 12754,
   "original_name": "Twinkly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACqYUzGVl+UoLKMoyxzC6sZj9fnm",
+  "snapshot_id": "AAAAAF4mudbS6RHAa5lwLIYnKGJxlQaW",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:03:56",
+      "album": {
+        "name": "It Can Be Everywhere",
+        "url": "https://open.spotify.com/album/60VFfdCLTZZyX5wpOIUS2x"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "duration_ms": 330490,
+      "name": "It Can Be Everywhere",
+      "url": "https://open.spotify.com/track/1mQPLb9lmLBgR9WtrdEIJX"
+    },
     {
       "added_at": "2026-09-18 04:03:50",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 293026,
       "name": "All the light in the world",
       "url": "https://open.spotify.com/track/2SWSeh3IMDLBb4fQaKtN61"
-    },
-    {
-      "added_at": "2026-06-19 04:00:23",
-      "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/7r8WcFH2Vgxb5cNNOgb6o3"
-      },
-      "artists": [
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 315827,
-      "name": "Azimuth (John Taylor)",
-      "url": "https://open.spotify.com/track/6lxxvqCJT0Bbd7i919biu1"
     },
     {
       "added_at": "2026-09-04 21:02:29",
@@ -71,6 +71,22 @@
       "duration_ms": 283990,
       "name": "Venere",
       "url": "https://open.spotify.com/track/49AavYj2lqPuYDE3HQ0uS6"
+    },
+    {
+      "added_at": "2026-06-19 04:00:23",
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/7r8WcFH2Vgxb5cNNOgb6o3"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "duration_ms": 315827,
+      "name": "Azimuth (John Taylor)",
+      "url": "https://open.spotify.com/track/6lxxvqCJT0Bbd7i919biu1"
     },
     {
       "added_at": "2026-07-03 04:03:08",
@@ -253,6 +269,38 @@
       "url": "https://open.spotify.com/track/6h8BILd9Bv6QWHp791EmBS"
     },
     {
+      "added_at": "2026-10-02 04:03:56",
+      "album": {
+        "name": "Lightship",
+        "url": "https://open.spotify.com/album/6AUppxCiaz6G8bDvsArS3n"
+      },
+      "artists": [
+        {
+          "name": "Unknown to Known",
+          "url": "https://open.spotify.com/artist/7INjimPX8qiYHGqsX0VzB9"
+        },
+        {
+          "name": "Idris Rahman",
+          "url": "https://open.spotify.com/artist/0usZeXbJX9kz203eMYmWRw"
+        },
+        {
+          "name": "Yusuf Ahmed",
+          "url": "https://open.spotify.com/artist/3gShmv2t9w6p0uvySqLIpB"
+        },
+        {
+          "name": "Tamar Osborn",
+          "url": "https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj"
+        },
+        {
+          "name": "Jihad Darwish",
+          "url": "https://open.spotify.com/artist/2bsHhAkRSy9fEdvd8D143v"
+        }
+      ],
+      "duration_ms": 144486,
+      "name": "Lightship",
+      "url": "https://open.spotify.com/track/0CnpH1MHRwpe51tDTGHYPv"
+    },
+    {
       "added_at": "2026-07-03 04:03:08",
       "album": {
         "name": "Elements of Nature",
@@ -287,22 +335,6 @@
       "duration_ms": 282580,
       "name": "Swan",
       "url": "https://open.spotify.com/track/36WNSoX1fLaiG0Gw005a4k"
-    },
-    {
-      "added_at": "2026-06-19 04:00:23",
-      "album": {
-        "name": "Unusual Object",
-        "url": "https://open.spotify.com/album/4fRgDwDwRmTwK7s0PhI9DA"
-      },
-      "artists": [
-        {
-          "name": "Josh Johnson",
-          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
-        }
-      ],
-      "duration_ms": 121106,
-      "name": "Deep Dark",
-      "url": "https://open.spotify.com/track/7lNTOULiGKU2MwFrZac2iO"
     },
     {
       "added_at": "2026-05-29 04:01:26",
@@ -591,22 +623,6 @@
       "duration_ms": 71080,
       "name": "Tracing Nature",
       "url": "https://open.spotify.com/track/1eDoSWD7lXxrLAGGpLDjx4"
-    },
-    {
-      "added_at": "2026-02-27 18:01:11",
-      "album": {
-        "name": "The Lattice Bookshelf",
-        "url": "https://open.spotify.com/album/3ZF2HFQz37brOU14QQ8jAg"
-      },
-      "artists": [
-        {
-          "name": "Walsh Kunkel",
-          "url": "https://open.spotify.com/artist/3wYjPyeVpthXDHSNC6r6RG"
-        }
-      ],
-      "duration_ms": 142329,
-      "name": "Gradestay",
-      "url": "https://open.spotify.com/track/5efJi600QWwEW5v6kaXwpI"
     },
     {
       "added_at": "2026-03-13 02:00:01",

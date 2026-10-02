@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 221291,
+  "num_followers": 221304,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAClDfPw+wcZaCR3W18Podbl",
+  "snapshot_id": "arxRAAAAAADvyBJ6aYP2t2hcqBIQ2pjI",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 137476,
+      "name": "Thelma + Louise",
+      "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sad in Scandinavia",
         "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 198074,
       "name": "Grip",
       "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 137476,
-      "name": "Thelma + Louise",
-      "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
     },
     {
       "added_at": null,

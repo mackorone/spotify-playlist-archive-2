@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 45759,
+  "num_followers": 45765,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADx3bRCYXAFqUS6SY+TSgDs",
+  "snapshot_id": "arxRAAAAAAD+4hv7KDslZRPnLwKOFTHn",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 166633,
+      "name": "This Time (with GloRilla)",
+      "url": "https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -191,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANE",
-        "url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 197260,
-      "name": "MANE",
-      "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -227,22 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS"
+        "name": "MANE",
+        "url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 166633,
-      "name": "This Time (with GloRilla)",
-      "url": "https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5"
+      "duration_ms": 197260,
+      "name": "MANE",
+      "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
     },
     {
       "added_at": null,
@@ -499,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Hustla (ft. GloRilla)",
-        "url": "https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF"
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ"
       },
       "artists": [
         {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 148108,
-      "name": "Real Hustla (ft. GloRilla)",
-      "url": "https://open.spotify.com/track/01lRLiKslwD7pzTa9PqvND"
+      "duration_ms": 137386,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0"
     },
     {
       "added_at": null,
@@ -539,22 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ"
+        "name": "Real Hustla (ft. GloRilla)",
+        "url": "https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF"
       },
       "artists": [
         {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 137386,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0"
+      "duration_ms": 148108,
+      "name": "Real Hustla (ft. GloRilla)",
+      "url": "https://open.spotify.com/track/01lRLiKslwD7pzTa9PqvND"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : KAROL G, Judeline, rusowsky",
+  "description": "Tous les hits latino du moment sont ici. Photo : Ricky Martin x PEDRO SAMPAIO",
   "name": "Caliente",
   "tracks": [
     {
@@ -392,6 +392,28 @@
       "duration_ms": 248374,
       "name": "ALGO VA A PASAR",
       "url": "https://open.spotify.com/track/4cAgxAadH8i2QmPtQmK6BK"
+    },
+    {
+      "album": {
+        "name": "Alg\u00fan D\u00eda (Clean)",
+        "url": "https://open.spotify.com/album/5Iemgmw16bn8jnQKNVQvhz"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189397,
+      "name": "Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/0xbJN9Y4ujGOusoTznFWfo"
     },
     {
       "album": {
@@ -848,7 +870,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 160723,
       "name": "Az\u00facar",
       "url": "https://open.spotify.com/track/0h1bX0RZsLqarEA623TztZ"
@@ -4552,7 +4574,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 152508,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/6OiLzarmDhKalWvWqiuExF"
@@ -5522,7 +5544,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
@@ -7523,6 +7545,28 @@
     },
     {
       "album": {
+        "name": "PA' TOUCH - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172775,
+      "name": "PA' TOUCH - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM"
+    },
+    {
+      "album": {
         "name": "Pal Agua",
         "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
       },
@@ -7764,6 +7808,28 @@
       "duration_ms": 204099,
       "name": "Pikito",
       "url": "https://open.spotify.com/track/4uincenPTAa44KUmUQXbQC"
+    },
+    {
+      "album": {
+        "name": "pikito pikito",
+        "url": "https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180259,
+      "name": "pikito pikito",
+      "url": "https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3"
     },
     {
       "album": {

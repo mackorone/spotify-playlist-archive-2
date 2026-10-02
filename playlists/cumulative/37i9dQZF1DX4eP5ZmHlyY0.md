@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BE:FIRST
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: JO1
 
-1,136 songs - 2 day 13 hr 19 min
+1,137 songs - 2 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Amazing!!!!!!](https://open.spotify.com/track/0KPpD49xKwTQWSBCZlRqjK) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Amazing!!!!!!](https://open.spotify.com/album/6Up62WHwhBpFvjnlIU7rv3) | 3:43 | 2026-01-21 | 2026-02-20 |
 | [AMMO \(feat\. YRD Leo\)](https://open.spotify.com/track/6qQTiRUVoy7vDGO1gWzOAe) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg), [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [AMMO \(feat\. YRD Leo\)](https://open.spotify.com/album/22YNyOJpQyPGV8GhAtIKKn) | 3:24 | 2026-02-24 | 2026-05-20 |
 | [ANIMAL](https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME: DELUXE](https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq) | 2:26 | 2026-09-29 |  |
+| [ANIMAL](https://open.spotify.com/track/0NI2z69OboDcZ0YkF2ozRo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [ANIMAL](https://open.spotify.com/album/5Qp6Th6wxnujUh394VdPAa) | 2:52 | 2026-10-01 |  |
 | [Aonooto](https://open.spotify.com/track/5uHoSGdji2lJjpZ4AtcpEw) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Aonooto](https://open.spotify.com/album/27CGUNOwhGV5NG46hXXYCV) | 4:00 | 2025-07-08 | 2025-08-05 |
 | [Aphrodite](https://open.spotify.com/track/7KbHVUBw2NihGysGGDpN0f) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [回帰LOVE](https://open.spotify.com/album/19E8K5raOkxy6HNvntZwJv) | 2:47 | 2026-08-21 |  |
 | [Aqua](https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Aqua](https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2) | 3:16 | 2024-02-20 | 2024-06-03 |
@@ -447,7 +448,7 @@
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-03-06 | 2025-05-20 |
 | [if you wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 | 2025-11-02 | 2026-01-15 |
 | [If You're Mine](https://open.spotify.com/track/23GA5FON8Aa21oSocnNmnm) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [DIFFERENT](https://open.spotify.com/album/2TtsDrSETlfL4RD8j5GQZG) | 2:43 | 2026-07-09 |  |
-| [IGNITE](https://open.spotify.com/track/30F0aAsXuyMVcGYD1He7Zx) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [IGNITE](https://open.spotify.com/album/6oe0WkbMxVo7ZlAnwWbFGW) | 3:29 | 2026-09-08 |  |
+| [IGNITE](https://open.spotify.com/track/30F0aAsXuyMVcGYD1He7Zx) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [IGNITE](https://open.spotify.com/album/6oe0WkbMxVo7ZlAnwWbFGW) | 3:29 | 2026-09-08 | 2026-10-02 |
 | [IKUK](https://open.spotify.com/track/1CjaEVRcMcHJs6K6JcsBg4) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Dear.M](https://open.spotify.com/album/47FAjLG2fBhDBgb4mRHMQT) | 2:48 | 2025-03-06 | 2025-04-09 |
 | [Imagination](https://open.spotify.com/track/3KpNOsT8D9pU5qKDPG1IKo) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Imagination](https://open.spotify.com/album/1TeZi1NtgcETvxImnvTNpB) | 2:52 | 2024-04-30 | 2024-05-29 |
 | [In My Head](https://open.spotify.com/track/14fYNWLL13lnpV8pdJmREV) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [In My Head](https://open.spotify.com/album/1xJb2W3tod9ecek8mAl2Bf) | 3:20 | 2024-02-20 | 2024-02-22 |

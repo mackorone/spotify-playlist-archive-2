@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Didi B x Tayc",
+  "description": "Tracks popping off in the Afro scene. Cover: Mr Eazi",
   "name": "Afro Station",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 154705,
       "name": "2FRESH",
       "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Alov",
+        "url": "https://open.spotify.com/album/5e95lZXVU60ySREfcEUd6s"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158372,
+      "name": "Alov",
+      "url": "https://open.spotify.com/track/2IcYyyyn0RbB36N5Pglgmd"
+    },
+    {
+      "album": {
         "name": "Al\u00f3",
         "url": "https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex"
       },
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 155852,
       "name": "attention!",
       "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 225745,
       "name": "Bandela",
       "url": "https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G"
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 188571,
       "name": "BB Lifestyle",
       "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
@@ -4846,7 +4864,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 135652,
       "name": "Ca Ne Marche Pas",
       "url": "https://open.spotify.com/track/7eraMEp9CzCOEs4DnRsFVE"
@@ -6087,6 +6105,28 @@
     },
     {
       "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
@@ -6694,7 +6734,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 169411,
       "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
@@ -8630,10 +8670,32 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 158108,
       "name": "Eja Meja (feat. Asake)",
       "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
+    },
+    {
+      "album": {
+        "name": "EKO",
+        "url": "https://open.spotify.com/album/6n19b4XVWFQqzeTz4BaIZy"
+      },
+      "artists": [
+        {
+          "name": "Dj Leska",
+          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
+        },
+        {
+          "name": "DODDY",
+          "url": "https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199637,
+      "name": "EKO",
+      "url": "https://open.spotify.com/track/30OQflh5OQoVPKHFRVHrMI"
     },
     {
       "album": {
@@ -11452,7 +11514,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 155441,
       "name": "GTA",
       "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
@@ -12405,6 +12467,24 @@
     },
     {
       "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+    },
+    {
+      "album": {
         "name": "A KID WITH A DREAM (AKWAD)",
         "url": "https://open.spotify.com/album/0SDU4FpbAxUz2LrdXwyS7S"
       },
@@ -12438,6 +12518,28 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "album": {
+        "name": "IKEBE 3000",
+        "url": "https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "IKEBE 3000",
+      "url": "https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY"
     },
     {
       "album": {
@@ -15511,6 +15613,32 @@
     },
     {
       "album": {
+        "name": "Longue vie \u00e0 nous",
+        "url": "https://open.spotify.com/album/2fjVClEdcw6sFvssKcyinN"
+      },
+      "artists": [
+        {
+          "name": "Black M",
+          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199028,
+      "name": "Longue vie \u00e0 nous",
+      "url": "https://open.spotify.com/track/1IsosHLLJlLuCLsrIIhqfc"
+    },
+    {
+      "album": {
         "name": "Looking for Somebody",
         "url": "https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk"
       },
@@ -16787,6 +16915,24 @@
     },
     {
       "album": {
+        "name": "Me Sisi",
+        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171805,
+      "name": "Me Sisi",
+      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
+    },
+    {
+      "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/6U98UaUr6dUDInzHw4jXPP"
       },
@@ -17496,6 +17642,24 @@
       "duration_ms": 191505,
       "name": "Money & Love",
       "url": "https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu"
+    },
+    {
+      "album": {
+        "name": "Money Lingo",
+        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159757,
+      "name": "Money Lingo",
+      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
     },
     {
       "album": {

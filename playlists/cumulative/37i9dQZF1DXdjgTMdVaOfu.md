@@ -4,12 +4,13 @@
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-165 songs - 7 hr 1 min
+166 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#4【薬屋のひとりごと】  悠木碧×長沼範裕監督「台本のト書きはキャストさんへのメッセージ」](https://open.spotify.com/episode/5acv0jF7d9y2J3cD7FMydz) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『対ありでした。～お嬢さまは格闘ゲームなんてしない～』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『対ありでした。～お嬢さまは格闘ゲームなんてしない～』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:18 | 2024-03-26 |  |
 | [A Group of Foxes](https://open.spotify.com/track/12PYII1aZxkOAUeVaN9PoP) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [TV アニメ『薬屋のひとりごと』第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/1N1qZGt1yWrDiYdrQOJgmI) | 2:54 | 2025-09-16 |  |
+| [AIYOU](https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [AIYOU](https://open.spotify.com/album/2XhSVmF3l0I59LYAn9J6Ph) | 2:39 | 2026-10-01 |  |
 | [Apothecary](https://open.spotify.com/track/62kUz7a77fClCwKxoyFeP6) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:44 | 2024-03-25 | 2024-04-19 |
 | [Balsam](https://open.spotify.com/track/3xm9zfONJY8OHvlzFJGnvC) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:54 | 2024-03-25 | 2024-04-19 |
 | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/04xIuk7yE5S3ucvzd7VNi2) | [Daichi Takenaka](https://open.spotify.com/artist/40kOocaMWxJX2dIYzDAUmB), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/23GffvhwgaUE3p6K3ZCDFT) | 1:58 | 2024-03-24 | 2024-04-19 |

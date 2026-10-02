@@ -2,9 +2,9 @@
 
 ### [Proper Belters](https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr)
 
-> Music that means it\. Cover: Jamie T
+> Music that means it\. Cover: Blossoms
 
-495 songs - 1 day 3 hr 59 min
+497 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-09 | 2024-01-11 |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2023-01-10 | 2023-02-24 |
 | [Hello](https://open.spotify.com/track/50avOa0LBFsU1nAahTRlMZ) | [The Kites](https://open.spotify.com/artist/3ozhwCsC7L5vosnIQrX1jy) | [Hello](https://open.spotify.com/album/4q41CEqg6BbETmU5N7Cp8S) | 2:39 | 2024-04-15 | 2025-02-08 |
-| [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-21 |  |
+| [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-21 | 2026-10-02 |
 | [HEY WHAT'S HAPPENIN?](https://open.spotify.com/track/1JoGT0DC76LoABejDyTpz2) | [Thom Southern](https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ) | [HEY WHAT'S HAPPENIN?](https://open.spotify.com/album/4kyZfTFL1yQG8A4BiOSuHL) | 1:48 | 2024-01-26 | 2024-07-13 |
 | [Hiding & Reading](https://open.spotify.com/track/07LMjoua9eEWxfLxqZ7PUQ) | [The Hubbards](https://open.spotify.com/artist/5qU07JDAP3mSTpsbRcEbYD) | [Hiding & Reading](https://open.spotify.com/album/1kGZ5GfyjsH1v4ZiGVWjj6) | 2:58 | 2024-01-26 | 2024-02-24 |
 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 | 2023-06-28 |  |
@@ -286,7 +286,7 @@
 | [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 | 2024-08-29 |  |
 | [Lord](https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Drive to Goldenhammer](https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994) | 3:30 | 2025-03-12 | 2025-08-18 |
 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 | 2023-01-10 | 2024-01-27 |
-| [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-03-12 |  |
+| [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-03-12 | 2026-10-02 |
 | [Love Bomb](https://open.spotify.com/track/40QWTLvuO04mxTJH7QTCl8) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Make Me Your National Anthem](https://open.spotify.com/album/0crbLH9y8joC8UgWSOuBuI) | 2:46 | 2024-10-06 | 2024-12-24 |
 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 | 2024-02-02 | 2024-04-19 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-22 | 2024-05-11 |
@@ -431,6 +431,7 @@
 | [The Dreamer](https://open.spotify.com/track/6gQheeYzRC6CFO6ydya9wx) | [The Sway](https://open.spotify.com/artist/6B6d0AGSEYsweJ1siqwyZb) | [Days Lost or Happily Wasted](https://open.spotify.com/album/530f9RmlCdks6xvP7ZtObj) | 3:11 | 2023-03-31 | 2023-04-19 |
 | [The Enemy](https://open.spotify.com/track/4yI37d71d5BQ1HMU4W8dCP) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/3NVnrjjiPoDxffSvrwwSAa) | 3:08 | 2023-01-10 | 2023-03-09 |
 | [The Enemy](https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/4t250HKL2vikczwZILscU5) | 3:08 | 2023-02-24 | 2024-01-06 |
+| [The Kardashians](https://open.spotify.com/track/7JlbrqQVlHh8rnaTlAzy9j) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Songs From The Wedding Cake](https://open.spotify.com/album/50t0TEz7Owjimd7bakSpkg) | 4:05 | 2026-10-01 |  |
 | [The Local](https://open.spotify.com/track/6OsCFf3l9wOWnHACeENsbe) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [The Local](https://open.spotify.com/album/7ouB5fANmD12fpT1ExhfDY) | 6:00 | 2024-07-12 | 2025-06-23 |
 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 | 2023-01-10 |  |
 | [The Patch Where Nothing Grows](https://open.spotify.com/track/59VU90DtASSleE9kfo7P6s) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Patch Where Nothing Grows](https://open.spotify.com/album/1XUxgHgsoEhfKUteLsdguO) | 3:17 | 2024-08-21 | 2025-07-29 |
@@ -454,6 +455,7 @@
 | [Timing](https://open.spotify.com/track/3WySGZnIvL3tw7y66xMqNF) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [Queensway Tunnel](https://open.spotify.com/album/1frN2kEYXx4azuuOI1pqL6) | 3:23 | 2023-01-10 | 2023-06-08 |
 | [Tired Minds](https://open.spotify.com/track/4ltKJxYykFeDCVLTMIaN8f) | [Voodoos](https://open.spotify.com/artist/5ya7iEj2gouDgi5aFiA1e8) | [Tired Minds](https://open.spotify.com/album/43Q8naoUbm8TNvGrM3ljFD) | 3:15 | 2023-01-10 | 2023-09-19 |
 | [To Make Me Feel Good](https://open.spotify.com/track/0mMOvXqrgYzFXQmSDMnJTU) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [To Make Me Feel Good](https://open.spotify.com/album/5GEXrRfKyQv94ePIt24pg9) | 3:29 | 2025-02-07 | 2025-03-16 |
+| [Tongue](https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Tongue](https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw) | 3:13 | 2026-10-01 |  |
 | [Towards the One](https://open.spotify.com/track/3lqzSzW8W2JAlWBVYUd78y) | [Lost Under Heaven](https://open.spotify.com/artist/634K1Y2zhBHexel2Ma4xsC) | [Towards the One](https://open.spotify.com/album/5ijkLq2XBXY1cre1jR0fQ7) | 6:34 | 2023-07-28 | 2023-08-05 |
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-18 | 2024-07-13 |
 | [Tubes](https://open.spotify.com/track/07jXAPRXGV5ZeXHXaMV3mo) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Coming of Age](https://open.spotify.com/album/6H8ULONWvrMzKel3GgVExV) | 2:49 | 2026-05-01 | 2026-08-21 |

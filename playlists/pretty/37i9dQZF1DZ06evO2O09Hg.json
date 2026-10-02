@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1663690,
+  "num_followers": 1663743,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAA2Tdcorntgwuu7QwfKMvQk",
+  "snapshot_id": "arxRAAAAAACipUWzNlmKUMw9e7f8uyjX",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
       "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 228951,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/7MhNCT34oaLIxwAsZlZd67"
+      "duration_ms": 198599,
+      "name": "Party By Myself",
+      "url": "https://open.spotify.com/track/0rAXLQ7JgPek5Wll0AXBMb"
     },
     {
       "added_at": null,
@@ -583,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
       },
       "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 198599,
-      "name": "Party By Myself",
-      "url": "https://open.spotify.com/track/0rAXLQ7JgPek5Wll0AXBMb"
+      "duration_ms": 228951,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7MhNCT34oaLIxwAsZlZd67"
     },
     {
       "added_at": null,

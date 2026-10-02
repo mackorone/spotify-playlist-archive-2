@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 488288,
+  "num_followers": 488295,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACRDwsKeSRfQdLv1lXRkYtC",
+  "snapshot_id": "arxRAAAAAAC0EyglYH51nsuIYRPnrH5q",
   "tracks": [
     {
       "added_at": null,
@@ -635,38 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
-        "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 196296,
-      "name": "King Of The Night Time World - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
-      "url": "https://open.spotify.com/track/5qGBFUToAl7XumOQqtHW1t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Christine Sixteen",
-      "url": "https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -683,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
       "artists": [
         {
@@ -692,9 +660,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 175013,
-      "name": "Beth - Live From MTV Unplugged/1995",
-      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
+      "duration_ms": 194466,
+      "name": "Christine Sixteen",
+      "url": "https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3"
     },
     {
       "added_at": null,
@@ -731,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Beth - Live From MTV Unplugged/1995",
+      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock And Roll Over",
         "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 185333,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
+        "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 196296,
+      "name": "King Of The Night Time World - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
+      "url": "https://open.spotify.com/track/5qGBFUToAl7XumOQqtHW1t"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 149720,
-      "name": "See You Tonight - Live From MTV Unplugged/1995",
-      "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creatures Of The Night",
         "url": "https://open.spotify.com/album/5fMNBSecex43kyvmPIkxqW"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 243866,
       "name": "Creatures Of The Night - 2022 Remastered",
       "url": "https://open.spotify.com/track/0pd7tyhNtTKOySAvbDDbVV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 149720,
+      "name": "See You Tonight - Live From MTV Unplugged/1995",
+      "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
     },
     {
       "added_at": null,

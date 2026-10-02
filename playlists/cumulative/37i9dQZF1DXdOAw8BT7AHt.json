@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best of every corner of modern punk rock. Cover: NOBRO",
+  "description": "The best of every corner of modern punk rock. Cover: Lambrini Girls",
   "name": "Today's Punk",
   "tracks": [
     {
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 171000,
       "name": "Balloon Man Running",
       "url": "https://open.spotify.com/track/5caj13UPdFrwoLX54LmEm5"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 158413,
       "name": "Chosen Hell",
       "url": "https://open.spotify.com/track/2KpZs2PLyA2ZA3Rea2SqzJ"
@@ -4218,6 +4218,24 @@
       "duration_ms": 197370,
       "name": "Doom in Bloom",
       "url": "https://open.spotify.com/track/2VBZe3z0ZV0IWYYqbTiZ4Y"
+    },
+    {
+      "album": {
+        "name": "Doom Tripping",
+        "url": "https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Doom Tripping",
+      "url": "https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I"
     },
     {
       "album": {
@@ -5982,7 +6000,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 232615,
       "name": "Good American",
       "url": "https://open.spotify.com/track/1w4ycJmkVn4GLTDLhAbvxB"
@@ -6462,7 +6480,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 156946,
       "name": "Have A Pint",
       "url": "https://open.spotify.com/track/00iPOidOXCJIidBBmKWOV5"
@@ -6538,6 +6556,24 @@
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/3XVYJoeKCtHwxQM89fMH8E"
+      },
+      "artists": [
+        {
+          "name": "THICK",
+          "url": "https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194671,
+      "name": "Heavy Metal",
+      "url": "https://open.spotify.com/track/68lCY5btHraAZGGQYH3Qkc"
     },
     {
       "album": {
@@ -7054,7 +7090,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 159506,
       "name": "I Kinda Like That",
       "url": "https://open.spotify.com/track/0d1VAPSDzDRZMNIndiC2x2"
@@ -8472,6 +8508,24 @@
       "duration_ms": 219665,
       "name": "Live by the Sword",
       "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
+    },
+    {
+      "album": {
+        "name": "Proceed With Caution",
+        "url": "https://open.spotify.com/album/468Onsk0BAN3KorH6PrBfR"
+      },
+      "artists": [
+        {
+          "name": "The Paradox",
+          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153694,
+      "name": "Living Hell",
+      "url": "https://open.spotify.com/track/48c7OG5qnI46q1GkspLrXv"
     },
     {
       "album": {
@@ -10789,6 +10843,24 @@
     },
     {
       "album": {
+        "name": "Moments Before The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Phoenix Down",
+      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
+    },
+    {
+      "album": {
         "name": "Phone Lines Down",
         "url": "https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN"
       },
@@ -11132,6 +11204,24 @@
       "duration_ms": 200314,
       "name": "Pub Watch",
       "url": "https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj"
+    },
+    {
+      "album": {
+        "name": "Punched In The Head",
+        "url": "https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Hunters",
+          "url": "https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118754,
+      "name": "Punched In The Head",
+      "url": "https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0"
     },
     {
       "album": {
@@ -12398,7 +12488,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 143952,
       "name": "SINCERELY YOURS",
       "url": "https://open.spotify.com/track/2y8aupZKIMIsyk63YEH2vf"
@@ -15734,7 +15824,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 183543,
       "name": "Without Your Hands",
       "url": "https://open.spotify.com/track/70EhPyiUO0Kw8zx7H987YF"
@@ -15908,6 +15998,28 @@
       "duration_ms": 184320,
       "name": "Yeah I Guess",
       "url": "https://open.spotify.com/track/4WCHu8S9Ft3b5N5St0TSfr"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Gone",
+        "url": "https://open.spotify.com/album/5k7QBOWuW22bHlGUocEJo4"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        },
+        {
+          "name": "Incendiary",
+          "url": "https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187760,
+      "name": "Yesterday's Gone",
+      "url": "https://open.spotify.com/track/14yRaWA1lwDYBGVt0KJeJD"
     },
     {
       "album": {

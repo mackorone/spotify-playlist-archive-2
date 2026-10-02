@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover - Shreya Jain",
-  "num_followers": 109751,
+  "num_followers": 109776,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH47bcq3aajm+n6fJmTsgDyKop1c",
+  "snapshot_id": "AAAAAPFWoR7l4GvS9Q5tS0l2qApE6Pjl",
   "tracks": [
     {
       "added_at": "2026-09-29 06:39:45",
@@ -233,7 +233,7 @@
         }
       ],
       "duration_ms": 252621,
-      "name": "Daastaan - E - Tabaahi",
+      "name": "Daastaan - The Drishyam Recap",
       "url": "https://open.spotify.com/track/7mOUFPpcuIkvkNigz1Swe5"
     },
     {
@@ -263,6 +263,26 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
+        "name": "Saiyaara",
+        "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
+      },
+      "artists": [
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "duration_ms": 129945,
+      "name": "Barbaad Reprise - Female",
+      "url": "https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
         "name": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3JZBsPrhhT1qYdEzZfSsog"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 244647,
       "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
       "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Saiyaara",
-        "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
-      },
-      "artists": [
-        {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        }
-      ],
-      "duration_ms": 129945,
-      "name": "Barbaad Reprise - Female",
-      "url": "https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -519,6 +519,30 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
+        "name": "Ratiyaan",
+        "url": "https://open.spotify.com/album/228bM7MDfeoocgddt5o8bl"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
+        },
+        {
+          "name": "Soham Majumdar",
+          "url": "https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW"
+        }
+      ],
+      "duration_ms": 175181,
+      "name": "Ratiyaan",
+      "url": "https://open.spotify.com/track/5Wf61wso1rDW8lvhX6Ccry"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
         "name": "Maskara (From \"Main Vaapas Aaunga\")",
         "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
       },
@@ -543,30 +567,6 @@
       "duration_ms": 233741,
       "name": "Maskara (From \"Main Vaapas Aaunga\")",
       "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Ratiyaan",
-        "url": "https://open.spotify.com/album/228bM7MDfeoocgddt5o8bl"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Sagnik Kolay",
-          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
-        },
-        {
-          "name": "Soham Majumdar",
-          "url": "https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW"
-        }
-      ],
-      "duration_ms": 175181,
-      "name": "Ratiyaan",
-      "url": "https://open.spotify.com/track/5Wf61wso1rDW8lvhX6Ccry"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -643,6 +643,34 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
+        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 216054,
+      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
         "name": "Saathiya",
         "url": "https://open.spotify.com/album/6BJPcgCN37gDKtPh7gmJ3p"
       },
@@ -695,34 +723,6 @@
       "duration_ms": 229218,
       "name": "Tumhare Liye (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/5giNtZnbVG9GSFJfmL1lF7"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
-        }
-      ],
-      "duration_ms": 216054,
-      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
+        "name": "Sajna Ve",
+        "url": "https://open.spotify.com/album/0ETznxgrTFVo8kvzhCbk5o"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "duration_ms": 153847,
+      "name": "Sajna Ve",
+      "url": "https://open.spotify.com/track/3EMyhrFOjgXdd3n5MOC0Jg"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
         "name": "Toxic (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 171547,
       "name": "Chingariyaan - From \"Toxic\"",
       "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Sajna Ve",
-        "url": "https://open.spotify.com/album/0ETznxgrTFVo8kvzhCbk5o"
-      },
-      "artists": [
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
-        }
-      ],
-      "duration_ms": 153847,
-      "name": "Sajna Ve",
-      "url": "https://open.spotify.com/track/3EMyhrFOjgXdd3n5MOC0Jg"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1273,30 +1273,6 @@
       "url": "https://open.spotify.com/track/3N6ZUiJdoHPAyYDebUobCw"
     },
     {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/3Dq4SEDCl3vFSOqvH7m7ik"
-      },
-      "artists": [
-        {
-          "name": "Bhoomi",
-          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
-        },
-        {
-          "name": "Sparsh Dangwal",
-          "url": "https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS"
-        },
-        {
-          "name": "Mukul Verma",
-          "url": "https://open.spotify.com/artist/7CoPUqZrA6s6x8Iqa4eY6H"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/5RDcDKJPV5YaNNj4C8Id12"
-    },
-    {
       "added_at": "2026-09-30 06:56:57",
       "album": {
         "name": "Red Flag",
@@ -1319,6 +1295,30 @@
       "duration_ms": 165818,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/351dCswaJ118gyxKoIlmbV"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/3Dq4SEDCl3vFSOqvH7m7ik"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "Sparsh Dangwal",
+          "url": "https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS"
+        },
+        {
+          "name": "Mukul Verma",
+          "url": "https://open.spotify.com/artist/7CoPUqZrA6s6x8Iqa4eY6H"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/5RDcDKJPV5YaNNj4C8Id12"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1355,6 +1355,30 @@
       "duration_ms": 160749,
       "name": "Beparwai",
       "url": "https://open.spotify.com/track/4qcuk9fEUEvnm2rCoBJG5K"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
+        "name": "Bhabhi Tabaahi (From \"Nayyi Navelli\")",
+        "url": "https://open.spotify.com/album/1dRe5mOE1TR8bqf0MNyuzr"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "duration_ms": 242117,
+      "name": "Bhabhi Tabaahi - From \"Nayyi Navelli\"",
+      "url": "https://open.spotify.com/track/5eRyoNvRAjHWQM3vcgvgWY"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1419,22 +1443,6 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
-        "name": "PARINDA",
-        "url": "https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI"
-      },
-      "artists": [
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "Malang",
-      "url": "https://open.spotify.com/track/5tKrD1fGCAx02LVqE5HvS0"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
         "name": "Call Me Bae (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL"
       },
@@ -1479,26 +1487,18 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
-        "name": "Bhabhi Tabaahi (From \"Nayyi Navelli\")",
-        "url": "https://open.spotify.com/album/1dRe5mOE1TR8bqf0MNyuzr"
+        "name": "PARINDA",
+        "url": "https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI"
       },
       "artists": [
         {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Vayu",
-          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
         }
       ],
-      "duration_ms": 242117,
-      "name": "Bhabhi Tabaahi - From \"Nayyi Navelli\"",
-      "url": "https://open.spotify.com/track/5eRyoNvRAjHWQM3vcgvgWY"
+      "duration_ms": 147391,
+      "name": "Malang",
+      "url": "https://open.spotify.com/track/5tKrD1fGCAx02LVqE5HvS0"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
+        "name": "Dil Ki Yaari",
+        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "duration_ms": 213187,
+      "name": "Dil Ki Yaari",
+      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
         "name": "Jaane Bhi Do",
         "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
       },
@@ -1567,18 +1583,26 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
-        "name": "Dil Ki Yaari",
-        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+        "name": "Late Night In The Living Room",
+        "url": "https://open.spotify.com/album/0aRozipSX2QwhzssRkEb0B"
       },
       "artists": [
         {
-          "name": "Arunima Wali",
-          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Sanah Moidutty",
+          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
         }
       ],
-      "duration_ms": 213187,
-      "name": "Dil Ki Yaari",
-      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+      "duration_ms": 144118,
+      "name": "Raazi",
+      "url": "https://open.spotify.com/track/0ExOAhgB6vv1ldXym9yI7B"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1603,30 +1627,6 @@
       "duration_ms": 163076,
       "name": "Bewafa - (From\"Ilzaam 2.0\")",
       "url": "https://open.spotify.com/track/7CsyFWn2F7B3WTueMVbjFG"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Late Night In The Living Room",
-        "url": "https://open.spotify.com/album/0aRozipSX2QwhzssRkEb0B"
-      },
-      "artists": [
-        {
-          "name": "Denny",
-          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
-        },
-        {
-          "name": "Sanah Moidutty",
-          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
-        },
-        {
-          "name": "Shloke Lal",
-          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
-        }
-      ],
-      "duration_ms": 144118,
-      "name": "Raazi",
-      "url": "https://open.spotify.com/track/0ExOAhgB6vv1ldXym9yI7B"
     },
     {
       "added_at": "2026-09-29 06:39:45",

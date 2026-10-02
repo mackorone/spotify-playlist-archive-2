@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 831515,
+  "num_followers": 831569,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "The Best Of Bill Withers: Lean On Me",
         "url": "https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
         "name": "Beautiful Brother - The Essential",
         "url": "https://open.spotify.com/album/0oY0JQR52E8uSBBBUr8x8b"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "Barry White Hit Pac - 5 Series",
-        "url": "https://open.spotify.com/album/4JRwDa5DgT6eaU6UoosSEM"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/2dQXFXq40PRZyurt30uNxM"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
         "name": "Jackie Brown - Music From The Mirmax Motion Picture",
         "url": "https://open.spotify.com/album/2RH9TP3pHVoQ9Lih5Dt0tf"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 200933,
       "name": "Didn't I Blow Your Mind This Time",
       "url": "https://open.spotify.com/track/77rb1lTjC0lpUA6ylghYL6"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
+        "name": "Barry White Hit Pac - 5 Series",
+        "url": "https://open.spotify.com/album/4JRwDa5DgT6eaU6UoosSEM"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 242506,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/2dQXFXq40PRZyurt30uNxM"
     },
     {
       "added_at": "2024-07-02 22:47:47",

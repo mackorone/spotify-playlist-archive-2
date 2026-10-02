@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41112,
+  "num_followers": 41128,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACgZ0kteTJP50yCVyK+IEnn",
+  "snapshot_id": "arxRAAAAAACoo5T76C7Ac8I9uH0joXEA",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambition",
-        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "Lotus Flower Bomb (feat. Miguel)",
-      "url": "https://open.spotify.com/track/3MAgQuClHcAV8E9CbeBS6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nine Track Mind (Special Edition)",
         "url": "https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 200106,
       "name": "Marvin Gaye (feat. Wale) - Remix",
       "url": "https://open.spotify.com/track/4LfkoDOt4mhrbo8Ndk37sQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambition",
+        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Lotus Flower Bomb (feat. Miguel)",
+      "url": "https://open.spotify.com/track/3MAgQuClHcAV8E9CbeBS6f"
     },
     {
       "added_at": null,
@@ -434,11 +434,15 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 213954,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
+      "duration_ms": 193631,
+      "name": "Like I (with Andra Day)",
+      "url": "https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv"
     },
     {
       "added_at": null,
@@ -510,15 +514,11 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 193631,
-      "name": "Like I (with Andra Day)",
-      "url": "https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv"
+      "duration_ms": 213954,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Angles (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sex, Love & Pain II",
         "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
       },
@@ -767,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bed of Roses (with Wale)",
-        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 185531,
-      "name": "Bed of Roses (with Wale)",
-      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
+      "duration_ms": 208000,
+      "name": "Angles (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
       "duration_ms": 247293,
       "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
       "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bed of Roses (with Wale)",
+        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185531,
+      "name": "Bed of Roses (with Wale)",
+      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "MY PYT",
-      "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drew Barrymore (feat. Wale)",
         "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 216246,
       "name": "Drew Barrymore (feat. Wale)",
       "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "MY PYT",
+      "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Kelly Price",
-          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
-        }
-      ],
-      "duration_ms": 230527,
-      "name": "Sue Me (feat. Kelly Price)",
-      "url": "https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friday Night Lights",
         "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 286900,
       "name": "You Got It (feat. Wale)",
       "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+        }
+      ],
+      "duration_ms": 230527,
+      "name": "Sue Me (feat. Kelly Price)",
+      "url": "https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "Shotgun (feat. Wale)",
-      "url": "https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Attention Deficit (Explicit Version)",
         "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 204533,
       "name": "Chillin",
       "url": "https://open.spotify.com/track/2tQ4R1rTEFrorrBnQU5O5W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "Shotgun (feat. Wale)",
+      "url": "https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL"
     }
   ],
   "unique_name": "This Is Wale",

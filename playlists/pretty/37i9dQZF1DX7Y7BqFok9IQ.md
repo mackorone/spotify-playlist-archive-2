@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Ghost Hounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,406 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,483 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pale Horse](https://open.spotify.com/track/51pstE9YQnS1LCKqEeycgi) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Justified](https://open.spotify.com/album/1DmItVZqBzfbWwmd7lSXGA) | 3:16 |
-| 2 | [Evil Is a Corporation](https://open.spotify.com/track/1blW8N8bhFYbgurRHB9EnG) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Evil Is a Corporation](https://open.spotify.com/album/1XrnxEdb5uBnq06fw5xX5u) | 2:54 |
+| 2 | [Marionettes](https://open.spotify.com/track/4GoXbQggOnKCl4KLUh1aPv) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Marionettes](https://open.spotify.com/album/6LViE5sdqQnq4ocCJj00v3) | 3:14 |
 | 3 | [Mercy](https://open.spotify.com/track/1httKI7AShBFrUfR3jjKmh) | [Tora Trio](https://open.spotify.com/artist/5tIBZGUDcpDlahR8M8NXEm), [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Mercy](https://open.spotify.com/album/5uc5pTzmP5z9xkcCwOPGsu) | 3:06 |
 | 4 | [Runaway Souls \(feat\. Elles Bailey & Oli Brown\)](https://open.spotify.com/track/3rs3QuaesxPIW6QXv6FxwH) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3), [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Post\-Midnight Behaviour](https://open.spotify.com/album/3DFHjnmgvbjRUQmpwNP59K) | 4:22 |
 | 5 | [Silverlight Blues](https://open.spotify.com/track/2aW52YUu5ZLU0gyzoHIyXU) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [Silverlight Blues](https://open.spotify.com/album/5qKUf2V66u6AftU3p8ni0Z) | 3:56 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [STREET'S QUEEN](https://open.spotify.com/track/71wyFs3xWEHVCw8HBOXndJ) | [The Dream Roll](https://open.spotify.com/artist/0i36lN49PG20OUnWhEwy2x) | [SAVE YOUR SOUL](https://open.spotify.com/album/7wZHrhHK4AIjv3vhB2p4of) | 3:18 |
 | 150 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 
-Snapshot ID: `AAAAAD30EoLlNN+OksgsaXWPf433n9Ay`
+Snapshot ID: `AAAAABew1L8cMF4Zv8HZzwlyYSYOagm8`

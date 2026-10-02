@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,762 songs - 3 day 19 hr 47 min
+1,764 songs - 3 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,7 +773,7 @@
 | [I Owe You](https://open.spotify.com/track/6PO0BfzvLWeZKGsqHxYst0) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [I Owe You](https://open.spotify.com/album/6kZQ5n5NOvsmSG65S7Vhck) | 3:30 | 2026-09-21 |  |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-09-25 | 2021-12-18 |
 | [i saw you parked outside](https://open.spotify.com/track/5oCFmLOutNv59PwBBBeiG0) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i saw you parked outside](https://open.spotify.com/album/5AbxsqRQd7oYGhBoEKqDRp) | 3:34 | 2022-01-07 | 2022-03-19 |
-| [I Saw Your Face](https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Saw Your Face](https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7) | 3:09 | 2026-04-24 |  |
+| [I Saw Your Face](https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Saw Your Face](https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7) | 3:09 | 2026-04-24 | 2026-10-02 |
 | [i still hate us](https://open.spotify.com/track/5qKGh3c0sS7XMJIJreMNmS) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [nostalgic nightmares](https://open.spotify.com/album/0VLJpXLiUj0ICUFRAUQ8Pi) | 3:20 | 2021-12-11 | 2022-03-26 |
 | [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 | 2022-03-25 | 2022-04-02 |
 | [i still replay](https://open.spotify.com/track/17wz1MjhLeOYDU1V4o2YRw) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [i still replay](https://open.spotify.com/album/3Ba89mIB9cJB4JDEGFAsM2) | 2:25 | 2026-05-15 |  |
@@ -937,6 +937,7 @@
 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 | 2022-11-11 | 2024-04-13 |
 | [Lonely Bitch](https://open.spotify.com/track/0sAwbGaFnlxrxFgQfNzGJS) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Lonely Bitch](https://open.spotify.com/album/3WANp0KcO1P5kKWdTcYEM8) | 1:50 | 2021-02-13 | 2021-04-10 |
 | [Lonely Hallucinations](https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Lonely Hallucinations](https://open.spotify.com/album/7Gs6HTYS71coBejdMXPrCI) | 3:14 | 2022-10-07 | 2024-03-02 |
+| [Long Hair](https://open.spotify.com/track/5agXcRAwvIFizdzibHljv8) | [DAPHNE](https://open.spotify.com/artist/6rufuQR0qbkAvaiNPnWBxi) | [Long Hair](https://open.spotify.com/album/63pzmr8NmR7HexHmvyhFdr) | 2:41 | 2026-10-02 |  |
 | [Long Way Down](https://open.spotify.com/track/0Pj9URDzlYnU5tGRQuGwCm) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Long Way Down](https://open.spotify.com/album/32MExZHjMtIVKpZHl2SXAA) | 3:16 | 2026-01-30 | 2026-02-14 |
 | [Look Back](https://open.spotify.com/track/6uYEyqbj3EK3LQ0FaCGkYZ) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [Look Back](https://open.spotify.com/album/4GgEUOGDAoPk5orFQZUDn3) | 3:06 | 2026-07-31 | 2026-09-19 |
 | [Losers](https://open.spotify.com/track/1eefRCECiFkeCI7QgcadsC) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Losers](https://open.spotify.com/album/07j0qkF5exWt26iXfRcnNf) | 2:57 | 2021-11-27 | 2022-04-23 |
@@ -1418,6 +1419,7 @@
 | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/track/2KX7ZC9JL8BAeFnCrcVRHE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/album/0I62XvuIfBKTRWRNrlbSxJ) | 2:20 | 2020-10-29\* | 2020-11-14 |
 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-14 | 2024-03-30 |
 | [steer](https://open.spotify.com/track/4H6koInIFUq2k2qaSFPuWG) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [steer](https://open.spotify.com/album/6eV82gYdpWpoQVbBJjqTIK) | 2:58 | 2026-02-27 | 2026-03-14 |
+| [step one](https://open.spotify.com/track/6ixO5cBS6SnYqjAdurVyjr) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb), [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [babysteps](https://open.spotify.com/album/0OG2X6dxPxfZn1aLV7f4h3) | 2:40 | 2026-10-02 |  |
 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-05-31 | 2024-06-22 |
 | [still here though](https://open.spotify.com/track/3F0WJ8nNpQ9IrgQmExH3gB) | [@melissageurts](https://open.spotify.com/artist/2kzYxRlizKl4XKk2piAsWA) | [maintenance mode](https://open.spotify.com/album/63lFnlzOMMtBczWf8ZVWvU) | 4:25 | 2026-03-27 | 2026-03-31 |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 | 2025-03-29 |

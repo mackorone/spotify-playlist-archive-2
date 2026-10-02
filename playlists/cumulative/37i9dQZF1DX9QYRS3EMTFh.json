@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Kima",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Le J\u00e8m'ss",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -434,6 +434,24 @@
       "duration_ms": 128024,
       "name": "Action Gyal",
       "url": "https://open.spotify.com/track/0KvAJWLqiKwssyc3prQW33"
+    },
+    {
+      "album": {
+        "name": "Action Man",
+        "url": "https://open.spotify.com/album/1hsGlezaafJ1VXLbim0lLF"
+      },
+      "artists": [
+        {
+          "name": "Tiwony",
+          "url": "https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "Action Man",
+      "url": "https://open.spotify.com/track/4n4eZRLJ6MF8jE3Xu3yn3g"
     },
     {
       "album": {
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 159303,
       "name": "BAD GYAL",
       "url": "https://open.spotify.com/track/66D403DAwk6vRgHIv3WXCJ"
@@ -3249,6 +3267,36 @@
     },
     {
       "album": {
+        "name": "Boom Body (feat. Akon & Aidonia) [Shaz Remix]",
+        "url": "https://open.spotify.com/album/1cbcQuTr4lgZtBu1lhd4J8"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Shaz",
+          "url": "https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161800,
+      "name": "Boom Body (feat. Akon & Aidonia) - Shaz Remix",
+      "url": "https://open.spotify.com/track/56WqzVe7x1bY3QTYZ1oMqh"
+    },
+    {
+      "album": {
         "name": "Boombastic",
         "url": "https://open.spotify.com/album/3xuMTE4mIKXdwlbpS6BioK"
       },
@@ -3500,7 +3548,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 114014,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/13CiTQvNCngWGsL1SrDFjZ"
@@ -4108,7 +4156,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 132200,
       "name": "BWA BAND\u00c9",
       "url": "https://open.spotify.com/track/6u6Z7VByc5hYWxEaCStK10"
@@ -4160,6 +4208,28 @@
       "duration_ms": 154058,
       "name": "B\u00e9tiz nonm",
       "url": "https://open.spotify.com/track/6hLgZeKxgeQf4KxOQKCgnh"
+    },
+    {
+      "album": {
+        "name": "B\u00eate et m\u00e9chant",
+        "url": "https://open.spotify.com/album/6DIGyM5J1SFTmJr5aNtn7F"
+      },
+      "artists": [
+        {
+          "name": "Dj Harmelo",
+          "url": "https://open.spotify.com/artist/4wKLOPNb8KJSQyREzT093C"
+        },
+        {
+          "name": "T-Jy",
+          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "B\u00eate et m\u00e9chant",
+      "url": "https://open.spotify.com/track/272TYAbiKBSO0UxHtym1C8"
     },
     {
       "album": {
@@ -5549,6 +5619,32 @@
     },
     {
       "album": {
+        "name": "Cuenta (feat. Meryl & Shay)",
+        "url": "https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Cuenta (feat. Meryl & Shay)",
+      "url": "https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr"
+    },
+    {
+      "album": {
         "name": "Curious",
         "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
       },
@@ -6390,7 +6486,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 124800,
       "name": "Dose Quotidienne",
       "url": "https://open.spotify.com/track/1QgzbkGyB2ByMIBWQFHiFa"
@@ -12024,7 +12120,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 128484,
       "name": "LI L\u00c9 PIQU\u00c9E",
       "url": "https://open.spotify.com/track/3DKjy6hAG3w1Y50881mCz7"
@@ -12706,6 +12802,24 @@
       "duration_ms": 160981,
       "name": "MakoMakrel",
       "url": "https://open.spotify.com/track/5ukgajR0NEVN1dZeyyQED4"
+    },
+    {
+      "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/4pzoPkl1Xu5WyRVM8KGdNL"
+      },
+      "artists": [
+        {
+          "name": "Naamix",
+          "url": "https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157673,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/3G2lrpw60WANskMtvMBHkf"
     },
     {
       "album": {
@@ -14739,6 +14853,24 @@
     },
     {
       "album": {
+        "name": "Nou Sav",
+        "url": "https://open.spotify.com/album/2HcKUdSFJmBbKCLU3Jan28"
+      },
+      "artists": [
+        {
+          "name": "cecinelle",
+          "url": "https://open.spotify.com/artist/2qU3ETtkQqxFy6JZyMucBh"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Nou Sav",
+      "url": "https://open.spotify.com/track/1OYgfIguCaVJfDMR7MUR48"
+    },
+    {
+      "album": {
         "name": "Noumonss",
         "url": "https://open.spotify.com/album/3ysP4qS9NNIWdGnzqSfnUJ"
       },
@@ -15004,6 +15136,28 @@
       "duration_ms": 146947,
       "name": "On Di Road",
       "url": "https://open.spotify.com/track/2dspNoeuWvdwy5mgGLjZfM"
+    },
+    {
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/1ELCS4YXEhBNBWwmtzcJHO"
+      },
+      "artists": [
+        {
+          "name": "Dcamp",
+          "url": "https://open.spotify.com/artist/0EBLKsDlJJByOW4vjFJ9bw"
+        },
+        {
+          "name": "Lewismelo",
+          "url": "https://open.spotify.com/artist/256KfGVTWcYVULdfl97En2"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/1KrMdTVNMybjSGwNbqEUQU"
     },
     {
       "album": {
@@ -16090,7 +16244,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 146400,
       "name": "Peps",
       "url": "https://open.spotify.com/track/4EQMQbPgA3XL4QSYkCzrBL"
@@ -16142,6 +16296,28 @@
       "duration_ms": 188571,
       "name": "Phenomenal",
       "url": "https://open.spotify.com/track/4dX9e0P0DckAkjgkaORbqy"
+    },
+    {
+      "album": {
+        "name": "Pic Nic",
+        "url": "https://open.spotify.com/album/7qTCW6UR4qQOXw5taoXt72"
+      },
+      "artists": [
+        {
+          "name": "La Folie",
+          "url": "https://open.spotify.com/artist/1a0V1vMdLVOZguN8iSJHoc"
+        },
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Pic Nic",
+      "url": "https://open.spotify.com/track/3U0raa0SkGYDl7C3uLIGJw"
     },
     {
       "album": {
@@ -16358,6 +16534,24 @@
       "duration_ms": 153500,
       "name": "Plis",
       "url": "https://open.spotify.com/track/4w9LXpMpeLsLnmxPjYDdrP"
+    },
+    {
+      "album": {
+        "name": "PLOK",
+        "url": "https://open.spotify.com/album/0ycUGVnwT7XMEOJGOfn2S4"
+      },
+      "artists": [
+        {
+          "name": "Doctor Ly",
+          "url": "https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112856,
+      "name": "PLOK",
+      "url": "https://open.spotify.com/track/5UIVZ2jj4u3Azlq93Vl3Hx"
     },
     {
       "album": {
@@ -19788,7 +19982,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 151500,
       "name": "S\u00e9 Wou Ki P\u00e9y\u00e9",
       "url": "https://open.spotify.com/track/3KWMagkCTu3OZKR5Z6W5Uz"
@@ -20562,7 +20756,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 152000,
       "name": "TIGHTNESS",
       "url": "https://open.spotify.com/track/1Mc3WfY3EHlYbHAvBwWOph"
@@ -22964,7 +23158,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 141000,
       "name": "YOU AND ME",
       "url": "https://open.spotify.com/track/6GXM1K6UfE4UNJHfpDxn73"

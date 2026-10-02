@@ -10651,6 +10651,24 @@
     },
     {
       "album": {
+        "name": "PEACH BLACK",
+        "url": "https://open.spotify.com/album/1yAzFM7fpUV6DgKvWsTn4s"
+      },
+      "artists": [
+        {
+          "name": "SWALLOW",
+          "url": "https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242519,
+      "name": "PEACH BLACK",
+      "url": "https://open.spotify.com/track/1FOf4EDHkeoAIARofhhjYf"
+    },
+    {
+      "album": {
         "name": "peanut butters II",
         "url": "https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p"
       },
@@ -28856,7 +28874,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 280315,
       "name": "\u5c0f\u8aac\u5bb6",
       "url": "https://open.spotify.com/track/4a5uyzbI0Jw6n1nEYvEhmD"

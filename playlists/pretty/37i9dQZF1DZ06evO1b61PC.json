@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADnpuje2VWXLN3NUZFl1KI4",
+  "snapshot_id": "arxRAAAAAABk/i5fnl0DnmNiJ30Ank7O",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/4xYP4WbxY4JViO6OLYjCbK"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "SAYAK DAS",
-          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 258546,
       "name": "Lose My Mind (feat. Mr Gabriel)",
       "url": "https://open.spotify.com/track/7uPjBx5Dx46WXbSvnfkpbH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/4xYP4WbxY4JViO6OLYjCbK"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "SAYAK DAS",
+          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9"
     },
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "JMR",
-          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Gravity (feat. JMR)",
-      "url": "https://open.spotify.com/track/4a9en6x7eb1YnRPNruBG8H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 234986,
       "name": "Better Apart (feat. Dresage)",
       "url": "https://open.spotify.com/track/1l6EKqIVc3dwMUyWByXh9g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "JMR",
+          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Gravity (feat. JMR)",
+      "url": "https://open.spotify.com/track/4a9en6x7eb1YnRPNruBG8H"
     },
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/4q0OWYe7JIElF8lPaARHki"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 155200,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/4q0OWYe7JIElF8lPaARHki"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Still Sleeping",
+      "url": "https://open.spotify.com/track/6slUs93MR48yfKjMlKz0UC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "trilogy remixes",
         "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 202666,
       "name": "blue - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Still Sleeping",
-      "url": "https://open.spotify.com/track/6slUs93MR48yfKjMlKz0UC"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "It All Started With A Feeling",
+      "url": "https://open.spotify.com/track/4kcSs54jWjtJW5jRSfUz2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parachute Remixes",
         "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 249360,
       "name": "Drivin Thru the Night - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "It All Started With A Feeling",
-      "url": "https://open.spotify.com/track/4kcSs54jWjtJW5jRSfUz2q"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "This Song Reminds Me Of You",
+      "url": "https://open.spotify.com/track/0pBUqvtpmhEqFxuhQLur8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 186000,
       "name": "Want It All (feat. Evalyn)",
       "url": "https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "This Song Reminds Me Of You",
-      "url": "https://open.spotify.com/track/0pBUqvtpmhEqFxuhQLur8P"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
-        "url": "https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        }
-      ],
-      "duration_ms": 218581,
-      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] - Demo",
-      "url": "https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5"
       },
@@ -647,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tennis Skirt (feat. Ella Boh) [Demo]",
-        "url": "https://open.spotify.com/album/32uCBCbvYtW2kqSQbaoj4C"
+        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
+        "url": "https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt"
       },
       "artists": [
         {
@@ -656,33 +636,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
         }
       ],
-      "duration_ms": 186363,
-      "name": "Tennis Skirt (feat. Ella Boh) (Demo)",
-      "url": "https://open.spotify.com/track/6Y77YLQpPg7NOY8f9UlnCx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Water Sign (feat. Aluna)",
-      "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
+      "duration_ms": 218581,
+      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] - Demo",
+      "url": "https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU"
     },
     {
       "added_at": null,
@@ -699,6 +659,42 @@
       "duration_ms": 162171,
       "name": "Hikikomori - Demo",
       "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tennis Skirt (feat. Ella Boh) [Demo]",
+        "url": "https://open.spotify.com/album/32uCBCbvYtW2kqSQbaoj4C"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 186363,
+      "name": "Tennis Skirt (feat. Ella Boh) (Demo)",
+      "url": "https://open.spotify.com/track/6Y77YLQpPg7NOY8f9UlnCx"
     },
     {
       "added_at": null,
@@ -750,11 +746,15 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Heaven Is Calling",
-      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
     },
     {
       "added_at": null,

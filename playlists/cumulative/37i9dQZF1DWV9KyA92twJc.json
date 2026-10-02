@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/4O2Zwv7XfNCignxfNBuE9Y"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 221011,
       "name": "Alien",
       "url": "https://open.spotify.com/track/0lS7FUq7QzncifnB4me2il"
@@ -220,6 +238,32 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
       "album": {
@@ -1098,7 +1142,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -1613,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "Pay For Me (\u05e9\u05dc\u05dd \u05e2\u05dc\u05d9\u05d9)",
         "url": "https://open.spotify.com/album/0dlqp2x3x8Y2UoqLJ8Pka9"
       },
@@ -1976,6 +2038,24 @@
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
+    },
+    {
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/4WCujpaomv4OdxdCYTomKe"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153960,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/2p3FFRInA7EMjN9lMoTREv"
     },
     {
       "album": {
@@ -3120,7 +3200,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 147296,
       "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
       "url": "https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd"
@@ -3258,7 +3338,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 169322,
       "name": "\u05d3\u05d0\u05de",
       "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
@@ -3844,7 +3924,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 185653,
       "name": "\u05dc\u05de\u05d9 \u05d0\u05ea \u05de\u05ea\u05e7\u05e9\u05e8\u05ea",
       "url": "https://open.spotify.com/track/7owAy4b9jUAiNDNi0bJ9rW"
@@ -3920,6 +4000,32 @@
       "duration_ms": 178339,
       "name": "\u05de\u05d0\u05d7\u05dc \u05dc\u05da \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d3\u05d0\u05dd + \u05d4\u05de\u05d1\u05d8 \u05d1\u05e2\u05d9\u05e0\u05d9\u05da",
+        "url": "https://open.spotify.com/album/3HuvTNjCnqguGso4x114Cv"
+      },
+      "artists": [
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        },
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        },
+        {
+          "name": "\u05d2\u05dc\u05d2\u05dc\u05e6",
+          "url": "https://open.spotify.com/artist/4H2Iqzn4PuLynSkfhIoAqJ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255500,
+      "name": "\u05de\u05d3\u05d0\u05dd + \u05d4\u05de\u05d1\u05d8 \u05d1\u05e2\u05d9\u05e0\u05d9\u05da",
+      "url": "https://open.spotify.com/track/1GsaNKPtUq3Jr9QVkY9fFW"
     },
     {
       "album": {

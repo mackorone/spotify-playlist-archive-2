@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 25173,
+  "num_followers": 25174,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAAeiqVzuJaOoPn8K1bxYAHp",
+  "snapshot_id": "arxRAAAAAAChd0TC0JRWcEWpNLdYtmEr",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 336644,
-      "name": "O Caminho do Milagre",
-      "url": "https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 336644,
+      "name": "O Caminho do Milagre",
+      "url": "https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX"
     },
     {
       "added_at": null,
@@ -635,6 +635,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rastros de Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Jesus, A Rocha Eterna - Ao Vivo",
+      "url": "https://open.spotify.com/track/1h01qVdXVFd4SZ95mcBD4v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cantarei para Sempre",
         "url": "https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9"
       },
@@ -667,46 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastros de Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
-      },
-      "artists": [
-        {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Alda C\u00e9lia",
-          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Jesus, A Rocha Eterna - Ao Vivo",
-      "url": "https://open.spotify.com/track/1h01qVdXVFd4SZ95mcBD4v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4bjlIPhOTlbPcpGzrQMOzb"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 369853,
-      "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6B3Kp4NeDUs5CHuzUNw7Nh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imenso Amor",
         "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 203235,
       "name": "Imenso Amor",
       "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4bjlIPhOTlbPcpGzrQMOzb"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 369853,
+      "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6B3Kp4NeDUs5CHuzUNw7Nh"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Orar e Adorar 4 - 24h por Dia",
+        "url": "https://open.spotify.com/album/6Lb5rw6PRIF5TQc9JW4klj"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "24 Horas por Dia",
+      "url": "https://open.spotify.com/track/0q2IaFuTugawJaDdSXYtGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 391586,
       "name": "Orar e Adorar (feat. David Quinlan)",
       "url": "https://open.spotify.com/track/2AV118c3SJ5z2vLQYhYe0X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Orar e Adorar 4 - 24h por Dia",
-        "url": "https://open.spotify.com/album/6Lb5rw6PRIF5TQc9JW4klj"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "24 Horas por Dia",
-      "url": "https://open.spotify.com/track/0q2IaFuTugawJaDdSXYtGz"
     },
     {
       "added_at": null,
@@ -847,26 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastros de Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
+        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
       },
       "artists": [
         {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Christie Trist\u00e3o",
-          "url": "https://open.spotify.com/artist/1UgwkRPC9yEFAtd6bKme5P"
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
         },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 247493,
-      "name": "Infinitamente Mais - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Ma1ydULyceJVy4QrLFCFT"
+      "duration_ms": 200176,
+      "name": "Maior Amor",
+      "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
     },
     {
       "added_at": null,
@@ -887,22 +883,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
+        "name": "Rastros de Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Koinonya de Louvor",
-          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Christie Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/1UgwkRPC9yEFAtd6bKme5P"
         },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 200176,
-      "name": "Maior Amor",
-      "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
+      "duration_ms": 247493,
+      "name": "Infinitamente Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Ma1ydULyceJVy4QrLFCFT"
     },
     {
       "added_at": null,

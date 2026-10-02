@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 1003539,
+  "num_followers": 1003625,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABM5scdYEJLWzqnyIAAeMyz",
+  "snapshot_id": "arxRAAAAAADZRmCZ6TZMw04/jcL64bWj",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 243522,
-      "name": "Stoned",
-      "url": "https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA"
+      "duration_ms": 195453,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Space",
-        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 195453,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
+      "duration_ms": 243522,
+      "name": "Stoned",
+      "url": "https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watching Movies with the Sound Off",
-        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 256423,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/3jAvvLf01asKBOSVrIFkmq"
+      "duration_ms": 343213,
+      "name": "ROS",
+      "url": "https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 343213,
-      "name": "ROS",
-      "url": "https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl"
+      "duration_ms": 256423,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/3jAvvLf01asKBOSVrIFkmq"
     },
     {
       "added_at": null,

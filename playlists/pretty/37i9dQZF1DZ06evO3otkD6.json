@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 96120,
+  "num_followers": 96137,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAA6bhU3EXy+L4f48/ZPdVsl",
+  "snapshot_id": "arxRAAAAAAD6lPBlVxT1BmH7qdXl/bPF",
   "tracks": [
     {
       "added_at": null,
@@ -251,74 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LAS 12",
-        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "LAS 12",
-      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiras: La Serie (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Regina Bland\u00f3n",
-          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
-        }
-      ],
-      "duration_ms": 168140,
-      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
-      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 204414,
-      "name": "La Ni\u00f1a de la Escuela",
-      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resistir\u00e9",
         "url": "https://open.spotify.com/album/5xl9aTPziZye5Jy5fGsyPh"
       },
@@ -411,6 +343,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 168140,
+      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
+      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The King Is Back",
         "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
       },
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 204146,
       "name": "Egoista",
       "url": "https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 225197,
-      "name": "Heterocrom\u00eda",
-      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 195866,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 225197,
+      "name": "Heterocrom\u00eda",
+      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
     },
     {
       "added_at": null,

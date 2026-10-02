@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "solo le tracce con l'aura migliore \ud83d\udc7e centomilacarie in cover",
+  "description": "solo le tracce con l'aura migliore \ud83d\udc7e Sangiovanni in cover",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 151750,
       "name": "100MILA COLPI",
       "url": "https://open.spotify.com/track/5pgx6z2KwNwUUAUMGcRHYI"
+    },
+    {
+      "album": {
+        "name": "Tutti Tornano A Casa",
+        "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137539,
+      "name": "10chiamate",
+      "url": "https://open.spotify.com/track/6HY3yyM2xXo9BKZ6suKSCm"
     },
     {
       "album": {
@@ -582,6 +600,32 @@
       "duration_ms": 176526,
       "name": "A parte me",
       "url": "https://open.spotify.com/track/239cYDy7zwE2yFqiswOtZL"
+    },
+    {
+      "album": {
+        "name": "A PEZZI ancora una volta... (feat. Asteria & CARO WOW)",
+        "url": "https://open.spotify.com/album/2ib5wohSfnlBioWQVmLp51"
+      },
+      "artists": [
+        {
+          "name": "TALEA",
+          "url": "https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00"
+        },
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        },
+        {
+          "name": "CARO WOW",
+          "url": "https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147777,
+      "name": "A PEZZI ancora una volta... (feat. Asteria & CARO WOW)",
+      "url": "https://open.spotify.com/track/0HXEoh5ya0Kx3gp5OKXzKx"
     },
     {
       "album": {
@@ -1088,7 +1132,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 171562,
       "name": "amore mio",
       "url": "https://open.spotify.com/track/2y7qrS0vaNmSdVs88e7C1u"
@@ -1406,6 +1450,24 @@
       "duration_ms": 147619,
       "name": "Anni 70",
       "url": "https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP"
+    },
+    {
+      "album": {
+        "name": "Anno bisestile",
+        "url": "https://open.spotify.com/album/5hRHu0nMriMUoWdBAn3TUE"
+      },
+      "artists": [
+        {
+          "name": "Wako",
+          "url": "https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Anno bisestile",
+      "url": "https://open.spotify.com/track/0w6ZOTuFt1h7nbEe8coKWw"
     },
     {
       "album": {
@@ -2658,7 +2720,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178250,
       "name": "Biondo Tevere",
       "url": "https://open.spotify.com/track/3bpxDCWG2CXcwdpaCUsTty"
@@ -3768,6 +3830,28 @@
       "duration_ms": 212571,
       "name": "CASA MIA (feat. 22simba, prima stanza a destra)",
       "url": "https://open.spotify.com/track/1IhVRg36kRu39hPqnRpboy"
+    },
+    {
+      "album": {
+        "name": "Tutti Tornano A Casa",
+        "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150796,
+      "name": "Casa Mia / Casa Tua (con Tredici Pietro)",
+      "url": "https://open.spotify.com/track/2J7LXXv5CfAZpDApmyJLfz"
     },
     {
       "album": {
@@ -5216,7 +5300,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 157487,
       "name": "Crash",
       "url": "https://open.spotify.com/track/1fcGsQBUFJFvAroN9RlKdj"
@@ -10634,7 +10718,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 166363,
       "name": "La testa nel pallone",
       "url": "https://open.spotify.com/track/2JO8MuAETPjWOKEqfIhXCY"
@@ -11850,7 +11934,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 191875,
       "name": "Mai pi\u00f9",
       "url": "https://open.spotify.com/track/0FFbTg6unqjcuWAxamIorB"
@@ -15123,6 +15207,28 @@
     },
     {
       "album": {
+        "name": "Oggetti Smarriti (con eroCaddeo)",
+        "url": "https://open.spotify.com/album/5o6a2sBiLfBwUwux0xgkSL"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Salvetti",
+          "url": "https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7"
+        },
+        {
+          "name": "eroCaddeo",
+          "url": "https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226105,
+      "name": "Oggetti Smarriti (con eroCaddeo)",
+      "url": "https://open.spotify.com/track/6yYXrXSFMYJumbSrf2j5wr"
+    },
+    {
+      "album": {
         "name": "Ogni volta",
         "url": "https://open.spotify.com/album/7khkXwVwvPNGIhEONSdMjh"
       },
@@ -16656,7 +16762,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 151555,
       "name": "PIOVE SULLA PIOGGIA",
       "url": "https://open.spotify.com/track/7EHwgVlTqmqq3edZMXVW9a"
@@ -18162,6 +18268,24 @@
       "duration_ms": 237762,
       "name": "Risorgere",
       "url": "https://open.spotify.com/track/1437F3lIKt7rc1cSALqz6Q"
+    },
+    {
+      "album": {
+        "name": "Tutti Tornano A Casa",
+        "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195301,
+      "name": "Rivoluzione",
+      "url": "https://open.spotify.com/track/4ylLAKVwK0b9QJqJT8QU0n"
     },
     {
       "album": {
@@ -20604,7 +20728,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 114782,
       "name": "STRIPPER",
       "url": "https://open.spotify.com/track/6WwWznct55Qb36IN8gnk5y"
@@ -24024,6 +24148,24 @@
       "duration_ms": 128627,
       "name": "\u00c0 La Folie",
       "url": "https://open.spotify.com/track/1O05kineNAOAR8ldcmGy1U"
+    },
+    {
+      "album": {
+        "name": "\u00c8 asciuto 'o sole",
+        "url": "https://open.spotify.com/album/6y3isAueice56DMpHWPBOI"
+      },
+      "artists": [
+        {
+          "name": "Madrid",
+          "url": "https://open.spotify.com/artist/1NsjGgELroAZ4N5DzbMpa0"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134687,
+      "name": "\u00c8 asciuto 'o sole",
+      "url": "https://open.spotify.com/track/4MjZvYctdbXIAXksyPzm7P"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 37831,
+  "num_followers": 37839,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACeTjEAqO5MrW2HMhQuQdMk",
+  "snapshot_id": "arxRAAAAAAD4PiwtI/Cc6CY6fX/w1Vck",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 471573,
-      "name": "Your Spirit",
-      "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Your Power",
         "url": "https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 222169,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 471573,
+      "name": "Your Spirit",
+      "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
     },
     {
       "added_at": null,
@@ -431,38 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Final Say",
-        "url": "https://open.spotify.com/album/2RgeQaXAE1ZcEP3XmlAjm3"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 401697,
-      "name": "Final Say",
-      "url": "https://open.spotify.com/track/3aWTJQ27xr2EID0kXzXu7g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Happy - Live",
-      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Water (Church Sessions)",
         "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
       },
@@ -487,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Happy - Live",
+      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 85568,
       "name": "Agnus Dei - Live",
       "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Final Say",
+        "url": "https://open.spotify.com/album/2RgeQaXAE1ZcEP3XmlAjm3"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 401697,
+      "name": "Final Say",
+      "url": "https://open.spotify.com/track/3aWTJQ27xr2EID0kXzXu7g"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
-        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "The Blood Hymns Medley - Live",
-      "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 262124,
       "name": "Burdens Down - Live",
       "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "The Blood Hymns Medley - Live",
+      "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chandler Moore: Live in Los Angeles",
+        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 552401,
+      "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0vtGFiSSmdHEnAb2faXyzC"
       },
@@ -723,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandler Moore: Live in Los Angeles",
-        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 552401,
-      "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart. Passion. Pursuit. (Deluxe)",
         "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 333247,
       "name": "I Will Follow",
       "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 396198,
+      "name": "Never Gave Up - Live",
+      "url": "https://open.spotify.com/track/68JQwcmadxmbL9F7EaQ7dq"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 556673,
       "name": "More Than Able (feat. Tasha Cobbs Leonard , Chandler Moore, Naomi Raine)",
       "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 396198,
-      "name": "Never Gave Up - Live",
-      "url": "https://open.spotify.com/track/68JQwcmadxmbL9F7EaQ7dq"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Already Good (Tasha Slide)",
+        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 222082,
+      "name": "Already Good (Tasha Slide)",
+      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Watch The Sun (Deluxe)",
         "url": "https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Already Good (Tasha Slide)",
-        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 222082,
-      "name": "Already Good (Tasha Slide)",
-      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tasha Unscripted",
         "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
       },
@@ -902,11 +902,15 @@
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 130272,
-      "name": "The Grace Talk",
-      "url": "https://open.spotify.com/track/2hJl7eUoDtCyiOpNpDGqY4"
+      "duration_ms": 229212,
+      "name": "An Unscripted Moment",
+      "url": "https://open.spotify.com/track/1jKu0tODuzxkz6FcCcltFn"
     },
     {
       "added_at": null,

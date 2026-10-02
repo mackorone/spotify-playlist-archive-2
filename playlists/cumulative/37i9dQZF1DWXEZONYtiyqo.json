@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Nicole Cherry, Grasu XXL",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Mark Stam",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Azi pot s\u0103 mor fericit",
+        "url": "https://open.spotify.com/album/3yVTcsEBRQjleDNTdBIjYV"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228428,
+      "name": "Azi pot s\u0103 mor fericit",
+      "url": "https://open.spotify.com/track/31jwab0eL5MvfgbjtKZrOY"
+    },
+    {
+      "album": {
         "name": "Mixed Feelings",
         "url": "https://open.spotify.com/album/6P21kzrMNOGSULxDw47nXD"
       },
@@ -1710,6 +1728,28 @@
       "duration_ms": 166704,
       "name": "C'est la vie!",
       "url": "https://open.spotify.com/track/1refMgTLrsKcnxRAcBaSQs"
+    },
+    {
+      "album": {
+        "name": "Ca Orice Femeie",
+        "url": "https://open.spotify.com/album/7fKSURIU8Rr4RIfwlLxFOe"
+      },
+      "artists": [
+        {
+          "name": "ADDA",
+          "url": "https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185925,
+      "name": "Ca Orice Femeie",
+      "url": "https://open.spotify.com/track/31weQKR9JQtlo60AMAXwsX"
     },
     {
       "album": {
@@ -2741,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "Dante",
+        "url": "https://open.spotify.com/album/4ZE9cVo4rNKY9rbh6SD4kc"
+      },
+      "artists": [
+        {
+          "name": "Mark Stam",
+          "url": "https://open.spotify.com/artist/2TfjCSwYNNsUvw3uhjK9mh"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162696,
+      "name": "Dante",
+      "url": "https://open.spotify.com/track/4UX0N7H19R1f9MO22P6ijx"
+    },
+    {
+      "album": {
         "name": "Dau cu soare",
         "url": "https://open.spotify.com/album/45MyoSfAo6VDYlZZL7cleP"
       },
@@ -3224,7 +3282,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 185739,
       "name": "Doar noi doi si \u00eenc\u0103 ceva",
       "url": "https://open.spotify.com/track/6lXs2nT2Uzlz2Ll95fe1DV"
@@ -3540,6 +3598,24 @@
       "duration_ms": 161454,
       "name": "D\u0103-mi tu ca s\u0103 nu fur",
       "url": "https://open.spotify.com/track/0aItRgSjSdv44fUvZOqLYI"
+    },
+    {
+      "album": {
+        "name": "D\u0103-mi, Doamne",
+        "url": "https://open.spotify.com/album/12JGM9IULyUP7xduxyTNkt"
+      },
+      "artists": [
+        {
+          "name": "Florian Rus",
+          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "D\u0103-mi, Doamne",
+      "url": "https://open.spotify.com/track/3SLgzGLDnVzzbbNXGhf7Pc"
     },
     {
       "album": {
@@ -5108,7 +5184,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 189616,
       "name": "Infinit",
       "url": "https://open.spotify.com/track/6z5mMejqjyo0FSx4SAbi77"
@@ -5398,7 +5474,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 144390,
       "name": "Jojolina",
       "url": "https://open.spotify.com/track/72M5ppJZuR2LzgmkG4CjiP"
@@ -8318,7 +8394,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 132416,
       "name": "Popcorn Song",
       "url": "https://open.spotify.com/track/0mVEc8E1KcRSi1spcs88Dy"
@@ -10143,6 +10219,24 @@
     },
     {
       "album": {
+        "name": "Trenul",
+        "url": "https://open.spotify.com/album/7oRBj3hViUmgyV0EvNTO5R"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Trenul",
+      "url": "https://open.spotify.com/track/0tkYAGQjYLqTnZSF17X7qy"
+    },
+    {
+      "album": {
         "name": "Antifragil",
         "url": "https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC"
       },
@@ -11076,7 +11170,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 167633,
       "name": "\u00censeamn\u0103 ceva",
       "url": "https://open.spotify.com/track/2ZvGDDxINSRukWBrjX3waV"

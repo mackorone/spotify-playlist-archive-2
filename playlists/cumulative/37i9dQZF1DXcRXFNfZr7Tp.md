@@ -2,9 +2,9 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music\. Cover: KATSEYE
+> Current favorites and exciting new music\. Cover: Olivia Rodrigo
 
-1,447 songs - 3 day 3 hr 11 min
+1,448 songs - 3 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1007,6 +1007,7 @@
 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 | 2025-01-10 | 2026-01-15 |
 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-09-22 | 2024-06-22 |
 | [Patience \(feat\. YUNGBLUD & Polo G\)](https://open.spotify.com/track/5J5CpT6bgE6KYKk23jgp9W) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Patience \(feat\. YUNGBLUD & Polo G\)](https://open.spotify.com/album/5Pw9JWUXrroWXylJklvlVc) | 3:01 | 2021-03-14 | 2021-04-15 |
+| [Patient Zero](https://open.spotify.com/track/49JeKZqejPtqJKpK7x9Ew4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Patient Zero](https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L) | 3:45 | 2026-10-02 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-19 | 2021-08-07 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-19 | 2025-01-25 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-06 | 2023-08-19 |

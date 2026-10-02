@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Chelsea Dinorath",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 134279,
       "name": "0 a 100",
       "url": "https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p"
@@ -8317,6 +8317,24 @@
     },
     {
       "album": {
+        "name": "Nha Tudo",
+        "url": "https://open.spotify.com/album/0WefWIdw92yOqUeobkfvUb"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152139,
+      "name": "Nha Tudo",
+      "url": "https://open.spotify.com/track/2A0Rr37GBzGDgNER7YPW7G"
+    },
+    {
+      "album": {
         "name": "Nha Vida",
         "url": "https://open.spotify.com/album/7l83iXj3DuIF126R7pdWUq"
       },
@@ -10118,7 +10136,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194371,
       "name": "Por Favor",
       "url": "https://open.spotify.com/track/32gkOKdEsBNpWNlHWOZrko"
@@ -12196,6 +12214,28 @@
       "duration_ms": 229354,
       "name": "Tayanna",
       "url": "https://open.spotify.com/track/5koelUYXOtUwFvRvuaNu2n"
+    },
+    {
+      "album": {
+        "name": "Te Amar \u00c9 Bom",
+        "url": "https://open.spotify.com/album/3FUUwC9RIMC13RIijJtr6v"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Anair Joelma",
+          "url": "https://open.spotify.com/artist/3moUOjaG93OQ5mGl3JLJZL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Te Amar \u00c9 Bom",
+      "url": "https://open.spotify.com/track/1Ux9VxTb9105nbrXRFnH2X"
     },
     {
       "album": {

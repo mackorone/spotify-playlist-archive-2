@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo, Ad
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,996 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,002 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 37 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 |
 | 38 | [Ondas Do Mar](https://open.spotify.com/track/1qtVkgHcV2xFsi5kWoiCy8) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Ondas Do Mar](https://open.spotify.com/album/0duqET8wyzZEZSMNua9qVe) | 3:44 |
 | 39 | [Só Dá](https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:21 |
-| 40 | [SWEET LIKE SUGAR](https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [SWEET LIKE SUGAR](https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ) | 2:50 |
+| 40 | [CABARET](https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 2:15 |
 | 41 | [Calma](https://open.spotify.com/track/2tISXxwodSLlthdraiuHxW) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Calma](https://open.spotify.com/album/76YoWFZEncJeVpaVZ6FVmE) | 2:57 |
-| 42 | [CABARET](https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 2:15 |
+| 42 | [SWEET LIKE SUGAR](https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [SWEET LIKE SUGAR](https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ) | 2:50 |
 | 43 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 44 | [Como Seria? / Amor Sóbrio](https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [ALTA COSTURA](https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ) | 3:03 |
 | 45 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [Talvez](https://open.spotify.com/track/7HNgDJPrtkBhJ6SqUOMMyt) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Leonor Barreira](https://open.spotify.com/artist/5clPclYJpVR9PKaSHNLXkf) | [Talvez](https://open.spotify.com/album/0oTPd2PPkUffseXHnoeHcF) | 2:52 |
 | 72 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
 | 73 | [Flexin On U](https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Tatiana Duarte](https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT) | [Flexin On U](https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u) | 4:31 |
-| 74 | [Perigo](https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Perigo](https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH) | 3:19 |
+| 74 | [Quem Tem O Teu <3](https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Pequenos Gigantes](https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3) | 2:44 |
 | 75 | [Barco](https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Barco](https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn) | 3:36 |
 
 Snapshot ID: `AAAAAJjcFLcqB0/HYUVPuQr46fGKgZ5e`

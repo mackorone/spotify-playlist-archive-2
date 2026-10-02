@@ -13258,7 +13258,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -23078,7 +23078,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/33Plu4Rq3ZmOfLLNQcAGva"
@@ -39638,7 +39638,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -42208,6 +42208,24 @@
       "duration_ms": 190322,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/0QFUOtyHtjEQnrcHTfQkDg"
+    },
+    {
+      "album": {
+        "name": "Voar",
+        "url": "https://open.spotify.com/album/38nCRSs2sVkNb7x6nhyJhE"
+      },
+      "artists": [
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Voar",
+      "url": "https://open.spotify.com/track/54IJk4ONmSkwCO63YKJTNB"
     },
     {
       "album": {

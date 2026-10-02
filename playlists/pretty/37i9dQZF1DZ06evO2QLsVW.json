@@ -1,12 +1,12 @@
 {
   "description": "This is Papa Roach. The essential tracks, all in one playlist.",
-  "num_followers": 259616,
+  "num_followers": 259636,
   "original_name": "This Is Papa Roach",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABJdRS7kiFoYUPfVVpgmoeq",
+  "snapshot_id": "arxRAAAAAADfNuvZhfGqg0X/Jf3z8MEs",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time For Annihilation: On the Record & On the Road",
-        "url": "https://open.spotify.com/album/3d50lh0NuJJwtMj8NV0Tsr"
+        "name": "Getting Away With Murder",
+        "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 213080,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/5DooZQl3JTbKQetZqtjrDN"
+      "duration_ms": 206012,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/6Mzc0iOvIHgPiiY6M5vVoN"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getting Away With Murder",
-        "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
+        "name": "Time For Annihilation: On the Record & On the Road",
+        "url": "https://open.spotify.com/album/3d50lh0NuJJwtMj8NV0Tsr"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 206012,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/6Mzc0iOvIHgPiiY6M5vVoN"
+      "duration_ms": 213080,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/5DooZQl3JTbKQetZqtjrDN"
     },
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ego Trip (Deluxe)",
-        "url": "https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc"
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/24LFCYvhIN7abbS12Ijg9x"
       },
       "artists": [
         {
           "name": "Papa Roach",
           "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        },
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 198185,
-      "name": "Cut The Line (feat. Beartooth)",
-      "url": "https://open.spotify.com/track/15kMBHLBO0WeQJmnuSWJYN"
+      "duration_ms": 257546,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/04hf4vWXR2ObRoxz9FR4a4"
     },
     {
       "added_at": null,
@@ -739,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/24LFCYvhIN7abbS12Ijg9x"
+        "name": "Ego Trip (Deluxe)",
+        "url": "https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc"
       },
       "artists": [
         {
           "name": "Papa Roach",
           "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 257546,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/04hf4vWXR2ObRoxz9FR4a4"
+      "duration_ms": 198185,
+      "name": "Cut The Line (feat. Beartooth)",
+      "url": "https://open.spotify.com/track/15kMBHLBO0WeQJmnuSWJYN"
     },
     {
       "added_at": null,

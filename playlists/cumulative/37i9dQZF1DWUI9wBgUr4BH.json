@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Taylor Swift",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  KAROL G",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -1733,6 +1733,32 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "album": {
         "name": "Be Your Friend (feat. Enisa)",
         "url": "https://open.spotify.com/album/2sXOcCwvjKDF3pvNkSALfq"
       },
@@ -3113,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/0YaLHlYwWFspdCj8QDsWqH"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201299,
+      "name": "Chaussures Roses",
+      "url": "https://open.spotify.com/track/3g9HaVzY0kyfmzI3CF8dB1"
+    },
+    {
+      "album": {
         "name": "Chiens",
         "url": "https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG"
       },
@@ -4256,7 +4300,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 247458,
       "name": "Dis-le",
       "url": "https://open.spotify.com/track/58H3IsZi2NemGRCttisETY"
@@ -5462,6 +5506,28 @@
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
+        "name": "Fille \u00e0 Papa",
+        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169586,
+      "name": "Fille \u00e0 Papa",
+      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
       "album": {
@@ -8204,7 +8270,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165000,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585"
@@ -13229,6 +13295,24 @@
     },
     {
       "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/38Ew64EUTNSxobuP09ucyZ"
+      },
+      "artists": [
+        {
+          "name": "Bormin\u2019",
+          "url": "https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/35tbU5JgunboLHBaUJnqqZ"
+    },
+    {
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -15450,7 +15534,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 173433,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
@@ -16284,7 +16368,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 189588,
       "name": "The Way We Touch",
       "url": "https://open.spotify.com/track/0fVrUsHbkqg7ISVKufGoLm"

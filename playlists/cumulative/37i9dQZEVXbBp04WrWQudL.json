@@ -412,7 +412,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 239957,
       "name": "Bass Persuades",
       "url": "https://open.spotify.com/track/6asDO17UStSnESaraO6TA8"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 233675,
       "name": "Die On This Hill (Live) | Presented by Spotify",
       "url": "https://open.spotify.com/track/4kHwhIGe7Olzqu1ejo0xHg"
@@ -1356,10 +1356,32 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 172305,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/5Wv6LGp0NlkZmuHU7u0C4K"
+    },
+    {
+      "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/72L02vgLnNXYe4W6xOJHT3"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239210,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/157QjsVq8YdtPgJrd57PFp"
     },
     {
       "album": {
@@ -1548,7 +1570,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 215189,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/6qvD7UaO8kdyILbKJ4Vhib"
@@ -1778,7 +1800,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 217194,
       "name": "Let\u2019s Get Married",
       "url": "https://open.spotify.com/track/0Deu4mcMzGG37yDf8B4L57"
@@ -1996,7 +2018,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 136628,
       "name": "Made My Night",
       "url": "https://open.spotify.com/track/2nQ6PoArE94d85O0UY0o1P"
@@ -2342,7 +2364,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 224260,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/7Mb5XensmTLF74M08covkU"
@@ -2480,7 +2502,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 185365,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/22CA8GnsXHYdTmuuF4ZGOb"
@@ -2806,7 +2828,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 217233,
       "name": "Risk - Live From The Tonight Show With Jimmy Fallon",
       "url": "https://open.spotify.com/track/6q9TDKBinsOLU0yi1H3dHO"
@@ -2954,7 +2976,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 453342,
       "name": "Set Yuri 22",
       "url": "https://open.spotify.com/track/4zd5ljxp3lsZ0pH3lwWgIl"
@@ -3120,7 +3142,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 195093,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1oN0xU3vvEoBBYx2aW5PcM"
@@ -3142,7 +3164,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 226943,
       "name": "Still",
       "url": "https://open.spotify.com/track/0CGGe0SkjsOAUYGuq3Dj7Y"
@@ -3388,6 +3410,24 @@
       "duration_ms": 119765,
       "name": "Tie Your Mother Down - Live in Budapest",
       "url": "https://open.spotify.com/track/5LHP4a5vFrgiYYSSBK1lJK"
+    },
+    {
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/6C4b221fIS6YH47swMQDgn"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197376,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/4h8HRVsErpk4N1TxE0sApE"
     },
     {
       "album": {

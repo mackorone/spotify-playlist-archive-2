@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 499100,
+  "num_followers": 499125,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "My Happy Life",
-        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
-      },
-      "artists": [
-        {
-          "name": "Tompi",
-          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Menghujam Jantungku",
-      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "The Best of Dewa 19",
         "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "My Happy Life",
+        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
+      },
+      "artists": [
+        {
+          "name": "Tompi",
+          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Menghujam Jantungku",
+      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
+        "name": "Musim Yang Baik",
+        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
       },
       "artists": [
         {
-          "name": "Alexa",
-          "url": "https://open.spotify.com/artist/19aDvXqd8iJncnUTcxy4Ge"
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Jangan Kau Lepas",
-      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
+      "duration_ms": 216295,
+      "name": "Lapang Dada",
+      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Musim Yang Baik",
-        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
       },
       "artists": [
         {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/19aDvXqd8iJncnUTcxy4Ge"
         }
       ],
-      "duration_ms": 216295,
-      "name": "Lapang Dada",
-      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
+      "duration_ms": 241000,
+      "name": "Jangan Kau Lepas",
+      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
     },
     {
       "added_at": "2026-02-27 14:15:43",

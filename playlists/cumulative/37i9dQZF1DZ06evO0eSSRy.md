@@ -4,7 +4,7 @@
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 7 min
+84 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Wait For Dark \- The Toxic Avenger Remix](https://open.spotify.com/track/1st4sL0Z4ShdKkXnqR1PLp) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL), [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Wait For Dark \(The Toxic Avenger Remix\)](https://open.spotify.com/album/1YvBftCNy214fE35UO0Avr) | 4:01 | 2026-08-03 |  |
 | [Water Doctor](https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:38 | 2026-04-24 |  |
 | [Water Doctor](https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:38 | 2023-04-23 | 2026-04-21 |
+| [What You Want](https://open.spotify.com/track/1W0cKIoIaG8nS2VgGYRlVi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [What You Want](https://open.spotify.com/album/2eaPOiqTtREnX68IAAnGxd) | 3:23 | 2026-10-02 |  |
 | [Winona Ryder](https://open.spotify.com/track/030oADbNg4fbHOKC9UPZqi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 4:14 | 2025-01-03 | 2026-03-05 |
 | [Winona Ryder](https://open.spotify.com/track/3Ss1NP5PLQmRakgtYwUS0o) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 4:14 | 2022-09-16 | 2025-01-02 |
 | [Winona Ryder](https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 4:14 | 2026-03-05 | 2026-08-31 |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,841 songs - 10 day 22 hr 26 min
+4,843 songs - 10 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [\(Love Is\) Corrupted Code](https://open.spotify.com/track/3eO2ad5IkMC97DodASyBPQ) | [Peepall](https://open.spotify.com/artist/0aYT6hZTd5p8g0qWhuZPyX) | [\(Love Is\) Corrupted Code](https://open.spotify.com/album/532XswazKaWQqmgBuq7CFm) | 3:24 | 2025-08-15 |  |
 | [\(You’ve Been a\) Shit To Me](https://open.spotify.com/track/34X4KcxVMjC844cSAPeij0) | [The Lovely Eggs](https://open.spotify.com/artist/4DO9uZBipcWHEfMXo87yhS) | [Bin Juice](https://open.spotify.com/album/23O2GkJX92vYDabrLwdzVe) | 2:52 | 2025-11-04 |  |
 | [.Waves of Tomorrow](https://open.spotify.com/track/17chWXAbyBFjclJgPo7bEo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 2:59 | 2025-09-19 |  |
+| [1 Am Vibes](https://open.spotify.com/track/4bXVGRSQQVFvXf36Hxy5U6) | [S1J](https://open.spotify.com/artist/6GcGggHeS1LlSundBrW3AG), [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Your Favorite Sins](https://open.spotify.com/album/48fMy4uGhbknKMnVlBp7HU) | 1:42 | 2026-10-01 |  |
 | [10 Years](https://open.spotify.com/track/0is7U35DiSUWJW92TGlXSY) | [Eden Entertainment](https://open.spotify.com/artist/7FSh28tz5yH7HthohtdIPA), [Children of Eden](https://open.spotify.com/artist/4LmMQKaZzvr1hid7GwiXcL) | [The Banana Split](https://open.spotify.com/album/5LsPvBY6yIRbilKjCoaGuF) | 3:11 | 2026-07-08 |  |
 | [100](https://open.spotify.com/track/3xfYZ7C2oZmElosQK6STR9) | [I\-Voltage](https://open.spotify.com/artist/2hWpm5e3As9l7pwZ3Pt1TP) | [100](https://open.spotify.com/album/56leTp9GIRivs1gbvoZl93) | 2:41 | 2025-06-04 |  |
 | [100 Hod](https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [100 Hod](https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9) | 2:31 | 2026-05-24 |  |
@@ -3881,6 +3882,7 @@
 | [Southbound](https://open.spotify.com/track/6Ac7X25NLo7bg8mdlUn8WT) | [Kentuckiana](https://open.spotify.com/artist/6pPeXJZ7zKycg4GlnPtF0i) | [Southbound](https://open.spotify.com/album/5hmcXmnYMNViUefPVcefOd) | 3:19 | 2026-09-28 |  |
 | [Soy Luz, Doy Luz](https://open.spotify.com/track/3QCsbxrS7RwXf6wi67tDb6) | [Tobi Rabat](https://open.spotify.com/artist/3rAw85LiCiT61QHQhxHyn4) | [Soy Luz, Doy Luz](https://open.spotify.com/album/1IchJOWKF7XGMat161LXx9) | 3:52 | 2025-09-16 |  |
 | [Spaghetti Mafia](https://open.spotify.com/track/0IO7CeyQFTWrek4eTYZhp9) | [Teddy Head](https://open.spotify.com/artist/7yYBXPgf2bNOaqB9scncXU), [The Zoot Suit Riot](https://open.spotify.com/artist/5avKyZeuT1vnyOzXANu004) | [Spaghetti Mafia](https://open.spotify.com/album/5L7ydu5TNIR41Kp0gUjtrF) | 2:44 | 2025-09-24 |  |
+| [Spark Mandrill Mega Man X \- Vocal Version](https://open.spotify.com/track/61GCtHUH83JJazDKrnSLFa) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Spark Mandrill Mega Man X \(Vocal Version\)](https://open.spotify.com/album/7d1TDCvSIGNkYlR7Husnyp) | 3:42 | 2026-10-01 |  |
 | [Speed Of A Summer Night](https://open.spotify.com/track/1wCTXpkDk9ns03WbOmCuyY) | [Static Echoes](https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7) | [Speed Of A Summer Night](https://open.spotify.com/album/0DAKVbUAkgLDzJGfTEm01P) | 3:49 | 2026-05-28 |  |
 | [Spend It \- Sped Up](https://open.spotify.com/track/205JvvegsTtSFhbqV0rBvH) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [POV \(Sped Up Versions\)](https://open.spotify.com/album/0UT0BKBC4wdQbj5Bx5xxuJ) | 2:21 | 2025-06-23 |  |
 | [Spendo x i vizi](https://open.spotify.com/track/5uILl1tjLtWnaI3tl330Te) | [Franklean](https://open.spotify.com/artist/2MtWGMvoJZPkfCtHipSDhg), [Maradò](https://open.spotify.com/artist/17KV9lzX5mkFv70ts7vlFi) | [Spendo x i vizi](https://open.spotify.com/album/2u3VytqpniLVDustEz02v4) | 2:55 | 2025-06-05 |  |

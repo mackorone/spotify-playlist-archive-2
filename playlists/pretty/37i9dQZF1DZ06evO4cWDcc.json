@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 329304,
+  "num_followers": 329320,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABwZfcojDGRXjR/Y/GYFhhd",
+  "snapshot_id": "arxRAAAAAAAU3KGVwJNtNzqUhz7tEHZm",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,22 @@
       "duration_ms": 208120,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/4f5nUYzeUioPwNbz2mGx5S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Bleeding Heart",
-      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Monterey",
         "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 426613,
       "name": "Like A Rolling Stone - Live At Monterey",
       "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
     },
     {
       "added_at": null,
@@ -639,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
       "artists": [
         {
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 229120,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+      "duration_ms": 215133,
+      "name": "Room Full of Mirrors",
+      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
     },
     {
       "added_at": null,
@@ -671,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
       "artists": [
         {
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Room Full of Mirrors",
-      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
+      "duration_ms": 229120,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
       "duration_ms": 533672,
       "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
       "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Night Bird Flying",
-      "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
     },
     {
       "added_at": null,
@@ -744,9 +744,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 221360,
-      "name": "Things I Used to Do",
-      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
+      "duration_ms": 475373,
+      "name": "Georgia Blues",
+      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Night Bird Flying",
+      "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
     },
     {
       "added_at": null,
@@ -792,25 +808,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 475373,
-      "name": "Georgia Blues",
-      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Band Of Gypsys (50th Anniversary / Live At Fillmore East, 1970)",
-        "url": "https://open.spotify.com/album/0X8uUl77dOADdr7v1ECVB2"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 314002,
-      "name": "Changes - Live",
-      "url": "https://open.spotify.com/track/36JhoOlbwBJv134LMDk4cH"
+      "duration_ms": 221360,
+      "name": "Things I Used to Do",
+      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

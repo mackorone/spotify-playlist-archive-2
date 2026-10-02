@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Dangrangto
+> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Hngle
 
 475 songs - 1 day 5 hr 4 min
 

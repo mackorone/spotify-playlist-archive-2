@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 金音獎進入第 16 年了！Spotify 當然全力支持！立即欣賞這些最令人驚喜與回味的好作品 ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,810 likes - 90 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,809 likes - 90 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 | 27 | [BOUNCE](https://open.spotify.com/track/03LhJbwVSmjb9i31oI2eFR) | [Aiko Tomi](https://open.spotify.com/artist/24jBJ64cYnyWF53EKv6K9t) | [Everything Sparks Joy](https://open.spotify.com/album/6esLCiJnvM26mhqN1EAcPe) | 2:23 |
 | 28 | [Wildbait](https://open.spotify.com/track/5WfiFxEZXWd3RTGIdWhxtr) | [Oberka](https://open.spotify.com/artist/28LXivKZPm48396rkSUUKt) | [Regrow Protocol](https://open.spotify.com/album/0tjrpHIj5HTJjI4cazIw0O) | 2:51 |
 | 29 | [Tjelu Kata Likuljaw](https://open.spotify.com/track/4mtxMLNkkOjW2PtokZwHiW) | [Kuljelje Ljamcun](https://open.spotify.com/artist/6ImyzgaHrmwqkBMvVxTwGV), [Sujong Park](https://open.spotify.com/artist/7lxC2YvOYoePgIkaFMlaBb) | [Atavism返祖現象](https://open.spotify.com/album/3QaPxLJfVL08efGFUUUZSH) | 2:56 |
-| 30 | [Brda](https://open.spotify.com/track/6qg8c0rYd0WmC3kW0n6RO7) | [Yanbin Huang Quartet](https://open.spotify.com/artist/184PntPbujhhceS8lqdk7X) | [A Letter to Poland](https://open.spotify.com/album/2J2qspjgO6c5PcJOD4RpOw) | 5:53 |
+| 30 | [Brda](https://open.spotify.com/track/6qg8c0rYd0WmC3kW0n6RO7) | [Yanbin Huang 黃彥斌](https://open.spotify.com/artist/6ez645FHGRSs9uaOZJqKlp) | [A Letter to Poland](https://open.spotify.com/album/2J2qspjgO6c5PcJOD4RpOw) | 5:53 |
 | 31 | [Scene Taiwan Collection I\. Sea of Clouds](https://open.spotify.com/track/1emFmTDskinP8Kw1JGEMOD) | [Tracy Yang Jazz Orchestra](https://open.spotify.com/artist/2Dx2nXiQFUxkZ5YWPHIqPb) | [Scene Taiwan Collection I\. Sea of Clouds](https://open.spotify.com/album/3HD5FiZM1EpoV2y5Cw8OfW) | 6:43 |
 | 32 | [The Sea, The Sky, The you and I](https://open.spotify.com/track/5dGl7r58Ok2gZeE0Ls7DD0) | [陳子彰](https://open.spotify.com/artist/2BD9eeRk7m6hf2u9BXBo4X), [鄭立偉](https://open.spotify.com/artist/1YEA2fpARwA8CZ2kyNFybk) | [The Sea, The Sky, The You and I](https://open.spotify.com/album/5Ca7Wbl1yE5Tsa3nwqmsRe) | 6:47 |
 | 33 | [Heal Me Good](https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U) | [Yufu](https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj) | [Heal Me Good](https://open.spotify.com/album/6DjI2Od6U3WvvRmpD7gsiH) | 4:07 |

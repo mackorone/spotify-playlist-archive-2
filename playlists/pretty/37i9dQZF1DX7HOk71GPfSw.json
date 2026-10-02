@@ -1,13 +1,33 @@
 {
-  "description": "Rebecca Black is an Anaheim star \ud83c\udf1f",
-  "num_followers": 523570,
+  "description": "giddy up  \ud80c\udcd7\ud80c\udcd7\ud80c\udcd7\ud80c\udcd7\ud80c\udcd7",
+  "num_followers": 523746,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMQLVKQZzxa+ylYu4/6Pt5QOlyQd",
+  "snapshot_id": "AAAAADx1qPEAKkRCIgG3F19/4qw2Vzxj",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:02:13",
+      "album": {
+        "name": "c*ntry girl rock",
+        "url": "https://open.spotify.com/album/35IaQyLS43e1zryxSsXbDL"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 226014,
+      "name": "c*ntry girl rock",
+      "url": "https://open.spotify.com/track/3SwB3iCazOqulClBTo6RsA"
+    },
     {
       "added_at": "2026-07-03 04:02:01",
       "album": {
@@ -25,6 +45,22 @@
       "url": "https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA"
     },
     {
+      "added_at": "2026-09-25 04:01:59",
+      "album": {
+        "name": "2 GIRLS",
+        "url": "https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 129206,
+      "name": "2 GIRLS",
+      "url": "https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60"
+    },
+    {
       "added_at": "2026-09-04 04:01:50",
       "album": {
         "name": "Anaheim Star",
@@ -39,6 +75,38 @@
       "duration_ms": 166797,
       "name": "Anaheim Star",
       "url": "https://open.spotify.com/track/4ebLEVrsP0oQ8C9w2iwm5Q"
+    },
+    {
+      "added_at": "2026-10-02 04:02:13",
+      "album": {
+        "name": "POPSTAR SPEEDRUN",
+        "url": "https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "BRAINDEAD (Okay!)",
+      "url": "https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a"
+    },
+    {
+      "added_at": "2026-09-25 04:01:59",
+      "album": {
+        "name": "Warhorse",
+        "url": "https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Warhorse",
+      "url": "https://open.spotify.com/track/6QtdNJhSCP7XgTDJL2BlJ7"
     },
     {
       "added_at": "2026-09-25 04:01:59",
@@ -97,20 +165,20 @@
       "url": "https://open.spotify.com/track/06P0eISbnaU1FOuuJAjAg2"
     },
     {
-      "added_at": "2026-09-25 04:01:59",
+      "added_at": "2026-10-02 04:02:13",
       "album": {
-        "name": "2 GIRLS",
-        "url": "https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X"
+        "name": "\u00ed bleiku lj\u00f3si",
+        "url": "https://open.spotify.com/album/1qbeu0prgn2HSCEq8UYjBF"
       },
       "artists": [
         {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+          "name": "l\u00e1ra",
+          "url": "https://open.spotify.com/artist/6ErQHeCo3fok5FFg3rfyxP"
         }
       ],
-      "duration_ms": 129206,
-      "name": "2 GIRLS",
-      "url": "https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60"
+      "duration_ms": 202644,
+      "name": "hringja",
+      "url": "https://open.spotify.com/track/1qYdEL0ske7wieombhZPbA"
     },
     {
       "added_at": "2026-08-21 04:01:32",
@@ -133,6 +201,22 @@
       "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
     },
     {
+      "added_at": "2026-07-17 04:02:03",
+      "album": {
+        "name": "Pop Sound",
+        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 171172,
+      "name": "Pop Sound",
+      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
+    },
+    {
       "added_at": "2026-07-03 04:02:01",
       "album": {
         "name": "Satellites",
@@ -147,22 +231,6 @@
       "duration_ms": 211000,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
-    },
-    {
-      "added_at": "2026-09-25 04:01:59",
-      "album": {
-        "name": "Warhorse",
-        "url": "https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Warhorse",
-      "url": "https://open.spotify.com/track/6QtdNJhSCP7XgTDJL2BlJ7"
     },
     {
       "added_at": "2026-09-18 04:02:52",
@@ -253,6 +321,22 @@
       "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
     },
     {
+      "added_at": "2026-10-02 04:02:13",
+      "album": {
+        "name": "scared",
+        "url": "https://open.spotify.com/album/5BgmluiUAFyzFG0DsuiIt7"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "duration_ms": 126547,
+      "name": "scared",
+      "url": "https://open.spotify.com/track/29K9tHQPMa1MwpW3fi93iG"
+    },
+    {
       "added_at": "2026-08-28 04:02:31",
       "album": {
         "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
@@ -305,6 +389,54 @@
       "url": "https://open.spotify.com/track/5qLE9apyPgYYD4bYtuLSa0"
     },
     {
+      "added_at": "2026-10-02 04:02:13",
+      "album": {
+        "name": "the wash",
+        "url": "https://open.spotify.com/album/0WyGlLwRg0dNZ6IpX25GJv"
+      },
+      "artists": [
+        {
+          "name": "SUUNCAAT",
+          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
+        }
+      ],
+      "duration_ms": 171821,
+      "name": "the wash",
+      "url": "https://open.spotify.com/track/2uaK3EiYXxt3ovJvjBfVBL"
+    },
+    {
+      "added_at": "2026-10-02 04:02:13",
+      "album": {
+        "name": "Contact Sports",
+        "url": "https://open.spotify.com/album/7fCnhReeViJ25L5bA0JTfb"
+      },
+      "artists": [
+        {
+          "name": "Contact Sports",
+          "url": "https://open.spotify.com/artist/3GlpFOtBi5BJeXAk5a1RAd"
+        }
+      ],
+      "duration_ms": 149720,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/25v0VU7mJRQsews6qyWyfq"
+    },
+    {
+      "added_at": "2026-10-02 04:02:13",
+      "album": {
+        "name": "billy",
+        "url": "https://open.spotify.com/album/0Gm9CZLhnIC5touMATdWaY"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "duration_ms": 176294,
+      "name": "billy",
+      "url": "https://open.spotify.com/track/0fqaZvEg36C9NkQn0wGMmt"
+    },
+    {
       "added_at": "2026-09-25 04:01:59",
       "album": {
         "name": "How I learned 2 luv the bomb",
@@ -351,22 +483,6 @@
       "duration_ms": 165600,
       "name": "I'm Going Back to Lebanon",
       "url": "https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ"
-    },
-    {
-      "added_at": "2026-07-17 04:02:03",
-      "album": {
-        "name": "Pop Sound",
-        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 171172,
-      "name": "Pop Sound",
-      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
     },
     {
       "added_at": "2026-09-25 04:01:59",
@@ -1151,30 +1267,6 @@
     {
       "added_at": "2026-08-07 04:02:03",
       "album": {
-        "name": "Goodbye 2012!",
-        "url": "https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi"
-      },
-      "artists": [
-        {
-          "name": "Coupdekat",
-          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
-        },
-        {
-          "name": "Natalie Red",
-          "url": "https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL"
-        },
-        {
-          "name": "Ruby Bell",
-          "url": "https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO"
-        }
-      ],
-      "duration_ms": 182879,
-      "name": "heyyy",
-      "url": "https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78"
-    },
-    {
-      "added_at": "2026-08-07 04:02:03",
-      "album": {
         "name": "VOGUES",
         "url": "https://open.spotify.com/album/4fMn8hCxljhjFZ5iChUU7E"
       },
@@ -1529,22 +1621,6 @@
       "url": "https://open.spotify.com/track/7qRmZMqzUtv6oUsKuU24Pb"
     },
     {
-      "added_at": "2026-06-12 04:01:44",
-      "album": {
-        "name": "CAIRO (I Like That...)",
-        "url": "https://open.spotify.com/album/3VfIOszi5DLjrPoMz61Atw"
-      },
-      "artists": [
-        {
-          "name": "Babe America",
-          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
-        }
-      ],
-      "duration_ms": 195471,
-      "name": "CAIRO (I Like That...)",
-      "url": "https://open.spotify.com/track/1vsMwXYLXA2lkcDSsZZnWx"
-    },
-    {
       "added_at": "2026-04-24 04:02:28",
       "album": {
         "name": "Need For Speed",
@@ -1717,22 +1793,6 @@
       "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Needle Guy",
-        "url": "https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/0He9B1l2riXW9P1BvBJyxO"
-    },
-    {
       "added_at": "2026-05-01 04:02:14",
       "album": {
         "name": "TIMESNEWROMAN",
@@ -1747,22 +1807,6 @@
       "duration_ms": 158101,
       "name": "TIMESNEWROMAN",
       "url": "https://open.spotify.com/track/0bnSXl0lY92annYcbgo1T2"
-    },
-    {
-      "added_at": "2026-04-24 04:02:28",
-      "album": {
-        "name": "I Feel Fantastic",
-        "url": "https://open.spotify.com/album/3QaoD6p4DtTMsdzGKwSDEt"
-      },
-      "artists": [
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 218685,
-      "name": "I Feel Fantastic",
-      "url": "https://open.spotify.com/track/2eqIYvwLkyGGBWEf6q9EHZ"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1935,22 +1979,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "SERVE IT HOT",
-        "url": "https://open.spotify.com/album/6SNytU9HOJW7vaof472iIp"
-      },
-      "artists": [
-        {
-          "name": "AMARA ctk100",
-          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
-        }
-      ],
-      "duration_ms": 138897,
-      "name": "MAIN QUEST GIRL",
-      "url": "https://open.spotify.com/track/3izfXttfacD09wumtm92Bj"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "with u",
         "url": "https://open.spotify.com/album/1e1d2t4jdgxB9LVqnc0ZWe"
       },
@@ -1963,42 +1991,6 @@
       "duration_ms": 136974,
       "name": "with u",
       "url": "https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Kwik Trip",
-        "url": "https://open.spotify.com/album/2OTLmSlcjFarrF4ipPWLp4"
-      },
-      "artists": [
-        {
-          "name": "Lightris",
-          "url": "https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi"
-        },
-        {
-          "name": "sero",
-          "url": "https://open.spotify.com/artist/2xGz6oQCMhoh3gMJSq0vDE"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Kwik Trip",
-      "url": "https://open.spotify.com/track/4A3WcbBuUQMpcBIgmUzLBY"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5"
-      },
-      "artists": [
-        {
-          "name": "Bassvictim",
-          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "27a Pitfield St",
-      "url": "https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov"
     },
     {
       "added_at": "2026-03-27 04:00:20",

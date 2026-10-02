@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 381465,
+  "num_followers": 381516,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACOp7eZ4DQX7RjhU/Np0vg+",
+  "snapshot_id": "arxRAAAAAAAEGvNtK+Hyv5B408F/hgHT",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186758,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/5QHkQIUSlHrdunxUefdVYd"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/0c8Jj4m8nORPaOSpcr5gx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186758,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "El Veintitantos",
+      "url": "https://open.spotify.com/track/4G5JHiDWJFQQikkoWR6Ujw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duele Tu Abandono (En Vivo)",
         "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 226345,
       "name": "Duele Tu Abandono - En Vivo",
       "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "El Veintitantos",
-      "url": "https://open.spotify.com/track/4G5JHiDWJFQQikkoWR6Ujw"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

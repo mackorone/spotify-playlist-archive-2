@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: wnsday)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: DPR CREAM)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 274183,
       "name": "Can't We",
       "url": "https://open.spotify.com/track/2UOu58pk79EF52wROoNPgx"
@@ -3664,6 +3664,24 @@
       "duration_ms": 162586,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
+    },
+    {
+      "album": {
+        "name": "ew",
+        "url": "https://open.spotify.com/album/5ICf3hoX6MM6quhgh5lOas"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "ew",
+      "url": "https://open.spotify.com/track/4Bz9x9jfUk0RwTNwZ6uiGI"
     },
     {
       "album": {
@@ -11468,7 +11486,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 164346,
       "name": "To Mars",
       "url": "https://open.spotify.com/track/40YQG7PQix3RMgzkKLzrVP"
@@ -12306,6 +12324,24 @@
       "duration_ms": 187501,
       "name": "When Spring Comes",
       "url": "https://open.spotify.com/track/6zQrcQ7jXnlvj9Q8WBrMCf"
+    },
+    {
+      "album": {
+        "name": "JAYN",
+        "url": "https://open.spotify.com/album/09UjDIpsF3wA0lGix9iaMw"
+      },
+      "artists": [
+        {
+          "name": "JAYN",
+          "url": "https://open.spotify.com/artist/47fnCoAB0tj85SzEl9sGKz"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "WHERE",
+      "url": "https://open.spotify.com/track/6FoBAPO9N9Y9rRSPSvmICb"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "FREE SUBMISSIONS - Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music. Just submit via my linktree: https:&#x2F;&#x2F;linktr.ee&#x2F;Anythings.Possible.Music",
-  "num_followers": 6012,
+  "num_followers": 6016,
   "original_name": "All New Music",
   "owner": {
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAA8vRYnS8LUAIG+vf10SOHGCCFjwtKe",
+  "snapshot_id": "AAA8wyheMXoFQPxzojd8ZhN7RQ4QfnZY",
   "tracks": [
     {
       "added_at": "2026-06-04 08:55:44",
@@ -183,22 +183,6 @@
       "duration_ms": 241765,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/74xfcnkOPwSnVkVH5sp7HJ"
-    },
-    {
-      "added_at": "2026-08-31 14:34:58",
-      "album": {
-        "name": "SLOW DOWN!",
-        "url": "https://open.spotify.com/album/2E3n6DalvazBa47QCeK4Me"
-      },
-      "artists": [
-        {
-          "name": "Nova Laen",
-          "url": "https://open.spotify.com/artist/0TyUS7iLsP9ctdwhKk2AdG"
-        }
-      ],
-      "duration_ms": 209697,
-      "name": "SLOW DOWN!",
-      "url": "https://open.spotify.com/track/13bSzFkkNoraBFkHwz1ffB"
     },
     {
       "added_at": "2026-09-01 07:22:12",
@@ -3563,6 +3547,90 @@
       "duration_ms": 188000,
       "name": "Just Ride",
       "url": "https://open.spotify.com/track/0j10T9XIwM5mVVtVd5Lf4f"
+    },
+    {
+      "added_at": "2026-10-01 07:29:21",
+      "album": {
+        "name": "Fall On Me",
+        "url": "https://open.spotify.com/album/0X4CsuR1eMxEjqmA2SC0AF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peck",
+          "url": "https://open.spotify.com/artist/0tGqPUV07SPPYo6Aw8lAJi"
+        },
+        {
+          "name": "Sam Fetter",
+          "url": "https://open.spotify.com/artist/5MejTASxNaB9YdFQsCAE14"
+        }
+      ],
+      "duration_ms": 137600,
+      "name": "Fall On Me",
+      "url": "https://open.spotify.com/track/51JzsE7B3RCymIzKw4oA35"
+    },
+    {
+      "added_at": "2026-10-01 07:29:38",
+      "album": {
+        "name": "Misjudged",
+        "url": "https://open.spotify.com/album/5UCqfemjj9T2wFHOEvYKb3"
+      },
+      "artists": [
+        {
+          "name": "Jake Rouson",
+          "url": "https://open.spotify.com/artist/2y9f6Ij6xnhBBjpyEl5hjH"
+        }
+      ],
+      "duration_ms": 191821,
+      "name": "Misjudged",
+      "url": "https://open.spotify.com/track/1h49yMfyNaEBtsjBsmIEyR"
+    },
+    {
+      "added_at": "2026-10-01 18:34:46",
+      "album": {
+        "name": "Under The Rainbow",
+        "url": "https://open.spotify.com/album/3rNejJ0ixkSOfb4lIwC09f"
+      },
+      "artists": [
+        {
+          "name": "Jade Valea",
+          "url": "https://open.spotify.com/artist/72Abfl2iqvUkREZ3L4pYqv"
+        }
+      ],
+      "duration_ms": 142920,
+      "name": "Under the Rainbow",
+      "url": "https://open.spotify.com/track/3mjgk3E0wigLCTolj3UiiY"
+    },
+    {
+      "added_at": "2026-10-01 18:36:49",
+      "album": {
+        "name": "Lost in LA",
+        "url": "https://open.spotify.com/album/46N86bURqfFJ7w0g4r2FmO"
+      },
+      "artists": [
+        {
+          "name": "EMMALISA",
+          "url": "https://open.spotify.com/artist/0uAC20tdGcRDQMNvWTnZP0"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Lost in LA",
+      "url": "https://open.spotify.com/track/1b47OSZq7D6fXb1fQpNZhg"
+    },
+    {
+      "added_at": "2026-10-01 18:37:42",
+      "album": {
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/5xH3MSiyadXRUppauvetOs"
+      },
+      "artists": [
+        {
+          "name": "ViennaCC",
+          "url": "https://open.spotify.com/artist/0RQHomT2oBtOXNkU0ftpQ8"
+        }
+      ],
+      "duration_ms": 210763,
+      "name": "The Bottom Line",
+      "url": "https://open.spotify.com/track/3VoZSjjcLzbt7RLLHJTtYE"
     }
   ],
   "unique_name": "All New Music",

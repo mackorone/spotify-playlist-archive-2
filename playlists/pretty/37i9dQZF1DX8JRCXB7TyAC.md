@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,365 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,414 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 33 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
 | 34 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 |
 | 35 | [Old Money](https://open.spotify.com/track/3PHOMMcNp29NtsLJzorVpD) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Manya Yadav](https://open.spotify.com/artist/3TugQ9wtCPiJaip0NFyobh) | [Old Money](https://open.spotify.com/album/50vJjo0y9W57YUcdv2PX3K) | 3:06 |
-| 36 | [Whatcha Need?](https://open.spotify.com/track/0Kc6WPFogvELIRDXl43Kx1) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Whatcha Need?](https://open.spotify.com/album/5eFcTIchiD7Ehi3ir2MQZs) | 2:19 |
-| 37 | [Khappar Bharni](https://open.spotify.com/track/5ASiFCsFP4CxvaCeowGmqC) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [kanhoriaalashayar](https://open.spotify.com/artist/3bCwWvSKe3KxvKu32niGQP) | [Khappar Bharni](https://open.spotify.com/album/3nIA8Ef9lif6eBHiNA5ZWl) | 3:13 |
+| 36 | [Khappar Bharni](https://open.spotify.com/track/5ASiFCsFP4CxvaCeowGmqC) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [kanhoriaalashayar](https://open.spotify.com/artist/3bCwWvSKe3KxvKu32niGQP) | [Khappar Bharni](https://open.spotify.com/album/3nIA8Ef9lif6eBHiNA5ZWl) | 3:13 |
+| 37 | [Whatcha Need?](https://open.spotify.com/track/0Kc6WPFogvELIRDXl43Kx1) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Whatcha Need?](https://open.spotify.com/album/5eFcTIchiD7Ehi3ir2MQZs) | 2:19 |
 | 38 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |
 | 39 | [Kah Diye](https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Kah Diye](https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu) | 2:39 |
 | 40 | [Robbery](https://open.spotify.com/track/1jDArshlg2jQyg5vfIh8Zq) | [Mohit Ladhotiya](https://open.spotify.com/artist/43XOucS8TK3tdDDqd2JJSh) | [Robbery](https://open.spotify.com/album/5pw4skILORYhb7LsMuhgOj) | 3:20 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 47 | [Jhota](https://open.spotify.com/track/7HBufeUOfByxWXTRO8AhaR) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Jhota](https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA) | 3:14 |
 | 48 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
 | 49 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
-| 50 | [Petrol](https://open.spotify.com/track/5B60tnqylP3wRYjJvtcj5y) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Petrol](https://open.spotify.com/album/5a24ONxmGIedTYLgg5smpR) | 2:55 |
+| 50 | [Improve](https://open.spotify.com/track/0OItbjp25jDXmq5KJD2RnY) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Improve](https://open.spotify.com/album/6lI9ygH62c5FqztAqNrgzk) | 3:08 |
 
-Snapshot ID: `AAAAAIYZ5V9IkDvd8uC4IhcKQ8h3E4JL`
+Snapshot ID: `AAAAADoW5kiizgxZGPQMBg5PUZ41gSrg`

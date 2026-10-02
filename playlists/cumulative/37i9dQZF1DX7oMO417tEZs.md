@@ -2,9 +2,9 @@
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: Zora Jones
+> ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: OAKK
 
-2,059 songs - 4 day 15 hr 22 min
+2,064 songs - 4 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [As Fast as I Can](https://open.spotify.com/track/4pdGAWBW9VTLO5ENRCbiCx) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [As Fast as I Can](https://open.spotify.com/album/6ZTTykFPE3rbc3I7Qv62qm) | 4:11 | 2025-03-14 | 2025-06-28 |
 | [As The Eagle Flies](https://open.spotify.com/track/0Sla33XNU2D98M5lwmu1Ca) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Welcome Back](https://open.spotify.com/album/7MCIpeJrXNn3KnKTtmwSKh) | 4:12 | 2025-07-11 | 2025-12-13 |
 | [ascendent \(mother fxcker\)](https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:38 | 2023-03-24 | 2023-04-22 |
+| [Ascension](https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Marathon 2 \(Mont\-Royal\)](https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI) | 6:24 | 2026-10-02 |  |
 | [Asphalt](https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Asphalt](https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0) | 2:47 | 2025-02-14 | 2025-05-24 |
 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 | 2023-03-10 | 2023-05-20 |
 | [at the rave with my friends](https://open.spotify.com/track/2TTtiZDspLBtORpnzWApjh) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [at the rave with my friends](https://open.spotify.com/album/6ZhLas7sMAyS98IypuUJOT) | 2:10 | 2023-03-10 | 2023-04-15 |
@@ -588,6 +589,7 @@
 | [END OF AN ERA](https://open.spotify.com/track/4hE5FiwnpFjG6PEWF9SbED) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [END OF AN ERA](https://open.spotify.com/album/3C1PAj2sewEbNdIs8axBAM) | 1:56 | 2022-09-16 | 2023-02-25 |
 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-08-12 | 2023-01-28 |
 | [Enemy](https://open.spotify.com/track/268NeJoV7OsLvYY8v09WZs) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Diamond Shovel](https://open.spotify.com/album/0XduNeJLqZr4ql3WTd94vS) | 3:05 | 2024-06-07 | 2024-10-05 |
+| [ENERGY](https://open.spotify.com/track/7MDCCnQeDtmzItt0O6s2TB) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [ENERGY](https://open.spotify.com/album/0PFEpg2fWIqdfmL89zUbVl) | 2:55 | 2026-10-02 |  |
 | [Enfrente](https://open.spotify.com/track/6qxq0WUNxr13VaE9YkDsTT) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Sentir Que No Sabes](https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l) | 4:03 | 2024-07-05 | 2024-10-26 |
 | [enjoy the ride](https://open.spotify.com/track/4lRRYKmoNtDV6g8UaFpyA1) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [enjoy the ride](https://open.spotify.com/album/3U7Up8ryY3dAvKibe9pUl1) | 2:35 | 2023-04-14 | 2023-06-03 |
 | [Enter the Dance](https://open.spotify.com/track/1agIvFkoeOImGPlSlYZTae) | [Turbine](https://open.spotify.com/artist/6dgkvmzy1qR5cK7ueTM47M), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Enter the Dance](https://open.spotify.com/album/1qiUhSWniELhrarbJoEjTd) | 3:03 | 2025-12-19 | 2026-04-04 |
@@ -968,6 +970,7 @@
 | [ISSUES](https://open.spotify.com/track/4AQKwTnwy0EhCxfRzkg8C0) | [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [ISSUES](https://open.spotify.com/album/7x9dZ1NHtyFZ9DrMqNjBCp) | 3:40 | 2022-10-21 | 2022-11-26 |
 | [It Ain't Easy](https://open.spotify.com/track/27oVHfIMUIJHEtMopSDx8r) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [It Ain't Easy](https://open.spotify.com/album/7njPhgERKzyMdkrl111Rbi) | 2:43 | 2022-08-19 | 2023-01-28 |
 | [It Could Be Nice](https://open.spotify.com/track/5lGoX0XHR2ystyz0OF3Kv5) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [It Could Be Nice](https://open.spotify.com/album/1s4VVB5nN16DfnSVKRx6NK) | 2:52 | 2022-09-09 | 2023-04-01 |
+| [It goes like this](https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 3:41 | 2026-10-02 |  |
 | [It Moves](https://open.spotify.com/track/6WQD0mv7t3cKfpXRBvC7ER) | [PARADE](https://open.spotify.com/artist/14U7RjL155yioIUM00QSpU) | [It Moves](https://open.spotify.com/album/0FediBQF091idHevFrmFfP) | 3:28 | 2025-07-04 | 2025-12-20 |
 | [It's In The Wrapping](https://open.spotify.com/track/27i69fwrHk51zdZcRS335g) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Infra](https://open.spotify.com/album/6mMnklt0kbbw83pmAXvvdZ) | 3:42 | 2024-01-12 | 2024-03-23 |
 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-12 | 2024-04-19 |
@@ -1478,6 +1481,7 @@
 | [RAW](https://open.spotify.com/track/5hy99oQunwUFFrxWKIUorw) | [Cruel Sister](https://open.spotify.com/artist/3SZEdCibGdV5nwK99zdvs2) | [A CORPSE IS TALKING](https://open.spotify.com/album/1gCHTWAsIS44mSstCrdYLD) | 3:38 | 2025-08-01 | 2026-01-15 |
 | [Raw](https://open.spotify.com/track/4fhp9DF01CubZ3PapDjxX1) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Mentalized](https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a) | 4:37 | 2025-02-07 | 2025-05-10 |
 | [Razz](https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Razz](https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5) | 2:35 | 2023-12-15 | 2024-02-24 |
+| [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 | 2026-10-02 |  |
 | [real eyes realize real lies](https://open.spotify.com/track/3G80qonrJfqyVwLgmc2FuW) | [Divinely Guided](https://open.spotify.com/artist/510DfJ1niG4PgG0Vl2P2cO) | [Divinement Guidé](https://open.spotify.com/album/5t4ZZJHrHu80p9wGNiBZrM) | 1:42 | 2026-08-28 |  |
 | [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [The Most Dear and The Future](https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU) | 2:19 | 2026-03-20 | 2026-07-18 |
 | [really really](https://open.spotify.com/track/4kRM40BnMNuWGFwsaxrdu2) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [rusalka](https://open.spotify.com/album/2jI4oos7AIzxfEU1gAbOKR) | 2:47 | 2024-06-28 | 2024-10-26 |
@@ -1726,6 +1730,7 @@
 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 | 2026-04-24 | 2026-07-23 |
 | [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 | 2025-05-30 | 2025-11-01 |
 | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/album/32mKnCP2lxdUKl87kQTrAF) | 2:38 | 2023-01-27 | 2023-05-13 |
+| [SttttRANGERENDER](https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq) | [Ptite Soeur](https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC), [neophron](https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W) | [NODA: le monde et les humains](https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW) | 3:20 | 2026-10-02 |  |
 | [Stuck](https://open.spotify.com/track/6iBtDRlPzeeHn0wQUJZbsk) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [XNom](https://open.spotify.com/artist/4ST9qgTT0c4mgIBta6CLPf) | [Stuck](https://open.spotify.com/album/6vRpRT7mRjKa61o0utjGTC) | 2:02 | 2022-05-13 | 2022-06-18 |
 | [Stuck Here](https://open.spotify.com/track/3Y0No5lXAS30OlN84b6NWv) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Tragedy](https://open.spotify.com/album/5rtzuc9i65JU8u90cOOFPr) | 3:11 | 2023-03-24 | 2023-06-17 |
 | [Stuck Here](https://open.spotify.com/track/54kp8q9zgXklpgZ0XqjzKE) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Stuck Here](https://open.spotify.com/album/3aavlqglM07kZh6iqnKDjK) | 3:11 | 2023-02-03 | 2023-03-04 |

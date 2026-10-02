@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: Shane) (Meet the emerging talents of Korea!) ",
+  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: Dabda) (Meet the emerging talents of Korea!) ",
   "name": "Fresh Finds Korea",
   "tracks": [
     {
@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 200500,
       "name": "Deep Blue Dive",
       "url": "https://open.spotify.com/track/3L7KQebMPA3JFIdqy8QxEc"
@@ -19811,6 +19811,24 @@
     },
     {
       "album": {
+        "name": "ON(\u767e)",
+        "url": "https://open.spotify.com/album/6ivPxyvAS74hBHROw2omw3"
+      },
+      "artists": [
+        {
+          "name": "Dabda",
+          "url": "https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438750,
+      "name": "ON(\u767e)",
+      "url": "https://open.spotify.com/track/0dkXKwpxb35tkPfN7oZUH7"
+    },
+    {
+      "album": {
         "name": "ONCE",
         "url": "https://open.spotify.com/album/1iKl22RBthjjCJCGUNjv7Z"
       },
@@ -20962,6 +20980,24 @@
       "duration_ms": 192466,
       "name": "Pillow Talk",
       "url": "https://open.spotify.com/track/6YJHfDYkNnXGwBEN72TMpZ"
+    },
+    {
+      "album": {
+        "name": "MONTE",
+        "url": "https://open.spotify.com/album/1s7VadNfcpFUHTkZs9fDRS"
+      },
+      "artists": [
+        {
+          "name": "wnsday",
+          "url": "https://open.spotify.com/artist/72LdkNVMGXuNd0FyRqqNhX"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162749,
+      "name": "Pitch Black",
+      "url": "https://open.spotify.com/track/1PLhaXvO5Ue0aaxWoJe4sp"
     },
     {
       "album": {
@@ -29410,7 +29446,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174500,
       "name": "what is love?",
       "url": "https://open.spotify.com/track/6KhsWBgYEJuqvtXRTwJYdw"

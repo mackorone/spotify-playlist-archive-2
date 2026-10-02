@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: DOLLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,517 likes - 101 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,520 likes - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

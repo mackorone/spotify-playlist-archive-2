@@ -14226,7 +14226,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 189569,
       "name": "I Saw Your Face",
       "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
@@ -17292,6 +17292,24 @@
       "duration_ms": 194000,
       "name": "Lonely Hallucinations",
       "url": "https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh"
+    },
+    {
+      "album": {
+        "name": "Long Hair",
+        "url": "https://open.spotify.com/album/63pzmr8NmR7HexHmvyhFdr"
+      },
+      "artists": [
+        {
+          "name": "DAPHNE",
+          "url": "https://open.spotify.com/artist/6rufuQR0qbkAvaiNPnWBxi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161700,
+      "name": "Long Hair",
+      "url": "https://open.spotify.com/track/5agXcRAwvIFizdzibHljv8"
     },
     {
       "album": {
@@ -26286,6 +26304,28 @@
       "duration_ms": 178406,
       "name": "steer",
       "url": "https://open.spotify.com/track/4H6koInIFUq2k2qaSFPuWG"
+    },
+    {
+      "album": {
+        "name": "babysteps",
+        "url": "https://open.spotify.com/album/0OG2X6dxPxfZn1aLV7f4h3"
+      },
+      "artists": [
+        {
+          "name": "em & I",
+          "url": "https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160516,
+      "name": "step one",
+      "url": "https://open.spotify.com/track/6ixO5cBS6SnYqjAdurVyjr"
     },
     {
       "album": {

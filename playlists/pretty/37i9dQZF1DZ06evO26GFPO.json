@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADxLbOsffScuU0HIxONAi2k",
+  "snapshot_id": "arxRAAAAAAAhtjOtEhPdIHbp+isPcl75",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 325002,
+      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
+      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dia de Fluxo",
         "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 148800,
       "name": "Sintomas de Prazer",
       "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 325002,
-      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
-      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
     },
     {
       "added_at": null,
@@ -807,30 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dono das Esquinas",
-        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
       "artists": [
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Ap\u00ea 1001",
-      "url": "https://open.spotify.com/track/6oVNrpMWlzS6UkQuuM8zHU"
+      "duration_ms": 281421,
+      "name": "Mande Um Sinal / Sinais - Ao vivo",
+      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
     },
     {
       "added_at": null,
@@ -855,18 +843,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+        "name": "Dono das Esquinas",
+        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
       "artists": [
         {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 281421,
-      "name": "Mande Um Sinal / Sinais - Ao vivo",
-      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
+      "duration_ms": 171428,
+      "name": "Ap\u00ea 1001",
+      "url": "https://open.spotify.com/track/6oVNrpMWlzS6UkQuuM8zHU"
     },
     {
       "added_at": null,

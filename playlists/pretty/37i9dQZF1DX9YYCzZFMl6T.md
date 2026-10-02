@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,532 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,539 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 19 | [Have Yourself A Merry Little Christmas \- Live From BBC Radio 2](https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 2:11 |
 | 20 | [Ugly Sweater Blues](https://open.spotify.com/track/4vqUiwZ2f6bYjpmbo7LW5x) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/6GFdPihjWOAE7OsauYu5uC) | 2:56 |
 | 21 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 |
-| 22 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |
-| 23 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
-| 24 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
+| 22 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
+| 23 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
+| 24 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |
 | 25 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
 | 26 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
 | 27 | [Happy New Year](https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [The Devil You Know](https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk) | 3:52 |

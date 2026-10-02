@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,434 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,439 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 40 | [New Orleans](https://open.spotify.com/track/30DrekKEh1G4jBkQlEfKQl) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/4a1gvrakHL6eEm4P86AUiR) | 3:31 |
 | 41 | [Save It For A Rainy Day](https://open.spotify.com/track/6IZIEhCq9crPjl2jGUvELS) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Rainy Day Music](https://open.spotify.com/album/3vI8vpQDeh7NaNEY1AilPm) | 3:07 |
 | 42 | [Everything Is Free](https://open.spotify.com/track/4hOGvEXmiu9LQcQSRM5dvn) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/5q1V1otgRVF39cZY2RQab8) | 4:47 |
-| 43 | [It's Not You, It's Me](https://open.spotify.com/track/3bWvZ3YluJBtHgCP7c0tBv) | [The Little Willies](https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l) | [The Little Willies](https://open.spotify.com/album/5G864T3Gd0LlUEQdw0iZiw) | 2:43 |
-| 44 | [Drunken Angel](https://open.spotify.com/track/3plLbnUUKpf8BSXLiIqkPx) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:20 |
+| 43 | [Drunken Angel](https://open.spotify.com/track/3plLbnUUKpf8BSXLiIqkPx) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:20 |
+| 44 | [It's Not You, It's Me](https://open.spotify.com/track/3bWvZ3YluJBtHgCP7c0tBv) | [The Little Willies](https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l) | [The Little Willies](https://open.spotify.com/album/5G864T3Gd0LlUEQdw0iZiw) | 2:43 |
 | 45 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 |
 | 46 | [Nights Like These](https://open.spotify.com/track/7wdsny4I4vMLY4wCF9FDkr) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/7pNGqfOAI7z0PrwJrdjh1A) | 3:55 |
 | 47 | [Timebomb](https://open.spotify.com/track/2S6yBUXa5KddBV0CqBkcP1) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Too Far To Care](https://open.spotify.com/album/0Jo6Fx3HfybzdNhwXOPD7D) | 3:08 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 66 | [Drown](https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 3:21 |
 | 67 | [Tennessee Song](https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 4:40 |
 | 68 | [The Beauty Way](https://open.spotify.com/track/5plZsXyfMyDP5bvDIGrqOz) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Delirium Tremolos](https://open.spotify.com/album/3CQA3UGZ7hj4HbTnGpEGf9) | 3:29 |
-| 69 | [Brady](https://open.spotify.com/track/42FrunKt2Ad5bDW2fVrRIj) | [Backyard Tire Fire](https://open.spotify.com/artist/3OvUCYn1LXlIffYy9HSxT0) | [Good to Be](https://open.spotify.com/album/3g1s5N9mNDd8ZV2GlOJ8NX) | 4:06 |
-| 70 | [Too Lazy To Work, Too Nervous To Steal](https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58) | [BR549](https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU) | [This Is BR549](https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0) | 3:53 |
+| 69 | [Too Lazy To Work, Too Nervous To Steal](https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58) | [BR549](https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU) | [This Is BR549](https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0) | 3:53 |
+| 70 | [Brady](https://open.spotify.com/track/42FrunKt2Ad5bDW2fVrRIj) | [Backyard Tire Fire](https://open.spotify.com/artist/3OvUCYn1LXlIffYy9HSxT0) | [Good to Be](https://open.spotify.com/album/3g1s5N9mNDd8ZV2GlOJ8NX) | 4:06 |
 | 71 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 |
 | 72 | [Whiskey Angel](https://open.spotify.com/track/3Z1BWdwfiXnmLdnNBfRv9u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Whiskey Angel](https://open.spotify.com/album/5c6mKZXRDC5vCKqVTpU9kf) | 4:52 |
 | 73 | [I'm Over You](https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK) | [The Silos](https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih) | [The Silos \(Bonus Track Version\)](https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg) | 4:58 |

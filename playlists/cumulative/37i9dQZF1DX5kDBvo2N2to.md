@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-610 songs - 1 day 8 hr 29 min
+612 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 | 2024-06-28 | 2024-08-23 |
 | [and is it really over](https://open.spotify.com/track/5RAInZ6ZRVYhgf31HLECFZ) | [Joonas](https://open.spotify.com/artist/06bXpbtpgnaU0cklDrSqlg) | [and is it really over](https://open.spotify.com/album/4uW3H526QlOeBveCV2sgSL) | 3:47 | 2025-05-15 | 2025-06-18 |
 | [Andarna](https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Andarna](https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY) | 3:46 | 2025-05-22 | 2026-02-13 |
-| [Andra Sidan](https://open.spotify.com/track/2xJVwnSjnIDeEHx4eqLPBL) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:02 | 2026-04-02 |  |
+| [Andra Sidan](https://open.spotify.com/track/2xJVwnSjnIDeEHx4eqLPBL) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:02 | 2026-04-02 | 2026-10-02 |
 | [Andra Sidan](https://open.spotify.com/track/2gnMvGyvaq5729qTsXObn6) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Andra Sidan](https://open.spotify.com/album/2chjQ3wm2FBXiDhu2pgTcv) | 4:02 | 2025-10-23 | 2026-03-28 |
 | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY) | 2:43 | 2024-10-24 | 2025-06-27 |
 | [Aperture](https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 5:11 | 2026-04-02 |  |
@@ -174,7 +174,7 @@
 | [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 | 2024-09-19 | 2025-03-21 |
 | [Falla](https://open.spotify.com/track/2TRoPIfG2IqShh7ZQ9MWE2) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [Falla](https://open.spotify.com/album/0eTb1CdlXs84iS51y9LCeD) | 2:57 | 2025-04-17 | 2025-08-10 |
 | [Faller för dig](https://open.spotify.com/track/3YJx3c9LSgPWX22gfCFVrr) | [KarreV](https://open.spotify.com/artist/3U47KYSzkeq9AGPP5uYBuu) | [Faller för dig](https://open.spotify.com/album/1pZLDunu0XtnXH0B2lX4A5) | 2:46 | 2025-10-23 | 2026-04-03 |
-| [Faller så lätt](https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Faller så lätt](https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj) | 2:35 | 2026-01-12 |  |
+| [Faller så lätt](https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Faller så lätt](https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj) | 2:35 | 2026-01-12 | 2026-10-02 |
 | [Fancy](https://open.spotify.com/track/7snkms1XxrZzmac3dFbks6) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Fancy](https://open.spotify.com/album/6V42SnghxJXBlmwNfAPdfv) | 2:12 | 2024-10-10 | 2024-11-09 |
 | [Fartblind](https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Fartblind](https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc) | 2:40 | 2025-12-18 | 2026-04-03 |
 | [Fast Love](https://open.spotify.com/track/7GIfbg4hznwd4AV24SJruG) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Fast Love](https://open.spotify.com/album/2db6iLYLLKTIf6qO4AhwIV) | 2:40 | 2025-05-23 | 2025-07-20 |
@@ -555,6 +555,7 @@
 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-01-29 | 2026-04-03 |
 | [The People](https://open.spotify.com/track/70O9SdAgSLqakXgopvDD40) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [The People](https://open.spotify.com/album/0m5yZ30H8mnkxHaQdnVhI9) | 4:32 | 2024-06-28 | 2025-03-21 |
 | [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 | 2025-03-07 | 2025-07-26 |
+| [The Visitor](https://open.spotify.com/track/4wfIW1OLIqejwmBYG1LhCl) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:48 | 2026-10-01 |  |
 | [Thee Unknown](https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 3:24 | 2024-09-19 | 2025-05-09 |
 | [There She Goes](https://open.spotify.com/track/4ZvNXUjjrllLUUiuv6feob) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [There She Goes](https://open.spotify.com/album/771Yi73tdaXNK0MHzKYlXF) | 3:10 | 2025-03-07 | 2025-03-14 |
 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 | 2026-04-02 |  |
@@ -587,6 +588,7 @@
 | [Vad har du gjort med mig](https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Vad har du gjort med mig](https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB) | 3:01 | 2024-09-26 | 2025-05-09 |
 | [Var & När](https://open.spotify.com/track/1kRmRG2b1snC9TQS7gSsOM) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Var & När](https://open.spotify.com/album/7aJW0dQuPyvCWENSrtnOdo) | 2:37 | 2025-05-01 | 2025-09-05 |
 | [Varför slutar allt i tårar](https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Varför slutar allt i tårar](https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv) | 4:04 | 2024-06-28 | 2024-08-30 |
+| [Vem du än är](https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Vem du än är](https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF) | 2:55 | 2026-10-01 |  |
 | [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-27 | 2025-09-12 |
 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 | 2025-09-18 |  |
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-28 | 2024-08-16 |

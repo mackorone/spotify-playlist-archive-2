@@ -4,7 +4,7 @@
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-97 songs - 4 hr 9 min
+98 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,13 @@
 | [Blow Your Nose](https://open.spotify.com/track/3dqraxhY7bEXBRRYcNv6qk) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [RX](https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE) | 2:13 | 2026-07-26 |  |
 | [Butt Naked \(feat\. Rico Nasty\)](https://open.spotify.com/track/69teIpBvUEW4WwO8DILqxq) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 2:32 | 2025-06-11 | 2026-07-26 |
 | [BUTTERFLY KISSES](https://open.spotify.com/track/2meAUMZP1jFEDOvUAdI2J9) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 2:02 | 2025-12-18 | 2026-02-23 |
-| [Butthead](https://open.spotify.com/track/1BtgZa0la8IFdaveNoaQ1K) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [RX](https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE) | 2:01 | 2026-07-26 |  |
+| [Butthead](https://open.spotify.com/track/1BtgZa0la8IFdaveNoaQ1K) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [RX](https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE) | 2:01 | 2026-07-26 | 2026-10-02 |
 | [CAN'T WIN EM ALL](https://open.spotify.com/track/7AyBiVvPNWtfxFDV4x9KJa) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 2:36 | 2025-12-21 | 2025-12-25 |
 | [CDG Foams](https://open.spotify.com/track/5TGCSnoi4DiXRcqj9lbxVc) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [RX](https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE) | 2:04 | 2026-07-26 |  |
 | [Cold](https://open.spotify.com/track/4Onanh2sbZQKTGH8KvWzxS) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:33 | 2025-06-11 | 2025-12-08 |
 | [Countin' Up](https://open.spotify.com/track/6UFG7GbMAeeMijEyrp6f1D) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 2:30 | 2025-06-11 |  |
 | [CRASH](https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:42 | 2025-06-11 |  |
+| [Cupcake](https://open.spotify.com/track/0uuVhAInooMPPa2GD8HiAB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [RX](https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE) | 2:26 | 2026-10-02 |  |
 | [Cupcake](https://open.spotify.com/track/2bknsnLPCEMMKCVrYdTfAV) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Cupcake](https://open.spotify.com/album/6qts20zdlXIj0lu42qjbD6) | 2:26 | 2026-07-05 | 2026-08-31 |
 | [EAT ME!](https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:56 | 2025-06-11 |  |
 | [FMU](https://open.spotify.com/track/5p84ePa35EvlMOADpwwogw) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SEXORCISM](https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk) | 2:58 | 2025-06-11 | 2026-05-10 |

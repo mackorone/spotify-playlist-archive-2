@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Zeddy Will
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,441 likes - 99 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,452 likes - 99 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 4 | [remember them days](https://open.spotify.com/track/1TifAMm1r1MascYZ5xGiQk) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [remember them days](https://open.spotify.com/album/61o7q2HWxinE50zcmJ0vP2) | 1:52 |
 | 5 | [OWA OWA](https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:12 |
 | 6 | [Don in my city pt\. 2](https://open.spotify.com/track/1YDTJbE653QXU2QNd0HPeS) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Jayy V Vondon](https://open.spotify.com/artist/3KZaiwa4POa0E96rL6GOS2) | [Don in my city pt\. 2](https://open.spotify.com/album/4hizgLkzh9ANQ6ZuIaRyp1) | 3:18 |
-| 7 | [Down For Real](https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh) | [Victor Victor Presents](https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Down For Real](https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE) | 3:02 |
+| 7 | [DOWN FOR REAL](https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh) | [Victor Victor Presents](https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DOWN FOR REAL](https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE) | 3:02 |
 | 8 | [Diana](https://open.spotify.com/track/00ZAKvHDDd55JK9MgcSmrU) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Tears From A Weeping Prince](https://open.spotify.com/album/3vrS9t2D19Hydl3j5Jy1yX) | 3:03 |
 | 9 | [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 |
 | 10 | [Strut](https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc) | [Ayanna Ife](https://open.spotify.com/artist/06RpzoM1Ww2pvhWLMeRRe1), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Strut](https://open.spotify.com/album/6gOk1NGn6qk3ONCSO42fRL) | 2:53 |

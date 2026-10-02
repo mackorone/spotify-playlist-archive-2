@@ -1,12 +1,12 @@
 {
   "description": "Music from BigXthaPlug, Lil Baby and Travis Scott.",
-  "num_followers": 15533851,
+  "num_followers": 15534345,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJCOjTRjSXyCaplm9CZqa5UA0rxg",
+  "snapshot_id": "AAAAANdaDFg9sEbdTdSH2UFtYD4rLF5P",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:15",
@@ -171,6 +171,26 @@
       "duration_ms": 191505,
       "name": "Backwards (feat. T.I.)",
       "url": "https://open.spotify.com/track/0p7ubMwKZaSE6RhIo8QN9J"
+    },
+    {
+      "added_at": "2026-10-01 04:00:28",
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/15tmDweVwISwJoMSLgvHpp"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Always On Time",
+      "url": "https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf"
     },
     {
       "added_at": "2026-09-25 04:03:15",
@@ -423,7 +443,7 @@
     {
       "added_at": "2026-09-25 04:03:15",
       "album": {
-        "name": "Down For Real",
+        "name": "DOWN FOR REAL",
         "url": "https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE"
       },
       "artists": [
@@ -437,7 +457,7 @@
         }
       ],
       "duration_ms": 182084,
-      "name": "Down For Real",
+      "name": "DOWN FOR REAL",
       "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
     },
     {

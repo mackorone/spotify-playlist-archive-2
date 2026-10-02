@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Alcal\u00e1 Norte.",
+  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: El Bobo de las 3000.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -5317,6 +5317,24 @@
     },
     {
       "album": {
+        "name": "Camila / Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+        "url": "https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358625,
+      "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+      "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
+    },
+    {
+      "album": {
         "name": "qu\u00e9 voy a hacer",
         "url": "https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L"
       },
@@ -6048,6 +6066,24 @@
       "duration_ms": 177333,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/5d8jEQ6AFvwJQC0VWmJPrh"
+    },
+    {
+      "album": {
+        "name": "Volviendo a Nacer",
+        "url": "https://open.spotify.com/album/4Yq59p8hTg1AEitTPp2za1"
+      },
+      "artists": [
+        {
+          "name": "El Bobo de las 3000",
+          "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248557,
+      "name": "Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/7cUOiUPXAYAL0S0O3lL9QY"
     },
     {
       "album": {

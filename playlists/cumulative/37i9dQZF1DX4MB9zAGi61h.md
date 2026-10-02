@@ -4,16 +4,19 @@
 
 > Close Mic, Muted Strings, Cozy Vibes
 
-93 songs - 3 hr 55 min
+105 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Better Day](https://open.spotify.com/track/5PVXc3N3QhQNwL7jOddPyz) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [A Better Day](https://open.spotify.com/album/4ICVyuttW92PA6FVLTvSP5) | 2:47 | 2026-07-24 |  |
+| [A Gentle Surrender](https://open.spotify.com/track/6gbc6FUpy6LnNlAO6TXp2A) | [Evren Calder](https://open.spotify.com/artist/3UQfhTZxIT81OntthwCHTe) | [A Gentle Surrender](https://open.spotify.com/album/3Bd18BEHPcrntpB06g77re) | 2:43 | 2026-10-02 |  |
+| [A Room left Warm](https://open.spotify.com/track/4pNxIouyE0bviUfQUKBypv) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [A Room left Warm](https://open.spotify.com/album/3pxNK6kR1tXdr0FNmkLKkZ) | 1:49 | 2026-10-02 |  |
 | [A Sea Made of Glass](https://open.spotify.com/track/0BTOYmOt70UD16I7bf0UHc) | [Elian Morel](https://open.spotify.com/artist/1ipmhTUevpHeyRQPbrugqC) | [A Sea Made of Glass](https://open.spotify.com/album/0otUhYOg74Mvz55HZX4bHa) | 2:12 | 2026-07-24 |  |
 | [A Slow Goodbye](https://open.spotify.com/track/3f3PczuKvYPitGz1iZZDQO) | [Evan Scudo](https://open.spotify.com/artist/52YRLeGKgHrZwxxXqfIJ8w) | [A Slow Goodbye](https://open.spotify.com/album/1wnBJnRNTpeMydL0P4YKKc) | 2:17 | 2026-07-24 |  |
 | [A Small Flower](https://open.spotify.com/track/6yG4I8OfcocLKt1dwlpJgG) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [A Small Flower](https://open.spotify.com/album/0HXqSdI9b1D2hdfqDYx67s) | 2:27 | 2026-07-24 |  |
 | [Absence of Noise](https://open.spotify.com/track/60G3YUIPOGxUrjOGa9mh9j) | [Alan Seki](https://open.spotify.com/artist/6QHpRnYwNdx4VvnCxDFx8c) | [Absence of Noise](https://open.spotify.com/album/1NCEFwiomfiHEAgyGM7EJG) | 2:05 | 2026-07-24 |  |
 | [Aconite](https://open.spotify.com/track/4rozXsuwZGj35WCAOp9CJy) | [The Piano Herbarium](https://open.spotify.com/artist/0QiOtbuT3B1A7Xa5gaKhfW) | [Aconite](https://open.spotify.com/album/5FOPIbIL5vouLumn792r6M) | 2:33 | 2026-07-24 |  |
+| [Almost an Afternoon](https://open.spotify.com/track/4SsB5AP9FTuCvdCLi8JFVv) | [Oscar Carver](https://open.spotify.com/artist/4UGOGHGqff8qedsH9slfL1) | [Almost an Afternoon](https://open.spotify.com/album/1uvYEa6GwqpVjG3AzGVb8f) | 2:00 | 2026-10-02 |  |
 | [And Ever After](https://open.spotify.com/track/5W94dzONjtjZt7lmSv6rsI) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [And Ever After](https://open.spotify.com/album/1t34PePNz4PtERhL3K4rB0) | 3:19 | 2026-07-24 |  |
 | [As It Blooms](https://open.spotify.com/track/2dntjudgez11xCCt9O7a9C) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [As It Blooms](https://open.spotify.com/album/2xWlM340c2Q9TcFWeoFX7U) | 2:23 | 2026-09-18 |  |
 | [As We Grow](https://open.spotify.com/track/0tifkxQeUoWIVw4cLcOUXO) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [As We Grow](https://open.spotify.com/album/0uyfYb9UhowfF4WL3loxAd) | 2:40 | 2026-07-24 |  |
@@ -49,6 +52,7 @@
 | [Katla](https://open.spotify.com/track/2P2T6tJOvgeox9GhPlYMKu) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Katla](https://open.spotify.com/album/4oTNLxpqANKRBpmojhfoNB) | 2:35 | 2026-08-24 |  |
 | [Le Silence](https://open.spotify.com/track/3UQoMxRBowlYY6Bkp5zskI) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Le Silence](https://open.spotify.com/album/1UtTt0MEqC4FM43PCtDDpe) | 2:10 | 2026-08-07 |  |
 | [Letting Go](https://open.spotify.com/track/4zCMKyYplY8f3EvPMRZWuz) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Letting Go](https://open.spotify.com/album/2bEhEPKQWwJ3u8acrFtJLK) | 2:16 | 2026-07-24 |  |
+| [Like Falling Leaves](https://open.spotify.com/track/4dcq8Vl6dEmLSlvp9JmRsB) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Like Falling Leaves](https://open.spotify.com/album/0ZksxbzR9FmTtkFN5JiCf5) | 3:12 | 2026-10-02 |  |
 | [Long Fold](https://open.spotify.com/track/6DhRY1ZFTT406noY4GFqTT) | [Andrea Neroli](https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO) | [Long Fold](https://open.spotify.com/album/5V2b9EkDXWYsbU5llbbRer) | 2:09 | 2026-07-24 |  |
 | [Lush Moments](https://open.spotify.com/track/1w2qcmXzP2hXRbHSxTSlPZ) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [Lush Moments](https://open.spotify.com/album/4B6sLcZQ22Cql1Pvh35jXX) | 2:35 | 2026-09-18 |  |
 | [Mirage](https://open.spotify.com/track/7H7htG1WiHeKfwjfDMZQEW) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Mirage](https://open.spotify.com/album/0EoQqDYsCWiAOJRT6Wk5i5) | 2:51 | 2026-07-24 |  |
@@ -58,6 +62,8 @@
 | [Neverending](https://open.spotify.com/track/0sZK2pvTQRoPQSlghAjYEC) | [Edwin Mercier](https://open.spotify.com/artist/1Vuacme7mzRJl6CaXjKTO0) | [Neverending](https://open.spotify.com/album/3Kuo8biAKpwyiPRjiW4g4z) | 1:54 | 2026-07-24 |  |
 | [New Ground](https://open.spotify.com/track/3t8U2kQaFKAt3WwVXdaSzv) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [New Ground](https://open.spotify.com/album/2Tj1McpS4Z2EmqioMm9eBp) | 3:11 | 2026-07-24 |  |
 | [Ojiichan](https://open.spotify.com/track/3Ts6lhDE49oOFsyKt0GbBU) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Ojiichan](https://open.spotify.com/album/5gbq7bKJ2Aabf1mC1nVj7s) | 2:19 | 2026-09-18 |  |
+| [Open Mind](https://open.spotify.com/track/7moWYyGFhxM4RHJsbbaJaR) | [Theo Solin](https://open.spotify.com/artist/1OX2OAs4EbPsLUxA3Jchly) | [Open Mind](https://open.spotify.com/album/1EJznuM4q8qyVg6kC08uTL) | 1:57 | 2026-10-02 |  |
+| [Paper Boats](https://open.spotify.com/track/6nwOMrxOzaStceawUUNS9T) | [Avoren](https://open.spotify.com/artist/1IndfJ1xoPP7YZmmvqxQxp) | [Paper Boats](https://open.spotify.com/album/5BZj2PmSp4TN6tn8A6og9p) | 2:51 | 2026-10-02 |  |
 | [Path the Waves](https://open.spotify.com/track/4TAekupQmhK3ZKqchY5j4o) | [Harold Kay](https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm) | [Path the Waves](https://open.spotify.com/album/2S2zxi5dZr0MzrfYJ23bgN) | 2:00 | 2026-09-18 |  |
 | [Patterns](https://open.spotify.com/track/6z0UhDZtA0Ln2hHhgLg6Ah) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg) | [Patterns](https://open.spotify.com/album/4bDXWDR2mxOE5XCKSRPrYU) | 2:30 | 2026-07-24 |  |
 | [Pieces of Past Times](https://open.spotify.com/track/3yUZpjAPOwvN6pzmRADkqo) | [SG Hilltwig](https://open.spotify.com/artist/756zvVCs2NGZiI0HVWfrKS) | [Pieces of Past Times](https://open.spotify.com/album/4NsjyUPHYWsQdQPCv5uc6F) | 2:04 | 2026-07-24 |  |
@@ -89,17 +95,23 @@
 | [Sunset Fields](https://open.spotify.com/track/2IJt0x091l14kWVucFSOnm) | [Djana F](https://open.spotify.com/artist/63cagQjQkkMRWkUD28NXE5) | [Sunset Fields](https://open.spotify.com/album/1h7TFt5PIeFGjg1GpDj974) | 2:46 | 2026-07-24 |  |
 | [Sunside](https://open.spotify.com/track/1YjZyU94YBTuLgBp1Df86F) | [Syrene](https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p) | [Sunside](https://open.spotify.com/album/0ODokPId0OyxADfWzouGgL) | 2:28 | 2026-08-07 |  |
 | [Take Me There](https://open.spotify.com/track/0cchNVMlw35l2VRxOdglj9) | [Herman Schirmer](https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm) | [Take Me There](https://open.spotify.com/album/65Sz1OuYoGcXNAYrJHV3m1) | 2:26 | 2026-07-24 |  |
+| [Tarn](https://open.spotify.com/track/5jqiHdmi3MjVYVNR7rbXCN) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Tarn](https://open.spotify.com/album/2gTjt7dcSugJyVIDVATpBs) | 2:37 | 2026-10-02 |  |
 | [Temporary Coexistence](https://open.spotify.com/track/44UULCqmzqSuT4FzNoALZl) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Temporary Coexistence of Humans](https://open.spotify.com/album/2ob168pec2r2ZtuSjzbgtz) | 2:53 | 2026-07-24 |  |
+| [The Calm That Follows](https://open.spotify.com/track/4sb7F3R1yEpBKAmsSo3c1O) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [The Calm That Follows](https://open.spotify.com/album/1hpaTggDek6WgYcXPwzG1e) | 2:07 | 2026-10-02 |  |
 | [The day passed](https://open.spotify.com/track/6nI7j2LJHJRTiEIMVUv1Lt) | [Erland Mills](https://open.spotify.com/artist/4bWGNCQ4IhlefV03agQ9pb) | [The day passed](https://open.spotify.com/album/3G2uY6zvMbhUqL7nLgXQ3n) | 1:52 | 2026-07-24 |  |
 | [The Eyes Of My Life](https://open.spotify.com/track/1lC0WCUtC6uQVt4mGojHUT) | [James A\. Caled](https://open.spotify.com/artist/1hhSZdhbeXdXavwXMYxEc0) | [The Eyes Of My Life](https://open.spotify.com/album/6GfzH0YlagXpS95T5R4Xon) | 2:43 | 2026-07-24 |  |
 | [The Little Creek](https://open.spotify.com/track/6mIWIguMIP9AgyO1IZuuvz) | [Djana F](https://open.spotify.com/artist/63cagQjQkkMRWkUD28NXE5) | [The Little Creek](https://open.spotify.com/album/0f65orBlbP7Lqt6FH7EWEp) | 2:25 | 2026-09-18 |  |
 | [The Other Side](https://open.spotify.com/track/7k2HBaK9P4l1rYhYddIvc4) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [The Other Side](https://open.spotify.com/album/0h9k2t7WfRmekpF7onE0UW) | 2:09 | 2026-09-18 |  |
 | [The Water Carries On](https://open.spotify.com/track/0wR7a6tpVxs1w51mBWgaFh) | [Theo Solin](https://open.spotify.com/artist/1OX2OAs4EbPsLUxA3Jchly) | [The Water Carries On](https://open.spotify.com/album/2WHvcDQmIowttex3kAZXLB) | 2:21 | 2026-07-24 |  |
+| [The Words We Share](https://open.spotify.com/track/2hlEAFGbo8c7jxkzcSewLL) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [The Words We Share](https://open.spotify.com/album/52o4KzBkl33TP9WfWkN8yV) | 2:44 | 2026-10-02 |  |
 | [Through It All](https://open.spotify.com/track/6xSNZtpN8OhzabYXKqHI7i) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Through It All](https://open.spotify.com/album/4RF3O2mvPaB5Te5GGeJQpZ) | 3:17 | 2026-07-24 |  |
 | [Timing](https://open.spotify.com/track/3FprG4ou1vtAdvQO2ZeiLr) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Timing](https://open.spotify.com/album/7dWIQZAvUFp0VCVdsIyzOr) | 2:10 | 2026-07-24 |  |
+| [Trying, Still](https://open.spotify.com/track/51uthFdDTh8zU3IE9EjM4M) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Trying, Still](https://open.spotify.com/album/4AXEjsqoGa1V63cbKXwwPM) | 2:45 | 2026-10-02 |  |
 | [Wallflower](https://open.spotify.com/track/1LOBr57oFOqCuepGRjQvWK) | [Følgesvend](https://open.spotify.com/artist/3HFQhWHwDYkmK1x7WkKO78) | [Wallflower](https://open.spotify.com/album/0NZ9QKR2dpL5TTwoimI6zS) | 2:17 | 2026-07-24 |  |
 | [Wander](https://open.spotify.com/track/0ies7PA42O8rBca3oxSIAy) | [Owen Pearson](https://open.spotify.com/artist/30Zx8PMqcPaUdyifi9tBeY) | [Wander](https://open.spotify.com/album/5S8GjwHjUhXff9T7tpc8MY) | 2:35 | 2026-07-24 |  |
 | [Westmoor Park](https://open.spotify.com/track/4sVJY7cS2xrVXZgLtv78GA) | [R\. Coxwell](https://open.spotify.com/artist/7jNyI8cwWANZyQKpBp4ua9) | [Westmoor Park](https://open.spotify.com/album/3eaatGS30oceabBwpkbSnF) | 1:56 | 2026-07-24 |  |
+| [White Sand](https://open.spotify.com/track/3fAXP2QcFWVRK1b98qygpP) | [Eduardo Genovese](https://open.spotify.com/artist/0C5G9gWdD393xSCYigpzho) | [White Sand](https://open.spotify.com/album/51xMYNQXwuiiqCN6URRwH3) | 2:14 | 2026-10-02 |  |
+| [Wood & Static](https://open.spotify.com/track/5I60nXmxtLOKQ06EJlvIgF) | [SoftKey](https://open.spotify.com/artist/73P22uwEYwcNzLZhc63iFX) | [Wood & Static](https://open.spotify.com/album/3VVQMgT622VIRUgHaYuErB) | 2:36 | 2026-10-02 |  |
 | [Worn 1](https://open.spotify.com/track/51wGJFpD3N8zdUau6qFQgr) | [Quentin Lachapèle](https://open.spotify.com/artist/2j7F6xrsJx8NwRsAG367tb) | [Still Point I](https://open.spotify.com/album/5AwctW8p9cxT6GyHbVk8sf) | 5:52 | 2026-07-24 |  |
 
 \*This playlist was first scraped on 2026-07-29. Prior content cannot be recovered.

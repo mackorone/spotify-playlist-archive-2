@@ -604,10 +604,28 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+    },
+    {
+      "album": {
+        "name": "Mini World (Deluxe)",
+        "url": "https://open.spotify.com/album/67py9Fs3X4K451QuO5eCLI"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Ainsi bas la vida",
+      "url": "https://open.spotify.com/track/4lsOsGMzO1yCjGVucoWOZ1"
     },
     {
       "album": {
@@ -1826,6 +1844,24 @@
       "duration_ms": 207403,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
+    },
+    {
+      "album": {
+        "name": "BADDIES IN BELGICA",
+        "url": "https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k"
+      },
+      "artists": [
+        {
+          "name": "Issah",
+          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125536,
+      "name": "BADDIES IN BELGICA",
+      "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
     },
     {
       "album": {
@@ -7806,7 +7842,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 139896,
       "name": "Flex",
       "url": "https://open.spotify.com/track/2eGuWa4kKeHXXXYzNY3Tnn"
@@ -10096,6 +10132,24 @@
       "duration_ms": 187546,
       "name": "Je me l\u00e2che",
       "url": "https://open.spotify.com/track/4EK7yl0mGD7LRUNSDZrsId"
+    },
+    {
+      "album": {
+        "name": "Je pense \u00e0 elle",
+        "url": "https://open.spotify.com/album/0aDmTTzK9WWU5gjnuNNjJS"
+      },
+      "artists": [
+        {
+          "name": "MO'GLY",
+          "url": "https://open.spotify.com/artist/12wLTCwp05fqDhchOQLWf4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207873,
+      "name": "Je pense \u00e0 elle",
+      "url": "https://open.spotify.com/track/4wlZ4eeABHvVrk7umMUiV7"
     },
     {
       "album": {
@@ -14806,7 +14860,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 198520,
       "name": "Mopao aye",
       "url": "https://open.spotify.com/track/0YjcIRiArrvDYyZz3YUegi"
@@ -15391,6 +15445,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "album": {
         "name": "NINA",
         "url": "https://open.spotify.com/album/2AZb9w8mOIBFdjyNnTbPKp"
       },
@@ -15950,7 +16022,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179301,
       "name": "Nowhere 2",
       "url": "https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD"
@@ -16974,7 +17046,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 158956,
       "name": "Paradis Fiscal",
       "url": "https://open.spotify.com/track/0kuET25d7QnF6vYzNEzATQ"
@@ -18266,6 +18338,36 @@
       "duration_ms": 113926,
       "name": "P\u00e9t\u00e9 Tchouw",
       "url": "https://open.spotify.com/track/3NFdsbXTff5giZ7qERfDMJ"
+    },
+    {
+      "album": {
+        "name": "Franchement !",
+        "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Qu'on s'attache",
+      "url": "https://open.spotify.com/track/2dvChuAwfrlqZdJumaeATh"
     },
     {
       "album": {
@@ -20226,7 +20328,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 106909,
       "name": "SLICK",
       "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
@@ -20984,6 +21086,32 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Li #TopShatta",
+        "url": "https://open.spotify.com/album/2U6li2uWEIupq3BP5aK95v"
+      },
+      "artists": [
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "DJ Tixtox",
+          "url": "https://open.spotify.com/artist/6CmCgKWbL1CIpepaOr1MrQ"
+        },
+        {
+          "name": "DJ Sown",
+          "url": "https://open.spotify.com/artist/54WyjrEzRfxtF0fEAg3uqT"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141470,
+      "name": "S\u00e9 Li #TopShatta",
+      "url": "https://open.spotify.com/track/4ZUkPSVsjUlzHwWUhbKH8M"
     },
     {
       "album": {

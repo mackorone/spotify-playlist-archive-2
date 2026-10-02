@@ -2285,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/6IkUQRW8xr8xCOfSFvry0c"
+      },
+      "artists": [
+        {
+          "name": "Emander",
+          "url": "https://open.spotify.com/artist/0qDPvhleFKlgI3jLKQh90n"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114750,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/0SurkBGkCDBiidU74wnWhE"
+    },
+    {
+      "album": {
         "name": "I Still Miss You",
         "url": "https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA"
       },
@@ -2768,6 +2786,24 @@
       "duration_ms": 180230,
       "name": "Las Torres",
       "url": "https://open.spotify.com/track/1u3vCCEmUHOrHjLlwR2nyU"
+    },
+    {
+      "album": {
+        "name": "Last Summer Light",
+        "url": "https://open.spotify.com/album/367SZszttQPhvDkeDgOp1T"
+      },
+      "artists": [
+        {
+          "name": "Evan Scudo",
+          "url": "https://open.spotify.com/artist/52YRLeGKgHrZwxxXqfIJ8w"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120855,
+      "name": "Last Summer Light",
+      "url": "https://open.spotify.com/track/5sm3L8o04UNgRDFpUJJGun"
     },
     {
       "album": {
@@ -5398,6 +5434,24 @@
       "duration_ms": 126343,
       "name": "The Long Return",
       "url": "https://open.spotify.com/track/5AevI3cV3brwdOTSh1sfNo"
+    },
+    {
+      "album": {
+        "name": "The New Season",
+        "url": "https://open.spotify.com/album/1goMQ3J8VIXZbHfoPLkFaH"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157033,
+      "name": "The New Season",
+      "url": "https://open.spotify.com/track/4cMiXS1lpmobLYm97H5iYW"
     },
     {
       "album": {

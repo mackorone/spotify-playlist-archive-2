@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 60123,
+  "num_followers": 60205,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAABXbTaty6mzAurMVUL2A5x",
+  "snapshot_id": "arxRAAAAAAD6D2aQ0aGb1V47n7GTCSz3",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly things",
-        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 209924,
-      "name": "Ugly things",
-      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stick Season (Forever)",
         "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
@@ -203,22 +187,6 @@
       "duration_ms": 214545,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/7vuTIC1zVc3i5VffKd2cHq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 273517,
-      "name": "The moon",
-      "url": "https://open.spotify.com/track/0JcR1xVbLnK63pHC5owaiV"
     },
     {
       "added_at": null,
@@ -275,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 242370,
-      "name": "I have a friend",
-      "url": "https://open.spotify.com/track/2BqwuaG2o7SmWASv8IhlJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -303,6 +255,22 @@
       "duration_ms": 237513,
       "name": "chemtrails",
       "url": "https://open.spotify.com/track/0J4PdreUozgygeHxhsDIMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 273517,
+      "name": "The moon",
+      "url": "https://open.spotify.com/track/0JcR1xVbLnK63pHC5owaiV"
     },
     {
       "added_at": null,
@@ -359,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 242370,
+      "name": "I have a friend",
+      "url": "https://open.spotify.com/track/2BqwuaG2o7SmWASv8IhlJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -391,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 235163,
-      "name": "Two elevens",
-      "url": "https://open.spotify.com/track/5eyA1FEEE0pMazqeAA3AYD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
@@ -419,6 +387,22 @@
       "duration_ms": 180482,
       "name": "Let Light Be Light",
       "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 235163,
+      "name": "Two elevens",
+      "url": "https://open.spotify.com/track/5eyA1FEEE0pMazqeAA3AYD"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 214468,
       "name": "erase me",
       "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
     },
     {
       "added_at": null,

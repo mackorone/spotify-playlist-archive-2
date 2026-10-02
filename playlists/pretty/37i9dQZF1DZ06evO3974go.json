@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21251,
+  "num_followers": 21254,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABpNMFUY47A3mFmJBLOcPUT",
+  "snapshot_id": "arxRAAAAAAC98kHuzCwmykzVtfJ4r+lH",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/7vvmO2zdUpDfgGLJunyG7v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 193697,
       "name": "Milk Marie",
       "url": "https://open.spotify.com/track/7ufefyIYQ1CozJ6umgLr9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/7vvmO2zdUpDfgGLJunyG7v"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summer Sampler",
-        "url": "https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 239089,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO YO PURPOSE",
         "url": "https://open.spotify.com/album/7i0ah7NXPBOJhh2gcl2PKx"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 204800,
       "name": "NO YO PURPOSE",
       "url": "https://open.spotify.com/track/5PNGGk15Ev22poMGNrWkXp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summer Sampler",
+        "url": "https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 239089,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "WWYD",
+      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 240133,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "WWYD",
-      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Basics",
-        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Heart Cold",
-      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 263053,
       "name": "Keep It Goin",
       "url": "https://open.spotify.com/track/1XYOVvfSbn1Ez4p6pwUsia"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Heart Cold",
+      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "Reloaded",
-      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Most - Single",
         "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
       },
@@ -799,26 +783,6 @@
       "duration_ms": 207405,
       "name": "The Most",
       "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slime Season 2",
-        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Never Made Love (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
     },
     {
       "added_at": null,
@@ -843,6 +807,42 @@
       "duration_ms": 247384,
       "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
       "url": "https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "Reloaded",
+      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Season 2",
+        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Never Made Love (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 214947,
-      "name": "Perfect Flower",
-      "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life After Fame",
         "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 164622,
       "name": "Rich Homie Quando (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rich As In Spirit",
+        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 214947,
+      "name": "Perfect Flower",
+      "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
     },
     {
       "added_at": null,

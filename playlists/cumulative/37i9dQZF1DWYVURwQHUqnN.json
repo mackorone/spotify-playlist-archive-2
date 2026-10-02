@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Nayte",
+  "description": "Photo : Shay x Ronisia x Meryl",
   "name": "Best Life",
   "tracks": [
     {
@@ -744,7 +744,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 135865,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/39ziATSID3HVZwrWBs9T9u"
@@ -1541,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Bodycount",
+        "url": "https://open.spotify.com/album/0TV8TjT15tUQXgn1N5KTSz"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154460,
+      "name": "Bodycount",
+      "url": "https://open.spotify.com/track/5NLAurSVEWIwVuVqO5iIEX"
+    },
+    {
+      "album": {
         "name": "SOMOTRO RESURRECCI\u00d3N",
         "url": "https://open.spotify.com/album/2EwGWCTQ2yX5Z31GavvCs8"
       },
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 151093,
       "name": "Bottega",
       "url": "https://open.spotify.com/track/4KmrZGwYxoSlqppyXCTCPA"
@@ -2214,7 +2236,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 141156,
       "name": "Cam\u00e9ra",
       "url": "https://open.spotify.com/track/3ce6Eus0sTzTOIUXcDsm2z"
@@ -3311,6 +3333,32 @@
     },
     {
       "album": {
+        "name": "Cuenta (feat. Meryl & Shay)",
+        "url": "https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Cuenta (feat. Meryl & Shay)",
+      "url": "https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr"
+    },
+    {
+      "album": {
         "name": "Jeunesse Dor\u00e9e",
         "url": "https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3"
       },
@@ -4200,7 +4248,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 145920,
       "name": "ELLE VOULAIT",
       "url": "https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9"
@@ -4958,6 +5006,24 @@
       "duration_ms": 142000,
       "name": "GOUMIN",
       "url": "https://open.spotify.com/track/0MYVq6o7T9YfiWHAklIeUy"
+    },
+    {
+      "album": {
+        "name": "Griselda",
+        "url": "https://open.spotify.com/album/5FUIguNMK6Mq8hVjwbjaJI"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Griselda",
+      "url": "https://open.spotify.com/track/2py973X1DW6o68WwUTEly7"
     },
     {
       "album": {
@@ -6338,6 +6404,32 @@
       "duration_ms": 198768,
       "name": "Longue Vie",
       "url": "https://open.spotify.com/track/0umGQ1GKLKp8V3xrzTqJiv"
+    },
+    {
+      "album": {
+        "name": "Longue vie \u00e0 nous",
+        "url": "https://open.spotify.com/album/2fjVClEdcw6sFvssKcyinN"
+      },
+      "artists": [
+        {
+          "name": "Black M",
+          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199028,
+      "name": "Longue vie \u00e0 nous",
+      "url": "https://open.spotify.com/track/1IsosHLLJlLuCLsrIIhqfc"
     },
     {
       "album": {
@@ -7916,7 +8008,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 155624,
       "name": "NDRANGETHA",
       "url": "https://open.spotify.com/track/6NSsDjODx8du3AxWF5sy4u"
@@ -8250,7 +8342,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 108600,
       "name": "O lali",
       "url": "https://open.spotify.com/track/2VawczjValTJ9WoHyj7Uxk"
@@ -8610,6 +8702,28 @@
       "duration_ms": 215813,
       "name": "Pa Pa Paw",
       "url": "https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp"
+    },
+    {
+      "album": {
+        "name": "PA' TOUCH - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172775,
+      "name": "PA' TOUCH - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM"
     },
     {
       "album": {
@@ -11036,6 +11150,24 @@
       "duration_ms": 183307,
       "name": "SPA",
       "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
+    },
+    {
+      "album": {
+        "name": "SPECIALE",
+        "url": "https://open.spotify.com/album/485ggsKTOooU8NylzCCeN8"
+      },
+      "artists": [
+        {
+          "name": "Ashvma",
+          "url": "https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151560,
+      "name": "SPECIALE",
+      "url": "https://open.spotify.com/track/6pdTLChnzGW3zOv4gwFJQ0"
     },
     {
       "album": {

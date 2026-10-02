@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 69140,
+  "num_followers": 69158,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "Disturbing Tha Peace Presents Bobby Valentino",
+        "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
+      },
+      "artists": [
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "Slow Down - 12\" Version",
+      "url": "https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 276960,
       "name": "Sativa",
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "Disturbing Tha Peace Presents Bobby Valentino",
-        "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
-      },
-      "artists": [
-        {
-          "name": "Bobby V.",
-          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "Slow Down - 12\" Version",
-      "url": "https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -263,18 +263,18 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 386626,
-      "name": "Next Lifetime",
-      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -295,18 +295,18 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
     },
     {
       "added_at": "2022-10-02 01:51:23",

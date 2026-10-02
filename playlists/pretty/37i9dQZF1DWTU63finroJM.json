@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Maia Reficco",
-  "num_followers": 88593,
+  "num_followers": 88596,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
+        "name": "Perderte",
+        "url": "https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 184300,
+      "name": "Perderte",
+      "url": "https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
         "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
         "url": "https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn"
       },
@@ -199,18 +215,18 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "Perderte",
-        "url": "https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF"
+        "name": "El Endemoniao",
+        "url": "https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo"
       },
       "artists": [
         {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
         }
       ],
-      "duration_ms": 184300,
-      "name": "Perderte",
-      "url": "https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij"
+      "duration_ms": 214537,
+      "name": "El Endemoniao",
+      "url": "https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -231,22 +247,6 @@
       "duration_ms": 148943,
       "name": "stranger",
       "url": "https://open.spotify.com/track/7rIncPcHyKmnsZgyvGhoDw"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
-        "name": "El Endemoniao",
-        "url": "https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo"
-      },
-      "artists": [
-        {
-          "name": "Alcal\u00e1 Norte",
-          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
-        }
-      ],
-      "duration_ms": 214537,
-      "name": "El Endemoniao",
-      "url": "https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx"
+      },
+      "artists": [
+        {
+          "name": "Lewis Love",
+          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
         "name": "Izinkan Aku Belajar Jatuh Sendiri",
         "url": "https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx"
+        "name": "Writing's on the Wall",
+        "url": "https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G"
       },
       "artists": [
         {
-          "name": "Lewis Love",
-          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
         }
       ],
-      "duration_ms": 203225,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
+      "duration_ms": 183808,
+      "name": "Writing's on the Wall",
+      "url": "https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -491,22 +507,6 @@
       "duration_ms": 123375,
       "name": "Camila",
       "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
-        "name": "Writing's on the Wall",
-        "url": "https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 183808,
-      "name": "Writing's on the Wall",
-      "url": "https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz"
     },
     {
       "added_at": "2026-09-25 13:00:07",

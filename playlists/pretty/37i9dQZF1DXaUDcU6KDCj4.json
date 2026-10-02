@@ -1,13 +1,289 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hermanos Guti\u00e9rrez",
-  "num_followers": 883212,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Andrea Bejar",
+  "num_followers": 883319,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC9i9eMLlqGBY3mVJVgP2rp9MNTZ",
+  "snapshot_id": "AAAAAGQ5AVBI/9WUxHMmCKotDcRLdqd0",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Tell Me I'm Beautiful",
+        "url": "https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 215246,
+      "name": "Tell Me I'm Beautiful",
+      "url": "https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Harding Road",
+        "url": "https://open.spotify.com/album/7FhOfp0Qp65jK8AwyG7Q1S"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 231844,
+      "name": "Harding Road",
+      "url": "https://open.spotify.com/track/6STS7ZuuyojKWNqwqlQRfD"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Hers",
+        "url": "https://open.spotify.com/album/5iHBBlDTtmCAFrSutAVwY2"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 270220,
+      "name": "Hers",
+      "url": "https://open.spotify.com/track/42leQt2fs7BBNkpntuMkAM"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Music and Dreams",
+        "url": "https://open.spotify.com/album/1DCMhU6KqqBuLDx1hXi31Y"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 183648,
+      "name": "Music and Dreams - Cover Version",
+      "url": "https://open.spotify.com/track/0M8yb3aUEfCYgIoX7QS2xE"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Fell Ass Backwards",
+        "url": "https://open.spotify.com/album/3W7i1zFzkka3bAWCNbI3GH"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 143882,
+      "name": "Fell Ass Backwards",
+      "url": "https://open.spotify.com/track/2DpILFiRNzOKzvNbhPs0U8"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "One of a Thousand",
+        "url": "https://open.spotify.com/album/2rcVhgws1iqdpVMwAg5IhN"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "One of a Thousand",
+      "url": "https://open.spotify.com/track/2uacWbmPnAuq3Gvmp3CGnp"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Hands Tied",
+        "url": "https://open.spotify.com/album/0SA7BPPq03hz256PIrkoai"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 187624,
+      "name": "Hands Tied",
+      "url": "https://open.spotify.com/track/7a7hhyTY8lO92eW3M2GJPF"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Loser's Prize",
+        "url": "https://open.spotify.com/album/6fqTyj0rpCM3oUd7IafzZl"
+      },
+      "artists": [
+        {
+          "name": "Greg Freeman",
+          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
+        }
+      ],
+      "duration_ms": 282919,
+      "name": "Loser's Prize",
+      "url": "https://open.spotify.com/track/4D0rf55hqEL8PjxHJuDCo2"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Lightspheres on Their Way",
+        "url": "https://open.spotify.com/album/4raaYds0i8Z9Ai0njZ9Dwf"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Bindlestiff",
+      "url": "https://open.spotify.com/track/5ISZ5PHuaHMbRTLdwden0M"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Shop Girl",
+        "url": "https://open.spotify.com/album/79oYM0Wy9Z1TZfdW9IVFwF"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 244860,
+      "name": "I Never Wanna Say Goodbye",
+      "url": "https://open.spotify.com/track/2JrmOPCCnek1NSEf0iwPkC"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Free Again",
+        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "duration_ms": 232104,
+      "name": "Free Again",
+      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Trade My Troubles",
+        "url": "https://open.spotify.com/album/0utWtQgDl1RPgQdljaw8c2"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 297133,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/7AOub16inMnQ3mFlVOnFe3"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "away he goes",
+        "url": "https://open.spotify.com/album/6qhIlbYDKRMYIWmguNBGGk"
+      },
+      "artists": [
+        {
+          "name": "Eric Kane",
+          "url": "https://open.spotify.com/artist/1c0It57ov3NYgwdU1trh2Y"
+        }
+      ],
+      "duration_ms": 231232,
+      "name": "away he goes",
+      "url": "https://open.spotify.com/track/1guXNY98YDXbeScBWryx17"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "decembers",
+        "url": "https://open.spotify.com/album/0jnUhRL2wuWzc59MaZ3D8h"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "decembers",
+      "url": "https://open.spotify.com/track/5E4lH1YcqN4LIGcE5TRmV1"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Queens",
+        "url": "https://open.spotify.com/album/58mb074KdbNxpLKrkvDZej"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "duration_ms": 387646,
+      "name": "Queens",
+      "url": "https://open.spotify.com/track/38BxonKtYegINzHKASHfty"
+    },
+    {
+      "added_at": "2026-10-02 04:02:35",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/3EZilmuhvUXeIV5ArFZiM9"
+      },
+      "artists": [
+        {
+          "name": "Lucy Clearwater",
+          "url": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj"
+        }
+      ],
+      "duration_ms": 274989,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0zfkMhuaeRI2592YUYXN9n"
+    },
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
@@ -2191,290 +2467,6 @@
       "duration_ms": 232146,
       "name": "Three Reds",
       "url": "https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "never tell me",
-        "url": "https://open.spotify.com/album/1RgS8yPzF7cdagLDiLr4lj"
-      },
-      "artists": [
-        {
-          "name": "Sadurn",
-          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
-        }
-      ],
-      "duration_ms": 355680,
-      "name": "never tell me",
-      "url": "https://open.spotify.com/track/6v1OttJqtGUUnZV6H98eoA"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Sleeping",
-        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 212391,
-      "name": "Sleeping",
-      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Deliver Me From Trying",
-        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Deliver Me From Trying",
-      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Shady Grove",
-        "url": "https://open.spotify.com/album/7gSwiWGKQCk3sgrDFvahN9"
-      },
-      "artists": [
-        {
-          "name": "Jake Blount",
-          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
-        }
-      ],
-      "duration_ms": 247951,
-      "name": "Shady Grove",
-      "url": "https://open.spotify.com/track/4uWjmKEs2yRC5pNyaXiXy9"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Nothing Really Changes",
-        "url": "https://open.spotify.com/album/0qhXTpejDxZ5apyxlAt8fh"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 353176,
-      "name": "Nothing Really Changes",
-      "url": "https://open.spotify.com/track/3t3biITmzgT9QhLsTMbn5j"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "the one you want to lose",
-        "url": "https://open.spotify.com/album/1pBWpGYmRnQRGIFqEDTlKJ"
-      },
-      "artists": [
-        {
-          "name": "Aubory Bugg",
-          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
-        }
-      ],
-      "duration_ms": 218688,
-      "name": "the one you want to lose",
-      "url": "https://open.spotify.com/track/184Ga9y5dRIuPmtLGNWYQr"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Walk With Love",
-        "url": "https://open.spotify.com/album/1wPHw7RxQWpdeXSbyasmfd"
-      },
-      "artists": [
-        {
-          "name": "Radiator Hospital",
-          "url": "https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn"
-        }
-      ],
-      "duration_ms": 115471,
-      "name": "Walk With Love",
-      "url": "https://open.spotify.com/track/2MuZk5izPYvREbpX4Iqf0a"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Where'd You Go?",
-        "url": "https://open.spotify.com/album/095YAnEqxe5UAvpWcghKER"
-      },
-      "artists": [
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Where'd You Go?",
-      "url": "https://open.spotify.com/track/6KntJiYlz3eCI5Ipymv2ad"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "the evergreen, the birch",
-        "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        },
-        {
-          "name": "MEGGO",
-          "url": "https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "the evergreen, the birch",
-      "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Welterweight",
-        "url": "https://open.spotify.com/album/00Kk1SZ8ML7FYVGNnHVMPw"
-      },
-      "artists": [
-        {
-          "name": "Hank Heaven",
-          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
-        }
-      ],
-      "duration_ms": 148196,
-      "name": "Daddy's Gonna Buy You a Car",
-      "url": "https://open.spotify.com/track/5euyasUWQNPf0uwQshxMv5"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Homes on the Hill",
-        "url": "https://open.spotify.com/album/4hkXGVtZNE9edFCMrwuPuw"
-      },
-      "artists": [
-        {
-          "name": "vern matz",
-          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "The Best Possible World, Pt. 1",
-      "url": "https://open.spotify.com/track/5KsAEJknSjIlLoB9tASGkf"
-    },
-    {
-      "added_at": "2026-08-07 04:00:10",
-      "album": {
-        "name": "Trying to Love You",
-        "url": "https://open.spotify.com/album/0EkpTvE8v9vackhs5lxMXk"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 290141,
-      "name": "Trying to Love You",
-      "url": "https://open.spotify.com/track/4kJ0V9jYljXTK9sWcLFzYZ"
-    },
-    {
-      "added_at": "2026-08-07 04:00:10",
-      "album": {
-        "name": "Her Eyes Dart Round",
-        "url": "https://open.spotify.com/album/4d1Bz3PslXUTI4ofL2VqC1"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        },
-        {
-          "name": "Felice County Fair",
-          "url": "https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL"
-        }
-      ],
-      "duration_ms": 173024,
-      "name": "Her Eyes Dart Round",
-      "url": "https://open.spotify.com/track/19usgOmcdzZMRx5XKJZlmV"
-    },
-    {
-      "added_at": "2026-08-07 04:00:10",
-      "album": {
-        "name": "4 songs",
-        "url": "https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 184540,
-      "name": "pull me out",
-      "url": "https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC"
-    },
-    {
-      "added_at": "2026-08-07 04:00:10",
-      "album": {
-        "name": "Ellen Forever",
-        "url": "https://open.spotify.com/album/7KllU4dJAaIwt4vL601PCD"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 181063,
-      "name": "Ellen Forever",
-      "url": "https://open.spotify.com/track/5TTN9RKqzURTGMTssbu2JS"
-    },
-    {
-      "added_at": "2026-08-07 04:00:10",
-      "album": {
-        "name": "Hollywood Sign",
-        "url": "https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rowe",
-          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
-        }
-      ],
-      "duration_ms": 241169,
-      "name": "Hollywood Sign",
-      "url": "https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k"
-    },
-    {
-      "added_at": "2026-08-07 04:00:10",
-      "album": {
-        "name": "Kansas Tornado",
-        "url": "https://open.spotify.com/album/5Yrpd6zYr1VGNk0NhBN8wQ"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 192621,
-      "name": "Kansas Tornado",
-      "url": "https://open.spotify.com/track/3IXnoahxOwwJ20M1GnNVHc"
     }
   ],
   "unique_name": "Fresh Folk",

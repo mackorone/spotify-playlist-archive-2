@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-889 songs - 1 day 14 hr 35 min
+890 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Distant Fortune](https://open.spotify.com/track/6dqF3sWFq18Jav3zHjYrJ2) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 3:21 | 2021-12-08 | 2022-07-08 |
 | [Distant Horizon](https://open.spotify.com/track/1A76RyCfSTsMefMYELl7oz) | [Himesh Ailan](https://open.spotify.com/artist/4jZ7cs8zeF7nbLxhouzyOO) | [Distant Horizon](https://open.spotify.com/album/7Jm6OJ6JpPwjiJAOEevzfd) | 2:40 | 2026-07-10 |  |
 | [Distant Shore](https://open.spotify.com/track/358grkBo9B5eR7qlnmSIGv) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Distant Shore](https://open.spotify.com/album/2Vw8NgD0EVnt0k6SDtdHCY) | 2:27 | 2021-12-08 | 2022-06-10 |
+| [Distant Shores](https://open.spotify.com/track/54VkdFBj4VjfS5Joi2rvQg) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Distant Shores](https://open.spotify.com/album/7EjYoyClp2RkSip7ES8sjl) | 2:33 | 2026-10-02 |  |
 | [Divine Smile](https://open.spotify.com/track/6nnoZ1JS7wWrpRcg1DsWas) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Divine Smile](https://open.spotify.com/album/0rmJuboHrB6Tpd7Sb71bad) | 2:04 | 2024-02-23 | 2025-02-25 |
 | [Doing Better](https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Doing Better](https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5) | 1:48 | 2022-07-22 | 2023-08-19 |
 | [Dolomites](https://open.spotify.com/track/1z33oWkek1cihwgo5r2D6L) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Dolomites](https://open.spotify.com/album/2zVXtznsC9kRigDpDLCE5g) | 2:50 | 2025-01-27 | 2025-11-12 |

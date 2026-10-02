@@ -1605,6 +1605,28 @@
     },
     {
       "album": {
+        "name": "DRINKIN\u2019 ALONE",
+        "url": "https://open.spotify.com/album/0pAr4M2YVgUGH027wDQgW4"
+      },
+      "artists": [
+        {
+          "name": "Country Night",
+          "url": "https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3"
+        },
+        {
+          "name": "Grace Gunn",
+          "url": "https://open.spotify.com/artist/7DZxs9KX3xr0C5T2y3Mi16"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137414,
+      "name": "DRINKIN\u2019 ALONE",
+      "url": "https://open.spotify.com/track/49aUHGf6qr7NJbAyxeh06t"
+    },
+    {
+      "album": {
         "name": "Midland - Country Night Remixes",
         "url": "https://open.spotify.com/album/5f76YO2fVNooew3UEuoSBB"
       },

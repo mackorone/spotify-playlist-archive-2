@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unge kniv \ud83d\udd2a @JOSVA",
+  "description": "unge kniv \ud83d\udd2a @Fine",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -6692,6 +6692,24 @@
       "duration_ms": 206924,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/6Bd25fpOLW5TzfRRtqcaFG"
+    },
+    {
+      "album": {
+        "name": "Sometimes I rush",
+        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90867,
+      "name": "Sometimes I rush",
+      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
     },
     {
       "album": {

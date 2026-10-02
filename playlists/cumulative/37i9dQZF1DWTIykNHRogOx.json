@@ -3936,7 +3936,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 166346,
       "name": "Les mots blessent",
       "url": "https://open.spotify.com/track/4B1bOtFHzttyas5Q0dTU9Y"
@@ -4362,7 +4362,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 167666,
       "name": "Maman",
       "url": "https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4"
@@ -5000,7 +5000,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199833,
       "name": "Paris-Madrid",
       "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
@@ -5469,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "Qui",
+        "url": "https://open.spotify.com/album/7lVv14cj4hKWN3KKerlL2L"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247991,
+      "name": "Qui",
+      "url": "https://open.spotify.com/track/4sqwuUeNZGR8NTIUf1I8AB"
+    },
+    {
+      "album": {
         "name": "Quitter la ville",
         "url": "https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms"
       },
@@ -5560,6 +5578,24 @@
       "duration_ms": 219773,
       "name": "rentrer chez moi",
       "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
+    },
+    {
+      "album": {
+        "name": "Ressens",
+        "url": "https://open.spotify.com/album/4T4HAQoTZWeZyDwgKxpQ3b"
+      },
+      "artists": [
+        {
+          "name": "Hollysiz",
+          "url": "https://open.spotify.com/artist/6SLddo53tvP0cJdocEutfV"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183010,
+      "name": "Ressens",
+      "url": "https://open.spotify.com/track/4ezg0M1I331BZVSY98TCFT"
     },
     {
       "album": {
@@ -6058,6 +6094,24 @@
       "duration_ms": 162016,
       "name": "Sous mon bob",
       "url": "https://open.spotify.com/track/6uBOkq10cGEvQjF3bygMYX"
+    },
+    {
+      "album": {
+        "name": "souveraine : melancholia",
+        "url": "https://open.spotify.com/album/1bYvhzMLQysen43fLcZ1Xd"
+      },
+      "artists": [
+        {
+          "name": "Mathilde",
+          "url": "https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241967,
+      "name": "souveraine : melancholia",
+      "url": "https://open.spotify.com/track/7lz70aLFPlpvm5WGekWKJT"
     },
     {
       "album": {

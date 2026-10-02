@@ -2477,6 +2477,24 @@
     },
     {
       "album": {
+        "name": "kung tayo\u2019y nasa isang horror na pelikula, tiyak ako ang una mong papatayin",
+        "url": "https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207314,
+      "name": "Pag-Ibig ay Kanibalismo II",
+      "url": "https://open.spotify.com/track/1I44TjvgnOjZTxaGs0E44W"
+    },
+    {
+      "album": {
         "name": "Pag-ibig ng Ikaw at Ako",
         "url": "https://open.spotify.com/album/4XcBixCavHYqmVPCAr2jwN"
       },
@@ -3122,7 +3140,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 266371,
       "name": "Saranggola",
       "url": "https://open.spotify.com/track/2V3HVXu25O5xCAjmmptYCo"

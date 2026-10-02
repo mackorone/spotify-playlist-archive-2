@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-392 songs - 22 hr 32 min
+393 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Know You Better \(feat\. Fabolous & Pusha T\)](https://open.spotify.com/track/4on9QW1gRc1etKGIubQzWn) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Know You Better \(feat\. Fabolous & Pusha T\)](https://open.spotify.com/album/0nmW7UfAZynPbnkff9gE9f) | 4:47 | 2024-02-07 |  |
 | [L.A\. Love \(La La\)](https://open.spotify.com/track/518UEkLkoqUipreT1FySZI) | [Universales](https://open.spotify.com/artist/07zqSxVJNb2W8jIt5UAZJc) | [L.A\. Love \(La La\) \[Tribute to Fergie\]](https://open.spotify.com/album/7ooCz1DPsgDUBsnJPH1vcl) | 3:11 | 2024-02-07 |  |
 | [L.A.LOVE \(la la\) \(feat\. YG\)](https://open.spotify.com/track/746BlfyY0hVG65EtfaNvwo) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 3:31 | 2024-02-07 | 2026-03-07 |
+| [L.A.LOVE \(la la\) \[feat\. YG\]](https://open.spotify.com/track/5h2nC1QYVpK0AJra70Ja3p) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Double Dutchess](https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e) | 3:31 | 2026-10-01 |  |
 | [La Familia](https://open.spotify.com/track/7gwDqZmkyNf5YCSXpxLWwd) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Islah \(Deluxe\)](https://open.spotify.com/album/5Hs43ta4vAYKRRRR7DKjt9) | 3:50 | 2024-02-07 |  |
 | [Lady Patra](https://open.spotify.com/track/538KWiWJHJ2FgJu0ndaANF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:56 | 2024-02-07 |  |
 | [LBD](https://open.spotify.com/track/3c0uKKorZypy13KkO1u8AD) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LBD](https://open.spotify.com/album/4HjMn5cTiTU7LkG4GcKDjg) | 3:23 | 2024-02-07 |  |

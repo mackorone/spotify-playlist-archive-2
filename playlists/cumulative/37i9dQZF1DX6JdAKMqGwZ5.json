@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Alba Morena.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Teo Planell.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Un \u00c1ngel Y Yo",
+        "url": "https://open.spotify.com/album/2PmHU4cHEgkH7Z6VV5gIy9"
+      },
+      "artists": [
+        {
+          "name": "MaiteQuiero",
+          "url": "https://open.spotify.com/artist/6z3adcBXMsz0Y5VGyWTO69"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239202,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/1hXsU2SNpddLk7sDHPBt9k"
+    },
+    {
+      "album": {
         "name": "Roomie 313",
         "url": "https://open.spotify.com/album/4RO9PEWU6tSIjNggU9WP9C"
       },
@@ -458,7 +476,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 186228,
       "name": "A la luz del d\u00eda",
       "url": "https://open.spotify.com/track/3w8m7jZjY2JDbwam1A5bFb"
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 182787,
       "name": "Curra Curra Curra",
       "url": "https://open.spotify.com/track/0uv6GPCW0YiJoAF6bu6SRn"
@@ -3866,6 +3884,24 @@
       "duration_ms": 141920,
       "name": "De la foto que guardo",
       "url": "https://open.spotify.com/track/4OEi941eF63SXrc2LQ0sgx"
+    },
+    {
+      "album": {
+        "name": "De momento",
+        "url": "https://open.spotify.com/album/0jBYJMeCfTS52OLF6XdhAi"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3rtel",
+          "url": "https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "De momento",
+      "url": "https://open.spotify.com/track/15eUAG9kmWKK2XbE6MTlYb"
     },
     {
       "album": {
@@ -5162,7 +5198,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 206440,
       "name": "El mejor verano de la vida",
       "url": "https://open.spotify.com/track/4T2kuozefT58bTo3l1XYaL"
@@ -5804,6 +5840,32 @@
       "duration_ms": 213500,
       "name": "Es una pena",
       "url": "https://open.spotify.com/track/7ASXACpWPBo6yGQVV3HK3i"
+    },
+    {
+      "album": {
+        "name": "esa cara",
+        "url": "https://open.spotify.com/album/5mj39NSYk6TGy5VzA2x9kX"
+      },
+      "artists": [
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        },
+        {
+          "name": "diego vega",
+          "url": "https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7"
+        },
+        {
+          "name": "Rotea",
+          "url": "https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151821,
+      "name": "esa cara",
+      "url": "https://open.spotify.com/track/4aN7X1buWStoLqvJrZgIWC"
     },
     {
       "album": {
@@ -6661,6 +6723,24 @@
     },
     {
       "album": {
+        "name": "fomo",
+        "url": "https://open.spotify.com/album/4nv8J0yamdtS7eIvXrtiDC"
+      },
+      "artists": [
+        {
+          "name": "Poster Boy",
+          "url": "https://open.spotify.com/artist/2uQ5MPeAoOkb9B6dwBzjze"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173228,
+      "name": "fomo",
+      "url": "https://open.spotify.com/track/4ROctoOfcP8DPrnl6jt4RT"
+    },
+    {
+      "album": {
         "name": "FOR\u00c7A",
         "url": "https://open.spotify.com/album/2fsqUeGDraiYTG8TPgIJqe"
       },
@@ -6975,6 +7055,28 @@
     },
     {
       "album": {
+        "name": "LO SABE DIOS",
+        "url": "https://open.spotify.com/album/3DeXCTHYFlW6ZU3vZaZi83"
+      },
+      "artists": [
+        {
+          "name": "Carmen Lillo",
+          "url": "https://open.spotify.com/artist/6dZ6SsLs9gLmHASDFXTqNW"
+        },
+        {
+          "name": "CCF",
+          "url": "https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196608,
+      "name": "GOLDEN",
+      "url": "https://open.spotify.com/track/0w3uSZYymJ3YtKCmZz2noF"
+    },
+    {
+      "album": {
         "name": "Good old days",
         "url": "https://open.spotify.com/album/2gUA4L2GbZnmYxfmu72NOO"
       },
@@ -7098,6 +7200,24 @@
       "duration_ms": 139890,
       "name": "GUSTOSSO",
       "url": "https://open.spotify.com/track/77na8BGFyju9OAUJSJN7j1"
+    },
+    {
+      "album": {
+        "name": "Hablando de ti",
+        "url": "https://open.spotify.com/album/0YC1ZMq4WCEWf7QAgSGykW"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182055,
+      "name": "Hablando de ti",
+      "url": "https://open.spotify.com/track/0I8XOFggphpa3CRwpfUKbz"
     },
     {
       "album": {
@@ -7760,7 +7880,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 208889,
       "name": "Infancia Mal Calibrada",
       "url": "https://open.spotify.com/track/75EqPDFPtq70WU5AyWl3uP"
@@ -8162,7 +8282,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 220259,
       "name": "La Boca del Lobo",
       "url": "https://open.spotify.com/track/3KMdnYhFgFMPOmWYc7Alx4"
@@ -9682,7 +9802,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 228250,
       "name": "Magia Fireball",
       "url": "https://open.spotify.com/track/1rI3IcQfZp7hRzstw4cYsD"
@@ -13122,7 +13242,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 118000,
       "name": "picapica",
       "url": "https://open.spotify.com/track/36pZ2472MnadsMnOXDhVh8"
@@ -13864,7 +13984,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194865,
       "name": "Qu\u00e8 ser\u00e0 de mi?",
       "url": "https://open.spotify.com/track/2ojta1zrx3LJaqwpLCYupD"
@@ -13908,6 +14028,24 @@
       "duration_ms": 191462,
       "name": "Qu\u00e9 buscas",
       "url": "https://open.spotify.com/track/0O2t06Dh9U1kO2JEdUwqis"
+    },
+    {
+      "album": {
+        "name": "Camila / Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+        "url": "https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358625,
+      "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+      "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
     },
     {
       "album": {
@@ -14739,6 +14877,24 @@
     },
     {
       "album": {
+        "name": "Septiembre",
+        "url": "https://open.spotify.com/album/1aeEV7SMIVFBDiJy1AYgkT"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Septiembre",
+      "url": "https://open.spotify.com/track/0fFNJAGBaSmMrZhG3oqMZY"
+    },
+    {
+      "album": {
         "name": "Ser grande siendo peque\u00f1o",
         "url": "https://open.spotify.com/album/0tutumC8lEndNN77sdUZpc"
       },
@@ -14958,6 +15114,24 @@
       "duration_ms": 155427,
       "name": "Si te aleja del amor no puede ser bueno",
       "url": "https://open.spotify.com/track/74OSeuCRZ8PD3odrj8wDMX"
+    },
+    {
+      "album": {
+        "name": "si te hubiera conocido en el colegio",
+        "url": "https://open.spotify.com/album/4a6oRam441twkiDC6t28xB"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "si te hubiera conocido en el colegio",
+      "url": "https://open.spotify.com/track/516yAuBcrzH2rK72sgAYm7"
     },
     {
       "album": {
@@ -18364,7 +18538,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 168000,
       "name": "\u00bfT\u00fa Piensas?",
       "url": "https://open.spotify.com/track/5rEF1UU3RuNYBfLMz7T9cH"

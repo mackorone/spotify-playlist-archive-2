@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Desde septiembre se siente que viene diciembre 🧊 🎄 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,115 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,110 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 79 | [María Teresa](https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:36 |
 | 80 | [Muchacha Encantadora](https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Mejor Que Antes](https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE) | 4:17 |
 
-Snapshot ID: `AAAAAIhgMcKRlbKWkcuKRcrUZCB74MJp`
+Snapshot ID: `AAAAAJt9XZC0y7j9202KcXSNtwQ/SZmx`

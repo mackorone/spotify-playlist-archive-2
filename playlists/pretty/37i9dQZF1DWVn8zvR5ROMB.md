@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kenny Chesney, Jordan Davis, Max McNown and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,824 likes - 87 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,942 likes - 87 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

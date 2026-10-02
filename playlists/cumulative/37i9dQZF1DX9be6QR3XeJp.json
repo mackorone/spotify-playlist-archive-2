@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Worldpeace DMT",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Hope Winter",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -5412,6 +5412,24 @@
       "duration_ms": 221415,
       "name": "Slow Kisses",
       "url": "https://open.spotify.com/track/76O5euCWxUxbw7vOnE5Q26"
+    },
+    {
+      "album": {
+        "name": "So Easily",
+        "url": "https://open.spotify.com/album/1ZF2uwIA4FRb3WgUdZxgIo"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165866,
+      "name": "So Easily",
+      "url": "https://open.spotify.com/track/0Btma492O40qn4rTguNIbQ"
     },
     {
       "album": {

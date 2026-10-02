@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 47485,
+  "num_followers": 47487,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABCGbDFqSubHDJ1u52haTZ2",
+  "snapshot_id": "arxRAAAAAABAci31JUGimwcNYuWneTQI",
   "tracks": [
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 285439,
-      "name": "Broken Together",
-      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
+      "duration_ms": 244067,
+      "name": "All You've Ever Wanted",
+      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 244067,
-      "name": "All You've Ever Wanted",
-      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
+      "duration_ms": 285439,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 250826,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2OO0hAm1v0uRkqJCupGu4n"
+      "duration_ms": 227213,
+      "name": "You Are the Only One",
+      "url": "https://open.spotify.com/track/2iVRq4HIoUSIlq91fdZvvG"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 227213,
-      "name": "You Are the Only One",
-      "url": "https://open.spotify.com/track/2iVRq4HIoUSIlq91fdZvvG"
+      "duration_ms": 250826,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2OO0hAm1v0uRkqJCupGu4n"
     },
     {
       "added_at": null,

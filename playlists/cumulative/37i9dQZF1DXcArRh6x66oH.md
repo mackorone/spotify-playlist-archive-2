@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Dylan Gossett
+> roots run deep with Flatland Cavalry
 
-502 songs - 1 day 6 hr 10 min
+503 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Headed Back To Austin](https://open.spotify.com/track/7cnI83ZwaVbJiWsgs6lUbO) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Ramblin'](https://open.spotify.com/album/2mLOKf5bL07b6un4DENa6U) | 3:45 | 2026-09-25 |  |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-02-24 |  |
 | [Heart You Didn't Break](https://open.spotify.com/track/3LZ9tH82f13GAbbm97c8dN) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Heart You Didn't Break](https://open.spotify.com/album/5uUttORPPONM7o3vhYZO2m) | 3:12 | 2026-04-17 |  |
+| [Heartstrings](https://open.spotify.com/track/5yzRGVeirNYC24dYkT3Yjq) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Work of Heart \- Heartstrings](https://open.spotify.com/album/75nqbogQG36rnoSRlVKtmP) | 4:01 | 2026-10-02 |  |
 | [Heaven On Earth](https://open.spotify.com/track/5IOnG2HrnO062RDwgx0TuO) | [Hayden Blount](https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j) | [Heaven On Earth](https://open.spotify.com/album/5o919zG29Vo2KpdgWuWBxQ) | 2:44 | 2024-10-06 |  |
 | [Hell is a Dance Floor](https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Hell is a Dance Floor](https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY) | 3:29 | 2024-03-06 |  |
 | [Hell is a Dance Floor](https://open.spotify.com/track/5MbxiHTYYgiDVHKa7UBUUk) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 3:30 | 2026-05-01 | 2026-06-27 |
@@ -301,7 +302,7 @@
 | [Mountain Girl](https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Mountain Girl](https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu) | 2:42 | 2026-03-13 |  |
 | [Mr\. Meyers](https://open.spotify.com/track/02H4xB4mpWx5mwc2z4BKIt) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Mr\. Meyers](https://open.spotify.com/album/5walGfxzAQLaLzaO0YaaZf) | 3:37 | 2023-08-25 | 2023-12-09 |
 | [My Expense](https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [My Expense](https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL) | 3:41 | 2025-04-04 |  |
-| [Never Comin' Back](https://open.spotify.com/track/1wQaPoRJ0Ip6MtNxTlA3SY) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Never Comin' Back](https://open.spotify.com/album/3gPZkCBz8sGb9OQhgSrh36) | 3:57 | 2026-01-16 |  |
+| [Never Comin' Back](https://open.spotify.com/track/1wQaPoRJ0Ip6MtNxTlA3SY) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Never Comin' Back](https://open.spotify.com/album/3gPZkCBz8sGb9OQhgSrh36) | 3:57 | 2026-01-16 | 2026-10-02 |
 | [Never Comin' Back](https://open.spotify.com/track/4nfYip6PqcX3I6ZdOgOMae) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Work of Heart](https://open.spotify.com/album/54R9tAXXFNij2gxlcKnvdG) | 3:57 | 2026-05-01 | 2026-06-27 |
 | [Never Really Know](https://open.spotify.com/track/0dOxMm35ORIZt7rZIzQbQ1) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 4:22 | 2024-07-26 |  |
 | [Never Tried Cocaine](https://open.spotify.com/track/2pWMllhKoD6yfsjMdozGMm) | [Travis Bolt](https://open.spotify.com/artist/7w3bNGVaI2zJ4J6cCnATLu) | [Burning Bridges](https://open.spotify.com/album/6xR5l6XItsFTLI0QsT30dA) | 4:12 | 2026-05-01 | 2026-06-27 |

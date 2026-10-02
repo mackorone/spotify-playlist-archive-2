@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7wXUVPHR8uD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7wXUVPHR8uD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7wXUVPHR8uD)
 
-### [Pumpkin Spice](https://open.spotify.com/playlist/37i9dQZF1DX7wXUVPHR8uD)
+### [Autumn Ever After](https://open.spotify.com/playlist/37i9dQZF1DX7wXUVPHR8uD)
 
-> Witchy romances with a dash of spice.
+> Autumnal romances for sweater weather.
 
 0 song - 0 sec
 

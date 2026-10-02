@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "22simba in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
+  "description": "Sfera Ebbasta in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1145,6 +1145,28 @@
     },
     {
       "album": {
+        "name": "A MEZZ'ORA DA MILANO (con Khodi)",
+        "url": "https://open.spotify.com/album/66EekQC3FMxP3sakU8maVU"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Khodi",
+          "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123814,
+      "name": "A MEZZ'ORA DA MILANO (con Khodi)",
+      "url": "https://open.spotify.com/track/1NpOO6wCxCQ89V24scIeXj"
+    },
+    {
+      "album": {
         "name": "A TE",
         "url": "https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv"
       },
@@ -2248,7 +2270,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 205307,
       "name": "Armato (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6fgLw0VwPmQtjSmvfCVC6u"
@@ -5426,7 +5448,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165806,
       "name": "Chanel Lover",
       "url": "https://open.spotify.com/track/0Yp9ucE0RYF7WNdKZMjRhH"
@@ -7910,6 +7932,24 @@
       "duration_ms": 168960,
       "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq"
+    },
+    {
+      "album": {
+        "name": "EL NI\u00d1O",
+        "url": "https://open.spotify.com/album/1sQlYc3dhZNeR6spMXRm0g"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192056,
+      "name": "EL NI\u00d1O",
+      "url": "https://open.spotify.com/track/3uTA62EnNbp9RHSkgSJjdI"
     },
     {
       "album": {
@@ -11270,6 +11310,28 @@
       "duration_ms": 142608,
       "name": "Il mio dawg",
       "url": "https://open.spotify.com/track/71juLZk9jMhOSsi1jcDwUa"
+    },
+    {
+      "album": {
+        "name": "bar speranza",
+        "url": "https://open.spotify.com/album/1QFTu41rPxba6x0QcVhv2z"
+      },
+      "artists": [
+        {
+          "name": "Westcross",
+          "url": "https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134166,
+      "name": "il solito (feat. Massimo Pericolo)",
+      "url": "https://open.spotify.com/track/6xQLMmRltfDpr9xlbD4Awu"
     },
     {
       "album": {
@@ -15661,6 +15723,28 @@
     },
     {
       "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207084,
+      "name": "NEON - Le Ali (feat. Elisa)",
+      "url": "https://open.spotify.com/track/76cEI7LczlKZ1yLAHIoPBJ"
+    },
+    {
+      "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
@@ -20036,7 +20120,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 132892,
       "name": "RAFFAELLA FICO",
       "url": "https://open.spotify.com/track/3fBHfKPOuaZ99tZOMg9Cgw"
@@ -24764,7 +24848,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 169980,
       "name": "USHUA\u00cfA",
       "url": "https://open.spotify.com/track/3h4Ti5e9Hlqhm8OGJw56Xr"
@@ -24800,7 +24884,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 103637,
       "name": "Valle dei Re",
       "url": "https://open.spotify.com/track/0roIq7Szo7q48nQ1IDbBES"
@@ -25760,6 +25844,24 @@
       "duration_ms": 189803,
       "name": "WIFEY (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl"
+    },
+    {
+      "album": {
+        "name": "WINNER",
+        "url": "https://open.spotify.com/album/7l5EaoBmfnW0Fy2zWERCwt"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185229,
+      "name": "WINNER",
+      "url": "https://open.spotify.com/track/4apcBZjLCRSeBfr8IInHrq"
     },
     {
       "album": {

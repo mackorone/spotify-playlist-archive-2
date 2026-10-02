@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Sfera in cover della playlist con tutte le hit 🔥
+> BLANCO in cover della playlist con tutte le hit 🔥
 
-373 songs - 19 hr 27 min
+375 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Così così](https://open.spotify.com/track/0pjqXWOiT5xMh2ua6sq4dl) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 3:19 | 2025-09-26 | 2026-01-29 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-03-14 |
 | [Cuore Rotto](https://open.spotify.com/track/2ESC4H0XPgf760cUIr2hnJ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Cuore Rotto](https://open.spotify.com/album/4Ytu4wfLAjT4nNVaQ1Gdl8) | 2:28 | 2025-09-05 | 2025-11-28 |
-| [Cuore rotto](https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Cuore rotto](https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9) | 2:20 | 2026-06-08 |  |
+| [Cuore rotto](https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Cuore rotto](https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9) | 2:20 | 2026-06-08 | 2026-10-02 |
 | [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 | 2025-02-13 | 2025-05-23 |
 | [Da Dio](https://open.spotify.com/track/7pzx95tPu1njhmM6IoR6Al) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Da Dio](https://open.spotify.com/album/1XjzMjgg0ktZSGrUv3j1bs) | 2:53 | 2026-05-21 |  |
 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 | 2025-12-04 | 2026-04-30 |
@@ -262,6 +262,7 @@
 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 | 2026-02-25 |  |
 | [Paprika](https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Paprika](https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6) | 2:28 | 2024-06-28 | 2024-12-10 |
 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:43 | 2026-05-21 | 2026-06-19 |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-10-01 |  |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-06-28 | 2024-09-07 |
 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 | 2024-10-17 | 2025-02-13 |
 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 | 2024-09-06 | 2025-05-27 |
@@ -322,7 +323,7 @@
 | [Sorry Scusa Lo Siento](https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Sorry Scusa Lo Siento](https://open.spotify.com/album/6fsms67vLncXwehxDegR5I) | 3:20 | 2026-05-15 |  |
 | [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 | 2026-09-11 |  |
 | [Spie](https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:05 | 2026-04-13 | 2026-04-24 |
-| [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 | 2026-06-08 |  |
+| [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 | 2026-06-08 | 2026-10-02 |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-25 | 2024-12-13 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-18 | 2025-02-04 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-03-17 | 2026-04-08 |
@@ -362,6 +363,7 @@
 | [TUTTO](https://open.spotify.com/track/7sDgC1k4mXTLfjOUxwGM7V) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [TUTTO](https://open.spotify.com/album/3ny7Mls4spvGmdy10ma13x) | 3:24 | 2026-09-21 |  |
 | [Umore marea](https://open.spotify.com/track/2PhXWpXhWg61SdUO44FIUk) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Umore marea](https://open.spotify.com/album/5XExZ9o16FjbQ9kgp3Muvh) | 2:38 | 2025-05-15 | 2026-02-03 |
 | [Un mondo a parte](https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il corpo umano VOL\. 1](https://open.spotify.com/album/5GElpFAAm9NuWFau9h9Oj9) | 4:00 | 2025-02-27 | 2025-07-01 |
+| [Una bara per due](https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Una bara per due](https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7) | 4:46 | 2026-10-01 |  |
 | [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 | 2026-03-05 | 2026-05-15 |
 | [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 | 2024-06-28 | 2024-07-19 |
 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-09-05 | 2024-10-12 |

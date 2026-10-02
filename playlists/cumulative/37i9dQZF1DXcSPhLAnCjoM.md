@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Te rencontrer encore" d'ESTL est le Grand Hit de la semaine.
+> "Chaussures Roses" de TeddyBear est le Grand Hit de la semaine.
 
-351 songs - 17 hr 56 min
+353 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-02-08 | 2024-07-27 |
 | [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 | 2024-09-05 | 2024-09-20 |
 | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um) | 2:45 | 2024-09-19 | 2025-03-21 |
+| [Chaussures Roses](https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Chaussures Roses](https://open.spotify.com/album/7BbGTT6BxkSEK9nyIzwi8t) | 3:21 | 2026-10-01 |  |
 | [Chez moi](https://open.spotify.com/track/09WGJARXs73XVQVWPGf5G1) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [Chez moi](https://open.spotify.com/album/6sclH7FYoU0OW02DRKmQbR) | 2:41 | 2025-08-14 | 2025-09-27 |
 | [Chez toi](https://open.spotify.com/track/4RFMijduXiJ13hHuYwPMoG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:19 | 2023-09-28 | 2024-01-19 |
 | [Chez toi, chez moi](https://open.spotify.com/track/0gOjmVqeKWFByLqpPTTrJF) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Chez toi, chez moi](https://open.spotify.com/album/5P5y6ZjwvDvVkn5VOekb2T) | 2:39 | 2024-07-11 | 2024-07-27 |
@@ -175,7 +176,7 @@
 | [L'intime & le monde](https://open.spotify.com/track/3METcxyrhm971tgsz5yX1I) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [L'intime & le monde](https://open.spotify.com/album/0kexPpzB8l3VZbHWY3UIba) | 3:39 | 2024-03-07 | 2024-05-10 |
 | [La belle et la bête \- Single Version](https://open.spotify.com/track/6RAf7QUuJzSZXAZcJO8q0G) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [La belle et la bête](https://open.spotify.com/album/0NEreCWbXNKpXwvhYjYtTA) | 3:41 | 2025-01-09 | 2025-05-09 |
 | [La belle époque](https://open.spotify.com/track/4DHuh5umihj3cgiuyQ7jbE) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [La belle époque](https://open.spotify.com/album/68mbwN9aTDYGlgWzhTKPoe) | 2:52 | 2023-09-28 | 2023-10-24 |
-| [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 | 2026-01-15 |  |
+| [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 | 2026-01-15 | 2026-10-02 |
 | [La Différence \- Single Version](https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [La Différence](https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX) | 3:36 | 2025-01-16 | 2025-10-10 |
 | [La gloire de nos pères](https://open.spotify.com/track/4TLTVC2ptKtrlUzkBSXq0A) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq) | [La gloire de nos pères](https://open.spotify.com/album/7wlEAb5jCOgYZ1Zk6t6sPn) | 3:13 | 2024-12-05 | 2025-02-28 |
 | [La lune](https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La lune](https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf) | 3:28 | 2026-02-12 |  |
@@ -289,7 +290,7 @@
 | [Regarde\-moi \(feat\. L.E.J\)](https://open.spotify.com/track/4h3mtjDcmSQORnctBV3n43) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [JE RENTRE À LA MAISON](https://open.spotify.com/album/7CwhsAwkHtLClJkgJWKnrU) | 3:44 | 2026-04-23 |  |
 | [Rendez\-vous](https://open.spotify.com/track/6ITYUKNLvfR9hNxU4hbzFz) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:58 | 2024-05-02 | 2024-07-19 |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-10-19 | 2024-01-19 |
-| [Respire fort](https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Respire fort](https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h) | 2:51 | 2025-11-27 |  |
+| [Respire fort](https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Respire fort](https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h) | 2:51 | 2025-11-27 | 2026-10-02 |
 | [Restes d'averses \- Regretting You Version](https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Restes d'averses \(Regretting You Version\)](https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ) | 2:53 | 2025-10-23 | 2026-01-30 |
 | [Retiens les rêves](https://open.spotify.com/track/3tYSZZjpt5lth5lZbWdQVR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Retiens les rêves](https://open.spotify.com/album/6pWAMFNK0xTDAj3CLFaYKy) | 3:39 | 2023-09-28 | 2024-04-26 |
 | [Rien comme les autres](https://open.spotify.com/track/0Hxm3ciCNteZghavphxUha) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [A.M.O.U.R](https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N) | 4:40 | 2024-04-18 | 2024-05-10 |
@@ -342,6 +343,7 @@
 | [Un dimanche avec toi](https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:20 | 2025-02-27 | 2025-11-14 |
 | [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 | 2024-08-01 | 2024-08-23 |
 | [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 | 2025-07-17 | 2025-10-03 |
+| [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 | 2026-10-01 |  |
 | [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-05-23 | 2024-07-19 |
 | [Vice Versa](https://open.spotify.com/track/4QkVu4w7ZBVBrojCfnt98F) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Vice Versa](https://open.spotify.com/album/2ZfAmFvyu1Gi03AscYCdUH) | 2:46 | 2025-01-16 | 2025-04-25 |
 | [Viens on essaie](https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Viens on essaie](https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY) | 2:49 | 2025-07-24 | 2026-06-19 |

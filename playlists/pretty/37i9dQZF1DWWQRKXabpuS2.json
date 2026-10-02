@@ -1,13 +1,29 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 47736,
+  "num_followers": 47748,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO2iZ8qXYuUYJQhgohNxEGXonR+v",
+  "snapshot_id": "AAAAAA0wp/fyE2TuHFui5rwHSkVX7Pgg",
   "tracks": [
+    {
+      "added_at": "2026-10-01 11:09:48",
+      "album": {
+        "name": "HAWAJEES",
+        "url": "https://open.spotify.com/album/3RA250kyDYtXQMuEPN8LYh"
+      },
+      "artists": [
+        {
+          "name": "AL7AMDAN",
+          "url": "https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "HAWAJEES",
+      "url": "https://open.spotify.com/track/1fNZP4KHcumdoR9HMXzFOm"
+    },
     {
       "added_at": "2026-09-25 08:20:31",
       "album": {

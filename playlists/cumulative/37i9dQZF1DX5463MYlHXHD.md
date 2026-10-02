@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-376 songs - 20 hr 55 min
+377 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 | 2024-03-05 |  |
 | [Déjala](https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT) | [Puro Movimiento DJ](https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q) | [A Todo Remix](https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod) | 3:27 | 2024-03-05 |  |
 | [El Aguardiente](https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Aguardiente](https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF) | 3:15 | 2023-08-11 | 2023-11-21 |
-| [El Amor Se Fue](https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX) | 3:50 | 2024-03-05 |  |
+| [El Amor Se Fue](https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX) | 3:50 | 2024-03-05 | 2026-10-02 |
 | [El Arca De Noe](https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD3](https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86) | 2:29 | 2023-05-26 | 2024-03-06 |
 | [El Arroyo](https://open.spotify.com/track/6ZozFiI3ggDIdUddvd6eIs) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [El Arroyo](https://open.spotify.com/album/4o4On85WOjnO1oeVhcdA54) | 5:05 | 2025-02-21 | 2025-05-10 |
 | [El avion](https://open.spotify.com/track/5YkgW3IIZxSvDl3GO9x4VA) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 2:36 | 2024-04-19 | 2024-05-12 |
@@ -123,6 +123,7 @@
 | [Encararte](https://open.spotify.com/track/5gnLRLGvpP5lAzam0VQf0T) | [Sonido Basico](https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA) | [Evolución](https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB) | 4:01 | 2025-11-20 |  |
 | [ENGANCHADITO DE CLASICOS 2](https://open.spotify.com/track/7pZkhlcjTtndtF4PFwrdf0) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [ENGANCHADITO DE CLASICOS 2](https://open.spotify.com/album/512c3ELcHFMhxPKjPhXOVV) | 7:48 | 2024-06-14 | 2024-08-22 |
 | [Entre Vos Yo y el Cielo](https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Gracia Divina](https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz) | 4:23 | 2024-03-05 | 2025-11-21 |
+| [Entregadora Del Marrón](https://open.spotify.com/track/2mH1fsg2qgXzgOpNIot2Lv) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 3:58 | 2026-06-23 |  |
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2024-03-05 | 2025-11-21 |
 | [Es Ilegal](https://open.spotify.com/track/5qw1YRbS8qjPHrPlo5vSgJ) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Es Ilegal](https://open.spotify.com/album/1yG3iQzIuAYKu9i9DRIcpY) | 3:02 | 2023-10-13 | 2023-10-21 |
 | [Es un Secreto](https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG) | 3:17 | 2023-05-26 |  |

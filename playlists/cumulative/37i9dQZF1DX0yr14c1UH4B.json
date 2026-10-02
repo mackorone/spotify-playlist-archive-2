@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song \ud83c\udf37 cover: Lizzy McAlpine",
+  "description": "It's all about the song \ud83c\udf33 cover: Kodaline",
   "name": "Common Thread",
   "tracks": [
     {
@@ -528,6 +528,24 @@
       "duration_ms": 244522,
       "name": "All In Now",
       "url": "https://open.spotify.com/track/1uDKjeSKLKEg6eqUh880z1"
+    },
+    {
+      "album": {
+        "name": "We Were Only Young",
+        "url": "https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "All I\u2019ll Ever Need",
+      "url": "https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP"
     },
     {
       "album": {
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 260218,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/6BiDwipav1E90jIcmpKTU9"
@@ -2691,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Halfway Home",
+        "url": "https://open.spotify.com/album/1jWwjSOPby4XtOqAG4PZQ9"
+      },
+      "artists": [
+        {
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "Changing My Mind",
+      "url": "https://open.spotify.com/track/7eWOv1xjEbNkVZVmjMs0Ys"
+    },
+    {
+      "album": {
         "name": "Cherry Stains & Dumb Flings",
         "url": "https://open.spotify.com/album/4dKrgqI0puBWF5zPSRvyuk"
       },
@@ -2994,7 +3030,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 291530,
       "name": "Constant Companion",
       "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
@@ -3620,6 +3656,24 @@
       "duration_ms": 193101,
       "name": "Dear Maria",
       "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
+    },
+    {
+      "album": {
+        "name": "decembers",
+        "url": "https://open.spotify.com/album/0jnUhRL2wuWzc59MaZ3D8h"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275973,
+      "name": "decembers",
+      "url": "https://open.spotify.com/track/5E4lH1YcqN4LIGcE5TRmV1"
     },
     {
       "album": {
@@ -6392,7 +6446,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -7127,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0TUhOooC9h7Z6VvHi1JsJP"
+      },
+      "artists": [
+        {
+          "name": "Lewis Ross",
+          "url": "https://open.spotify.com/artist/7H1Mw1I4p9sTGTtbGCj8E3"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251570,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3LsBZexoOEwU3RziBuRcXD"
+    },
+    {
+      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/44zCI5RAkDwK2fFJpqNvZ0"
       },
@@ -7774,7 +7846,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 162320,
       "name": "I It Am",
       "url": "https://open.spotify.com/track/3jsvREipunn2DsqwsrHoND"
@@ -8142,6 +8214,24 @@
       "duration_ms": 220240,
       "name": "I'm In Trouble (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/5Q6BZ5oiOU4ugxV8ZFFzAP"
+    },
+    {
+      "album": {
+        "name": "Gossip from a Coastal Town",
+        "url": "https://open.spotify.com/album/2a9jpCWGbxTQrL19utGbtq"
+      },
+      "artists": [
+        {
+          "name": "Essy Sparrow",
+          "url": "https://open.spotify.com/artist/0SKfJH94hxcbotdBSIvTRj"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149913,
+      "name": "I'm not going to Penzance",
+      "url": "https://open.spotify.com/track/2sTCQlc1iYjOYuEU4zfGN5"
     },
     {
       "album": {
@@ -10491,6 +10581,24 @@
     },
     {
       "album": {
+        "name": "Martha, I'm Sorry",
+        "url": "https://open.spotify.com/album/2vIt35mQMe4zDefqxA87Lj"
+      },
+      "artists": [
+        {
+          "name": "May Payne",
+          "url": "https://open.spotify.com/artist/3LaskN16OIcRjfovf4my7Z"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462714,
+      "name": "Martha, I'm Sorry",
+      "url": "https://open.spotify.com/track/3zNjBdx3VCrjQe8caYO3yc"
+    },
+    {
+      "album": {
         "name": "For Mary",
         "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
       },
@@ -10618,6 +10726,24 @@
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5x0Uf6AMZTAKqvtzncu0ZH"
+    },
+    {
+      "album": {
+        "name": "Methamphetamine",
+        "url": "https://open.spotify.com/album/4gJDNJIBcfngZcSG7EUhbK"
+      },
+      "artists": [
+        {
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254269,
+      "name": "Methamphetamine",
+      "url": "https://open.spotify.com/track/7x7VEbkFblKYrlUblNV8ZH"
     },
     {
       "album": {
@@ -11660,7 +11786,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 353176,
       "name": "Nothing Really Changes",
       "url": "https://open.spotify.com/track/3t3biITmzgT9QhLsTMbn5j"
@@ -12840,7 +12966,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 219924,
       "name": "Pure",
       "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
@@ -15617,6 +15743,24 @@
     },
     {
       "album": {
+        "name": "My Love Has No End (Extended Edition)",
+        "url": "https://open.spotify.com/album/0Z01LjZHaexUPqxJa2g7TI"
+      },
+      "artists": [
+        {
+          "name": "Joely June",
+          "url": "https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201939,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/4thXwObac7QPdsV3ZkUITf"
+    },
+    {
+      "album": {
         "name": "Take A Sexy Picture Of Me",
         "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
       },
@@ -16326,6 +16470,24 @@
       "duration_ms": 245126,
       "name": "The Mountain, Pt.1",
       "url": "https://open.spotify.com/track/19baNumn4juxOFYrWDBX8l"
+    },
+    {
+      "album": {
+        "name": "The Parrot",
+        "url": "https://open.spotify.com/album/23l07a8vPbdeske0f1m8cy"
+      },
+      "artists": [
+        {
+          "name": "McGrath",
+          "url": "https://open.spotify.com/artist/0aWFJVxXLljJSfywZLB0dd"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225168,
+      "name": "The Parrot",
+      "url": "https://open.spotify.com/track/7r5PbkltWvGfMg2cQtzWMb"
     },
     {
       "album": {
@@ -17682,7 +17844,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194000,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/1KM8ubbYZ0eMah7iNtln5h"

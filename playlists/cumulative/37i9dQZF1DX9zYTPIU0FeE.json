@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the sounds of South African Jazz. Cover: vuyo viwe",
+  "description": "Journey through the sounds of South African Jazz. Cover: Pilani Bubu",
   "name": "Jazz NEXT",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 393781,
       "name": "Air",
       "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 237516,
       "name": "Baby Ngimanzi Wuthando",
       "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
@@ -868,6 +868,24 @@
       "duration_ms": 232773,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/7erj4S9e7ps3Ha9TWf3LAD"
+    },
+    {
+      "album": {
+        "name": "Caged Heart",
+        "url": "https://open.spotify.com/album/4UIBjbocT0XxegmV9eN4EG"
+      },
+      "artists": [
+        {
+          "name": "Pilani Bubu",
+          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283333,
+      "name": "Caged Heart",
+      "url": "https://open.spotify.com/track/3JvTcr1Pb9uKjMddEDjewY"
     },
     {
       "album": {
@@ -5512,6 +5530,24 @@
       "duration_ms": 181394,
       "name": "So Ubuji",
       "url": "https://open.spotify.com/track/42xJlLwEFNiiNtnLhfBKfg"
+    },
+    {
+      "album": {
+        "name": "Sobonana",
+        "url": "https://open.spotify.com/album/75aRHK2p9GzPgiWUakGzyF"
+      },
+      "artists": [
+        {
+          "name": "Sisonke Xonti",
+          "url": "https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336500,
+      "name": "Sobonana",
+      "url": "https://open.spotify.com/track/1Xf2Bv7lFIHtSQeE5UiucZ"
     },
     {
       "album": {

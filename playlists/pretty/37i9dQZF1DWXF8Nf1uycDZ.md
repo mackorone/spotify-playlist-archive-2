@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 ### [Throwback Thursday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXF8Nf1uycDZ)
 
-> This week: it's Fatboy Slims favourite 30! Celebrating the iconic "Better Living Through Chemistry” 30th Anniversary 😃 🎉
+> This week: it's Fatboy Slim's favourite 30! Celebrating the iconic "Better Living Through Chemistry” 30th Anniversary 😃 🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,374 likes - 30 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,414 likes - 30 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 | 29 | [World In My Eyes \- Mode to Joy](https://open.spotify.com/track/2tqKaYbqcpB47jIlEaXgRt) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Jon Marsh](https://open.spotify.com/artist/0dOjlJBCADKs9IE75umaBQ) | [Violator \| The 12" Singles](https://open.spotify.com/album/0c2eDi1S58XzaqxwOC1FMZ) | 6:34 |
 | 30 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
 
-Snapshot ID: `AAAAALlJFxdaniJ01wfcn40r8m2bQnYn`
+Snapshot ID: `AAAAAJ2xb7ZKKRO5Z96EQQl84aLlBW2E`

@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover:   Wendy Shay
+> The hottest and recent Ghana party starters\. Cover:   DopeNation
 
-727 songs - 1 day 12 hr 45 min
+728 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Masallaci](https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Masallaci](https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M) | 2:05 | 2026-03-13 | 2026-07-17 |
 | [Masesa](https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Masesa](https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S) | 2:52 | 2023-10-06 | 2025-02-21 |
 | [Me Ne Woa](https://open.spotify.com/track/08vdSZrMk6bY8zjkA3CIld) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [2+](https://open.spotify.com/album/1swMrYyV71fXCRLLVb4L76) | 3:30 | 2025-01-31 | 2025-03-22 |
+| [Me Sisi](https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Me Sisi](https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl) | 2:51 | 2026-10-02 |  |
 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 | 2024-03-22 | 2024-04-12 |
 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 | 2025-06-27 |  |
 | [Mekɔn Adɔ](https://open.spotify.com/track/5BMh2DnkrOAbSipoWka1Xk) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Mekɔn Adɔ](https://open.spotify.com/album/6cus1YyspHCbKeSjjrBZhU) | 3:28 | 2026-02-13 | 2026-03-27 |
@@ -579,7 +580,7 @@
 | [Send Dem A Prayer](https://open.spotify.com/track/7HnodmlRRGTVfbmw6jdUsC) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [THE TORCHER](https://open.spotify.com/album/0qkEheVRbwNHB4KIGDOpLT) | 3:35 | 2025-09-22 | 2025-12-05 |
 | [Sex](https://open.spotify.com/track/3tyMlwxHwEE5TAb2ecUqQU) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Sex](https://open.spotify.com/album/7rgMsOvr1GZHI84teicBfE) | 3:24 | 2023-07-07 | 2023-08-11 |
 | [Sexual Healing](https://open.spotify.com/track/5xj7eOgkSCTkgqqujOOghJ) | [Ohene PD](https://open.spotify.com/artist/0s63VUGZb0adtZsJ1QLiuU), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Sexual Healing](https://open.spotify.com/album/4XsKn3Cv9kmeKNu6WIS9hm) | 3:10 | 2024-04-19 | 2024-07-12 |
-| [SEXY & BAD](https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [SEXY & BAD](https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3) | 3:37 | 2026-08-21 |  |
+| [SEXY & BAD](https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [SEXY & BAD](https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3) | 3:37 | 2026-08-21 | 2026-10-02 |
 | [Sexy Sexy](https://open.spotify.com/track/6hC0PQL1Kr3Qgmjhs3csZF) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Reggie Rockstone](https://open.spotify.com/artist/5Q73WzWI1MkAbAwi2ZhG8K) | [Her Vibe Is Right Vol\. 2](https://open.spotify.com/album/2fart2DIpvQa4mvk9ecxfy) | 3:37 | 2023-07-28 | 2023-09-22 |
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-02-21 | 2025-09-05 |
 | [Shake your body](https://open.spotify.com/track/39VeapvJrz929FzPDKwLSl) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Shake your body](https://open.spotify.com/album/36olCS2GVkZgkzNVDtal8w) | 2:29 | 2025-07-18 | 2025-08-15 |

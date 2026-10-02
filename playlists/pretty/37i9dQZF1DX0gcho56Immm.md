@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Yangze
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,084 likes - 200 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,118 likes - 200 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

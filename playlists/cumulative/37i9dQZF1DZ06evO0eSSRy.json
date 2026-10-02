@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/2eaPOiqTtREnX68IAAnGxd"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203553,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/1W0cKIoIaG8nS2VgGYRlVi"
+    },
+    {
+      "album": {
         "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI"
       },

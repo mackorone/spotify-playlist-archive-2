@@ -4443,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "inbetweeners",
+        "url": "https://open.spotify.com/album/3zV03L85sDpwtoe33kRuHW"
+      },
+      "artists": [
+        {
+          "name": "Eddie and the Bricks",
+          "url": "https://open.spotify.com/artist/2FSpLqT9FBl8OX4J3IWTto"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284538,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/6s3aGES0MlWhPXTa8Faow4"
+    },
+    {
+      "album": {
         "name": "DDDD!",
         "url": "https://open.spotify.com/album/0RUSetshoG0y6QABMEzLJw"
       },
@@ -9042,7 +9060,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 268388,
       "name": "heaven and hell",
       "url": "https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP"

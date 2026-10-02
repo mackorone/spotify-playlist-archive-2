@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sagar Simha
 
-734 songs - 1 day 17 hr 26 min
+735 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Nin Thale](https://open.spotify.com/track/1LirIEWRikkMLnoCsoh37i) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [Tracy De Sá](https://open.spotify.com/artist/5PPRykFD70uQSLdvukWxyV), [Urmi](https://open.spotify.com/artist/2RCR4MrSBtETf5GIXWfATw) | [Nin Thale](https://open.spotify.com/album/0Vxdv3hPjU7USETVsXwix4) | 3:15 | 2023-05-18 | 2023-06-08 |
 | [Nina Myaale](https://open.spotify.com/track/1DeCiMxWuLboZByKwPgrvz) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Nina Myaale](https://open.spotify.com/album/48G6knKFk6JcWEYBFNrE91) | 3:35 | 2022-10-17 | 2023-08-12 |
 | [Ninade Nenapu](https://open.spotify.com/track/2WZy5hRa0nET4W1Wj7bcsc) | [John Bharath](https://open.spotify.com/artist/1DwEUE84q0o4QP3hVHhxCE), [LIKITH GAYAK](https://open.spotify.com/artist/05qCSs06CfFg2O3jnR6szj), [Maansi S](https://open.spotify.com/artist/4fjGeGJzLA555aFQl4rp9F) | [Mareyada Manasu](https://open.spotify.com/album/1Ul1IAgpVLYCJa9v1pH6zP) | 3:05 | 2025-06-20 | 2025-11-21 |
+| [Ninade Ninade](https://open.spotify.com/track/2kQqzC76HZMGZpYLjHrQol) | [Lakshmi Shankarrao](https://open.spotify.com/artist/5tx5Q0jhrCdH41bDBfSj7X), [Sahil Anwar](https://open.spotify.com/artist/3hrWJo8nMIgMdKgy57HhOr) | [Ninade Ninade](https://open.spotify.com/album/2N8K8Ns53BsMdPZOJbgBaI) | 4:58 | 2026-09-29 |  |
 | [Ninagaagi](https://open.spotify.com/track/7pHniDKvON0JFbCuBB3s7m) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Ninagaagi](https://open.spotify.com/album/2shIXMDv01uAasSN4Xdh0h) | 3:12 | 2023-06-09 | 2023-06-20 |
 | [Ninagaagi](https://open.spotify.com/track/4pEyj2beXCpZrSoxfeu6nj) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:12 | 2023-06-27 | 2023-07-11 |
 | [Ninna Benna Haadi](https://open.spotify.com/track/7rJKZAjD15dDMyogLzmcRN) | [Pavan Kumar N R](https://open.spotify.com/artist/3bU2PMblhilv78x5bCCimy), [Pavan Kumar](https://open.spotify.com/artist/0O9NcedvhpUsBKGKFgFdfF) | [Ninna Benna Haadi](https://open.spotify.com/album/0rZA4ah0v6KbsJB9JyYmOV) | 2:36 | 2024-12-12 | 2025-03-20 |

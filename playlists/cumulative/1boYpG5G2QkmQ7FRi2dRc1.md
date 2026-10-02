@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-3,222 songs - 8 day 2 hr 38 min
+3,223 songs - 8 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2845,6 +2845,7 @@
 | [Thinking Of You](https://open.spotify.com/track/1djmOSNroaNR082fxvnMDZ) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Thinking Of You](https://open.spotify.com/album/0fptX7Zh1j3K0ogKtZ9WKH) | 4:06 | 2023-08-26 | 2023-09-03 |
 | [Thirst Day \- Radio Edit](https://open.spotify.com/track/5jGLpmADscdE30FfRdvqru) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Big Jon](https://open.spotify.com/artist/3sSZbKRuoK7NVVqEiQgMy9), [Dillon Kelly](https://open.spotify.com/artist/59t16qkSMegtVVuniSMTQs) | [Thirst Day \(Radio Edit\)](https://open.spotify.com/album/4uDOt4aulj8xmQWLEFZY9p) | 2:35 | 2025-01-11 | 2025-02-17 |
 | [This Ain't Love](https://open.spotify.com/track/7aNnRM4mWrBdauDAwkEf5j) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4), [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o) | [This Ain't Love](https://open.spotify.com/album/12V6TWwLZOGaUWnHn8sLzG) | 2:40 | 2026-04-17 | 2026-05-10 |
+| [This Dream of You](https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [This Dream of You](https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm) | 4:46 | 2026-10-01 |  |
 | [This Evening](https://open.spotify.com/track/1ktqfwC2rUgTmvzCSted3k) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [This Evening](https://open.spotify.com/album/2bt9r4ymf06rEJHKyFYWFR) | 2:21 | 2025-05-31 | 2025-06-09 |
 | [This Is A Groove](https://open.spotify.com/track/37BQ2FeldSIQsmWrA3P8kQ) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [This Is A Groove](https://open.spotify.com/album/7ug4Me0dnXXrKTivcGklTw) | 4:35 | 2026-04-17 | 2026-05-10 |
 | [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 | 2022-10-15 | 2023-02-12 |

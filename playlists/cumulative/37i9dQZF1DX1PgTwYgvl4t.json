@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 475573,
       "name": "Acoustic Worship Medley (Recorded Live at \u2018The Epiphany\u2019, V1)",
       "url": "https://open.spotify.com/track/1vFoYxBAvdUHykCWCiI9Mc"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 216000,
       "name": "BURN",
       "url": "https://open.spotify.com/track/3W7WgQbR9pKIm09HQ0ku7J"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 561714,
       "name": "Do A Work In Me - Live",
       "url": "https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 507857,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn"
@@ -3913,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "I Worship You Today",
+        "url": "https://open.spotify.com/album/4Bfy6lhXd1O6m8gEnUKgKu"
+      },
+      "artists": [
+        {
+          "name": "Barnabas Haruna",
+          "url": "https://open.spotify.com/artist/63kK4p2wZYim6eVdivnk35"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1124800,
+      "name": "I Worship You Today",
+      "url": "https://open.spotify.com/track/2OQn3w15KPyRz1k4cc3PJf"
+    },
+    {
+      "album": {
         "name": "If I Ever Need A Miracle (Remix)",
         "url": "https://open.spotify.com/album/5ya70zaWuhzR1DJCzCylcj"
       },
@@ -3954,10 +3972,32 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 314013,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
+    },
+    {
+      "album": {
+        "name": "Living Testimony",
+        "url": "https://open.spotify.com/album/5rTAAgQTIcmQHxfiWwSBRb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        },
+        {
+          "name": "Ccioma",
+          "url": "https://open.spotify.com/artist/4KUBNwD9GNCDXGGHJqRbpF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369235,
+      "name": "Ikuku",
+      "url": "https://open.spotify.com/track/5myzEm748n5hwJ77bdXCur"
     },
     {
       "album": {
@@ -4264,7 +4304,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 817168,
       "name": "Jesu - Live",
       "url": "https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN"
@@ -5563,6 +5603,24 @@
     },
     {
       "album": {
+        "name": "My Love to You",
+        "url": "https://open.spotify.com/album/2R2Pfqff2ZxqJWzbNRUBaN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aikhomu",
+          "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160571,
+      "name": "My Love to You",
+      "url": "https://open.spotify.com/track/3QgHXgRfZRDi4aH1PzHb4z"
+    },
+    {
+      "album": {
         "name": "The Expression",
         "url": "https://open.spotify.com/album/5LNEzS1eSEiVAAWIkd4Rk1"
       },
@@ -5786,6 +5844,28 @@
       "duration_ms": 664405,
       "name": "Never Again - Live",
       "url": "https://open.spotify.com/track/0avSfabWivCociv7l1vKRM"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/5mjTOSaneMJbHpD0UUfs0c"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429954,
+      "name": "Never Let Me Go (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/7kclJCORTXNTFHqmAkzGRp"
     },
     {
       "album": {
@@ -8043,6 +8123,24 @@
     },
     {
       "album": {
+        "name": "We Need Your Mercy",
+        "url": "https://open.spotify.com/album/7BByt0OjKBaTIPbNv7U1G7"
+      },
+      "artists": [
+        {
+          "name": "Elijah Daniel Omo Majemu",
+          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308636,
+      "name": "We Need Your Mercy",
+      "url": "https://open.spotify.com/track/0QWo72wWFYr189PTEDJnrp"
+    },
+    {
+      "album": {
         "name": "We Pour (Live)",
         "url": "https://open.spotify.com/album/3jGmNRu4D0QmNjZoIlOFBe"
       },
@@ -8352,6 +8450,24 @@
       "duration_ms": 344000,
       "name": "Worship Rise",
       "url": "https://open.spotify.com/track/1jPx3PZZYcH5EkvZxvUx2b"
+    },
+    {
+      "album": {
+        "name": "WORSHIP THERAPY",
+        "url": "https://open.spotify.com/album/53Vl4o1IbVPB3pEA2KwfWH"
+      },
+      "artists": [
+        {
+          "name": "Deborah Ajayi",
+          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1576000,
+      "name": "WORSHIP THERAPY",
+      "url": "https://open.spotify.com/track/7jJfAsJz5Iv5wmqnv5NgZ9"
     },
     {
       "album": {

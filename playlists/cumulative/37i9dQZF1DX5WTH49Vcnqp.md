@@ -2,9 +2,9 @@
 
 ### [Front Left](https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp)
 
-> Music that's hard to define, but easy to love\. Cover: Julia Jacklin
+> Music that's hard to define, but easy to love\. Cover: Logic1000
 
-1,943 songs - 4 day 15 hr 51 min
+1,946 songs - 4 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 | 2022-02-17 | 2022-06-10 |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-21 | 2025-02-14 |
 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2021-12-28 | 2022-03-15 |
+| [2Love \(feat\. FAUZIA\)](https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl) | [Confirmation!](https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g) | 2:44 | 2026-10-01 |  |
 | [2MUCH](https://open.spotify.com/track/17Ruxistm0y59Var5neHm5) | [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [thatboykwame](https://open.spotify.com/album/6ZKROSJqduKewo7OcQcTGF) | 2:48 | 2022-12-01 | 2023-02-17 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-16 | 2023-05-05 |
 | [3 outfits](https://open.spotify.com/track/78zWCikDMYzFpXAdqANPrD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [3 outfits](https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1) | 3:30 | 2022-03-24 | 2022-07-01 |
@@ -432,7 +433,7 @@
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-08 | 2023-03-03 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-03 | 2023-02-24 |
 | [die young](https://open.spotify.com/track/0ohtsxNylBu2zu6hlopn1X) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [die young](https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP) | 2:44 | 2023-06-23 | 2023-09-15 |
-| [Different Religion \(feat\. Model/Actriz\)](https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:43 | 2026-09-17 |  |
+| [Different Religion \(feat\. Model/Actriz\)](https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:43 | 2026-09-17 | 2026-10-02 |
 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 | 2023-05-04 | 2023-06-16 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-11 | 2024-10-25 |
 | [Disassociation](https://open.spotify.com/track/7sJ9iqNke7NuS73w8gAcYr) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Disassociation](https://open.spotify.com/album/16RZPatZbca1ckIBwrN6C6) | 4:08 | 2021-12-28 | 2022-03-11 |
@@ -568,7 +569,7 @@
 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-09 | 2023-04-21 |
 | [Feel It](https://open.spotify.com/track/6zx3Fh4ycldi5XZHukp2jT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Lost Forever](https://open.spotify.com/album/3kwZmDvzfHAhkWdIUaku4J) | 5:09 | 2022-11-10 | 2023-02-03 |
 | [Feel So Good Around U](https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn) | [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Feel So Good Around U](https://open.spotify.com/album/5jQDO3r5tVB7t0H6ipp9vO) | 4:32 | 2026-01-29 | 2026-07-24 |
-| [Feel The Real](https://open.spotify.com/track/3FDChZZUOTKZIZsGPYUnFK) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 3:00 | 2026-04-09 |  |
+| [Feel The Real](https://open.spotify.com/track/3FDChZZUOTKZIZsGPYUnFK) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 3:00 | 2026-04-09 | 2026-10-02 |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-10 | 2022-04-14 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 | 2025-07-25 |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-17 | 2023-02-10 |
@@ -1060,6 +1061,7 @@
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-03-23 | 2023-05-12 |
 | [low down](https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT) | 3:02 | 2022-04-21 | 2022-07-15 |
 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 | 2024-03-21 | 2024-06-28 |
+| [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 | 2026-10-01 |  |
 | [Lunchtime](https://open.spotify.com/track/6N62tx63qPmn4KvXJszqgr) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lunchtime](https://open.spotify.com/album/2CMjz9lnTrLQAecRlZZiL9) | 3:18 | 2021-12-28 | 2022-01-27 |
 | [Lupa](https://open.spotify.com/track/0BdZGPjIfihtxbB8YfGgLe) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [King Stingray](https://open.spotify.com/album/1I0ZpUzinqCX3rSEgADGJX) | 3:15 | 2022-08-05 | 2022-09-30 |
 | [Lydia Wears A Cross](https://open.spotify.com/track/3790YaBSLe4av6IuC7EKSJ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Lydia Wears A Cross](https://open.spotify.com/album/555w7gNIX1GdiNMNUj9qpZ) | 4:01 | 2022-05-19 | 2022-07-05 |
@@ -1428,7 +1430,7 @@
 | [Sage](https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Liquorice](https://open.spotify.com/album/0dtHFmAZG3WuxrpxxGoXlV) | 4:04 | 2025-11-06 | 2025-12-04 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-02-20 | 2025-06-27 |
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-07 | 2024-01-26 |
-| [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 | 2026-04-23 |  |
+| [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 | 2026-04-23 | 2026-10-02 |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-06-23 | 2024-01-22 |
 | [Sandra](https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Sandra](https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi) | 3:54 | 2022-09-15 | 2022-11-11 |
 | [Sanity](https://open.spotify.com/track/0yGZWIBojuCCebat8AA0HW) | [Scratching](https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn) | [Sanity](https://open.spotify.com/album/5I17zM2Ovzcpew2NJOkzJM) | 5:23 | 2026-03-05 | 2026-05-22 |
@@ -1762,6 +1764,7 @@
 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 | 2025-09-11 | 2025-10-10 |
 | [To You](https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN) | 3:08 | 2022-05-12 | 2022-07-21 |
 | [Tokyo](https://open.spotify.com/track/1MEnBRNqcVp38fmYnW9qE6) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Skate Pop](https://open.spotify.com/album/7y5727WTbpYwhumx9QyfUP) | 2:15 | 2024-02-22 | 2024-03-29 |
+| [Tongue](https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Tongue](https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw) | 3:13 | 2026-10-01 |  |
 | [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 | 2026-03-26 | 2026-09-25 |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-03 | 2025-06-06 |
 | [Too Easy](https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:06 | 2022-09-29 | 2022-12-09 |

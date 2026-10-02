@@ -1,13 +1,181 @@
 {
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:7uMh23xWiuR7zsNkuNcm2G\">MNEK</a>",
-  "num_followers": 6032,
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"https://artists.spotify.com/songwriter/0agZf9y9Jb7sG3yPPqvYBN\">Reece Pullinger</a>",
+  "num_followers": 6036,
   "original_name": "GLOW Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF+FzOWzdbu9MWYv6y+yulQCz66i",
+  "snapshot_id": "AAAAAGOhungOrxHnOaShceAdYCJWWxrA",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:01:14",
+      "album": {
+        "name": "Rave Out",
+        "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 148155,
+      "name": "Rave Out",
+      "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
+    },
+    {
+      "added_at": "2026-10-02 04:01:14",
+      "album": {
+        "name": "OMG! (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 152989,
+      "name": "OMG! (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg"
+    },
+    {
+      "added_at": "2026-10-02 04:01:14",
+      "album": {
+        "name": "Eat It Up",
+        "url": "https://open.spotify.com/album/0vLEpdbPTvEsf9c9793mfc"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 156847,
+      "name": "Eat It Up",
+      "url": "https://open.spotify.com/track/0z8oiemLRo51H4L9U3ZhuO"
+    },
+    {
+      "added_at": "2026-10-02 04:01:14",
+      "album": {
+        "name": "Satisfy You",
+        "url": "https://open.spotify.com/album/3AGDAou8OprOZbNui4bybv"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Bobby Harvey",
+          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "duration_ms": 147695,
+      "name": "Satisfy You",
+      "url": "https://open.spotify.com/track/2Tk9biNKYewfJkqN1ILX2z"
+    },
+    {
+      "added_at": "2026-10-02 04:01:14",
+      "album": {
+        "name": "Swerve it",
+        "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "Swerve It",
+      "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
+    },
+    {
+      "added_at": "2026-10-02 04:01:14",
+      "album": {
+        "name": "Beast Mode",
+        "url": "https://open.spotify.com/album/19HTmEbBQH36juO5Q4Wfjv"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        },
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "Beast Mode",
+      "url": "https://open.spotify.com/track/5Pg9dsZZd6DuanCKlehvMx"
+    },
+    {
+      "added_at": "2026-10-02 04:01:14",
+      "album": {
+        "name": "My Type On Paper",
+        "url": "https://open.spotify.com/album/2UFJYNUgGPRvxX3PJLRNhd"
+      },
+      "artists": [
+        {
+          "name": "LEXA",
+          "url": "https://open.spotify.com/artist/31v6vq5lH3higosPlF6y0b"
+        }
+      ],
+      "duration_ms": 157685,
+      "name": "My Type On Paper",
+      "url": "https://open.spotify.com/track/3Pk1rrUFL6lZGpROpASwqm"
+    },
     {
       "added_at": "2026-09-04 04:01:12",
       "album": {
@@ -839,98 +1007,6 @@
       "duration_ms": 392590,
       "name": "Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet)",
       "url": "https://open.spotify.com/track/6ajiOUVtxRjYcf1EvBDoV4"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "All These Ladies",
-        "url": "https://open.spotify.com/album/0ZJrY2IPQAJdqPDaTPsEpQ"
-      },
-      "artists": [
-        {
-          "name": "BGYO",
-          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
-        }
-      ],
-      "duration_ms": 227268,
-      "name": "All These Ladies",
-      "url": "https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "RAP SH!T (Soundtrack: From The Max Original Series, S1)",
-        "url": "https://open.spotify.com/album/0ej4GVNwII3h7eFqVs5q3M"
-      },
-      "artists": [
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Alex Mali",
-          "url": "https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ"
-        },
-        {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "Stank Ass Walk (RAP SH!T: Soundtrack From The Max Original Series, S1)",
-      "url": "https://open.spotify.com/track/0KqZCRr1HIvgyNBs0H3uHO"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "DIRTY",
-        "url": "https://open.spotify.com/album/5tPCTpO4A0Rce05xijhIJT"
-      },
-      "artists": [
-        {
-          "name": "TANGELA",
-          "url": "https://open.spotify.com/artist/0tDUYf6Kgwje2xTRlJZMwU"
-        }
-      ],
-      "duration_ms": 159838,
-      "name": "DIRTY",
-      "url": "https://open.spotify.com/track/3MyJ8iwiZOEqhBneh6NBAm"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/5PLNFCrdaoInB5NU92M38x"
-      },
-      "artists": [
-        {
-          "name": "Shane Stevens",
-          "url": "https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr"
-        }
-      ],
-      "duration_ms": 202122,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/3AAcfI872QECsygDOQSwBS"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "GRITS",
-        "url": "https://open.spotify.com/album/2MMOnzcdK4oGgi9esE0gKV"
-      },
-      "artists": [
-        {
-          "name": "Shane Stevens",
-          "url": "https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr"
-        }
-      ],
-      "duration_ms": 173783,
-      "name": "GRITS",
-      "url": "https://open.spotify.com/track/0Ymuz773KydzWsrvYCjXcX"
     }
   ],
   "unique_name": "GLOW Songwriters",

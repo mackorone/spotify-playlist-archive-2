@@ -421,6 +421,28 @@
     },
     {
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/4vDPYzDfDOaffs8jE58C4A"
+      },
+      "artists": [
+        {
+          "name": "L.GU.",
+          "url": "https://open.spotify.com/artist/5HLFjiA44P1kaJHdoOfhHt"
+        },
+        {
+          "name": "Hedara",
+          "url": "https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225604,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/0awmTGa44Mnod8FdqZhoHI"
+    },
+    {
+      "album": {
         "name": "Blackberries",
         "url": "https://open.spotify.com/album/0wRizVFvSd8ASY1OSnnnID"
       },

@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,708 songs - 2 day 22 hr 51 min
+1,709 songs - 2 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [FAKK MITT EX](https://open.spotify.com/track/6RXBmjvRX1XWZyS8jF416I) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [FAKK MITT EX](https://open.spotify.com/album/72QDi4ww9Hn3zz6V1A0oBK) | 2:54 | 2026-03-26 |  |
 | [FAKK MITT X](https://open.spotify.com/track/2rJK8zzRVOYasVK5EPcuty) | [Turbo Dunken](https://open.spotify.com/artist/112RQNXwHlKd0ojcCi9UTB), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ), [Ringnes\-Ronja](https://open.spotify.com/artist/4UreQm83zKgphhXRToZs9r) | [FAKK MITT X](https://open.spotify.com/album/5YQQAoz0ci5USRq54s59hr) | 2:05 | 2026-01-22 |  |
 | [FAKKA UR](https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 2:12 | 2022-08-25 | 2023-02-03 |
+| [FAKKAD](https://open.spotify.com/track/5LjgVe34rt0WVnEPFuWiIi) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69), [90/10](https://open.spotify.com/artist/6Uo7u0FA40dcI0cFbgLrNX) | [FAKKAD](https://open.spotify.com/album/3vjgZRCW0YDN0qi9jZGIco) | 2:39 | 2026-10-01 |  |
 | [FAKKBOI \(Skaka rumpa\)](https://open.spotify.com/track/3iyibcScl3sdaA0jsEvv2m) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69), [DJ Smashyy](https://open.spotify.com/artist/732rgcIFiFfVdzK9GaFdHJ) | [FAKKBOI \(Skaka rumpa\)](https://open.spotify.com/album/4xH17FsmjiBVdkXMEa9OTa) | 2:26 | 2026-01-13 | 2026-04-03 |
 | [Fakking Full](https://open.spotify.com/track/3SuPMsIb1aksiFtkkrtBRV) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [Fakking Full](https://open.spotify.com/album/2cT4mNX7jO8YGWbvZJqm5g) | 2:14 | 2023-06-15 | 2023-06-30 |
 | [FALCON PÅ BALKONGEN](https://open.spotify.com/track/09JIhXdFMnu6xh70L7u8vm) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [FALCON PÅ BALKONGEN](https://open.spotify.com/album/2u6cTSzd8JZd4aMTR8mTkK) | 1:52 | 2022-11-10 | 2022-11-12 |

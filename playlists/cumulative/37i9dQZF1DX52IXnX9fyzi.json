@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Astro",
+        "url": "https://open.spotify.com/album/50IglsFdvzadcedAMM2MZV"
+      },
+      "artists": [
+        {
+          "name": "Gregory Velvet",
+          "url": "https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Astro",
+      "url": "https://open.spotify.com/track/5fpSMuXfQGRsKqSE4fqepu"
+    },
+    {
+      "album": {
         "name": "Au Chevet",
         "url": "https://open.spotify.com/album/3ohmAEcfLlPaUSfjBWO8H8"
       },
@@ -1320,6 +1338,24 @@
       "duration_ms": 145760,
       "name": "Blue Balloon",
       "url": "https://open.spotify.com/track/1L06LDQLfZlCDbM54Wo9gT"
+    },
+    {
+      "album": {
+        "name": "Blue Glass",
+        "url": "https://open.spotify.com/album/6Sbsq7hStpPkbkKAVyHL08"
+      },
+      "artists": [
+        {
+          "name": "Xoi Xoi",
+          "url": "https://open.spotify.com/artist/2sn3KUN2HhvxV2SLWMWxKl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137433,
+      "name": "Blue Glass",
+      "url": "https://open.spotify.com/track/4nY0ny421yvfYFpdzCMG98"
     },
     {
       "album": {
@@ -7276,6 +7312,24 @@
       "duration_ms": 131551,
       "name": "Ripples of Moonlight",
       "url": "https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1"
+    },
+    {
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/3A7yxdrJzCWRFeNLrywF0F"
+      },
+      "artists": [
+        {
+          "name": "Sur Coast",
+          "url": "https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/0vDBjIasvAVQTKCVEqumeA"
     },
     {
       "album": {

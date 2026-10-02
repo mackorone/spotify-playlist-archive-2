@@ -5103,6 +5103,28 @@
     },
     {
       "album": {
+        "name": "How Far (Chal\u00e9)",
+        "url": "https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF"
+      },
+      "artists": [
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        },
+        {
+          "name": "BELLIL BROTHERS",
+          "url": "https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167603,
+      "name": "How Far (Chal\u00e9)",
+      "url": "https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5"
+    },
+    {
+      "album": {
         "name": "How Ya Feelin\u2019",
         "url": "https://open.spotify.com/album/0XdbLaKmYsKg0AmDLWo2yV"
       },
@@ -7115,6 +7137,24 @@
     },
     {
       "album": {
+        "name": "Marido Dansa EP",
+        "url": "https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154153,
+      "name": "Marido Dansa",
+      "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
+    },
+    {
+      "album": {
         "name": "Marvellous",
         "url": "https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs"
       },
@@ -7412,7 +7452,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 232727,
       "name": "moln - Finally Version",
       "url": "https://open.spotify.com/track/0wnQPvxjJPkluqxweVO5F3"
@@ -7906,7 +7946,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 161000,
       "name": "nothin lasts 4ever",
       "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
@@ -9512,7 +9552,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 195121,
       "name": "Secrets - feat. True Motion",
       "url": "https://open.spotify.com/track/45qrI4aHPLxc7jzIgwjUMQ"
@@ -12326,6 +12366,32 @@
       "duration_ms": 220168,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
+    },
+    {
+      "album": {
+        "name": "What You Talking 'Bout",
+        "url": "https://open.spotify.com/album/6JNZofZ1bRcmHh3lmpmNhZ"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Airwolf Paradise",
+          "url": "https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "What You Talking 'Bout",
+      "url": "https://open.spotify.com/track/0Yy0Yb5VThQOYiBfNEzssi"
     },
     {
       "album": {

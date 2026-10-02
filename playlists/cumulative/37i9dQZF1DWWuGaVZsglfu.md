@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: SIENNA SPIRO
+> The best tracks from the world of music\. Cover: Taylor Swift
 
-589 songs - 1 day 9 hr 35 min
+591 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [I'd Rather Pretend](https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [VANITY](https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g) | 3:04 | 2024-08-07 | 2024-10-03 |
 | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 | 2024-10-02 | 2024-12-12 |
 | [I'll Be There](https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay) | 3:01 | 2024-10-30 | 2024-11-28 |
-| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-19 |  |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-19 | 2026-10-02 |
 | [if you don't love me](https://open.spotify.com/track/2YfFvs79Ho9JpW4zKkUglB) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [if you don't love me](https://open.spotify.com/album/0T4jDRsLvx2ZSsquuuvyUS) | 2:57 | 2025-11-26 | 2026-01-01 |
 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 | 2026-08-28 |  |
 | [indigo](https://open.spotify.com/track/34r4lkt0hO0sbLI17vb0Os) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [indigo](https://open.spotify.com/album/4yLxah6bVH2WO45nBfulgD) | 3:33 | 2025-04-02 | 2025-06-12 |
@@ -267,6 +267,7 @@
 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 | 2025-06-04 | 2025-10-23 |
 | [KOPI](https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw) | [NAZU](https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [KOPI](https://open.spotify.com/album/5bqruzmuQMjI8YZXIv589g) | 2:54 | 2025-08-13 | 2025-10-30 |
 | [kota ini tak sama tanpamu](https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 4:39 | 2026-01-14 |  |
+| [Ku Yang Berjuang](https://open.spotify.com/track/5PuB13djUK6iIzaikLM8KG) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Ku Yang Berjuang](https://open.spotify.com/album/60xClKYJnGS6wEI2Kx8ebo) | 3:42 | 2026-10-01 |  |
 | [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/track/6umkauU8LpyxSBZnfsupA4) | [Eleven Tonight](https://open.spotify.com/artist/2V37vdVydcJ12vTjsTQVZe), [Amir Ahnaf](https://open.spotify.com/artist/2iJlLP7E7S7ueRA0VzgrQF), [Riko Agus](https://open.spotify.com/artist/5nj6Zfl38Dg82VdFTtoK0X) | [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/album/2TsH6MxGuBg20GOE6JXGTX) | 3:41 | 2024-12-26 | 2025-01-23 |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-06-26 | 2025-01-23 |
 | [lagu lelaki gila.](https://open.spotify.com/track/4sINZgO9lCH2eGUjSjrWP4) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [ep : lelaki gila.](https://open.spotify.com/album/3RXgM47NAKjBGiAj5syiIF) | 3:45 | 2025-02-05 | 2025-05-08 |
@@ -355,6 +356,7 @@
 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 | 2025-12-03 | 2026-04-09 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-06-26 | 2024-07-25 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-22 | 2025-03-07 |
+| [Obsessica](https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD) | 3:39 | 2026-10-01 |  |
 | [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 | 2026-08-14 |  |
 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 | 2025-04-09 | 2025-07-10 |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-06-12 |
@@ -406,7 +408,7 @@
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-30 | 2025-09-12 |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 |  |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2024-10-17 |
-| [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-06-10 |  |
+| [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-06-10 | 2026-10-02 |
 | [Romancinta](https://open.spotify.com/track/5XCNHa4uhsI3zYdbVHZaGE) | [Mojo](https://open.spotify.com/artist/1nxfzZDDm0a0msuLz0W4lx) | [Romancinta](https://open.spotify.com/album/1dqV2O8kV4flijwKc2s9e0) | 4:04 | 2026-04-08 | 2026-05-27 |
 | [Ruang & Waktu](https://open.spotify.com/track/3aEQOmXkgUHsIR3A1oiEgR) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Ruang & Waktu](https://open.spotify.com/album/1FFwUNyTkk83wxQwiPECTo) | 2:49 | 2025-05-28 | 2025-06-26 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-20 | 2024-12-05 |

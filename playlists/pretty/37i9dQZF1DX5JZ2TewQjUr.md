@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: KA LAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,710 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,711 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 44 | [LOVE YOU STILL](https://open.spotify.com/track/6eOVlrNLoVvAkPEN30S9sm) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [LOVE YOU STILL](https://open.spotify.com/album/33jckkBzZw19ZoBxiyMQ1U) | 4:13 |
 | 45 | [Angel\(s\)](https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Angel\(s\)](https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4) | 3:03 |
 | 46 | [Last night in Hong Kong](https://open.spotify.com/track/0CCXDZLnhjAlPo3sr3zjI5) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [Last night in Hong Kong](https://open.spotify.com/album/1t4euBr2Oiu3MPnUvosg3v) | 2:45 |
-| 47 | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/track/33PjA0pWLFeggSnpGu17hm) | [Lili Forest](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox), [Ghost Style](https://open.spotify.com/artist/6QljZ2X0gO5jqG9u096o6j) | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/album/4D9ZkcqwxbBrJokLVgY81j) | 2:58 |
+| 47 | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/track/33PjA0pWLFeggSnpGu17hm) | [Lili Forest 木子](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox), [Ghost Style](https://open.spotify.com/artist/6QljZ2X0gO5jqG9u096o6j) | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/album/4D9ZkcqwxbBrJokLVgY81j) | 2:58 |
 | 48 | [text u](https://open.spotify.com/track/3cmk459dDNAu7WLtPJhAnv) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [text u](https://open.spotify.com/album/1mSRlipSmdZwuX6pZGSKJP) | 2:29 |
 | 49 | [depresso](https://open.spotify.com/track/7oM7WsJFQclWbcD7Obrrrz) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [depresso](https://open.spotify.com/album/2CUbNUEaW14qh7Z7XmDcGp) | 3:48 |
 | 50 | [Lemons](https://open.spotify.com/track/32GgQmuBSuHrYc0XNvfv0v) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Lemons](https://open.spotify.com/album/67Ajtw9rA83ErOpYlcN0Jj) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 99 | [Love Me You Do](https://open.spotify.com/track/2csVPQvnGuR5KYWhoxta8w) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX), [Le Shing](https://open.spotify.com/artist/3pD1EyHbEmPbGXMiLgpda2) | [Love Me You Do](https://open.spotify.com/album/1zTHpt1wq8fJxXdSXGpM6E) | 2:30 |
 | 100 | [大亂鬥生存守則](https://open.spotify.com/track/108vPqGjLYFtxqPHQL2Ydx) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [大亂鬥生存守則](https://open.spotify.com/album/7oARYVLZ10iYf6pYSMwGW0) | 2:31 |
 
-Snapshot ID: `AAAAAIeYDxNj6cjyBZXKJ63o3MtyAyR9`
+Snapshot ID: `AAAAANstN43Pi1nGQTpxJjuuUPcNSlRe`

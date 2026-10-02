@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Brothers. The essential tracks, all in one playlist.",
-  "num_followers": 423086,
+  "num_followers": 423127,
   "original_name": "This Is Jonas Brothers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADBd8TFAPX7YdtqctOE7fJG",
+  "snapshot_id": "arxRAAAAAAB4u8QOkahiD3gyfZakoEY9",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 167106,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
       },
@@ -391,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
       "artists": [
         {
@@ -400,9 +384,25 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 126444,
-      "name": "Celebrate!",
-      "url": "https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf"
+      "duration_ms": 167106,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jonas Brothers",
+        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "That's Just The Way We Roll",
+      "url": "https://open.spotify.com/track/69BLkDWJcRYqzje2qdr6PC"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jonas Brothers",
-        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
       },
       "artists": [
         {
@@ -436,29 +436,9 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 173000,
-      "name": "That's Just The Way We Roll",
-      "url": "https://open.spotify.com/track/69BLkDWJcRYqzje2qdr6PC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life Is A Highway: Refueled Duets",
-        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/0o5fZ3L5LpYEVyxNhDJke7"
+      "duration_ms": 126444,
+      "name": "Celebrate!",
+      "url": "https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf"
     },
     {
       "added_at": null,
@@ -479,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jonas Brothers",
+        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0LAe8mOyLxUAN5pgqovhpN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jonas Brothers",
-        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
+        "name": "Life Is A Highway: Refueled Duets",
+        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
       },
       "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
         {
           "name": "Jonas Brothers",
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 164973,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0LAe8mOyLxUAN5pgqovhpN"
+      "duration_ms": 228066,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/0o5fZ3L5LpYEVyxNhDJke7"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greetings From Your Hometown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jonas Brothers",
         "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 151000,
       "name": "Goodnight and Goodbye",
       "url": "https://open.spotify.com/track/0qnnYMKZhzswKorRpBrnNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greetings From Your Hometown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
       "duration_ms": 149284,
       "name": "Strong Enough (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 162051,
-      "name": "Healing (Shattered Heart)",
-      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
     },
     {
       "added_at": null,
@@ -691,22 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "XV",
-        "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 185277,
-      "name": "X (with KAROL G)",
-      "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"
+      "duration_ms": 162051,
+      "name": "Healing (Shattered Heart)",
+      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
     },
     {
       "added_at": null,
@@ -723,6 +703,26 @@
       "duration_ms": 176373,
       "name": "BB Good",
       "url": "https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 185277,
+      "name": "X (with KAROL G)",
+      "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "Video Girl",
+      "url": "https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "clich\u00e9 (Jonas Brothers remix)",
         "url": "https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 176242,
       "name": "clich\u00e9 - Jonas Brothers remix",
       "url": "https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 172560,
       "name": "Don't Throw it Away",
       "url": "https://open.spotify.com/track/24eP9hGnGR6RCQvllQVkCm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 173920,
-      "name": "Video Girl",
-      "url": "https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l"
     },
     {
       "added_at": null,

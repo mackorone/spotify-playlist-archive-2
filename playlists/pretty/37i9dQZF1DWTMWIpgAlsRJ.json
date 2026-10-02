@@ -1,6 +1,6 @@
 {
   "description": "The Ultimate EA SPORTS FC Playlist: a celebration of The World's Game, curated specially for you.",
-  "num_followers": 396539,
+  "num_followers": 396535,
   "original_name": "EA SPORTS FC Ultimate Mix",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "Feet Don't Fail Me Now",
         "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 121089,
       "name": "poster boy",
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "STORM",
-        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
-      },
-      "artists": [
-        {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 173433,
-      "name": "STORM II",
-      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Reality Awaits",
-        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Lonely in the Future",
-      "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 206393,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Reality Awaits",
+        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Lonely in the Future",
+      "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4sceISkCvRuDbd74AtKeEH"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "Who's That",
+        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+      "duration_ms": 314733,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -887,22 +903,6 @@
       "duration_ms": 405693,
       "name": "Played-A-Live (The Bongo Song)",
       "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "Who's That",
-        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 314733,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "Black Boy (Alternative)",
         "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 167666,
       "name": "How To Pray",
       "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "NZELA",
+        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "NZELA",
+      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "NZELA",
-        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+        "name": "Love + War",
+        "url": "https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
         }
       ],
-      "duration_ms": 191013,
-      "name": "NZELA",
-      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
+      "duration_ms": 214149,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1119,22 +1135,6 @@
       "duration_ms": 197352,
       "name": "Big Talk",
       "url": "https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "Love + War",
-        "url": "https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH"
-      },
-      "artists": [
-        {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
-        }
-      ],
-      "duration_ms": 214149,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 182724,
-      "name": "Apple Juice",
-      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Colors Collide",
         "url": "https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb"
       },
@@ -1311,6 +1295,42 @@
       "duration_ms": 215170,
       "name": "Colors Collide",
       "url": "https://open.spotify.com/track/5pj1lxRJRonuzTu8DfsbUz"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 182724,
+      "name": "Apple Juice",
+      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 209436,
+      "name": "STORM I",
+      "url": "https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1355,6 +1375,22 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "Kasabian",
+        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 214442,
+      "name": "Club Foot",
+      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "places to be",
         "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
       },
@@ -1375,38 +1411,6 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "Kasabian",
-        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 214442,
-      "name": "Club Foot",
-      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "Just As Long As We're Together",
-        "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 194992,
-      "name": "Just As Long As We're Together",
-      "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "STORM",
-        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+        "name": "Just As Long As We're Together",
+        "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
       },
       "artists": [
         {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 209436,
-      "name": "STORM I",
-      "url": "https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB"
+      "duration_ms": 194992,
+      "name": "Just As Long As We're Together",
+      "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "FREE SPIRITS",
-        "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 229578,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/4Y9IOTRm5rEgZ0jSP9KGmM"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 175906,
       "name": "I Can Talk",
       "url": "https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "FREE SPIRITS",
+        "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "duration_ms": 229578,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/4Y9IOTRm5rEgZ0jSP9KGmM"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 123517,
-      "name": "like JENNIE",
-      "url": "https://open.spotify.com/track/6nWWuodRc3aJS7aLrflaqF"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "(((((ultraSOUND)))))+",
         "url": "https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 191466,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/5m8QBWMfWxq9F8e8uI53hp"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/6nWWuodRc3aJS7aLrflaqF"
     },
     {
       "added_at": "2026-09-22 20:34:58",

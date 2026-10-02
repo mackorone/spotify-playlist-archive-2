@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by: <a href=\"spotify:artist:5Oj5jQ98vsoHeIGqCS9Dfq\">Msaki</a>",
+  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by: <a href=\"https://artists.spotify.com/songwriter/34YzezAI3nKTv5PilX7qGn\">Sasha Alex Sloan</a>",
   "name": "Created by Women",
   "tracks": [
     {
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 367000,
       "name": "Blood Guns and Revolutions",
       "url": "https://open.spotify.com/track/1YCPCF3GblBbxAoNh7t7TP"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 313250,
       "name": "Born in a Taxi",
       "url": "https://open.spotify.com/track/64TDwOfsMIoi976u9gcuu3"
@@ -3141,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310160,
+      "name": "Cloudbusting",
+      "url": "https://open.spotify.com/track/373vZ0g1dpWaUcrbh0WKhd"
+    },
+    {
+      "album": {
         "name": "CLUBHOPPERS.",
         "url": "https://open.spotify.com/album/7cPVCdr5wsHqUZeTZk6ZhW"
       },
@@ -3402,6 +3420,24 @@
       "duration_ms": 305493,
       "name": "Cornflake Girl",
       "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+    },
+    {
+      "album": {
+        "name": "Exiled",
+        "url": "https://open.spotify.com/album/6OxJmexn8RZI1fi8RDDKG8"
+      },
+      "artists": [
+        {
+          "name": "Thandi Ntuli",
+          "url": "https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378737,
+      "name": "Cosmic Light",
+      "url": "https://open.spotify.com/track/1vDP8T0mCS0DuVbz69SxCq"
     },
     {
       "album": {
@@ -5382,7 +5418,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 307500,
       "name": "Fetch Your Life II",
       "url": "https://open.spotify.com/track/2sNGPTctQVNBxHNXWdZSIR"
@@ -6132,7 +6168,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 132101,
       "name": "Gibel' Inkwenkwezi",
       "url": "https://open.spotify.com/track/5jxWKkJzlyTEoUolbgpyfB"
@@ -6522,6 +6558,24 @@
       "duration_ms": 186627,
       "name": "Good Mourning",
       "url": "https://open.spotify.com/track/56Bdgw0WJk98bxa2pOMgMB"
+    },
+    {
+      "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232048,
+      "name": "Goodnight and Go",
+      "url": "https://open.spotify.com/track/4lJjVASVLA8m4RJUCD6MPL"
     },
     {
       "album": {
@@ -7014,6 +7068,24 @@
       "duration_ms": 164000,
       "name": "Here With You",
       "url": "https://open.spotify.com/track/7CtddlO4AqYmv8oxlVpzpi"
+    },
+    {
+      "album": {
+        "name": "Boys for Pele (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311706,
+      "name": "Hey Jupiter - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2Nq5FAdFD2GOWH3l04kBWB"
     },
     {
       "album": {
@@ -8829,6 +8901,24 @@
     },
     {
       "album": {
+        "name": "Zaneliza: How the Water Moves",
+        "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210076,
+      "name": "Iimfama Ziyabona",
+      "url": "https://open.spotify.com/track/3VgwgAGGZT7SZ3Z1z5ayZe"
+    },
+    {
+      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
         "url": "https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN"
       },
@@ -9306,6 +9396,24 @@
       "duration_ms": 199253,
       "name": "It's Not Christmas",
       "url": "https://open.spotify.com/track/1WsG32qO3bVxXjcM3hu0iT"
+    },
+    {
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230624,
+      "name": "It's Okay To Cry",
+      "url": "https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2"
     },
     {
       "album": {
@@ -9868,7 +9976,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 131440,
       "name": "lao shi",
       "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
@@ -11203,6 +11311,28 @@
     },
     {
       "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Nonku Phiri",
+          "url": "https://open.spotify.com/artist/3bvppKM40kKBkO2zZECrBV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76000,
+      "name": "Mhlaba Wakhala",
+      "url": "https://open.spotify.com/track/4qVN564e5UmO3dDzJbOFDe"
+    },
+    {
+      "album": {
         "name": "Midnight Sounds",
         "url": "https://open.spotify.com/album/0pBnmixo6iWLSRvfGGIDcW"
       },
@@ -11932,7 +12062,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 537103,
       "name": "Nal' Ithemba (Harbouring Hope) [feat. Xolani Faku]",
       "url": "https://open.spotify.com/track/6QsmquTA1f5ZPXG5acsDpn"
@@ -14134,6 +14264,28 @@
       "duration_ms": 245040,
       "name": "River",
       "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
+    },
+    {
+      "album": {
+        "name": "The Shining (Selections from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI"
+      },
+      "artists": [
+        {
+          "name": "Wendy Carlos",
+          "url": "https://open.spotify.com/artist/53MmKrtEp4WjTg5yavKBqq"
+        },
+        {
+          "name": "Rachel Elkind",
+          "url": "https://open.spotify.com/artist/3upw7LeLuCjuLPywNdkUHY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173068,
+      "name": "Rocky Mountains",
+      "url": "https://open.spotify.com/track/46onaZFYtcf0JDnLggx7yT"
     },
     {
       "album": {
@@ -17274,7 +17426,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 332533,
       "name": "Ubomi Abumanga",
       "url": "https://open.spotify.com/track/1Eum24tziiY0sRBRx7hWBb"
@@ -17310,7 +17462,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 242076,
       "name": "Ulwandle Lutshile",
       "url": "https://open.spotify.com/track/0vh70AVn2UCj5dk5nNL72f"

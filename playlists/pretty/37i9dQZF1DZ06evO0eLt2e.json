@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 32397,
+  "num_followers": 32399,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAD8UEOOsJlsXffUmAMA1ak+",
+  "snapshot_id": "arxRAAAAAABz/0QGIKGv/TUm7pXgjBX7",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Me and Bobby McGee - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/0Hb9GMc1lWt8FTnBCzELtr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On The Road Again (Live)",
         "url": "https://open.spotify.com/album/6Cs43kWsaHLDRUcYMYqcc0"
       },
@@ -619,54 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Me and Bobby McGee - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/0Hb9GMc1lWt8FTnBCzELtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 192301,
-      "name": "The Pilgrim, Chapter 33",
-      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 192301,
+      "name": "The Pilgrim, Chapter 33",
+      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -707,30 +707,6 @@
       "duration_ms": 178440,
       "name": "From the Bottle to the Bottom",
       "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joyful Noise (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Jeremy Jordan",
-          "url": "https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "From Here To The Moon and Back",
-      "url": "https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq"
     },
     {
       "added_at": null,
@@ -799,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joyful Noise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "From Here To The Moon and Back",
+      "url": "https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Austin Sessions",
         "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 157733,
       "name": "Please Don't Tell Me How the Story Ends",
       "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Was a Capricorn",
-        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 206728,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
       "duration_ms": 277927,
       "name": "Desperados Waiting for a Train",
       "url": "https://open.spotify.com/track/1OQbJRt29UGZ5d8YGjWiDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Was a Capricorn",
+        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 206728,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
     },
     {
       "added_at": null,
@@ -955,6 +955,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "On My Way to Heaven",
+        "url": "https://open.spotify.com/album/33cycgV7UVqjr7S4qxGRXP"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        },
+        {
+          "name": "Dennis Quaid",
+          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 249711,
+      "name": "On My Way to Heaven",
+      "url": "https://open.spotify.com/track/3jxm3qgTSupK8sjlqgqPl6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
       },
@@ -983,30 +1007,6 @@
       "duration_ms": 154436,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/1zmpQ1aJBqpB35G8BDNgwt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On My Way to Heaven",
-        "url": "https://open.spotify.com/album/33cycgV7UVqjr7S4qxGRXP"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        },
-        {
-          "name": "Dennis Quaid",
-          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 249711,
-      "name": "On My Way to Heaven",
-      "url": "https://open.spotify.com/track/3jxm3qgTSupK8sjlqgqPl6"
     },
     {
       "added_at": null,

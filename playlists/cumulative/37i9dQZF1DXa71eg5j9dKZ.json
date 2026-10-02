@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: BICEP\n",
+  "description": "The home for alternative electronic music. Cover: Loods, SG Lewis\n",
   "name": "Altar",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 281739,
       "name": "138 Perc",
       "url": "https://open.spotify.com/track/0rO1KgRj9JwhLYfLt4I2td"
@@ -5520,6 +5520,24 @@
       "duration_ms": 244130,
       "name": "Consciousness - Eric Prydz Remix",
       "url": "https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL"
+    },
+    {
+      "album": {
+        "name": "Consequences",
+        "url": "https://open.spotify.com/album/2kcuCQGHSZIIc3fWEP4TKv"
+      },
+      "artists": [
+        {
+          "name": "Ken Ate My Homework",
+          "url": "https://open.spotify.com/artist/1oITLncXquwfF8U2Gavgj0"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183376,
+      "name": "Consequences",
+      "url": "https://open.spotify.com/track/7nUzvvLRt50Ipymwu4Vn8I"
     },
     {
       "album": {
@@ -11957,6 +11975,28 @@
     },
     {
       "album": {
+        "name": "headrush",
+        "url": "https://open.spotify.com/album/2vZBqX4xXmD7iH69aPikyR"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        },
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194411,
+      "name": "headrush",
+      "url": "https://open.spotify.com/track/0Ivk4qNmPkcH97ChYCPEZf"
+    },
+    {
+      "album": {
         "name": "Hear Ur Heartbeat",
         "url": "https://open.spotify.com/album/4ghuYYQWRf1e3RcQ7PBg1p"
       },
@@ -14818,7 +14858,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 170489,
       "name": "JELLY",
       "url": "https://open.spotify.com/track/7nDyflicais8eN7LdPynhZ"
@@ -20254,7 +20294,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 217960,
       "name": "On Your Mind (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
@@ -22176,7 +22216,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 211197,
       "name": "Pumpin",
       "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
@@ -23233,6 +23273,28 @@
     },
     {
       "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/6xEbjbvcJzDK7qXy1hsbCX"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        },
+        {
+          "name": "Dart",
+          "url": "https://open.spotify.com/artist/6osq4qbA2enSjbGxYviPgj"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189891,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5Alk9qfDLzHZlsWimnJble"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
       },
@@ -24006,7 +24068,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 233023,
       "name": "Satisfied?",
       "url": "https://open.spotify.com/track/6OJwbzcq7BdBwJsnLyyBAZ"
@@ -31204,6 +31266,24 @@
       "duration_ms": 153500,
       "name": "When The Beat Hits",
       "url": "https://open.spotify.com/track/17Pm6SzdMImlixJ9mhcq9n"
+    },
+    {
+      "album": {
+        "name": "When We're Together",
+        "url": "https://open.spotify.com/album/1iEOcNc53oRsznywsfkAja"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "When We're Together",
+      "url": "https://open.spotify.com/track/0fl2nYDUUdvn1KlE5uvoz0"
     },
     {
       "album": {

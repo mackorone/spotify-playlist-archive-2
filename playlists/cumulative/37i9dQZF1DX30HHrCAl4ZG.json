@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Blondshell",
+  "description": "Explore all things indie rock right now. Featuring music from Wishy",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -8491,6 +8491,24 @@
     },
     {
       "album": {
+        "name": "Nature's Pill",
+        "url": "https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "Covergirl",
+      "url": "https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj"
+    },
+    {
+      "album": {
         "name": "Cowboy Killer",
         "url": "https://open.spotify.com/album/6GlVNhYfePusaOwiqbENkR"
       },
@@ -13139,6 +13157,24 @@
     },
     {
       "album": {
+        "name": "Fell Ass Backwards",
+        "url": "https://open.spotify.com/album/3W7i1zFzkka3bAWCNbI3GH"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143882,
+      "name": "Fell Ass Backwards",
+      "url": "https://open.spotify.com/track/2DpILFiRNzOKzvNbhPs0U8"
+    },
+    {
+      "album": {
         "name": "Fender",
         "url": "https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s"
       },
@@ -16552,6 +16588,24 @@
       "duration_ms": 191959,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/0dlMTThgSAKFVJckS2wVyV"
+    },
+    {
+      "album": {
+        "name": "HOLE",
+        "url": "https://open.spotify.com/album/5N4v5j462H81Sumq9GcniL"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "HOLE",
+      "url": "https://open.spotify.com/track/0tYDtbOBF1v8qM1ZPyPlv3"
     },
     {
       "album": {
@@ -22097,6 +22151,24 @@
     },
     {
       "album": {
+        "name": "Loser's Prize",
+        "url": "https://open.spotify.com/album/6fqTyj0rpCM3oUd7IafzZl"
+      },
+      "artists": [
+        {
+          "name": "Greg Freeman",
+          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282919,
+      "name": "Loser's Prize",
+      "url": "https://open.spotify.com/track/4D0rf55hqEL8PjxHJuDCo2"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3hqIPUnrBY8BqOexjv9bML"
       },
@@ -22524,6 +22596,24 @@
       "duration_ms": 243440,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6mTrJCo3VOX1ch8vBOthH5"
+    },
+    {
+      "album": {
+        "name": "Lucky Clover",
+        "url": "https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6"
+      },
+      "artists": [
+        {
+          "name": "Whisper Doll",
+          "url": "https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Lucky Clover",
+      "url": "https://open.spotify.com/track/6GevokAd21692eviYc1O0I"
     },
     {
       "album": {
@@ -23490,6 +23580,24 @@
       "duration_ms": 168733,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
+    },
+    {
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K"
     },
     {
       "album": {
@@ -24518,6 +24626,24 @@
       "duration_ms": 176320,
       "name": "Moving Out",
       "url": "https://open.spotify.com/track/6p5ra9aNCJXhuKxFRkboBn"
+    },
+    {
+      "album": {
+        "name": "Moving Target",
+        "url": "https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195811,
+      "name": "Moving Target",
+      "url": "https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt"
     },
     {
       "album": {
@@ -29616,6 +29742,24 @@
       "duration_ms": 124000,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM"
+    },
+    {
+      "album": {
+        "name": "Roar Of The Heliac Goat",
+        "url": "https://open.spotify.com/album/58bNzzNI4WXtLym3d8Nup5"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276213,
+      "name": "Roar Of The Heliac Goat",
+      "url": "https://open.spotify.com/track/4hjBehyyL8JPQJ0LiYOHnl"
     },
     {
       "album": {
@@ -35788,7 +35932,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 281988,
       "name": "The Old Law",
       "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
@@ -36044,6 +36188,24 @@
       "duration_ms": 202973,
       "name": "The Treadmill",
       "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
+    },
+    {
+      "album": {
+        "name": "My Heart Is A Room With No Cameras In It (Deluxe)",
+        "url": "https://open.spotify.com/album/1ihrc3yuJI063vqKwupVPp"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146087,
+      "name": "The Ugliest Girl On The Beach",
+      "url": "https://open.spotify.com/track/7zULk1BRwUrMjgImBEe37D"
     },
     {
       "album": {
@@ -37066,6 +37228,24 @@
     {
       "album": {
         "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "album": {
+        "name": "Tongue",
         "url": "https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho"
       },
       "artists": [
@@ -37466,6 +37646,24 @@
       "duration_ms": 214381,
       "name": "Tractor Beam",
       "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
+    },
+    {
+      "album": {
+        "name": "Trillions",
+        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180964,
+      "name": "Trillions",
+      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
     },
     {
       "album": {
@@ -40684,7 +40882,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194103,
       "name": "Write Me A Letter",
       "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"

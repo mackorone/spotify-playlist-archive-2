@@ -4,7 +4,7 @@
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-98 songs - 7 hr 7 min
+99 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Si Te Da lo Mismo \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2A3mfvW9RaldwHe3yG8lIm) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:34 | 2022-10-11 | 2022-10-13 |
 | [Si Te Vas](https://open.spotify.com/track/0NbdZ9fS7saRQAyyTqBWBE) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:16 | 2022-05-25 | 2024-07-24 |
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2022-05-25 |  |
-| [Sin Gamulán](https://open.spotify.com/track/1ccEBfPmipV4R41R6Y3ouy) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:44 | 2023-08-19 |  |
+| [Sin Gamulán](https://open.spotify.com/track/1ccEBfPmipV4R41R6Y3ouy) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:44 | 2023-08-19 | 2026-10-02 |
+| [Sin Gamulán](https://open.spotify.com/track/5D0trEHYWHHX8BZcs2mRHc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/2HxfXuHuLRoWjffOWvziRa) | 3:44 | 2026-10-02 |  |
 | [Sinsemilla](https://open.spotify.com/track/3rE0BjJXdWN4XozxPptoVf) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Frecuencia Cafre](https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK) | 4:45 | 2022-06-03 |  |
 | [So Please \- Versión 25 Años](https://open.spotify.com/track/3Uqykrseya62eyLuusZsM0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:26 | 2022-07-10 | 2026-09-07 |
 | [Solta Teu Cabelo](https://open.spotify.com/track/3pl7k5kcNHe8eHlx4qOVPz) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Solta Teu Cabelo](https://open.spotify.com/album/3aJGHKcgw4jqRwRKbe0RkY) | 3:24 | 2026-07-20 |  |

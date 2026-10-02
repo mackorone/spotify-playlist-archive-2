@@ -2,9 +2,9 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Bebe Rexha x David Guetta au top des bangers dance/electro du moment !
+> Ofenbach au top des bangers dance/electro du moment !
 
-387 songs - 17 hr 53 min
+388 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [God Is In The Soundwaves](https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7) | [God Is In The Soundwaves](https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ) | 2:43 | 2023-11-09 | 2024-01-26 |
 | [Gone Gone Gone \(Done Done Done\) \[feat\. Teddy Swims\] \- David Guetta Remix](https://open.spotify.com/track/5bjFSjfotRhjHnbHoBYhsW) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Gone Gone Gone \(Done Done Done\) \[feat\. Teddy Swims\] \[David Guetta Remix\]](https://open.spotify.com/album/7ypDy3rrmR6ZasyX6WuUvu) | 2:48 | 2025-11-06 |  |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-15 | 2024-08-30 |
+| [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 | 2026-10-01 |  |
 | [He's A Pirate \(Save Me\)](https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [He's A Pirate \(Save Me\)](https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z) | 2:33 | 2024-09-19 | 2025-02-21 |
 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 | 2024-02-29 | 2024-04-05 |
 | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak) | 2:29 | 2024-09-19 | 2025-01-10 |
@@ -214,7 +215,7 @@
 | [Lucid Dream](https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Lucid Dream](https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA) | 3:13 | 2023-09-28 | 2023-11-10 |
 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 | 2025-09-11 | 2026-03-13 |
 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-05-02 | 2025-01-31 |
-| [Madan](https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Thanda Choir](https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a) | [Madan](https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq) | 2:25 | 2026-04-02 |  |
+| [Madan](https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Thanda Choir](https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a) | [Madan](https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq) | 2:25 | 2026-04-02 | 2026-10-02 |
 | [Madhouse \(feat\. RANI\)](https://open.spotify.com/track/4FjDFPYRZVhYHh79YOw0iW) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Madhouse \(feat\. RANI\)](https://open.spotify.com/album/0ZDPSB368S8GqUq6mMjv0N) | 2:16 | 2025-09-25 | 2026-04-17 |
 | [Magic In The Air](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Magic In The Air](https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu) | 2:47 | 2025-07-03 | 2025-09-27 |
 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-04-16 |  |

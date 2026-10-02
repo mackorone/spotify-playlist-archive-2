@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: Public Figures",
+  "description": "A new world of alternative noise. Cover: Delivery",
   "name": "Wire",
   "tracks": [
     {
@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "Cash Cure the Pain",
+        "url": "https://open.spotify.com/album/579MzFdoabifPNHdgUK4T2"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        },
+        {
+          "name": "Dadada",
+          "url": "https://open.spotify.com/artist/33Zf7q4FgcBgjTJ2DTqQLf"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266097,
+      "name": "Cash Cure the Pain",
+      "url": "https://open.spotify.com/track/1rRDI12yFOspPqTN3Ga12V"
+    },
+    {
+      "album": {
         "name": "Cha Cha Slide",
         "url": "https://open.spotify.com/album/1f0RT7It3HxnOSgaYR0Sue"
       },
@@ -944,7 +966,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 212949,
       "name": "Dior",
       "url": "https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3"
@@ -1222,7 +1244,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176933,
       "name": "Enabler",
       "url": "https://open.spotify.com/track/7Gt3napPF81AzvaHc3mozd"
@@ -1298,6 +1320,24 @@
       "duration_ms": 226645,
       "name": "Executive Function",
       "url": "https://open.spotify.com/track/5LrBYOI6AaS8zumfUqaygO"
+    },
+    {
+      "album": {
+        "name": "Patron Saint",
+        "url": "https://open.spotify.com/album/6N7OO65JsmBisxV2LZJAJo"
+      },
+      "artists": [
+        {
+          "name": "The world is against you",
+          "url": "https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260238,
+      "name": "Eye (mould)",
+      "url": "https://open.spotify.com/track/1WfkzwETmQlcKEOJw2IU2a"
     },
     {
       "album": {
@@ -1472,6 +1512,24 @@
       "duration_ms": 184618,
       "name": "Friendship Bracelet",
       "url": "https://open.spotify.com/track/60FBfGHqju9muD7rNs6tz3"
+    },
+    {
+      "album": {
+        "name": "Fun!",
+        "url": "https://open.spotify.com/album/4jZ1ClfjRkEyMlVNVK65dw"
+      },
+      "artists": [
+        {
+          "name": "Special Features",
+          "url": "https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176375,
+      "name": "Fun!",
+      "url": "https://open.spotify.com/track/2BjDgOYaVX5xdNi8DFV6UW"
     },
     {
       "album": {
@@ -2042,7 +2100,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 257242,
       "name": "Infected",
       "url": "https://open.spotify.com/track/0GtZ6QVU4xuQXXGlE6ZA3s"
@@ -2633,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Measuring Cup",
+        "url": "https://open.spotify.com/album/3g9mAIsoPSq3zoYsbXB8Zg"
+      },
+      "artists": [
+        {
+          "name": "Delivery",
+          "url": "https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201455,
+      "name": "Measuring Cup",
+      "url": "https://open.spotify.com/track/3FofSe2OagYmG6tN7BrcWr"
+    },
+    {
+      "album": {
         "name": "Megaton",
         "url": "https://open.spotify.com/album/25Ujl2GZlvbQkf23YeUyCN"
       },
@@ -2723,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Bennetts Grove",
+        "url": "https://open.spotify.com/album/7CBmcaIlEKM3YzF2td8LZ0"
+      },
+      "artists": [
+        {
+          "name": "Bennetts Grove",
+          "url": "https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216840,
+      "name": "Mourning Star",
+      "url": "https://open.spotify.com/track/14zmIrU1m9kFQeCprpxt0l"
+    },
+    {
+      "album": {
         "name": "Bingo!",
         "url": "https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC"
       },
@@ -2806,7 +2900,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165426,
       "name": "No God",
       "url": "https://open.spotify.com/track/1McpAvcwxctyBOqPulTmSQ"
@@ -3632,7 +3726,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 375151,
       "name": "Rupture",
       "url": "https://open.spotify.com/track/2UKMzhm8gHUWC4PHxSPl3e"
@@ -3776,7 +3870,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 161181,
       "name": "She Doesn't Want Me to Exist",
       "url": "https://open.spotify.com/track/54donuwNKWydMCljWGvJK8"
@@ -4246,7 +4340,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 299880,
       "name": "Sternum",
       "url": "https://open.spotify.com/track/6fFYWn3ZH9excLrMln4pbP"
@@ -4679,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "album": {
         "name": "tough luck",
         "url": "https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j"
       },
@@ -4730,6 +4842,24 @@
       "duration_ms": 167419,
       "name": "Trickle Down",
       "url": "https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4"
+    },
+    {
+      "album": {
+        "name": "Trillions",
+        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180964,
+      "name": "Trillions",
+      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
     },
     {
       "album": {

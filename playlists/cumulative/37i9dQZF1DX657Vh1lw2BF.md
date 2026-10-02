@@ -2,9 +2,9 @@
 
 ### [هوايَهْ عراقي](https://open.spotify.com/playlist/37i9dQZF1DX657Vh1lw2BF)
 
-> أفضل الاغاني العراقية\. الغلاف: كاظم الساهر
+> أفضل الاغاني العراقية\. الغلاف: أصيل هميم
 
-174 songs - 11 hr 5 min
+175 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Arahen Bek](https://open.spotify.com/track/2CxAQ1mdOJLcYjriAucuTr) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Ghassan Barsim](https://open.spotify.com/artist/7DotftTLVBmBRACF8K1hK4) | [Arahen Bek](https://open.spotify.com/album/3JHnfBjf3BOkhL8QahUcVE) | 4:00 | 2022-05-06 | 2023-01-25 |
 | [Argalak Kama Kont](https://open.spotify.com/track/2zmQqYm3VvOXtpom1g2N2g) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Argalak Kama Kont](https://open.spotify.com/album/5u6ahHa7QC2LmKa3oOwHfE) | 3:02 | 2022-05-06 | 2022-07-20 |
 | [Asaad Lel Goumar](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Asaad Lel Goumar](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-25 |  |
+| [Ashan Alashra](https://open.spotify.com/track/281neX5EojTkzya7xlQQTg) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ashan Alashra](https://open.spotify.com/album/7pC4r9QcGWuQwmeiWQ3D40) | 4:17 | 2026-10-01 |  |
 | [Asheq Majnoon](https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Asheq Majnoon](https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc) | 3:41 | 2023-05-05 |  |
 | [Ashmk](https://open.spotify.com/track/3WFV5o3aY7G14XeS5pUwu6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ashmk](https://open.spotify.com/album/0BvZRBSbImRws7aPfVyw07) | 3:47 | 2022-05-06 | 2022-05-26 |
 | [Atrak \- عطرك](https://open.spotify.com/track/2QtVbvCqhwmhorkdu1BS6t) | [Jalal Al Zain](https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E) | [Atrak \(عطرك\)](https://open.spotify.com/album/4YFT5NIXxVZgl7IbijSa4U) | 4:10 | 2023-11-16 |  |
@@ -145,7 +146,7 @@
 | [Ya Chathab](https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ya Chathab](https://open.spotify.com/album/3gWuYCrnOz2TI5Id6rR5mb) | 3:33 | 2022-12-02 |  |
 | [Ya El Ghashash \- يالغشاش](https://open.spotify.com/track/69F05yNX2cTsQANGxub8Ph) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Ya El Ghashash \(يالغشاش\)](https://open.spotify.com/album/7DbmlwivNtglxYVWxQ807a) | 3:35 | 2023-09-29 | 2026-07-14 |
 | [Ya Ent](https://open.spotify.com/track/7KjwVP7HQbHCt42ml1NjWP) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ya Ent](https://open.spotify.com/album/6vZNmpt7CUyheZUN0UT8Jt) | 4:20 | 2023-02-27 | 2026-02-10 |
-| [Ya Galbi](https://open.spotify.com/track/7e88dWJtmPLoqNLYLGQymm) | [Mortada Al Bentkari](https://open.spotify.com/artist/5lSeGD9dgZ9LfJ5jNY5vqy) | [Ya Galbi](https://open.spotify.com/album/64t2ScZZMesHatAsTI485J) | 5:34 | 2026-02-27 |  |
+| [Ya Galbi](https://open.spotify.com/track/7e88dWJtmPLoqNLYLGQymm) | [Mortada Al Bentkari](https://open.spotify.com/artist/5lSeGD9dgZ9LfJ5jNY5vqy) | [Ya Galbi](https://open.spotify.com/album/64t2ScZZMesHatAsTI485J) | 5:34 | 2026-02-27 | 2026-10-02 |
 | [Ya Ghality](https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Ya Ghality](https://open.spotify.com/album/2lNTAtqI85Bl1NVhu4RQp9) | 3:20 | 2022-05-06 | 2023-04-27 |
 | [Ya Janti Ya Nari](https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1) | [Ghassan Alshami](https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC) | [Ya Janti Ya Nari](https://open.spotify.com/album/3cgzsdNLX4ijTwPXZZ3fMp) | 4:23 | 2022-07-19 | 2024-06-26 |
 | [Yahei Herah](https://open.spotify.com/track/3kxwdCX5k8IpnOKslObcWt) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Yahei Herah](https://open.spotify.com/album/4jNkWW9b6v0yachD4VUEgj) | 4:37 | 2024-12-31 |  |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Los Encinos De Sinaloa",
-  "num_followers": 84550,
+  "num_followers": 84559,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,30 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
+        "name": "Y Si Me Miran",
+        "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 213141,
+      "name": "Y Si Me Miran",
+      "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
         "name": "La Vieja Escuela",
         "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
       },
@@ -939,30 +963,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Y Si Me Miran",
-        "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 213141,
-      "name": "Y Si Me Miran",
-      "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Don Chon (En Vivo)",
         "url": "https://open.spotify.com/album/1cBOY27IgwTFe342hIpGpX"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
-        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 268993,
-      "name": "Por Mujeres Como T\u00fa - Live",
-      "url": "https://open.spotify.com/track/10fwLGjvCv1tpuDF1EwwL5"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Clave 18",
         "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 235663,
       "name": "Clave 18",
       "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
+        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 268993,
+      "name": "Por Mujeres Como T\u00fa - Live",
+      "url": "https://open.spotify.com/track/10fwLGjvCv1tpuDF1EwwL5"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Desde Houston (En Vivo)",
-        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 265791,
-      "name": "Mi Pasado y Mi Presente - En Vivo",
-      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Golpe de Estado (En Vivo)",
         "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 149163,
       "name": "300 Locos - En Vivo",
       "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Desde Houston (En Vivo)",
+        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 265791,
+      "name": "Mi Pasado y Mi Presente - En Vivo",
+      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "La Changa (En Vivo)",
-        "url": "https://open.spotify.com/album/5WZr7lEggiE3BO5RgpCTU7"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 344978,
-      "name": "La Changa (En Vivo)",
-      "url": "https://open.spotify.com/track/1K0q2ll2ks3yeHIiURO0x9"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Hoy la Vi Con \u00c9l (En Vivo)",
         "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "En Vivo Con Banda y Norte\u00f1o",
-        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
+        "name": "La Changa (En Vivo)",
+        "url": "https://open.spotify.com/album/5WZr7lEggiE3BO5RgpCTU7"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 254973,
-      "name": "Aliados del tiempo - En Vivo",
-      "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
+      "duration_ms": 344978,
+      "name": "La Changa (En Vivo)",
+      "url": "https://open.spotify.com/track/1K0q2ll2ks3yeHIiURO0x9"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1187,6 +1171,22 @@
       "duration_ms": 135247,
       "name": "El Compa Carlos - En Vivo",
       "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "En Vivo Con Banda y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Aliados del tiempo - En Vivo",
+      "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Cr\u00f3nicas de la Batalla",
-        "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 209668,
-      "name": "Cr\u00f3nicas de la Batalla",
-      "url": "https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Street Mob Live",
         "url": "https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 143180,
       "name": "Changuito Me Apodaron",
       "url": "https://open.spotify.com/track/4c2zq4HTSVLQP7esFifI0M"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Cr\u00f3nicas de la Batalla",
+        "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 209668,
+      "name": "Cr\u00f3nicas de la Batalla",
+      "url": "https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1843,22 +1843,18 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Puras Piezas Caras (En Vivo)",
-        "url": "https://open.spotify.com/album/5q7s6m57I82kf9lIprPrIH"
+        "name": "\u201cV1V0\u201d EN VIVO",
+        "url": "https://open.spotify.com/album/2f7QrCkWsLVqxVFuCZEHcz"
       },
       "artists": [
         {
-          "name": "Nivel C",
-          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
-        },
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 154695,
-      "name": "Mujer Honrada - En vivo",
-      "url": "https://open.spotify.com/track/36yGINJ01oLXwQ5U0J74aA"
+      "duration_ms": 218634,
+      "name": "DE SOBREMANERA - EN VIVO",
+      "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

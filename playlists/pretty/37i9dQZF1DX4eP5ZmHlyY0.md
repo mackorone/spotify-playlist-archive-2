@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BE:FIRST
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,478 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,522 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WATCH ME feat\. BIA](https://open.spotify.com/track/1QHY1PGo17jVdmVchaYlmZ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WATCH ME](https://open.spotify.com/album/1YeKHWyzrHaJsFTB7XeT6C) | 3:09 |
+| 1 | [ANIMAL](https://open.spotify.com/track/0NI2z69OboDcZ0YkF2ozRo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [ANIMAL](https://open.spotify.com/album/5Qp6Th6wxnujUh394VdPAa) | 2:52 |
 | 2 | [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 |
-| 3 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
-| 4 | [ANIMAL](https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME: DELUXE](https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq) | 2:26 |
-| 5 | [IGNITE](https://open.spotify.com/track/30F0aAsXuyMVcGYD1He7Zx) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [IGNITE](https://open.spotify.com/album/6oe0WkbMxVo7ZlAnwWbFGW) | 3:29 |
-| 6 | [BiiiG](https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BiiiG](https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq) | 2:44 |
-| 7 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
-| 8 | [CRASH](https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S) | 2:52 |
-| 9 | [Good Boy](https://open.spotify.com/track/7JKfM9CMJyZP18J35XXdMr) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Mark on Me](https://open.spotify.com/album/6QtmQ4jeXLLLZnLitg5gUj) | 2:33 |
-| 10 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
-| 11 | [DIGITAL GIRL](https://open.spotify.com/track/45Us1IGeAiIRmj3bKWaAkH) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [REBON / BUGS LIFE / DIGITAL GIRL](https://open.spotify.com/album/28ktl53fSmJ3FqWjG8VFdH) | 2:19 |
-| 12 | [Blingy](https://open.spotify.com/track/0EOAaYE4KAVp67jwtQvbmB) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [BLINGY \- The 7th Album](https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120) | 3:21 |
+| 3 | [ANIMAL](https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME: DELUXE](https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq) | 2:26 |
+| 4 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
+| 5 | [BiiiG](https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BiiiG](https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq) | 2:44 |
+| 6 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
+| 7 | [WATCH ME feat\. BIA](https://open.spotify.com/track/1QHY1PGo17jVdmVchaYlmZ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WATCH ME](https://open.spotify.com/album/1YeKHWyzrHaJsFTB7XeT6C) | 3:09 |
+| 8 | [Good Boy](https://open.spotify.com/track/7JKfM9CMJyZP18J35XXdMr) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Mark on Me](https://open.spotify.com/album/6QtmQ4jeXLLLZnLitg5gUj) | 2:33 |
+| 9 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
+| 10 | [DIGITAL GIRL](https://open.spotify.com/track/45Us1IGeAiIRmj3bKWaAkH) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [REBON / BUGS LIFE / DIGITAL GIRL](https://open.spotify.com/album/28ktl53fSmJ3FqWjG8VFdH) | 2:19 |
+| 11 | [Blingy](https://open.spotify.com/track/0EOAaYE4KAVp67jwtQvbmB) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [BLINGY \- The 7th Album](https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120) | 3:21 |
+| 12 | [CRASH](https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S) | 2:52 |
 | 13 | [SAUCIN'](https://open.spotify.com/track/6lnz2DPCLtHuIokxLfYW8n) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [SAUCIN'](https://open.spotify.com/album/7CtLf0D310EZZTgFtyTgAF) | 2:43 |
 | 14 | [FLOAT](https://open.spotify.com/track/4W5VNip3sxbyPbpgsaXJTy) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [PHASE 1 : Soft Violence](https://open.spotify.com/album/6NeiKYzfx8nEgq5RlDqYTG) | 2:55 |
 | 15 | [TRANSLATE](https://open.spotify.com/track/1uol8s3UHFIz2mMpMTgBQS) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [EN\-GÏNE](https://open.spotify.com/album/4Y6Koxny3nnyGhvuGdwnMf) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
 | 80 | [눈에 거슬리고 싶어 \(Eye\-Poppin'\)](https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Kick](https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j) | 2:42 |
 
-Snapshot ID: `AAAAAFbg7yI+VNPxqTmFWu0VArUHInwp`
+Snapshot ID: `AAAAAGVVUNERM2XDyLc87iG11MthX+wG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Jubin Nautiyal & Elnaaz Norouzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,505 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,541 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 10 | [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 |
 | 11 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 |
 | 12 | [Thinking of You](https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Thinking of You](https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa) | 3:00 |
-| 13 | [Blue Eyes](https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Blue Eyes](https://open.spotify.com/album/2iPimv2hsVBJZU1fvBfwkB) | 3:40 |
-| 14 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
-| 15 | [Banger](https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Banger](https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy) | 2:38 |
+| 13 | [Banger](https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Banger](https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy) | 2:38 |
+| 14 | [Blue Eyes](https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Blue Eyes](https://open.spotify.com/album/2iPimv2hsVBJZU1fvBfwkB) | 3:40 |
+| 15 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 16 | [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE) | 4:30 |
 | 17 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 |
 | 18 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 |

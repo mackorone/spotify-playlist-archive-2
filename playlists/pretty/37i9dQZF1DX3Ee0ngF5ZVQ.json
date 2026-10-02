@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 398854,
+  "num_followers": 398858,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "American Grin",
-        "url": "https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM"
+        "name": "It Won't Be Long",
+        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
       },
       "artists": [
         {
-          "name": "Jason Scott & The High Heat",
-          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
         }
       ],
-      "duration_ms": 186706,
-      "name": "High Country",
-      "url": "https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ"
+      "duration_ms": 197794,
+      "name": "It Won't Be Long",
+      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "It Won't Be Long",
-        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
+        "name": "American Grin",
+        "url": "https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM"
       },
       "artists": [
         {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
         }
       ],
-      "duration_ms": 197794,
-      "name": "It Won't Be Long",
-      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
+      "duration_ms": 186706,
+      "name": "High Country",
+      "url": "https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -587,6 +587,22 @@
       "duration_ms": 288493,
       "name": "Junior Stayed Home",
       "url": "https://open.spotify.com/track/0LSmvfAYa3kJoVaNX6aC0a"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Missin' Tonight",
+        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "duration_ms": 170154,
+      "name": "Missin' Tonight",
+      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -627,22 +643,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Missin' Tonight",
-        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
-      },
-      "artists": [
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 170154,
-      "name": "Missin' Tonight",
-      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Bye In A Goodbye",
         "url": "https://open.spotify.com/album/4B281NRNlGrzrQRxXXu72R"
       },
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "Diamondhead",
+        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
+      },
+      "artists": [
+        {
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+        }
+      ],
+      "duration_ms": 187375,
+      "name": "Diamondhead",
+      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "Cowboys And Dreamers",
         "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 189746,
       "name": "Honky Tonk Hall Of Fame",
       "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "Diamondhead",
-        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
-      },
-      "artists": [
-        {
-          "name": "J.R. Carroll",
-          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
-        }
-      ],
-      "duration_ms": 187375,
-      "name": "Diamondhead",
-      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
     },
     {
       "added_at": "2026-08-07 04:01:44",

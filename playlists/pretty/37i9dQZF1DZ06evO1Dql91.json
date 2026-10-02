@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 3068,
+  "num_followers": 3069,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAALLvr87UeO2J69hwhrdXZf",
+  "snapshot_id": "arxRAAAAAADJK31tvkYW33+9trSaj6Dd",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 629333,
-      "name": "Dreams - Live",
-      "url": "https://open.spotify.com/track/1zCrGe8QtFRb8yPapiHJxF"
+      "duration_ms": 253253,
+      "name": "No One Comes Close",
+      "url": "https://open.spotify.com/track/5TxHK9ZJVb6Rbh9xBYqVK5"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 253253,
-      "name": "No One Comes Close",
-      "url": "https://open.spotify.com/track/5TxHK9ZJVb6Rbh9xBYqVK5"
+      "duration_ms": 629333,
+      "name": "Dreams - Live",
+      "url": "https://open.spotify.com/track/1zCrGe8QtFRb8yPapiHJxF"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/7AbL7KSgbtPTT6iNTwSif0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 256367,
       "name": "Pink Sky",
       "url": "https://open.spotify.com/track/1Wv8Mo6yzMr5RLdJYA3Els"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7AbL7KSgbtPTT6iNTwSif0"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Home, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 379619,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 255141,
       "name": "I Don't Feel No Ways Tired",
       "url": "https://open.spotify.com/track/1Um40cA0dv4sWBEBV0ErWm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels Like Home, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 379619,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni"
     },
     {
       "added_at": null,

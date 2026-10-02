@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,081 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,078 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 16 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
 | 17 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 18 | [na błysk](https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [na błysk](https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG) | 3:49 |
-| 19 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
-| 20 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
+| 19 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
+| 20 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
 | 21 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
 | 22 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
 | 23 | [Tańczę](https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Tańczę](https://open.spotify.com/album/1YzaYcqieg8UA13VvY7r3S) | 3:14 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 47 | [Mogłeś tu być](https://open.spotify.com/track/040ISsaRJlzaQWpqBo81Dx) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [VOICE](https://open.spotify.com/album/1jla2nToQeZX2xHYxS8cfo) | 2:28 |
 | 48 | [Na szeroką wodę](https://open.spotify.com/track/377YrfXWzy5s3JVUveRITI) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [Na szeroką wodę](https://open.spotify.com/album/6CXUDCiPhg6n3pUpueBZgJ) | 2:38 |
 | 49 | [Gravity](https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV) | [Wiktor Sas](https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT) | [Gravity](https://open.spotify.com/album/7vXymVunheG3BABabEky8f) | 2:40 |
-| 50 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
-| 51 | [SPOSÓB](https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [SPOSÓB](https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e) | 3:13 |
-| 52 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
-| 53 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
+| 50 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
+| 51 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
+| 52 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
+| 53 | [SPOSÓB](https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [SPOSÓB](https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e) | 3:13 |
 | 54 | [DZIŚ SOBIE DAM](https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [DZIŚ SOBIE DAM](https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP) | 2:47 |
 | 55 | [nie wierzę w bajki](https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [nie wierzę w bajki](https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw) | 3:12 |
 | 56 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |

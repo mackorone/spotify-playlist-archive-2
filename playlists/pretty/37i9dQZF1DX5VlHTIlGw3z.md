@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,314 likes - 54 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,361 likes - 56 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 52 | [REVIVER](https://open.spotify.com/track/1p6WtbNY4bDjiFBmSZolJY) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [S･S･S](https://open.spotify.com/album/0fIXE9BDAKai3jMx2IWoiC) | 4:50 |
 | 53 | [クリスマス](https://open.spotify.com/track/7BHuEHufMzJVVu1Avp2PmD) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [Orange Sunshine](https://open.spotify.com/album/7j8oAuDBsqe8z9U9xcw1b1) | 4:19 |
 | 54 | [さよならエレジー](https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [PLAY\(Special Edition\)](https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov) | 4:17 |
+| 55 | [みずいろの雨](https://open.spotify.com/track/5G994fn8VNNtY0e54KmV03) | [Junko Yagami](https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr) | [みずいろの雨](https://open.spotify.com/album/5pbyhAVgOlPh20GJUlgDpI) | 3:24 |
+| 56 | [涙がこぼれそう](https://open.spotify.com/track/2grB9T5naopW5eMPvrshDq) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [涙がこぼれそう](https://open.spotify.com/album/5vfyalPQ2pX3jaI4J3LYAH) | 5:09 |
 
-Snapshot ID: `AAAAAK60JE+j6jGGiqFPN9fLUMycvUpt`
+Snapshot ID: `AAAAABTnDDSCHRxv4NF91tL5xuThySPt`

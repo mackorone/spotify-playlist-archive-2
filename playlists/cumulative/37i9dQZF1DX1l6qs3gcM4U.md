@@ -2,13 +2,13 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Chelsea Dinorath
+> Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros
 
-715 songs - 1 day 17 hr 1 min
+717 songs - 1 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 |  |
+| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 | 2026-10-02 |
 | [14](https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [CICLOS](https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc) | 2:31 | 2026-02-06 |  |
 | [2AM](https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [2AM](https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy) | 3:45 | 2021-12-10 |  |
 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 | 2023-03-03 | 2026-03-20 |
@@ -416,6 +416,7 @@
 | [Nha Mundo](https://open.spotify.com/track/51xWDxwBkvHSOit4VP6hYz) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Nha Mundo](https://open.spotify.com/album/2UzfdDx3DTlRau6nFKPe90) | 3:18 | 2021-12-10 | 2022-02-16 |
 | [Nha Preta](https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp) | [Helio Batalha](https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz), [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Nha Preta](https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza) | 3:56 | 2025-11-28 | 2026-06-03 |
 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 | 2021-12-10 | 2024-11-15 |
+| [Nha Tudo](https://open.spotify.com/track/2A0Rr37GBzGDgNER7YPW7G) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Nha Tudo](https://open.spotify.com/album/0WefWIdw92yOqUeobkfvUb) | 2:32 | 2026-10-01 |  |
 | [Nha Vida](https://open.spotify.com/track/58ig8QROM1L1lr6nP0XdRm) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Nha Vida](https://open.spotify.com/album/7l83iXj3DuIF126R7pdWUq) | 3:44 | 2022-05-13 | 2022-06-03 |
 | [Nhanhado](https://open.spotify.com/track/76Se6CPXmYEVaJm0mWJ90n) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Nhanhado](https://open.spotify.com/album/344Mi4Gakz1iTzi8CeGT9G) | 3:34 | 2022-01-21 | 2022-01-25 |
 | [Nice Life](https://open.spotify.com/track/1dz0JCJEABCDEteiusseLZ) | [J\. Winston7](https://open.spotify.com/artist/48fK11OLtwJ5swlV9oazwM), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Nice Life](https://open.spotify.com/album/4xOnww5NikaipOVoxE0kNP) | 2:06 | 2024-10-17 | 2024-11-15 |
@@ -503,7 +504,7 @@
 | [Ponto Fraco](https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx) | [Veré](https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp) | [Ponto Fraco](https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y) | 3:04 | 2023-01-04 | 2023-06-23 |
 | [Por Amor](https://open.spotify.com/track/2cFS3igl7hfUukhW9yf884) | [Dj Ademar](https://open.spotify.com/artist/1cvPuORQS4Mihsv28cWjpX), [Edix](https://open.spotify.com/artist/5oNpL3NI6Ddrlc1D93Nf60) | [Por Amor](https://open.spotify.com/album/6TFy6a1zOGefONH4GMYcIG) | 3:19 | 2026-02-13 | 2026-02-27 |
 | [Por Causa Dela](https://open.spotify.com/track/1K2BmCDkTM88bghj43PBpi) | [Gasso Franco](https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i) | [Por Causa Dela](https://open.spotify.com/album/4UzQwbdyuEkpFud7de0myp) | 3:14 | 2025-09-04 | 2025-09-13 |
-| [Por Favor](https://open.spotify.com/track/32gkOKdEsBNpWNlHWOZrko) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Por Favor](https://open.spotify.com/album/6wn9eV42N7Ta56KMnx1mbb) | 3:14 | 2026-09-03 |  |
+| [Por Favor](https://open.spotify.com/track/32gkOKdEsBNpWNlHWOZrko) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Por Favor](https://open.spotify.com/album/6wn9eV42N7Ta56KMnx1mbb) | 3:14 | 2026-09-03 | 2026-10-02 |
 | [Por Ti](https://open.spotify.com/track/1gUAASjPRUJOMmX8PpWeTU) | [Ricky Boy](https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ) | [Por Ti](https://open.spotify.com/album/1I5sFkTvryZ6sCPXcQlmWo) | 3:01 | 2026-05-21 | 2026-06-05 |
 | [Porque Te Amo](https://open.spotify.com/track/5eFlivXOQh4Yq9Df0t6GX1) | [Tó Semedo](https://open.spotify.com/artist/7hZz6sSgoppxbAW4lTjopa), [Boss AC](https://open.spotify.com/artist/2AiLSd9HXwfFwO9g00s2hk) | [Kizomba Mega Hits, Vol\. 3](https://open.spotify.com/album/5GLvwNHDE2cFAe9fOFtTUj) | 4:35 | 2022-03-25 | 2022-04-20 |
 | [Porta](https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr) | [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [Porta](https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC) | 3:41 | 2025-10-09 |  |
@@ -605,6 +606,7 @@
 | [Tarraxinha](https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Tarraxinha](https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda) | 2:24 | 2024-01-12 | 2026-06-10 |
 | [Tarraxinha](https://open.spotify.com/track/3TTp0EFRE1gIewd5cTOOZq) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6) | [Tarraxinha](https://open.spotify.com/album/2BxU96Wg6dVoFxSuEAsw0X) | 3:37 | 2025-08-28 | 2025-10-03 |
 | [Tayanna](https://open.spotify.com/track/5koelUYXOtUwFvRvuaNu2n) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Tayanna](https://open.spotify.com/album/4SUO5EOORH2ofi8H5gBlkC) | 3:49 | 2021-12-10 | 2022-02-17 |
+| [Te Amar É Bom](https://open.spotify.com/track/1Ux9VxTb9105nbrXRFnH2X) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Anair Joelma](https://open.spotify.com/artist/3moUOjaG93OQ5mGl3JLJZL) | [Te Amar É Bom](https://open.spotify.com/album/3FUUwC9RIMC13RIijJtr6v) | 3:21 | 2026-10-01 |  |
 | [Te Amo](https://open.spotify.com/track/05KZgiwURthPhvRKlEvnif) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Te Amo](https://open.spotify.com/album/7F67062JbDcdFyLcG1IyyF) | 3:22 | 2026-04-30 | 2026-05-08 |
 | [Te Amo](https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo](https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ) | 4:15 | 2021-12-10 |  |
 | [Te Amo](https://open.spotify.com/track/5AAwjKOObk8GPQBv2nPUhy) | [Irmãos Verdades](https://open.spotify.com/artist/1mlqcEb9dU0dPTM63Jhgmr) | [Te Amo](https://open.spotify.com/album/3OU2BXNEAWP74xw2FisAvE) | 3:33 | 2022-01-27 | 2024-05-21 |

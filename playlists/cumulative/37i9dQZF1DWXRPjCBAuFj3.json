@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "lontano lontano lontano \ud83d\udc0e\ud83d\udc0e\ud83d\udc0e Sfera in cover ",
+  "description": "wesh, wesh, pookie, pookie / li ho zittiti tutti, guarda come stanno muti",
   "name": "Tendenze Rap 2026",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 141802,
       "name": "4 Gambe",
       "url": "https://open.spotify.com/track/5nEWSUWRc3xjpJn25xbXFY"
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 115200,
       "name": "ASTP",
       "url": "https://open.spotify.com/track/3P3KlwQUfD12ggAmnbfeXt"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 183597,
       "name": "AUTORIT\u00c0",
       "url": "https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 190588,
       "name": "Bad Bad Bad",
       "url": "https://open.spotify.com/track/1WitbPTd3SjoUJOWobxzVF"
@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 166340,
       "name": "BIG CEO",
       "url": "https://open.spotify.com/track/6h2XLZqXWJGn1a0e7VUR4x"
@@ -4310,7 +4310,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 218695,
       "name": "Che Dio Mi Benedica",
       "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
@@ -4482,7 +4482,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 164000,
       "name": "CHROME HEARTS (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/6bOwCTgqiUIEuGNdwTDpi5"
@@ -6612,7 +6612,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 164754,
       "name": "EASY WIN",
       "url": "https://open.spotify.com/track/1c9jhGlbWEwaU3j6N0JUP1"
@@ -7426,7 +7426,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 121450,
       "name": "FaXXX (feat. Latrelle)",
       "url": "https://open.spotify.com/track/6EGUow6OQ28at9wB2TTvyo"
@@ -9830,7 +9830,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
@@ -10547,6 +10547,32 @@
     },
     {
       "album": {
+        "name": "Je ne sais pas (feat. Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/5X0g9a1Fp305lZQvLmr392"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "Je ne sais pas (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0AGOXOfcDIRXwZtny26RDd"
+    },
+    {
+      "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
@@ -11060,7 +11086,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 189275,
       "name": "Kriminal - Prod. by Roberto Ferrante",
       "url": "https://open.spotify.com/track/0pxwzHAlnK86CIfDbbJLr4"
@@ -11586,7 +11612,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 123426,
       "name": "LAVAPIATTI",
       "url": "https://open.spotify.com/track/4LZj2aMIhDMd9rQOoAztCD"
@@ -13366,7 +13392,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 245853,
       "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
       "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
@@ -14563,6 +14589,28 @@
     },
     {
       "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207084,
+      "name": "NEON - Le Ali (feat. Elisa)",
+      "url": "https://open.spotify.com/track/76cEI7LczlKZ1yLAHIoPBJ"
+    },
+    {
+      "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
@@ -15024,7 +15072,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 167485,
       "name": "Noord Africano",
       "url": "https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO"
@@ -15924,7 +15972,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179478,
       "name": "PAO PAO (feat. Lubi)",
       "url": "https://open.spotify.com/track/6qpLGFzMazbhEmFdhN42MU"
@@ -16642,7 +16690,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 122053,
       "name": "Portofino (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/7t9kge4zBxwwYLNjIeS1wo"
@@ -18820,7 +18868,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 175336,
       "name": "Selena Gomez",
       "url": "https://open.spotify.com/track/22pDDaPCT3zthpC73iy5ui"
@@ -19452,7 +19500,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 162709,
       "name": "Solamente per amore",
       "url": "https://open.spotify.com/track/0lmQ7cVyO4oU2hpsUuUnO2"
@@ -21424,7 +21472,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 129882,
       "name": "TOP PLAYER",
       "url": "https://open.spotify.com/track/0CSgonP6XiecNZf50jecwM"
@@ -21980,7 +22028,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 196681,
       "name": "UN RICCO E UN POVERO",
       "url": "https://open.spotify.com/track/5tbxu15sktA6QVsrQOIk8M"
@@ -22554,7 +22602,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 149464,
       "name": "WAO",
       "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
@@ -23530,7 +23578,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 127384,
       "name": "YAMAL",
       "url": "https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy"

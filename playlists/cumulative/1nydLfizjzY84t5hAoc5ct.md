@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-453 songs - 1 day 3 hr 20 min
+454 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [LAYLA](https://open.spotify.com/track/74JuxtP50Iiet8xk5CZwBP) | [MOG](https://open.spotify.com/artist/1PeU4PsYtNaksLeuMOJM6n), [Roo Geddes](https://open.spotify.com/artist/6XDO2rklQELJT2IVlbVMO5), [Neil Sutcliffe](https://open.spotify.com/artist/6jX2zm5LaKgwIaWyjoxpVp), [Ewan Hastie](https://open.spotify.com/artist/03ajVwie49KhJaWvSg17ES) | [Lab Raps](https://open.spotify.com/album/3XLtGJwNwsFBrGSCVBnOlA) | 3:44 | 2025-12-28 | 2026-02-03 |
 | [Least Of All You](https://open.spotify.com/track/6XZGlzVQLGOs7UgJP3Bmv7) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:29 | 2025-11-23 | 2025-12-01 |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2026-06-09 | 2026-06-20 |
+| [Leaving Lewis](https://open.spotify.com/track/0ALm9JXJJWok8bmnF0fTcI) | [Willie Campbell](https://open.spotify.com/artist/1f9HLcCq2yssKl9qIhpXAU) | [Leaving Lewis](https://open.spotify.com/album/70qBYevsHzieH2yI36dmXg) | 3:18 | 2026-10-01 |  |
 | [Lemonade Tycoon](https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD) | [Taupe](https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU) | [waxing \| waning](https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm) | 5:18 | 2026-03-15 | 2026-03-22 |
 | [Let Me Be Yours](https://open.spotify.com/track/5FcH9C2O5uXC48tBaGoEXA) | [merrowfolk](https://open.spotify.com/artist/5HjMNe74pWawzyga0Atud2) | [Let Me Be Yours](https://open.spotify.com/album/1VICKjpv8DBEMXTQ8Ojtuo) | 4:02 | 2026-08-23 | 2026-09-04 |
 | [Lies](https://open.spotify.com/track/2MoFtyPPhZv7CpTxfdNjJq) | [K\-LYN](https://open.spotify.com/artist/2Qp9KchzSzTUCF29ENQwz1) | [Lies](https://open.spotify.com/album/03iscBHsYdPmsOHVuo03J7) | 2:51 | 2026-04-10 | 2026-05-04 |

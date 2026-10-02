@@ -1,31 +1,51 @@
 {
-  "description": "kun det nyeste danske rap \ud83d\udc40  Wesmo p\u00e5 cover!!",
-  "num_followers": 186534,
-  "original_name": "ny dansk rap",
+  "description": "kun det nyeste danske rap \ud83d\udc40  wicky p\u00e5 cover!!",
+  "num_followers": 186522,
+  "original_name": "ny rap dk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGPnWG/Dj38lYlSLWYZsPnUREvS0",
+  "snapshot_id": "AAAAAFuwjYzUm+P7zDeuYKerbwZFyzpq",
   "tracks": [
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
-        "name": "HUH",
-        "url": "https://open.spotify.com/album/2F7pFYZTSpw9tPBuJhpkCy"
+        "name": "SODA",
+        "url": "https://open.spotify.com/album/1Oc0wPHNFMdpvAB6F0H0zc"
       },
       "artists": [
         {
-          "name": "Wesmo",
-          "url": "https://open.spotify.com/artist/6igw5k1b1JrNyj4E3rZVm3"
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
         }
       ],
-      "duration_ms": 166662,
-      "name": "HUH",
-      "url": "https://open.spotify.com/track/4ShfjValJWH9FRINAzyPwf"
+      "duration_ms": 128647,
+      "name": "SODA",
+      "url": "https://open.spotify.com/track/2qQW6QYAqpRXWkIjiABgys"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "Vant Til (feat. KESI)",
+        "url": "https://open.spotify.com/album/6QB8wUJIn4hjk6W0Q8ZxCw"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 146204,
+      "name": "Vant Til (feat. KESI)",
+      "url": "https://open.spotify.com/track/0HuDb66kQr9d0Y0nHaG37U"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
@@ -45,27 +65,111 @@
       "url": "https://open.spotify.com/track/1HKeYplMmWJwrRYyX0bImw"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
-        "name": "BROHR",
-        "url": "https://open.spotify.com/album/3TRVglgBKfbhaBX20V8fgZ"
+        "name": "\u00d8je p\u00e5 Mig",
+        "url": "https://open.spotify.com/album/49zH2UgVfXz17ebztiIaSV"
       },
       "artists": [
         {
-          "name": "Gigis",
-          "url": "https://open.spotify.com/artist/2JPtVnT5s9pasfOlXM6F4o"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+          "name": "Tan",
+          "url": "https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh"
         }
       ],
-      "duration_ms": 169139,
-      "name": "Igennem Byen (feat. Omar)",
-      "url": "https://open.spotify.com/track/0kQgjv5tXOq8J6MIu7m2MH"
+      "duration_ms": 157193,
+      "name": "\u00d8je p\u00e5 Mig",
+      "url": "https://open.spotify.com/track/736VTDrXam3hwCs9GdRgLr"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "Tilf\u00e6lles",
+        "url": "https://open.spotify.com/album/4b3mLfJM6e0sfFAWdeE5d8"
+      },
+      "artists": [
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        }
+      ],
+      "duration_ms": 168923,
+      "name": "Tilf\u00e6lles",
+      "url": "https://open.spotify.com/track/42uS7UHHRU52QvuDLh4UGZ"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "TASK",
+        "url": "https://open.spotify.com/album/5WKXDOzrwoaj4iKkIAcSG4"
+      },
+      "artists": [
+        {
+          "name": "Eezy",
+          "url": "https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe"
+        }
+      ],
+      "duration_ms": 202409,
+      "name": "TASK",
+      "url": "https://open.spotify.com/track/3NE7NZrgtasZVKkzuoysba"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "Small Dick Energy",
+        "url": "https://open.spotify.com/album/6FTEVN5gQDXtB5J6jj9bHN"
+      },
+      "artists": [
+        {
+          "name": "Skammerens D\u00f8tre",
+          "url": "https://open.spotify.com/artist/27czJDSwFg9zbimXXwdwmh"
+        }
+      ],
+      "duration_ms": 126633,
+      "name": "Small Dick Energy",
+      "url": "https://open.spotify.com/track/1Kkh8uthk8s79tGWy5fno6"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "statisk",
+        "url": "https://open.spotify.com/album/7ny4E1EdQDwxZFuArfqGBQ"
+      },
+      "artists": [
+        {
+          "name": "Trepac",
+          "url": "https://open.spotify.com/artist/5x8sDeGS7ry9PNQng6hlGQ"
+        },
+        {
+          "name": "Guldlokk",
+          "url": "https://open.spotify.com/artist/3s1ycrMCGyVItSNujZS2cg"
+        },
+        {
+          "name": "Tue Track",
+          "url": "https://open.spotify.com/artist/4gkU3V5EzFhsXS7vNPuNKZ"
+        }
+      ],
+      "duration_ms": 234781,
+      "name": "statisk",
+      "url": "https://open.spotify.com/track/41gtQjOJnck6EXDNyfm77q"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "HUH",
+        "url": "https://open.spotify.com/album/2F7pFYZTSpw9tPBuJhpkCy"
+      },
+      "artists": [
+        {
+          "name": "Wesmo",
+          "url": "https://open.spotify.com/artist/6igw5k1b1JrNyj4E3rZVm3"
+        }
+      ],
+      "duration_ms": 166662,
+      "name": "HUH",
+      "url": "https://open.spotify.com/track/4ShfjValJWH9FRINAzyPwf"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Min Demon",
         "url": "https://open.spotify.com/album/1oCCMMqM8JVf8FejDKu257"
@@ -81,7 +185,27 @@
       "url": "https://open.spotify.com/track/4gubHYqq2WnDMahm19OLo0"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "BROHR",
+        "url": "https://open.spotify.com/album/3TRVglgBKfbhaBX20V8fgZ"
+      },
+      "artists": [
+        {
+          "name": "Gigis",
+          "url": "https://open.spotify.com/artist/2JPtVnT5s9pasfOlXM6F4o"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        }
+      ],
+      "duration_ms": 169139,
+      "name": "Igennem Byen",
+      "url": "https://open.spotify.com/track/0kQgjv5tXOq8J6MIu7m2MH"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "LIGE PR\u00c6CIS",
         "url": "https://open.spotify.com/album/4ackKYMiNXRbz1HRLGzx1v"
@@ -97,7 +221,7 @@
       "url": "https://open.spotify.com/track/135zlZf3eNq0E86VTivZmk"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "LAD MIG LIGE LEVE",
         "url": "https://open.spotify.com/album/33XZOYDwuqMxapso4GA1qS"
@@ -113,7 +237,23 @@
       "url": "https://open.spotify.com/track/25Ft00plGW0uf220EJT4ak"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "Kan Ik Tabe",
+        "url": "https://open.spotify.com/album/68wqtGpKTnVfUM5v6M86J5"
+      },
+      "artists": [
+        {
+          "name": "Papa E",
+          "url": "https://open.spotify.com/artist/5xnL1wWZMXg9asLC3A05Y7"
+        }
+      ],
+      "duration_ms": 171005,
+      "name": "Kan Ik Tabe",
+      "url": "https://open.spotify.com/track/5p83MuTOgaIeSZ5YsTqw0w"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "9 Liv",
         "url": "https://open.spotify.com/album/6xije358BkU4pJ9HkSarwK"
@@ -129,7 +269,7 @@
       "url": "https://open.spotify.com/track/3GStI8qvcZAKgc2Rsu5qBv"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "DOBBELT 5",
         "url": "https://open.spotify.com/album/54asTXnc3N68aUvr6VX3rU"
@@ -145,7 +285,7 @@
       "url": "https://open.spotify.com/track/0lAz4R0iopDKbN5JFqnn7c"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Hver En Del",
         "url": "https://open.spotify.com/album/1TLo7iBzhPXur2KRpGkfba"
@@ -161,7 +301,7 @@
       "url": "https://open.spotify.com/track/6rF3HzxSojaFcw9O3QULNT"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
@@ -181,23 +321,7 @@
       "url": "https://open.spotify.com/track/1Yc2Z8NQZvpOd0mMzvrSiI"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "Tilf\u00e6lles",
-        "url": "https://open.spotify.com/album/4b3mLfJM6e0sfFAWdeE5d8"
-      },
-      "artists": [
-        {
-          "name": "Carmon",
-          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
-        }
-      ],
-      "duration_ms": 168923,
-      "name": "Tilf\u00e6lles",
-      "url": "https://open.spotify.com/track/42uS7UHHRU52QvuDLh4UGZ"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Smerte Indeni",
         "url": "https://open.spotify.com/album/751D8oEjKzoK7WpwT73Nzq"
@@ -213,7 +337,7 @@
       "url": "https://open.spotify.com/track/25meNS9Bngckzmccy58Vu7"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Amira",
         "url": "https://open.spotify.com/album/00brwhGxxVji3sWi8ACisb"
@@ -229,55 +353,7 @@
       "url": "https://open.spotify.com/track/6GpCoUl3H52mKyepmWMQya"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "f##ked up",
-        "url": "https://open.spotify.com/album/1HYRWH6ErnuEkCDe9arA01"
-      },
-      "artists": [
-        {
-          "name": "K4BZ",
-          "url": "https://open.spotify.com/artist/2TIlWsBmdZBgR2qstq6NM1"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "f##ked up",
-      "url": "https://open.spotify.com/track/506caoF4Hx1vETEvlJvJGJ"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "Kan Ik Tabe",
-        "url": "https://open.spotify.com/album/68wqtGpKTnVfUM5v6M86J5"
-      },
-      "artists": [
-        {
-          "name": "Papa E",
-          "url": "https://open.spotify.com/artist/5xnL1wWZMXg9asLC3A05Y7"
-        }
-      ],
-      "duration_ms": 171005,
-      "name": "Kan Ik Tabe",
-      "url": "https://open.spotify.com/track/5p83MuTOgaIeSZ5YsTqw0w"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "Sputnik",
-        "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
-      },
-      "artists": [
-        {
-          "name": "Sm\u00f8gm\u00e6nd",
-          "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Salpeter",
-      "url": "https://open.spotify.com/track/59RRQ93Rs9jVHsXpbPV48t"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
@@ -297,7 +373,23 @@
       "url": "https://open.spotify.com/track/0VlWAuVyELrgYOxUfVF4Ng"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "f##ked up",
+        "url": "https://open.spotify.com/album/1HYRWH6ErnuEkCDe9arA01"
+      },
+      "artists": [
+        {
+          "name": "K4BZ",
+          "url": "https://open.spotify.com/artist/2TIlWsBmdZBgR2qstq6NM1"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "f##ked up",
+      "url": "https://open.spotify.com/track/506caoF4Hx1vETEvlJvJGJ"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Ud Af Boksen",
         "url": "https://open.spotify.com/album/31eba2dt9qS1Q3d82G2uCX"
@@ -313,7 +405,7 @@
       "url": "https://open.spotify.com/track/6k510Mf6Qz34GVfYLx81W9"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Hunger 4 Livet",
         "url": "https://open.spotify.com/album/3BNM9RBUkdo2dnnmMhEHwi"
@@ -329,7 +421,7 @@
       "url": "https://open.spotify.com/track/1ZlFVKqb3s2X5ypaaWxqXL"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "SAY NO MORE",
         "url": "https://open.spotify.com/album/41eWAwbm6TtOSrpvInIs2H"
@@ -345,7 +437,7 @@
       "url": "https://open.spotify.com/track/0IgcYmkuX43NutmVCP4rAZ"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "S\u00f8rgeligt",
         "url": "https://open.spotify.com/album/2ddrwtJSXymNrdrMb2Rg1I"
@@ -369,7 +461,7 @@
       "url": "https://open.spotify.com/track/2COUikllUFgSF0sh3uZWL5"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "RS",
         "url": "https://open.spotify.com/album/24ievzyEp79KI4ehUQvUX2"
@@ -389,7 +481,7 @@
       "url": "https://open.spotify.com/track/41SXvQoW23qO7P5MPakyG8"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "V\u00e6rd At V\u00e6lte For",
         "url": "https://open.spotify.com/album/7tXAixcmjoV3DO57oMN0io"
@@ -405,7 +497,7 @@
       "url": "https://open.spotify.com/track/02waimjPfbCnqnshpxB6kF"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Siden Sidst (feat. Thor Farlov)",
         "url": "https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd"
@@ -425,7 +517,7 @@
       "url": "https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "KIKI (feat. PAY)",
         "url": "https://open.spotify.com/album/7xOuZkk7IGKsuUJIRKla8p"
@@ -445,7 +537,7 @@
       "url": "https://open.spotify.com/track/3exqXtZOZUm1G1YalFGlpY"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Mr. Entrepren\u00f8r",
         "url": "https://open.spotify.com/album/1e7Q69hjmf9gVzDHzGNU8O"
@@ -461,7 +553,7 @@
       "url": "https://open.spotify.com/track/3vVhoKIX9vEaUVCOactWym"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Napoli",
         "url": "https://open.spotify.com/album/1evSQF3LMP5BblYEfLPs72"
@@ -477,7 +569,7 @@
       "url": "https://open.spotify.com/track/4UyUTjExsdAUJ8ze9AtyYb"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/6U4TJ4X6crvgPKl9UtlaeR"
@@ -497,7 +589,7 @@
       "url": "https://open.spotify.com/track/2rOlsr4io2ovZ6KaP2OBLu"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Kort & Kontant",
         "url": "https://open.spotify.com/album/7GDLqPFMdNBc7DfhOd5nnV"
@@ -513,7 +605,7 @@
       "url": "https://open.spotify.com/track/1VqsSu8ypQfuFqWSEhYXVW"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Siden Start (feat. OLIVVER & Merro8)",
         "url": "https://open.spotify.com/album/0Z5OvShv9JmPhxPwPzCmE8"
@@ -541,7 +633,7 @@
       "url": "https://open.spotify.com/track/1pnUOhAme8mJoclC7tZXM2"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Take Off",
         "url": "https://open.spotify.com/album/5Rci27Sz6d3QsP6gD7SfCC"
@@ -557,7 +649,7 @@
       "url": "https://open.spotify.com/track/27Go4Yav2qrip0Xf7W80Ey"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Westerlin",
         "url": "https://open.spotify.com/album/4tTXelGtBBpqCXYdzsCTb6"
@@ -573,7 +665,7 @@
       "url": "https://open.spotify.com/track/1x83R7cDnQzpuNwwvRVFZa"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "WORKIN'",
         "url": "https://open.spotify.com/album/49SwRiM8737kaO3BBExd3s"
@@ -593,7 +685,7 @@
       "url": "https://open.spotify.com/track/62qFtLxFEWDxz9JilEyoYv"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
@@ -613,7 +705,7 @@
       "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Jordsk\u00e6lv",
         "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
@@ -629,7 +721,7 @@
       "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/7duxJrzYUSBx9VuZfYCTkw"
@@ -645,7 +737,7 @@
       "url": "https://open.spotify.com/track/4whm6QeeLouv2jc6iCV8Iq"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Stadig Herude",
         "url": "https://open.spotify.com/album/4zOZRN1FGgJgCyIFiTLwD0"
@@ -661,7 +753,7 @@
       "url": "https://open.spotify.com/track/5sYhKtqWT8waojFexjTBH7"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Turn Me Up",
         "url": "https://open.spotify.com/album/1rQf3BNiAejFPcKK1cvRLd"
@@ -677,7 +769,7 @@
       "url": "https://open.spotify.com/track/0CKeO5wgXwswNgpAVkec0e"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Etage",
         "url": "https://open.spotify.com/album/3YfzKwoo8Or9xua0FJDH3d"
@@ -701,7 +793,7 @@
       "url": "https://open.spotify.com/track/4Ky5e8gfgppoylrDOkMjR3"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Burde V\u00e6re Mig",
         "url": "https://open.spotify.com/album/4OR5OckLOn4jLzJN7xDZRs"
@@ -717,7 +809,7 @@
       "url": "https://open.spotify.com/track/75U4WBwyPotccZd5iBbbU0"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
@@ -733,7 +825,7 @@
       "url": "https://open.spotify.com/track/6cj6EZt4Gqja2XFXpqf9O4"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Start 11",
         "url": "https://open.spotify.com/album/3F5Cc03oc2AJUqfLFAfDo1"
@@ -749,7 +841,7 @@
       "url": "https://open.spotify.com/track/4ARdA06K4N7xiuZD5zN3VO"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "12 Dage",
         "url": "https://open.spotify.com/album/2SegepYWdJtTAgHPVU20H0"
@@ -765,7 +857,23 @@
       "url": "https://open.spotify.com/track/4SFx0z3e0MHU5RL6aA26SS"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
+      "album": {
+        "name": "Sputnik",
+        "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
+      },
+      "artists": [
+        {
+          "name": "Sm\u00f8gm\u00e6nd",
+          "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Salpeter",
+      "url": "https://open.spotify.com/track/59RRQ93Rs9jVHsXpbPV48t"
+    },
+    {
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Dr\u00f8mmer",
         "url": "https://open.spotify.com/album/4CYOdoS3dnZs3RJaMiDqgL"
@@ -781,27 +889,7 @@
       "url": "https://open.spotify.com/track/3EP2PXtcM3NLO2R3QuRlRh"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "Marvel",
-        "url": "https://open.spotify.com/album/7fMQNhReJWDjSiVs3thhLv"
-      },
-      "artists": [
-        {
-          "name": "Cizzo",
-          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 136602,
-      "name": "Marvel",
-      "url": "https://open.spotify.com/track/3xo7KuTSE9Jj6t1hPH7hVW"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Big Ben",
         "url": "https://open.spotify.com/album/40Ttu4VLHdw6a6g4DlPW0L"
@@ -817,7 +905,7 @@
       "url": "https://open.spotify.com/track/4yl1Ce1RQlBlmKMDaxOfjb"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/2mK0bEG2WgniiFWZwykyV8"
@@ -833,7 +921,7 @@
       "url": "https://open.spotify.com/track/7lKdAx2mblLAAMtoKYdlJU"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Den lange vej",
         "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
@@ -853,87 +941,7 @@
       "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "Ivrig",
-        "url": "https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 168285,
-      "name": "Ivrig",
-      "url": "https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/78cZnSsvi9ddflTjMLYYLL"
-      },
-      "artists": [
-        {
-          "name": "wicky",
-          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
-        }
-      ],
-      "duration_ms": 122351,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/6qPZa8karYruU5PIZNUxb2"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "BOUNCE",
-        "url": "https://open.spotify.com/album/1hxVpatMXOxBWMc0tsfjta"
-      },
-      "artists": [
-        {
-          "name": "GUSTO",
-          "url": "https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL"
-        }
-      ],
-      "duration_ms": 132028,
-      "name": "BOUNCE",
-      "url": "https://open.spotify.com/track/4OFLTQoQBrDDDzTLjgNPwB"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "Ikaros",
-        "url": "https://open.spotify.com/album/4QpQkusyCxnLNdqO7hAF0S"
-      },
-      "artists": [
-        {
-          "name": "ozzy",
-          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
-        }
-      ],
-      "duration_ms": 129897,
-      "name": "Ikaros",
-      "url": "https://open.spotify.com/track/6X0OYoe0cSzRrarfDVPbp9"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "BAR G\u00d8R DET",
-        "url": "https://open.spotify.com/album/3z2nH1SAm6FGTaJ0aXJZf6"
-      },
-      "artists": [
-        {
-          "name": "Jimilian",
-          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
-        }
-      ],
-      "duration_ms": 124024,
-      "name": "BAR G\u00d8R DET",
-      "url": "https://open.spotify.com/track/62YoirydQgxNVCM0CwvBGS"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Rammer Mig Ik'",
         "url": "https://open.spotify.com/album/0TMAEUPkKoCn3JqrrFTcvg"
@@ -953,23 +961,7 @@
       "url": "https://open.spotify.com/track/63QZYodrrUlRIxQcuY7mhR"
     },
     {
-      "added_at": "2026-09-28 13:17:45",
-      "album": {
-        "name": "Hver Dag & Nat",
-        "url": "https://open.spotify.com/album/0ZfsjIav220Ztr9KCAmgQY"
-      },
-      "artists": [
-        {
-          "name": "1WAY",
-          "url": "https://open.spotify.com/artist/1Sn41xUC669O7Boqyo2nPH"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Hver Dag & Nat",
-      "url": "https://open.spotify.com/track/5hU6PBSMW6inBahwpSq40X"
-    },
-    {
-      "added_at": "2026-09-28 13:17:45",
+      "added_at": "2026-10-01 22:00:36",
       "album": {
         "name": "Stresser ik",
         "url": "https://open.spotify.com/album/1Q3gS6HIUL9THhgfeNXa8i"
@@ -985,6 +977,6 @@
       "url": "https://open.spotify.com/track/2XgnIqokLVOTlBDXebYBTI"
     }
   ],
-  "unique_name": "ny dansk rap",
+  "unique_name": "ny rap dk",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc"
 }

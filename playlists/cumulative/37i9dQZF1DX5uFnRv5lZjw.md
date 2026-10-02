@@ -4,7 +4,7 @@
 
 > doom scrolling is out, off\-grid is in.
 
-134 songs - 5 hr 39 min
+137 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 | 2025-04-09 |  |
 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 | 2025-03-07 |  |
 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 | 2025-04-02 | 2026-05-30 |
+| [Daydream Damsel](https://open.spotify.com/track/5MjV5ng53AIbqzR63U7jqC) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Daydream Damsel](https://open.spotify.com/album/479QMqPZQxdBp9HZKp5j1B) | 1:46 | 2026-10-02 |  |
 | [Days and Days](https://open.spotify.com/track/3LkBP7gC3g8cUWQpArGKAB) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Days and Days](https://open.spotify.com/album/3aEYmntr19JNHcZrz6YkGB) | 2:12 | 2025-11-05 |  |
 | [Descanso](https://open.spotify.com/track/09GOfbYAJRl2EtDAWCzaYh) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Descanso](https://open.spotify.com/album/3P2cjSVUew8ztsFyndU0mo) | 2:52 | 2025-06-10 | 2025-09-18 |
 | [Dianthus](https://open.spotify.com/track/1AFS4HPrOmxvVgKGVuylWI) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Dianthus](https://open.spotify.com/album/2NVyXMffU56Xmv5Dqs8Aix) | 2:33 | 2025-03-21 |  |
@@ -63,6 +64,7 @@
 | [Home](https://open.spotify.com/track/4dOD4uPnmDmh8LKkC3jQ8o) | [Sune Klintberg](https://open.spotify.com/artist/3TXiQjSvTxhlNZTML8XJQY) | [Home](https://open.spotify.com/album/6m4x8gXUxYmkr7Dj850nzg) | 2:46 | 2025-03-07 |  |
 | [Hot Springs Cove](https://open.spotify.com/track/3dCvFvKdbyPavhXonp1O0O) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Hot Springs Cove](https://open.spotify.com/album/3et31FrGP4wzUiivFNe7vu) | 2:11 | 2025-09-17 |  |
 | [Idyllwild](https://open.spotify.com/track/2RKTXZKlTWEKYgAwA0D8dM) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Idyllwild](https://open.spotify.com/album/36EtKQcr9CYVdkcGFymr9Z) | 2:21 | 2025-05-13 |  |
+| [In Between](https://open.spotify.com/track/3nIdLlgPtuAdFipe6hQjWu) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [In Between](https://open.spotify.com/album/5YibfMIOR1blqhum3xZlQE) | 2:44 | 2026-10-02 |  |
 | [In Green](https://open.spotify.com/track/65X0IiKlzsco1zlM18opk6) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [In Green](https://open.spotify.com/album/0ron8ZEWZaCkrL3cg4H0VE) | 2:34 | 2025-04-23 |  |
 | [In Regards to A Dream](https://open.spotify.com/track/6KMe6OFo5QCi9co4Vnfz8I) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [In Regards to A Dream](https://open.spotify.com/album/19VRs67fPxLG5QzQME6zE8) | 3:03 | 2025-03-07 |  |
 | [Into the Light](https://open.spotify.com/track/2cilJhRbesAUmkwLn9dlkR) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Into the Light](https://open.spotify.com/album/103ieLQ54WKXA1dqhtcif5) | 2:46 | 2025-03-07 | 2026-05-30 |
@@ -92,6 +94,7 @@
 | [Out of Sight, Within Reach](https://open.spotify.com/track/1WpLGmCjRHeOK02a6twUyL) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Out of Sight, Within Reach](https://open.spotify.com/album/4hpQy0MfXPoBLeQwjmwUMe) | 2:25 | 2025-07-16 |  |
 | [Padua](https://open.spotify.com/track/51uN1ea8n1Gcy8oTe7LddO) | [Seán Ó Riain](https://open.spotify.com/artist/5UppcMSMhMJ0GkluIUwwF2) | [Padua](https://open.spotify.com/album/6zYcA2On0fSISK9SH4dAFX) | 2:32 | 2025-03-07 | 2026-07-25 |
 | [Patterns](https://open.spotify.com/track/6z0UhDZtA0Ln2hHhgLg6Ah) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg) | [Patterns](https://open.spotify.com/album/4bDXWDR2mxOE5XCKSRPrYU) | 2:30 | 2026-05-29 |  |
+| [Petal and Silence](https://open.spotify.com/track/6KPmlm4m08RciMKrzPFAfG) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Petal and Silence](https://open.spotify.com/album/20jyPHfKhBTJ90hz1jU9iH) | 2:45 | 2026-10-02 |  |
 | [Piave](https://open.spotify.com/track/5DCyPiUqIsQbvEUgcfNcRF) | [Seren Rhys](https://open.spotify.com/artist/1s5Ua8B6OhCvPYwFqAUe2j) | [Piave](https://open.spotify.com/album/4A94Hfby7t1bEQQOQkUrhp) | 2:35 | 2025-04-16 | 2026-07-25 |
 | [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 | 2025-03-14 |  |
 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 | 2025-03-07 |  |

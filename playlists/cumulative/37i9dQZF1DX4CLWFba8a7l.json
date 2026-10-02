@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "In this house we celebrate Australian music. Cover: C.O.F.F.I.N",
+  "description": "In this house we celebrate Australian music. Cover: Soul Wun",
   "name": "Turn Up Aus",
   "tracks": [
     {
@@ -96,6 +96,28 @@
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "album": {
+        "name": "Confirmation!",
+        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "FAUZIA",
+          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164611,
+      "name": "2Love (feat. FAUZIA)",
+      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
     },
     {
       "album": {
@@ -400,6 +422,24 @@
       "duration_ms": 189179,
       "name": "Addicted To Bass (Dom Dolla Relapse)",
       "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+    },
+    {
+      "album": {
+        "name": "Carparks",
+        "url": "https://open.spotify.com/album/41exX5asmlevP9n8OsoviK"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180684,
+      "name": "Adeline",
+      "url": "https://open.spotify.com/track/06rpq1YGWFvUxIevdldh96"
     },
     {
       "album": {
@@ -2490,7 +2530,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 187200,
       "name": "Crossed Out",
       "url": "https://open.spotify.com/track/3zOsjeYUu2MFa0qRP8PcLO"
@@ -2656,6 +2696,32 @@
       "duration_ms": 126269,
       "name": "DANCEHEAD",
       "url": "https://open.spotify.com/track/2tXjGN9f9LVYWC7RROErvn"
+    },
+    {
+      "album": {
+        "name": "DANGER DANGER (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180150,
+      "name": "DANGER DANGER (feat. Skepta)",
+      "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
     },
     {
       "album": {
@@ -3232,7 +3298,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 171526,
       "name": "Dreamin (feat. Daya)",
       "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
@@ -4522,7 +4588,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 146746,
       "name": "Gettin\u2019 Down",
       "url": "https://open.spotify.com/track/04BBZ3w0c3DnmX5pnFppOe"
@@ -4820,7 +4886,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199690,
       "name": "gossip",
       "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
@@ -5088,6 +5154,28 @@
       "duration_ms": 175233,
       "name": "HELL BOY",
       "url": "https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf"
+    },
+    {
+      "album": {
+        "name": "Hello (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205212,
+      "name": "Hello - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi"
     },
     {
       "album": {
@@ -5898,7 +5986,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 210000,
       "name": "I See Myself In You",
       "url": "https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK"
@@ -6510,7 +6598,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 186505,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/67zxIv3yivtuIG6riPQa3U"
@@ -7012,6 +7100,24 @@
       "duration_ms": 196736,
       "name": "Legacy In Motion",
       "url": "https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ"
+    },
+    {
+      "album": {
+        "name": "Lemon Squeezy",
+        "url": "https://open.spotify.com/album/41T5HDPUEYJFLHtl6mmxYq"
+      },
+      "artists": [
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207713,
+      "name": "Lemon Squeezy",
+      "url": "https://open.spotify.com/track/6PzciMYs1p02o2ILMNLLOX"
     },
     {
       "album": {
@@ -7579,6 +7685,24 @@
     },
     {
       "album": {
+        "name": "Pursuit of Anything",
+        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Lucky, Forever",
+      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
+    },
+    {
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2omalIN0hJYm2oC8PcqL43"
       },
@@ -7680,7 +7804,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 203225,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
@@ -10753,6 +10877,28 @@
     },
     {
       "album": {
+        "name": "She Moves with the Wind",
+        "url": "https://open.spotify.com/album/7sMIwjbMMxROeFJS2v70x6"
+      },
+      "artists": [
+        {
+          "name": "Nico Besso",
+          "url": "https://open.spotify.com/artist/7DgJhLJPueRl1erDbNvjl8"
+        },
+        {
+          "name": "Barley Passable",
+          "url": "https://open.spotify.com/artist/0k2101hTwxewxXtAOuqToM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211153,
+      "name": "She Moves with the Wind",
+      "url": "https://open.spotify.com/track/0p7tsPWzqArJ99Ckac4XSf"
+    },
+    {
+      "album": {
         "name": "She Said",
         "url": "https://open.spotify.com/album/0fAs12Y2B3jJVyqqPAM5Bo"
       },
@@ -12167,6 +12313,24 @@
     },
     {
       "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/3IItemvs6diBqETll5pINP"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180002,
+      "name": "Tell Me When You're Home",
+      "url": "https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q"
+    },
+    {
+      "album": {
         "name": "Glimmers Continued",
         "url": "https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1"
       },
@@ -12344,7 +12508,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178955,
       "name": "The Cherry Farm",
       "url": "https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY"
@@ -13695,6 +13859,24 @@
     },
     {
       "album": {
+        "name": "When The Rain Begins To Fall",
+        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214016,
+      "name": "When The Rain Begins To Fall",
+      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
+    },
+    {
+      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/1Zf7IoTfjpHBfk1baVolew"
       },
@@ -13782,7 +13964,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176456,
       "name": "Where You Really Come From",
       "url": "https://open.spotify.com/track/0Oiwu7DlTKNZHnrI5muVTK"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Lilly Yan. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring seye. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -8395,6 +8395,24 @@
     },
     {
       "album": {
+        "name": "LOS CISNES",
+        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177215,
+      "name": "CARI\u00d1O",
+      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
+    },
+    {
+      "album": {
         "name": "Sofomor",
         "url": "https://open.spotify.com/album/7thRaFcYJhClEM05ZVvoRz"
       },
@@ -9878,7 +9896,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 186766,
       "name": "como ser\u00eda",
       "url": "https://open.spotify.com/track/4tSPv1PJbvixeyJA3ULO0O"
@@ -31762,7 +31780,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 189263,
       "name": "Moon",
       "url": "https://open.spotify.com/track/3QP07HJQ0MLnjwP9OUhECY"
@@ -32066,7 +32084,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 191354,
       "name": "Mujer de Nadie",
       "url": "https://open.spotify.com/track/0gVdIUEgaM5VrVZcTEOxsg"
@@ -48375,6 +48393,24 @@
     },
     {
       "album": {
+        "name": "Todo Es Por Ti",
+        "url": "https://open.spotify.com/album/3cQkmyDfjdiP71TIiUHyUk"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149661,
+      "name": "Todo Es Por Ti",
+      "url": "https://open.spotify.com/track/3JUAvF2Gpql8HPHvwEa4Uu"
+    },
+    {
+      "album": {
         "name": "Milenios en Este Cuarto",
         "url": "https://open.spotify.com/album/5ALQAc8To4i5tTqzrtSizI"
       },
@@ -49792,6 +49828,24 @@
       "duration_ms": 112000,
       "name": "Tu Piel Morada",
       "url": "https://open.spotify.com/track/7Cc4v30RC15b9EdFVT59dd"
+    },
+    {
+      "album": {
+        "name": "TU QUIERES",
+        "url": "https://open.spotify.com/album/0ZKmOCb8tzpgzXarM2ZSQt"
+      },
+      "artists": [
+        {
+          "name": "Micah Palace",
+          "url": "https://open.spotify.com/artist/2ORiMtfuAyIgw5tk2WnERd"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152074,
+      "name": "TU QUIERES",
+      "url": "https://open.spotify.com/track/0DKVwL0rV0eu49rNMUUPxb"
     },
     {
       "album": {

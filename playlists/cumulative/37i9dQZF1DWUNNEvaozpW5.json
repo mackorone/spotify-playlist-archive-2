@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Kiko Veneno.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Arde Bogot\u00e1.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Antifiesta",
+        "url": "https://open.spotify.com/album/3JqKMLp1ykirxAukz2AgLy"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283386,
+      "name": "Antifiesta",
+      "url": "https://open.spotify.com/track/0NaXSXAAukAvEkzLiNB3Ax"
+    },
+    {
+      "album": {
         "name": "Aquel Verano del 86",
         "url": "https://open.spotify.com/album/797wsnhR4QQS6ZL3tHyT8j"
       },
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 270000,
       "name": "Bigger Splash",
       "url": "https://open.spotify.com/track/1Iglg0BzSGKUh1bdoloFpb"
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 276005,
       "name": "Cowboys de la A3",
       "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
@@ -4796,7 +4814,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 157413,
       "name": "El mundo es cosa de hombres",
       "url": "https://open.spotify.com/track/0VXrh25gpNaCXfrD2ejOsw"
@@ -4966,7 +4984,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 177398,
       "name": "El pr\u00f3ximo vals",
       "url": "https://open.spotify.com/track/15z2lSjCakojLYpDzZTCA8"
@@ -5161,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Las fuerzas y los cuerpos",
+        "url": "https://open.spotify.com/album/0JJuaTGWNvYo4CkcPeWEok"
+      },
+      "artists": [
+        {
+          "name": "Sr. Chinarro",
+          "url": "https://open.spotify.com/artist/3bEHj6WUeCJey0vLrffSQp"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210154,
+      "name": "El viaje que puede esperar",
+      "url": "https://open.spotify.com/track/6aq6LIMS06mIGtcMakP21i"
+    },
+    {
+      "album": {
         "name": "EL VOLC\u00c1N",
         "url": "https://open.spotify.com/album/7kUrFhqkr4cawh1yhjr0lF"
       },
@@ -5284,6 +5320,24 @@
       "duration_ms": 192836,
       "name": "Empezar de Cero",
       "url": "https://open.spotify.com/track/5EBLu2ctAliFuTN7zbtqwK"
+    },
+    {
+      "album": {
+        "name": "Canciones chulas",
+        "url": "https://open.spotify.com/album/5IWeX8YqVfqVo1JSG8RsDQ"
+      },
+      "artists": [
+        {
+          "name": "Los Enemigos",
+          "url": "https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157555,
+      "name": "En alguna realidad",
+      "url": "https://open.spotify.com/track/4NksYLXv79WWrqsJ3LJ853"
     },
     {
       "album": {
@@ -6343,6 +6397,24 @@
     },
     {
       "album": {
+        "name": "Gilipollas",
+        "url": "https://open.spotify.com/album/50drLygk6ym0QNIgKALnhS"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215663,
+      "name": "Gilipollas",
+      "url": "https://open.spotify.com/track/4y0A1ot2Vg2Sbvfa2PHSeO"
+    },
+    {
+      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/5poBsCI8udX6rnYxNdChAG"
       },
@@ -6620,7 +6692,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 263924,
       "name": "Hey chaval",
       "url": "https://open.spotify.com/track/0egCH56ZdxPxAwSdIkPk8s"
@@ -8216,6 +8288,28 @@
       "duration_ms": 260789,
       "name": "Lapsus",
       "url": "https://open.spotify.com/track/5gaHUShVDYB2kn5s0xzIAi"
+    },
+    {
+      "album": {
+        "name": "Las amapolas (en Estudio Uno)",
+        "url": "https://open.spotify.com/album/0qk9UKwPnLtuhJnMXDOb24"
+      },
+      "artists": [
+        {
+          "name": "Drugos",
+          "url": "https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ"
+        },
+        {
+          "name": "Juancho Sidecars",
+          "url": "https://open.spotify.com/artist/0SbrR0n1dENC05Dg3Wt5wH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Las amapolas (en Estudio Uno)",
+      "url": "https://open.spotify.com/track/2kYMX350ZOpFH81n55toMe"
     },
     {
       "album": {
@@ -10954,7 +11048,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 225505,
       "name": "No tengo prisa (en Estudio Uno)",
       "url": "https://open.spotify.com/track/2PmKRG66hvKjnFvvt7Z4Nb"
@@ -13223,6 +13317,24 @@
     },
     {
       "album": {
+        "name": "Manufacturas del Club de la Gente Sola (MCGS)",
+        "url": "https://open.spotify.com/album/2nbzoGtAmIt5pVkBMEgVvH"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191426,
+      "name": "Se\u00f1or Herrero",
+      "url": "https://open.spotify.com/track/0TS2TkAsa3iFSoU5tp2SZc"
+    },
+    {
+      "album": {
         "name": "SI HUBI\u00c9RAMOS SIDO M\u00c1S VALIENTES",
         "url": "https://open.spotify.com/album/2Rx8HMgbOBpwjIKFaMbkO6"
       },
@@ -14466,7 +14578,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 297293,
       "name": "Todo Se Est\u00e1 Yendo A La Mierda",
       "url": "https://open.spotify.com/track/7o2Lt72zc6VKzg6f4O8Lcp"
@@ -14948,6 +15060,24 @@
       "duration_ms": 251408,
       "name": "Un Brindis al Sol",
       "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
+    },
+    {
+      "album": {
+        "name": "Un Idiota en el Tejado",
+        "url": "https://open.spotify.com/album/4PYqbbPvcOXoJqmkG4cduA"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "Un Idiota en el Tejado",
+      "url": "https://open.spotify.com/track/7Hk1PZpVP5IFrmAhEcpjpK"
     },
     {
       "album": {

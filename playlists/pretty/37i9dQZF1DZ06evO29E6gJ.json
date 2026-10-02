@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 13287,
+  "num_followers": 13286,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADfAl2z9Ps9dm7XTsR3YA7K",
+  "snapshot_id": "arxRAAAAAACxPZVyHJWGZrOg3lZygvqb",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos De Contrabando",
+        "url": "https://open.spotify.com/album/74v8hM16gKXrMqlF58FcVO"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "La Carga Blanca",
+      "url": "https://open.spotify.com/track/329yMhAD7SjiTj8mTXZYml"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando A Mi Padre",
         "url": "https://open.spotify.com/album/3e6s26Xm7sBdzL70CqzgMB"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 133866,
       "name": "De Tres Flores",
       "url": "https://open.spotify.com/track/1m4xYKvIRyYoyGmRWR0U34"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Contrabando",
-        "url": "https://open.spotify.com/album/74v8hM16gKXrMqlF58FcVO"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "La Carga Blanca",
-      "url": "https://open.spotify.com/track/329yMhAD7SjiTj8mTXZYml"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Alegres De Ter\u00e1n",
-        "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 176574,
-      "name": "Tomando Licor",
-      "url": "https://open.spotify.com/track/3JJDTrzSLZTPxd3EfiLOIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Famosos",
         "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 162453,
       "name": "El 24 De Junio",
       "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Alegres De Ter\u00e1n",
+        "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 176574,
+      "name": "Tomando Licor",
+      "url": "https://open.spotify.com/track/3JJDTrzSLZTPxd3EfiLOIS"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 141573,
-      "name": "Alma Rendida",
-      "url": "https://open.spotify.com/track/4Sc7z9IWXG1XbwCYKEByFX"
+      "duration_ms": 151293,
+      "name": "Prisionero de Tus Brazos",
+      "url": "https://open.spotify.com/track/6KqyjEEo57j3VHTNLv1BsC"
     },
     {
       "added_at": null,
@@ -400,25 +400,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 151293,
-      "name": "Prisionero de Tus Brazos",
-      "url": "https://open.spotify.com/track/6KqyjEEo57j3VHTNLv1BsC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se\u00f1orita Cantinera (Serie 2000)",
-        "url": "https://open.spotify.com/album/0WZxY0v3nKJNBJHCXqlryw"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Se\u00f1orita Cantinera",
-      "url": "https://open.spotify.com/track/7DWY2WaAOc6x7KztLZH6CS"
+      "duration_ms": 141573,
+      "name": "Alma Rendida",
+      "url": "https://open.spotify.com/track/4Sc7z9IWXG1XbwCYKEByFX"
     },
     {
       "added_at": null,
@@ -435,6 +419,22 @@
       "duration_ms": 151120,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/0RTjdt7njOVEu1QQwM8nUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1orita Cantinera (Serie 2000)",
+        "url": "https://open.spotify.com/album/0WZxY0v3nKJNBJHCXqlryw"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Se\u00f1orita Cantinera",
+      "url": "https://open.spotify.com/track/7DWY2WaAOc6x7KztLZH6CS"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA TRAICIONERA (Remastered)",
-        "url": "https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fogata Norte\u00f1a",
         "url": "https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj"
       },
@@ -503,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Ojos De Pancha",
-        "url": "https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX"
+        "name": "LA TRAICIONERA (Remastered)",
+        "url": "https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq"
       },
       "artists": [
         {
@@ -512,9 +496,25 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 168226,
-      "name": "Corazoncito Tirano",
-      "url": "https://open.spotify.com/track/6WDO9b672nRsA3W3FtPlLU"
+      "duration_ms": 120306,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "La Mula Bronca",
+      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Clasicos: Canciones y Corridos",
-        "url": "https://open.spotify.com/album/5B6a96a0gdnf0AaIstQyYb"
+        "name": "Los Ojos De Pancha",
+        "url": "https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 167093,
-      "name": "Carta Jugada",
-      "url": "https://open.spotify.com/track/2n19eUctP7AZFIsktfBk2V"
+      "duration_ms": 168226,
+      "name": "Corazoncito Tirano",
+      "url": "https://open.spotify.com/track/6WDO9b672nRsA3W3FtPlLU"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1as de Oro",
-        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+        "name": "20 Exitos Clasicos: Canciones y Corridos",
+        "url": "https://open.spotify.com/album/5B6a96a0gdnf0AaIstQyYb"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 170306,
-      "name": "La Mula Bronca",
-      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
+      "duration_ms": 167093,
+      "name": "Carta Jugada",
+      "url": "https://open.spotify.com/track/2n19eUctP7AZFIsktfBk2V"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos de los Alegres de Ter\u00e1n, Vol. 2",
-        "url": "https://open.spotify.com/album/3UCqW7jOFnJl6DDwOz7eth"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/404XnTj9uwthQP2Ryc4hsH"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 143933,
-      "name": "Porque Te Quiero",
-      "url": "https://open.spotify.com/track/3CFVyZA39o7RnGcQoOadZ5"
+      "duration_ms": 142903,
+      "name": "Ingratos Ojos Mios",
+      "url": "https://open.spotify.com/track/5zZ9Q1N0MnrIc9BNkBOQua"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/404XnTj9uwthQP2Ryc4hsH"
+        "name": "15 \u00c9xitos de los Alegres de Ter\u00e1n, Vol. 2",
+        "url": "https://open.spotify.com/album/3UCqW7jOFnJl6DDwOz7eth"
       },
       "artists": [
         {
@@ -708,9 +708,25 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 142903,
-      "name": "Ingratos Ojos Mios",
-      "url": "https://open.spotify.com/track/5zZ9Q1N0MnrIc9BNkBOQua"
+      "duration_ms": 143933,
+      "name": "Porque Te Quiero",
+      "url": "https://open.spotify.com/track/3CFVyZA39o7RnGcQoOadZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A\u00f1oranza Norte\u00f1a",
+        "url": "https://open.spotify.com/album/36EZFM4cbNaCHS7ZWAvR3t"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "Mi Destino Fu\u00e9 Quererte",
+      "url": "https://open.spotify.com/track/36ZvQNbCNgOqtcUtEt9Wdb"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mano A Mano",
-        "url": "https://open.spotify.com/album/7AqygqPGx2duxufK7woexa"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Modesta Ayala",
-      "url": "https://open.spotify.com/track/7hFGRE0pf1KQCuR16lHW0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie De Colecci\u00f3n 15 Aut\u00e9nticos \u00c9xitos",
         "url": "https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR"
       },
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A\u00f1oranza Norte\u00f1a",
-        "url": "https://open.spotify.com/album/36EZFM4cbNaCHS7ZWAvR3t"
+        "name": "Mano A Mano",
+        "url": "https://open.spotify.com/album/7AqygqPGx2duxufK7woexa"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 185693,
-      "name": "Mi Destino Fu\u00e9 Quererte",
-      "url": "https://open.spotify.com/track/36ZvQNbCNgOqtcUtEt9Wdb"
+      "duration_ms": 167133,
+      "name": "Modesta Ayala",
+      "url": "https://open.spotify.com/track/7hFGRE0pf1KQCuR16lHW0r"
     },
     {
       "added_at": null,

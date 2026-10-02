@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 149239,
+  "num_followers": 149268,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1747,50 +1747,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Percocet (Remix)",
-        "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chris Wandell",
-          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
-        },
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        }
-      ],
-      "duration_ms": 314626,
-      "name": "Percocet - Remix",
-      "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Robinson Cano",
-        "url": "https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL"
-      },
-      "artists": [
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 182710,
-      "name": "Robinson Cano",
-      "url": "https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb"
       },
@@ -1815,6 +1771,50 @@
       "duration_ms": 271080,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Robinson Cano",
+        "url": "https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 182710,
+      "name": "Robinson Cano",
+      "url": "https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Percocet (Remix)",
+        "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chris Wandell",
+          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        }
+      ],
+      "duration_ms": 314626,
+      "name": "Percocet - Remix",
+      "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
     },
     {
       "added_at": "2024-08-19 19:01:43",

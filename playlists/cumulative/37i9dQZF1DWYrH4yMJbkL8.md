@@ -2,7 +2,7 @@
 
 ### [Indigenous](https://open.spotify.com/playlist/37i9dQZF1DWYrH4yMJbkL8)
 
-> A collection of beautiful songs by Indigenous artists\. Cover: Chevy Beaulieu
+> A collection of beautiful songs by Indigenous artists\. Cover: Elisapie
 
 1,109 songs - 2 day 17 hr 4 min
 

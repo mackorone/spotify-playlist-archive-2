@@ -14839,6 +14839,28 @@
     },
     {
       "album": {
+        "name": "Fall On Me",
+        "url": "https://open.spotify.com/album/0X4CsuR1eMxEjqmA2SC0AF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peck",
+          "url": "https://open.spotify.com/artist/0tGqPUV07SPPYo6Aw8lAJi"
+        },
+        {
+          "name": "Sam Fetter",
+          "url": "https://open.spotify.com/artist/5MejTASxNaB9YdFQsCAE14"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "Fall On Me",
+      "url": "https://open.spotify.com/track/51JzsE7B3RCymIzKw4oA35"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/0DOLucTer6GhH1sJ21gZnj"
       },
@@ -27713,6 +27735,24 @@
     },
     {
       "album": {
+        "name": "Lost in LA",
+        "url": "https://open.spotify.com/album/46N86bURqfFJ7w0g4r2FmO"
+      },
+      "artists": [
+        {
+          "name": "EMMALISA",
+          "url": "https://open.spotify.com/artist/0uAC20tdGcRDQMNvWTnZP0"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Lost in LA",
+      "url": "https://open.spotify.com/track/1b47OSZq7D6fXb1fQpNZhg"
+    },
+    {
+      "album": {
         "name": "Lost in My Mind",
         "url": "https://open.spotify.com/album/1uEZNjHkSnm1n1ie4Wiqot"
       },
@@ -30230,6 +30270,24 @@
       "duration_ms": 154131,
       "name": "Misfits Rejoice",
       "url": "https://open.spotify.com/track/1T08MkKOgNuqMHg3nDjsnU"
+    },
+    {
+      "album": {
+        "name": "Misjudged",
+        "url": "https://open.spotify.com/album/5UCqfemjj9T2wFHOEvYKb3"
+      },
+      "artists": [
+        {
+          "name": "Jake Rouson",
+          "url": "https://open.spotify.com/artist/2y9f6Ij6xnhBBjpyEl5hjH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191821,
+      "name": "Misjudged",
+      "url": "https://open.spotify.com/track/1h49yMfyNaEBtsjBsmIEyR"
     },
     {
       "album": {
@@ -41548,7 +41606,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 209697,
       "name": "SLOW DOWN!",
       "url": "https://open.spotify.com/track/13bSzFkkNoraBFkHwz1ffB"
@@ -45347,6 +45405,24 @@
     },
     {
       "album": {
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/5xH3MSiyadXRUppauvetOs"
+      },
+      "artists": [
+        {
+          "name": "ViennaCC",
+          "url": "https://open.spotify.com/artist/0RQHomT2oBtOXNkU0ftpQ8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210763,
+      "name": "The Bottom Line",
+      "url": "https://open.spotify.com/track/3VoZSjjcLzbt7RLLHJTtYE"
+    },
+    {
+      "album": {
         "name": "THE CALL I NEVER MADE",
         "url": "https://open.spotify.com/album/1NaCcsUte5gjYTWdLFB3Ae"
       },
@@ -49130,6 +49206,24 @@
       "duration_ms": 203937,
       "name": "Under the Pulse",
       "url": "https://open.spotify.com/track/3WKDSEo7cNvy9sWGUKqwOm"
+    },
+    {
+      "album": {
+        "name": "Under The Rainbow",
+        "url": "https://open.spotify.com/album/3rNejJ0ixkSOfb4lIwC09f"
+      },
+      "artists": [
+        {
+          "name": "Jade Valea",
+          "url": "https://open.spotify.com/artist/72Abfl2iqvUkREZ3L4pYqv"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142920,
+      "name": "Under the Rainbow",
+      "url": "https://open.spotify.com/track/3mjgk3E0wigLCTolj3UiiY"
     },
     {
       "album": {

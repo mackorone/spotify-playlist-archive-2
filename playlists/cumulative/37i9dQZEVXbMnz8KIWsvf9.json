@@ -7870,7 +7870,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 310736,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/5Sjh897ZdtbjuCdPWirjI9"
@@ -11382,7 +11382,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 284583,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17"
@@ -17362,7 +17362,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "\u0e01\u0e25\u0e31\u0e27\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08",
       "url": "https://open.spotify.com/track/52ijTzD9HujnkPswlVPGrF"
@@ -17604,7 +17604,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 257133,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/5pqAbpHRuFhcACwvVBi69V"
@@ -20900,7 +20900,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 216969,
       "name": "\u0e19\u0e34\u0e42\u0e04\u0e15\u0e34\u0e19",
       "url": "https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB"
@@ -21685,6 +21685,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2d\u0e01\u0e40\u0e01\u0e37\u0e2d\u0e1a\u0e2b\u0e31\u0e01\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e35 (\u0e08\u0e32\u0e01 \"\u0e25\u0e30\u0e04\u0e23 \u0e2d\u0e01\u0e40\u0e01\u0e37\u0e2d\u0e1a\u0e2b\u0e31\u0e01\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e35\")",
+        "url": "https://open.spotify.com/album/166HYDQm6d07QMreZI1Z2Z"
+      },
+      "artists": [
+        {
+          "name": "Singto Numchok",
+          "url": "https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "\u0e21\u0e31\u0e19\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e17\u0e35\u0e48\u0e04\u0e34\u0e14 - \u0e08\u0e32\u0e01 \"\u0e25\u0e30\u0e04\u0e23 \u0e2d\u0e01\u0e40\u0e01\u0e37\u0e2d\u0e1a\u0e2b\u0e31\u0e01\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e35\"",
+      "url": "https://open.spotify.com/track/2LVF7xkMkTD0fiv9Gqownk"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e35\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e14\u0e32\u0e27",
         "url": "https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo"
       },
@@ -22326,7 +22344,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 190476,
       "name": "\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27\u0e2d\u0e35\u0e01\u0e17\u0e35",
       "url": "https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t"
@@ -26190,7 +26208,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 314357,
       "name": "\u0e44\u0e21\u0e48\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/7F9ptErLnyt0r4Q0azfqDG"

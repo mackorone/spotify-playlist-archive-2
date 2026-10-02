@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Danyl & A6el.",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: TH\u00c9A.",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Biopic",
+        "url": "https://open.spotify.com/album/015fcq6qJjulKwDyzSdFFz"
+      },
+      "artists": [
+        {
+          "name": "Stanislas",
+          "url": "https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "Biopic",
+      "url": "https://open.spotify.com/track/5OOO12AefQmA6PNvOaC5Xf"
+    },
+    {
+      "album": {
         "name": "Birthday Party",
         "url": "https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82"
       },
@@ -1216,6 +1234,24 @@
       "duration_ms": 159000,
       "name": "Boule \u00e0 facettes",
       "url": "https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t"
+    },
+    {
+      "album": {
+        "name": "POPSTAR SPEEDRUN",
+        "url": "https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138626,
+      "name": "BRAINDEAD (Okay!)",
+      "url": "https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a"
     },
     {
       "album": {
@@ -1858,7 +1894,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 229626,
       "name": "Colleurs de stickers",
       "url": "https://open.spotify.com/track/60YaehJGYS4tZTWao3d3an"
@@ -2392,6 +2428,24 @@
       "duration_ms": 171800,
       "name": "Dans\u00e9",
       "url": "https://open.spotify.com/track/4WBy4mNSb3ytse4qR2BjkG"
+    },
+    {
+      "album": {
+        "name": "Rouge ciel",
+        "url": "https://open.spotify.com/album/7aRONpyCc3bHrki3n1Wqnh"
+      },
+      "artists": [
+        {
+          "name": "JeanneTo",
+          "url": "https://open.spotify.com/artist/4QZHVgbqlCMCvLBtTcV39a"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212807,
+      "name": "De r\u00eaves et de sang",
+      "url": "https://open.spotify.com/track/2Wkk99mGku9rqpqQcN9jJp"
     },
     {
       "album": {
@@ -2983,6 +3037,24 @@
     },
     {
       "album": {
+        "name": "Na\u00eff",
+        "url": "https://open.spotify.com/album/5q5Z6W7IIEp4EHp34nL4Qf"
+      },
+      "artists": [
+        {
+          "name": "Nerlov",
+          "url": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/3LysS5jMJjCEpGuxQeP5X7"
+    },
+    {
+      "album": {
         "name": "EREX",
         "url": "https://open.spotify.com/album/3jcZdyIm8YTnqChzI213uU"
       },
@@ -3330,7 +3402,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 153000,
       "name": "Fucked Up",
       "url": "https://open.spotify.com/track/0IyTGXvTJ3vRDC7cS9wi9J"
@@ -4434,7 +4506,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178880,
       "name": "Je te donnerais",
       "url": "https://open.spotify.com/track/0wnYswRkILI93NbVhtfrbw"
@@ -5845,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "Mec Normal",
+        "url": "https://open.spotify.com/album/4DrSzyacBLr10kPXyu5RSz"
+      },
+      "artists": [
+        {
+          "name": "Ariane Bonzini",
+          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213746,
+      "name": "Loin De Moi",
+      "url": "https://open.spotify.com/track/4nwrzpcTlORPRJ0ZllSQRn"
+    },
+    {
+      "album": {
         "name": "MOURIR POUR MIEUX RENAITRE",
         "url": "https://open.spotify.com/album/0mNUkGnRDPRDKkAxOJxc1E"
       },
@@ -6004,7 +6094,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165626,
       "name": "L\u00c9TAL",
       "url": "https://open.spotify.com/track/7dOi1Ewgw5nTOCE2NsB26c"
@@ -6058,7 +6148,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 175213,
       "name": "Ma routine sur Vivastreet",
       "url": "https://open.spotify.com/track/6NGKyrt8m0cnhVY3EGGuCY"
@@ -6429,6 +6519,24 @@
     },
     {
       "album": {
+        "name": "Mode avion",
+        "url": "https://open.spotify.com/album/2SfT9JoG6pXqK5qYKxfWEX"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143960,
+      "name": "Mode avion",
+      "url": "https://open.spotify.com/track/5m7dCoZBRogxdYhjenjs1j"
+    },
+    {
+      "album": {
         "name": "Modern Love",
         "url": "https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA"
       },
@@ -6700,7 +6808,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 134068,
       "name": "M\u00e9tronome",
       "url": "https://open.spotify.com/track/5tdZCfaUM2J7LOVnDOExfF"
@@ -7220,7 +7328,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 152666,
       "name": "Oublie-Moi",
       "url": "https://open.spotify.com/track/7rnsq8BtFBiuELlMWQGlKS"
@@ -7650,6 +7758,28 @@
       "duration_ms": 202653,
       "name": "petit escargot",
       "url": "https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C"
+    },
+    {
+      "album": {
+        "name": "Ph\u00e9nom\u00e8ne",
+        "url": "https://open.spotify.com/album/33dwEnfktJrytwlanY8e7X"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Ph\u00e9nom\u00e8ne",
+      "url": "https://open.spotify.com/track/4BZIRIwAL2maJYwxKZrZgY"
     },
     {
       "album": {
@@ -9672,7 +9802,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 258148,
       "name": "Temp\u00eate",
       "url": "https://open.spotify.com/track/1w4adoqWBcsxBxMFIoNVZ1"
@@ -9874,6 +10004,40 @@
       "duration_ms": 167683,
       "name": "tous les soirs",
       "url": "https://open.spotify.com/track/23Qo9cV7sOft2YqOuRqI2C"
+    },
+    {
+      "album": {
+        "name": "Tout est facile",
+        "url": "https://open.spotify.com/album/0IqkkvkolyF92zvcgfxXKY"
+      },
+      "artists": [
+        {
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+        },
+        {
+          "name": "Lesley",
+          "url": "https://open.spotify.com/artist/4iPGEsej2ak9iDheY1I0Tt"
+        },
+        {
+          "name": "RAPHA",
+          "url": "https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW"
+        },
+        {
+          "name": "Bruant",
+          "url": "https://open.spotify.com/artist/2EfwQcJnqlGwAUqasHlHSO"
+        },
+        {
+          "name": "G\u00e9n\u00e9ration D\u00e9brouille",
+          "url": "https://open.spotify.com/artist/4G6KO5j7IoMEM3A7Gk6g2s"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186550,
+      "name": "Tout est facile",
+      "url": "https://open.spotify.com/track/5XtgNLRh1K5kdiXQ4s5k3d"
     },
     {
       "album": {

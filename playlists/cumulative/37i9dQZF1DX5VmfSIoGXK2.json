@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-02-26",
-  "description": "the wonderful sounds of Jazz House, from Norway, Tennessee, Venezuela, Nigeria & beyond \ud83c\udf0e featuring Dublon",
+  "description": "the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond \ud83c\udf0e featuring Dublon",
   "name": "Jazz House",
   "tracks": [
     {
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 118292,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV"
@@ -2715,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "La Vie Est Belle",
+        "url": "https://open.spotify.com/album/42dYqvj37P4V7j0nd7Ky1E"
+      },
+      "artists": [
+        {
+          "name": "Plage Noir",
+          "url": "https://open.spotify.com/artist/0zem6irhkwDnPY7EN7OvMr"
+        },
+        {
+          "name": "ELLIBOI",
+          "url": "https://open.spotify.com/artist/1Qqgaa7f7RjQoy1mpJlfy8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154120,
+      "name": "La Vie Est Belle",
+      "url": "https://open.spotify.com/track/7L5izlZaAssDhE9pB8VHSz"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/0qXcnkrQb1VAkRSFCoNagG"
       },
@@ -3976,6 +3998,24 @@
       "duration_ms": 219000,
       "name": "peace",
       "url": "https://open.spotify.com/track/1zOA78sKxnosYcQtYR0ZDv"
+    },
+    {
+      "album": {
+        "name": "The Nervous Chill EP",
+        "url": "https://open.spotify.com/album/4L6YMfbdBfa5vly6pBFzAn"
+      },
+      "artists": [
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343728,
+      "name": "People",
+      "url": "https://open.spotify.com/track/1XI25aYhu4UpskUYYgQYzg"
     },
     {
       "album": {
@@ -5510,7 +5550,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 164000,
       "name": "What Is Jazz?",
       "url": "https://open.spotify.com/track/7xe0WBLvzLk51qwp1cFlMO"

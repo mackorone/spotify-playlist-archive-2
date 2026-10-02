@@ -4,7 +4,7 @@
 
 > Lo mejor de septiembre 2026\. Cover: ARIA VEGA
 
-1,639 songs - 3 day 14 hr 59 min
+1,640 songs - 3 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 | 2023-01-04 | 2023-03-08 |
 | [BLU](https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [BLU](https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5) | 2:28 | 2024-04-15 | 2024-05-02 |
 | [Body](https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 3:07 | 2026-05-29 | 2026-07-25 |
-| [Bombas de Amor](https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Bombas de Amor](https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM) | 2:42 | 2026-08-28 |  |
+| [Bombas de Amor](https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Bombas de Amor](https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM) | 2:42 | 2026-08-28 | 2026-10-02 |
 | [Bombón](https://open.spotify.com/track/6QcufVgK2QrevhJyFSBKil) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Bombón](https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g) | 2:40 | 2022-07-19 | 2022-08-23 |
 | [Bonita](https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Bonita](https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS) | 4:10 | 2022-08-22 | 2022-10-04 |
 | [Bonito](https://open.spotify.com/track/6D0oLnRc8CqyFv4AiZMMOG) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Bonito](https://open.spotify.com/album/0D4zEm1XB5OMiHClgor4Ba) | 3:38 | 2025-04-23 | 2025-08-07 |
@@ -1169,6 +1169,7 @@
 | [Persona Favorita](https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [HENRY](https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb) | 3:27 | 2024-11-25 | 2025-01-28 |
 | [Personal](https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Personal](https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB) | 3:24 | 2022-09-21 | 2022-11-08 |
 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 | 2023-07-21 | 2023-10-13 |
+| [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 | 2026-09-28 |  |
 | [Piedras a la Luna](https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:12 | 2025-09-05 | 2025-10-23 |
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-02-02 | 2024-04-06 |
 | [Piensa En Mi](https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Piensa En Mi](https://open.spotify.com/album/3QvltqphdmNGv93YoM310C) | 3:24 | 2023-09-08 | 2023-12-16 |

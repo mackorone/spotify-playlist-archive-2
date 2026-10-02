@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141802,
+  "num_followers": 141805,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Matcha Coco",
-        "url": "https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs"
-      },
-      "artists": [
-        {
-          "name": "Noano",
-          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 177758,
-      "name": "Matcha Coco",
-      "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "CARR\u00c9 OK",
         "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 160628,
       "name": "CARR\u00c9 OK",
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "Matcha Coco",
+        "url": "https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 177758,
+      "name": "Matcha Coco",
+      "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
+        "name": "Appel Mint Puur",
+        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 207430,
+      "name": "Appel Mint Puur",
+      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 146778,
       "name": "Festival",
       "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
-        "name": "Appel Mint Puur",
-        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 207430,
-      "name": "Appel Mint Puur",
-      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Don Julio Daddy",
-        "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 176518,
-      "name": "Don Julio Daddy",
-      "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "Strandje Aan De Maas",
         "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 206527,
       "name": "Stunten",
       "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "Don Julio Daddy",
+        "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Don Julio Daddy",
+      "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Stiekem \u201824",
-        "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 188956,
-      "name": "Stiekem \u201824",
-      "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "Dansvloerkiller",
         "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 175263,
       "name": "Stemgeluid",
       "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "Stiekem \u201824",
+        "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 188956,
+      "name": "Stiekem \u201824",
+      "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1711,18 +1711,22 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "PAPARAZZI",
-        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
+        "name": "Voorzichtig",
+        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
         }
       ],
-      "duration_ms": 147641,
-      "name": "PAPARAZZI",
-      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
+      "duration_ms": 143015,
+      "name": "Voorzichtig",
+      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1751,22 +1755,18 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Voorzichtig",
-        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
+        "name": "PAPARAZZI",
+        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
       },
       "artists": [
         {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 143015,
-      "name": "Voorzichtig",
-      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
+      "duration_ms": 147641,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
     },
     {
       "added_at": "2026-09-28 22:00:24",

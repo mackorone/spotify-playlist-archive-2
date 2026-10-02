@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Fabian
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,397 likes - 57 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,371 likes - 57 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,33 @@
 {
-  "description": "beautysleep_hyper_sleaze.electro_glitch_\u0295\u0321\u0322\u0321\u0298\u0305\u035f\u035c\u0361\u0298\u0332\u0305\u0294\u0322\u0321\u0322_[FINAL]_[REAL]__coverartist.janeremover",
-  "num_followers": 1370929,
+  "description": "algorave_\u02cb\u02cf\u2661\u02ce\u02ca\u02d7_hyper_sleaze.electro_glitch_\u2606\u25bd\u2606_\u23fb\u23fb\u23fb_w/meatcomputer_[FINAL]_[REAL]__coverartist.DJ_Dave",
+  "num_followers": 1370908,
   "original_name": "hyp3r.wav",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMNqP4ZU+URbR4UUDWyDh0AcEp9n",
+  "snapshot_id": "AAAAAOaXmqjkNtP1RLpac8O1biR7PUx5",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
+        "name": "Hardcore Software",
+        "url": "https://open.spotify.com/album/5OFEtLZrp06iFWsYRduwEp"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 144403,
+      "name": "Memory Leak",
+      "url": "https://open.spotify.com/track/5oQBc1KJRaewD58AkMXeNP"
+    },
     {
       "added_at": "2026-09-25 04:02:25",
       "album": {
@@ -73,24 +93,24 @@
       "url": "https://open.spotify.com/track/5sTUO2Ss8xNJc3t5LbcUCf"
     },
     {
-      "added_at": "2026-09-18 04:02:51",
+      "added_at": "2026-10-02 04:02:14",
       "album": {
-        "name": "2222222222222222 + Climbing",
-        "url": "https://open.spotify.com/album/3VuKG1Tcc41Ft0iLQzG6u2"
+        "name": "CSIRAC (Dylan Brady Remix)",
+        "url": "https://open.spotify.com/album/4aPDJrAGd2zVBC2vEVDvHD"
       },
       "artists": [
         {
-          "name": "Veronica Everheart",
-          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         },
         {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 119146,
-      "name": "2222222222222222 + Climbing",
-      "url": "https://open.spotify.com/track/1DbndbCRrMLxCwRWzUHZP8"
+      "duration_ms": 144920,
+      "name": "CSIRAC - Dylan Brady Remix",
+      "url": "https://open.spotify.com/track/0HlP3ZtuhEhTMYoEEQkuML"
     },
     {
       "added_at": "2026-05-08 04:02:18",
@@ -107,6 +127,22 @@
       "duration_ms": 169285,
       "name": "Ne Plus Ultra",
       "url": "https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6"
+    },
+    {
+      "added_at": "2026-09-18 04:02:51",
+      "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/6FkZGv2lzwqGtbSi6sqMLA"
+      },
+      "artists": [
+        {
+          "name": "Warpstr",
+          "url": "https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7iZrLKSMOE7K0KA5kt0HxU"
     },
     {
       "added_at": "2026-09-25 04:02:25",
@@ -127,18 +163,22 @@
     {
       "added_at": "2026-09-18 04:02:51",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/6FkZGv2lzwqGtbSi6sqMLA"
+        "name": "2222222222222222 + Climbing",
+        "url": "https://open.spotify.com/album/3VuKG1Tcc41Ft0iLQzG6u2"
       },
       "artists": [
         {
-          "name": "Warpstr",
-          "url": "https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc"
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        },
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
         }
       ],
-      "duration_ms": 133333,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7iZrLKSMOE7K0KA5kt0HxU"
+      "duration_ms": 119146,
+      "name": "2222222222222222 + Climbing",
+      "url": "https://open.spotify.com/track/1DbndbCRrMLxCwRWzUHZP8"
     },
     {
       "added_at": "2026-09-11 04:02:10",
@@ -155,26 +195,6 @@
       "duration_ms": 213537,
       "name": "I Do",
       "url": "https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX"
-    },
-    {
-      "added_at": "2026-08-28 04:02:32",
-      "album": {
-        "name": "iPod Touch (Madeon Remix)",
-        "url": "https://open.spotify.com/album/43tYbnCgnbu1MlJU51XNyS"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 214161,
-      "name": "iPod Touch - Madeon Remix",
-      "url": "https://open.spotify.com/track/2gRrj7LQZMTtUQv0gvhHpQ"
     },
     {
       "added_at": "2026-09-25 04:02:25",
@@ -195,6 +215,46 @@
       "duration_ms": 128214,
       "name": "Long Sardine (Flip)",
       "url": "https://open.spotify.com/track/3F0OuzOT2k6NJU65oFeeSs"
+    },
+    {
+      "added_at": "2026-08-14 04:02:06",
+      "album": {
+        "name": "EE-OO \u0295\u0321\u0322\u0321\u0298\u0305\u035f\u035c\u0361\u0298\u0332\u0305\u0294\u0322\u0321\u0322",
+        "url": "https://open.spotify.com/album/7rqFyCqT3DczGfy4Ib873J"
+      },
+      "artists": [
+        {
+          "name": "Rony Rex",
+          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
+        },
+        {
+          "name": "GOBLIN",
+          "url": "https://open.spotify.com/artist/6vfRizJ3fbwxBxyEzZoEfG"
+        }
+      ],
+      "duration_ms": 171149,
+      "name": "EE-OO \u0295\u0321\u0322\u0321\u0298\u0305\u035f\u035c\u0361\u0298\u0332\u0305\u0294\u0322\u0321\u0322",
+      "url": "https://open.spotify.com/track/24VY3Xl0EEaFTjk9Bugqf4"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
+        "name": "Dancing On Your Grave (MGNA Crrrta Remix)",
+        "url": "https://open.spotify.com/album/4zeXl7NS5OaNhWdb69wdJm"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "duration_ms": 191810,
+      "name": "Dancing On Your Grave - MGNA Crrrta Remix",
+      "url": "https://open.spotify.com/track/5cTMNYTcPBDJFxT1Zxy3NM"
     },
     {
       "added_at": "2026-09-11 04:02:10",
@@ -249,22 +309,6 @@
       "url": "https://open.spotify.com/track/28JTepgeSEGHe9OcvHFzAs"
     },
     {
-      "added_at": "2026-09-25 04:02:25",
-      "album": {
-        "name": "Blink2 / point&Click",
-        "url": "https://open.spotify.com/album/74kHpPv06WBQSa3w2Sgi6R"
-      },
-      "artists": [
-        {
-          "name": "kuru",
-          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "point&Click",
-      "url": "https://open.spotify.com/track/3d5ojMBV6OzGs5sHP58SH1"
-    },
-    {
       "added_at": "2026-09-18 04:02:51",
       "album": {
         "name": "c",
@@ -279,26 +323,6 @@
       "duration_ms": 192857,
       "name": "MISS BEHAVIOR",
       "url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
-    },
-    {
-      "added_at": "2026-08-14 04:02:06",
-      "album": {
-        "name": "EE-OO \u0295\u0321\u0322\u0321\u0298\u0305\u035f\u035c\u0361\u0298\u0332\u0305\u0294\u0322\u0321\u0322",
-        "url": "https://open.spotify.com/album/7rqFyCqT3DczGfy4Ib873J"
-      },
-      "artists": [
-        {
-          "name": "Rony Rex",
-          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
-        },
-        {
-          "name": "GOBLIN",
-          "url": "https://open.spotify.com/artist/6vfRizJ3fbwxBxyEzZoEfG"
-        }
-      ],
-      "duration_ms": 171149,
-      "name": "EE-OO \u0295\u0321\u0322\u0321\u0298\u0305\u035f\u035c\u0361\u0298\u0332\u0305\u0294\u0322\u0321\u0322",
-      "url": "https://open.spotify.com/track/24VY3Xl0EEaFTjk9Bugqf4"
     },
     {
       "added_at": "2026-09-25 04:02:25",
@@ -323,6 +347,26 @@
       "duration_ms": 171853,
       "name": "Purr",
       "url": "https://open.spotify.com/track/5R4EUIVhVy3XsQVZ5dYBHC"
+    },
+    {
+      "added_at": "2026-08-28 04:02:32",
+      "album": {
+        "name": "iPod Touch (Madeon Remix)",
+        "url": "https://open.spotify.com/album/43tYbnCgnbu1MlJU51XNyS"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 214161,
+      "name": "iPod Touch - Madeon Remix",
+      "url": "https://open.spotify.com/track/2gRrj7LQZMTtUQv0gvhHpQ"
     },
     {
       "added_at": "2026-09-11 04:02:10",
@@ -375,6 +419,22 @@
       "duration_ms": 195288,
       "name": "ANOTHER COUNTRY",
       "url": "https://open.spotify.com/track/2PV53WzeOqVQ2yJSiwERK8"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
+        "name": "B0YG1RL",
+        "url": "https://open.spotify.com/album/2lPdkaDRDeLDpzTEXi7iuj"
+      },
+      "artists": [
+        {
+          "name": "B0YG1RL",
+          "url": "https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "REALITY",
+      "url": "https://open.spotify.com/track/4VJ6UuQ0IvSbUCjh3JPt79"
     },
     {
       "added_at": "2026-09-02 00:45:54",
@@ -433,6 +493,38 @@
       "url": "https://open.spotify.com/track/0dCz6WW6XZ443XQJIhgQj5"
     },
     {
+      "added_at": "2026-08-14 04:02:06",
+      "album": {
+        "name": "Shame Song",
+        "url": "https://open.spotify.com/album/51nywrY4CgfxuEpHibNGo8"
+      },
+      "artists": [
+        {
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
+        }
+      ],
+      "duration_ms": 192194,
+      "name": "Shame Song",
+      "url": "https://open.spotify.com/track/7wFALSQ02JhhshdwtBt8mM"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/6mrILuEohuvBnmZsBzcQxY"
+      },
+      "artists": [
+        {
+          "name": "Sadder Days",
+          "url": "https://open.spotify.com/artist/09pCD0j6zTSon9okqgWkqE"
+        }
+      ],
+      "duration_ms": 138365,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/5XVRux1CMT7kU6gdzJdXdi"
+    },
+    {
       "added_at": "2026-09-18 04:02:51",
       "album": {
         "name": "VIOLENT & BRIGHT / True Love In Holland",
@@ -447,6 +539,22 @@
       "duration_ms": 153646,
       "name": "True Love In Holland",
       "url": "https://open.spotify.com/track/35p8yu9BsZ82qLWE3PcHs5"
+    },
+    {
+      "added_at": "2026-10-02 04:02:14",
+      "album": {
+        "name": "you bet",
+        "url": "https://open.spotify.com/album/3yATL4FpzuTkNoi84iNIXK"
+      },
+      "artists": [
+        {
+          "name": "lustr",
+          "url": "https://open.spotify.com/artist/58hki6fDZRnymwgCSwmwNY"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "you bet",
+      "url": "https://open.spotify.com/track/7FYH4NWEYzMI2rchSxKirF"
     },
     {
       "added_at": "2026-08-21 04:01:34",
@@ -797,26 +905,6 @@
       "url": "https://open.spotify.com/track/0Iv843yoJKRzslYIPlYTv2"
     },
     {
-      "added_at": "2026-08-28 04:02:32",
-      "album": {
-        "name": "closing day",
-        "url": "https://open.spotify.com/album/6A5HhjrEuaDOBVzQu7ZwD6"
-      },
-      "artists": [
-        {
-          "name": "lustr",
-          "url": "https://open.spotify.com/artist/58hki6fDZRnymwgCSwmwNY"
-        },
-        {
-          "name": "Babe Dylan",
-          "url": "https://open.spotify.com/artist/0xd16ai4mtpBCnoaAHCw1a"
-        }
-      ],
-      "duration_ms": 130646,
-      "name": "closing day",
-      "url": "https://open.spotify.com/track/1KLeZg9uoUd0PxCeJUOm6Q"
-    },
-    {
       "added_at": "2026-08-07 04:01:58",
       "album": {
         "name": "phantom parade",
@@ -831,22 +919,6 @@
       "duration_ms": 195611,
       "name": "phantom parade",
       "url": "https://open.spotify.com/track/3VWrQxM9uy8ZD3WaTe8xcA"
-    },
-    {
-      "added_at": "2026-08-21 04:01:34",
-      "album": {
-        "name": "Friction",
-        "url": "https://open.spotify.com/album/6koZk3ynAW6ld3Eqga7QBm"
-      },
-      "artists": [
-        {
-          "name": "HARLEY GIRL",
-          "url": "https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao"
-        }
-      ],
-      "duration_ms": 153159,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/0Gsa1ebyIITbwDHamhnpu2"
     },
     {
       "added_at": "2026-07-10 04:02:03",
@@ -1005,22 +1077,6 @@
       "url": "https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm"
     },
     {
-      "added_at": "2026-08-14 04:02:06",
-      "album": {
-        "name": "Shame Song",
-        "url": "https://open.spotify.com/album/51nywrY4CgfxuEpHibNGo8"
-      },
-      "artists": [
-        {
-          "name": "heffy",
-          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
-        }
-      ],
-      "duration_ms": 192194,
-      "name": "Shame Song",
-      "url": "https://open.spotify.com/track/7wFALSQ02JhhshdwtBt8mM"
-    },
-    {
       "added_at": "2026-05-22 04:01:26",
       "album": {
         "name": "lao shi",
@@ -1145,42 +1201,6 @@
       "url": "https://open.spotify.com/track/4uzkJXMs6PjmJ5wAQLzflw"
     },
     {
-      "added_at": "2026-05-27 23:19:11",
-      "album": {
-        "name": "There&Back",
-        "url": "https://open.spotify.com/album/7k0VBeOBiDzYDdATcSyzQ8"
-      },
-      "artists": [
-        {
-          "name": "The Twins",
-          "url": "https://open.spotify.com/artist/6vsNRwGyyXmphFE9Lu27qi"
-        }
-      ],
-      "duration_ms": 96716,
-      "name": "fam",
-      "url": "https://open.spotify.com/track/5y8xSKjXoBdQXmzUltf23U"
-    },
-    {
-      "added_at": "2026-05-08 04:02:18",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU"
-      },
-      "artists": [
-        {
-          "name": "Thaiboy Digital",
-          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
-        },
-        {
-          "name": "swedm\u00ae",
-          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw"
-    },
-    {
       "added_at": "2026-04-10 04:02:34",
       "album": {
         "name": "Bounce",
@@ -1227,22 +1247,6 @@
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "I Have To Get Hotter",
-        "url": "https://open.spotify.com/album/7EA0BJIxzjox8bBpMXSvqF"
-      },
-      "artists": [
-        {
-          "name": "The Femcels",
-          "url": "https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK"
-        }
-      ],
-      "duration_ms": 99327,
-      "name": "Indiest Girl At School",
-      "url": "https://open.spotify.com/track/1AchZDcnSaJIbjFPTUQOeI"
     }
   ],
   "unique_name": "hyp3r.wav",

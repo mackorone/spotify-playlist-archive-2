@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 298132,
       "name": "hav u a sec",
       "url": "https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6"
@@ -6812,6 +6812,28 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/4RAgkSkg9JplbrF3bGSB4o"
+      },
+      "artists": [
+        {
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        },
+        {
+          "name": "Shadow Child",
+          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/2igRYKCoC6FWq2JeGEo0WC"
     },
     {
       "album": {

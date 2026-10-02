@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 166894,
       "name": "arbuusisuvi",
       "url": "https://open.spotify.com/track/4tGHrJclfzJTrCE6cUJfEI"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 219365,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU"
@@ -9314,7 +9314,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 206164,
       "name": "Cleveland!",
       "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
@@ -22516,7 +22516,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 276687,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/43wgyQXc2M9KmTDUqVzugM"
@@ -35418,7 +35418,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 252306,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/5c7Mswm6Ueq0nKlgH3rTwQ"
@@ -51704,7 +51704,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -51722,7 +51722,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -52532,7 +52532,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ"
@@ -52650,7 +52650,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
@@ -52668,7 +52668,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -57988,6 +57988,24 @@
     {
       "album": {
         "name": "Vibin",
+        "url": "https://open.spotify.com/album/6LuZI1TvG7OX6hExmzWk4m"
+      },
+      "artists": [
+        {
+          "name": "Wxoda",
+          "url": "https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93187,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/1KEMvg71OUXItC1miw1uMF"
+    },
+    {
+      "album": {
+        "name": "Vibin",
         "url": "https://open.spotify.com/album/4Zehur09MZsUqTdVBgCwow"
       },
       "artists": [
@@ -58016,7 +58034,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 94615,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
@@ -58838,7 +58856,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 153703,
       "name": "WAIKUSE VALGE UDU",
       "url": "https://open.spotify.com/track/7LZFlYFtCNLAUlfHGhBZ26"

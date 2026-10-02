@@ -1,13 +1,33 @@
 {
-  "description": "Where R&B lives. Cover: Jhen\u00e9 Aiko",
-  "num_followers": 6016047,
+  "description": "Where R&B lives. Cover: Victoria Mon\u00e9t",
+  "num_followers": 6016415,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMR5L/1n6OyeV7zRHfcdpi3q4n+z",
+  "snapshot_id": "AAAAAEwp8QdyMehL5wWKe9BEjF+oSjD9",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:03:09",
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 158026,
+      "name": "See You In My Dreams (feat. SZA)",
+      "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
+    },
     {
       "added_at": "2026-09-11 04:01:22",
       "album": {
@@ -45,42 +65,6 @@
       "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 162514,
-      "name": "Sweet Nuthins (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A"
-    },
-    {
       "added_at": "2026-08-28 04:02:43",
       "album": {
         "name": "Icon (Director's Cut)",
@@ -113,6 +97,78 @@
       "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
+      "added_at": "2026-10-02 04:03:09",
+      "album": {
+        "name": "options",
+        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 212131,
+      "name": "options",
+      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 162514,
+      "name": "Sweet Nuthins (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 165558,
+      "name": "TABOO",
+      "url": "https://open.spotify.com/track/4vkXnpiy4sI4nNfb07TZR7"
+    },
+    {
       "added_at": "2026-08-28 04:02:43",
       "album": {
         "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
@@ -127,6 +183,54 @@
       "duration_ms": 159650,
       "name": "Some of Your Love",
       "url": "https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H"
+    },
+    {
+      "added_at": "2026-10-02 04:03:09",
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 194765,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/2yxBMqrQBMI5EDr9nGn4ZZ"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "He Belongs",
+      "url": "https://open.spotify.com/track/6jScFgIYIeBtgORD6sJ1CD"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "For A Good Time...",
+        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 228348,
+      "name": "After The Club",
+      "url": "https://open.spotify.com/track/5sy9yiJcr7XzxBMRdYeAcv"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -149,72 +253,76 @@
       "url": "https://open.spotify.com/track/0TvgV79xVI0t2022ABkxS4"
     },
     {
-      "added_at": "2026-09-11 04:01:22",
+      "added_at": "2026-08-28 04:02:43",
       "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 201133,
-      "name": "He Belongs",
-      "url": "https://open.spotify.com/track/6jScFgIYIeBtgORD6sJ1CD"
+      "duration_ms": 200000,
+      "name": "I can\u2019t be high around you anymore",
+      "url": "https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb"
     },
     {
       "added_at": "2026-08-28 04:02:43",
       "album": {
-        "name": "LVRS PARADISE (SIDE B)",
-        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 165558,
-      "name": "TABOO",
-      "url": "https://open.spotify.com/track/4vkXnpiy4sI4nNfb07TZR7"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "For A Good Time...",
-        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 228348,
-      "name": "After The Club",
-      "url": "https://open.spotify.com/track/5sy9yiJcr7XzxBMRdYeAcv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Fly U Out",
-        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Fly U Out",
-      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
+      "duration_ms": 144270,
+      "name": "Pressure (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 207085,
+      "name": "Alive (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4LMRZo0fJ9UcfvVqvsn6CY"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "Body So Tea",
+        "url": "https://open.spotify.com/album/2mG7Jq4OnkQdpmemAmtXAQ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 151951,
+      "name": "Body So Tea",
+      "url": "https://open.spotify.com/track/2V1ne5a2MBngWduIph5pqg"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -259,182 +367,6 @@
     {
       "added_at": "2026-08-28 04:02:43",
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 144270,
-      "name": "Pressure (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "THERAPY AT THE CLUB",
-        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I can\u2019t be high around you anymore",
-      "url": "https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 207085,
-      "name": "Alive (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4LMRZo0fJ9UcfvVqvsn6CY"
-    },
-    {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 207555,
-      "name": "Ceiling (Freestyle)",
-      "url": "https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM"
-    },
-    {
-      "added_at": "2026-09-04 04:02:24",
-      "album": {
-        "name": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 216247,
-      "name": "CAN I WATCH YOU (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "DADAMAN",
-      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "A*POP",
-        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 177217,
-      "name": "HOT TUBS",
-      "url": "https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Body So Tea",
-        "url": "https://open.spotify.com/album/2mG7Jq4OnkQdpmemAmtXAQ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 151951,
-      "name": "Body So Tea",
-      "url": "https://open.spotify.com/track/2V1ne5a2MBngWduIph5pqg"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 220986,
-      "name": "Let Me Cry",
-      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
         "name": "Love is the New Gangsta",
         "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
       },
@@ -451,26 +383,6 @@
       "duration_ms": 182173,
       "name": "On Me (with Odeal)",
       "url": "https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Before The World Blows",
-        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 442506,
-      "name": "Echos",
-      "url": "https://open.spotify.com/track/3dcWjxOpSeOkaXt8bECN8i"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -511,6 +423,162 @@
       "duration_ms": 174230,
       "name": "is it cool? (feat. SZA)",
       "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 177217,
+      "name": "HOT TUBS",
+      "url": "https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv"
+    },
+    {
+      "added_at": "2026-10-02 04:03:09",
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5QPXPPVW730RcBAlLXIQlF"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "DADAMAN",
+      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "Nowhere Fast",
+        "url": "https://open.spotify.com/album/0Had0RbdGN44yC2zoYXA8Z"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 176297,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "Waiting Room (feat. Jordan Ward)",
+        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 201854,
+      "name": "Waiting Room (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 207555,
+      "name": "Ceiling (Freestyle)",
+      "url": "https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 220986,
+      "name": "Let Me Cry",
+      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 442506,
+      "name": "Echos",
+      "url": "https://open.spotify.com/track/3dcWjxOpSeOkaXt8bECN8i"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -579,42 +647,6 @@
       "duration_ms": 191956,
       "name": "Trying Things",
       "url": "https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Nowhere Fast",
-        "url": "https://open.spotify.com/album/0Had0RbdGN44yC2zoYXA8Z"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 176297,
-      "name": "Nowhere Fast",
-      "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Waiting Room (feat. Jordan Ward)",
-        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        },
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 201854,
-      "name": "Waiting Room (feat. Jordan Ward)",
-      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
     },
     {
       "added_at": "2026-08-28 04:02:43",

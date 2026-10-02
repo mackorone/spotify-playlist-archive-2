@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 6096,
+  "num_followers": 6097,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADBQuCvDwxLKyODOYGou9QA",
+  "snapshot_id": "arxRAAAAAADY2oTdlDgCnx3bQuZ8siE+",
   "tracks": [
     {
       "added_at": null,
@@ -402,11 +402,15 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 227053,
-      "name": "A Tiempo",
-      "url": "https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q"
+      "duration_ms": 207946,
+      "name": "Pendejada feat. Mabiland",
+      "url": "https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry"
     },
     {
       "added_at": null,
@@ -474,15 +478,11 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 207946,
-      "name": "Pendejada feat. Mabiland",
-      "url": "https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry"
+      "duration_ms": 227053,
+      "name": "A Tiempo",
+      "url": "https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
+        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
+        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 217350,
-      "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
+      "duration_ms": 173962,
+      "name": "La \u00daltima Vez",
+      "url": "https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
-        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
       },
       "artists": [
         {
@@ -796,65 +796,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 173962,
-      "name": "La \u00daltima Vez",
-      "url": "https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
-        "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 170896,
-      "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
-      "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 177610,
-      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Primera Vez",
-        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
-      },
-      "artists": [
-        {
-          "name": "Opa!",
-          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 305898,
-      "name": "La Primera Vez",
-      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
+      "duration_ms": 217350,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
     },
     {
       "added_at": null,
@@ -891,6 +835,62 @@
       "duration_ms": 163295,
       "name": "\u00bfY C\u00f3mo Es \u00c9l? - (Sesi\u00f3n en vivo)",
       "url": "https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
+        "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 170896,
+      "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
+      "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
+      },
+      "artists": [
+        {
+          "name": "Opa!",
+          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 305898,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
     }
   ],
   "unique_name": "This Is Juliana",

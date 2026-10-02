@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! September ambassador: <a href="spotify:artist:60bPC311AlvVdIzqQZyeHo">jet van der steen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,463 likes - 56 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,462 likes - 56 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 14 | [Vang Je Mij](https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Vang Je Mij](https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL) | 3:39 |
 | 15 | [Jasmine](https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Jasmine](https://open.spotify.com/album/5v8BCqVyeuRbXHOpsLxhzl) | 3:17 |
 | 16 | [Bring Me Silence](https://open.spotify.com/track/67TydXvsDGZhxEmV3TOmRm) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Bring Me Silence](https://open.spotify.com/album/48dUmHLMg1vnYD9wwNAm8s) | 3:13 |
-| 17 | [Bad Gurl Summah](https://open.spotify.com/track/2gw2pqrywLSQQpNQBz2LZM) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Bad Gurl Summah](https://open.spotify.com/album/4q2qffBJ28tIOQwKDDfUK4) | 2:34 |
-| 18 | [Contactloos](https://open.spotify.com/track/45kAXiP2TF8jlyjLuit8pN) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Contactloos](https://open.spotify.com/album/0IDujmV9TeuiMCLHF6344g) | 2:47 |
-| 19 | [The Edge](https://open.spotify.com/track/0z57lL3TxrWUL2twvKiSgI) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [The Edge](https://open.spotify.com/album/2sStAGAPrMx3RROLDPU8Vz) | 2:33 |
+| 17 | [The Edge](https://open.spotify.com/track/0z57lL3TxrWUL2twvKiSgI) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [The Edge](https://open.spotify.com/album/2sStAGAPrMx3RROLDPU8Vz) | 2:33 |
+| 18 | [Bad Gurl Summah](https://open.spotify.com/track/2gw2pqrywLSQQpNQBz2LZM) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Bad Gurl Summah](https://open.spotify.com/album/4q2qffBJ28tIOQwKDDfUK4) | 2:34 |
+| 19 | [Contactloos](https://open.spotify.com/track/45kAXiP2TF8jlyjLuit8pN) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Contactloos](https://open.spotify.com/album/0IDujmV9TeuiMCLHF6344g) | 2:47 |
 | 20 | [Leave The Sun Behind](https://open.spotify.com/track/0W6oV7MeL0PWEymCdYJRvZ) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Leave The Sun Behind](https://open.spotify.com/album/6uBWqFmQLjfo7NLXTWEHk2) | 2:55 |
 | 21 | [Hoe Het Was \- Soundtrack Sugar](https://open.spotify.com/track/2bbHVpkJpKaOhWZC3Gc6gl) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Hoe Het Was \(Soundtrack Sugar\)](https://open.spotify.com/album/2TstwRNGkFEpozKUEmxscU) | 3:01 |
 | 22 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 25 | [Stoute schoenen](https://open.spotify.com/track/1M4LtvNTcns8K9tK4RjYWs) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Stoute schoenen](https://open.spotify.com/album/22GyytvsV4azUTmKLMi3bm) | 2:56 |
 | 26 | [1 Keer Jong](https://open.spotify.com/track/3zoJ0fxDe4sBaoscj2gTtO) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd) | [1 Keer Jong](https://open.spotify.com/album/5oEXATrAKnC3GIibVi6Bh9) | 2:20 |
 | 27 | [Prioriteiten](https://open.spotify.com/track/01hPYoieXsm1xb1s1038JK) | [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Prioriteiten](https://open.spotify.com/album/4x7Q7iigaDoNT2MmW7KBZj) | 2:59 |
-| 28 | [Witte Vlag](https://open.spotify.com/track/4MLkKngyX9JcwT2jLBa2UM) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Witte Vlag](https://open.spotify.com/album/6uNJDFBp2c2iYpSajs0GbR) | 2:53 |
-| 29 | [Oh Zo Hopeloos](https://open.spotify.com/track/2tA6LB7Cyh8Z4oI3LY6AnH) | [Renee Rose](https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI) | [Oh Zo Hopeloos](https://open.spotify.com/album/4UEP0PWLVj8kPoXcIrEOik) | 2:46 |
+| 28 | [Oh Zo Hopeloos](https://open.spotify.com/track/2tA6LB7Cyh8Z4oI3LY6AnH) | [Renee Rose](https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI) | [Oh Zo Hopeloos](https://open.spotify.com/album/4UEP0PWLVj8kPoXcIrEOik) | 2:46 |
+| 29 | [Witte Vlag](https://open.spotify.com/track/4MLkKngyX9JcwT2jLBa2UM) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Witte Vlag](https://open.spotify.com/album/6uNJDFBp2c2iYpSajs0GbR) | 2:53 |
 | 30 | [Wacht even](https://open.spotify.com/track/3Jiw4t9B8LoExE5jfzZD7G) | [Emma Annelie](https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX) | [Wacht even](https://open.spotify.com/album/1HhUBVgMCQo6dJuKMEt0ka) | 2:45 |
 | 31 | [Wandering Eye](https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Wandering Eye](https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w) | 2:31 |
 | 32 | [Rode Roos](https://open.spotify.com/track/6StRFDHRIeWPpbZoEcEwCk) | [Teddy Fee](https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc) | [Rode Roos](https://open.spotify.com/album/5cmmeEkArv1qaXxgEczNET) | 2:36 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 44 | [Sanguine](https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT) | [Doris Vosters](https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b) | [Sanguine](https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H) | 3:46 |
 | 45 | [Buy Me at a Store](https://open.spotify.com/track/7xJB4ubzKGpiKfVqYzy7sC) | [XXJULÍA](https://open.spotify.com/artist/00B42fUMqvYLmXc4H7Ciyi), [Ruby Mus](https://open.spotify.com/artist/4vrrj171i0T2GiOxopjLp5) | [Buy Me at a Store](https://open.spotify.com/album/0hK9R9efmalyI7zqinRd4n) | 2:50 |
 | 46 | [Stay](https://open.spotify.com/track/5xTsuY31OnjYSoc5oGzBjv) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Stay](https://open.spotify.com/album/2diPcf8av13aOOXwATVOpE) | 4:16 |
-| 47 | [Poco a Poco](https://open.spotify.com/track/4FOPqnLfIp4VkHWLNGEM4U) | [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Verano de Caracol](https://open.spotify.com/album/26SBFarv1SVOSf2w9dOBuG) | 3:07 |
-| 48 | [Karma](https://open.spotify.com/track/49VOOCH6rdgklu3x3qhPvJ) | [Chanou](https://open.spotify.com/artist/1wLOlcmOMs7q9HzLQkVlXT) | [Karma](https://open.spotify.com/album/22kXS0NHDMI7kyM0pREPkT) | 2:21 |
-| 49 | [Lover](https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Lover](https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd) | 2:44 |
+| 47 | [Lover](https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Lover](https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd) | 2:44 |
+| 48 | [Poco a Poco](https://open.spotify.com/track/4FOPqnLfIp4VkHWLNGEM4U) | [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Verano de Caracol](https://open.spotify.com/album/26SBFarv1SVOSf2w9dOBuG) | 3:07 |
+| 49 | [Karma](https://open.spotify.com/track/49VOOCH6rdgklu3x3qhPvJ) | [Chanou](https://open.spotify.com/artist/1wLOlcmOMs7q9HzLQkVlXT) | [Karma](https://open.spotify.com/album/22kXS0NHDMI7kyM0pREPkT) | 2:21 |
 | 50 | [o n d e r](https://open.spotify.com/track/2uBlspvX0wPeyKjK8271jN) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ) | [o n d e r](https://open.spotify.com/album/0gYYjT18MV5bDXlLQnpbrB) | 2:09 |
 | 51 | [Sober](https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM) | [Sam Nera](https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh) | [Sober](https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl) | 3:01 |
 | 52 | [Emotionally Unavailable](https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [Emotionally Unavailable](https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4) | 2:20 |

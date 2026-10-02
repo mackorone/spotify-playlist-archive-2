@@ -1,13 +1,29 @@
 {
-  "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: Liana Flores",
-  "num_followers": 187715,
+  "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: Mei Semones",
+  "num_followers": 187726,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtqfz5XtOJO4LYNzY1unXe/+V78",
+  "snapshot_id": "AAAAAFxtIyuBGbU4PE4fNekpIqLxSpz4",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:00:54",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
+    },
     {
       "added_at": "2026-08-21 04:01:37",
       "album": {
@@ -391,22 +407,6 @@
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
-    },
-    {
-      "added_at": "2026-08-21 04:01:37",
-      "album": {
-        "name": "Zarigani",
-        "url": "https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 273535,
-      "name": "Zarigani",
-      "url": "https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ"
     },
     {
       "added_at": "2026-08-21 04:01:37",

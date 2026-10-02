@@ -1,6 +1,6 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 1087436,
+  "num_followers": 1087650,
   "original_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 12",
-        "url": "https://open.spotify.com/album/64rRqNRtmidUNpKFJcNFEz"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 186749,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/7IRZ9aTBu35je2AHT2LxvL"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Twenty-Five Twenty-One OST Part 3",
         "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 214851,
       "name": "Very, Slowly",
       "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 12",
+        "url": "https://open.spotify.com/album/64rRqNRtmidUNpKFJcNFEz"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 186749,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/7IRZ9aTBu35je2AHT2LxvL"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 5",
-        "url": "https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut"
+        "name": "Hong Gil Dong OST",
+        "url": "https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 233939,
-      "name": "All with You",
-      "url": "https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM"
+      "duration_ms": 265613,
+      "name": "If",
+      "url": "https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Hong Gil Dong OST",
-        "url": "https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7"
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 5",
+        "url": "https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut"
       },
       "artists": [
         {
@@ -1036,25 +1036,9 @@
           "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 265613,
-      "name": "If",
-      "url": "https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/5fWzkB75o6HICDEDzWq5tf"
-      },
-      "artists": [
-        {
-          "name": "I.O.I",
-          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
-        }
-      ],
-      "duration_ms": 246772,
-      "name": "I Love You, I Remember You",
-      "url": "https://open.spotify.com/track/5nclYlcWMW9QgnBZU2apZh"
+      "duration_ms": 233939,
+      "name": "All with You",
+      "url": "https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1071,6 +1055,22 @@
       "duration_ms": 264000,
       "name": "Hyehwadong (or Sangmundong)",
       "url": "https://open.spotify.com/track/0OPtu3k4727xyRXVV5Yf6d"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/5fWzkB75o6HICDEDzWq5tf"
+      },
+      "artists": [
+        {
+          "name": "I.O.I",
+          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+        }
+      ],
+      "duration_ms": 246772,
+      "name": "I Love You, I Remember You",
+      "url": "https://open.spotify.com/track/5nclYlcWMW9QgnBZU2apZh"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC"
-      },
-      "artists": [
-        {
-          "name": "SAM KIM",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 201786,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Twenty-Five Twenty-One OST Part 5",
         "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 264538,
       "name": "I Love You Boy",
       "url": "https://open.spotify.com/track/5XXJnC5TvcL2QsAZ3Nxgku"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC"
+      },
+      "artists": [
+        {
+          "name": "SAM KIM",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 201786,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
-      },
-      "artists": [
-        {
-          "name": "CHO JUNG SEOK",
-          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "The Legend of The Blue Sea OST Part.1",
         "url": "https://open.spotify.com/album/3VArMvD885SqMxsHqyBfzD"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 204505,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/59Jq02jMj7gInyclQePYs8"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
+      },
+      "artists": [
+        {
+          "name": "CHO JUNG SEOK",
+          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Another Miss Oh, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 226715,
-      "name": "Just Like a Dream",
-      "url": "https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Descendants Of The Sun Pt.7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 254737,
       "name": "With You",
       "url": "https://open.spotify.com/track/2o2e7bYiUSJgUSFcxywNVV"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Another Miss Oh, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 226715,
+      "name": "Just Like a Dream",
+      "url": "https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
-      },
-      "artists": [
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "You're Cold",
-      "url": "https://open.spotify.com/track/5sVeJMHMfCWf2H6g66KQXz"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Healer (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0EQJ8RXISHsoZafV3PgUFv"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 256884,
       "name": "Eternal Love",
       "url": "https://open.spotify.com/track/0HIr8uSRGF14DHO1sckYx0"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "You're Cold",
+      "url": "https://open.spotify.com/track/5sVeJMHMfCWf2H6g66KQXz"
     },
     {
       "added_at": "2024-10-10 07:07:00",

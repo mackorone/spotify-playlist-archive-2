@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 3134,
+  "num_followers": 3135,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACvaeCef1RH4IdeAmyFu/tv",
+  "snapshot_id": "arxRAAAAAADVaS/TXOGsNugU6cRO+PHy",
   "tracks": [
     {
       "added_at": null,
@@ -363,38 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GoodNight",
-        "url": "https://open.spotify.com/album/0PNXBWW0CKIG9OjEzsAE83"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 145128,
-      "name": "GoodNight",
-      "url": "https://open.spotify.com/track/6TH07eiStWBXtn396kktlz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 213146,
-      "name": "Energy of Love",
-      "url": "https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 154293,
       "name": "Turn the Hands of Time",
       "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GoodNight",
+        "url": "https://open.spotify.com/album/0PNXBWW0CKIG9OjEzsAE83"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 145128,
+      "name": "GoodNight",
+      "url": "https://open.spotify.com/track/6TH07eiStWBXtn396kktlz"
     },
     {
       "added_at": null,
@@ -427,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 225027,
-      "name": "This Is My Love Song",
-      "url": "https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Energy of Love",
         "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
       },
@@ -452,9 +420,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 340866,
-      "name": "Everyone's a Star",
-      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
+      "duration_ms": 213146,
+      "name": "Energy of Love",
+      "url": "https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq"
     },
     {
       "added_at": null,
@@ -475,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 225027,
+      "name": "This Is My Love Song",
+      "url": "https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Save the Children",
         "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Everyone's a Star",
+      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Save the Children (Expanded Edition)",
         "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 206880,
       "name": "Traveling Home",
       "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 395093,
-      "name": "Rainy Days and Mondays",
-      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 395093,
+      "name": "Rainy Days and Mondays",
+      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I\u2019m Sold on You",
         "url": "https://open.spotify.com/album/2NcbspIsbWVrNmJBDaNlP5"
       },
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+        "name": "This is my song",
+        "url": "https://open.spotify.com/album/1WAQLZA5LNz5nHfLEbUanT"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 197026,
-      "name": "What's Easy for Two Is so Hard for One",
-      "url": "https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC"
+      "duration_ms": 180215,
+      "name": "This is my song",
+      "url": "https://open.spotify.com/track/1wzgrrdlW28uQAr5s5rCtV"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
       },
       "artists": [
         {
@@ -612,15 +612,15 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 134373,
-      "name": "You're My One & Only Baby",
-      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
+      "duration_ms": 197026,
+      "name": "What's Easy for Two Is so Hard for One",
+      "url": "https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "This is my song",
-        "url": "https://open.spotify.com/album/1WAQLZA5LNz5nHfLEbUanT"
+        "name": "I\u2019ve Got Love For You",
+        "url": "https://open.spotify.com/album/1FpqODUCOe2eFvRWjR6xur"
       },
       "artists": [
         {
@@ -628,9 +628,41 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 180215,
-      "name": "This is my song",
-      "url": "https://open.spotify.com/track/1wzgrrdlW28uQAr5s5rCtV"
+      "duration_ms": 136032,
+      "name": "I\u2019ve Got Love For You",
+      "url": "https://open.spotify.com/track/60ffDCaVzED9bU4aJseNb1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/1CVQxatqRY5So32JciECld"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 139726,
+      "name": "Just to Be",
+      "url": "https://open.spotify.com/track/0UzMNUO5s1YBIfeobxBN3R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 166126,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
     },
     {
       "added_at": null,
@@ -667,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/1CVQxatqRY5So32JciECld"
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
       "artists": [
         {
@@ -676,9 +708,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 139726,
-      "name": "Just to Be",
-      "url": "https://open.spotify.com/track/0UzMNUO5s1YBIfeobxBN3R"
+      "duration_ms": 134373,
+      "name": "You're My One & Only Baby",
+      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
     },
     {
       "added_at": null,
@@ -715,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019ve Got Love For You",
-        "url": "https://open.spotify.com/album/1FpqODUCOe2eFvRWjR6xur"
+        "name": "Old School Soul Masters",
+        "url": "https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh"
       },
       "artists": [
         {
@@ -724,9 +756,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 136032,
-      "name": "I\u2019ve Got Love For You",
-      "url": "https://open.spotify.com/track/60ffDCaVzED9bU4aJseNb1"
+      "duration_ms": 165280,
+      "name": "Jack Be Nimble",
+      "url": "https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1"
     },
     {
       "added_at": null,
@@ -756,25 +788,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 166126,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old School Soul Masters",
-        "url": "https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 165280,
-      "name": "Jack Be Nimble",
-      "url": "https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1"
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
     },
     {
       "added_at": null,
@@ -788,25 +804,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 180040,
-      "name": "BABY I\u2019M LONELY",
-      "url": "https://open.spotify.com/track/2mFlmTqAOvpbv3DAgKqNnE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "But You Belong to Me",
-      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
+      "duration_ms": 129146,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/2ChIzSUiDAn9D7nf6MyLOv"
     }
   ],
   "unique_name": "This Is The Intruders",

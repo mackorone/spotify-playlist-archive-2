@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBZja50leWm.md) - [plain]
 
 > Intha Deepavalikku Therikka Vidunga!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,718 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,713 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

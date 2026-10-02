@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Adult DVD",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Fat Dog",
   "name": "Rock The World",
   "tracks": [
     {
@@ -3381,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "Mr Charm",
+        "url": "https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230359,
+      "name": "Bad Luck Hideaway",
+      "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
+    },
+    {
+      "album": {
         "name": "Bad Moons",
         "url": "https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p"
       },
@@ -4354,7 +4372,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 229682,
       "name": "Big Strong Man",
       "url": "https://open.spotify.com/track/0dIqX63wlCNs47iwUOq0G3"
@@ -5740,6 +5758,24 @@
       "duration_ms": 248480,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/3ZA77nqxbNNRFeuif1msHO"
+    },
+    {
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238106,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L"
     },
     {
       "album": {
@@ -9016,7 +9052,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194597,
       "name": "CUT_it",
       "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
@@ -12989,6 +13025,24 @@
     },
     {
       "album": {
+        "name": "Falling Leaves",
+        "url": "https://open.spotify.com/album/5V9kcxM6RxfyeLqNnsbs42"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228650,
+      "name": "Falling Leaves",
+      "url": "https://open.spotify.com/track/4XKGr6TLphQxIsoeDRdBYU"
+    },
+    {
+      "album": {
         "name": "Falling out of Love",
         "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
       },
@@ -13350,7 +13404,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 172125,
       "name": "fever dream",
       "url": "https://open.spotify.com/track/0RkGXPK7gU68W5buwhag6Y"
@@ -14362,7 +14416,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 191200,
       "name": "G.I.A.I.G",
       "url": "https://open.spotify.com/track/3pTfr1Pjz2pzzNNn5cp2J1"
@@ -15428,7 +15482,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 287316,
       "name": "GOLDEN GOAL",
       "url": "https://open.spotify.com/track/00lusA3uBfYQGxzfGrpFZ2"
@@ -16393,6 +16447,24 @@
     },
     {
       "album": {
+        "name": "Heart of Darkness",
+        "url": "https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206910,
+      "name": "Heart of Darkness",
+      "url": "https://open.spotify.com/track/24zbHhoxY7EKcijv98EWL7"
+    },
+    {
+      "album": {
         "name": "TANZNEID",
         "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q"
       },
@@ -16560,6 +16632,28 @@
       "duration_ms": 219932,
       "name": "Hello (feat. KennyHoopla)",
       "url": "https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk"
+    },
+    {
+      "album": {
+        "name": "Hello (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205212,
+      "name": "Hello - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi"
     },
     {
       "album": {
@@ -17199,6 +17293,24 @@
     },
     {
       "album": {
+        "name": "Monarch",
+        "url": "https://open.spotify.com/album/5h4gaqJQWxTUgVNSb7gqwU"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217534,
+      "name": "Hollywood On Fire",
+      "url": "https://open.spotify.com/track/6Fx93FeykhviDh2kF0kY4r"
+    },
+    {
+      "album": {
         "name": "Holy, Holy",
         "url": "https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V"
       },
@@ -17329,6 +17441,24 @@
     },
     {
       "album": {
+        "name": "Final Thoughts?",
+        "url": "https://open.spotify.com/album/4fIrEM7fnVPavfsicbdsbr"
+      },
+      "artists": [
+        {
+          "name": "You Break, You Buy",
+          "url": "https://open.spotify.com/artist/2CKAxAFyc0C1BMTxYE1QUq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "Honesty, Darling",
+      "url": "https://open.spotify.com/track/0dIXojFTdmoiYbp4TvKBZE"
+    },
+    {
+      "album": {
         "name": "HONEY (ARE U COMING?)",
         "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
       },
@@ -17448,7 +17578,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 267588,
       "name": "Hound",
       "url": "https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6"
@@ -17560,7 +17690,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 196972,
       "name": "HUMAN AGAIN",
       "url": "https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY"
@@ -17731,6 +17861,24 @@
     },
     {
       "album": {
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/41IH84UYCnyaH90efEom2S"
+      },
+      "artists": [
+        {
+          "name": "Heathers",
+          "url": "https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153779,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/4edmBZ5KvOETrP0OsAw8nS"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -17786,6 +17934,24 @@
       "duration_ms": 186882,
       "name": "I disappear",
       "url": "https://open.spotify.com/track/54hmneLqgiUgLwni4yH9zK"
+    },
+    {
+      "album": {
+        "name": "Va Va Voom",
+        "url": "https://open.spotify.com/album/2vgsOwnFTQyJRbLLnt3xEJ"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5w0RPpt5MYEx931T1JzkpH"
     },
     {
       "album": {
@@ -20466,7 +20632,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 205202,
       "name": "Katy Bar the Door",
       "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
@@ -22351,6 +22517,24 @@
     },
     {
       "album": {
+        "name": "Proceed With Caution",
+        "url": "https://open.spotify.com/album/468Onsk0BAN3KorH6PrBfR"
+      },
+      "artists": [
+        {
+          "name": "The Paradox",
+          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153694,
+      "name": "Living Hell",
+      "url": "https://open.spotify.com/track/48c7OG5qnI46q1GkspLrXv"
+    },
+    {
+      "album": {
         "name": "Forever (Legendary Edition)",
         "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
       },
@@ -22706,6 +22890,24 @@
       "duration_ms": 223269,
       "name": "Loser Kid 2.0",
       "url": "https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV"
+    },
+    {
+      "album": {
+        "name": "Loser's Prize",
+        "url": "https://open.spotify.com/album/6fqTyj0rpCM3oUd7IafzZl"
+      },
+      "artists": [
+        {
+          "name": "Greg Freeman",
+          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282919,
+      "name": "Loser's Prize",
+      "url": "https://open.spotify.com/track/4D0rf55hqEL8PjxHJuDCo2"
     },
     {
       "album": {
@@ -23297,6 +23499,42 @@
     },
     {
       "album": {
+        "name": "Lucky Clover",
+        "url": "https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6"
+      },
+      "artists": [
+        {
+          "name": "Whisper Doll",
+          "url": "https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Lucky Clover",
+      "url": "https://open.spotify.com/track/6GevokAd21692eviYc1O0I"
+    },
+    {
+      "album": {
+        "name": "Pursuit of Anything",
+        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Lucky, Forever",
+      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
+    },
+    {
+      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD"
       },
@@ -23506,7 +23744,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 252209,
       "name": "Makes No Difference",
       "url": "https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy"
@@ -23874,6 +24112,24 @@
       "duration_ms": 224306,
       "name": "meaning",
       "url": "https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL"
+    },
+    {
+      "album": {
+        "name": "Measuring Cup",
+        "url": "https://open.spotify.com/album/3g9mAIsoPSq3zoYsbXB8Zg"
+      },
+      "artists": [
+        {
+          "name": "Delivery",
+          "url": "https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201455,
+      "name": "Measuring Cup",
+      "url": "https://open.spotify.com/track/3FofSe2OagYmG6tN7BrcWr"
     },
     {
       "album": {
@@ -24358,7 +24614,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 185787,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
@@ -24506,7 +24762,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 282726,
       "name": "Modern Life Is Lonely",
       "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
@@ -25018,7 +25274,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 241454,
       "name": "Mt. Whateverest",
       "url": "https://open.spotify.com/track/0ea3Hxi24z3KGVj1QSuQKm"
@@ -30536,7 +30792,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 317000,
       "name": "Remaining",
       "url": "https://open.spotify.com/track/33ELi9WmNVCWwkrSNby6dz"
@@ -30922,6 +31178,24 @@
       "duration_ms": 182696,
       "name": "Rise Up Singing",
       "url": "https://open.spotify.com/track/3VZXbrdQnGkt9gUwosnKM0"
+    },
+    {
+      "album": {
+        "name": "Roar Of The Heliac Goat",
+        "url": "https://open.spotify.com/album/58bNzzNI4WXtLym3d8Nup5"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276213,
+      "name": "Roar Of The Heliac Goat",
+      "url": "https://open.spotify.com/track/4hjBehyyL8JPQJ0LiYOHnl"
     },
     {
       "album": {
@@ -35352,7 +35626,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 161693,
       "name": "SUMMER TOUR",
       "url": "https://open.spotify.com/track/4FKcbtYVlsYN9ETpDI0KJL"
@@ -37138,7 +37412,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 201992,
       "name": "The Hardest Thing",
       "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
@@ -38523,6 +38797,24 @@
     },
     {
       "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
       },
@@ -38812,7 +39104,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 191146,
       "name": "Transgressions - feat. Rol3ert",
       "url": "https://open.spotify.com/track/6ReWKgFx1yyQMDumJgHcm4"
@@ -38852,6 +39144,24 @@
       "duration_ms": 175157,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C"
+    },
+    {
+      "album": {
+        "name": "Trillions",
+        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180964,
+      "name": "Trillions",
+      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
     },
     {
       "album": {
@@ -39284,7 +39594,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 207466,
       "name": "Under",
       "url": "https://open.spotify.com/track/0lvRPZvTJn7DHS8arrcdUr"
@@ -41388,6 +41698,28 @@
       "duration_ms": 155400,
       "name": "Why Do I",
       "url": "https://open.spotify.com/track/6GXYIAAmG2r4n2dTMMikPA"
+    },
+    {
+      "album": {
+        "name": "Friends That I Don't Like",
+        "url": "https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Why Don\u2019t You Say So (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/0JTvM3WnB7C2X8LxOcnCS5"
     },
     {
       "album": {

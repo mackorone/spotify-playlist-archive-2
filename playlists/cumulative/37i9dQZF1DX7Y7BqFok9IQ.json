@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174000,
       "name": "Evil Is a Corporation",
       "url": "https://open.spotify.com/track/1blW8N8bhFYbgurRHB9EnG"
@@ -4330,6 +4330,24 @@
       "duration_ms": 251911,
       "name": "Manic Depression",
       "url": "https://open.spotify.com/track/6d1P9nP8GD8lHp5510nOwQ"
+    },
+    {
+      "album": {
+        "name": "Marionettes",
+        "url": "https://open.spotify.com/album/6LViE5sdqQnq4ocCJj00v3"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Marionettes",
+      "url": "https://open.spotify.com/track/4GoXbQggOnKCl4KLUh1aPv"
     },
     {
       "album": {

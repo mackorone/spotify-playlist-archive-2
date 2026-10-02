@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081 likes - 195 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 195 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 41 | [Asfalto](https://open.spotify.com/track/0h6zzKCpqIQwCetFJWhd8f) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:45 |
 | 42 | [Senza te](https://open.spotify.com/track/5MMwVqWiDhOkiFEgLOOZXw) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [20:05](https://open.spotify.com/album/03OohCVFo6mv6g1oj5pW8D) | 3:15 |
 | 43 | [Nulla di stupefacente](https://open.spotify.com/track/6StTn7TmydEEw4co0QFei5) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:40 |
-| 44 | [ok </3](https://open.spotify.com/track/4QVg13i3IxcOUPWhHqJjQs) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/6XT6OHNAoDq1ECjYtIVeQK) | 3:24 |
-| 45 | [pupille](https://open.spotify.com/track/6MgC13CJNquIg6ptAhk6QF) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 2:49 |
+| 44 | [pupille](https://open.spotify.com/track/6MgC13CJNquIg6ptAhk6QF) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 2:49 |
+| 45 | [ok </3](https://open.spotify.com/track/4QVg13i3IxcOUPWhHqJjQs) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/6XT6OHNAoDq1ECjYtIVeQK) | 3:24 |
 | 46 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 |
 | 47 | [Spacca](https://open.spotify.com/track/0L1VR8gxF69DYpwV2CLtNY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/25xh26FmCXPFgnCXLvTS5Q) | 2:41 |
 | 48 | [Maremoto](https://open.spotify.com/track/7FGx98tYHKGabYTTf5rMjd) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ), [See Maw](https://open.spotify.com/artist/6EpzsiQuQ3dJas4vA6drGQ) | [Maremoto](https://open.spotify.com/album/5qiLpQpRR0eF2fkV3qTJP4) | 2:49 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 194 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 | 195 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 
-Snapshot ID: `AcduUAAAAAAl88Ne/bdDr8CtzUJgaTQJ`
+Snapshot ID: `Acdz+gAAAAAEVh2o5nR2IBu9obJnEQq2`

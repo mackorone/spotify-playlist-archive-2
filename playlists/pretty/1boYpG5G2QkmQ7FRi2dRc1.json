@@ -1,13 +1,29 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 272757,
+  "num_followers": 272753,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIveLrmS+FQUES2PKYpTS/YdnYVtMa",
+  "snapshot_id": "AAAIvpr+sKrlBWhzYlSLJoiG2FAig6EO",
   "tracks": [
+    {
+      "added_at": "2026-10-01 22:34:35",
+      "album": {
+        "name": "This Dream of You",
+        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 286406,
+      "name": "This Dream of You",
+      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
+    },
     {
       "added_at": "2026-09-19 07:05:03",
       "album": {

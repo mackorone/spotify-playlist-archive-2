@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 385767,
+  "num_followers": 385792,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAAAEK1m8AVR2hBFPoHvUqI8",
+  "snapshot_id": "arxRAAAAAAA3wn1Zi+xhIPEk9HcTPgna",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 149052,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/5i2u1LN3LOhhKyd5nBKBK0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Nada M\u00e1s",
         "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 169640,
       "name": "Una Nada M\u00e1s",
       "url": "https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/5i2u1LN3LOhhKyd5nBKBK0"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 162981,
-      "name": "A\u00f1o Sab\u00e1tico",
-      "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
+      "duration_ms": 123970,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj"
     },
     {
       "added_at": null,
@@ -358,11 +358,15 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 180372,
-      "name": "Ojo X Ojo",
-      "url": "https://open.spotify.com/track/3OGOwjwdae1OulCD4DK1ic"
+      "duration_ms": 180196,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/4WjDltdgowln78iPoiolIQ"
     },
     {
       "added_at": null,
@@ -392,9 +396,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 123970,
-      "name": "Good Boy",
-      "url": "https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj"
+      "duration_ms": 162981,
+      "name": "A\u00f1o Sab\u00e1tico",
+      "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
     },
     {
       "added_at": null,
@@ -422,15 +426,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 180196,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/4WjDltdgowln78iPoiolIQ"
+      "duration_ms": 180372,
+      "name": "Ojo X Ojo",
+      "url": "https://open.spotify.com/track/3OGOwjwdae1OulCD4DK1ic"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 141631,
+      "name": "Tu Peor Pesadilla",
+      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HEROINA",
         "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 166181,
       "name": "Stripper",
       "url": "https://open.spotify.com/track/5QKrFTauGFgmrj4HQzOszg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 141631,
-      "name": "Tu Peor Pesadilla",
-      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Dirty Harry, Hoodie No",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trouf & Bloody Hawk",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -2191,6 +2191,28 @@
     },
     {
       "album": {
+        "name": "COUP DE GRACE",
+        "url": "https://open.spotify.com/album/6HA9Yo62lAQv2r52IbFzGX"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163831,
+      "name": "BACK",
+      "url": "https://open.spotify.com/track/2Pfy1OZP2yuCTzkKAxSbeS"
+    },
+    {
+      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/7oLxV1HLIyM3qWxMrVq8J0"
       },
@@ -3670,6 +3692,28 @@
       "duration_ms": 130384,
       "name": "CHECKS",
       "url": "https://open.spotify.com/track/3SScDeSOibZKagVI11nTgX"
+    },
+    {
+      "album": {
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/1lfcc6sHNKClPaoENaLf3J"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "Icelee",
+          "url": "https://open.spotify.com/artist/2zj3FEs4NYe6Ij6hZsQ05F"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/41XtiTLmGdK3XHmHLD85Va"
     },
     {
       "album": {
@@ -7684,7 +7728,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 164307,
       "name": "HENNY",
       "url": "https://open.spotify.com/track/3dxdL00ifuoBZLvslo0uMV"
@@ -9372,7 +9416,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 138367,
       "name": "Kserw Ti Thes",
       "url": "https://open.spotify.com/track/3E3RX4svoMJfcZtHJ7qVxN"
@@ -10112,7 +10156,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 131650,
       "name": "MAKITA",
       "url": "https://open.spotify.com/track/69T1duhGhscbdhZHN0hQ6P"
@@ -13430,6 +13474,28 @@
       "duration_ms": 165288,
       "name": "PARE DOSE",
       "url": "https://open.spotify.com/track/3gTqUQql07sL6Eutx82ZQV"
+    },
+    {
+      "album": {
+        "name": "6 Efkeries",
+        "url": "https://open.spotify.com/album/1FP1b4TXGHa7MbpTPCGhB9"
+      },
+      "artists": [
+        {
+          "name": "Trouf",
+          "url": "https://open.spotify.com/artist/6tL1w9Zf5V0l3VBiYjxtZl"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204688,
+      "name": "PARE ME STO ONEIRO",
+      "url": "https://open.spotify.com/track/6Sk2IaIh3sgh68Pck8yeJq"
     },
     {
       "album": {

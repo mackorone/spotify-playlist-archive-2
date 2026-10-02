@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Wilson A.
 
-392 songs - 21 hr 11 min
+393 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Oh Baby Please](https://open.spotify.com/track/6SZlairyNEuEv03oZRdwu6) | [Laplander](https://open.spotify.com/artist/4zjkhcJpqrtUWrY71xZvk0) | [Oh Baby Please](https://open.spotify.com/album/5N5UWwnk0a1Dd6I1XpMEom) | 3:34 | 2025-05-07 | 2026-05-12 |
 | [okaydokay\_](https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU) | [Magazines](https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz) | [okaydokay\_](https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX) | 2:40 | 2026-05-11 |  |
 | [Old Town](https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2) | [Dreamer](https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk) | [All Is Me](https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR) | 3:14 | 2024-09-16 | 2025-05-08 |
+| [On My Knees](https://open.spotify.com/track/3e2twnhSbs5byesWdjlMhQ) | [RubinCarter](https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn) | [On My Knees](https://open.spotify.com/album/5IkCkFiquAxnVP3o44MdbY) | 3:18 | 2026-10-01 |  |
 | [On This Lonely Day](https://open.spotify.com/track/7eRs4FhnZzRx7rmSLRhUUZ) | [REZA](https://open.spotify.com/artist/0wjlCODq8kQfXBfHMGw8nh) | [On This Lonely Day](https://open.spotify.com/album/3isk75FHFtqwnh1Of3XIh5) | 3:19 | 2026-05-11 |  |
 | [On Top/Inside](https://open.spotify.com/track/3aZDSOAQF5AxU7Vx9QjoW2) | [Vampire Boyfriend](https://open.spotify.com/artist/0vRyNBqxpHa4QQXBndRHH1) | [On Top/Inside](https://open.spotify.com/album/140tThebpUHkI9UsQsTCFz) | 3:14 | 2025-09-04 | 2026-05-12 |
 | [one heart](https://open.spotify.com/track/6Tda6aFGbjaTUNk0MQ5mNk) | [RÊVERIE](https://open.spotify.com/artist/1U5XdE0McaAPAu1zA2AC1T) | [one heart](https://open.spotify.com/album/7KOy9BR0vPciTtbiWvx1M9) | 2:02 | 2024-07-01 | 2025-05-08 |

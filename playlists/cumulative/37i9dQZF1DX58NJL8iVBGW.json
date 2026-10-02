@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 135000,
       "name": "Dig",
       "url": "https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs"
@@ -2687,6 +2687,32 @@
     },
     {
       "album": {
+        "name": "Little Dove",
+        "url": "https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke"
+      },
+      "artists": [
+        {
+          "name": "Lacy Green",
+          "url": "https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL"
+        },
+        {
+          "name": "Adam Wright",
+          "url": "https://open.spotify.com/artist/22rPdPcY0bEc2E0TgD70bc"
+        },
+        {
+          "name": "Thomm Jutz",
+          "url": "https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228176,
+      "name": "Little Dove",
+      "url": "https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL"
+    },
+    {
+      "album": {
         "name": "Little Wing",
         "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
@@ -2716,7 +2742,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 208170,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb"
@@ -3794,6 +3820,24 @@
       "duration_ms": 192480,
       "name": "Sleeping on the Blacktop",
       "url": "https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV"
+    },
+    {
+      "album": {
+        "name": "Sling and Stone",
+        "url": "https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk"
+      },
+      "artists": [
+        {
+          "name": "Jess Woodland",
+          "url": "https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194982,
+      "name": "Sling and Stone",
+      "url": "https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5989,
+  "num_followers": 5993,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABDn6L8quDngMvWZTAz9riu",
+  "snapshot_id": "arxRAAAAAADQKFq//Djqz9TO47FyetvV",
   "tracks": [
     {
       "added_at": null,
@@ -368,13 +368,17 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         },
         {
+          "name": "Eugene Bowen",
+          "url": "https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh"
+        },
+        {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Among Fields Of Crystal - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
+      "duration_ms": 89813,
+      "name": "Steal Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
     },
     {
       "added_at": null,
@@ -448,17 +452,29 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         },
         {
-          "name": "Eugene Bowen",
-          "url": "https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh"
-        },
-        {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 89813,
-      "name": "Steal Away - Remastered 2004",
-      "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
+      "duration_ms": 204680,
+      "name": "Among Fields Of Crystal - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 77613,
+      "name": "Faraon - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5MGYcaAg4dci4djv6VfPL1"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
       "duration_ms": 293626,
       "name": "Don't Go Where I Can't Find You",
       "url": "https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 77613,
-      "name": "Faraon - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5MGYcaAg4dci4djv6VfPL1"
     },
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before the Day Breaks",
-        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
       },
       "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 265453,
-      "name": "Outside, Silence",
-      "url": "https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9"
+      "duration_ms": 859600,
+      "name": "Rosetti Noise/Chrystal Garden And A Coda",
+      "url": "https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pavilion Of Dreams",
-        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
       },
       "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 859600,
-      "name": "Rosetti Noise/Chrystal Garden And A Coda",
-      "url": "https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF"
+      "duration_ms": 265453,
+      "name": "Outside, Silence",
+      "url": "https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9"
     },
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+        "name": "Jane 12-21",
+        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
       },
       "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 231480,
-      "name": "Deva C",
-      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
+      "duration_ms": 204960,
+      "name": "Jane 16 (For Pale Saints)",
+      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
     },
     {
       "added_at": null,
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane 12-21",
-        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
       },
       "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 204960,
-      "name": "Jane 16 (For Pale Saints)",
-      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+      "duration_ms": 231480,
+      "name": "Deva C",
+      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
       "duration_ms": 216706,
       "name": "A Child In A Sylvan Field",
       "url": "https://open.spotify.com/track/1G3j8I8FUIG3TeQ7edEvCA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "Gaze",
-      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
     },
     {
       "added_at": null,
@@ -875,6 +855,42 @@
       "duration_ms": 100106,
       "name": "Momentary Architecture",
       "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "The White Arcades",
+      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
     },
     {
       "added_at": null,
@@ -927,26 +943,6 @@
       "duration_ms": 334266,
       "name": "Sandtreader",
       "url": "https://open.spotify.com/track/3FJoVDx4afHl2IE9FGn0zJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "How Distant Your Heart",
-      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
     }
   ],
   "unique_name": "This Is Harold Budd",

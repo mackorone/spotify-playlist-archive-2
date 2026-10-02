@@ -4,7 +4,7 @@
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 33 min
+61 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 | 2024-01-10 |  |
 | [The Things I Do For Love](https://open.spotify.com/track/4WHGwyIMlHJeJggdfKb6XF) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/3dmgdqxyBmZL6vN1PpYSMn) | 2:40 | 2025-03-14 |  |
 | [The Things I Do For Love](https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp) | 2:40 | 2024-01-11 | 2025-03-14 |
-| [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q) | 2:03 | 2025-03-02 |  |
+| [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q) | 2:03 | 2025-03-02 | 2026-10-02 |
+| [Trillion$ \(feat\. Bludnymph\)](https://open.spotify.com/track/5rqfWwOFBERp4uK0OzGq3a) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Malibu Drift](https://open.spotify.com/album/7pwucSLMR3Er8o8b7NuOyx) | 2:03 | 2026-10-02 |  |
 | [Watch Me](https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X) | 2:17 | 2025-03-13 |  |
 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 | 2024-01-10 | 2025-03-13 |
 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 | 2024-12-18 |  |

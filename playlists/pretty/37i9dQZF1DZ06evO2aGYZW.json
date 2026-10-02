@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 209390,
+  "num_followers": 209445,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACWEb4uxLuQwtmvp32jbf3Q",
+  "snapshot_id": "arxRAAAAAADcqoEOu0U9fCe/7qjhos2a",
   "tracks": [
     {
       "added_at": null,
@@ -487,46 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Eric Nally",
-          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Ain't Gonna Die Tonight (feat. Eric Nally)",
-      "url": "https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEN",
-        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Windser",
-          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
-        }
-      ],
-      "duration_ms": 180902,
-      "name": "MANIAC (feat. Windser)",
-      "url": "https://open.spotify.com/track/06ncaphlb6ccM7tdUgGhW4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -555,6 +515,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEN",
+        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "duration_ms": 180902,
+      "name": "MANIAC (feat. Windser)",
+      "url": "https://open.spotify.com/track/06ncaphlb6ccM7tdUgGhW4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Eric Nally",
+          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Ain't Gonna Die Tonight (feat. Eric Nally)",
+      "url": "https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Don't Belong In This Club",
         "url": "https://open.spotify.com/album/3pEIf94XjPRgUDyIKOmIBE"
       },
@@ -571,42 +571,6 @@
       "duration_ms": 222620,
       "name": "I Don't Belong In This Club",
       "url": "https://open.spotify.com/track/4Yo1ZTT9D7gUqyzgpVKkhQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shadow (feat. IRO) [From Songland]",
-        "url": "https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
-        }
-      ],
-      "duration_ms": 177965,
-      "name": "Shadow (feat. IRO) - From Songland",
-      "url": "https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEN",
-        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "1984",
-      "url": "https://open.spotify.com/track/3qlcuL2Bse822wDSXmg1YE"
     },
     {
       "added_at": null,
@@ -639,6 +603,42 @@
       "duration_ms": 229680,
       "name": "Dance Off (feat. Idris Elba & Anderson .Paak)",
       "url": "https://open.spotify.com/track/7pDxNYVQLKzrbkCe8OCag3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEN",
+        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/3qlcuL2Bse822wDSXmg1YE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow (feat. IRO) [From Songland]",
+        "url": "https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "duration_ms": 177965,
+      "name": "Shadow (feat. IRO) - From Songland",
+      "url": "https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB"
     },
     {
       "added_at": null,
@@ -1031,46 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FDT (Pt. 2)",
-        "url": "https://open.spotify.com/album/7It7smBGs7Ie1KS2iYtKP5"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "FDT - Pt. 2",
-      "url": "https://open.spotify.com/track/6ZcCLhMqQEZEzsDhhS767O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Unplanned Mixtape",
-        "url": "https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/7nCYx2tac5Jl4GUhbleKNI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rio (feat. Macklemore & Digital Farm Animals) [Remix]",
         "url": "https://open.spotify.com/album/6hoaFK2OO9qH9qf4KM8h4Z"
       },
@@ -1091,6 +1051,46 @@
       "duration_ms": 205317,
       "name": "Rio (feat. Macklemore & Digital Farm Animals) - Remix",
       "url": "https://open.spotify.com/track/1v2Ad22YIDj43KALniUMA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unplanned Mixtape",
+        "url": "https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/7nCYx2tac5Jl4GUhbleKNI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FDT (Pt. 2)",
+        "url": "https://open.spotify.com/album/7It7smBGs7Ie1KS2iYtKP5"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "FDT - Pt. 2",
+      "url": "https://open.spotify.com/track/6ZcCLhMqQEZEzsDhhS767O"
     },
     {
       "added_at": null,

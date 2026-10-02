@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-9,436 songs - 21 day 19 hr 12 min
+9,439 songs - 21 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1468,6 +1468,7 @@
 | [Casual Drug Use](https://open.spotify.com/track/1PrvJfraAbqeqXjXOHUazh) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Casual Drug Use](https://open.spotify.com/album/6Zix2cAzCUIJrlTRbPAsJe) | 3:11 | 2024-08-20 | 2024-08-31 |
 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 | 2026-02-20 | 2026-02-28 |
 | [Cataract Time](https://open.spotify.com/track/681ZfGnArxSspYkBw7eg2n) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Cataract Time](https://open.spotify.com/album/0kE0sFfDTd1n8y8hW0MzoY) | 8:00 | 2025-03-06 | 2025-03-15 |
+| [CATastrophe](https://open.spotify.com/track/0xSTDHbnDl5Gw40TRphtoN) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [CATastrophe](https://open.spotify.com/album/143CgCeRXOHN5w8SZZjEeF) | 2:17 | 2026-10-02 |  |
 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 | 2024-09-27 | 2024-10-05 |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-04 | 2025-04-12 |
 | [Catching feelings](https://open.spotify.com/track/5WZL03aLF9GVNaa5Q6ATNe) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Catching feelings](https://open.spotify.com/album/2lUIfpdrW8OuEgpvPjMhWg) | 3:22 | 2025-05-23 | 2025-05-31 |
@@ -4723,6 +4724,7 @@
 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 | 2025-11-14 | 2025-11-22 |
 | [Limits](https://open.spotify.com/track/73IJEn9FPTLoPOudXRPP6J) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [Hard Hearted Woman](https://open.spotify.com/album/1r3wE07afZnLGbikNXDt3X) | 3:57 | 2026-03-13 | 2026-03-21 |
 | [LiMÓN](https://open.spotify.com/track/6rSE8AyK6ziLZKva2zIQzS) | [Baby Loud](https://open.spotify.com/artist/6VSlGCOiyCqCRfFsThtvA7) | [LA MÚSiCA DEL FUTURO \(Deluxe\)](https://open.spotify.com/album/6GfLgrMYd14w9kPehYq4Kg) | 2:37 | 2026-02-13 | 2026-02-21 |
+| [LINCE](https://open.spotify.com/track/3ul4tQoFMJwwEjq9mAXtib) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [LINCE](https://open.spotify.com/album/0Qh7eDSSxU5jwB9rdXArC0) | 3:14 | 2026-10-02 |  |
 | [Linger \- Iain Cook Remix](https://open.spotify.com/track/5p77oRvGJ57vzlhjw8pqtq) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9), [Iain Cook](https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ) | [Linger \(Iain Cook Remix\)](https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0) | 6:16 | 2024-06-28 | 2024-07-13 |
 | [Lingering Ghosts](https://open.spotify.com/track/27IF3d4TFokY0CJU8znK5b) | [Cold Specks](https://open.spotify.com/artist/2DMHBCdboDAYJWzt2lDSP5) | [Lingering Ghosts](https://open.spotify.com/album/1EhOq94opsUhmtzNegYHUt) | 3:35 | 2025-02-07 | 2025-02-15 |
 | [Linked In](https://open.spotify.com/track/0UgXV5N6yNZd3ZJMTjcF4t) | [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Finessekid](https://open.spotify.com/album/1wJkie6ci2U2wbJBUtP5Mb) | 2:05 | 2025-07-18 | 2025-07-26 |
@@ -8460,6 +8462,7 @@
 | [Toma de tierra](https://open.spotify.com/track/5d7LLgfpS2YzmNXORofpAK) | [Musgö](https://open.spotify.com/artist/0RvtJwcCisaSRZHLhuBAbT) | [La grieta](https://open.spotify.com/album/2xEl5ps66i960fkYgRYG02) | 2:46 | 2025-11-14 | 2025-11-22 |
 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 | 2024-12-27 | 2025-01-11 |
 | [Tonada del bosque](https://open.spotify.com/track/5ztOwpKs9yiV11RL31DPwQ) | [Alberto & García](https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6), [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Tonada del bosque](https://open.spotify.com/album/26JTN2p6eQGpvj12U2QWMK) | 3:33 | 2025-09-05 | 2025-09-12 |
+| [Tongue](https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Tongue](https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw) | 3:13 | 2026-10-01 |  |
 | [Tonic](https://open.spotify.com/track/4wJieuHrJiNIjmKH4v5e6o) | [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Tonic](https://open.spotify.com/album/0aaXThOvZUf9CCo6dyEpCQ) | 4:12 | 2025-10-30 | 2025-11-08 |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-04 | 2025-04-12 |
 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 | 2024-06-28 | 2024-07-13 |

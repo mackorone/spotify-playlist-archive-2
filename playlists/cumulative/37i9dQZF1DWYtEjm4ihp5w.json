@@ -2667,6 +2667,28 @@
     },
     {
       "album": {
+        "name": "TRAP CARD",
+        "url": "https://open.spotify.com/album/1wqIVWp3JmzliEruQdP5te"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        },
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167866,
+      "name": "Different League",
+      "url": "https://open.spotify.com/track/7aNFirYDjpSjQlZhAmAPtD"
+    },
+    {
+      "album": {
         "name": "DIFFERENT V2",
         "url": "https://open.spotify.com/album/0pXh9lyVEqChCz3XGkWcLU"
       },
@@ -4566,7 +4588,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 147969,
       "name": "Jean",
       "url": "https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV"

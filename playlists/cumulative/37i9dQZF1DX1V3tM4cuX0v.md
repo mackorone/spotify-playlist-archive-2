@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: Шугар
+> 50 найгарячіших пісень в Україні\. Обкладинка: Jerry Heil & Sviatoslav Vakarchuk
 
-227 songs - 11 hr 30 min
+228 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-20 | 2025-03-28 |
 | [Cry For Me](https://open.spotify.com/track/7a0RHaJoqL2Sjf0gra68Pc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:44 | 2025-02-03 | 2025-03-07 |
 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-07-23 | 2026-09-25 |
-| [Dark Disco](https://open.spotify.com/track/3fsxkZeWu1EVSr9XcPtHkQ) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Dark Disco](https://open.spotify.com/album/7Hq8LBMrhMHlhmNe9Z0Azd) | 3:33 | 2026-06-11 |  |
+| [Dark Disco](https://open.spotify.com/track/3fsxkZeWu1EVSr9XcPtHkQ) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Dark Disco](https://open.spotify.com/album/7Hq8LBMrhMHlhmNe9Z0Azd) | 3:33 | 2026-06-11 | 2026-10-02 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-26 | 2025-10-27 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-28 | 2024-12-13 |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-10-16 | 2026-01-16 |
@@ -118,6 +118,7 @@
 | [Генгста](https://open.spotify.com/track/3zHlmzzkUVgL8ao2KKojAt) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Генгста](https://open.spotify.com/album/6KRyzLpc7v8is3WVUmVoNP) | 3:20 | 2025-09-11 | 2026-08-21 |
 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 | 2025-04-24 | 2026-09-25 |
 | [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 | 2024-08-05 | 2024-12-13 |
+| [Дві весни](https://open.spotify.com/track/1LqZGmuthue7GOtBp6hEmQ) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Sviatoslav Vakarchuk](https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I) | [Дві весни](https://open.spotify.com/album/6FPEAKQ5MHEYkBV4s6DzqU) | 3:50 | 2026-10-01 |  |
 | [Де би де би](https://open.spotify.com/track/0HcAqtveWI1vLCefAqy6Db) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Перший тайм](https://open.spotify.com/album/2pRUpo4xoCDnCRejQJQ6gl) | 2:49 | 2025-06-09 | 2026-04-28 |
 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 | 2025-09-04 | 2026-09-25 |
 | [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 | 2025-03-10 | 2026-01-20 |

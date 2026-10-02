@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 250111,
+  "num_followers": 250134,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADPRhelINAlYmmInTQGuXoD",
+  "snapshot_id": "arxRAAAAAAAXUyb3AnX1lckPDmf1w/tf",
   "tracks": [
     {
       "added_at": null,
@@ -819,34 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
-        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
+        "name": "Seven Steps To Heaven (2023 Remaster)",
+        "url": "https://open.spotify.com/album/625H2ZomGelxwZcrpFqLA7"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        },
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        },
-        {
-          "name": "Kenny Clarke",
-          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
-        },
-        {
-          "name": "Percy Heath",
-          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
         }
       ],
-      "duration_ms": 674800,
-      "name": "Bags' Groove - Take 1 / RVG Remastered 2008",
-      "url": "https://open.spotify.com/track/5RQqoEIkp6XsYyULz7AlAS"
+      "duration_ms": 385554,
+      "name": "Seven Steps to Heaven (2023 Remaster)",
+      "url": "https://open.spotify.com/track/2PiU9VQ0VrJnv6EciQTC09"
     },
     {
       "added_at": null,
@@ -883,18 +867,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Steps To Heaven (2023 Remaster)",
-        "url": "https://open.spotify.com/album/625H2ZomGelxwZcrpFqLA7"
+        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
+        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        },
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
         }
       ],
-      "duration_ms": 385554,
-      "name": "Seven Steps to Heaven (2023 Remaster)",
-      "url": "https://open.spotify.com/track/2PiU9VQ0VrJnv6EciQTC09"
+      "duration_ms": 674800,
+      "name": "Bags' Groove - Take 1 / RVG Remastered 2008",
+      "url": "https://open.spotify.com/track/5RQqoEIkp6XsYyULz7AlAS"
     },
     {
       "added_at": null,
@@ -911,58 +911,6 @@
       "duration_ms": 363410,
       "name": "My Funny Valentine - Remastered 2026",
       "url": "https://open.spotify.com/track/3hh9LKcW1eQkBP3XjtvZpI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
-        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        },
-        {
-          "name": "Kenny Clarke",
-          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
-        },
-        {
-          "name": "Percy Heath",
-          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
-        }
-      ],
-      "duration_ms": 312480,
-      "name": "Oleo - RVG Remastered 2008",
-      "url": "https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Columbia Studio Recordings",
-        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 30693,
-      "name": "Studio Discussion - One",
-      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
     },
     {
       "added_at": null,
@@ -999,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
-      "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -1040,9 +972,45 @@
           "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
         }
       ],
-      "duration_ms": 299680,
-      "name": "Airegin - RVG Remastered 2008",
-      "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
+      "duration_ms": 312480,
+      "name": "Oleo - RVG Remastered 2008",
+      "url": "https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
+      "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 30693,
+      "name": "Studio Discussion - One",
+      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
     },
     {
       "added_at": null,
@@ -1079,6 +1047,38 @@
       "duration_ms": 635066,
       "name": "Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
+        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        }
+      ],
+      "duration_ms": 299680,
+      "name": "Airegin - RVG Remastered 2008",
+      "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 143285,
+  "num_followers": 143281,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA/YhfiIR/vvY3NFFQJDIKcXCDFulUn",
+  "snapshot_id": "AAA/aXgdOfVieLOCyJIqq6n0eVFLcjaH",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -133,6 +133,22 @@
       "url": "https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz"
     },
     {
+      "added_at": "2026-10-01 18:05:38",
+      "album": {
+        "name": "Addicted to You",
+        "url": "https://open.spotify.com/album/1Kzu9HlqAOUwJYN09hmCZf"
+      },
+      "artists": [
+        {
+          "name": "Julia Byers",
+          "url": "https://open.spotify.com/artist/0FEeqEUVkJ0QwnAOYKYOWg"
+        }
+      ],
+      "duration_ms": 221669,
+      "name": "Addicted to You",
+      "url": "https://open.spotify.com/track/6KOSNvI2HpDyd79qhhUcM6"
+    },
+    {
       "added_at": "2026-07-30 16:33:03",
       "album": {
         "name": "Reality Awaits",
@@ -231,22 +247,6 @@
       "duration_ms": 202386,
       "name": "Ingl\u00e9s En Miami",
       "url": "https://open.spotify.com/track/2mnqIjaciToIErlxJDFNle"
-    },
-    {
-      "added_at": "2026-09-30 00:04:45",
-      "album": {
-        "name": "Tug",
-        "url": "https://open.spotify.com/album/6k8W54yBT2PEjPIt2YsUFG"
-      },
-      "artists": [
-        {
-          "name": "Animalweapon",
-          "url": "https://open.spotify.com/artist/5AOStJoGuJkR9oZ0zZ4YkP"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Tug",
-      "url": "https://open.spotify.com/track/0TQgcEcfsq5E0v72YiWlZU"
     },
     {
       "added_at": "2026-07-30 16:34:51",
@@ -887,6 +887,22 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "added_at": "2026-10-01 22:24:42",
+      "album": {
+        "name": "Halfway to Yours",
+        "url": "https://open.spotify.com/album/2gyIMhyQiQG0w8afs17wNS"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        }
+      ],
+      "duration_ms": 147945,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/4WQIv2PCAdX59S9pXDzxBS"
     },
     {
       "added_at": "2026-09-26 00:11:12",
@@ -1831,6 +1847,22 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2026-10-01 12:32:52",
+      "album": {
+        "name": "I WAS LEAVING",
+        "url": "https://open.spotify.com/album/0FkycajqlV5iI1xuomBVCo"
+      },
+      "artists": [
+        {
+          "name": "Tom Morgan",
+          "url": "https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c"
+        }
+      ],
+      "duration_ms": 202813,
+      "name": "I WAS LEAVING",
+      "url": "https://open.spotify.com/track/5zFC45bAUMmXMd9rGQOoox"
     },
     {
       "added_at": "2024-08-12 20:30:55",
@@ -3157,6 +3189,38 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2026-10-01 12:03:57",
+      "album": {
+        "name": "Klassy",
+        "url": "https://open.spotify.com/album/1LWPRZRMsUbj8XZB3oL4cK"
+      },
+      "artists": [
+        {
+          "name": "God1ne",
+          "url": "https://open.spotify.com/artist/5UInoSdZgBHrdjBOP6rtdq"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Klassy",
+      "url": "https://open.spotify.com/track/1MiddECcfTYG3On2bK8LSo"
+    },
+    {
+      "added_at": "2026-09-30 00:04:45",
+      "album": {
+        "name": "Tug",
+        "url": "https://open.spotify.com/album/6k8W54yBT2PEjPIt2YsUFG"
+      },
+      "artists": [
+        {
+          "name": "Animalweapon",
+          "url": "https://open.spotify.com/artist/5AOStJoGuJkR9oZ0zZ4YkP"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Tug",
+      "url": "https://open.spotify.com/track/0TQgcEcfsq5E0v72YiWlZU"
+    },
+    {
       "added_at": "2026-09-28 18:06:05",
       "album": {
         "name": "Chasing Sunsets",
@@ -3503,86 +3567,6 @@
       "duration_ms": 162346,
       "name": "Zooming!",
       "url": "https://open.spotify.com/track/16gO6IGm56ri0jPUB0oN8P"
-    },
-    {
-      "added_at": "2026-09-21 00:04:17",
-      "album": {
-        "name": "Same Train",
-        "url": "https://open.spotify.com/album/4dntdgAScxEYy00uXNYQsY"
-      },
-      "artists": [
-        {
-          "name": "Sue Ray",
-          "url": "https://open.spotify.com/artist/0X5AzsfEoqLOqtWczOKE3B"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Same Train",
-      "url": "https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N"
-    },
-    {
-      "added_at": "2026-09-21 00:17:15",
-      "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/7Efl5b0EmV93u9k1WeBo2G"
-      },
-      "artists": [
-        {
-          "name": "SaretzkyGallery",
-          "url": "https://open.spotify.com/artist/6lIlcJHsEuR3mUDssKRPu6"
-        }
-      ],
-      "duration_ms": 321240,
-      "name": "Dinosaur Blues",
-      "url": "https://open.spotify.com/track/6iCxcGxKqXO3nsu9qC6RcR"
-    },
-    {
-      "added_at": "2026-09-21 00:17:11",
-      "album": {
-        "name": "What Will I Do",
-        "url": "https://open.spotify.com/album/73hHaFwADfXCoEIuExuAol"
-      },
-      "artists": [
-        {
-          "name": "Emily McLoud",
-          "url": "https://open.spotify.com/artist/51F5xANuZ6phsIvT8tAdYa"
-        }
-      ],
-      "duration_ms": 168271,
-      "name": "What Will I Do",
-      "url": "https://open.spotify.com/track/4Hw6L4yWjgPfQR6g3hKNn0"
-    },
-    {
-      "added_at": "2026-09-21 00:22:37",
-      "album": {
-        "name": "The Company I Keep",
-        "url": "https://open.spotify.com/album/0qUZ9P7tqCSJNklevgUCMI"
-      },
-      "artists": [
-        {
-          "name": "John Haywood",
-          "url": "https://open.spotify.com/artist/5yQUEBrCLsgRvH8ceG7TTM"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "The Company I Keep",
-      "url": "https://open.spotify.com/track/2CHOEHU3zkZ2oPYGyyGEj3"
-    },
-    {
-      "added_at": "2026-09-21 00:22:42",
-      "album": {
-        "name": "What the Fudd?",
-        "url": "https://open.spotify.com/album/54PWAFmpsuG68Owp6GLGXZ"
-      },
-      "artists": [
-        {
-          "name": "Judd Mellon and the Cantaloupes",
-          "url": "https://open.spotify.com/artist/4WLO1tdXRrhfjDjZMsYB5S"
-        }
-      ],
-      "duration_ms": 286480,
-      "name": "What the Fudd?",
-      "url": "https://open.spotify.com/track/5LCPHnAIoxc0Os4erxSgy7"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

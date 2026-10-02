@@ -454,7 +454,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 207000,
       "name": "Christmas in Our Hearts",
       "url": "https://open.spotify.com/track/6fu6uFC8eSFWnEcZnkIUdJ"
@@ -2474,10 +2474,28 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 126146,
       "name": "Rockin' Around the Christmas Tree - Re-Recorded Version",
       "url": "https://open.spotify.com/track/27jhnberlYbjEgL3oFL4BA"
+    },
+    {
+      "album": {
+        "name": "A Brenda Lee Christmas",
+        "url": "https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126146,
+      "name": "Rockin' Around the Christmas Tree - Rerecorded Version",
+      "url": "https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA"
     },
     {
       "album": {
@@ -3438,7 +3456,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 225687,
       "name": "Under The Mistletoe - Bonus Track",
       "url": "https://open.spotify.com/track/2CYnG4UCBBEKIiux3S0jBU"

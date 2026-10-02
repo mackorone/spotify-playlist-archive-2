@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > The songs soundtracking the best years
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,552 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,624 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 46 | [Askamaya](https://open.spotify.com/track/2w3DLrgR7d1BO1REYUuMEM) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Askamaya](https://open.spotify.com/album/3vrggFAtpEoG1WxYRBmf7t) | 2:55 |
 | 47 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
 | 48 | [Madu](https://open.spotify.com/track/69vmMU3DyducrazXbFmOqH) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 2:41 |
-| 49 | [Shele Gan Gan](https://open.spotify.com/track/4umLGm81374u2zCfa4ugjQ) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Shele Gan Gan](https://open.spotify.com/album/59vlF8oPYgqngDXwuHKfTp) | 3:40 |
-| 50 | [Dumebi](https://open.spotify.com/track/1sBX7EfLOgP3u6gHJBSqQg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8) | 2:59 |
+| 49 | [Soft Work](https://open.spotify.com/track/4V4iOjpWebbWHS5eycyeTn) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Stories That Touch](https://open.spotify.com/album/5V4Mel3NQSGXJkBtAUzZUe) | 3:25 |
+| 50 | [Shele Gan Gan](https://open.spotify.com/track/4umLGm81374u2zCfa4ugjQ) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Shele Gan Gan](https://open.spotify.com/album/59vlF8oPYgqngDXwuHKfTp) | 3:40 |
 
 Snapshot ID: `AAAAABA4iIMCsSwSFz9zvNZexCtPEv6X`

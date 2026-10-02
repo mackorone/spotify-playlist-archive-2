@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113081,
+  "num_followers": 113078,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
-        "name": "Big Disgrace",
-        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 187658,
-      "name": "Shy Girl",
-      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
         "name": "P\u00f3\u017aniej Ci opowiem",
         "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 185346,
       "name": "P\u00f3\u017aniej Ci opowiem",
       "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -907,6 +907,38 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
+        "name": "Widz\u0119 Ci\u0119",
+        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Widz\u0119 Ci\u0119",
+      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
+      },
+      "artists": [
+        {
+          "name": "Kinga Wo\u0142oszyn",
+          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
         "name": "Maj",
         "url": "https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi"
       },
@@ -939,38 +971,6 @@
       "duration_ms": 193988,
       "name": "SPOS\u00d3B",
       "url": "https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "Widz\u0119 Ci\u0119",
-        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
-      },
-      "artists": [
-        {
-          "name": "Diiya",
-          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Widz\u0119 Ci\u0119",
-      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
-      },
-      "artists": [
-        {
-          "name": "Kinga Wo\u0142oszyn",
-          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
     },
     {
       "added_at": "2026-09-18 08:00:22",

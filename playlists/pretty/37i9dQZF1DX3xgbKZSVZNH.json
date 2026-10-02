@@ -1,6 +1,6 @@
 {
   "description": "All your favourite hairbrush anthems!",
-  "num_followers": 306651,
+  "num_followers": 306701,
   "original_name": "Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
-    },
-    {
-      "added_at": "2026-07-09 17:06:41",
-      "album": {
         "name": "Alannah Myles",
         "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 287440,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "added_at": "2026-07-09 17:06:41",
+      "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
     },
     {
       "added_at": "2026-07-09 17:06:41",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
+        "name": "Dirty Dancing",
+        "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 248266,
+      "name": "Hungry Eyes",
+      "url": "https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs"
+    },
+    {
+      "added_at": "2026-07-09 17:06:41",
+      "album": {
         "name": "Bon Jovi Greatest Hits",
         "url": "https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 254520,
       "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
       "url": "https://open.spotify.com/track/1AAEWUVZpew24mP6nC1IU5"
-    },
-    {
-      "added_at": "2026-07-09 17:06:41",
-      "album": {
-        "name": "Dirty Dancing",
-        "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Hungry Eyes",
-      "url": "https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs"
     },
     {
       "added_at": "2026-07-09 17:06:41",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
+        "name": "Eric Carmen",
+        "url": "https://open.spotify.com/album/0351W7FeCQal5XzaR161tW"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/2FSaEOwQId0LYu5o49dbrG"
+    },
+    {
+      "added_at": "2026-07-09 17:06:41",
+      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/3sbhN8QlcMeCZAX80IKoW8"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 212400,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/3I4nZ14GRL7eXwFDjCEEVr"
-    },
-    {
-      "added_at": "2026-07-09 17:06:41",
-      "album": {
-        "name": "Playlist: The Very Best Of Meat Loaf",
-        "url": "https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 321973,
-      "name": "I'd Do Anything for Love (But I Won't Do That) - Radio Edit",
-      "url": "https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas"
     }
   ],
   "unique_name": "Power Ballads",

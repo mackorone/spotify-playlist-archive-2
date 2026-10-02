@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 114216,
       "name": "nine",
       "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
@@ -3902,7 +3902,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
@@ -4666,6 +4666,24 @@
       "duration_ms": 118489,
       "name": "Ride For Me",
       "url": "https://open.spotify.com/track/7rEwfqQMPIXlDWktGbDI3R"
+    },
+    {
+      "album": {
+        "name": "Reap 88",
+        "url": "https://open.spotify.com/album/1YGfodf7LfiQdn648czEss"
+      },
+      "artists": [
+        {
+          "name": "Josh cox",
+          "url": "https://open.spotify.com/artist/7zL5SCi7Lc3Hg8YWMgEZVJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "Right Hand",
+      "url": "https://open.spotify.com/track/1phGDvQ9ud26NDlvw3opnT"
     },
     {
       "album": {

@@ -1,13 +1,77 @@
 {
-  "description": "sweet. sharp. unbothered - Nessa Barrett on the cover",
-  "num_followers": 522739,
+  "description": "sweet. sharp. unbothered - Emei on the cover",
+  "num_followers": 522743,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA5Vl0B3fDRPrV28yL3UTXCOMFlQ",
+  "snapshot_id": "AAAAAFHE94MsIh03LsFJZk+p9q8L2cRA",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:00:40",
+      "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"
+    },
+    {
+      "added_at": "2026-10-02 04:00:40",
+      "album": {
+        "name": "A MiLLiON DAGGERS",
+        "url": "https://open.spotify.com/album/56mRQFbbKn39SWD9waIPFU"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 157307,
+      "name": "A MiLLiON DAGGERS",
+      "url": "https://open.spotify.com/track/09MeUcgkzXJFN4OSMkEMlb"
+    },
+    {
+      "added_at": "2026-10-02 04:00:40",
+      "album": {
+        "name": "dumblond",
+        "url": "https://open.spotify.com/album/34siMC5snq4oWnTUljUWu3"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 149831,
+      "name": "dumblond",
+      "url": "https://open.spotify.com/track/4ULnRQJfVXPp91SOVv1D1s"
+    },
+    {
+      "added_at": "2026-10-02 04:00:40",
+      "album": {
+        "name": "FMTYLM",
+        "url": "https://open.spotify.com/album/0WneMNIBST1b45Vl9HIbRP"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 181370,
+      "name": "FMTYLM",
+      "url": "https://open.spotify.com/track/6RxY1X4Zzh1K3u8ihzbvrZ"
+    },
     {
       "added_at": "2026-09-25 04:03:24",
       "album": {
@@ -23,6 +87,22 @@
       "duration_ms": 195690,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/1qeDiZrY4LBsycOVHSlYWI"
+    },
+    {
+      "added_at": "2026-10-02 04:00:40",
+      "album": {
+        "name": "EVIDENCE",
+        "url": "https://open.spotify.com/album/7hqKjTGjwCpPhLNDxGLy8M"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "duration_ms": 179991,
+      "name": "EVIDENCE",
+      "url": "https://open.spotify.com/track/6l6YEEwViDBojzFCdp5nCD"
     },
     {
       "added_at": "2026-09-25 04:03:24",
@@ -41,6 +121,22 @@
       "url": "https://open.spotify.com/track/4A0O4CdnSXN7uoao2qCFvG"
     },
     {
+      "added_at": "2026-10-02 04:00:40",
+      "album": {
+        "name": "Small Town Girls",
+        "url": "https://open.spotify.com/album/3ssYRKS8GZ3Q4yeA8UiT81"
+      },
+      "artists": [
+        {
+          "name": "MINOE",
+          "url": "https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi"
+        }
+      ],
+      "duration_ms": 228521,
+      "name": "Small Town Girls",
+      "url": "https://open.spotify.com/track/4EvIeYaNzKCIGLGic8lEB3"
+    },
+    {
       "added_at": "2026-09-25 04:03:24",
       "album": {
         "name": "I Don't Have Any Problems",
@@ -55,6 +151,22 @@
       "duration_ms": 123493,
       "name": "I Don't Have Any Problems",
       "url": "https://open.spotify.com/track/28lnAZtEMdyBW3IWYsqko5"
+    },
+    {
+      "added_at": "2026-10-02 04:00:40",
+      "album": {
+        "name": "Fall From Grace",
+        "url": "https://open.spotify.com/album/6u0Edmps3tWV0pisi48xQQ"
+      },
+      "artists": [
+        {
+          "name": "EMMMA",
+          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
+        }
+      ],
+      "duration_ms": 192351,
+      "name": "Fall From Grace",
+      "url": "https://open.spotify.com/track/1STgHInlk3Mbm2AFXLUXZH"
     },
     {
       "added_at": "2026-09-25 04:03:24",
@@ -419,22 +531,6 @@
     {
       "added_at": "2026-07-24 04:02:38",
       "album": {
-        "name": "RUMOURS",
-        "url": "https://open.spotify.com/album/6RPTzdGooT79n9Bsbt3egq"
-      },
-      "artists": [
-        {
-          "name": "Elle Coves",
-          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
-        }
-      ],
-      "duration_ms": 196362,
-      "name": "RUMOURS",
-      "url": "https://open.spotify.com/track/1i75EU9PVdgpbGHduHclqd"
-    },
-    {
-      "added_at": "2026-07-24 04:02:38",
-      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU"
       },
@@ -535,22 +631,6 @@
     {
       "added_at": "2026-06-26 04:00:35",
       "album": {
-        "name": "I DON'T LIKE YOU",
-        "url": "https://open.spotify.com/album/3YeED48niwqqRwnnK3H8Hh"
-      },
-      "artists": [
-        {
-          "name": "CG5",
-          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
-        }
-      ],
-      "duration_ms": 146087,
-      "name": "I DON'T LIKE YOU",
-      "url": "https://open.spotify.com/track/1bPX434rtJb556MIkQt6mi"
-    },
-    {
-      "added_at": "2026-06-26 04:00:35",
-      "album": {
         "name": "heartcore",
         "url": "https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN"
       },
@@ -583,22 +663,6 @@
     {
       "added_at": "2026-06-12 04:01:54",
       "album": {
-        "name": "Night at the Opera",
-        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
-    },
-    {
-      "added_at": "2026-06-12 04:01:54",
-      "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
@@ -611,22 +675,6 @@
       "duration_ms": 180720,
       "name": "my way",
       "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
-    },
-    {
-      "added_at": "2026-06-21 16:29:53",
-      "album": {
-        "name": "Bite Back",
-        "url": "https://open.spotify.com/album/3iglOihc41S44Q82EXv5d8"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 189337,
-      "name": "Bite Back",
-      "url": "https://open.spotify.com/track/6ybNNGb5PdHL31Fg0KNjrB"
     },
     {
       "added_at": "2026-06-12 04:01:54",
@@ -723,58 +771,6 @@
       "duration_ms": 155664,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC"
-    },
-    {
-      "added_at": "2026-05-08 04:04:30",
-      "album": {
-        "name": "What's the Point!",
-        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 163754,
-      "name": "What's the Point!",
-      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
-    },
-    {
-      "added_at": "2026-05-15 04:03:24",
-      "album": {
-        "name": "FEED",
-        "url": "https://open.spotify.com/album/65IipWudxgR60faq3AJbtH"
-      },
-      "artists": [
-        {
-          "name": "Suzy Clue",
-          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "FEED",
-      "url": "https://open.spotify.com/track/2eXh5UwalI7ybBJrUj9PKe"
-    },
-    {
-      "added_at": "2026-05-15 04:03:24",
-      "album": {
-        "name": "I LOVE YOU (feat. Armani White)",
-        "url": "https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 191950,
-      "name": "I LOVE YOU (feat. Armani White)",
-      "url": "https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh"
     },
     {
       "added_at": "2026-04-17 04:02:49",

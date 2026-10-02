@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,303 likes - 65 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,371 likes - 65 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 10 | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 |
 | 11 | [COCOON](https://open.spotify.com/track/0YgLjBYLRynYgsAip8bPwu) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [COCOON](https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL) | 1:58 |
 | 12 | [Gas\. Brake.](https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Maverick “Almost Forever” EP](https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo) | 2:50 |
-| 13 | [rare creature](https://open.spotify.com/track/2jEwyQK7vEniqlLPNDelwR) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:23 |
-| 14 | [In & Out](https://open.spotify.com/track/3Z5wZZvyvfaAKyUO7KYd7Q) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [In & Out](https://open.spotify.com/album/0ifJzok52AVKVixKEw4lDI) | 1:52 |
-| 15 | [BIG FEELING](https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LUCY](https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi) | 1:55 |
-| 16 | [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 |
-| 17 | [i got taste](https://open.spotify.com/track/45oVmTltKMxvW5x0U3vS5l) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [AVANT NOVA](https://open.spotify.com/album/1VBKHNvJ4Ncn9QJYr9HLDv) | 2:22 |
-| 18 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
-| 19 | [Kidding Me \(feat\. Nine Vicious\)](https://open.spotify.com/track/1bTqiL8cmCJ3I5U3rI0D43) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 2:19 |
+| 13 | [Turnin Your Back](https://open.spotify.com/track/6kffIE2gTlXcZbnFCuCVSH) | [Melly Mike](https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M) | [Turnin Your Back](https://open.spotify.com/album/1C6PBIrExmGF35eFCdAeEY) | 1:51 |
+| 14 | [rare creature](https://open.spotify.com/track/2jEwyQK7vEniqlLPNDelwR) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:23 |
+| 15 | [In & Out](https://open.spotify.com/track/3Z5wZZvyvfaAKyUO7KYd7Q) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [In & Out](https://open.spotify.com/album/0ifJzok52AVKVixKEw4lDI) | 1:52 |
+| 16 | [BIG FEELING](https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LUCY](https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi) | 1:55 |
+| 17 | [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 |
+| 18 | [i got taste](https://open.spotify.com/track/45oVmTltKMxvW5x0U3vS5l) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [AVANT NOVA](https://open.spotify.com/album/1VBKHNvJ4Ncn9QJYr9HLDv) | 2:22 |
+| 19 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
 | 20 | [ghost \(with Lil Uzi Vert\)](https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 3:53 |
 | 21 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 |
 | 22 | [PB&J \(with Ken Carson\)](https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:29 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 64 | [The Grinch](https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 1:31 |
 | 65 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 |
 
-Snapshot ID: `AAAAAEiM/RYV1QUEZq3oVre9ESXY7bDZ`
+Snapshot ID: `AAAAABmkOlh3TCTnbhR+qgzJ7IDtSula`

@@ -1,6 +1,6 @@
 {
   "description": "Dim the lights and chill with these classic slow jamz.",
-  "num_followers": 484980,
+  "num_followers": 485013,
   "original_name": "Slow Jamz",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Back Of My Lac'",
-        "url": "https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI"
-      },
-      "artists": [
-        {
-          "name": "J. Holiday",
-          "url": "https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk"
-        }
-      ],
-      "duration_ms": 275106,
-      "name": "Bed",
-      "url": "https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Disturbing Tha Peace Presents Bobby Valentino",
         "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 260066,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6kLZ1DzSxBkNVvdQm6CX0N"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Back Of My Lac'",
+        "url": "https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI"
+      },
+      "artists": [
+        {
+          "name": "J. Holiday",
+          "url": "https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk"
+        }
+      ],
+      "duration_ms": 275106,
+      "name": "Bed",
+      "url": "https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 243213,
       "name": "Like A Star",
       "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1655,18 +1655,26 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+        "name": "Simple Things (Remix) (feat. Chris Brown & Future)",
+        "url": "https://open.spotify.com/album/2bq4H1LLMuCqg7RZejDFOW"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 269173,
-      "name": "You Used to Love Me",
-      "url": "https://open.spotify.com/track/0KhXVmAN4sqeEgsqRd39f2"
+      "duration_ms": 237797,
+      "name": "Simple Things (Remix) (feat. Chris Brown & Future)",
+      "url": "https://open.spotify.com/track/4z8c9qkpiYghn6DCQ6yA0u"
     }
   ],
   "unique_name": "Slow Jamz",

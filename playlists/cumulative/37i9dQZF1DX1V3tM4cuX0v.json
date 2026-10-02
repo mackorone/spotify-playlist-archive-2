@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u0428\u0443\u0433\u0430\u0440",
+  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Jerry Heil & Sviatoslav Vakarchuk",
   "name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 213442,
       "name": "Dark Disco",
       "url": "https://open.spotify.com/track/3fsxkZeWu1EVSr9XcPtHkQ"
@@ -2094,6 +2094,28 @@
       "duration_ms": 159000,
       "name": "\u0413\u0423\u0411\u0418 \u0423 \u0413\u0423\u0411\u0410\u0425",
       "url": "https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0432\u0456 \u0432\u0435\u0441\u043d\u0438",
+        "url": "https://open.spotify.com/album/6FPEAKQ5MHEYkBV4s6DzqU"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        },
+        {
+          "name": "Sviatoslav Vakarchuk",
+          "url": "https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230402,
+      "name": "\u0414\u0432\u0456 \u0432\u0435\u0441\u043d\u0438",
+      "url": "https://open.spotify.com/track/1LqZGmuthue7GOtBp6hEmQ"
     },
     {
       "album": {

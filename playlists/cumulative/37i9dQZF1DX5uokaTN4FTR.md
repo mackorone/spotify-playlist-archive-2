@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Sonny Kane
+> The UK's biggest dance playlist! Interplanetary Criminal, Silva Bumpa
 
-788 songs - 1 day 16 hr 57 min
+789 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Call On Me \(with Tove Lo\)](https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\)](https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi) | 3:16 | 2022-10-13 | 2023-02-10 |
 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 | 2022-07-07 | 2022-10-07 |
 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 | 2025-05-27 | 2026-05-01 |
-| [Can't Deny It](https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Can't Deny It](https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ) | 2:52 | 2025-12-05 |  |
+| [Can't Deny It](https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Can't Deny It](https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ) | 2:52 | 2025-12-05 | 2026-10-02 |
 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 | 2023-10-16 | 2024-06-14 |
 | [Can't Slow Down](https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Can't Slow Down](https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1) | 2:57 | 2026-07-30 |  |
 | [Can't Stop Now \(feat\. Anelisa Lamola\)](https://open.spotify.com/track/4zZaEwf8Ss9cJWNiFBRT8I) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi) | [Can't Stop Now \(feat\. Anelisa Lamola\)](https://open.spotify.com/album/0Z4JIHDHFB1ruZGLlAtu97) | 2:20 | 2021-11-05 | 2021-12-17 |
@@ -181,6 +181,7 @@
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-09-01 | 2023-01-28 |
 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 | 2023-04-20 | 2024-03-09 |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-18 | 2023-07-07 |
+| [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 | 2026-10-01 |  |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 | 2022-10-21 |
 | [Dead In The Eye](https://open.spotify.com/track/6e2EhzcXi6ZME0PLitbGD4) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Dead In The Eye](https://open.spotify.com/album/25OMNzb1z0LJbWzk40C98a) | 3:50 | 2022-08-18 | 2022-11-25 |
 | [DEEP \(feat\. Nonô\)](https://open.spotify.com/track/1DcFYXbOSWr18OHlfp7Qng) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [DEEP \(feat\. Nonô\)](https://open.spotify.com/album/0N8cb3eskN240e7UgaklBC) | 3:07 | 2022-05-06 | 2022-07-22 |

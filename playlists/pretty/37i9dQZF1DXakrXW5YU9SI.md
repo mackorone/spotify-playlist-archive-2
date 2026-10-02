@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,369 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,415 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 27 | [chcę tu zostać](https://open.spotify.com/track/0EHfwu3900Lz5BwocEch4S) | [nic nic](https://open.spotify.com/artist/3iXF1TPd2ydHapLJ6uPqUi) | [chcę tu zostać](https://open.spotify.com/album/0nxNfsEdFAv9fv2EEo9U4A) | 2:59 |
 | 28 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 29 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 |
-| 30 | [Hitachi](https://open.spotify.com/track/3dD5ULYA0Fz4w9vra6GmHD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:36 |
-| 31 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
+| 30 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
+| 31 | [Hitachi](https://open.spotify.com/track/3dD5ULYA0Fz4w9vra6GmHD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:36 |
 | 32 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
 | 33 | [Nareszcie](https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Nareszcie](https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm) | 3:02 |
 | 34 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 47 | [⁠Wildfire](https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Nocturne](https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC) | 4:56 |
 | 48 | [Wolne popołudnia w Polsce](https://open.spotify.com/track/4Po0aFEMfZiWyZQXRXHByI) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH), [Nolyrics Beats](https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq) | [Wolne popołudnia w Polsce](https://open.spotify.com/album/0JW48Ni0H9RvCi1VfnHz8I) | 3:34 |
 | 49 | [Chłopaki](https://open.spotify.com/track/2nI04xLBi0oRFsGmTJYeUU) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Chłopaki](https://open.spotify.com/album/5b9FqCGkBCvoALEdOGC0De) | 2:50 |
-| 50 | [daj mi znak](https://open.spotify.com/track/7qOAHK3XcMHz9YlSopJ107) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [daj mi znak](https://open.spotify.com/album/5crKBVQ9Tp0yMZJrgDCNG7) | 2:44 |
-| 51 | [Mirafiori](https://open.spotify.com/track/2ypGq1U1VIrFZCdy1IBFz9) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Mirafiori](https://open.spotify.com/album/0l6bmzWH6Fxc84e3AZ8LMx) | 2:46 |
+| 50 | [Mirafiori](https://open.spotify.com/track/2ypGq1U1VIrFZCdy1IBFz9) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Mirafiori](https://open.spotify.com/album/0l6bmzWH6Fxc84e3AZ8LMx) | 2:46 |
+| 51 | [daj mi znak](https://open.spotify.com/track/7qOAHK3XcMHz9YlSopJ107) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [daj mi znak](https://open.spotify.com/album/5crKBVQ9Tp0yMZJrgDCNG7) | 2:44 |
 | 52 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
 | 53 | [Je t’aime](https://open.spotify.com/track/1n7laOrsIo8kwmJRJSdrZk) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [Je t’aime](https://open.spotify.com/album/5xkAfTuVQ8SbDZpeWAQy4B) | 2:56 |
 | 54 | [Tyle Śladów](https://open.spotify.com/track/1Tkg3k3NiG7N8fFS7HnsvS) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Tyle Śladów](https://open.spotify.com/album/182mPuz9e1vF8yPhzYbWBD) | 6:09 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 56 | [Ja\-Amosia](https://open.spotify.com/track/4lCVXrW0aACVkMvKwCUZRM) | [ShataQS](https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Ja\-Amosia](https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW) | 4:18 |
 | 57 | [na moje nieszczęście](https://open.spotify.com/track/5kp1LBPYyaGswDaG75sx13) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [na moje nieszczęście](https://open.spotify.com/album/4vMEv5ht5B8rQhIalwnhQG) | 3:05 |
 | 58 | [OPIUM](https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [OPIUM / NIE POCIESZĘ CIĘ](https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB) | 2:32 |
-| 59 | [Przed siebie](https://open.spotify.com/track/5YeQDD9RYGJlZFJz3mDFmo) | [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Otuchy](https://open.spotify.com/album/6WF8SMvtdP8fPzZuZzcnvM) | 3:09 |
-| 60 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
+| 59 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
+| 60 | [Przed siebie](https://open.spotify.com/track/5YeQDD9RYGJlZFJz3mDFmo) | [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Otuchy](https://open.spotify.com/album/6WF8SMvtdP8fPzZuZzcnvM) | 3:09 |
 
 Snapshot ID: `AAAAABVihyVV/fvby4fiEURufNOD/Ame`

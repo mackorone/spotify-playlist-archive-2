@@ -1,6 +1,6 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 150602,
+  "num_followers": 150702,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-09-14 20:54:50",
       "album": {
+        "name": "I'm Sorry But I Love You",
+        "url": "https://open.spotify.com/album/70ZSfvPwbX3ThC2nxopjdm"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 242014,
+      "name": "I'm Sorry But I Love You",
+      "url": "https://open.spotify.com/track/7AkoEenAhW8P6ucYlQSE7E"
+    },
+    {
+      "added_at": "2026-09-14 20:54:50",
+      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
@@ -535,22 +555,6 @@
     {
       "added_at": "2026-09-14 20:54:50",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
-    },
-    {
-      "added_at": "2026-09-14 20:54:50",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -567,22 +571,18 @@
     {
       "added_at": "2026-09-14 20:54:50",
       "album": {
-        "name": "I'm Sorry But I Love You",
-        "url": "https://open.spotify.com/album/70ZSfvPwbX3ThC2nxopjdm"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        },
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 242014,
-      "name": "I'm Sorry But I Love You",
-      "url": "https://open.spotify.com/track/7AkoEenAhW8P6ucYlQSE7E"
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2026-09-14 20:54:50",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-09-14 20:54:50",
       "album": {
-        "name": "The Breaker",
-        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+        "name": "The Way It Feels",
+        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
         }
       ],
-      "duration_ms": 263120,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
+      "duration_ms": 188320,
+      "name": "Die From A Broken Heart",
+      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
     },
     {
       "added_at": "2026-09-14 20:54:50",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-09-14 20:54:50",
       "album": {
-        "name": "The Way It Feels",
-        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
       },
       "artists": [
         {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Die From A Broken Heart",
-      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
+      "duration_ms": 263120,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
     },
     {
       "added_at": "2026-09-14 20:54:50",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-09-14 20:54:50",
       "album": {
-        "name": "4\u00d74\u00d7U",
-        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "4\u00d74\u00d7U",
-      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
-    },
-    {
-      "added_at": "2026-09-14 20:54:50",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 253933,
       "name": "From the Ground Up",
       "url": "https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g"
+    },
+    {
+      "added_at": "2026-09-14 20:54:50",
+      "album": {
+        "name": "4\u00d74\u00d7U",
+        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "4\u00d74\u00d7U",
+      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
     },
     {
       "added_at": "2026-09-14 20:54:50",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-09-14 20:54:50",
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 203222,
-      "name": "Luck Of The Draw",
-      "url": "https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm"
-    },
-    {
-      "added_at": "2026-09-14 20:54:50",
-      "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+    },
+    {
+      "added_at": "2026-09-14 20:54:50",
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 203222,
+      "name": "Luck Of The Draw",
+      "url": "https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm"
     },
     {
       "added_at": "2026-09-14 20:54:50",

@@ -1,12 +1,12 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 18169,
+  "num_followers": 18179,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAAj/HEPvXVM+kT8X770nkeh",
+  "snapshot_id": "arxRAAAAAAAdbh7id8cf6qjEh25CiS/k",
   "tracks": [
     {
       "added_at": null,
@@ -35,22 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leak It",
-        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 183406,
-      "name": "Leak It",
-      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -60,9 +44,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 159700,
-      "name": "Cry Ugly",
-      "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
+      "duration_ms": 183300,
+      "name": "Leak It",
+      "url": "https://open.spotify.com/track/2fudERIZrBL0glivkAdzco"
     },
     {
       "added_at": null,
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 200000,
-      "name": "I can\u2019t be high around you anymore",
-      "url": "https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb"
+      "duration_ms": 159700,
+      "name": "Cry Ugly",
+      "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
     },
     {
       "added_at": null,
@@ -198,15 +182,11 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sex In Peace (ft. kwn)",
-      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
+      "duration_ms": 200000,
+      "name": "I can\u2019t be high around you anymore",
+      "url": "https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb"
     },
     {
       "added_at": null,
@@ -270,11 +250,15 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Remedied",
-      "url": "https://open.spotify.com/track/53k6rqSYCCzMPk995U8fE6"
+      "duration_ms": 205000,
+      "name": "Sex In Peace (ft. kwn)",
+      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
     },
     {
       "added_at": null,
@@ -340,25 +324,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Don\u2019t Break Her Heart",
-      "url": "https://open.spotify.com/track/1L0qyb6Xwna2BZU7gP5W9Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not My Job",
-        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 174588,
-      "name": "Not My Job",
-      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
+      "duration_ms": 128000,
+      "name": "Remedied",
+      "url": "https://open.spotify.com/track/53k6rqSYCCzMPk995U8fE6"
     },
     {
       "added_at": null,
@@ -379,6 +347,22 @@
       "duration_ms": 170492,
       "name": "CRASH OUT (feat. FLO)",
       "url": "https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not My Job",
+        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 174588,
+      "name": "Not My Job",
+      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
     },
     {
       "added_at": null,
@@ -408,25 +392,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Therapy at the Club",
-      "url": "https://open.spotify.com/track/7hnDA01jw2lnQ0sLPpyDq6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 147539,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
+      "duration_ms": 223000,
+      "name": "Don\u2019t Break Her Heart",
+      "url": "https://open.spotify.com/track/1L0qyb6Xwna2BZU7gP5W9Z"
     },
     {
       "added_at": null,
@@ -443,6 +411,22 @@
       "duration_ms": 154066,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/3oDwhvezO1m2mhpKtFimLw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 147539,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
     },
     {
       "added_at": null,
@@ -479,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOAT (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 206497,
-      "name": "Mamacitas",
-      "url": "https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Access All Areas: Unlocked",
         "url": "https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ"
       },
@@ -507,6 +475,22 @@
       "duration_ms": 199578,
       "name": "Do Too Much",
       "url": "https://open.spotify.com/track/6y5YVn647h2dKeWtvmpj0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOAT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Mamacitas",
+      "url": "https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf"
     },
     {
       "added_at": null,
@@ -547,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 180370,
-      "name": "Another Guy - Acoustic",
-      "url": "https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Access All Areas: Unlocked",
         "url": "https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ"
       },
@@ -575,6 +543,22 @@
       "duration_ms": 185755,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/6hyIzRsqpSHhfMy8QQ05sB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 180370,
+      "name": "Another Guy - Acoustic",
+      "url": "https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz"
     },
     {
       "added_at": null,

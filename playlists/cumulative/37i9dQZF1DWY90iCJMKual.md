@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Bert Symoun
 
-531 songs - 1 day 4 hr 55 min
+532 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Care 4 U](https://open.spotify.com/track/4CRhhz480Sqkyg98mgEaJL) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Beautiful Girls](https://open.spotify.com/album/5a5HVIQt2cGlZFGD7eNLCT) | 2:06 | 2025-04-25 | 2025-12-04 |
 | [Cavite's Poison](https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Cavite's Poison](https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj) | 3:31 | 2024-05-08 | 2024-08-24 |
 | [Ch 2 \(Wit Da Crew\)](https://open.spotify.com/track/6X49EGlmQFfgAiMc6rPQlt) | [Career High](https://open.spotify.com/artist/6K3kUQfctEAPXhBRPsTfe8) | [Ch 2 \(Wit Da Crew\)](https://open.spotify.com/album/4PKFvN0w50Pdsj9GEXXkMZ) | 3:44 | 2026-06-26 |  |
+| [CHANGES \- 2a.m\. Version](https://open.spotify.com/track/0NkjDfL4oR4tkrL4h2nEal) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [CHANGES \(2a.m\. Version\)](https://open.spotify.com/album/3q1yepROevr5CzFJd8Sral) | 3:09 | 2026-10-02 |  |
 | [Chemistry](https://open.spotify.com/track/529drn8X80TyoPS3GdL3Le) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Chemistry](https://open.spotify.com/album/2hjrQmqKGiD2S69mTkNVR8) | 3:17 | 2025-10-24 | 2025-12-04 |
 | [cherry soda](https://open.spotify.com/track/3Ge1rIdxXfPqnC6AzJlHsz) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/1T3Qwd52WDENjeUMxbysZg) | 3:35 | 2022-12-14 | 2023-07-29 |
 | [cherry soda](https://open.spotify.com/track/6wLYxlMsuGoARoRhDy52y3) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/5uW4MpBBGO9yYeBTcBFdjx) | 3:35 | 2022-10-12 | 2023-01-08 |
@@ -324,7 +325,7 @@
 | [Musika](https://open.spotify.com/track/4jieuIRNXqqiWK8SDH1bN5) | [Jeff Grecia](https://open.spotify.com/artist/6Dg35SGkgpUJ2hGAYrx5Qa), [Blanko](https://open.spotify.com/artist/3uETMeCNufzNR3aJnzY3WM) | [Musika](https://open.spotify.com/album/2Mc1QZJkPoqOzI2E15Nv17) | 3:01 | 2025-09-19 | 2025-12-04 |
 | [my bad](https://open.spotify.com/track/3pNF853kMhVlJvlnDu2ImB) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [my bad](https://open.spotify.com/album/5sJF9sBGpdn1p7BMNB7oR7) | 3:12 | 2023-10-13 | 2024-02-07 |
 | [My Boo](https://open.spotify.com/track/1TbkeE5t46kxqRXzGpQ60t) | [Jr Crown](https://open.spotify.com/artist/3r0NbTTxtCBUyxcIR4prXr) | [My Boo](https://open.spotify.com/album/1WXRuW3UuCSp66ckCoZJFB) | 3:04 | 2024-07-01 | 2024-10-12 |
-| [My Girls](https://open.spotify.com/track/6uJuIxDkKyhWLTCyDu5jQN) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO), [FEIFEI](https://open.spotify.com/artist/30jze9BJJlYuJGAj6AHJZX) | [My Girls](https://open.spotify.com/album/4dfCaDY6CBONg0fT74FQEJ) | 3:16 | 2026-03-27 |  |
+| [My Girls](https://open.spotify.com/track/6uJuIxDkKyhWLTCyDu5jQN) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO), [FEIFEI](https://open.spotify.com/artist/30jze9BJJlYuJGAj6AHJZX) | [My Girls](https://open.spotify.com/album/4dfCaDY6CBONg0fT74FQEJ) | 3:16 | 2026-03-27 | 2026-10-02 |
 | [My Shawty](https://open.spotify.com/track/48i1G5RkaJmgJ6MR7r4GUp) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB) | [My Shawty](https://open.spotify.com/album/2fDHYowXMHZJSwKYAdID2D) | 3:16 | 2026-02-16 | 2026-06-27 |
 | [Naisip](https://open.spotify.com/track/1XvPdfgQAUmJcJrZgegmJy) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF) | [Naisip](https://open.spotify.com/album/4ZRXusROXrJBuG1Nytcjqh) | 3:15 | 2024-03-19 | 2024-07-13 |
 | [Nakaukit](https://open.spotify.com/track/76FFTDxECa2Mb9nySyKfYR) | [Earl Generao](https://open.spotify.com/artist/37gpPWUw01BXkRl4zg8hkk) | [Nakaukit](https://open.spotify.com/album/6bFAHAjhShwGwzHcuw3PxO) | 3:53 | 2026-09-04 |  |

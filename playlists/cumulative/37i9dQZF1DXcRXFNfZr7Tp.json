@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Current favorites and exciting new music. Cover: KATSEYE",
+  "description": "Current favorites and exciting new music. Cover: Olivia Rodrigo",
   "name": "just hits",
   "tracks": [
     {
@@ -20572,6 +20572,24 @@
       "duration_ms": 181720,
       "name": "Patience (feat. YUNGBLUD & Polo G)",
       "url": "https://open.spotify.com/track/5J5CpT6bgE6KYKk23jgp9W"
+    },
+    {
+      "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/49JeKZqejPtqJKpK7x9Ew4"
     },
     {
       "album": {

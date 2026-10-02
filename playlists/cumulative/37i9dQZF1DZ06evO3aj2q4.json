@@ -1080,10 +1080,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 264281,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM"
+    },
+    {
+      "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/1Z6rvvQMOMZw2DgyF4CQ9t"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264281,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/7sI2WC33xfq3Cw9C6e22pg"
     },
     {
       "album": {

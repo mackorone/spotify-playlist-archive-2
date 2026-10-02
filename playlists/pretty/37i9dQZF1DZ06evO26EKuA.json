@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 478049,
+  "num_followers": 478083,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACJ8mqHv7lFgRjw8fvJ809M",
+  "snapshot_id": "arxRAAAAAACkzu1bORtlaaKyRpVCtS9j",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 135106,
-      "name": "Ya Viene Amaneciendo",
-      "url": "https://open.spotify.com/track/4udpojvy03lBAx1cHINhCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 231293,
       "name": "Sobre La Tumba De Mi Padre",
       "url": "https://open.spotify.com/track/6jVcf6qobg1VLoYah4jomr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 135106,
+      "name": "Ya Viene Amaneciendo",
+      "url": "https://open.spotify.com/track/4udpojvy03lBAx1cHINhCW"
     },
     {
       "added_at": null,

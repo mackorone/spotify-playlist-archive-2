@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Worldpeace DMT
+> Discover your new favourite artists from UK&IE\. Cover: Hope Winter
 
-375 songs - 20 hr 6 min
+376 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2022-02-18 |  |
 | [Slow Kisses](https://open.spotify.com/track/501PUoceKvqu71KVl3c7z6) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Slow Kisses](https://open.spotify.com/album/57pT16oRHPnWXxKJJu7OLR) | 3:41 | 2022-02-18 |  |
 | [Slow Kisses](https://open.spotify.com/track/76O5euCWxUxbw7vOnE5Q26) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Alright Sunshine](https://open.spotify.com/album/7e22pjnv34qdJpc9J95kSX) | 3:41 | 2022-10-13 | 2024-04-19 |
+| [So Easily](https://open.spotify.com/track/0Btma492O40qn4rTguNIbQ) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [So Easily](https://open.spotify.com/album/1ZF2uwIA4FRb3WgUdZxgIo) | 2:45 | 2026-10-01 |  |
 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-24 |  |
 | [So Pretty When You Cry](https://open.spotify.com/track/2B4o1SOeV4TbxoMc5fQuWk) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [So Pretty When You Cry](https://open.spotify.com/album/00HC56vNpd80TqSJageJOs) | 2:51 | 2024-06-06 |  |
 | [Someday](https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday](https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8) | 2:41 | 2023-10-19 | 2023-10-21 |

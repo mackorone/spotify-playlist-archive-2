@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: D.O.\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: WOODZ, Lee Seung Chul\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
 
-669 songs - 1 day 19 hr 36 min
+671 songs - 1 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Bird On The Edge](https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bird On The Edge](https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm) | 4:16 | 2025-05-27 |  |
 | [Blame](https://open.spotify.com/track/4D0Zn7ULyzUVDC5z4dx5VT) | [Ragoon](https://open.spotify.com/artist/6KukpOkfUcJxKmgsGEvTaz) | [Blame](https://open.spotify.com/album/5CtYaFaa9tWwfgyJkfODVF) | 4:19 | 2022-03-29 | 2022-04-21 |
 | [Blank](https://open.spotify.com/track/2OyX69J0H3ZaO3irKbcemY) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RECIPE](https://open.spotify.com/album/7xSPokUlRKABb78sL7WRsm) | 3:12 | 2022-03-29 | 2022-06-10 |
+| [blinded](https://open.spotify.com/track/0mzKWwpI4A5gJneDNvRjKj) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [blinded](https://open.spotify.com/album/3RFAbj6AHxD4n2sOnWkGO5) | 2:46 | 2026-10-01 |  |
 | [blue lagoon](https://open.spotify.com/track/6biXLR6erSRv6PtgTt3Nd9) | [KISSXS](https://open.spotify.com/artist/2WaoJEyJIJ08YWyu7IJAOI) | [blue lagoon](https://open.spotify.com/album/2J4f8XpnORZvKOxqRmWQfx) | 3:37 | 2022-03-24 | 2022-04-18 |
 | [Blue Sky](https://open.spotify.com/track/4KHTeInKLpN83MtOenzyxn) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [Blue Sky](https://open.spotify.com/album/56pwxoS3n0wBSpDmBrOIVp) | 3:26 | 2022-07-25 | 2022-07-28 |
 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 | 2025-02-20 | 2026-02-25 |
@@ -278,7 +279,7 @@
 | [It Would Have Been The Same \(feat\. Chan\) \[From "Airman Morning Diaries \#5"\]](https://open.spotify.com/track/6hPM1g1PZmKZNDCKWcwA7G) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [It Would Have Been The Same \(feat\. Chan\) \[From "Airman Morning Diaries \#5"\]](https://open.spotify.com/album/4XzCh4KTWT72QmA2KAZw21) | 3:07 | 2021-12-27 | 2022-06-03 |
 | [It'll pass](https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [It'll pass](https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU) | 3:48 | 2023-10-04 | 2024-05-05 |
 | [It's all just lies](https://open.spotify.com/track/4T2XFY63jsrqFx2Hc7YXEn) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/4MVXmcZU1FDhR9OGarTEQK) | 3:42 | 2022-07-25 | 2022-08-04 |
-| [It's love](https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [It's love](https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR) | 4:16 | 2022-03-24 |  |
+| [It's love](https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [It's love](https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR) | 4:16 | 2022-03-24 | 2026-10-02 |
 | [It's Love](https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [It's Love](https://open.spotify.com/album/0aIHXsPQNfjajIwveOyDkk) | 4:17 | 2024-07-16 | 2024-09-28 |
 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 | 2023-08-24 |  |
 | [It’ll Be Okay](https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [20](https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP) | 4:27 | 2024-10-22 | 2024-12-16 |
@@ -428,6 +429,7 @@
 | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU) | 4:05 | 2021-12-20 | 2022-07-28 |
 | [Orpheus \(Feat\. Jo Gwangil\)](https://open.spotify.com/track/77pO7md3F2lmlXioPzNY0q) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj), [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY) | [First of all](https://open.spotify.com/album/55BqAH8rp3OjiisTNm7de1) | 3:51 | 2022-11-23 | 2022-12-25 |
 | [Our Song](https://open.spotify.com/track/7wlxkkC6PM8PknUiQIFAVE) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [Let's Meet up Now](https://open.spotify.com/album/1CeHxf4K2yyRTGSqgxqJTe) | 4:17 | 2022-03-24 | 2022-04-25 |
+| [OUR STORY](https://open.spotify.com/track/3sJqTm3IBKks1FsnapMQSe) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [40th Anniversary Tribute Duet VOICE TO VOICE](https://open.spotify.com/album/1ZbSqeeZJHDK9ECDBBPZTp) | 3:44 | 2026-10-01 |  |
 | [Our unrequited love story \(Korean Ver.\)](https://open.spotify.com/track/4bAtJo9xcOBlWO6nAxbkRZ) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Our unrequited love story](https://open.spotify.com/album/0suBDEQUPriV1qzaWkfjX2) | 3:35 | 2023-12-01 | 2023-12-14 |
 | [Over the window \(feat\. Paul Kim\)](https://open.spotify.com/track/1TsMSWZHdljgsgIqAH7JuT) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Over the window](https://open.spotify.com/album/3JKlj3W1hKvqICDM3pGXPF) | 4:01 | 2023-12-14 | 2024-01-13 |
 | [Paindrops](https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [Tiny Bits of Life Part.7](https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv) | 4:22 | 2022-03-29 | 2022-04-15 |
@@ -520,7 +522,7 @@
 | [Thank You](https://open.spotify.com/track/1xzC5lmJfG21PJBAeQaBam) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 4:38 | 2022-12-14 | 2023-01-25 |
 | [The Destruction Of The Shell](https://open.spotify.com/track/62V1fAl9jYjZiXNuxuSoFI) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [The Return Of N.EX.T Pt\. 1 The Being](https://open.spotify.com/album/4hK0Hd9GwgldreY6AtH4JT) | 9:53 | 2024-05-29 | 2024-06-06 |
 | [the different way](https://open.spotify.com/track/4DWbNWDPmwahzwPtQN2Dtz) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/7ru2skAL25CnTn4Y8Tg0QY) | 3:37 | 2024-01-12 | 2024-02-09 |
-| [The Eternal Moment](https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Beyond The Light](https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6) | 4:04 | 2021-12-20 |  |
+| [The Eternal Moment](https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Beyond The Light](https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6) | 4:04 | 2021-12-20 | 2026-10-02 |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-01-27 | 2022-07-22 |
 | [The girl who resembles you \(feat\. Ha Yea Song\)](https://open.spotify.com/track/1851TpHKK4pmMVBsqZQZer) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq), [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [The girl who resembles you](https://open.spotify.com/album/5k5zP2tp6VoOWIlDcJWZpz) | 3:10 | 2026-04-30 | 2026-09-09 |
 | [The Leopard of Killimanjaro](https://open.spotify.com/track/5PIr3ZJAhdAbWJx0f3Qoc3) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Through The Darkness OST Part.4](https://open.spotify.com/album/4udEUd1K2GcbAgw8VUufEO) | 4:21 | 2022-03-21 | 2022-06-12 |

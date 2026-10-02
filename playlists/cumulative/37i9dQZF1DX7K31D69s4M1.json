@@ -10299,6 +10299,24 @@
     },
     {
       "album": {
+        "name": "Gentle Morning Breeze",
+        "url": "https://open.spotify.com/album/7HTAwXhA2x9bdcqTpy56Oj"
+      },
+      "artists": [
+        {
+          "name": "Lily Valley",
+          "url": "https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123973,
+      "name": "Gentle Morning Breeze",
+      "url": "https://open.spotify.com/track/3zL7eA2EERxUOB3feTGqmV"
+    },
+    {
+      "album": {
         "name": "Gentle Rain",
         "url": "https://open.spotify.com/album/6fJWGy6aB5DgyaanfVcCOn"
       },

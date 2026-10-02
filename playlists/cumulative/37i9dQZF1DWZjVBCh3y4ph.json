@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Yena Blue",
+  "description": "Les hits zouk & kompa du moment. Photo : Stony",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1259,6 +1259,28 @@
     },
     {
       "album": {
+        "name": "CHOF\u00c9",
+        "url": "https://open.spotify.com/album/7brqwpJRxw0ktsIB8mjnve"
+      },
+      "artists": [
+        {
+          "name": "Donovan Bts",
+          "url": "https://open.spotify.com/artist/2VkwSLaUcI7vuprBKzhwkz"
+        },
+        {
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "CHOF\u00c9",
+      "url": "https://open.spotify.com/track/7BkG7eQaBl9ae7PSL7ZGnZ"
+    },
+    {
+      "album": {
         "name": "CHOKOLA",
         "url": "https://open.spotify.com/album/5a4I3nS1mB5TWlVxgZaj9J"
       },
@@ -1642,6 +1664,28 @@
       "duration_ms": 156144,
       "name": "Coups pour coups",
       "url": "https://open.spotify.com/track/5m4amDdAFosi09upf23b4G"
+    },
+    {
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/0jHl5LaDCzyIzAvMSragVw"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        },
+        {
+          "name": "T-Matt",
+          "url": "https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/695OVr6STIGnpm88aee78n"
     },
     {
       "album": {
@@ -4208,7 +4252,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 221204,
       "name": "LA-BAS",
       "url": "https://open.spotify.com/track/0QAqI8PoZE2aqU8A9OgXFw"
@@ -4496,7 +4540,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 197616,
       "name": "Loin de tout",
       "url": "https://open.spotify.com/track/0YRlSJEGo65iQDcugQ5b70"

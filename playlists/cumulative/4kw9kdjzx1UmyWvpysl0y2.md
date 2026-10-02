@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,310 songs - 3 day 0 hr 35 min
+1,312 songs - 3 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [BINARY BLOOD](https://open.spotify.com/track/0wRWhbWiJXMKAGmi526bgc) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [BINARY BLOOD](https://open.spotify.com/album/3cXBP59Y3r4AAMrUsSyymj) | 2:37 | 2024-02-21 | 2024-05-11 |
 | [BITCH](https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Dichotomy](https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V) | 3:41 | 2022-05-19 | 2022-07-30 |
 | [BITTERSWEET](https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [BITTERSWEET](https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn) | 2:37 | 2022-01-24 | 2022-04-01 |
+| [Bittersweet](https://open.spotify.com/track/4HVXaQkI6CLCnbr0eKdku4) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Bittersweet](https://open.spotify.com/album/12Fn47QlhEDFYoBZCHp4VY) | 2:45 | 2026-10-01 |  |
 | [Black Sheep](https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Black Sheep](https://open.spotify.com/album/7wflWRvq8BFK9XbNW8VIYs) | 2:54 | 2024-09-18 | 2024-12-11 |
 | [Black Velvet](https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Black Velvet](https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i) | 4:08 | 2022-08-12 | 2022-10-27 |
 | [BLEEP BLOOP](https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [BLEEP BLOOP](https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY) | 2:32 | 2023-06-05 | 2023-09-01 |
@@ -576,6 +577,7 @@
 | [IDGAF](https://open.spotify.com/track/5VEFvinD436JLHYunYwv0p) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [IDGAF](https://open.spotify.com/album/7HVmjL6BNGQcasnOZxfBio) | 3:36 | 2025-01-29 | 2025-05-01 |
 | [If I Lost You](https://open.spotify.com/track/6h0dzH10dHzzNglwUCldO5) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [If I Lost You](https://open.spotify.com/album/4TTslMeoouMV3x6uDh0TT5) | 3:31 | 2024-10-31 | 2025-02-07 |
 | [if you wanna](https://open.spotify.com/track/6E3rVTQWxbSBhSDqclngEy) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [if you wanna](https://open.spotify.com/album/5z7iWCWjQ118YggyhVsfSE) | 2:37 | 2024-11-06 | 2025-02-14 |
+| [if you wanna love me](https://open.spotify.com/track/1meldVf4wwhiQXokIEKU9M) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [dnvn](https://open.spotify.com/artist/5q1SD3zx3GPnofIAPOIFrY), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [if you wanna love me](https://open.spotify.com/album/3pBAb9xoGwDswp5rMjdfMW) | 1:52 | 2026-10-01 |  |
 | [Ignite](https://open.spotify.com/track/4rV0XtqahATaPf29s1rpAd) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Ignite](https://open.spotify.com/album/2GiGo3FNrLxqTO2q6Jh4GD) | 2:53 | 2024-08-09 | 2024-11-01 |
 | [Ignite](https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Haus of Panda](https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Ignite](https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR) | 3:16 | 2023-08-29 | 2023-12-14 |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |

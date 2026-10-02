@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADFEPzCmY5VfTHqp7+J6mUs",
+  "snapshot_id": "arxRAAAAAAAcYjp3qPY5MeroxzZnwxO7",
   "tracks": [
     {
       "added_at": null,
@@ -103,8 +103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Look Any Further",
-        "url": "https://open.spotify.com/album/68PIvWtu6dy9Omn8XPBu4L"
+        "name": "With God On Our Side",
+        "url": "https://open.spotify.com/album/2bmIEl5LZ6fvqN7VIeK7B1"
       },
       "artists": [
         {
@@ -118,7 +118,7 @@
       ],
       "duration_ms": 286306,
       "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/5sGWOANwzkSyWW6eOsgMKI"
+      "url": "https://open.spotify.com/track/6odkxZJ4TeAGV0D39z7PMr"
     },
     {
       "added_at": null,
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Blooms",
-        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
+        "name": "Bobby Tarantino III",
+        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
       "artists": [
         {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 190026,
-      "name": "If I Only Had A Brain",
-      "url": "https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn"
+      "duration_ms": 140370,
+      "name": "Inside (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
     },
     {
       "added_at": null,
@@ -640,29 +640,29 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 43546,
-      "name": "Until You Saw Me - Interlude",
-      "url": "https://open.spotify.com/track/6yX11XqvshWi3Z2E8V24FO"
+      "duration_ms": 207750,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+        "name": "Night Blooms",
+        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 140370,
-      "name": "Inside (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207750,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -784,9 +784,29 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+      "duration_ms": 317650,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 237387,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,
@@ -827,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 237387,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -856,25 +856,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 317650,
-      "name": "Brick By Brick",
-      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singing You Home - Children's Songs for Family Reunification",
-        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 157966,
-      "name": "Si Pudiera Leer Tus Sue\u00f1os",
-      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
+      "duration_ms": 163704,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
       "duration_ms": 232896,
       "name": "Glowing Up",
       "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singing You Home - Children's Songs for Family Reunification",
+        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 157966,
+      "name": "Si Pudiera Leer Tus Sue\u00f1os",
+      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 220972,
+      "name": "A Window",
+      "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ocean In The Desert",
         "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 224643,
       "name": "Ocean In The Desert",
       "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 220972,
-      "name": "A Window",
-      "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

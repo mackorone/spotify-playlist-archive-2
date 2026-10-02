@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,841 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,856 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Muévelo](https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:04 |
 | 2 | [Mis Ojos Lloran Por Ti](https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 4:55 |
 | 3 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
-| 4 | [Me Acuerdo](https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [VICO\-C Digital Collection 1987\-2007](https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi) | 5:59 |
-| 5 | [Go Pato](https://open.spotify.com/track/3aHjc7Ib2aXtfz23bCPz7j) | [Pato Banton](https://open.spotify.com/artist/0cpt0xebTXatYk3KvnrU9m) | [Universal Love](https://open.spotify.com/album/4poltWgc6sylGnlpgxEZ3c) | 4:37 |
+| 4 | [Go Pato](https://open.spotify.com/track/3aHjc7Ib2aXtfz23bCPz7j) | [Pato Banton](https://open.spotify.com/artist/0cpt0xebTXatYk3KvnrU9m) | [Universal Love](https://open.spotify.com/album/4poltWgc6sylGnlpgxEZ3c) | 4:37 |
+| 5 | [Me Acuerdo](https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [VICO\-C Digital Collection 1987\-2007](https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi) | 5:59 |
 | 6 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2XRqhe4lmCQVaUWawR5wRo) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:21 |
 | 7 | [Me La Explota Feat\. Yankee](https://open.spotify.com/track/2cH8koRSDXBsvfEbeKcs9N) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:18 |
 | 8 | [Pase Lo Que Pase](https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Jeanette](https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 3:43 |
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 12 | [La Danza Bella](https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:19 |
 | 13 | [Voz Sensual](https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 2:51 |
 | 14 | [El Cubo de Leche](https://open.spotify.com/track/1f2AyplMMO29MHBkjfFRmc) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:54 |
-| 15 | [El Meneaito \(Panama\)](https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06) | [Gaby](https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k) | [Ragga War II \- Retro](https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM) | 3:41 |
+| 15 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/0IUl6p6MRVAC8xQOAEX4iD) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
 | 16 | [Tu Pun Pun](https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:32 |
-| 17 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/0IUl6p6MRVAC8xQOAEX4iD) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
+| 17 | [El Meneaito \(Panama\)](https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06) | [Gaby](https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k) | [Ragga War II \- Retro](https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM) | 3:41 |
 | 18 | [Chezidom](https://open.spotify.com/track/0iO8CghAaUo0lVLSHawUc1) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 4:36 |
 | 19 | [La Química](https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [Sin Parar](https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v) | 3:26 |
 | 20 | [Luna y Estrellas](https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [Unknown \(Magnate & Valentino / Gargolas 3\)](https://open.spotify.com/track/0zcmjDnv3ZjbyhEhZkvnhn) | [Magnate Y Valentino](https://open.spotify.com/artist/5hhclzZsaNfmBh0eQI44JQ) | [Gargolas 3](https://open.spotify.com/album/5epQeyQpmcBbpbh62AwTNp) | 2:52 |
 | 75 | [Interlude \- Recuerdos De Antes](https://open.spotify.com/track/41YlrDHYlDB3Ml9BqJfqi3) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:22 |
 
-Snapshot ID: `AAAAACxt4J+slQe3egFFKajPv8NgO6/K`
+Snapshot ID: `AAAAAHCbvaZ1ED/TVGpi4VAReoZ0rG6K`

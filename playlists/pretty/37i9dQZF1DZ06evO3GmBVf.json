@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 218840,
+  "num_followers": 218873,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAClRdv9ehSB5i2BuJVyGxup",
+  "snapshot_id": "arxRAAAAAAC87rATPo2btHa+lt1SMKVT",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sientelo",
         "url": "https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 188264,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
     },
     {
       "added_at": null,
@@ -455,6 +455,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flaco Pesado (Remix)",
+        "url": "https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        }
+      ],
+      "duration_ms": 227631,
+      "name": "Flaco Pesado (Remix)",
+      "url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Volvi\u00f3 A Amanecer",
         "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
       },
@@ -483,34 +511,6 @@
       "duration_ms": 188125,
       "name": "Nada Es Perfecto",
       "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flaco Pesado (Remix)",
-        "url": "https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Jay Romero",
-          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
-        }
-      ],
-      "duration_ms": 227631,
-      "name": "Flaco Pesado (Remix)",
-      "url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Para",
+        "url": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "No Para",
+      "url": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 13",
         "url": "https://open.spotify.com/album/3ECiGqnRoKcmatFalPTO82"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 217913,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Para",
-        "url": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "No Para",
-      "url": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Estoy Mejor",
-        "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
+        "name": "Shit Masiva",
+        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 274172,
-      "name": "Ahora Estoy Mejor",
-      "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
+      "duration_ms": 235068,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/4O6R59QSJoQlROItXrZcCe"
     },
     {
       "added_at": null,
@@ -795,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shit Masiva",
-        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
+        "name": "Ahora Estoy Mejor",
+        "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
       "artists": [
         {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        },
-        {
           "name": "Lefty Sm",
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 235068,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/4O6R59QSJoQlROItXrZcCe"
+      "duration_ms": 274172,
+      "name": "Ahora Estoy Mejor",
+      "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
     },
     {
       "added_at": null,

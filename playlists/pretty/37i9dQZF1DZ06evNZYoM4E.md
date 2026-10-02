@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,931 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,936 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,20 +19,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 | 9 | [Een Beetje Verliefd](https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:14 |
 | 10 | [De Vlieger](https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alle 40 Goed](https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc) | 3:39 |
 | 11 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/4pPsZePbOzRPERqPYupISb) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/0icN1DUr8DrI9W58Sc3DyH) | 2:32 |
-| 12 | [Het Is Koud Zonder Jou](https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:06 |
+| 12 | [Waarom](https://open.spotify.com/track/2uVNFzJr9uzO0Nsi6G6oa1) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:00 |
 | 13 | [Als Ik Jou Vergeef](https://open.spotify.com/track/24pNmGnmTN6qm8knOSw4Ey) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:41 |
 | 14 | [Ik Leef M'n Eigen Leven](https://open.spotify.com/track/7qwNSHctECC8wPqFwUZsGo) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 4:50 |
 | 15 | [Amor, Amor, Amor](https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Liefde](https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0) | 3:46 |
-| 16 | [Waarom](https://open.spotify.com/track/2uVNFzJr9uzO0Nsi6G6oa1) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:00 |
+| 16 | [Het Is Koud Zonder Jou](https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:06 |
 | 17 | [Het Laatste Rondje](https://open.spotify.com/track/4L2xU84Wbc37In2KXQdQMO) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:20 |
 | 18 | ['t Rode Licht](https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:36 |
 | 19 | [Blijf Bij Mij](https://open.spotify.com/track/4AQnXdOq7ChjMhibKrKne1) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Samen Met Dré](https://open.spotify.com/album/5iwfn6LrS7wwhuMLn16io3) | 4:01 |
 | 20 | [Als Je Alles Weet](https://open.spotify.com/track/5kp7N9D8kbw3ig9jvp5oe7) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Liefde, Leven, Geven](https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi) | 4:11 |
 | 21 | [De Nacht Is M'n Leven](https://open.spotify.com/track/4mvIRuhH0DNbObyjCddEFI) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:23 |
 | 22 | [Eenzaam Zonder Jou](https://open.spotify.com/track/3UJ8i54HagEeH4lhmACvLb) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Want Ik Hou Van Jou](https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB) | 3:52 |
-| 23 | [Zomer](https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:38 |
+| 23 | [Dat Ene Moment](https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alleen Met Jou](https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL) | 4:17 |
 | 24 | [Bedankt Mijn Vriend](https://open.spotify.com/track/2f8rXpUhlKYsK1zUnHeSJj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Liefde, Leven, Geven](https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi) | 3:17 |
-| 25 | [Dat Ene Moment](https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alleen Met Jou](https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL) | 4:17 |
+| 25 | [Zomer](https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:38 |
 | 26 | ['n Vriend](https://open.spotify.com/track/08uynYGHmW0iPtuiQkrQM5) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:57 |
 | 27 | [Speel Niet Met Vuur](https://open.spotify.com/track/7fshS3mr0mCoOsAs5kAcYF) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Voor Jou](https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ) | 2:31 |
 | 28 | [Volare](https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Innamorato](https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD) | 3:40 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 | 34 | [Vaag En Stil](https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Vaag En Stil](https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4) | 3:31 |
 | 35 | [De Glimlach Van Een Kind](https://open.spotify.com/track/3rmeMUVPieGjJDFPZ2SurK) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [De Hazes 100](https://open.spotify.com/album/06eur57GeYWvei9L0hlduF) | 3:17 |
 | 36 | [Rotzooi? Je Zegt 'T Maar](https://open.spotify.com/track/7b7UWhdR0WwW5fnp0vUkhZ) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij Bent Alles](https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH) | 3:19 |
-| 37 | [Ik Heb 'T Altijd Al Geweten](https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Liefde](https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0) | 3:14 |
-| 38 | [Leef Nu Maar Je Eigen Leven](https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:54 |
-| 39 | [Sorry \- Holland Zingt Hazes](https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Sorry \(Holland Zingt Hazes\)](https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu) | 3:40 |
+| 37 | [Sorry \- Holland Zingt Hazes](https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Sorry \(Holland Zingt Hazes\)](https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu) | 3:40 |
+| 38 | [Ik Heb 'T Altijd Al Geweten](https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Liefde](https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0) | 3:14 |
+| 39 | [Leef Nu Maar Je Eigen Leven](https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:54 |
 | 40 | [Wees Zuinig Op M'n Meissie](https://open.spotify.com/track/1ZKArL3MUbctYbDA0aA70M) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [De Hazes 100](https://open.spotify.com/album/06eur57GeYWvei9L0hlduF) | 3:30 |
 | 41 | [Laat De Zon Maar Schijnen](https://open.spotify.com/track/1rgBtqS3nUpVCfg3Xc7ybg) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Mijn Gevoel](https://open.spotify.com/album/7egOHHWD0QAecudU4JjPTe) | 3:35 |
 | 42 | [Op De Schoorsteen Staat Een Foto](https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Op De Schoorsteen Staat Een Foto](https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 | 49 | [Buona Sera / Oh Marie \- Live](https://open.spotify.com/track/4TuIZQYLVAQMUorEEH0FOm) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [De Hazes 100](https://open.spotify.com/album/06eur57GeYWvei9L0hlduF) | 4:27 |
 | 50 | ['T Is Voorbij](https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij Bent Alles](https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH) | 3:30 |
 
-Snapshot ID: `armuAAAAAAA6mkodV+vzlDaE8lzVUScD`
+Snapshot ID: `arxRAAAAAABnghAA9WMTURcckFWSQDs0`

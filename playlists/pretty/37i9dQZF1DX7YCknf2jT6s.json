@@ -1,13 +1,53 @@
 {
-  "description": "New jazz for open minds. Cover: Kiefer",
-  "num_followers": 1050217,
+  "description": "New jazz for open minds. Cover: Meshell Ndegeocello",
+  "num_followers": 1050243,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIFkQRBH4xS542j/gqev46c2eO8F",
+  "snapshot_id": "AAAAANrxqLQPSbsDhK9g50D1jLEzQbAi",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:10:08",
+      "album": {
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 278959,
+      "name": "Don\u2019t Stop The Music (with Nick Hakim, Robert Glasper)",
+      "url": "https://open.spotify.com/track/582a1u4ziN01BgLtXDacQb"
+    },
+    {
+      "added_at": "2026-09-11 04:02:14",
+      "album": {
+        "name": "Here Because of Hope",
+        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
+    },
     {
       "added_at": "2026-09-25 04:07:11",
       "album": {
@@ -33,40 +73,24 @@
       "url": "https://open.spotify.com/track/2NvLivoGmNiAxKdI6ylzPk"
     },
     {
-      "added_at": "2026-09-25 04:07:11",
+      "added_at": "2026-10-02 04:10:08",
       "album": {
-        "name": "Water\u2019s Edge",
-        "url": "https://open.spotify.com/album/1JClFAJBmFZNpK0WrmJwQM"
+        "name": "Cows",
+        "url": "https://open.spotify.com/album/0udG01fgscq1AhnQLkZlTg"
       },
       "artists": [
         {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
         },
         {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+          "name": "Ursa Major",
+          "url": "https://open.spotify.com/artist/1t96Tk4yaINGyLVLVxmmC3"
         }
       ],
-      "duration_ms": 174868,
-      "name": "Water\u2019s Edge",
-      "url": "https://open.spotify.com/track/1Ay0dA7sOqOanoqIWsghLU"
-    },
-    {
-      "added_at": "2026-09-11 04:02:14",
-      "album": {
-        "name": "Here Because of Hope",
-        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
+      "duration_ms": 384892,
+      "name": "Cows",
+      "url": "https://open.spotify.com/track/12DEfsc5TBgfMyWcrvU5CT"
     },
     {
       "added_at": "2026-09-18 04:36:39",
@@ -87,6 +111,162 @@
       "duration_ms": 495636,
       "name": "Luck Be A Lady",
       "url": "https://open.spotify.com/track/2qoFgri9rsDsqtgTAfKgrR"
+    },
+    {
+      "added_at": "2026-10-02 04:10:08",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 247567,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb"
+    },
+    {
+      "added_at": "2026-10-02 04:10:08",
+      "album": {
+        "name": "La Sentencia - Duo",
+        "url": "https://open.spotify.com/album/3HguosoaEMHpSODZmb1o36"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "duration_ms": 294727,
+      "name": "La Sentencia - Duo",
+      "url": "https://open.spotify.com/track/74oyWihpW29wlh97CLkMaj"
+    },
+    {
+      "added_at": "2026-09-25 04:07:11",
+      "album": {
+        "name": "Water\u2019s Edge",
+        "url": "https://open.spotify.com/album/1JClFAJBmFZNpK0WrmJwQM"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 174868,
+      "name": "Water\u2019s Edge",
+      "url": "https://open.spotify.com/track/1Ay0dA7sOqOanoqIWsghLU"
+    },
+    {
+      "added_at": "2026-10-02 04:10:08",
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/52P77NykjNvql68U08PVVc"
+      },
+      "artists": [
+        {
+          "name": "Kay Young",
+          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "duration_ms": 120697,
+      "name": "No Doubt",
+      "url": "https://open.spotify.com/track/5lf3BFZdQEOq2JNoL9diLg"
+    },
+    {
+      "added_at": "2026-10-02 04:10:08",
+      "album": {
+        "name": "Dusty Road",
+        "url": "https://open.spotify.com/album/2O4DRGpFoWQCseWKc2ltwk"
+      },
+      "artists": [
+        {
+          "name": "ALA.NI",
+          "url": "https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "duration_ms": 162604,
+      "name": "Dusty Road",
+      "url": "https://open.spotify.com/track/55iVsZNIycQCCJUE4IbI4X"
+    },
+    {
+      "added_at": "2026-10-02 04:10:08",
+      "album": {
+        "name": "S\u00d6WT",
+        "url": "https://open.spotify.com/album/4sb0xNlVbIfBFAVLjeWVEx"
+      },
+      "artists": [
+        {
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
+        }
+      ],
+      "duration_ms": 333538,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/5i1zG83bK5oDO20BrZKR9d"
+    },
+    {
+      "added_at": "2026-10-02 04:10:08",
+      "album": {
+        "name": "quickstep",
+        "url": "https://open.spotify.com/album/405N5N8Y6V6luI7eC4QSim"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 153234,
+      "name": "quickstep",
+      "url": "https://open.spotify.com/track/2K1xNouCzNa6ZOOOgYhUDl"
+    },
+    {
+      "added_at": "2026-10-02 04:10:08",
+      "album": {
+        "name": "Jazz Is Just A Game (feat. Nicholas Payton & M\u00e9lanie Charles)",
+        "url": "https://open.spotify.com/album/3NRq9eacE0EZgMPc8YQs5u"
+      },
+      "artists": [
+        {
+          "name": "Tomoki Sanders",
+          "url": "https://open.spotify.com/artist/3pX3ft5SzH5EHRoULEcIk4"
+        },
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Melanie Charles",
+          "url": "https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe"
+        }
+      ],
+      "duration_ms": 482111,
+      "name": "Jazz Is Just A Game (feat. Nicholas Payton & M\u00e9lanie Charles)",
+      "url": "https://open.spotify.com/track/04Hefb7OJR7uje3RNnbJ9o"
     },
     {
       "added_at": "2026-09-18 04:36:39",
@@ -123,26 +303,6 @@
     {
       "added_at": "2026-09-25 04:07:11",
       "album": {
-        "name": "sepia",
-        "url": "https://open.spotify.com/album/44KLsk28L2z0Y0BuNhSPkG"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        }
-      ],
-      "duration_ms": 270001,
-      "name": "sepia",
-      "url": "https://open.spotify.com/track/2rHOQ1CXk7nB5MyRQcLynX"
-    },
-    {
-      "added_at": "2026-09-25 04:07:11",
-      "album": {
         "name": "Save Your Love For Me",
         "url": "https://open.spotify.com/album/5pignuLGf8luVEkknB07MX"
       },
@@ -171,26 +331,6 @@
       "duration_ms": 433093,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/3yLyUD6ZVnpUAZ8tzUPmVI"
-    },
-    {
-      "added_at": "2026-09-11 04:02:14",
-      "album": {
-        "name": "No Rhyme, No Reason",
-        "url": "https://open.spotify.com/album/6tuKTHMNMyLrLoHm4EJb3b"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        },
-        {
-          "name": "Ursa Major",
-          "url": "https://open.spotify.com/artist/1t96Tk4yaINGyLVLVxmmC3"
-        }
-      ],
-      "duration_ms": 344074,
-      "name": "No Rhyme, No Reason",
-      "url": "https://open.spotify.com/track/1nBewNqCzUiuR4ZDvUgeG3"
     },
     {
       "added_at": "2026-08-28 04:01:31",
@@ -271,26 +411,6 @@
       "duration_ms": 625946,
       "name": "Beacon of Hope",
       "url": "https://open.spotify.com/track/6eGDP2ObBt7zbVVUT0tJJQ"
-    },
-    {
-      "added_at": "2026-08-07 04:01:37",
-      "album": {
-        "name": "Don't You Want Me",
-        "url": "https://open.spotify.com/album/4yMS0dBNInnEnN9R3KqPQj"
-      },
-      "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        },
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 275997,
-      "name": "Don\u2019t You Want Me (with Cat Power)",
-      "url": "https://open.spotify.com/track/2uadrfFrPg8kQccUr36aEc"
     },
     {
       "added_at": "2026-09-18 04:36:39",
@@ -693,22 +813,6 @@
       "url": "https://open.spotify.com/track/0HnzJayzmv01DGyBV1J8na"
     },
     {
-      "added_at": "2026-09-18 04:36:39",
-      "album": {
-        "name": "S\u00d6WT",
-        "url": "https://open.spotify.com/album/0GnWV276OoGWWMCBOzivMw"
-      },
-      "artists": [
-        {
-          "name": "JD Allen",
-          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
-        }
-      ],
-      "duration_ms": 462558,
-      "name": "S\u00d6WT",
-      "url": "https://open.spotify.com/track/1sH0Nzfn1mD10YadjDB77x"
-    },
-    {
       "added_at": "2026-07-10 04:00:27",
       "album": {
         "name": "FATHERS",
@@ -949,22 +1053,6 @@
       "url": "https://open.spotify.com/track/4XPC8S3jNd7m54H9tAgBwq"
     },
     {
-      "added_at": "2026-03-06 05:00:24",
-      "album": {
-        "name": "BIG MAMA",
-        "url": "https://open.spotify.com/album/4SmsosLwKd9CML2ekO2wnS"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 184083,
-      "name": "CAPTAIN KERNEL",
-      "url": "https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel"
-    },
-    {
       "added_at": "2026-05-08 04:26:21",
       "album": {
         "name": "Sunken Scores",
@@ -1011,26 +1099,6 @@
       "duration_ms": 281520,
       "name": "Chi Ave/A Love Letter To Salvador",
       "url": "https://open.spotify.com/track/1LWMeSQAQwxQMU5iliTVWc"
-    },
-    {
-      "added_at": "2026-03-20 04:00:54",
-      "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/3ehJxu0Y4xuXMJyaYCpv0a"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 246786,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/4c3iegw9CfKT3ZjeyzevQW"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1227,22 +1295,6 @@
       "duration_ms": 383893,
       "name": "Aversion",
       "url": "https://open.spotify.com/track/3MDksTG6Kwv7er3F8fT3bj"
-    },
-    {
-      "added_at": "2026-02-27 05:00:51",
-      "album": {
-        "name": "Our Community Will Not Be Erased",
-        "url": "https://open.spotify.com/album/2tEfIZ3BGDlXSmEhLGUzre"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Manifesto",
-      "url": "https://open.spotify.com/track/2XhxjNlHAN22jo5xwqr6v2"
     },
     {
       "added_at": "2026-05-15 04:01:09",
@@ -1449,26 +1501,6 @@
       "url": "https://open.spotify.com/track/49wWdpiIvXzLMjyJnhusIT"
     },
     {
-      "added_at": "2026-02-27 05:00:51",
-      "album": {
-        "name": "Water (Feelings, Emotions) [Immanuel's Edit]",
-        "url": "https://open.spotify.com/album/0576BL8688fzkTnEjQPZ8n"
-      },
-      "artists": [
-        {
-          "name": "Marquis Hill",
-          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
-        },
-        {
-          "name": "Amyna Love",
-          "url": "https://open.spotify.com/artist/36V5ANjAPdyjdj7ZQlrDBc"
-        }
-      ],
-      "duration_ms": 244894,
-      "name": "Water (Feelings, Emotions) - Immanuel's Edit",
-      "url": "https://open.spotify.com/track/0Pem9UJoE48GKqFne0hn5K"
-    },
-    {
       "added_at": "2026-03-06 05:00:24",
       "album": {
         "name": "Twio Vol. 2",
@@ -1519,30 +1551,6 @@
       "duration_ms": 172582,
       "name": "Juntos Vencemos",
       "url": "https://open.spotify.com/track/4YeEBndzeRs7XnKaBB9X5e"
-    },
-    {
-      "added_at": "2026-02-27 05:00:51",
-      "album": {
-        "name": "One Voice \u2013 One World",
-        "url": "https://open.spotify.com/album/5MJvK7fboOgoC182ohzFs8"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "Mbuso Khoza",
-          "url": "https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW"
-        },
-        {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Thokola Mama",
-      "url": "https://open.spotify.com/track/6sMujJDUsHX85VV9fCJdAx"
     },
     {
       "added_at": "2026-04-24 04:01:10",

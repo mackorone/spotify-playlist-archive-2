@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 ### [RADAR AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYIJ3HxqIxIJ)
 
-> Local artists you need to watch, handpicked by our editors\. Cover: Lewis Love
+> Local artists you need to watch, handpicked by our editors\. Cover: Becca Hatch
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,954 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,955 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 48 | [Sunburn](https://open.spotify.com/track/3KnNRJwe3Vzv3cyjNaS4Bd) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [Sunburn](https://open.spotify.com/album/1dF6Na5IDeVsVnC9MSzZBI) | 3:02 |
 | 49 | [i would \- day 48](https://open.spotify.com/track/2DGDafkDgL0epxAmum4bnX) | [Ethan French](https://open.spotify.com/artist/03Y8hH60ObeKNFsDcum6Uu) | [i would \- day 48](https://open.spotify.com/album/1Hw16YikggaipasjE5Upn3) | 1:56 |
 
-Snapshot ID: `AAAAAEy3yX3VrL/MCqYNf1IgriqC50by`
+Snapshot ID: `AAAAAAflyH6L96A4VAiXAlSvwunsBOUB`

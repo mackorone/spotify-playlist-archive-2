@@ -4,7 +4,7 @@
 
 > 📸 KAROL G
 
-742 songs - 1 day 14 hr 57 min
+743 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [01 dE ENEro](https://open.spotify.com/track/5KqaqJGPWgSJKVzDfmx2Mf) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 1:54 | 2023-06-29 | 2023-07-07 |
 | [100oMIL](https://open.spotify.com/track/3DDexajgYw9notHn95WtNc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Trapicheo: EL DON](https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO) | 2:53 | 2024-03-21 | 2024-04-05 |
 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-01 |  |
-| [2 GATITA$](https://open.spotify.com/track/271Pz4W7ZZTIJKHvf9PI4x) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [MEGA CALLEJERO FINO RKT 4](https://open.spotify.com/album/5Xx5iuoFs2mCtfq7dAWr1T) | 1:37 | 2026-08-28 |  |
+| [2 GATITA$](https://open.spotify.com/track/271Pz4W7ZZTIJKHvf9PI4x) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [MEGA CALLEJERO FINO RKT 4](https://open.spotify.com/album/5Xx5iuoFs2mCtfq7dAWr1T) | 1:37 | 2026-08-28 | 2026-10-02 |
 | [21 de agosto](https://open.spotify.com/track/76nc1xnr4BxHMDFsJ79A7S) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [21 de agosto](https://open.spotify.com/album/2S2cdxfOdXoALZRPhuZ2jw) | 3:12 | 2026-08-28 |  |
 | [2Tonos](https://open.spotify.com/track/78UcD75aiIsUnLUXivBQ5T) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [5202](https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00) | 2:13 | 2025-07-10 | 2025-07-18 |
 | [3 PECADOS DESPUES…](https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166](https://open.spotify.com/album/6apkynw8DBUza2600Wm70t) | 1:58 | 2024-07-18 | 2024-11-26 |
@@ -484,6 +484,7 @@
 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-14 | 2022-10-28 |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-05-26 | 2022-07-15 |
 | [pasarella 👠](https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [pasarella 👠](https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md) | 2:42 | 2025-07-04 | 2025-11-14 |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-10-01 |  |
 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 | 2022-04-25 | 2022-06-17 |
 | [Pa´Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pa´ Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC) | 2:52 | 2024-10-16 | 2025-04-25 |
 | [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 | 2022-12-29 | 2023-05-05 |

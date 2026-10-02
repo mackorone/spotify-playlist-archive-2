@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Ahiyan",
-  "num_followers": 588339,
+  "num_followers": 588348,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-09-29 10:00:32",
       "album": {
-        "name": "ROMANESA",
-        "url": "https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny"
-      },
-      "artists": [
-        {
-          "name": "Tekir",
-          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
-        },
-        {
-          "name": "G\u00f6khan Naml\u0131",
-          "url": "https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc"
-        }
-      ],
-      "duration_ms": 157291,
-      "name": "Vursunlar - Roman Version",
-      "url": "https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N"
-    },
-    {
-      "added_at": "2026-09-29 10:00:32",
-      "album": {
         "name": "Seninle Ba\u015flar",
         "url": "https://open.spotify.com/album/0ZsZilQ9p3sThUWyZiMLZl"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 151308,
       "name": "Seninle Ba\u015flar",
       "url": "https://open.spotify.com/track/5lJtI1uJPDrv2x6vhCmml0"
+    },
+    {
+      "added_at": "2026-09-29 10:00:32",
+      "album": {
+        "name": "ROMANESA",
+        "url": "https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny"
+      },
+      "artists": [
+        {
+          "name": "Tekir",
+          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
+        },
+        {
+          "name": "G\u00f6khan Naml\u0131",
+          "url": "https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc"
+        }
+      ],
+      "duration_ms": 157291,
+      "name": "Vursunlar - Roman Version",
+      "url": "https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N"
     },
     {
       "added_at": "2026-09-29 10:00:32",

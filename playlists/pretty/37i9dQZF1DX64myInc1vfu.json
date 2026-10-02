@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Camilo",
-  "num_followers": 106780,
+  "num_followers": 106789,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "D\u00e9jame Conocerte",
         "url": "https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 217658,
       "name": "D\u00e9jame Conocerte",
       "url": "https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Bohemio",
         "url": "https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 208004,
       "name": "Bohemio",
       "url": "https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Tiza",
-        "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "Muy Agradecido",
-      "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 191750,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "Tiza",
+        "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "Muy Agradecido",
+      "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "La Mudanza",
-        "url": "https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        }
-      ],
-      "duration_ms": 223691,
-      "name": "La Mudanza",
-      "url": "https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 184461,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "La Mudanza",
+        "url": "https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "duration_ms": 223691,
+      "name": "La Mudanza",
+      "url": "https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Saber si estoy a tiempo (feat. Mar\u00eda Jos\u00e9)",
-        "url": "https://open.spotify.com/album/6jl84sIqZDudBVQND1CrKq"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        },
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 228123,
-      "name": "Saber si estoy a tiempo (feat. Mar\u00eda Jos\u00e9)",
-      "url": "https://open.spotify.com/track/303wZAFrAzGnfxpqtmLRsH"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
         "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 170896,
       "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
       "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "Saber si estoy a tiempo (feat. Mar\u00eda Jos\u00e9)",
+        "url": "https://open.spotify.com/album/6jl84sIqZDudBVQND1CrKq"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 228123,
+      "name": "Saber si estoy a tiempo (feat. Mar\u00eda Jos\u00e9)",
+      "url": "https://open.spotify.com/track/303wZAFrAzGnfxpqtmLRsH"
     },
     {
       "added_at": "2026-09-25 04:03:05",

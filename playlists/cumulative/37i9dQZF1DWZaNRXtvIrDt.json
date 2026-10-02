@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: Lady Shaka",
+  "description": "A new world of alternative electronic music. Cover: Sam Alfred",
   "name": "Portal",
   "tracks": [
     {
@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174566,
       "name": "All In For You (feat. KU\u010cKA)",
       "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 208500,
       "name": "Bank Storm",
       "url": "https://open.spotify.com/track/6HX8WkPl9lMW4p19mvhGlI"
@@ -3981,6 +3981,28 @@
     },
     {
       "album": {
+        "name": "Cash Cure the Pain",
+        "url": "https://open.spotify.com/album/579MzFdoabifPNHdgUK4T2"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        },
+        {
+          "name": "Dadada",
+          "url": "https://open.spotify.com/artist/33Zf7q4FgcBgjTJ2DTqQLf"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266097,
+      "name": "Cash Cure the Pain",
+      "url": "https://open.spotify.com/track/1rRDI12yFOspPqTN3Ga12V"
+    },
+    {
+      "album": {
         "name": "UP",
         "url": "https://open.spotify.com/album/71cFJJ15zMyKYaS6NlwZMM"
       },
@@ -4638,6 +4660,32 @@
       "duration_ms": 252444,
       "name": "Confide",
       "url": "https://open.spotify.com/track/5BgDMTu8Mv7QGvekUoJTBH"
+    },
+    {
+      "album": {
+        "name": "Connected By Light",
+        "url": "https://open.spotify.com/album/6b9DMqotjI0cUcw8CE1u3W"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        },
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208854,
+      "name": "Connected By Light",
+      "url": "https://open.spotify.com/track/1HBJvNFEPWy8puFVlud8GU"
     },
     {
       "album": {
@@ -5760,7 +5808,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 390000,
       "name": "Doin' It All 4 U - Lovetempo Remix",
       "url": "https://open.spotify.com/track/5nA7GhofX2ljMqDe1eCjth"
@@ -8108,7 +8156,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 200640,
       "name": "Free The Drums",
       "url": "https://open.spotify.com/track/1csNIbXIhGt3tdFyesyNtq"
@@ -9168,7 +9216,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 286285,
       "name": "HARDSTYLE 2",
       "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"
@@ -9302,7 +9350,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 283424,
       "name": "Heaven Scent",
       "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
@@ -10033,6 +10081,32 @@
     },
     {
       "album": {
+        "name": "I Need EP",
+        "url": "https://open.spotify.com/album/7LvFbt0joNJXFFGghdeETA"
+      },
+      "artists": [
+        {
+          "name": "IN2STELLAR",
+          "url": "https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq"
+        },
+        {
+          "name": "Jungle Georgia",
+          "url": "https://open.spotify.com/artist/3B3QwBPt7bJdfjm7DnBBxz"
+        },
+        {
+          "name": "DJ Sarah",
+          "url": "https://open.spotify.com/artist/2ENBr5U6mFa8ylriwcKdfh"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275466,
+      "name": "I Need - 5AM Sunrise Mix",
+      "url": "https://open.spotify.com/track/09RtwKxixeK1qx6K6rjbJG"
+    },
+    {
+      "album": {
         "name": "I Need For Speed",
         "url": "https://open.spotify.com/album/16lV4BfF8XLr3M3QQzBVmB"
       },
@@ -10398,7 +10472,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 251817,
       "name": "In Movement",
       "url": "https://open.spotify.com/track/2KaOLIiTvWmL94o5YYSEb7"
@@ -11156,7 +11230,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 278895,
       "name": "Kibbeh Nayyeh",
       "url": "https://open.spotify.com/track/1y6x1Hc0C5sVPCfngfmfOp"
@@ -15753,6 +15827,24 @@
     },
     {
       "album": {
+        "name": "PUMP!",
+        "url": "https://open.spotify.com/album/4I4IfbtW5zz4Pr22BQjNAu"
+      },
+      "artists": [
+        {
+          "name": "Caleb Jackson",
+          "url": "https://open.spotify.com/artist/3YRKJG9dgxTToWLfQnp3h3"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235038,
+      "name": "PUMP!",
+      "url": "https://open.spotify.com/track/7huj6KMjlyawZDeZfn2KOi"
+    },
+    {
+      "album": {
         "name": "Pure Puma",
         "url": "https://open.spotify.com/album/59IfvGrW8KSsw0wNHAYGL0"
       },
@@ -16580,7 +16672,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 335665,
       "name": "Rubbing",
       "url": "https://open.spotify.com/track/4miQKb9E3kVOFwHXcqfDxv"
@@ -16784,7 +16876,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 251694,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/3YTJkFBcTafcaepBCr8Ar0"
@@ -17388,7 +17480,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
@@ -18196,7 +18288,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 437809,
       "name": "Spiralen",
       "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
@@ -19168,7 +19260,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 138118,
       "name": "Taconeando",
       "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
@@ -19272,7 +19364,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"

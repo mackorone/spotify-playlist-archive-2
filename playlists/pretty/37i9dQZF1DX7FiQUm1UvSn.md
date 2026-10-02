@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,442 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,476 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 | 59 | [One Dance](https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [One Dance](https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8) | 2:32 |
 | 60 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 |
 
-Snapshot ID: `AAAAALzK/n0I63HQEb3Z+bXcpVusWORH`
+Snapshot ID: `AAAAALkITzQwl1hzUkTboXztb68mjlyM`

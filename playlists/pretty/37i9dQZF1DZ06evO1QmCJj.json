@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 48936,
+  "num_followers": 48935,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAABXchEYBxNVURBN4hrPP1bb",
+  "snapshot_id": "arxRAAAAAABl09fvzmM1zREkinFoYrby",
   "tracks": [
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+        "name": "Santer\u00eda",
+        "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
       },
       "artists": [
         {
@@ -416,13 +416,17 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 174386,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/6PSyxMi8vTq5m25Yh6Oc6J"
+      "duration_ms": 184000,
+      "name": "Santer\u00eda",
+      "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
     },
     {
       "added_at": null,
@@ -447,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santer\u00eda",
-        "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
       "artists": [
         {
@@ -456,17 +460,13 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Santer\u00eda",
-      "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
+      "duration_ms": 174386,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/6PSyxMi8vTq5m25Yh6Oc6J"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Pepe y Vizio",
-          "url": "https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "DE PLASTILINA",
-      "url": "https://open.spotify.com/track/6HyNrYrY8gegxrZQuQQ1GJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORAZONES ROTOS",
         "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 230130,
       "name": "CORAZONES ROTOS",
       "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Pepe y Vizio",
+          "url": "https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "DE PLASTILINA",
+      "url": "https://open.spotify.com/track/6HyNrYrY8gegxrZQuQQ1GJ"
     },
     {
       "added_at": null,
@@ -815,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
       "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+      "duration_ms": 174433,
+      "name": "Me Quedo",
+      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
     },
     {
       "added_at": null,
@@ -847,22 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
       },
       "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 174433,
-      "name": "Me Quedo",
-      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
     },
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 199747,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NAVE DRAG\u00d3N",
         "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 192975,
       "name": "Ya No Quiero N\u00e1",
       "url": "https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 199747,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
     },
     {
       "added_at": null,

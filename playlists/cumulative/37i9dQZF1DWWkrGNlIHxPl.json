@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by Arab artists. Cover: Shargeeya",
+  "description": "Global crossovers by Arab artists. Cover: Nadine El Roubi",
   "name": "Arab X",
   "tracks": [
     {
@@ -2456,6 +2456,24 @@
       "duration_ms": 156000,
       "name": "Games",
       "url": "https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/2lldErQeUYPa4tzWJrcxWz"
+      },
+      "artists": [
+        {
+          "name": "Nadine El Roubi",
+          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203145,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2Hjivwv91p9oWCwn8P9TdA"
     },
     {
       "album": {
@@ -5089,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "Pick Me Apart",
+        "url": "https://open.spotify.com/album/2gSjzMzlhdNGsgOWqtopPz"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145757,
+      "name": "Pick Me Apart",
+      "url": "https://open.spotify.com/track/1zcLozt26zvjyZ5OFTIiuJ"
+    },
+    {
+      "album": {
         "name": "Pick up",
         "url": "https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr"
       },
@@ -6678,7 +6714,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 167228,
       "name": "time",
       "url": "https://open.spotify.com/track/5bxN3kcVUZFWuFNwmbu9sc"
@@ -7154,7 +7190,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176228,
       "name": "Wavy in Brooklyn",
       "url": "https://open.spotify.com/track/1C8KiYm5khCfsqJkqlfWkb"

@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist\. Cover: Ilse DeLange
 
-935 songs - 1 day 22 hr 55 min
+936 songs - 1 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Never Stop](https://open.spotify.com/track/3WWA2d0BFpM0zYNhTS0ckS) | [Maria Tailor](https://open.spotify.com/artist/4H2SVtyQ9RC6KbcNpc4fQW) | [Never Stop](https://open.spotify.com/album/74eF1vJlCaw3K64fQP6b1D) | 2:17 | 2024-03-23 | 2024-04-17 |
 | [NEW DROP](https://open.spotify.com/track/0A189BUGs0WHvEA09bWdA6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 3:37 | 2024-09-17 | 2025-03-06 |
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2025-09-09 | 2025-10-02 |
+| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-10-01 |  |
 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 | 2026-09-16 |  |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-06-13 | 2024-07-04 |
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2023-02-23 | 2023-03-02 |
@@ -916,7 +917,7 @@
 | [Wie Ben Jij](https://open.spotify.com/track/2txPPrev1n79RlLuFh01lW) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [Rello](https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V) | [Money En Gang En Mixtape](https://open.spotify.com/album/5xmTC3gfSq84ZvFQOvYk2T) | 4:46 | 2023-08-31 | 2023-09-30 |
 | [Wie Ben Jij \- Sped Up](https://open.spotify.com/track/5Wgkd6dgFvjLadervYGJHH) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [Rello](https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V) | [Wie Ben Jij \(Sped Up\)](https://open.spotify.com/album/5HPvRGI723QNLimhjzXD9q) | 3:44 | 2023-09-29 | 2024-01-07 |
 | [Wil Je Weten](https://open.spotify.com/track/2Toz57Z50AtzmG1WJNynrC) | [OFFICIAL KALOUTJE](https://open.spotify.com/artist/4DelmsIXEfwweSJLOcfDQn) | [Wil Je Weten](https://open.spotify.com/album/6dms2PVjRmbmsvsU94Yu0D) | 2:33 | 2023-05-19 | 2023-07-11 |
-| [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 | 2026-09-24 |  |
+| [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 | 2026-09-24 | 2026-10-02 |
 | [Winterjas](https://open.spotify.com/track/0fp3KUWXNSFSwg37hahuit) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Winterjas](https://open.spotify.com/album/2EqyZmY7HDSArHt3Ys69ny) | 2:19 | 2025-02-03 | 2025-03-28 |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2023-11-16 | 2023-11-30 |
 | [Without You \(feat\. Usher\)](https://open.spotify.com/track/1tAutlhI9FwnKn7fVgmd5P) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:28 | 2026-01-19 |  |

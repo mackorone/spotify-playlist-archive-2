@@ -1,6 +1,6 @@
 {
   "description": "The songs soundtracking the best years ",
-  "num_followers": 83552,
+  "num_followers": 83624,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
+        "name": "Stories That Touch",
+        "url": "https://open.spotify.com/album/5V4Mel3NQSGXJkBtAUzZUe"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Soft Work",
+      "url": "https://open.spotify.com/track/4V4iOjpWebbWHS5eycyeTn"
+    },
+    {
+      "added_at": "2026-09-22 19:05:19",
+      "album": {
         "name": "Shele Gan Gan",
         "url": "https://open.spotify.com/album/59vlF8oPYgqngDXwuHKfTp"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 220493,
       "name": "Shele Gan Gan",
       "url": "https://open.spotify.com/track/4umLGm81374u2zCfa4ugjQ"
-    },
-    {
-      "added_at": "2026-09-22 19:05:19",
-      "album": {
-        "name": "Rema",
-        "url": "https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 179775,
-      "name": "Dumebi",
-      "url": "https://open.spotify.com/track/1sBX7EfLOgP3u6gHJBSqQg"
     }
   ],
   "unique_name": "Rewind: Naija Hits",

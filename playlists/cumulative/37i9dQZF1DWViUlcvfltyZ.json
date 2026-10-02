@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83e\udd41 Julie Ant in cover ",
+  "description": "Rock, indie e punk dall'Italia \ud83e\udd41 Lembrete in cover ",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -928,6 +928,24 @@
       "duration_ms": 229373,
       "name": "Abbronzatura",
       "url": "https://open.spotify.com/track/0pdSn1DqDtqwaPEUuxEC5r"
+    },
+    {
+      "album": {
+        "name": "About to Burn",
+        "url": "https://open.spotify.com/album/4tE5qs1rDJh52jMQfttclv"
+      },
+      "artists": [
+        {
+          "name": "LAGS",
+          "url": "https://open.spotify.com/artist/024sJGdafgBqXvIK0QTGoc"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "About to Burn",
+      "url": "https://open.spotify.com/track/0tTBcZhbvChehezGIaVOU3"
     },
     {
       "album": {
@@ -5476,7 +5494,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 181914,
       "name": "Caro X (feat. Vintage Violence)",
       "url": "https://open.spotify.com/track/7Mwq8ZNPX3CcTAeaDCGx2m"
@@ -7447,6 +7465,24 @@
     },
     {
       "album": {
+        "name": "Costruzioni",
+        "url": "https://open.spotify.com/album/06rOJaLde2W7cmb9xS0kXH"
+      },
+      "artists": [
+        {
+          "name": "Tueri Damasco",
+          "url": "https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141035,
+      "name": "Costruzioni",
+      "url": "https://open.spotify.com/track/7aRg4jKP81pMsEN1qQCxgE"
+    },
+    {
+      "album": {
         "name": "Cpr14",
         "url": "https://open.spotify.com/album/1TT1RZ8aAGVy04DVcv9oBt"
       },
@@ -8100,6 +8136,24 @@
       "duration_ms": 210328,
       "name": "Dead",
       "url": "https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR"
+    },
+    {
+      "album": {
+        "name": "Shattered Pieces",
+        "url": "https://open.spotify.com/album/6FzucuivkPr7S9MXkBYqEm"
+      },
+      "artists": [
+        {
+          "name": "Regrowth",
+          "url": "https://open.spotify.com/artist/0SoyFQVyn3YbBMAiSyBTE5"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Dead Ends",
+      "url": "https://open.spotify.com/track/7r8zGW8FS5u3TDqJebluTt"
     },
     {
       "album": {
@@ -9597,6 +9651,24 @@
     },
     {
       "album": {
+        "name": "D\u00f2bhran",
+        "url": "https://open.spotify.com/album/4838m4AHhpSLUt0tJH4ICq"
+      },
+      "artists": [
+        {
+          "name": "Yuma Birch",
+          "url": "https://open.spotify.com/artist/3z7uHEYWbHqGBxoV7OAKfC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256011,
+      "name": "D\u00f2bhran",
+      "url": "https://open.spotify.com/track/4O7s8QAtqOqhBNZipKdboV"
+    },
+    {
+      "album": {
         "name": "E tu sei la volpe",
         "url": "https://open.spotify.com/album/2jcH6TSXSYkA0k7h7z7yAa"
       },
@@ -9895,6 +9967,24 @@
     },
     {
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/0bv2wwyZQ3qs0SXvasH8mU"
+      },
+      "artists": [
+        {
+          "name": "Julinko",
+          "url": "https://open.spotify.com/artist/6lNOkTaZelvuZ4GLhtgr02"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427746,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/69HogXzTdRD4IKNcfirFKH"
+    },
+    {
+      "album": {
         "name": "Elena's Beauty Theme",
         "url": "https://open.spotify.com/album/12o45mm8xoSWby7NYpra6C"
       },
@@ -9910,6 +10000,24 @@
       "duration_ms": 296306,
       "name": "Elena's Beauty Theme",
       "url": "https://open.spotify.com/track/2SOdY5uljAC0Nf0ij678ER"
+    },
+    {
+      "album": {
+        "name": "elephant room / gate22",
+        "url": "https://open.spotify.com/album/5mpc20SjX3CSd6ESgI9qdU"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165739,
+      "name": "elephant room",
+      "url": "https://open.spotify.com/track/7jy5vBVTWlE2ffzVW8xhNM"
     },
     {
       "album": {
@@ -10618,7 +10726,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176404,
       "name": "Facciamo all'amore",
       "url": "https://open.spotify.com/track/6t6mWtIykcMVqR1qXse5YN"
@@ -14495,6 +14603,24 @@
     },
     {
       "album": {
+        "name": "How do they make cry a court jester?",
+        "url": "https://open.spotify.com/album/1A8aqzlXfl7oDbjo7z310w"
+      },
+      "artists": [
+        {
+          "name": "Anna Bielli",
+          "url": "https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225384,
+      "name": "How do they make cry a court jester?",
+      "url": "https://open.spotify.com/track/54jNk1QKmtAUQqrRHnuGT6"
+    },
+    {
+      "album": {
         "name": "Hunters Of Hope",
         "url": "https://open.spotify.com/album/3gWzsaXdytzGgQu3teTX7Y"
       },
@@ -15702,7 +15828,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 256653,
       "name": "Immagina se",
       "url": "https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9"
@@ -17942,7 +18068,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 190682,
       "name": "La sinistra \u00e8 morta (feat. Brucher\u00f2 nei pascoli)",
       "url": "https://open.spotify.com/track/1EjaLCsoOihFp7vH3NINpM"
@@ -20473,6 +20599,28 @@
     },
     {
       "album": {
+        "name": "Me x you",
+        "url": "https://open.spotify.com/album/2DMu9wU3RkyJsl30Hsjvon"
+      },
+      "artists": [
+        {
+          "name": "Red Red Flamingo",
+          "url": "https://open.spotify.com/artist/6Nbnh67N5I2KBkztEFMXnH"
+        },
+        {
+          "name": "genn butch",
+          "url": "https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Me x you",
+      "url": "https://open.spotify.com/track/5dCujshnqh4kPgsj3TQ6lT"
+    },
+    {
+      "album": {
         "name": "Medioriente / Miku\u4e94",
         "url": "https://open.spotify.com/album/2f31VolieJe7o0J9m1en3I"
       },
@@ -22283,6 +22431,24 @@
     },
     {
       "album": {
+        "name": "Nessun posso",
+        "url": "https://open.spotify.com/album/1V66nPWkfpwHzcxevDUCKf"
+      },
+      "artists": [
+        {
+          "name": "Monteluna",
+          "url": "https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195045,
+      "name": "Nessun posso",
+      "url": "https://open.spotify.com/track/5fXppZ9Nux9vDWS0ejYm1K"
+    },
+    {
+      "album": {
         "name": "Nessuna fretta",
         "url": "https://open.spotify.com/album/4gbjsilRL3pJuxAcVgGdDQ"
       },
@@ -22590,7 +22756,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 260969,
       "name": "Night Of Bakelite",
       "url": "https://open.spotify.com/track/1XhvEOVZR9MTsKmVhVoJ6F"
@@ -24178,7 +24344,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 222307,
       "name": "OMBRA",
       "url": "https://open.spotify.com/track/1F3C2pEE3A9GsQt6Rk5BhW"
@@ -27893,6 +28059,24 @@
     },
     {
       "album": {
+        "name": "Ranieri / Balotelli",
+        "url": "https://open.spotify.com/album/0rtYc5zjPHhzctjzyvXwG0"
+      },
+      "artists": [
+        {
+          "name": "Materazi Future Club",
+          "url": "https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225813,
+      "name": "RANIERI (How on earth did that happen?)",
+      "url": "https://open.spotify.com/track/5s8OWC6aPadQS50SlhVsCG"
+    },
+    {
+      "album": {
         "name": "RX4XT",
         "url": "https://open.spotify.com/album/4dVKyxmriQC92cax9rHMpp"
       },
@@ -28500,7 +28684,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 144827,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/2y2sZHSs2g7rEF8YhJnaym"
@@ -32142,7 +32326,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 234112,
       "name": "Straniero (feat. T\u00c4RA)",
       "url": "https://open.spotify.com/track/0jgsu50ar0BxKFY895X5Mn"
@@ -33896,7 +34080,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 150375,
       "name": "TIME OF MY LIFE",
       "url": "https://open.spotify.com/track/1uy1ubRkZbny4QXoWRqExk"
@@ -35057,6 +35241,24 @@
     },
     {
       "album": {
+        "name": "Tutto passa",
+        "url": "https://open.spotify.com/album/3tpXvfBqZPxGFyumlAMy1s"
+      },
+      "artists": [
+        {
+          "name": "MANAGEMENT DEL DOLORE POST-OPERATORIO",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241616,
+      "name": "Tutto passa",
+      "url": "https://open.spotify.com/track/5r9l84bzXIzD4Mv3arpMmb"
+    },
+    {
+      "album": {
         "name": "Mandic",
         "url": "https://open.spotify.com/album/5qkiRwuif0pCY5gAtDSFcM"
       },
@@ -35443,6 +35645,24 @@
     },
     {
       "album": {
+        "name": "Sei edera in me",
+        "url": "https://open.spotify.com/album/1H6YWR6B82BaF94Vy3tH2t"
+      },
+      "artists": [
+        {
+          "name": "Malafauna",
+          "url": "https://open.spotify.com/artist/73PNa5jWs5AbEFaMQK13DQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300676,
+      "name": "Un lento sonno",
+      "url": "https://open.spotify.com/track/3ccTS9mmTmH779nIvxlGez"
+    },
+    {
+      "album": {
         "name": "Lontani abbastanza",
         "url": "https://open.spotify.com/album/5tnSVEB87ReCCJKjp9BO9l"
       },
@@ -35750,6 +35970,28 @@
       "duration_ms": 232250,
       "name": "Unica parte",
       "url": "https://open.spotify.com/track/2z1GP2wdIJxOXyigmjVvwo"
+    },
+    {
+      "album": {
+        "name": "Unit Circle (Ondakeiki Remix)",
+        "url": "https://open.spotify.com/album/2jqR4eXfUuSHPkVz9xzV2T"
+      },
+      "artists": [
+        {
+          "name": "Julie's Haircut",
+          "url": "https://open.spotify.com/artist/2RRkSj0NQhBvHSUSzwG2uM"
+        },
+        {
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283683,
+      "name": "Unit Circle - Ondakeiki Remix",
+      "url": "https://open.spotify.com/track/2l3cezOmIYunMCz4prwhhz"
     },
     {
       "album": {
@@ -37012,7 +37254,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 204964,
       "name": "Vulcano",
       "url": "https://open.spotify.com/track/1OWAVqDhJ2w1gupu9HZE7b"

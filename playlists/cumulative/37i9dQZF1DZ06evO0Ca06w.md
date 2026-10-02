@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-196 songs - 10 hr 16 min
+197 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Ring Bell, Ring Bell \- Mono Version](https://open.spotify.com/track/5EiTIXOr8FXC6jHNNYjVbU) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:50 | 2021-12-28 | 2023-01-16 |
 | [Rockin' in Rhythm](https://open.spotify.com/track/0e8fxDp7b4gVUHxdJ20I3P) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:52 | 2023-04-24 | 2023-08-12 |
 | [Saduva \- Mono Version](https://open.spotify.com/track/5bRK2of0jRe5vFWHE33Tf9) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:41 | 2023-11-10 | 2023-12-22 |
+| [Saduva \- Stereo Version](https://open.spotify.com/track/1UnxAOxfELZMGVoLNSQCuB) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:43 | 2026-10-02 |  |
 | [Samba](https://open.spotify.com/track/7wRrVZt1Xq7iCbq6AYrthq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 4:52 | 2021-12-30 | 2022-06-26 |
 | [Shihibolet](https://open.spotify.com/track/0owHppZqj0GGTQOHtF5PTf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Voice of Africa](https://open.spotify.com/album/3qO41bIPxRTSTJpebafdMi) | 1:53 | 2024-12-11 | 2024-12-28 |
 | [Show Me the Way, My Brother \- Iph'indlela](https://open.spotify.com/track/379vHYzOPbCYzVAC45FC1i) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 3:11 | 2021-12-28 | 2023-01-14 |
@@ -202,7 +203,7 @@
 | [Willow Song \(From "Othello"\)](https://open.spotify.com/track/4T72zhYmO9HikWGh2Izi1H) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Best Of](https://open.spotify.com/album/2uswx6G0mHAATyEB2Lkd98) | 2:48 | 2023-02-19 | 2023-03-16 |
 | [Woza](https://open.spotify.com/track/32EJhcW8VmGQmvq7l0bbQJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Makeba Sings!](https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs) | 2:56 | 2021-12-28 | 2022-11-18 |
 | [Xica da Silva](https://open.spotify.com/track/5T6KniOzIj3Bh7DDNzrGhJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:19 | 2021-12-28 |  |
-| [Yetentu Tizaleny \- Mono Version](https://open.spotify.com/track/1EUh45Yap9LpQ7kLbCaTSw) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:51 | 2021-12-30 |  |
+| [Yetentu Tizaleny \- Mono Version](https://open.spotify.com/track/1EUh45Yap9LpQ7kLbCaTSw) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:51 | 2021-12-30 | 2026-10-02 |
 | [Zenizenabo \- Remastered 2024](https://open.spotify.com/track/3DHjBTlygFzg6nyxqueFK8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 1:21 | 2024-06-26 | 2024-09-23 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

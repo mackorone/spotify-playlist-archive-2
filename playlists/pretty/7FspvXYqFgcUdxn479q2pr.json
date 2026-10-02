@@ -1,13 +1,33 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: AVE",
-  "num_followers": 31334,
+  "num_followers": 31335,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAxGVLhmcXHe64BoON9CAnKSdUxe/UE",
+  "snapshot_id": "AAAxHexp/cj1hg1HMdK7qbbBKnNUIx0F",
   "tracks": [
+    {
+      "added_at": "2026-10-01 22:00:06",
+      "album": {
+        "name": "Mari\u00f4",
+        "url": "https://open.spotify.com/album/1l3aOvhCVXwiZ6hORsLh2c"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Jast",
+          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
+        }
+      ],
+      "duration_ms": 120238,
+      "name": "Mari\u00f4",
+      "url": "https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M"
+    },
     {
       "added_at": "2026-09-24 22:00:04",
       "album": {
@@ -29,6 +49,26 @@
       "url": "https://open.spotify.com/track/5lxWnywnnSIhZ5C5n2m889"
     },
     {
+      "added_at": "2026-10-01 22:00:03",
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/5XsL9OkrlwSFgGT9626tCF"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/0I90jklTm1yNB0FUak33Va"
+    },
+    {
       "added_at": "2026-09-24 22:00:05",
       "album": {
         "name": "FVCK BOYS",
@@ -43,6 +83,38 @@
       "duration_ms": 180394,
       "name": "FVCK BOYS",
       "url": "https://open.spotify.com/track/3nh6ce6TEVIfgS1hbkNWIO"
+    },
+    {
+      "added_at": "2026-10-01 22:00:04",
+      "album": {
+        "name": "Club Phi",
+        "url": "https://open.spotify.com/album/5tGj2FJFQ26KHjiIcROWgH"
+      },
+      "artists": [
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "Keep It Movin\u2019",
+      "url": "https://open.spotify.com/track/0JOfGKa9pJE031SlQwLZx8"
+    },
+    {
+      "added_at": "2026-10-01 22:00:05",
+      "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/2YXfiy1aLXEorGVokUw5hi"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 150410,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/6ldE1maDt5nGQ41Sh7BviE"
     },
     {
       "added_at": "2026-09-24 22:00:05",
@@ -3394,10 +3466,6 @@
         {
           "name": "Joshua Robbie",
           "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
-        },
-        {
-          "name": "Dolore",
-          "url": "https://open.spotify.com/artist/6SvOamW1u9CE5YicXDZrrg"
         }
       ],
       "duration_ms": 152727,

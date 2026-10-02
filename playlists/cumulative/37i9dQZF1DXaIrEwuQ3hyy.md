@@ -4,7 +4,7 @@
 
 > lass mal den herbst romantisieren
 
-383 songs - 21 hr 29 min
+386 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-11-09 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 2:26 | 2023-12-11 | 2024-04-19 |
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2023-07-26 | 2023-12-11 |
+| [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 | 2026-10-01 |  |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2023-07-26 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-08-23 |  |
 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 | 2023-07-26 |  |
@@ -84,6 +85,7 @@
 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 | 2025-10-09 | 2026-09-25 |
 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 | 2026-04-16 | 2026-04-23 |
 | [Day You Die](https://open.spotify.com/track/13oY1yqw2VxuAAuMWF94cs) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [the wild, the innocent & the raging \(Deluxe\)](https://open.spotify.com/album/7AQDqzHgibASY2Hwxzlzr1) | 3:08 | 2026-07-09 | 2026-07-17 |
+| [decembers](https://open.spotify.com/track/5E4lH1YcqN4LIGcE5TRmV1) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [decembers](https://open.spotify.com/album/0jnUhRL2wuWzc59MaZ3D8h) | 4:35 | 2026-10-01 |  |
 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 | 2023-07-26 |  |
 | [Devil You Know](https://open.spotify.com/track/0SvFR7coUg1LeJvGPWxG2w) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Devil You Know](https://open.spotify.com/album/3XutjqiiywXz5uD4Fx6JA0) | 3:10 | 2026-03-05 | 2026-03-27 |
 | [die 4 u](https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:52 | 2026-06-11 | 2026-08-07 |
@@ -239,7 +241,7 @@
 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-08-29 |  |
 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 | 2024-04-19 | 2024-08-06 |
 | [One More Cowboy](https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [One More Cowboy](https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc) | 3:39 | 2026-04-30 | 2026-06-19 |
-| [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 | 2024-04-19 |  |
+| [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 | 2024-04-19 | 2026-10-02 |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-07-26 | 2023-09-09 |
 | [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-07-26 | 2023-08-26 |
 | [Orbiter](https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 4:46 | 2026-05-27 |  |
@@ -310,6 +312,7 @@
 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2023-07-26 | 2024-04-19 |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2023-12-21 |  |
 | [Sugar Clouds](https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sugar Clouds](https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a) | 4:28 | 2025-12-01 | 2026-03-09 |
+| [Summer Clothes](https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Summer Clothes](https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3) | 4:25 | 2026-10-01 |  |
 | [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 | 2026-07-21 |  |
 | [Summer on Ice](https://open.spotify.com/track/4xFDggrjuOkJPO2LQmslQE) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Summer Nostalgia](https://open.spotify.com/album/1QVc0CyfwvZr18tN0apisr) | 2:54 | 2026-05-28 | 2026-07-25 |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-11 | 2025-01-07 |
@@ -366,7 +369,7 @@
 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 | 2025-05-22 | 2025-11-08 |
 | [valentino](https://open.spotify.com/track/5YsbCR2KjUvxFqS4dpy6aT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [valentino](https://open.spotify.com/album/317Xp1LCF1ESzsEDV4Gi5P) | 2:08 | 2025-05-22 | 2025-09-26 |
 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 | 2024-04-19 | 2026-03-28 |
-| [was bleibt](https://open.spotify.com/track/0IImqP5NaL0ZN5jPCIlOad) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [was bleibt](https://open.spotify.com/album/6mWRN4XBYWFVJlnmnE9UFJ) | 3:13 | 2026-09-03 |  |
+| [was bleibt](https://open.spotify.com/track/0IImqP5NaL0ZN5jPCIlOad) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [was bleibt](https://open.spotify.com/album/6mWRN4XBYWFVJlnmnE9UFJ) | 3:13 | 2026-09-03 | 2026-10-02 |
 | [Washed Up](https://open.spotify.com/track/5DC8a9K1q6xTIDlTOVVJt9) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Get It Done](https://open.spotify.com/album/3OLKZxkcuaBD1WKiRf9RtM) | 3:24 | 2023-07-26 | 2024-04-19 |
 | [Water The Flowers](https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Water The Flowers](https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2) | 2:30 | 2026-06-25 | 2026-09-27 |
 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 | 2023-07-26 |  |

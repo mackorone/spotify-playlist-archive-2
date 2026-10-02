@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-414 songs - 21 hr 2 min
+416 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 | 2026-03-26 |  |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-08-30 | 2024-10-12 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-05-14 |  |
+| [Babydoll](https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Babydoll](https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq) | 2:58 | 2026-10-01 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-10-03 | 2025-08-09 |
 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 | 2026-09-17 |  |
 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 | 2025-06-20 | 2025-10-10 |
@@ -52,7 +53,7 @@
 | [Birkenstocks](https://open.spotify.com/track/6H6XzwbSsyWw9uOlhj0CbS) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Birkenstocks](https://open.spotify.com/album/7eyyy0FGwdJ5CcEAumUEq4) | 2:18 | 2026-05-28 | 2026-06-05 |
 | [Bis zum Mond und zurück](https://open.spotify.com/track/67DN4peAmexRxZSFxdzVke) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Bis zum Mond und zurück](https://open.spotify.com/album/2f9oYYzbAtEqf5w4IVoDa2) | 2:04 | 2024-08-02 | 2024-12-19 |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-22 | 2025-02-20 |
-| [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 | 2026-05-14 |  |
+| [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 | 2026-05-14 | 2026-10-02 |
 | [Blood Sweat Tears](https://open.spotify.com/track/0zXNtzZZAE8SEAOuq6PEfY) | [RIKU RAJAMAA](https://open.spotify.com/artist/4hsmFru7NH14y1rtw59tsX) | [Blood Sweat Tears](https://open.spotify.com/album/6CBsLqPSsbikgdUINClZOO) | 2:47 | 2024-10-11 | 2024-11-14 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-06-04 | 2025-07-11 |
 | [Blue](https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Blue](https://open.spotify.com/album/7dABaHFKjSJoVKRBHHpL9u) | 3:49 | 2026-02-12 | 2026-03-13 |
@@ -81,6 +82,7 @@
 | [Closer To Me](https://open.spotify.com/track/6A5Y0hB4SGK9MCCkJJXAWm) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Closer To Me](https://open.spotify.com/album/6iwo9QpsRBRrjQFtFzL8VK) | 2:46 | 2025-11-12 | 2026-03-27 |
 | [Cold](https://open.spotify.com/track/18WbzHfUTnPK1lcDNgMnO0) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Cold](https://open.spotify.com/album/5SNJQ7BeKc43k8Cdb3KlSM) | 2:24 | 2025-10-16 | 2026-03-18 |
 | [Coming Home \(California\)](https://open.spotify.com/track/5wh6M6rmdoIeVGlOLqGnFG) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Coming Home \(California\)](https://open.spotify.com/album/2WBb1JxNC599eu8ruG6mgk) | 2:31 | 2024-06-20 | 2024-07-23 |
+| [Cool](https://open.spotify.com/track/2QxUK5UwFJq5SCBMuhWxcb) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Cool](https://open.spotify.com/album/63TlkB72XCwOElLyu0ve5a) | 2:59 | 2026-10-01 |  |
 | [cosmic wink](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 2:52 | 2026-02-26 | 2026-03-18 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-07-10 | 2025-07-11 |
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-13 | 2025-04-15 |
@@ -384,7 +386,7 @@
 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 | 2026-01-09 | 2026-02-13 |
 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 | 2026-05-14 |  |
 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 | 2026-06-25 | 2026-08-28 |
-| [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 | 2025-05-22 |  |
+| [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 | 2025-05-22 | 2026-10-02 |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-30 | 2024-10-12 |
 | [Walk Alone](https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Walk Alone](https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz) | 2:49 | 2025-09-24 | 2026-05-15 |
 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 | 2026-05-19 |  |

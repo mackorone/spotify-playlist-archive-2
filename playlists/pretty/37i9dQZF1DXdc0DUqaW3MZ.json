@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 377866,
+  "num_followers": 377878,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Orpheus",
-        "url": "https://open.spotify.com/album/5Tex6HzPTc7LZw4ZkdoWqr"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Orpheus",
-      "url": "https://open.spotify.com/track/6IN34fpoCdMi8fovTdjQfJ"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
         "name": "Risk It All (feat. Maverick Sabre)",
         "url": "https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc"
       },
@@ -779,22 +763,18 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
+        "name": "Orpheus",
+        "url": "https://open.spotify.com/album/5Tex6HzPTc7LZw4ZkdoWqr"
       },
       "artists": [
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Con Cook",
-          "url": "https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v"
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
         }
       ],
-      "duration_ms": 125084,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
+      "duration_ms": 161068,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/6IN34fpoCdMi8fovTdjQfJ"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -815,6 +795,26 @@
       "duration_ms": 174562,
       "name": "More Than A Little Bit (feat. Tinashe)",
       "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Con Cook",
+          "url": "https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v"
+        }
+      ],
+      "duration_ms": 125084,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
+        "name": "DARLING DRIVE",
+        "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 199497,
+      "name": "DARLING DRIVE",
+      "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 193032,
       "name": "Salve",
       "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
-        "name": "DARLING DRIVE",
-        "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
-      },
-      "artists": [
-        {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 199497,
-      "name": "DARLING DRIVE",
-      "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/1EMYcLuml95vQGCoAbb4aC"
+      },
+      "artists": [
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        }
+      ],
+      "duration_ms": 200107,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/6E1wMj9RapVx9yVajUPctG"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
         "name": "Pathways",
         "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 166909,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/1EMYcLuml95vQGCoAbb4aC"
-      },
-      "artists": [
-        {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Kaesu",
-          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
-        }
-      ],
-      "duration_ms": 200107,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/6E1wMj9RapVx9yVajUPctG"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1327,26 +1327,18 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Tom\u00e1s",
-        "url": "https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c"
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
       },
       "artists": [
         {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Tom\u00e1s",
-      "url": "https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa"
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1371,18 +1363,26 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+        "name": "Tom\u00e1s",
+        "url": "https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c"
       },
       "artists": [
         {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+      "duration_ms": 182000,
+      "name": "Tom\u00e1s",
+      "url": "https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa"
     },
     {
       "added_at": "2026-09-03 23:00:36",

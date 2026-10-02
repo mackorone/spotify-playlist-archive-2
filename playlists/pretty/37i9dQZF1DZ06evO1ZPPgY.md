@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,380 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,411 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 4 | [You See The Trouble With Me](https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play](https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM) | 3:29 |
 | 5 | [You're The First, The Last, My Everything](https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:36 |
 | 6 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
-| 7 | [Never, Never Gonna Give Ya Up](https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 4:50 |
-| 8 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 7:11 |
-| 9 | [You're The One I Need](https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Message is Love](https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB) | 4:25 |
+| 7 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 7:11 |
+| 8 | [You're The One I Need](https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Message is Love](https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB) | 4:25 |
+| 9 | [Never, Never Gonna Give Ya Up](https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 4:50 |
 | 10 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:02 |
 | 11 | [Baby We Better Try To Get It Together](https://open.spotify.com/track/1JUjt5q1mlm7DvvkaFpkEh) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play](https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM) | 4:25 |
 | 12 | [What Am I Gonna Do With You](https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 3:39 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 22 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
 | 23 | [Don't Make Me Wait Too Long](https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 3:19 |
 | 24 | [Just Not Enough](https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 4:21 |
-| 25 | [I Won't Settle For Less Than The Best \(For You Baby\)](https://open.spotify.com/track/10rAFshE2jcncyB0a6f618) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Beware!](https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw) | 4:21 |
-| 26 | [Heavenly, That's What You Are To Me](https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 5:02 |
+| 25 | [Heavenly, That's What You Are To Me](https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 5:02 |
+| 26 | [I Won't Settle For Less Than The Best \(For You Baby\)](https://open.spotify.com/track/10rAFshE2jcncyB0a6f618) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Beware!](https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw) | 4:21 |
 | 27 | [Love Makin' Music](https://open.spotify.com/track/07w7uThpms6ei8LrcE4son) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 4:59 |
 | 28 | [Oh What A Night For Dancing](https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 3:55 |
 | 29 | [Come On](https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:49 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 34 | [I'm Qualified To Satisfy You \- Edit](https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [All\-Time Greatest Hits](https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j) | 3:12 |
 | 35 | [I Only Want To Be With You](https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:01 |
 | 36 | [Oh Love, Well We Finally Made It](https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 3:54 |
-| 37 | [I Love To Sing The Songs I Sing](https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I Love To Sing The Songs I Sing](https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo) | 2:50 |
-| 38 | [Which Way is Up](https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 5:42 |
+| 37 | [Which Way is Up](https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 5:42 |
+| 38 | [I Love To Sing The Songs I Sing](https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I Love To Sing The Songs I Sing](https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo) | 2:50 |
 | 39 | [Whatever We Had, We Had](https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 10:39 |
 | 40 | [You Turned My Whole World Around](https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:47 |
 | 41 | [Volare](https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Put Me In Your Mix](https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL) | 5:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [Put Me In Your Mix \- Single Version](https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Gold](https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa) | 4:30 |
 | 50 | [Sha La La Means I Love You](https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 7:32 |
 
-Snapshot ID: `armuAAAAAAAd+ubUgSYhPFc1Z4ofS0L7`
+Snapshot ID: `arxRAAAAAADK2sHJuNhNJWwZwgniXRSa`

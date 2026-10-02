@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 203613,
       "name": "Dead Boys",
       "url": "https://open.spotify.com/track/7g93COdRFvOxwpxPlvrqLM"
@@ -846,6 +846,24 @@
       "duration_ms": 162600,
       "name": "Will We Talk?",
       "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
+    },
+    {
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275186,
+      "name": "You're Not The Only One",
+      "url": "https://open.spotify.com/track/50PsIMoFsYh2clFHipEi8c"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SDnFW"

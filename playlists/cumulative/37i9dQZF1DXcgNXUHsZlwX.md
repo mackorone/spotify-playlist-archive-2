@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍁
 
-658 songs - 1 day 15 hr 5 min
+660 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Appelle\-moi](https://open.spotify.com/track/3gGA2wHqIwip7i1XclXuKH) | [Véronique Trudel](https://open.spotify.com/artist/2dvQpxQTzPdgMrs8CJdMBK) | [Appelle\-moi](https://open.spotify.com/album/4lOU01m2Y2XkoVt8o9eMER) | 2:21 | 2021-04-04 | 2021-05-08 |
 | [Appropriation culturelle](https://open.spotify.com/track/2BQHeP5BLPpkEOlEv5CTVD) | [Navet Confit](https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D) | [Engagement, Lutte, Clan et Respect](https://open.spotify.com/album/5XhvCnXCEABGZeUoEkFv5t) | 5:37 | 2021-01-21 | 2021-11-19 |
 | [Après l'hiver](https://open.spotify.com/track/4qhO29pgBSBxOwZSpO5RQC) | [Véronique Trudel](https://open.spotify.com/artist/2dvQpxQTzPdgMrs8CJdMBK) | [Après l'hiver](https://open.spotify.com/album/3USD6naxmACbrfRGb76QKS) | 3:45 | 2021-01-03\* | 2022-07-20 |
-| [Ariane](https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:13 | 2025-01-31 |  |
+| [Ariane](https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:13 | 2025-01-31 | 2026-10-02 |
 | [As My Old Man Always Said](https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 4:23 | 2022-02-04 | 2026-03-03 |
 | [Asthmatique](https://open.spotify.com/track/2DU6yZypEq53onPfGcEGRu) | [Momo](https://open.spotify.com/artist/20svWRM5QSvvXMOWkyaHPN) | [Asthmatique](https://open.spotify.com/album/6cn7KRTqHatOtns7JlYIPY) | 2:14 | 2021-06-14 | 2021-10-23 |
 | [Astronaute \- Deluxe](https://open.spotify.com/track/56DBXuNndPOxNfVYmX7mew) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim), [Émile Bourgault](https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi) | [Cycle délicat \(Deluxe\)](https://open.spotify.com/album/2Z4Dya3ETZefsipO0omfZy) | 2:50 | 2026-09-04 |  |
@@ -72,6 +72,7 @@
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Carry Me \(Acoustic\)](https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv) | 3:19 | 2022-09-09 | 2022-12-17 |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/1ZKj7bESDaRueWtgUF9r3e) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Deluxe\)](https://open.spotify.com/album/2Kl2yXaVhbU6pQbi5yHD2c) | 3:19 | 2023-06-22 | 2023-07-29 |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/2eaH5ePewiCADzPBeXfe0C) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Acoustic\)](https://open.spotify.com/album/4eumW3GeJQ6oPqqQO1Ot82) | 3:19 | 2022-12-16 | 2023-05-24 |
+| [Cendres](https://open.spotify.com/track/4yLkTYwLbvvqm6p4stPKz1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Sous\-bois](https://open.spotify.com/album/53kSoH8auDnrL91XJsWXiC) | 4:02 | 2026-10-02 |  |
 | [Cent fois](https://open.spotify.com/track/16JTRfYQaSDfbUXsLB8sWX) | [Michèle O](https://open.spotify.com/artist/6lcg8HLVsKOtnCydhSKMji) | [Cent fois](https://open.spotify.com/album/0dpIM7Tjhz3imVgTinaC9y) | 4:17 | 2022-04-19 | 2022-05-25 |
 | [Cent pas](https://open.spotify.com/track/3UET3oVThA6MgDpjEgjyLq) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Cent pas](https://open.spotify.com/album/6KixBRmSppz0wrNwOd1lJS) | 3:59 | 2021-01-03\* | 2021-12-08 |
 | [Champagne rubis](https://open.spotify.com/track/4lTNJ3Zd7ehGiJahvam4Wj) | [Gabriel Desjardins](https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Champagne rubis / Pitstop](https://open.spotify.com/album/200qsTRZQHWpt8JaR2ckqf) | 2:47 | 2025-09-05 | 2025-12-06 |
@@ -307,7 +308,7 @@
 | [laulasmaa](https://open.spotify.com/track/2wlTZsfL5eictmDVatgi6K) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [mirador](https://open.spotify.com/album/2hGVnVTI3vz2SL4KPUr4Lz) | 4:33 | 2026-09-25 |  |
 | [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 | 2025-07-08 |
 | [Le coeur est sans appel](https://open.spotify.com/track/7ihpGFLkznBBwML4MxOfrl) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Remercier les accidents](https://open.spotify.com/album/3V66hVSBgfMtfGWNSqzBVZ) | 3:01 | 2021-05-23 | 2021-08-21 |
-| [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
+| [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 | 2026-10-02 |
 | [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 | 2025-09-09 |
 | [Le jour](https://open.spotify.com/track/2FCGlkyYXNxnoPhio8eNfL) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Sitka](https://open.spotify.com/album/6xfRooWnbdEwXfD3dAU3dK) | 3:34 | 2021-01-29 | 2022-02-12 |
 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 | 2021-01-03\* |  |
@@ -343,6 +344,7 @@
 | [Les travaux](https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère](https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv) | 3:50 | 2021-02-27 | 2025-08-04 |
 | [Les vagues](https://open.spotify.com/track/1bahlqlm8z6G0L1fIyQ2w6) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Baignade au centre du fleuve](https://open.spotify.com/album/7t3tXpp9Y7nxRsGV6zPTqr) | 3:55 | 2026-09-18 | 2026-09-23 |
 | [Les vents aimants](https://open.spotify.com/track/7hknXKrXWA2l4DKO1L9W31) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Les vents aimants](https://open.spotify.com/album/5DJaV9O0iPbyFgueY0WgV8) | 2:21 | 2021-03-17 | 2022-07-24 |
+| [Les yeux couleur bois](https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Les yeux couleur bois](https://open.spotify.com/album/5OXG6MvvkRT1NUJAhtjiEG) | 3:23 | 2026-10-02 |  |
 | [Les épousailles](https://open.spotify.com/track/3YBtUOXgW8FwxkAzphFAzx) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/2YH5Fvzzf55VORIDHcTqmc) | 2:38 | 2021-01-15 | 2022-07-29 |
 | [Les épousailles](https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor) | 2:38 | 2022-07-08 | 2024-04-19 |
 | [Let Me Go](https://open.spotify.com/track/3DJJXRfe9dsPI0kKOV1wTm) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [Let Me Go](https://open.spotify.com/album/0hOMPuxUuYcyn2o75G1uzj) | 4:09 | 2026-01-30 | 2026-04-18 |

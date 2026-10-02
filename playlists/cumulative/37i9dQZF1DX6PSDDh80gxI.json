@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Anna Castiglia in cover di Indie Italia \ud83c\udf53\ud83c\udf53\ud83c\udf53",
+  "description": "Emma Nolde dopo la doppietta di concerti sold out a Milano, qui in cover di Indie Italia \ud83d\ude42\u200d\u2195\ufe0f",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "BATTISTA",
+        "url": "https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW"
+      },
+      "artists": [
+        {
+          "name": "BATTISTA",
+          "url": "https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157989,
+      "name": "BATTISTA",
+      "url": "https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ"
+    },
+    {
+      "album": {
         "name": "Sammy, Cabiria, etc. etc.",
         "url": "https://open.spotify.com/album/6o9iETdhprzrxv0ARB4eoB"
       },
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 137575,
       "name": "Bene (da sola)",
       "url": "https://open.spotify.com/track/5NPY05T2iSHZpGnK5f6tmS"
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 182074,
       "name": "Ciao bella Italia (con Piccolo Coro dell'Antoniano)",
       "url": "https://open.spotify.com/track/37zCzRSonZDrQjCMW46f68"
@@ -3305,6 +3323,28 @@
     },
     {
       "album": {
+        "name": "bar speranza",
+        "url": "https://open.spotify.com/album/1QFTu41rPxba6x0QcVhv2z"
+      },
+      "artists": [
+        {
+          "name": "Westcross",
+          "url": "https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk"
+        },
+        {
+          "name": "Post Nebbia",
+          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122325,
+      "name": "fuori dall\u2019edicola (feat. Post Nebbia)",
+      "url": "https://open.spotify.com/track/7auBT0miaOEYIBq7W12oLg"
+    },
+    {
+      "album": {
         "name": "FUORI ROTTA",
         "url": "https://open.spotify.com/album/6xKa5iiKwEl8yumheDmbiC"
       },
@@ -3642,7 +3682,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178800,
       "name": "girotondo",
       "url": "https://open.spotify.com/track/3kYGjV7BajkpHI1Pw2Wbt8"
@@ -4958,7 +4998,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 154800,
       "name": "La foto migliore",
       "url": "https://open.spotify.com/track/6PwjtvnsJRpz3U4poHj2s4"
@@ -5442,6 +5482,24 @@
       "duration_ms": 202079,
       "name": "les jeux sont faits",
       "url": "https://open.spotify.com/track/5tdo8VT5g0VglkQBH58Xox"
+    },
+    {
+      "album": {
+        "name": "licia",
+        "url": "https://open.spotify.com/album/0P8drxOARh9LbMdSksQK65"
+      },
+      "artists": [
+        {
+          "name": "PETRA",
+          "url": "https://open.spotify.com/artist/3vouXKg5qDbuhmktukBZLQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171214,
+      "name": "licia",
+      "url": "https://open.spotify.com/track/7p81n4TOcxazBYhwIhXka4"
     },
     {
       "album": {
@@ -6082,6 +6140,28 @@
       "duration_ms": 173586,
       "name": "Manifesto Egoista (feat. Carlo Amleto)",
       "url": "https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9"
+    },
+    {
+      "album": {
+        "name": "Tutti Tornano A Casa",
+        "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175625,
+      "name": "Mano Nella Mano (con Fulminacci)",
+      "url": "https://open.spotify.com/track/0T6gmN1rupoIxcEI5mqyCg"
     },
     {
       "album": {
@@ -8637,6 +8717,28 @@
     },
     {
       "album": {
+        "name": "Tutti Tornano A Casa",
+        "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Quando La Luna Si Accende (con prima stanza a destra)",
+      "url": "https://open.spotify.com/track/1q95V1lKt6sDLU5QOTHFa3"
+    },
+    {
+      "album": {
         "name": "Ancora Vivi",
         "url": "https://open.spotify.com/album/32AcVi6ZsdDnHVqO3f0ZRT"
       },
@@ -9286,6 +9388,24 @@
       "duration_ms": 272000,
       "name": "Se mi succede qualcosa",
       "url": "https://open.spotify.com/track/36F3y9PuRW7JCUU76WwADe"
+    },
+    {
+      "album": {
+        "name": "Tutti Tornano A Casa",
+        "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "Seduta n.65",
+      "url": "https://open.spotify.com/track/3fXGfY6CHGZRlMqP3Xpe8q"
     },
     {
       "album": {
@@ -10656,7 +10776,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 202539,
       "name": "tu non vuoi nessuno",
       "url": "https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr"
@@ -10848,6 +10968,24 @@
       "duration_ms": 193992,
       "name": "Tutto ci\u00f2 che odio (feat. 18K)",
       "url": "https://open.spotify.com/track/2FU3zLtHc8pgWfom7D4td7"
+    },
+    {
+      "album": {
+        "name": "Tutto passa",
+        "url": "https://open.spotify.com/album/3tpXvfBqZPxGFyumlAMy1s"
+      },
+      "artists": [
+        {
+          "name": "MANAGEMENT DEL DOLORE POST-OPERATORIO",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241616,
+      "name": "Tutto passa",
+      "url": "https://open.spotify.com/track/5r9l84bzXIzD4Mv3arpMmb"
     },
     {
       "album": {
@@ -11620,6 +11758,24 @@
       "duration_ms": 221078,
       "name": "Zagara",
       "url": "https://open.spotify.com/track/39t65cFCSsP6XPguuOB2K7"
+    },
+    {
+      "album": {
+        "name": "Zalib Garden",
+        "url": "https://open.spotify.com/album/3cZDzjQLdf23TecqSZI5kv"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239186,
+      "name": "Zalib Garden",
+      "url": "https://open.spotify.com/track/7fcqrFtQ5EiODxD562ruIt"
     },
     {
       "album": {

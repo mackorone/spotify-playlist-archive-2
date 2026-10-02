@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 54127,
+  "num_followers": 54192,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAC1xUAFi9XeHtBmF5VNEVWV",
+  "snapshot_id": "arxRAAAAAAD+tYMKiTD6LlhULdiTyyA5",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Game Needs Us",
-        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        }
-      ],
-      "duration_ms": 202027,
-      "name": "Emotional High",
-      "url": "https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 209735,
       "name": "Mood (feat. BNXN)",
       "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "duration_ms": 202027,
+      "name": "Emotional High",
+      "url": "https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 200708,
+      "name": "Never Stopped",
+      "url": "https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 160000,
       "name": "Romeo Must Die (RMD)",
       "url": "https://open.spotify.com/track/4EoYs4KY7oHQpJPTuxD7mU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 200708,
-      "name": "Never Stopped",
-      "url": "https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 163042,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 160885,
       "name": "Ilashe",
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 163042,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR"
     },
     {
       "added_at": null,

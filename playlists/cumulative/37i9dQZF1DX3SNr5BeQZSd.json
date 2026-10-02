@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 149189,
       "name": "Beginning to End",
       "url": "https://open.spotify.com/track/3A7U2PXeG0XD383MoE4wcY"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 142000,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/6RmPJ6hTg8OMudAaaRTJTu"
@@ -9670,7 +9670,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 110785,
       "name": "fields",
       "url": "https://open.spotify.com/track/7utLW2in8MZjdmNlxkv5cC"
@@ -13758,7 +13758,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 146250,
       "name": "in the quiet of loss",
       "url": "https://open.spotify.com/track/7vUiISADcXsPI8p6mDXwMX"
@@ -14030,6 +14030,32 @@
       "duration_ms": 93571,
       "name": "Intake",
       "url": "https://open.spotify.com/track/51N2CQMUXhPVP0uWAym9bs"
+    },
+    {
+      "album": {
+        "name": "intercontinental",
+        "url": "https://open.spotify.com/album/0xnnILEfLQv3h9bwZhO4li"
+      },
+      "artists": [
+        {
+          "name": "Smith Beats",
+          "url": "https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u"
+        },
+        {
+          "name": "alcinous",
+          "url": "https://open.spotify.com/artist/5exJeWiFSaSkGtUAThzDB2"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "intercontinental",
+      "url": "https://open.spotify.com/track/6rrxEMusYggatGzKEa97fu"
     },
     {
       "album": {
@@ -16048,6 +16074,24 @@
       "duration_ms": 98048,
       "name": "Like This, Like That",
       "url": "https://open.spotify.com/track/4n4wIZe1tw41mG0QpBrTFY"
+    },
+    {
+      "album": {
+        "name": "like water",
+        "url": "https://open.spotify.com/album/2TOemNmXq63DOxnOnD5vGw"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131304,
+      "name": "like water",
+      "url": "https://open.spotify.com/track/1twAzJxJ4YlbJYgYYegNna"
     },
     {
       "album": {
@@ -19522,7 +19566,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 132573,
       "name": "My Story",
       "url": "https://open.spotify.com/track/1PVquBT9TklhMEsXHoU2DK"
@@ -22551,6 +22595,28 @@
     },
     {
       "album": {
+        "name": "Piemonte",
+        "url": "https://open.spotify.com/album/3sZRXxfgsu5bAHs6XjeVSQ"
+      },
+      "artists": [
+        {
+          "name": "Revoir",
+          "url": "https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f"
+        },
+        {
+          "name": "Hazue",
+          "url": "https://open.spotify.com/artist/3YnVojTjzOoV0xMr7Am0EU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Piemonte",
+      "url": "https://open.spotify.com/track/5j2xjwHnOlW12wFpSfFqlQ"
+    },
+    {
+      "album": {
         "name": "Forever Ago",
         "url": "https://open.spotify.com/album/0x5Rm9euPgJYtiEQOi4Sfz"
       },
@@ -22921,6 +22987,24 @@
     },
     {
       "album": {
+        "name": "porch light",
+        "url": "https://open.spotify.com/album/2hRL6opByC8zLBW0AFZtch"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "porch light",
+      "url": "https://open.spotify.com/track/3d1Dp2m1QtW5QdLsJIfOzg"
+    },
+    {
+      "album": {
         "name": "BACKWHEN",
         "url": "https://open.spotify.com/album/76SWXS4buYzyz1wzLsFJm3"
       },
@@ -23286,6 +23370,28 @@
       "duration_ms": 100708,
       "name": "Quiet Floor",
       "url": "https://open.spotify.com/track/4xbJbIQzt20DyMzK7tw4NA"
+    },
+    {
+      "album": {
+        "name": "quiet hours",
+        "url": "https://open.spotify.com/album/20oY12If5AumPVXqo57EU1"
+      },
+      "artists": [
+        {
+          "name": "dormi",
+          "url": "https://open.spotify.com/artist/23uiFpLJQX1AqktQySyXaC"
+        },
+        {
+          "name": "yani",
+          "url": "https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111057,
+      "name": "quiet hours",
+      "url": "https://open.spotify.com/track/4diMVVPPybSBZkf1kbiaG7"
     },
     {
       "album": {
@@ -24971,6 +25077,28 @@
     },
     {
       "album": {
+        "name": "sanpo",
+        "url": "https://open.spotify.com/album/6S6G32Qp6UGnLG3hKwUOCs"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "Dryden",
+          "url": "https://open.spotify.com/artist/49THH4OZsjvk5CNT714qwq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "sanpo",
+      "url": "https://open.spotify.com/track/1qSJ7itIRRtthDiK5iZFby"
+    },
+    {
+      "album": {
         "name": "Sant\u00e9",
         "url": "https://open.spotify.com/album/11onsIN4jEWrASOtCEv3Fi"
       },
@@ -24990,6 +25118,24 @@
       "duration_ms": 128203,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/1yvTTyRgKWp1tI87DZV5a5"
+    },
+    {
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/4e9MlQ1HiRqg7FLSWvDyjJ"
+      },
+      "artists": [
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/0R8QBIuVTOFittdKb3XVFo"
     },
     {
       "album": {
@@ -25230,7 +25376,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 144742,
       "name": "Seasides",
       "url": "https://open.spotify.com/track/4c2mpOx581sVs13T9YUHUi"
@@ -25462,6 +25608,28 @@
       "duration_ms": 90000,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/0Vy7MPR6UY6GNgFK1758Mw"
+    },
+    {
+      "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/5iMW6hVKbPPw0mN79oWeYy"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128823,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/4jGv2khMmjkAGN4yPw5n7o"
     },
     {
       "album": {
@@ -26962,7 +27130,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 122353,
       "name": "Soft Landing",
       "url": "https://open.spotify.com/track/5X0NXkk966TkrDR9Egokrq"
@@ -30054,7 +30222,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 131764,
       "name": "tender",
       "url": "https://open.spotify.com/track/4No1oScChnNlR8G6HDR54O"
@@ -32695,6 +32863,24 @@
     },
     {
       "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/1ZMpzcsTJGeTEN74tmhgnX"
+      },
+      "artists": [
+        {
+          "name": "Koalres",
+          "url": "https://open.spotify.com/artist/1yraXwXFQ7TWljCiHGsA3s"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142022,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/0TLhbmitq5ltwKJ8CzasqN"
+    },
+    {
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/2lWnDgntsIW0bkdF6DJ4cT"
       },
@@ -33640,7 +33826,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 125901,
       "name": "when it is gone",
       "url": "https://open.spotify.com/track/0zF8x6GLmKw9Qg5L8ydvAG"

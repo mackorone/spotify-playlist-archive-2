@@ -1,13 +1,37 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 69864,
+  "num_followers": 69883,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKfYU8ywImyMMjZXxc5auJ8s+ETV",
+  "snapshot_id": "AAAAAMa+vf1eyUlF3fJqbx1QxPHHtAJG",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "Sun Rava",
+        "url": "https://open.spotify.com/album/6ZLNWzAkB6UabiCIkbypq5"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Fearless Five",
+          "url": "https://open.spotify.com/artist/3tIxkyG5I8dYiBud5uy8Ft"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 643228,
+      "name": "Sun Rava",
+      "url": "https://open.spotify.com/track/5PaQcnUvDhvvqCjZGZGuwd"
+    },
     {
       "added_at": "2026-03-06 05:00:03",
       "album": {
@@ -1171,26 +1195,6 @@
       "duration_ms": 261329,
       "name": "Maps - Instrumental",
       "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Old Stories",
-        "url": "https://open.spotify.com/album/6UqK3CSEE52UwtK2e9JQPc"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        },
-        {
-          "name": "Chad Fowler",
-          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
-        }
-      ],
-      "duration_ms": 374688,
-      "name": "Chapter I",
-      "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
     },
     {
       "added_at": "2022-09-23 04:01:00",

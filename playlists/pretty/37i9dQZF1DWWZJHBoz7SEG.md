@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Descubre todo lo nuevo de la semana, El Malilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,610 likes - 96 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,691 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Pop Rising Korea](https://open.spotify.com/playlist/37i9dQZF1DWVuUd3Ffrcx8)
 
-> 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Miley Cyrus\)
+> 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Taylor Swift\)
 
-967 songs - 2 day 4 hr 39 min
+968 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [Life Goes On](https://open.spotify.com/track/4Id1V7jy2XXmCYWIflaq8Z) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Life Goes On](https://open.spotify.com/album/6UMgTaIuqcZh5GXW7zbX6s) | 2:56 | 2024-06-28 | 2024-07-27 |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-08 | 2024-11-01 |
 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 | 2024-12-13 | 2025-02-12 |
-| [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 | 2026-07-16 |  |
+| [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 | 2026-07-16 | 2026-10-02 |
 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 | 2026-02-12 | 2026-04-10 |
 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 | 2025-04-10 | 2025-05-09 |
 | [Likeable](https://open.spotify.com/track/6FZDnWB0T4D8it98dfhOkO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Papaya](https://open.spotify.com/album/5J83TBJ13dS8FXyvqOlWTi) | 3:43 | 2025-04-24 | 2025-06-06 |
@@ -643,6 +643,7 @@
 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-04 | 2026-07-24 |
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-25 | 2024-09-15 |
 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 | 2025-11-06 | 2026-01-23 |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-10-02 |  |
 | [Pay That Toll](https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Pay That Toll](https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh) | 2:47 | 2026-08-28 |  |
 | [people pleaser](https://open.spotify.com/track/0UO8qysepsd0eppPu7bYp0) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [mood swings](https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe) | 2:56 | 2025-10-23 | 2026-01-15 |
 | [Perfume \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/1X55aNgEX0J7rNQ8e21dxF) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Perfume \(feat\. oceanfromtheblue\)](https://open.spotify.com/album/7snxSdifKDEkIUOCMvfklx) | 4:15 | 2024-07-04 | 2024-08-16 |

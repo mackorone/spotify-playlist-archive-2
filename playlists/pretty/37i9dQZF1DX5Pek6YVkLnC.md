@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. The many sounds of the island 🇵🇷<br/>Cover: Pink Pablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,688 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,693 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 11 | [Completa](https://open.spotify.com/track/6hzI29uwcQ94Dd8AZTkBlx) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Completa](https://open.spotify.com/album/0AVa6arfnKUwuyLbUG4LJH) | 3:28 |
 | 12 | [2C](https://open.spotify.com/track/3ek3qPh61IxyGG0wV9Vks3) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [MIDEVIL TIMES](https://open.spotify.com/album/5njAlj6cTCaQroD6NeBmp3) | 3:38 |
 | 13 | [Energy](https://open.spotify.com/track/0qh1Pe6IVkCOFDGgLW5ZNE) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Energy](https://open.spotify.com/album/3azGwm0U7VI3ahtrbzv7u2) | 3:00 |
-| 14 | [Buenas](https://open.spotify.com/track/4Aqn4dA7P7ZIwNuBoHbNcH) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [NO PASA NADA HOMBRE](https://open.spotify.com/album/3LqngCYFdrRUJK08whT3hF) | 2:55 |
+| 14 | [Buenas](https://open.spotify.com/track/4Aqn4dA7P7ZIwNuBoHbNcH) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Buenas](https://open.spotify.com/album/3LqngCYFdrRUJK08whT3hF) | 2:55 |
 | 15 | [En 5](https://open.spotify.com/track/5wyghWpA8bRNnx6SgsQGDb) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [En 5](https://open.spotify.com/album/3DBfCQMtc7N8KGcLi3SdwL) | 3:07 |
 | 16 | [Party XXX](https://open.spotify.com/track/5JXjbeBzAZFi1zK4WwMgrD) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Party XXX](https://open.spotify.com/album/18QjuSKBUaV54yVUzBBdwG) | 2:42 |
 | 17 | [AMULETO \(feat\. Frank Louis\)](https://open.spotify.com/track/2XLPOsXEjBSfLs8flIBssq) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [C eLe](https://open.spotify.com/artist/2Ayfr5VquK6dN2Rx6ATElY), [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir), [Los Sobr3naturales](https://open.spotify.com/artist/3jgY0F5dcNxmhWEdXbf1aE), [Frank Louis](https://open.spotify.com/artist/2Do2APQHg1zQ4bvpKUm9q6) | [AMULETO \(feat\. Frank Louis\)](https://open.spotify.com/album/7tzhA4pMXW1S2qnqaAg86M) | 3:44 |

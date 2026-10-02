@@ -4,7 +4,7 @@
 
 > Estoy Bien en portada.
 
-613 songs - 1 day 12 hr 53 min
+614 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 | 2023-09-08 | 2025-08-02 |
 | [Aves de papel](https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL) | [Aves de papel](https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB) | 3:53 | 2023-10-06 | 2025-08-19 |
 | [Bailar en la Cuerda Floja](https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra) | 3:41 | 2023-06-09 | 2026-07-25 |
+| [bailar kon la más fea](https://open.spotify.com/track/1VHpgm3ikG235vmw1raflm) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [bailar kon la más fea](https://open.spotify.com/album/2g4PTNCR0EcefKVNMNSKri) | 3:57 | 2026-10-02 |  |
 | [Bailemos](https://open.spotify.com/track/4ApCVG68HumQYo8poT3NM7) | [Matías Tigre](https://open.spotify.com/artist/2tWWgAvvIHIa38QAiUku1O) | [Bailemos](https://open.spotify.com/album/0ZFWM7Piyj8XaevWr0xtqu) | 3:52 | 2022-04-15 | 2022-07-15 |
 | [Balada del Asesino Triste](https://open.spotify.com/track/0ArcOt2SVMpLFgvApR1x9k) | [Guillermo Paf](https://open.spotify.com/artist/0nTcLkTcY1vfZWkDUDEeCz) | [Balada del Asesino Triste](https://open.spotify.com/album/1AaRgJ03ztJrJ2alljYfIf) | 3:48 | 2022-04-15 | 2022-08-18 |
 | [Bandeja de Plata](https://open.spotify.com/track/4J0mVSmFAKfuhjG2x74Bmp) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Bandeja de Plata](https://open.spotify.com/album/5GEfzmeLMp25L09aIGOtRj) | 2:18 | 2024-12-06 | 2025-08-02 |

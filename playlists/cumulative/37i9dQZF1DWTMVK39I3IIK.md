@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> unge kniv 🔪 @JOSVA
+> unge kniv 🔪 @Fine
 
-470 songs - 1 day 0 hr 7 min
+471 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Solrig Altan](https://open.spotify.com/track/5t9Zq4DT9FtqXOqB5Vl4bI) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat), [Oilly Wallace](https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F) | [Det, Man Vander, Vokser](https://open.spotify.com/album/6E6WiXDFMhMxLO4FjAdH6r) | 2:51 | 2026-09-25 |  |
 | [Solskam](https://open.spotify.com/track/22VyCWyIDIV7TCEpzX6qtx) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Forandring, please!?](https://open.spotify.com/album/0o2CoLXWid9ZTCSVv4RNcs) | 3:36 | 2025-03-13 | 2025-03-28 |
 | [Someone Else](https://open.spotify.com/track/6Bd25fpOLW5TzfRRtqcaFG) | [Polly](https://open.spotify.com/artist/6bgHaCCE9UiIf2leOgjdtW) | [Someone Else](https://open.spotify.com/album/7q2e4nLEpahAGAxpyUusfS) | 3:26 | 2025-08-28 | 2025-09-05 |
+| [Sometimes I rush](https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Sometimes I rush](https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B) | 1:30 | 2026-10-01 |  |
 | [Space Rock](https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Space Rock](https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0) | 1:58 | 2024-11-07 | 2024-11-22 |
 | [Spiderman \(feat\. USSEL\)](https://open.spotify.com/track/1ZUQoHxFpneJtz515ixKAH) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Til Hyggen og Til Livet](https://open.spotify.com/album/0jDfy9ZrYUXz9ZE5nVqUgO) | 2:42 | 2025-03-20 | 2025-07-03 |
 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 | 2026-04-23 | 2026-07-18 |

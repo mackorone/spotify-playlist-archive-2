@@ -6,8 +6,56 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADsEddP8pQ7JEvHwp7raq9cCyEC3/qi",
+  "snapshot_id": "AADsFLFYDqc+9a+WuKfGprfspbpznXrc",
   "tracks": [
+    {
+      "added_at": "2026-10-01 05:02:35",
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "added_at": "2026-10-02 04:58:38",
+      "album": {
+        "name": "CATastrophe",
+        "url": "https://open.spotify.com/album/143CgCeRXOHN5w8SZZjEeF"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 137814,
+      "name": "CATastrophe",
+      "url": "https://open.spotify.com/track/0xSTDHbnDl5Gw40TRphtoN"
+    },
+    {
+      "added_at": "2026-10-02 04:56:18",
+      "album": {
+        "name": "LINCE",
+        "url": "https://open.spotify.com/album/0Qh7eDSSxU5jwB9rdXArC0"
+      },
+      "artists": [
+        {
+          "name": "Sienna",
+          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
+        }
+      ],
+      "duration_ms": 194490,
+      "name": "LINCE",
+      "url": "https://open.spotify.com/track/3ul4tQoFMJwwEjq9mAXtib"
+    },
     {
       "added_at": "2026-09-25 05:50:33",
       "album": {

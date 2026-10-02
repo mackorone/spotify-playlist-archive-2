@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Los Aut\u00e9nticos Decadentes y Los Caligaris en portada. ",
-  "num_followers": 956369,
+  "num_followers": 956405,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
         "name": "El Segundo Es Felino",
         "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 236266,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Pachuco",
-      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "Defecto Perfecto",
         "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 313933,
       "name": "Sognare",
       "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
-      },
-      "artists": [
-        {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "El Son del Dolor",
-      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 282120,
       "name": "Pobre de Ti",
       "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "El Son del Dolor",
+      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Hola Chicuelos",
-        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Peligroso Pop",
-      "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "Hola Chicuelos",
+        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Peligroso Pop",
+      "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
+        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
+        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Tijuana Sound Machine",
+      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
         "name": "EV+",
         "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
-        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Tijuana Sound Machine",
-      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "Arriba La L",
         "url": "https://open.spotify.com/album/6RY9EtwiB0SI7vZNcHIPiT"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 223076,
       "name": "Arriba La L",
       "url": "https://open.spotify.com/track/1Hl32N6x9KEsSn7FndpDCe"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "Noches De Sal\u00f3n",
+        "url": "https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 232250,
+      "name": "Somos Ajenos - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -1311,22 +1327,6 @@
       "duration_ms": 202328,
       "name": "Mi vida sin tu vida",
       "url": "https://open.spotify.com/track/3juCArYNEUHsMNRDlRZL2s"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
-        "name": "Noches De Sal\u00f3n",
-        "url": "https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 232250,
-      "name": "Somos Ajenos - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Y Ca\u00edste",
-        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 292846,
-      "name": "Y Ca\u00edste",
-      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "Trinchera",
         "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 220795,
       "name": "La Izquierda de la Noche",
       "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "Y Ca\u00edste",
+        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 292846,
+      "name": "Y Ca\u00edste",
+      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
+        "name": "Fuera de Control",
+        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 210824,
+      "name": "Fuera de Control",
+      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 192939,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
-        "name": "Fuera de Control",
-        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 210824,
-      "name": "Fuera de Control",
-      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
     },
     {
       "added_at": "2026-09-04 06:00:37",

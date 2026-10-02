@@ -3079,6 +3079,28 @@
     },
     {
       "album": {
+        "name": "Dramma",
+        "url": "https://open.spotify.com/album/0fqD0NWfRlK9GMa6CwxgSF"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209463,
+      "name": "Dramma",
+      "url": "https://open.spotify.com/track/1eUxAz48txalzffXUUdTtr"
+    },
+    {
+      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO"
       },
@@ -5326,7 +5348,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 233604,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
@@ -6396,7 +6418,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 215930,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
@@ -9581,6 +9603,28 @@
     },
     {
       "album": {
+        "name": "Only Love (feat. Caroline Byrne)",
+        "url": "https://open.spotify.com/album/0EfUldJhWzfDbpKIsiRK6l"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "Only Love (feat. Caroline Byrne)",
+      "url": "https://open.spotify.com/track/2m8zrTkmOLN9kyxH1SD6Yx"
+    },
+    {
+      "album": {
         "name": "Only Love (LP Giobbi Remix)",
         "url": "https://open.spotify.com/album/45T3b0b3GdAGrg0AKVCUFB"
       },
@@ -11146,7 +11190,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 203760,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs"
@@ -12023,6 +12067,28 @@
     },
     {
       "album": {
+        "name": "ORIGIN //",
+        "url": "https://open.spotify.com/album/5WefrvxluoqwDRSHC0UUav"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274090,
+      "name": "Stay For Love",
+      "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf"
+    },
+    {
+      "album": {
         "name": "Steps",
         "url": "https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk"
       },
@@ -12604,7 +12670,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 214323,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
@@ -13140,6 +13206,24 @@
       "duration_ms": 217515,
       "name": "The World You See",
       "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
+    },
+    {
+      "album": {
+        "name": "This Dream of You",
+        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286406,
+      "name": "This Dream of You",
+      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 42968,
+  "num_followers": 42973,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -579,34 +579,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 308200,
-      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
-      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "Rossini: Colbran, the Muse (opera arias)",
         "url": "https://open.spotify.com/album/3GdwQYxeFeYMXJJD3Ruhy4"
       },
@@ -643,6 +615,34 @@
       "duration_ms": 273186,
       "name": "Rossini: Armida, Act 3 Scene 10: \"Dove son io? \u2026 Fuggi\" (Armida)",
       "url": "https://open.spotify.com/track/2AuwPusyIhgNwRed55uup4"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 308200,
+      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
+      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
     },
     {
       "added_at": "2025-12-15 11:47:15",

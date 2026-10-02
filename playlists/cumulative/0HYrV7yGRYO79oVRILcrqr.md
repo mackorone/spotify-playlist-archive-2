@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-779 songs - 2 day 0 hr 29 min
+780 songs - 2 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,6 +709,7 @@
 | [Twerkin' With A Twang](https://open.spotify.com/track/7hNtGfB2RKabvFy5d3pQp0) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 2:54 | 2025-12-04 | 2025-12-17 |
 | [Twisted Heart](https://open.spotify.com/track/6tXyqROApirTypxgRWI0OL) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 2:57 | 2026-04-06 | 2026-04-21 |
 | [Two of Us](https://open.spotify.com/track/6APATWEI9jdN8OA3N4PRvP) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [12 from 24](https://open.spotify.com/album/5aydgqRqJlLmmSchdQC66g) | 3:06 | 2026-07-01 |  |
+| [Two Weeks Notice](https://open.spotify.com/track/4ec7rEphhHk3V5rjn64A8G) | [Chaz Mason](https://open.spotify.com/artist/6IGb012Y9A2RHpb4m3v0dt) | [Two Weeks Notice](https://open.spotify.com/album/74pUBAVcmfpgTo7qixuq2R) | 4:08 | 2026-10-01 |  |
 | [Tête à l'envers](https://open.spotify.com/track/62E5607aqyEGn5T2tz4Fqr) | [Namaspamus](https://open.spotify.com/artist/1pc5KcGRGuzw16cryiEEbY) | [Tête à l'envers](https://open.spotify.com/album/6ISo571ltmZ2flJiyAYkcn) | 3:14 | 2025-10-27 | 2025-11-28 |
 | [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 | 2025-11-09 | 2025-12-17 |
 | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/track/5kGZUGMDh7wUwEHPOjFKsm) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/album/4ISu9gFv2wlWWAoMHYVV8a) | 3:15 | 2025-12-01 | 2025-12-17 |

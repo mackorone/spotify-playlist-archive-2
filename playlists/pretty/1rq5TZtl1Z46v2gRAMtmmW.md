@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,015 likes - 95 songs - 5 hr 48 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,013 likes - 96 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,5 +103,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 93 | [Carols of My Mind](https://open.spotify.com/track/3yxBQDZmxlWe8ZIiMgQ5fN) | [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ), [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G), [Radamiz](https://open.spotify.com/artist/56UwW3oPU8t6IPhyiS1dju) | [How Far We’ve Come](https://open.spotify.com/album/5w6FgFIXI41Rw9Mg9YNKL6) | 2:59 |
 | 94 | [Noise Keeper](https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [D Stone](https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9) | [Noise Keeper](https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW) | 3:42 |
 | 95 | [Dekki](https://open.spotify.com/track/7Egzpr24Fz9yiiwv6JOL7U) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV), [Maryama Cham](https://open.spotify.com/artist/1IgQXOB6xo098UpJplr6Lk), [Barhama](https://open.spotify.com/artist/0jTXrnQV2eR82q1EBCUwVJ), [Magatte Fall](https://open.spotify.com/artist/2TeuVsoJ6KllKdijMrqMm0) | [Dekki](https://open.spotify.com/album/3v3oKw1oLWonpsJ3obeaDT) | 4:28 |
+| 96 | [Houston](https://open.spotify.com/track/1O1cqCZMZmtxVV4C8ej03i) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [Houston](https://open.spotify.com/album/3T1BwJ9nC5UVAPXBhDtr2Q) | 3:43 |
 
-Snapshot ID: `AAASMXUdjVJQCZgkkRkP56CBMj2EFW62`
+Snapshot ID: `AAASMtFXlJPzm9MFB755ngEzYvZ6eaUq`

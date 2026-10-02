@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Josie Edwards",
-  "num_followers": 65716,
+  "num_followers": 65708,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGgTta9n1AC4MX2NtgMW4ReQKxO",
+  "snapshot_id": "AAAAAPHAxkSGQwO9chNKREN3Fj1+yTc/",
   "tracks": [
     {
       "added_at": "2026-09-21 15:36:44",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-09-21 15:36:44",
       "album": {
-        "name": "Honest Woman",
-        "url": "https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 202833,
-      "name": "Same Circus",
-      "url": "https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db"
-    },
-    {
-      "added_at": "2026-09-21 15:36:44",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 169024,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
+    },
+    {
+      "added_at": "2026-09-21 15:36:44",
+      "album": {
+        "name": "Honest Woman",
+        "url": "https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 202833,
+      "name": "Same Circus",
+      "url": "https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db"
     },
     {
       "added_at": "2026-09-21 15:36:44",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-09-21 15:36:44",
       "album": {
+        "name": "Mad Big World",
+        "url": "https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 169591,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
+    },
+    {
+      "added_at": "2026-09-21 15:36:44",
+      "album": {
         "name": "sweet talk",
         "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2026-09-21 15:36:44",
       "album": {
-        "name": "Mad Big World",
-        "url": "https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4"
+        "name": "Fail-safe",
+        "url": "https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
         }
       ],
-      "duration_ms": 169591,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
+      "duration_ms": 207434,
+      "name": "Fail-safe",
+      "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
     },
     {
       "added_at": "2026-09-21 15:36:44",
@@ -647,22 +663,6 @@
       "duration_ms": 166378,
       "name": "only one way to know",
       "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
-    },
-    {
-      "added_at": "2026-09-21 15:36:44",
-      "album": {
-        "name": "Fail-safe",
-        "url": "https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 207434,
-      "name": "Fail-safe",
-      "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
     },
     {
       "added_at": "2026-09-21 15:36:44",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-09-21 15:36:44",
       "album": {
+        "name": "Next to U",
+        "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 176028,
+      "name": "Next to U",
+      "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
+    },
+    {
+      "added_at": "2026-09-21 15:36:44",
+      "album": {
         "name": "Can't Touch This",
         "url": "https://open.spotify.com/album/1idiwjkcE8F2hyNaagjPNi"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 220474,
       "name": "Raining Inside",
       "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
-    },
-    {
-      "added_at": "2026-09-21 15:36:44",
-      "album": {
-        "name": "Next to U",
-        "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 176028,
-      "name": "Next to U",
-      "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
     },
     {
       "added_at": "2026-09-21 15:36:44",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-09-21 15:36:44",
       "album": {
+        "name": "Lucky to Be",
+        "url": "https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 128853,
+      "name": "Sleeping with My Boots On",
+      "url": "https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX"
+    },
+    {
+      "added_at": "2026-09-21 15:36:44",
+      "album": {
         "name": "SYW (feat. Cecile Believe)",
         "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 166840,
       "name": "SYW (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
-    },
-    {
-      "added_at": "2026-09-21 15:36:44",
-      "album": {
-        "name": "Lucky to Be",
-        "url": "https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 128853,
-      "name": "Sleeping with My Boots On",
-      "url": "https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX"
     },
     {
       "added_at": "2026-09-21 15:36:44",

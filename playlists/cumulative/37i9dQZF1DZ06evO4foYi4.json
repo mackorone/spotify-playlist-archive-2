@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 175786,
       "name": "Chloe In The Afternoon",
       "url": "https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 277893,
       "name": "Huey Newton",
       "url": "https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV"
@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280680,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/6jcKQzA6fxIrof4AlrojG1"
+    },
+    {
+      "album": {
         "name": "St. Vincent",
         "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 214653,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 206960,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0uXOXjd0iaptu1co1BJrif"
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 281578,
       "name": "The Nowhere Inn - Live",
       "url": "https://open.spotify.com/track/5puEAUQFnOr5JeGfNbAhjo"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 245040,
       "name": "The Party",
       "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 244840,
       "name": "The Strangers",
       "url": "https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR"

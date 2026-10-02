@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > La lista donde viven los hits más grandes de la Isla del Encanto\. Cover: Conep
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,105 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,153 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 9 | [Las mas bonitas son p\#tas](https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las mas bonitas son p\#tas](https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO) | 2:39 |
 | 10 | [SPICY](https://open.spotify.com/track/1lmGCKyRnoiRuuJQrNdsfB) | [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL DIAMOND FOREVER](https://open.spotify.com/album/3XKJ8cCTqAPODrDQRCBo1J) | 3:11 |
 | 11 | [Contigo Na Más \- Remix \(feat\. Ozuna, Hades66, Jay Wheeler\)](https://open.spotify.com/track/4UjjHtqpIwH69uOlLc0VIY) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Contigo Na Más \- Remix \(feat\. Ozuna, Hades66, Jay Wheeler\)](https://open.spotify.com/album/6vwUSUBR0Hly5NATwN0RnT) | 7:46 |
-| 12 | [Buenas](https://open.spotify.com/track/4Aqn4dA7P7ZIwNuBoHbNcH) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [NO PASA NADA HOMBRE](https://open.spotify.com/album/3LqngCYFdrRUJK08whT3hF) | 2:55 |
+| 12 | [Buenas](https://open.spotify.com/track/4Aqn4dA7P7ZIwNuBoHbNcH) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Buenas](https://open.spotify.com/album/3LqngCYFdrRUJK08whT3hF) | 2:55 |
 | 13 | [De Lejitos \- Remix](https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 4:36 |
 | 14 | [BnB](https://open.spotify.com/track/6iWg7wVBXWwQYlVqp4UKPh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 2:37 |
 | 15 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |

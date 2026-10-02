@@ -1,6 +1,6 @@
 {
   "description": "Rex Orange County en portada.",
-  "num_followers": 678572,
+  "num_followers": 678559,
   "original_name": "el indie no es un g\u00e9nero ",
   "owner": {
     "name": "Spotify",
@@ -747,34 +747,18 @@
     {
       "added_at": "2026-09-25 06:00:05",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
+        "name": "THANK GOD IT'S ALMOST MONDAY",
+        "url": "https://open.spotify.com/album/6Kbrdx4BGQ41cmkJZw1yBM"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 225229,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
-    },
-    {
-      "added_at": "2026-09-25 06:00:05",
-      "album": {
-        "name": "Don't Feel Right",
-        "url": "https://open.spotify.com/album/5c74JMhCejvzLcT7Buzj9l"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Don't Feel Right",
-      "url": "https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7"
+      "duration_ms": 214461,
+      "name": "french kids",
+      "url": "https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor"
     },
     {
       "added_at": "2026-09-25 06:00:05",
@@ -831,18 +815,34 @@
     {
       "added_at": "2026-09-25 06:00:05",
       "album": {
-        "name": "THANK GOD IT'S ALMOST MONDAY",
-        "url": "https://open.spotify.com/album/6Kbrdx4BGQ41cmkJZw1yBM"
+        "name": "Don't Feel Right",
+        "url": "https://open.spotify.com/album/5c74JMhCejvzLcT7Buzj9l"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 214461,
-      "name": "french kids",
-      "url": "https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor"
+      "duration_ms": 210266,
+      "name": "Don't Feel Right",
+      "url": "https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7"
+    },
+    {
+      "added_at": "2026-09-25 06:00:05",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 225229,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
     }
   ],
   "unique_name": "el indie no es un g\u00e9nero ",

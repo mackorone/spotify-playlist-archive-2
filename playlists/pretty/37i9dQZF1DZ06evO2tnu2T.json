@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 2455,
+  "num_followers": 2456,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACEsB53JRZHOPB5c6COeA1U",
+  "snapshot_id": "arxRAAAAAACUjoWR/VTJidDX6tJHxgXk",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friends From Your Hometown",
-        "url": "https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk"
+        "name": "333",
+        "url": "https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         },
         {
           "name": "Absolutely",
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 264266,
-      "name": "Walls (feat. Absolutely) - Live",
-      "url": "https://open.spotify.com/track/7tMwaGg2AlnQ0XYLdWSJjw"
+      "duration_ms": 181699,
+      "name": "333",
+      "url": "https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR"
     },
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Friends From Your Hometown",
+        "url": "https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Walls (feat. Absolutely) - Live",
+      "url": "https://open.spotify.com/track/7tMwaGg2AlnQ0XYLdWSJjw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sun Comes Up",
         "url": "https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 205453,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 181699,
-      "name": "333",
-      "url": "https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR"
     },
     {
       "added_at": null,

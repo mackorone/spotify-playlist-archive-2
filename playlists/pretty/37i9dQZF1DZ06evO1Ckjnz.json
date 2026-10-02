@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20390,
+  "num_followers": 20391,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAAA8n/msRYQsMM/bVD8DSf69",
+  "snapshot_id": "arxRAAAAAACZYNREpOaxwe0LwHHDPjAY",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Jungle - Rico Nasty Remix",
-      "url": "https://open.spotify.com/track/3ycgBFWvzxjLtY2YJuQMms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SIMP (feat. Lil Mariko & Rico Nasty)",
         "url": "https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa"
       },
@@ -235,6 +215,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Jungle - Rico Nasty Remix",
+      "url": "https://open.spotify.com/track/3ycgBFWvzxjLtY2YJuQMms"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nightmare Vacation",
         "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
@@ -247,22 +247,6 @@
       "duration_ms": 116210,
       "name": "Pussy Poppin (I Don't Really Talk Like This)",
       "url": "https://open.spotify.com/track/5Y5pnYbPnZzUhv3KEa6qbd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RX",
-        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "Runway",
-      "url": "https://open.spotify.com/track/3CQ61nWHp8oiGK1HlGRS3d"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
       "duration_ms": 153645,
       "name": "Scary (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RX",
+        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/0AvmWUrj07p6VNfyiWShch"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RX",
-        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 133680,
-      "name": "Blow Your Nose",
-      "url": "https://open.spotify.com/track/3dqraxhY7bEXBRRYcNv6qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melt My Eyez See Your Future",
         "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RX",
+        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 134373,
+      "name": "Runway",
+      "url": "https://open.spotify.com/track/3CQ61nWHp8oiGK1HlGRS3d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "? (Deluxe)",
         "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RX",
-        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/0AvmWUrj07p6VNfyiWShch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/5sQcdmPjZvmsVA3uFZAqC5"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 185806,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/2QXB9GugNcZqXrDXYowISU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RX",
+        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 133680,
+      "name": "Blow Your Nose",
+      "url": "https://open.spotify.com/track/3dqraxhY7bEXBRRYcNv6qk"
     },
     {
       "added_at": null,
@@ -471,42 +471,6 @@
       "duration_ms": 148525,
       "name": "Arintintin",
       "url": "https://open.spotify.com/track/0gExQivfnTQxzD85envbyy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 196576,
-      "name": "Pop (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/1pqG8egYsdWZiHSMT1QTaL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RX",
-        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 121453,
-      "name": "Butthead",
-      "url": "https://open.spotify.com/track/1BtgZa0la8IFdaveNoaQ1K"
     },
     {
       "added_at": null,
@@ -539,6 +503,42 @@
       "duration_ms": 107800,
       "name": "WHO WANT IT",
       "url": "https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RX",
+        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "Cupcake",
+      "url": "https://open.spotify.com/track/0uuVhAInooMPPa2GD8HiAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 196576,
+      "name": "Pop (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/1pqG8egYsdWZiHSMT1QTaL"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IPHONE",
+        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "IPHONE",
+      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Fate of the Furious: The Album",
         "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 202093,
       "name": "Mamacita (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IPHONE",
-        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "IPHONE",
-      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
     },
     {
       "added_at": null,

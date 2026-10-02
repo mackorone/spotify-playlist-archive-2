@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Henry Morris
+> a little indie, a little pop, soda featuring Knox
 
-1,676 songs - 3 day 11 hr 44 min
+1,678 songs - 3 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [AdaLINE](https://open.spotify.com/track/2As91j4G5GKRbx4In7ClyV) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [AdaLINE](https://open.spotify.com/album/6cEOgTZp3T7lxaUSNCCeN1) | 2:45 | 2022-12-16 | 2023-02-04 |
 | [Addicted](https://open.spotify.com/track/7ro64nLWTBmKcj2cTNg7dH) | [Luna Day](https://open.spotify.com/artist/3oTEPP6FmTedvoB5MhzVrD) | [Addicted](https://open.spotify.com/album/5eQaSXBvLEelR5oway8kTk) | 2:49 | 2024-07-26 | 2024-09-21 |
 | [Adventure](https://open.spotify.com/track/3xgfy6l8SbBEOUtpAmcCQv) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Adventure](https://open.spotify.com/album/70Fw2O4fbQT3AvrrOX0W5Z) | 3:30 | 2025-02-14 | 2025-05-17 |
-| [After The After Party](https://open.spotify.com/track/0dYCy1JawuXIRXUuAkeFQj) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [After The After Party](https://open.spotify.com/album/5VEefYsBGDmyaHJzFfDrMj) | 2:52 | 2026-07-10 |  |
+| [After The After Party](https://open.spotify.com/track/0dYCy1JawuXIRXUuAkeFQj) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [After The After Party](https://open.spotify.com/album/5VEefYsBGDmyaHJzFfDrMj) | 2:52 | 2026-07-10 | 2026-10-02 |
 | [After the Tone](https://open.spotify.com/track/3JK6Fyd3DjaThmIjDAUPBm) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [After the Tone](https://open.spotify.com/album/7MfUuta1xlJMFfNZh3TAPT) | 2:22 | 2022-01-28 | 2022-03-18 |
 | [Afterglow](https://open.spotify.com/track/7Lsf0sutIM9n4D0qXnEKWN) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Afterglow](https://open.spotify.com/album/2qbRiJO6Qi4kJ7RNIcGfCQ) | 2:40 | 2024-03-29 | 2024-04-27 |
 | [Afterlife](https://open.spotify.com/track/2Kg1iDi7uHeAKUsFUV8cbU) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Afterlife](https://open.spotify.com/album/6QxANS2xYXeZjbezRja99U) | 2:43 | 2023-09-29 | 2023-11-25 |
@@ -152,7 +152,7 @@
 | [Best Imposter](https://open.spotify.com/track/4P1jAyChjeXdPbj5BDw6fI) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Best Imposter](https://open.spotify.com/album/4t1mS6c0iepFdit4iRM2Tp) | 3:07 | 2024-04-19 | 2024-05-11 |
 | [Better Off](https://open.spotify.com/track/3H4fIfIbtXv0DKCLgl5cgI) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Better Off](https://open.spotify.com/album/57fPsISPRRdVmc57pYWY96) | 2:52 | 2024-11-08 | 2025-01-25 |
 | [Better Off](https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Better Off](https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS) | 2:24 | 2025-01-31 | 2025-04-12 |
-| [Better Than Me](https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Better Than Me](https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz) | 2:55 | 2026-09-18 |  |
+| [Better Than Me](https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Better Than Me](https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz) | 2:55 | 2026-09-18 | 2026-10-02 |
 | [Better Than Real Life](https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Better Than Real Life](https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng) | 2:13 | 2022-06-03 | 2022-07-02 |
 | [Betty](https://open.spotify.com/track/2kb638zLMKUHOx4rhd4ttD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Betty](https://open.spotify.com/album/1WbPmLKZwkfrT1tPfTFNku) | 2:43 | 2025-07-11 | 2025-09-21 |
 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-01-20 | 2023-03-25 |
@@ -483,6 +483,7 @@
 | [F.O.T.I.](https://open.spotify.com/track/6KUGX92HNE6TxQn9bpMQAM) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV), [Alexander the Grape](https://open.spotify.com/artist/192YHGILC1xQnxehMvFnqT) | [Young EP](https://open.spotify.com/album/7bJWIPBR9QzymFCgqrXcf1) | 3:01 | 2025-01-31 | 2025-04-12 |
 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 | 2024-04-05 | 2024-06-01 |
 | [FAKE](https://open.spotify.com/track/10hFskWYgBsQzouIOpkfdk) | [Noah in the Open](https://open.spotify.com/artist/4aOb13B7cfQem9IbDvSNdz) | [FAKE](https://open.spotify.com/album/0jnZpyPEVCUrFIPreDR55u) | 3:58 | 2021-12-24 | 2022-03-12 |
+| [Fake ID](https://open.spotify.com/track/611GnFHMSAt1EGujPOy6Kf) | [VERNIER](https://open.spotify.com/artist/0y80wjp0iuR020GTfOlbo4) | [Fake ID](https://open.spotify.com/album/1XVbSyxsxSAieByFoNXQ4z) | 3:33 | 2026-10-02 |  |
 | [Fake It](https://open.spotify.com/track/3pKCMnO0A36oKIEIbknixC) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Fake It](https://open.spotify.com/album/2nk5HLphr2POdEPUwpwSVy) | 3:09 | 2022-10-28 | 2023-07-01 |
 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 | 2024-10-25 | 2025-01-25 |
 | [Faking Smiles](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:04 | 2026-06-12 |  |
@@ -1215,6 +1216,7 @@
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-15 | 2025-01-25 |
 | [Rush](https://open.spotify.com/track/6DwesuBTzYmdAjTynjuKEd) | [Seb Torgus](https://open.spotify.com/artist/39fzQ0Vv8BJ3J8bkf1VFUz) | [Rush](https://open.spotify.com/album/1Td33W13Kvh7xAam42b2pK) | 3:38 | 2022-03-25 | 2022-05-14 |
 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 | 2024-02-16 | 2024-03-16 |
+| [Sad Song](https://open.spotify.com/track/5MrsWtJVzVfMQ5hWCt4BzZ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [My Midwest Best](https://open.spotify.com/album/7dk59UXUbGolU6WYsNz1N9) | 3:28 | 2026-10-02 |  |
 | [Sad Tonight](https://open.spotify.com/track/2NPQbiRn9f5JWlCgNLNZJn) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 2:58 | 2022-04-01 | 2022-04-09 |
 | [saddest soundtrack](https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [saddest soundtrack](https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7) | 2:49 | 2022-09-23 | 2023-03-04 |
 | [sailboat](https://open.spotify.com/track/6pVWnjQNBnRBR3mCJb0KoI) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [sailboat](https://open.spotify.com/album/09CGLTQOVUI0HumnPS9ktq) | 1:41 | 2022-07-22 | 2022-08-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Blxckie",
+  "description": "The best in South African and international R&B. Cover: Sasha Keable",
   "name": "R&Beats",
   "tracks": [
     {
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 220235,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf"
@@ -3505,6 +3505,24 @@
     },
     {
       "album": {
+        "name": "Eugene / Save The World",
+        "url": "https://open.spotify.com/album/6Dusr0zMg57KbTwHFapiQj"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165511,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/7qmkXF08ElAFoN7Wrn3FW1"
+    },
+    {
+      "album": {
         "name": "Every day",
         "url": "https://open.spotify.com/album/0zyh418J1qN9cQ6ZOpY62k"
       },
@@ -3820,7 +3838,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 148588,
       "name": "FAVORITE LOVER",
       "url": "https://open.spotify.com/track/6YpqsRJaz6M7rZtUc6ZHpj"
@@ -8943,6 +8961,24 @@
     },
     {
       "album": {
+        "name": "options",
+        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212131,
+      "name": "options",
+      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
+    },
+    {
+      "album": {
         "name": "orange soda",
         "url": "https://open.spotify.com/album/2K0oQZd6oTCliSHh4olsVd"
       },
@@ -10072,7 +10108,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 233142,
       "name": "RUINED",
       "url": "https://open.spotify.com/track/74PkDLU2lOKPVV73zKc7Ne"
@@ -10338,6 +10374,28 @@
       "duration_ms": 213933,
       "name": "See What I See",
       "url": "https://open.spotify.com/track/7IXFTdI2GFVdZBX0bD1Lha"
+    },
+    {
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158026,
+      "name": "See You In My Dreams (feat. SZA)",
+      "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
     },
     {
       "album": {

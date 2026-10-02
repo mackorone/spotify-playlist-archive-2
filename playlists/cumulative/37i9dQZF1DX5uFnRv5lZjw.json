@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Daydream Damsel",
+        "url": "https://open.spotify.com/album/479QMqPZQxdBp9HZKp5j1B"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106093,
+      "name": "Daydream Damsel",
+      "url": "https://open.spotify.com/track/5MjV5ng53AIbqzR63U7jqC"
+    },
+    {
+      "album": {
         "name": "Days and Days",
         "url": "https://open.spotify.com/album/3aEYmntr19JNHcZrz6YkGB"
       },
@@ -1007,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/5YibfMIOR1blqhum3xZlQE"
+      },
+      "artists": [
+        {
+          "name": "Siri Eijde",
+          "url": "https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/3nIdLlgPtuAdFipe6hQjWu"
+    },
+    {
+      "album": {
         "name": "In Green",
         "url": "https://open.spotify.com/album/0ron8ZEWZaCkrL3cg4H0VE"
       },
@@ -1526,6 +1562,24 @@
       "duration_ms": 150685,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/6z0UhDZtA0Ln2hHhgLg6Ah"
+    },
+    {
+      "album": {
+        "name": "Petal and Silence",
+        "url": "https://open.spotify.com/album/20jyPHfKhBTJ90hz1jU9iH"
+      },
+      "artists": [
+        {
+          "name": "Lakes of Lagan",
+          "url": "https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165315,
+      "name": "Petal and Silence",
+      "url": "https://open.spotify.com/track/6KPmlm4m08RciMKrzPFAfG"
     },
     {
       "album": {

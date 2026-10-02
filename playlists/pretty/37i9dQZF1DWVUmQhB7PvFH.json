@@ -1,6 +1,6 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u4f9d\u6797 (JOLIN)",
-  "num_followers": 263184,
+  "num_followers": 263251,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u4e03\u91cc\u9999",
-        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "\u64f1\u6dfa",
-      "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u9ed1\u00b7\u767d\u00b7\u7070",
         "url": "https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 205423,
       "name": "\u5341\u5e74",
       "url": "https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -399,34 +399,18 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u5d07\u62dc",
-        "url": "https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr"
+        "name": "\u98db\u5152\u6a02\u5718",
+        "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
       },
       "artists": [
         {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+          "name": "F.I.R.",
+          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
         }
       ],
-      "duration_ms": 272973,
-      "name": "\u6703\u547c\u5438\u7684\u75db",
-      "url": "https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
-        "name": "\u8449\u60e0\u7f8e",
-        "url": "https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 269746,
-      "name": "\u6674\u5929",
-      "url": "https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L"
+      "duration_ms": 238933,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/4D4KVgVNxed4Hd3rGWlCo2"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -447,6 +431,38 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
+        "name": "\u8449\u60e0\u7f8e",
+        "url": "https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 269746,
+      "name": "\u6674\u5929",
+      "url": "https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u5d07\u62dc",
+        "url": "https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "\u6703\u547c\u5438\u7684\u75db",
+      "url": "https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
         "name": "\u95dc\u65bc\u59b3\u7684\u6b4c",
         "url": "https://open.spotify.com/album/2VEZhEzyWxxW23wlpt9FBv"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 243426,
       "name": "\u6700\u8fd1",
       "url": "https://open.spotify.com/track/0ONg8VCxzW3CCNDxDY0DNe"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
-        "name": "\u98db\u5152\u6a02\u5718",
-        "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
-      },
-      "artists": [
-        {
-          "name": "F.I.R.",
-          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Lydia",
-      "url": "https://open.spotify.com/track/4D4KVgVNxed4Hd3rGWlCo2"
     },
     {
       "added_at": "2026-02-09 02:31:39",

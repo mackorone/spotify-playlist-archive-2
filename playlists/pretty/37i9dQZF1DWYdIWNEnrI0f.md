@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,413 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,454 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 26 | [Smrti](https://open.spotify.com/track/3sKJPbWulZzffOZXyfbPxd) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Smrti](https://open.spotify.com/album/2caE10cf8sk85D86ROCnwZ) | 3:20 |
 | 27 | [North Wing](https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 2:34 |
 | 28 | [So Real \(Instrumental\)](https://open.spotify.com/track/7uKuva4zZIhpl9wfJ7pMTd) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [So Real \(Instrumental\)](https://open.spotify.com/album/1Zm3xiOYcPdj0yGcoFqeAR) | 3:08 |
-| 29 | [Hidden Shrine](https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV) | [HIDE×HIDE](https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Hidden Shrine](https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI) | 2:11 |
-| 30 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 |
+| 29 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 |
+| 30 | [Hidden Shrine](https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV) | [HIDE×HIDE](https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Hidden Shrine](https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI) | 2:11 |
 | 31 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 |
 | 32 | [Elnino](https://open.spotify.com/track/6Vfiq90OM9CgbTVmJAa2Mp) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Stem.​tδpe](https://open.spotify.com/album/66hQk83LlSVTXX19sJw49S) | 1:30 |
 | 33 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 |

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 231379,
+  "num_followers": 231373,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Angel Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 263173,
       "name": "Vapor barato",
       "url": "https://open.spotify.com/track/2FHHmwpksVebKcquX3QMdF"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Angel Dust (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
     },
     {
       "added_at": "2024-02-27 20:15:05",

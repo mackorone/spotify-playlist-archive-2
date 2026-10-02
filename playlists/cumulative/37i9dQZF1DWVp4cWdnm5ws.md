@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
+> Introducing RADAR Philippines Cast of 2026\. Cover: HEY JUNE!
 
-359 songs - 21 hr 16 min
+360 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-30 | 2025-03-28 |
 | [Purgatoryo](https://open.spotify.com/track/2ww7tsDpQujEz4hY4PKW6g) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Purgatoryo](https://open.spotify.com/album/3HcEMi3hhykdzTUXNRUXK0) | 2:15 | 2026-08-07 |  |
 | [RARARA](https://open.spotify.com/track/29LpgyzY0QsvhsNO6XXQ6c) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [RARARA](https://open.spotify.com/album/6OqJxk4hjts59iSTpRPg35) | 3:46 | 2025-12-03 | 2026-01-18 |
+| [Realidad](https://open.spotify.com/track/2Q3TmKXe3bAw1uF5GlSv6u) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Realidad](https://open.spotify.com/album/3UCxh0e8g1aEXjW1wEBWGg) | 3:05 | 2026-10-02 |  |
 | [Relapse](https://open.spotify.com/track/7kzbzi1LYrwRLyfynDnRDs) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Relapse](https://open.spotify.com/album/6NdbN7a1rHRikiaCORR40S) | 3:32 | 2025-12-03 | 2026-01-18 |
 | [Rest](https://open.spotify.com/track/3M3Uw8SisAcJoZs4mdHJVC) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Rest](https://open.spotify.com/album/6GIs1YEU99gkhIyLttwcK9) | 4:37 | 2021-11-25 | 2022-03-25 |
 | [Risk It](https://open.spotify.com/track/5JsHoy0q0mZutMW27kFq5n) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Risk It](https://open.spotify.com/album/6krLZc8jaKDnq62ppngT4m) | 3:45 | 2022-10-25 | 2022-12-01 |

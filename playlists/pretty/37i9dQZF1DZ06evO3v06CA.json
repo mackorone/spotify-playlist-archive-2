@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 205294,
+  "num_followers": 205296,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACuZzAJ7ZvcSXHOjUOjHTC9",
+  "snapshot_id": "arxRAAAAAAByLhxcPXkOUMuQiYj+z5wC",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Sober (feat. Willie Nelson)",
-        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 230033,
-      "name": "California Sober (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -595,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "California Sober (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 230033,
+      "name": "California Sober (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -623,26 +623,6 @@
       "duration_ms": 147453,
       "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Smoke",
-        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 242920,
-      "name": "From Here to the Moon and Back",
-      "url": "https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ"
     },
     {
       "added_at": null,
@@ -695,6 +675,26 @@
       "duration_ms": 169326,
       "name": "Big River",
       "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Smoke",
+        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 242920,
+      "name": "From Here to the Moon and Back",
+      "url": "https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On A Rock",
-        "url": "https://open.spotify.com/album/69A2qjbFkwSfxJgPNquFzx"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 204929,
-      "name": "Coconut Tree (with Willie Nelson) (with Willie Nelson)",
-      "url": "https://open.spotify.com/track/0VGb5Vy75Hkb5DKBHvuJJg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 279328,
       "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
       "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life On A Rock",
+        "url": "https://open.spotify.com/album/69A2qjbFkwSfxJgPNquFzx"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 204929,
+      "name": "Coconut Tree (with Willie Nelson) (with Willie Nelson)",
+      "url": "https://open.spotify.com/track/0VGb5Vy75Hkb5DKBHvuJJg"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk About",
-        "url": "https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT"
-      },
-      "artists": [
-        {
-          "name": "Mishka",
-          "url": "https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 183440,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT"
+      },
+      "artists": [
+        {
+          "name": "Mishka",
+          "url": "https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Stay All Night (Stay a Little Longer)",
-      "url": "https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
@@ -1063,22 +1047,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
       "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 147507,
-      "name": "I Can Get off on You - Remastered",
-      "url": "https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt"
+      "duration_ms": 154160,
+      "name": "Stay All Night (Stay a Little Longer)",
+      "url": "https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Horse Called Music",
+        "url": "https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Nothing I Can Do About It Now",
+      "url": "https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo"
     },
     {
       "added_at": null,
@@ -1099,18 +1095,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Horse Called Music",
-        "url": "https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf"
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
       },
       "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Nothing I Can Do About It Now",
-      "url": "https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo"
+      "duration_ms": 147507,
+      "name": "I Can Get off on You - Remastered",
+      "url": "https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt"
     },
     {
       "added_at": null,

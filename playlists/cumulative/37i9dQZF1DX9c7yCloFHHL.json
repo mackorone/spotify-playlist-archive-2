@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: DjRUM",
+  "description": "The newest in Ambient music and the sounds it explores beyond. \nOn the cover: DjRUM",
   "name": "New Ambient",
   "tracks": [
     {
@@ -1472,6 +1472,28 @@
       "duration_ms": 246853,
       "name": "A Thousand Steps",
       "url": "https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9"
+    },
+    {
+      "album": {
+        "name": "Allison de Groot & Rich Ruth",
+        "url": "https://open.spotify.com/album/78GCLznGXkzJVxtllgeNFw"
+      },
+      "artists": [
+        {
+          "name": "Allison De Groot",
+          "url": "https://open.spotify.com/artist/0LVLU0MXmJ1GfWczl4i2MY"
+        },
+        {
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "A Wizard and a Stork",
+      "url": "https://open.spotify.com/track/5LPRqZuun93d2VQUuRq0hE"
     },
     {
       "album": {
@@ -3119,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "not my home",
+        "url": "https://open.spotify.com/album/08RInigpDRtISYguEhIUUy"
+      },
+      "artists": [
+        {
+          "name": "i don't like mirrors",
+          "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232151,
+      "name": "are you satisfied now",
+      "url": "https://open.spotify.com/track/63BZGesjgt6KmqbIUBoPcN"
+    },
+    {
+      "album": {
         "name": "Sincretico Modale",
         "url": "https://open.spotify.com/album/2z0qqpHJUTaWSXWn4ZqwVS"
       },
@@ -3894,7 +3934,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176840,
       "name": "AUDITORY AMBIGUITY",
       "url": "https://open.spotify.com/track/6UayCUlDc6zf4tlqonL85d"
@@ -5440,7 +5480,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 275996,
       "name": "Blue Ba-Ya - Excerpt",
       "url": "https://open.spotify.com/track/6GeMx5tMFsp1Qs877S8PKp"
@@ -7924,7 +7964,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194373,
       "name": "cold air",
       "url": "https://open.spotify.com/track/4fOWEiEvDqDsE1sPLa1xbB"
@@ -8018,7 +8058,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 314840,
       "name": "Collapsed for Half-Speed",
       "url": "https://open.spotify.com/track/1ZgDl84ZolFUgu7ZXLq2Hj"
@@ -11723,6 +11763,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s All\u00e1 De Las Palabras",
+        "url": "https://open.spotify.com/album/1Xq6MJAS2A6no82lFHJZWZ"
+      },
+      "artists": [
+        {
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Equilibrio",
+      "url": "https://open.spotify.com/track/5xGxfQkBAEPKVlswLc1BPN"
+    },
+    {
+      "album": {
         "name": "Canone Infinito Xtended",
         "url": "https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1"
       },
@@ -13113,6 +13171,24 @@
     },
     {
       "album": {
+        "name": "First Departure",
+        "url": "https://open.spotify.com/album/7kDpOFqODXCfCazH9Nky68"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135053,
+      "name": "First Departure",
+      "url": "https://open.spotify.com/track/6PthvT7olgWykKpbqTKY8i"
+    },
+    {
+      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -14084,6 +14160,24 @@
       "duration_ms": 274333,
       "name": "Freedom at the 45th Floor",
       "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
+    },
+    {
+      "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/2h5G3eWajkGXuVnMsElyMG"
+      },
+      "artists": [
+        {
+          "name": "Timothy Fairless",
+          "url": "https://open.spotify.com/artist/5H0fjeDHyaDGiZ4tysz96C"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394571,
+      "name": "Friction (No 4 AM Phone Call from Tokyo)",
+      "url": "https://open.spotify.com/track/33a1gj20bPUksMHDDClJBi"
     },
     {
       "album": {
@@ -17992,7 +18086,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 176000,
       "name": "indiciel (innatare infini v)",
       "url": "https://open.spotify.com/track/5SzoEZgrPbgD4uM8uKu3XF"
@@ -18694,6 +18788,24 @@
       "duration_ms": 126933,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/7ygNROfZxFFR2mqduFznDE"
+    },
+    {
+      "album": {
+        "name": "It Can Be Everywhere",
+        "url": "https://open.spotify.com/album/7svvnEq4QxgxNYa3G04JVS"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330490,
+      "name": "It Can Be Everywhere",
+      "url": "https://open.spotify.com/track/0glBCins7Uh2Ca5NtRaj7O"
     },
     {
       "album": {
@@ -19422,7 +19534,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 241666,
       "name": "Kuon",
       "url": "https://open.spotify.com/track/1T4sBiFMGWYi5OqOdplTr3"
@@ -21929,6 +22041,28 @@
     },
     {
       "album": {
+        "name": "Mutrion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12FxuwrZxuB239FSlSScxq"
+      },
+      "artists": [
+        {
+          "name": "Carlo Megighian",
+          "url": "https://open.spotify.com/artist/13jOoRmF8W5wHHxG4UebNb"
+        },
+        {
+          "name": "No Label",
+          "url": "https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Marco e Maicol (Finale)",
+      "url": "https://open.spotify.com/track/6aGiu0H6Z9tm59SxOLfJMk"
+    },
+    {
+      "album": {
         "name": "Arsa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2WOOIKhEi8YGcV8DdseIgz"
       },
@@ -23191,6 +23325,24 @@
     },
     {
       "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/2XWJNYh6k6UZanr1KWuray"
+      },
+      "artists": [
+        {
+          "name": "Lumestria",
+          "url": "https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Morning View",
+      "url": "https://open.spotify.com/track/7epp0tazVpa4aN12x9KQQY"
+    },
+    {
+      "album": {
         "name": "If We're Apart, I\u2019m Somewhere Missing You",
         "url": "https://open.spotify.com/album/48R1rKuzDjPYMsI8VxCfAL"
       },
@@ -23937,6 +24089,24 @@
     },
     {
       "album": {
+        "name": "My Eve My Dawn",
+        "url": "https://open.spotify.com/album/48AzoIxJ7f2Dv0elyvDrmN"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415274,
+      "name": "My Eve My Dawn",
+      "url": "https://open.spotify.com/track/5s1zHK7DS2Z702RbVMNvgq"
+    },
+    {
+      "album": {
         "name": "completely, endlessly, hopelessly, Glimmering",
         "url": "https://open.spotify.com/album/5IIy31WkWcaMzHEWv5Dcbc"
       },
@@ -24258,7 +24428,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 253600,
       "name": "Nervion",
       "url": "https://open.spotify.com/track/2iuazD4rbwPw1JdBRvXX44"
@@ -26166,7 +26336,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 124417,
       "name": "Orgl#1",
       "url": "https://open.spotify.com/track/0HkYsywnp3wFUBjYtyiCjJ"
@@ -30099,6 +30269,28 @@
     },
     {
       "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/0SVVncxyphMZ8XVHXaHACJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Grigoni",
+          "url": "https://open.spotify.com/artist/0Mi9hUiOOd4CiZNAlsbXsv"
+        },
+        {
+          "name": "Scott Orr",
+          "url": "https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259440,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/3NWNLTUHgzurCUAF5zUgbA"
+    },
+    {
+      "album": {
         "name": "Rodl Glide",
         "url": "https://open.spotify.com/album/2tYX2ycoyGDBpsAcg409SC"
       },
@@ -30488,6 +30680,24 @@
       "duration_ms": 360000,
       "name": "Sahar",
       "url": "https://open.spotify.com/track/4RiGl4hYZFbi3WtzgfJZZW"
+    },
+    {
+      "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/3aGqViEiw7drzs06LrKKUZ"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78870,
+      "name": "SAINT",
+      "url": "https://open.spotify.com/track/7mQIXBJCjHX31prwtj9LgE"
     },
     {
       "album": {
@@ -31965,6 +32175,24 @@
     },
     {
       "album": {
+        "name": "The Juniper Tree",
+        "url": "https://open.spotify.com/album/2cA79Va4fyrRinHaFS3Ynw"
+      },
+      "artists": [
+        {
+          "name": "Midori Hirano",
+          "url": "https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160955,
+      "name": "Silencing",
+      "url": "https://open.spotify.com/track/3zIElpKq34a6iUuetdo1VX"
+    },
+    {
+      "album": {
         "name": "silent",
         "url": "https://open.spotify.com/album/4rxSQvhSIfwTGUeqfafBrn"
       },
@@ -32110,7 +32338,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 184146,
       "name": "Silver Wheel - Bonus Track",
       "url": "https://open.spotify.com/track/61paLLnKjk5mwrqtxRyIB9"
@@ -35141,6 +35369,24 @@
     },
     {
       "album": {
+        "name": "The Places Between Us",
+        "url": "https://open.spotify.com/album/7z1WCSrT0mneA8VSF0qqb1"
+      },
+      "artists": [
+        {
+          "name": "Hirotaka Shirotsubaki",
+          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tarumi",
+      "url": "https://open.spotify.com/track/2HOKNifbaPK9hDrMCFNmHm"
+    },
+    {
+      "album": {
         "name": "tea at appian creek",
         "url": "https://open.spotify.com/album/6vHBfUO0YfYao1R1xkWDTE"
       },
@@ -35526,7 +35772,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 233375,
       "name": "The Center Of It All",
       "url": "https://open.spotify.com/track/6WsgnZmIDR5j4gRxr0wrI9"
@@ -37056,7 +37302,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 216666,
       "name": "Those Who Watch",
       "url": "https://open.spotify.com/track/2R4UqbFM2ALEfsaf258Zwx"
@@ -37418,7 +37664,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 187200,
       "name": "tinySketch #85",
       "url": "https://open.spotify.com/track/2Wy0jAY5eFf4hnAAIuScXo"
@@ -37952,7 +38198,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 260166,
       "name": "Triada",
       "url": "https://open.spotify.com/track/6544K69MpyLKUjWUeN4Evh"
@@ -39409,6 +39655,24 @@
     },
     {
       "album": {
+        "name": "Vide",
+        "url": "https://open.spotify.com/album/1numCE2Q4XhBwNCM8P4Hu5"
+      },
+      "artists": [
+        {
+          "name": "Emile Mont",
+          "url": "https://open.spotify.com/artist/3EZfZ96GZ5V3V3TU7s3OY0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242553,
+      "name": "Vide",
+      "url": "https://open.spotify.com/track/1EqQZNNYGXjxSSwLaSPrz5"
+    },
+    {
+      "album": {
         "name": "Beautifully Lost Mind",
         "url": "https://open.spotify.com/album/1CeKHEfoc2eQ6KkGl4LNdC"
       },
@@ -40330,6 +40594,24 @@
       "duration_ms": 587508,
       "name": "Wealth",
       "url": "https://open.spotify.com/track/6DEVAhgo6OLAK8pdTFKBFo"
+    },
+    {
+      "album": {
+        "name": "Cyano",
+        "url": "https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251851,
+      "name": "Weather Melody",
+      "url": "https://open.spotify.com/track/1t0n85KzvJofpC76xnmdjM"
     },
     {
       "album": {
@@ -41800,7 +42082,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 182546,
       "name": "Yesterday Today",
       "url": "https://open.spotify.com/track/0nEFohB3ueqw5w2w5w51Xu"
@@ -41970,7 +42252,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199245,
       "name": "you, again",
       "url": "https://open.spotify.com/track/6bmQdr9fYJgZ4q1IowKOXi"

@@ -2,9 +2,9 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: Manal
+> Les hits marocains du moment\. Cover: Stormy
 
-545 songs - 1 day 4 hr 55 min
+546 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [3ARI \- A COLORS SHOW](https://open.spotify.com/track/1AiLzzzFxUKZS6T7Sk8CMN) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI \- A COLORS SHOW](https://open.spotify.com/album/4PWMbvS0qXoj5AZjtdo0C3) | 2:42 | 2022-05-13 | 2022-06-21 |
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-24 | 2024-08-29 |
 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 | 2024-08-28 | 2025-07-20 |
+| [7OLM KBIR](https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [7OLM KBIR](https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF) | 3:37 | 2026-10-02 |  |
 | [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-02-03 | 2022-03-24 |
 | [9albi ydou9](https://open.spotify.com/track/5HcZ9HZu0UMyMIKLxUbaSB) | [Imanova](https://open.spotify.com/artist/0QTNBGcizg7sFWUXZl8rFX) | [9albi ydou9](https://open.spotify.com/album/3s5HSRc2mpNHkbCOl79luC) | 2:47 | 2024-08-28 | 2024-09-14 |
 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-03-08 | 2023-09-28 |
@@ -174,7 +175,7 @@
 | [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 | 2025-12-10 | 2025-12-26 |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 | 2022-06-07 |
 | [GHALAT](https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [FALLEN ANGEL](https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4) | 2:44 | 2026-05-09 |  |
-| [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 | 2024-11-21 |  |
+| [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 | 2024-11-21 | 2026-10-02 |
 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 | 2023-12-15 | 2025-03-03 |
 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 | 2025-03-20 | 2025-08-02 |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2022-12-20 | 2023-06-05 |

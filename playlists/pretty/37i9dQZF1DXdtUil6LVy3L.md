@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,772 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,775 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 10 | [A Christmas Feeling](https://open.spotify.com/track/02pcI6xxVuefKcYNA7prZh) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [A Christmas Feeling](https://open.spotify.com/album/65h1sbXFjZCaVuTQMfkZeF) | 3:13 |
 | 11 | [Lost in the Stars](https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Lost in the Stars](https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7) | 3:25 |
 | 12 | [Somewhere In My Memory](https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Somewhere In My Memory](https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX) | 3:22 |
-| 13 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
-| 14 | [White Christmas](https://open.spotify.com/track/57IolfqCz7kXFdE5bGXXQB) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [White Christmas](https://open.spotify.com/album/4VQwViovYI2PTh3keI92lz) | 3:02 |
+| 13 | [White Christmas](https://open.spotify.com/track/57IolfqCz7kXFdE5bGXXQB) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [White Christmas](https://open.spotify.com/album/4VQwViovYI2PTh3keI92lz) | 3:02 |
+| 14 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
 | 15 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 |
 | 16 | [Where The Snow Still Falls](https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Where The Snow Still Falls](https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn) | 3:45 |
 | 17 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 76 | [Winter Wonderland](https://open.spotify.com/track/0IbVA4IxnJx49LvtubFILM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Winter Wonderland](https://open.spotify.com/album/7FfxASu1BtqyyqMLs7ZOiA) | 2:19 |
 | 77 | [Season's Greetings](https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Season's Greetings](https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om) | 3:15 |
 | 78 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 |
-| 79 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
-| 80 | [The Christmas Song](https://open.spotify.com/track/4ns7ixAIalaaE9ukUDWZxL) | [Belleville Trio](https://open.spotify.com/artist/403HCrqfVGqA17ba6ulE5q) | [The Christmas Song](https://open.spotify.com/album/5oJL7v5SPjjpFxYpo00URm) | 3:40 |
+| 79 | [The Christmas Song](https://open.spotify.com/track/4ns7ixAIalaaE9ukUDWZxL) | [Belleville Trio](https://open.spotify.com/artist/403HCrqfVGqA17ba6ulE5q) | [The Christmas Song](https://open.spotify.com/album/5oJL7v5SPjjpFxYpo00URm) | 3:40 |
+| 80 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
 
 Snapshot ID: `AAAAAADSwAqT8+RsA5EjrgxYITlKyDKq`

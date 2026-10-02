@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-277 songs - 14 hr 34 min
+279 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2023-02-09 |  |
 | [i am still not over you](https://open.spotify.com/track/6KdB117KbiZRbIHTDtFoL2) | [waveren](https://open.spotify.com/artist/0Fjc3Ymh73wj4wIxhd4PCW), [ghoulgirl](https://open.spotify.com/artist/7H2OUfnBrrJk52pNyDHN9l) | [i am still not over you](https://open.spotify.com/album/2gW5MYLZVhdyrCOytl3M7y) | 2:05 | 2026-02-20 |  |
 | [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 | 2023-02-17 | 2023-05-17 |
+| [I cry on the plane while listening to your songs](https://open.spotify.com/track/6N1zlkpWdYHoB1LueUc8sO) | [Waintis](https://open.spotify.com/artist/3kzOmrtqBj58WhBN6wVt6M) | [Fragil](https://open.spotify.com/album/0aXedrHVNc5vH69npmhD8O) | 2:31 | 2026-10-01 |  |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2023-02-09 | 2026-03-14 |
 | [i heard you were looking like the moon](https://open.spotify.com/track/4Yw8XKDrmJSMNFqvd8JZJ6) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [special](https://open.spotify.com/album/0MCWANJq0mI70BGA7FibFx) | 3:43 | 2024-01-03 |  |
 | [i miss us](https://open.spotify.com/track/3dnWWeTji7jc8XO2UzgcvP) | [SylvanBoy](https://open.spotify.com/artist/0fh3aZtfYAFhyyZb8i6ctp) | [i miss us](https://open.spotify.com/album/2LjhSHzNkepXRZn8j9f4FE) | 1:36 | 2026-06-26 |  |
@@ -252,6 +253,7 @@
 | [To Death](https://open.spotify.com/track/1cGM4KM6XcQnq3vSnf5VjE) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [To Death](https://open.spotify.com/album/2DxtdOUQLlGZF0HTlwtTo9) | 3:14 | 2023-05-16 | 2026-03-14 |
 | [Tomorrow is Perfect](https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 6:21 | 2026-03-26 |  |
 | [town](https://open.spotify.com/track/2vQpuxsZ6vRzJBjGZZ4Qwm) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:13 | 2023-02-09 | 2023-06-14 |
+| [train tracks](https://open.spotify.com/track/4XEkja3m9oS534pnA95MAL) | [parallel](https://open.spotify.com/artist/57GHGjRVnM7JTTXI7vXq7d), [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [train tracks](https://open.spotify.com/album/5S0BhDZGVDPvnkHwbUfa7T) | 3:01 | 2026-10-01 |  |
 | [Tree](https://open.spotify.com/track/5rOpcoSV3iWfoMo3LOKMuJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Tree](https://open.spotify.com/album/2WFCybtwzBPm7HlUedTgXW) | 2:26 | 2023-06-02 | 2024-01-03 |
 | [Triptych](https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:06 | 2023-02-09 | 2023-07-01 |
 | [True Blue](https://open.spotify.com/track/0q7lFwAB16sO7zgNdG4Wkl) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 4:56 | 2023-02-09 | 2023-04-04 |

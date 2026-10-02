@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157820,
+  "num_followers": 157827,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Got a Story to Tell",
+        "url": "https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 296080,
       "name": "Flower Moon",
       "url": "https://open.spotify.com/track/16fiL1QD7x9FeoGu8ktxrz"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Got a Story to Tell",
-        "url": "https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Live For You",
-      "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "beholder mit t\u00f8j p\u00e5",
+        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 188425,
+      "name": "beholder mit t\u00f8j p\u00e5",
+      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Horsens (feat. Sofie1998)",
         "url": "https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 191262,
       "name": "Horsens (feat. Sofie1998)",
       "url": "https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "beholder mit t\u00f8j p\u00e5",
-        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 188425,
-      "name": "beholder mit t\u00f8j p\u00e5",
-      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Vi ku' g\u00e5 hele vejen",
-        "url": "https://open.spotify.com/album/2XLM25ZmVGzM6PwNJoSlSK"
+        "name": "Den nye pige",
+        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
         }
       ],
-      "duration_ms": 206745,
-      "name": "Vi ku' g\u00e5 hele vejen",
-      "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
+      "duration_ms": 169851,
+      "name": "Den nye pige",
+      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Den nye pige",
-        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
+        "name": "Vi ku' g\u00e5 hele vejen",
+        "url": "https://open.spotify.com/album/2XLM25ZmVGzM6PwNJoSlSK"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
         }
       ],
-      "duration_ms": 169851,
-      "name": "Den nye pige",
-      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
+      "duration_ms": 206745,
+      "name": "Vi ku' g\u00e5 hele vejen",
+      "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Yellow Bike",
-        "url": "https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba"
-      },
-      "artists": [
-        {
-          "name": "Jonah Blacksmith",
-          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
-        }
-      ],
-      "duration_ms": 200232,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "I Sit In Parks",
         "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 130093,
       "name": "I Sit In Parks",
       "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Yellow Bike",
+        "url": "https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba"
+      },
+      "artists": [
+        {
+          "name": "Jonah Blacksmith",
+          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        }
+      ],
+      "duration_ms": 200232,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "\u00c5boulevarden",
-        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
+        "name": "stoppe med at elske nogen",
+        "url": "https://open.spotify.com/album/07DbAsBCVD1IpRCGelbtli"
       },
       "artists": [
         {
-          "name": "Skinz",
-          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
         }
       ],
-      "duration_ms": 162585,
-      "name": "\u00c5boulevarden",
-      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
+      "duration_ms": 192283,
+      "name": "stoppe med at elske nogen",
+      "url": "https://open.spotify.com/track/0tC2SW9xEH0Fz8NlAF225f"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "stoppe med at elske nogen",
-        "url": "https://open.spotify.com/album/07DbAsBCVD1IpRCGelbtli"
+        "name": "\u00c5boulevarden",
+        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
       },
       "artists": [
         {
-          "name": "Lea Ey\u00f0bj\u00f8rg",
-          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
         }
       ],
-      "duration_ms": 192283,
-      "name": "stoppe med at elske nogen",
-      "url": "https://open.spotify.com/track/0tC2SW9xEH0Fz8NlAF225f"
+      "duration_ms": 162585,
+      "name": "\u00c5boulevarden",
+      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "This Morning",
-        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "This Morning",
-      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Folk Forsvinder",
         "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 173041,
       "name": "Folk Forsvinder",
       "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "This Morning",
+        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "This Morning",
+      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
     },
     {
       "added_at": "2026-05-21 12:03:22",

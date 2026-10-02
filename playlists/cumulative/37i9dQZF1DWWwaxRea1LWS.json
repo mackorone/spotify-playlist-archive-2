@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "#SpotifyTBT goes fall mode with these acoustic classics. Cover: James Taylor",
+  "description": "#SpotifyTBT goes Broadway.  Cover: The Cast of Hamilton",
   "name": "Throwback Thursday",
   "tracks": [
     {
@@ -606,6 +606,28 @@
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
+    },
+    {
+      "album": {
+        "name": "Caroline, Or Change (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4xCBLHCoWZqUuqXB7dSdq9"
+      },
+      "artists": [
+        {
+          "name": "Tonya Pinkins",
+          "url": "https://open.spotify.com/artist/0CLEZQ0v0frW1XwJc16Jfw"
+        },
+        {
+          "name": "Capathia Jenkins",
+          "url": "https://open.spotify.com/artist/5H1CXdmI54UYSyddUJuwAG"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105080,
+      "name": "16 Feet Beneath The Sea",
+      "url": "https://open.spotify.com/track/3pdtFyewcCT1HJPaG6o90N"
     },
     {
       "album": {
@@ -1894,7 +1916,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 216066,
       "name": "A Certain Shade Of Green - Acoustic Version",
       "url": "https://open.spotify.com/track/6P2DVhW1mmHSKQLfqkxLmO"
@@ -2274,7 +2296,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 190573,
       "name": "A Love Song",
       "url": "https://open.spotify.com/track/02ozRCoTjCxJXCyuFW8QUi"
@@ -6642,7 +6664,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 147800,
       "name": "Angel Dream (No. 4)",
       "url": "https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ"
@@ -6844,7 +6866,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 272173,
       "name": "Angie - Giles Martin 2020 Mix",
       "url": "https://open.spotify.com/track/1TJyjAa6rHkEZZpRS41rUp"
@@ -8022,7 +8044,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 240139,
       "name": "Atlantic City",
       "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
@@ -10700,7 +10722,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 203840,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/1vRXK3F03wbFnCPmjryyEm"
@@ -11880,7 +11902,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
@@ -12224,6 +12246,32 @@
       "duration_ms": 225573,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb"
+    },
+    {
+      "album": {
+        "name": "The Full Monty (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1ryQjSxXsdtphq71mCKf9z"
+      },
+      "artists": [
+        {
+          "name": "Patrick Wilson",
+          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
+        },
+        {
+          "name": "John Ellison Conlee",
+          "url": "https://open.spotify.com/artist/2wt01uw4v4E5FFkGKdV42b"
+        },
+        {
+          "name": "Jason Danieley",
+          "url": "https://open.spotify.com/artist/0WZeAgkdC5N2uTCrTBUttb"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "Big-Ass Rock",
+      "url": "https://open.spotify.com/track/6osv3rF9FO5P8uDlhy9TXu"
     },
     {
       "album": {
@@ -12906,7 +12954,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 138386,
       "name": "Blackbird - Remastered 2009",
       "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
@@ -13152,7 +13200,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 100746,
       "name": "Bless the Telephone",
       "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
@@ -18759,6 +18807,28 @@
     },
     {
       "album": {
+        "name": "Newsies (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Newsies Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/6yTc5YHDriVSWYq8vPA4Xi"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308408,
+      "name": "Carrying The Banner",
+      "url": "https://open.spotify.com/track/1PK3BtcF1Dvfd8a24Xejaj"
+    },
+    {
+      "album": {
         "name": "The Pleasure Principle",
         "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
       },
@@ -19034,7 +19104,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 174717,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
@@ -21632,7 +21702,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
@@ -22182,6 +22252,24 @@
       "duration_ms": 218106,
       "name": "Commander",
       "url": "https://open.spotify.com/track/31zeLcKH2x3UCMHT75Gk5C"
+    },
+    {
+      "album": {
+        "name": "The Scottsboro Boys (Broadway) [Original Off Broadway Cast Recording]",
+        "url": "https://open.spotify.com/album/6xTXznnv9FBrDjtDehp7F9"
+      },
+      "artists": [
+        {
+          "name": "Brandon Victor Dixon",
+          "url": "https://open.spotify.com/artist/3rIXaFZEmvRxMDdxvkg5g2"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206826,
+      "name": "Commencing In Chattanooga",
+      "url": "https://open.spotify.com/track/6qGJolh0hfI9P1pBv3qCuB"
     },
     {
       "album": {
@@ -25576,7 +25664,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/184HGdGIscUiPbDuqbvHuN"
@@ -27504,7 +27592,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 262133,
       "name": "Don't Follow",
       "url": "https://open.spotify.com/track/7CI0VS6ETno5mgHi4PoCrY"
@@ -33294,7 +33382,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
@@ -34272,7 +34360,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
@@ -39336,7 +39424,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 212160,
       "name": "Going to California - Remaster",
       "url": "https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By"
@@ -39868,13 +39956,17 @@
         {
           "name": "Marissa Jaret Winokur",
           "url": "https://open.spotify.com/artist/4zdCODAJOsWFl6I9H7z1bX"
+        },
+        {
+          "name": "Original Broadway Cast of Hairspray",
+          "url": "https://open.spotify.com/artist/2fonmVretCT6oQ7woD6p4E"
         }
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 220426,
-      "name": "Good Morning Baltimore (From \"Hairspray\")",
+      "name": "Good Morning Baltimore",
       "url": "https://open.spotify.com/track/5HDLfQNN2AwAZWqzjDLxb5"
     },
     {
@@ -39890,7 +39982,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
@@ -43585,48 +43677,48 @@
         },
         {
           "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+          "url": "https://open.spotify.com/artist/3JzGBxl3Es2esakXzcIgre"
         },
         {
           "name": "Rory O'Malley",
-          "url": "https://open.spotify.com/artist/4ypbxQ7Pb5JKm2ulHXDcBP"
+          "url": "https://open.spotify.com/artist/3DvBdTdxzVtwQGY7IZTyvE"
         },
         {
           "name": "Kevin Duda",
-          "url": "https://open.spotify.com/artist/6b1coNssyWbKkbgZfK9MB5"
+          "url": "https://open.spotify.com/artist/5oqdjNuVZvyprDl56zhQnd"
         },
         {
           "name": "Clark Johnsen",
-          "url": "https://open.spotify.com/artist/6xWxKaEFEKU3r7AUzUKylT"
+          "url": "https://open.spotify.com/artist/3ipd8nun05nkBToP5CjVHg"
         },
         {
           "name": "Justin Bohon",
-          "url": "https://open.spotify.com/artist/4MYUIgtNTRdEfksW6IwvAe"
+          "url": "https://open.spotify.com/artist/4cI6V9bpNAORC3HFI0g2lQ"
         },
         {
           "name": "Brian Sears",
-          "url": "https://open.spotify.com/artist/7prZJzDK9Eaidya20kUciB"
+          "url": "https://open.spotify.com/artist/7rzCmTlsErSE6pVWeGRmhh"
         },
         {
           "name": "Scott Barnhardt",
-          "url": "https://open.spotify.com/artist/1A4dOeSiYZ0yBf6l5uYY7m"
+          "url": "https://open.spotify.com/artist/0dkGWfQ3rOJjx6udgfHZL5"
         },
         {
           "name": "Benjamin Schrader",
-          "url": "https://open.spotify.com/artist/5OPT8oIrU42hqfKMJv0b5B"
+          "url": "https://open.spotify.com/artist/7uaRq4n32htpYq2fe7Uduw"
         },
         {
           "name": "Lewis Cleale",
-          "url": "https://open.spotify.com/artist/7tihd0CgVerCoDl6LeDHQW"
+          "url": "https://open.spotify.com/artist/2PFf6gKpBf2mMnxqKz6YRA"
         },
         {
           "name": "Jason Michael Snow",
-          "url": "https://open.spotify.com/artist/32oXmsd7TLzVccshoWY0mm"
+          "url": "https://open.spotify.com/artist/0xYYMypmsbvrRolxW1OyeL"
         }
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 172026,
       "name": "Hello!",
       "url": "https://open.spotify.com/track/08hlFtp8y9S6YZmjBNvQ1I"
@@ -43774,7 +43866,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 159000,
       "name": "Helplessly Hoping",
       "url": "https://open.spotify.com/track/40WeJU3odsbq1fXNbub4nh"
@@ -44638,7 +44730,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 156933,
       "name": "Hey Julie",
       "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
@@ -44810,7 +44902,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
@@ -45568,7 +45660,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 306200,
       "name": "Hold You in My Arms",
       "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
@@ -45950,7 +46042,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 208093,
       "name": "Home - 2008 Remaster",
       "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
@@ -49977,6 +50069,24 @@
     },
     {
       "album": {
+        "name": "Curtains Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/2jWGFpmXXiseZZknfUlkRn"
+      },
+      "artists": [
+        {
+          "name": "The Original Broadway Cast Of 'Curtains'",
+          "url": "https://open.spotify.com/artist/3kqfE6D4V8timYamp7iIyr"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308040,
+      "name": "I Miss The Music",
+      "url": "https://open.spotify.com/track/21Tt9GCioap9Z4Kb7VI3RE"
+    },
+    {
+      "album": {
         "name": "blink-182",
         "url": "https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA"
       },
@@ -52765,6 +52875,32 @@
     },
     {
       "album": {
+        "name": "A Gentleman's Guide to Love and Murder (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1uCR6BcuolVN7Fk61dtTfI"
+      },
+      "artists": [
+        {
+          "name": "Lauren Worsham",
+          "url": "https://open.spotify.com/artist/3MbRbDU0M6lbr2Blpz0573"
+        },
+        {
+          "name": "Lisa O'Hare",
+          "url": "https://open.spotify.com/artist/2Op4u1nTAsHksEynDykzdL"
+        },
+        {
+          "name": "Bryce Pinkham",
+          "url": "https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "I've Decided to Marry You",
+      "url": "https://open.spotify.com/track/4nIr81QHOj9wDl1MOh3oJZ"
+    },
+    {
+      "album": {
         "name": "To The Next Level",
         "url": "https://open.spotify.com/album/31tM5lCIOQQcfu4MZ4ZDQc"
       },
@@ -54281,6 +54417,28 @@
     },
     {
       "album": {
+        "name": "In the Heights (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "'In The Heights' Original Broadway Company",
+          "url": "https://open.spotify.com/artist/0kvp9mzfvoXvGtjSWTgrEb"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458906,
+      "name": "In the Heights",
+      "url": "https://open.spotify.com/track/4dS1QQw8askb1KSDLCKuvK"
+    },
+    {
+      "album": {
         "name": "Everything To Everyone",
         "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
@@ -54944,7 +55102,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 205613,
       "name": "Into the Mystic - 2013 Remaster",
       "url": "https://open.spotify.com/track/1lxVGQgbt0g7mMkmevl9Bm"
@@ -57220,7 +57378,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 163275,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
@@ -58277,6 +58435,56 @@
     },
     {
       "album": {
+        "name": "The Producers (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1OD5J8DxkYyS0WBOnuX4OX"
+      },
+      "artists": [
+        {
+          "name": "Gary Beach",
+          "url": "https://open.spotify.com/artist/0OckhIDFyA68SQXxyefMcH"
+        },
+        {
+          "name": "Roger Bart",
+          "url": "https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b"
+        },
+        {
+          "name": "Peter Marinos",
+          "url": "https://open.spotify.com/artist/3hQ5x19d0OOFtPyQzb3SpH"
+        },
+        {
+          "name": "Ray Wills",
+          "url": "https://open.spotify.com/artist/4asfLZMvOu2NjT4U1djwNs"
+        },
+        {
+          "name": "Jeffry Denman",
+          "url": "https://open.spotify.com/artist/5RJzb7VAS2BkMm7mpcLoOV"
+        },
+        {
+          "name": "Kathy Fitzgerald",
+          "url": "https://open.spotify.com/artist/4UPW83dmZfAXjyV2SjXW3u"
+        },
+        {
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+        },
+        {
+          "name": "Matthew Broderick",
+          "url": "https://open.spotify.com/artist/67e4oTnYalF7cutrWJB7dG"
+        },
+        {
+          "name": "Original Broadway Cast of The Producers",
+          "url": "https://open.spotify.com/artist/5NL9v6KR46cpVGigM6tLoo"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307906,
+      "name": "Keep It Gay",
+      "url": "https://open.spotify.com/track/6jUZ27rzs0wtkqFcFpdoP5"
+    },
+    {
+      "album": {
         "name": "Amos Lee",
         "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
@@ -58288,7 +58496,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 188080,
       "name": "Keep It Loose, Keep It Tight",
       "url": "https://open.spotify.com/track/69dDr3w8IIcOGKwlW5XntT"
@@ -58458,6 +58666,24 @@
       "duration_ms": 185800,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
+    },
+    {
+      "album": {
+        "name": "Passing Strange (Original Broadway Cast Recording / Live)",
+        "url": "https://open.spotify.com/album/4Y8UFWcgkxGGwKROxZA6sk"
+      },
+      "artists": [
+        {
+          "name": "Stew",
+          "url": "https://open.spotify.com/artist/4fXHnELBx986GW9ha8lI2e"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "Keys (It's Alright) - Live",
+      "url": "https://open.spotify.com/track/7gN37Jx3PJzr5pcuryhcI1"
     },
     {
       "album": {
@@ -60010,7 +60236,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
@@ -66240,7 +66466,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
@@ -67552,7 +67778,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
@@ -67794,7 +68020,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 220493,
       "name": "May You Never",
       "url": "https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP"
@@ -67972,7 +68198,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 164813,
       "name": "Me and Julio Down by the Schoolyard",
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
@@ -68790,6 +69016,24 @@
       "duration_ms": 314912,
       "name": "Miami 2017 (Seen the Lights Go Out On Broadway)",
       "url": "https://open.spotify.com/track/4zVPevC2rE84lySHxX61Yr"
+    },
+    {
+      "album": {
+        "name": "Be More Chill (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/0758cp4h8LSZeLRzrKx2XM"
+      },
+      "artists": [
+        {
+          "name": "George Salazar",
+          "url": "https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297573,
+      "name": "Michael in the Bathroom",
+      "url": "https://open.spotify.com/track/1L3wn1FJHmnv9OpjVbkMzY"
     },
     {
       "album": {
@@ -69623,6 +69867,24 @@
     },
     {
       "album": {
+        "name": "Women On The Verge Of A Nervous Breakdown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/7bWTn7yKVycRyvpOUcE8eP"
+      },
+      "artists": [
+        {
+          "name": "Laura Benanti",
+          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310400,
+      "name": "Model Behavior",
+      "url": "https://open.spotify.com/track/5pFcqJsMLCaWVfqcbPf3s7"
+    },
+    {
+      "album": {
         "name": "Mechanical Resonance",
         "url": "https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI"
       },
@@ -70216,7 +70478,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 334106,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
@@ -72237,6 +72499,40 @@
     },
     {
       "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333154,
+      "name": "My Shot",
+      "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
+    },
+    {
+      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
       },
@@ -72252,6 +72548,28 @@
       "duration_ms": 186826,
       "name": "My Songs Know What You Did In The Dark (Light Em Up)",
       "url": "https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0"
+    },
+    {
+      "album": {
+        "name": "Aida - Broadway Cast Album",
+        "url": "https://open.spotify.com/album/4wpEUSqcvIgEjAuQZ64JNa"
+      },
+      "artists": [
+        {
+          "name": "Women of the Palace",
+          "url": "https://open.spotify.com/artist/70Z0cZWRiRGM4D9FiYdeBR"
+        },
+        {
+          "name": "Sherie Rene Scott",
+          "url": "https://open.spotify.com/artist/2I5SzHTskqEe8LJl4IvwnT"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315080,
+      "name": "My Strongest Suit",
+      "url": "https://open.spotify.com/track/7iLxAfUXcreZIabBXhtXPL"
     },
     {
       "album": {
@@ -74354,6 +74672,24 @@
       "duration_ms": 253813,
       "name": "No One",
       "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
+    },
+    {
+      "album": {
+        "name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3Ohwm7WsUS6AJd56VnNlJX"
+      },
+      "artists": [
+        {
+          "name": "Den\u00e9e Benton",
+          "url": "https://open.spotify.com/artist/3bBNMFp7jH66nWZYYIzqc6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260746,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/6pPpMCJlAzXN78LYDS8Zxf"
     },
     {
       "album": {
@@ -78639,6 +78975,24 @@
     },
     {
       "album": {
+        "name": "25th Annual Putnam County Spelling Bee (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5SXDpZh8lHqquvkcbheIYa"
+      },
+      "artists": [
+        {
+          "name": "25th Annual Putnam County Spelling Bee Original Cast",
+          "url": "https://open.spotify.com/artist/66tdbpspqaHM1cPkBTC0WU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172040,
+      "name": "Pandemonium",
+      "url": "https://open.spotify.com/track/49Owuv1yJT9ndKe84pUNXH"
+    },
+    {
+      "album": {
         "name": "Panic Room",
         "url": "https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM"
       },
@@ -80288,7 +80642,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
@@ -81093,6 +81447,24 @@
     },
     {
       "album": {
+        "name": "Bloody Bloody Andrew Jackson (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/2d1txV0ZnQIh8qq2pBjRO4"
+      },
+      "artists": [
+        {
+          "name": "Bloody Bloody Andrew Jackson Original Cast",
+          "url": "https://open.spotify.com/artist/3jY0FDQ23jyQdWbDHDnpam"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126733,
+      "name": "Populism, Yea Yea",
+      "url": "https://open.spotify.com/track/2YokxhfpmCqPjUNhgbQY7M"
+    },
+    {
+      "album": {
         "name": "Mi Vida Sin Tu Amor",
         "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
       },
@@ -81346,7 +81718,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 322333,
       "name": "Power Of Two",
       "url": "https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC"
@@ -84016,7 +84388,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 233560,
       "name": "Redemption Song",
       "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
@@ -85311,6 +85683,36 @@
     },
     {
       "album": {
+        "name": "Fun Home (A New Broadway Musical)",
+        "url": "https://open.spotify.com/album/2GKE26bq2o8qoukpNlZnrh"
+      },
+      "artists": [
+        {
+          "name": "Jeanine Tesori",
+          "url": "https://open.spotify.com/artist/3bW9aRkzZhlE53ca3djW8Z"
+        },
+        {
+          "name": "Lisa Kron",
+          "url": "https://open.spotify.com/artist/1vrC8QDkFBw7mkWShqEcXZ"
+        },
+        {
+          "name": "Sydney Lucas",
+          "url": "https://open.spotify.com/artist/2NC0NvcP3iJvpCPepplwof"
+        },
+        {
+          "name": "Beth Malone",
+          "url": "https://open.spotify.com/artist/60zvRmhQHRxokEB1taAVpN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "Ring of Keys",
+      "url": "https://open.spotify.com/track/2zTjKIhgvU7mt6pbkWdzhi"
+    },
+    {
+      "album": {
         "name": "The Dead 60s",
         "url": "https://open.spotify.com/album/0A13iRLYghrx0alH22FtWa"
       },
@@ -85358,7 +85760,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 248160,
       "name": "Ripple - 2020 Remaster",
       "url": "https://open.spotify.com/track/4aQ8mFkZU6dmHaZOOKdscc"
@@ -85524,7 +85926,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 181093,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/2S7hH8gCuwlqL8vqia3eJp"
@@ -85560,7 +85962,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 204960,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q"
@@ -86585,6 +86987,56 @@
     },
     {
       "album": {
+        "name": "Urinetown The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3Gckm2aWdGEXhVco2dklC6"
+      },
+      "artists": [
+        {
+          "name": "Hunter Foster",
+          "url": "https://open.spotify.com/artist/43BnUJBWDZs1vEHVIStQRR"
+        },
+        {
+          "name": "Rick Crom",
+          "url": "https://open.spotify.com/artist/0zHHDaS9I0KpSOazf9dwOG"
+        },
+        {
+          "name": "Ken Jennings",
+          "url": "https://open.spotify.com/artist/1RFTi2xW0l7TYzduCBKnTX"
+        },
+        {
+          "name": "Megan Lawrence",
+          "url": "https://open.spotify.com/artist/7hNPP1C4xZP0eYlUAhvyjp"
+        },
+        {
+          "name": "Rachel Coloff",
+          "url": "https://open.spotify.com/artist/4FC374Ps5r1UFxDWn0M5yI"
+        },
+        {
+          "name": "Victor W. Hawks",
+          "url": "https://open.spotify.com/artist/293GuVObI7zzrgZUDogL5D"
+        },
+        {
+          "name": "Spencer Kayden",
+          "url": "https://open.spotify.com/artist/2zcTjMYnEEEHeFsZ9x0L2m"
+        },
+        {
+          "name": "Lawrence Street",
+          "url": "https://open.spotify.com/artist/2EQwysDW4VsyWBK7kWb7Sc"
+        },
+        {
+          "name": "Kay Walbye",
+          "url": "https://open.spotify.com/artist/7FqD3vKOfcHLO2HFH3Om2k"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170266,
+      "name": "Run, Freedom, Run!",
+      "url": "https://open.spotify.com/track/71PN5ixhorH1y4eHVbvjO4"
+    },
+    {
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/5nNeSC4KNxT50MnliLuGRa"
       },
@@ -87500,7 +87952,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 291640,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/2BjUvisO4UVAtTHs4lYiqu"
@@ -87540,6 +87992,28 @@
       "duration_ms": 258733,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0klzutEUO6IX3QSmtRDFrq"
+    },
+    {
+      "album": {
+        "name": "Rise Up! Hamilton: The Anthology",
+        "url": "https://open.spotify.com/album/3acdMj3FtDCQK0rAjcEVfp"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329228,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/5kMTLVgHv7DOAWGpItkWHp"
     },
     {
       "album": {
@@ -88622,7 +89096,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 226306,
       "name": "Screaming Infidelities",
       "url": "https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09"
@@ -88640,7 +89114,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 244840,
       "name": "Seagull - 2015 Remaster",
       "url": "https://open.spotify.com/track/6jA05EM7TTFpWKwBQr5Isf"
@@ -90567,6 +91041,24 @@
     },
     {
       "album": {
+        "name": "Waitress (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mueller",
+          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260573,
+      "name": "She Used to Be Mine",
+      "url": "https://open.spotify.com/track/7CBrUf50mf2IqcRZla38by"
+    },
+    {
+      "album": {
         "name": "Fly Or Die",
         "url": "https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4"
       },
@@ -90968,6 +91460,24 @@
       "duration_ms": 169920,
       "name": "Sheena Is a Punk Rocker - 2017 Remaster",
       "url": "https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ"
+    },
+    {
+      "album": {
+        "name": "Jersey Boys Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/5sCVURwZOOd13unG0uJmNX"
+      },
+      "artists": [
+        {
+          "name": "Jersey Boys",
+          "url": "https://open.spotify.com/artist/28W9apMi2vgk9O9LnkijIC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134506,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/11r0OH8zYLcBlryvnAiykT"
     },
     {
       "album": {
@@ -93632,7 +94142,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 235391,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl"
@@ -99210,7 +99720,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 316015,
       "name": "Sunshine On My Shoulders",
       "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
@@ -99362,6 +99872,32 @@
       "duration_ms": 252853,
       "name": "Super Trouper",
       "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
+    },
+    {
+      "album": {
+        "name": "Next To Normal (Original Broadway Cast Recording) [15th Anniversary Edition] [2024 Remix & Remaster]",
+        "url": "https://open.spotify.com/album/5CTQvGzc8g8WgagM3XeHzQ"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Damiano",
+          "url": "https://open.spotify.com/artist/64sJUOKAnROFdxjvpGxvl5"
+        },
+        {
+          "name": "Aaron Tveit",
+          "url": "https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx"
+        },
+        {
+          "name": "Alice Ripley",
+          "url": "https://open.spotify.com/artist/7KLUKenP88WNsnb7MKa70M"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128039,
+      "name": "Superboy and the Invisible Girl - 2024 Remix & Remaster",
+      "url": "https://open.spotify.com/track/2B9slMcknpWPGLRVuPVBBK"
     },
     {
       "album": {
@@ -100160,7 +100696,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 200066,
       "name": "Swing Life Away",
       "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
@@ -100272,7 +100808,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 178146,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI"
@@ -101172,7 +101708,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 340775,
       "name": "Tangled up in Blue",
       "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
@@ -102789,6 +103325,44 @@
     },
     {
       "album": {
+        "name": "Spring Awakening (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3aiuPuezy2yAwt4uvBUZxY"
+      },
+      "artists": [
+        {
+          "name": "John Gallagher Jr.",
+          "url": "https://open.spotify.com/artist/20HJ0KBphamOUmXI1uG1z6"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/3h0UstEidZYyYdb4F4qeSy"
+        },
+        {
+          "name": "Jonathan B. Wright",
+          "url": "https://open.spotify.com/artist/4sC25H6noNOw0akd01pXvN"
+        },
+        {
+          "name": "Gideon Glick",
+          "url": "https://open.spotify.com/artist/38LQlt0tB9RLgsCf3p1xDn"
+        },
+        {
+          "name": "Skylar Astin",
+          "url": "https://open.spotify.com/artist/1QXyMGVMzdhyM5efhg3m3j"
+        },
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "The Bitch Of Living - Original Broadway Cast Recording/2006",
+      "url": "https://open.spotify.com/track/16BIv1FQh44e4IyRlnzTaQ"
+    },
+    {
+      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -104044,6 +104618,36 @@
       "duration_ms": 261693,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW"
+    },
+    {
+      "album": {
+        "name": "The Light in the Piazza",
+        "url": "https://open.spotify.com/album/72MYWRFsmd7SJ2zPZZmeMm"
+      },
+      "artists": [
+        {
+          "name": "Mark Harelik",
+          "url": "https://open.spotify.com/artist/45OafIY8d7nUESAvMxDF3L"
+        },
+        {
+          "name": "Sarah Uriarte Berry",
+          "url": "https://open.spotify.com/artist/48VqIWqwjLW8E1zWLaOUAL"
+        },
+        {
+          "name": "Patti Cohenour",
+          "url": "https://open.spotify.com/artist/0vqY2Mc7IBz74KK3k77TJW"
+        },
+        {
+          "name": "Adam Guettel",
+          "url": "https://open.spotify.com/artist/6UJMGTzCvEMmjfFlj34gPU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181920,
+      "name": "The Light in the Piazza",
+      "url": "https://open.spotify.com/track/6juPr9kdvYkAPthKmEX14F"
     },
     {
       "album": {
@@ -106052,7 +106656,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 135386,
       "name": "The Way I Am",
       "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
@@ -106350,7 +106954,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 102986,
       "name": "The Wind - Remastered 2021",
       "url": "https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP"
@@ -106646,6 +107250,24 @@
       "duration_ms": 220840,
       "name": "There You'll Be - 2007 Remaster",
       "url": "https://open.spotify.com/track/1s2khOWzC99udpUaPICLJI"
+    },
+    {
+      "album": {
+        "name": "Avenue Q (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4Ok0WpQf9ucxEbd0wJV5Cx"
+      },
+      "artists": [
+        {
+          "name": "Stephanie D'Abruzzo",
+          "url": "https://open.spotify.com/artist/2bvaL0chaHzVdKXjULRLeK"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159946,
+      "name": "There's a Fine, Fine Line",
+      "url": "https://open.spotify.com/track/2W7wqrmruKE07zZCg8rSdm"
     },
     {
       "album": {
@@ -107014,7 +107636,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 154666,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/3BQLTtpQOYGXQY2lT3ZZeU"
@@ -108544,7 +109166,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 148586,
       "name": "Time in a Bottle",
       "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn"
@@ -113191,6 +113813,84 @@
     },
     {
       "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 De Shields",
+          "url": "https://open.spotify.com/artist/0vtjXmCLNmJti4fJ5dBhxc"
+        },
+        {
+          "name": "Reeve Carney",
+          "url": "https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U"
+        },
+        {
+          "name": "Jewelle Blackman",
+          "url": "https://open.spotify.com/artist/4TBsKdA7190eaHM5E2HQI9"
+        },
+        {
+          "name": "Yvette Gonzalez-Nacer",
+          "url": "https://open.spotify.com/artist/5wUluB4hpO7rTnPSUCqJNT"
+        },
+        {
+          "name": "Kay Trinidad",
+          "url": "https://open.spotify.com/artist/7yWvIWQVF6Cfj5YTsrHIin"
+        },
+        {
+          "name": "Kimberly Marable",
+          "url": "https://open.spotify.com/artist/6fIpXrHv1mcqHo29dnmX1G"
+        },
+        {
+          "name": "Timothy Hughes",
+          "url": "https://open.spotify.com/artist/2CJ8jlnx3VMhVsqcjMHAWM"
+        },
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        },
+        {
+          "name": "Malcolm Armwood",
+          "url": "https://open.spotify.com/artist/0ddK8xNO0a7477c5NCwoGP"
+        },
+        {
+          "name": "Jessie Shelton",
+          "url": "https://open.spotify.com/artist/2fpFaqhr6d1JZ47hlYuIcs"
+        },
+        {
+          "name": "John Krause",
+          "url": "https://open.spotify.com/artist/3Wa7IOA9h3Ns3mMarjkQwL"
+        },
+        {
+          "name": "Ahmad Simmons",
+          "url": "https://open.spotify.com/artist/3KpWvpRW5ZDfndzjomuCee"
+        },
+        {
+          "name": "Khaila Wilcoxon",
+          "url": "https://open.spotify.com/artist/5RIgtgu0pFYmr2cUYvJKcM"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "T. Oliver Reid",
+          "url": "https://open.spotify.com/artist/2U42kkryvXvMw8BpRRVNvb"
+        },
+        {
+          "name": "Afra Hines",
+          "url": "https://open.spotify.com/artist/5GAvM5WeDGDmv2cPDPf8Sx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214961,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/1dARoUpgYHvx33Qp8dawsZ"
+    },
+    {
+      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/3PoVbBEJdPtQ7SNViz9IZy"
       },
@@ -113746,7 +114446,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 255875,
       "name": "Walk On the Wild Side",
       "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
@@ -114418,6 +115118,28 @@
       "duration_ms": 220520,
       "name": "Wavin' Flag",
       "url": "https://open.spotify.com/track/0mBREiw4ppCXccM7rsk2RC"
+    },
+    {
+      "album": {
+        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Original Broadway Cast of Dear Evan Hansen",
+          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236360,
+      "name": "Waving Through A Window",
+      "url": "https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u"
     },
     {
       "album": {
@@ -119996,7 +120718,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 227933,
       "name": "Working Class Hero - Remastered 2010",
       "url": "https://open.spotify.com/track/1yKQBy7olMIqRpziyAzf8c"

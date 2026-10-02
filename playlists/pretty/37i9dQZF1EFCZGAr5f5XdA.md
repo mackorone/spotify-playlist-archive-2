@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,087 likes - 221 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,088 likes - 220 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,11 +223,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 213 | [Come Back Down](https://open.spotify.com/track/4e3E1VBwKJkB7keKuiVRuR) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Honeyblonde](https://open.spotify.com/album/0cvDLEQcJ9559XKdpWfY6U) | 4:15 |
 | 214 | [Titanic](https://open.spotify.com/track/2GWfVS7Z1TI96POt0iiXA6) | [New End Original](https://open.spotify.com/artist/5NJRExT7VDHWYQTPPoUurl) | [Thriller](https://open.spotify.com/album/5Zw13uME7IQ81K26mHhY2P) | 4:50 |
 | 215 | [Paradise](https://open.spotify.com/track/3PkzXAUpThUctgJ07XtfHa) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [DoubleTake: Tree63](https://open.spotify.com/album/0tASAF8rZVeYTlPVQyvrZV) | 3:17 |
-| 216 | [Timbalands](https://open.spotify.com/track/7cAQTeIu7J8hIgqOtoeqcY) | [Dusty](https://open.spotify.com/artist/6luxzQVnnCmXpnc2FBbCTj) | [Odds & Ends, Vol\. 1](https://open.spotify.com/album/4PDY9vDir8Szk5yohSz0N9) | 1:27 |
-| 217 | [Make Love \(Exclusive Itunes Bonus Track\)](https://open.spotify.com/track/45ed42Xx7eYJvWRB9LkDPw) | [Gene The Werewolf](https://open.spotify.com/artist/3hOYiqaoW4aJqnty8bCnKQ) | [Rock 'N Roll Animal](https://open.spotify.com/album/0isuWrTKUrOLU40WcmKmJR) | 3:14 |
-| 218 | [Looking for Me \(feat\. Mo3\)](https://open.spotify.com/track/751k32bhveKHdzJGLbHg5e) | [Chris P](https://open.spotify.com/artist/3oq8os8cwb3DtB1jTlG0Vh), [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Looking for Me \(feat\. Mo3\)](https://open.spotify.com/album/7kSdsg4SJejaJi0cza5FHm) | 5:26 |
-| 219 | [My Friend](https://open.spotify.com/track/5bFrrq9WBiSNuPPH6WSiuW) | [James Moore](https://open.spotify.com/artist/5fXuZk12LO4ZUv5AXLb4tm) | [My Friend](https://open.spotify.com/album/65rDkpSGTC6lpQWmA7Q5EY) | 4:14 |
-| 220 | [High Horse](https://open.spotify.com/track/7GMgbF87l9dj8XWLMlehdz) | [The Laissez Fairs](https://open.spotify.com/artist/1J4rwIayXHw7S6oEYBiiuP) | [Empire of Mars](https://open.spotify.com/album/6ukHxOWQZSt7Z2osTmKAGt) | 3:33 |
-| 221 | [Break These Walls](https://open.spotify.com/track/36Z2l0DlYqChUzYMjNqt9s) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/1ewpID3ekASORuzC28Lh3K) | 4:00 |
+| 216 | [Make Love \(Exclusive Itunes Bonus Track\)](https://open.spotify.com/track/45ed42Xx7eYJvWRB9LkDPw) | [Gene The Werewolf](https://open.spotify.com/artist/3hOYiqaoW4aJqnty8bCnKQ) | [Rock 'N Roll Animal](https://open.spotify.com/album/0isuWrTKUrOLU40WcmKmJR) | 3:14 |
+| 217 | [Looking for Me \(feat\. Mo3\)](https://open.spotify.com/track/751k32bhveKHdzJGLbHg5e) | [Chris P](https://open.spotify.com/artist/3oq8os8cwb3DtB1jTlG0Vh), [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Looking for Me \(feat\. Mo3\)](https://open.spotify.com/album/7kSdsg4SJejaJi0cza5FHm) | 5:26 |
+| 218 | [My Friend](https://open.spotify.com/track/5bFrrq9WBiSNuPPH6WSiuW) | [James Moore](https://open.spotify.com/artist/5fXuZk12LO4ZUv5AXLb4tm) | [My Friend](https://open.spotify.com/album/65rDkpSGTC6lpQWmA7Q5EY) | 4:14 |
+| 219 | [High Horse](https://open.spotify.com/track/7GMgbF87l9dj8XWLMlehdz) | [The Laissez Fairs](https://open.spotify.com/artist/1J4rwIayXHw7S6oEYBiiuP) | [Empire of Mars](https://open.spotify.com/album/6ukHxOWQZSt7Z2osTmKAGt) | 3:33 |
+| 220 | [Break These Walls](https://open.spotify.com/track/36Z2l0DlYqChUzYMjNqt9s) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/1ewpID3ekASORuzC28Lh3K) | 4:00 |
 
-Snapshot ID: `AcduUAAAAADxIUFrLwGNPSIURxva6VEJ`
+Snapshot ID: `Acdz+gAAAAASbziyOU386cb3ZZg9Odoo`

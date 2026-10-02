@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: さとうもか
 
-3,897 songs - 10 day 7 hr 52 min
+3,898 songs - 10 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2323,6 +2323,7 @@
 | [いまだけ](https://open.spotify.com/track/5hvX6FzExPLJgmPRVLyvqZ) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ) | [いまだけ](https://open.spotify.com/album/7fAKRqfPEoqDFWhRbQ5qZm) | 3:14 | 2022-09-29 | 2022-10-05 |
 | [うすっぺらい](https://open.spotify.com/track/4Thw5W47ipUfFQHjYXBR0e) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [うすっぺらい](https://open.spotify.com/album/3VR4gczlcHcH8s2kHrwqnV) | 3:28 | 2024-02-06 | 2024-02-08 |
 | [うそつき](https://open.spotify.com/track/5IBNmCgZO97b2wqgh8dQSf) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [うそつき](https://open.spotify.com/album/2JDz624JdZ8McGoKJAXPvX) | 4:57 | 2023-05-11 | 2023-07-25 |
+| [うたかた](https://open.spotify.com/track/2G50YEjqnVlTJhEODcJ7Ra) | [ふみの](https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx) | [僕のすべてを知ってるような君だから](https://open.spotify.com/album/6x8TSxuuT4OMzy0ez4yhAm) | 4:09 | 2026-09-29 |  |
 | [うたたね](https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT) | 3:01 | 2023-10-17 | 2025-04-13 |
 | [うつくしい世界](https://open.spotify.com/track/75S3goclSq5ZBVBk1QGwli) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [うつくしい世界](https://open.spotify.com/album/47iFTH6dUkGoRpWRyjgRWv) | 4:05 | 2025-01-21 | 2025-04-16 |
 | [うつつ](https://open.spotify.com/track/3vJCuyn9ASeiFGMR31b4Cv) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [うつつ](https://open.spotify.com/album/5u9iXFpNMg7S8mzHBlqGUi) | 3:40 | 2024-05-28 | 2024-06-05 |
@@ -2500,7 +2501,7 @@
 | [ふたつの星](https://open.spotify.com/track/2V9Q8ELH3TAmyIuDlVo83F) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [ふたつの星](https://open.spotify.com/album/22nrObzA6hQ5OaV2fJxKRe) | 5:49 | 2022-08-17 | 2022-08-24 |
 | [ふたりごと](https://open.spotify.com/track/40LZpCt554ozJayGUrQw1P) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [ふたりごと](https://open.spotify.com/album/5ctQQYVDiYBDO0EEfxS5zE) | 4:39 | 2025-11-18 | 2026-02-12 |
 | [ふたりじめ](https://open.spotify.com/track/6klVbCJWBWv1NKbXd6NElu) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [ふたりじめ](https://open.spotify.com/album/6cPZhNjE7lp0f153yt2JjQ) | 3:06 | 2024-12-24 | 2025-01-06 |
-| [ふたりでいよう](https://open.spotify.com/track/3ZL91WJItZxbl230ZEfzCn) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [ふたりでいよう](https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A) | 4:06 | 2026-08-18 |  |
+| [ふたりでいよう](https://open.spotify.com/track/3ZL91WJItZxbl230ZEfzCn) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [ふたりでいよう](https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A) | 4:06 | 2026-08-18 | 2026-10-02 |
 | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/track/2wh07cGkfGVLWxCpSJtafV) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/album/7jRh5otey2SbFJ6Pzu8SUo) | 3:54 | 2024-07-09 | 2024-07-17 |
 | [ふれられない奇跡](https://open.spotify.com/track/5tmoPWku1FRlJHzUrXVrmH) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [ふれられない奇跡](https://open.spotify.com/album/3LRPuuA2QAy6QraKYlbliZ) | 5:40 | 2024-05-07 | 2024-05-22 |
 | [ふわり](https://open.spotify.com/track/40HGWMDzsbCN5uIY0znQty) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [ふわり](https://open.spotify.com/album/7CjB2qN8kpU8YcXn0N0Sz4) | 4:07 | 2025-07-22 | 2025-07-30 |

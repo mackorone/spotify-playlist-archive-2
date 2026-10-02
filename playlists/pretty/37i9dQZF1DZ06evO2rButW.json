@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 798169,
+  "num_followers": 798325,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACOQP0Q4OnrIssib7hVubJC",
+  "snapshot_id": "arxRAAAAAAAyH2+ZRDVUpByy6aWwi++6",
   "tracks": [
     {
       "added_at": null,
@@ -319,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Femme Fatale Vol. 2",
-        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
       },
       "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 249124,
-      "name": "A Pesar De Ti y De Mi",
-      "url": "https://open.spotify.com/track/5Mj8nBsQg04h33UXNfEONY"
+      "duration_ms": 156240,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
     },
     {
       "added_at": null,
@@ -351,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline",
-        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
       },
       "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 156240,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
+      "duration_ms": 249124,
+      "name": "A Pesar De Ti y De Mi",
+      "url": "https://open.spotify.com/track/5Mj8nBsQg04h33UXNfEONY"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Femme Fatale Vol. 2",
-        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 247396,
-      "name": "Hello Monserrat",
-      "url": "https://open.spotify.com/track/4GeGkrJZHLok2EMqnJt7bS"
+      "duration_ms": 250146,
+      "name": "Aunque Te Mueras Por Volver",
+      "url": "https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 250146,
-      "name": "Aunque Te Mueras Por Volver",
-      "url": "https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD"
+      "duration_ms": 247396,
+      "name": "Hello Monserrat",
+      "url": "https://open.spotify.com/track/4GeGkrJZHLok2EMqnJt7bS"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 196602,
+      "name": "Estoy Llorando De Tanta Belleza",
+      "url": "https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 312512,
       "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Femme Fatale Vol. 2",
-        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 196602,
-      "name": "Estoy Llorando De Tanta Belleza",
-      "url": "https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 224890,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/1V8SlskAwHaON0SpE4lnWY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -575,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Femme Fatale Vol. 2",
-        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+        "name": "La Trenza (Deluxe)",
+        "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
       },
       "artists": [
         {
@@ -584,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 224890,
-      "name": "Sunset Boulevard",
-      "url": "https://open.spotify.com/track/1V8SlskAwHaON0SpE4lnWY"
+      "duration_ms": 214120,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
       "duration_ms": 230973,
       "name": "Qu\u00e9date Esta Noche",
       "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Trenza (Deluxe)",
-        "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
+        "url": "https://open.spotify.com/album/73bl7uuU24ECvfzzE6vIgl"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242478,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Caminante",
         "url": "https://open.spotify.com/album/3GoP2zfwzLlr23wpjZYwOw"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 178640,
       "name": "El Beso",
       "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
-        "url": "https://open.spotify.com/album/73bl7uuU24ECvfzzE6vIgl"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242478,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI"
     },
     {
       "added_at": null,

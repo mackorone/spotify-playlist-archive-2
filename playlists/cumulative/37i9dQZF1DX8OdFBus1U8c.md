@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
 
-562 songs - 1 day 4 hr 53 min
+563 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Puthen Og](https://open.spotify.com/track/6YBSzFhBJCUzKbV9LxX7FH) | [DAWNSICC](https://open.spotify.com/artist/6wer0gEp4yLlCpvzH9bO02), [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Puthen Og](https://open.spotify.com/album/2dDYYdDWcRVJkBKwnK7esU) | 2:29 | 2025-07-28 | 2025-10-14 |
 | [Raavanan](https://open.spotify.com/track/7EZIw08pSqINJLo1wsqd9R) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T) | [Raavanan](https://open.spotify.com/album/2Fxy7tQSkhKVINxfDaSmWY) | 3:29 | 2024-04-22 | 2024-05-22 |
 | [Ranam \- From "Ranam"](https://open.spotify.com/track/6f6CZPUqlcBRfwQ7153zjH) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Ajaey Shravan](https://open.spotify.com/artist/3U1ldHA1sIAPz4WfN3yJDW), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Saint T.F.C.](https://open.spotify.com/artist/4lp0Dq8CMefR1DDic0w3Fj) | [Ranam \(From "Ranam"\)](https://open.spotify.com/album/2T5UV9k0FrHm5wogHQNOcU) | 5:01 | 2025-11-20 | 2026-09-26 |
+| [Rani](https://open.spotify.com/track/0HAQUby4Y61sOV67vSWVCi) | [SACHYN](https://open.spotify.com/artist/0fqn7UJi5ch6WMfbEIvHTQ), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Chithragupthan](https://open.spotify.com/artist/2IJ0NjTYnOYzmnoI8AwpdP) | [Rani](https://open.spotify.com/album/7ihRo9ZCC8QIYYlP1d3C8T) | 3:08 | 2026-10-01 |  |
 | [RAP MONEY](https://open.spotify.com/track/2GX5RJ173nRHB7duLl8qTC) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [RAP MONEY](https://open.spotify.com/album/3J9idTC9bFaMOIhxZvWGgB) | 2:50 | 2023-07-23 | 2024-05-22 |
 | [Rap Scene](https://open.spotify.com/track/0yqdDhyVprEB0o2L9pwmRF) | [riPz](https://open.spotify.com/artist/371uEcwtjldtDNJ8J7j7LA) | [Rap Scene](https://open.spotify.com/album/0SjSyYXqVnGx9UWI7DqoE7) | 3:31 | 2023-09-13 | 2024-02-13 |
 | [RentalRap \(Parkkaan Idamille\)](https://open.spotify.com/track/5Xev3pFAWixBYsC7yACDL0) | [Vikaas Alphonse](https://open.spotify.com/artist/04zBR4pYFN5uXURipTEWM1) | [RentalRap \(Parkkaan Idamille\)](https://open.spotify.com/album/3APjpLizzOkMJqvI6xZnin) | 2:59 | 2025-06-30 | 2025-10-14 |

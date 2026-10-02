@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "THRASHER",
+        "url": "https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343609,
+      "name": "An American Dream",
+      "url": "https://open.spotify.com/track/1EfAb7NaQcXyRZqq3bwfoO"
+    },
+    {
+      "album": {
         "name": "Ancient Light",
         "url": "https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl"
       },
@@ -2786,6 +2804,24 @@
       "duration_ms": 256426,
       "name": "Carolina Rain",
       "url": "https://open.spotify.com/track/7DLuMk0PrnTQt8BE3GK3WY"
+    },
+    {
+      "album": {
+        "name": "Carolina Shakedown",
+        "url": "https://open.spotify.com/album/4dVVlrOj72vq2MRLmav4rq"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes @ Sunset",
+          "url": "https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157083,
+      "name": "Carolina Shakedown",
+      "url": "https://open.spotify.com/track/3JnzeLMaTrZnL5Ms7KADIC"
     },
     {
       "album": {
@@ -6328,7 +6364,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 291400,
       "name": "Going Solo",
       "url": "https://open.spotify.com/track/5fRRtJ57QoPYsPYLAsTb5U"
@@ -7180,6 +7216,24 @@
       "duration_ms": 235519,
       "name": "Heartless Year",
       "url": "https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C"
+    },
+    {
+      "album": {
+        "name": "Work of Heart - Heartstrings",
+        "url": "https://open.spotify.com/album/75nqbogQG36rnoSRlVKtmP"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241253,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/5yzRGVeirNYC24dYkT3Yjq"
     },
     {
       "album": {
@@ -8462,7 +8516,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 222629,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC"
@@ -8534,7 +8588,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 244600,
       "name": "If I'm Lucky",
       "url": "https://open.spotify.com/track/3V3eLDsjsDHu78UC4LDUGb"
@@ -9254,7 +9308,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 210177,
       "name": "Jukebox Blues (For Blaze Foley)",
       "url": "https://open.spotify.com/track/4CTACBpkE6v7e6G6llSICV"
@@ -11629,6 +11683,24 @@
     },
     {
       "album": {
+        "name": "Returning To Myself (Sad Gay Version)",
+        "url": "https://open.spotify.com/album/0XxNrO1OVqVBQdPoXz8pdz"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263976,
+      "name": "No One Knows Us",
+      "url": "https://open.spotify.com/track/5rA6phTocYGASmSjRliM9O"
+    },
+    {
+      "album": {
         "name": "Anarchist Gospel",
         "url": "https://open.spotify.com/album/6Lj7fDEEx68OYdAZ41hlK6"
       },
@@ -13340,7 +13412,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 229080,
       "name": "Reminds Me (feat. Katie Gavin)",
       "url": "https://open.spotify.com/track/6JpxuY7s8tapxheD3Iotqm"
@@ -16713,6 +16785,28 @@
     },
     {
       "album": {
+        "name": "The Pen",
+        "url": "https://open.spotify.com/album/22hQYNHIMLg7U6jBrdnlNX"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215023,
+      "name": "The Pen",
+      "url": "https://open.spotify.com/track/7FOSxXITje3TCLCsmb3Jva"
+    },
+    {
+      "album": {
         "name": "Be Here Instead",
         "url": "https://open.spotify.com/album/3vo1vBWSWG0mG3XSEs3eQt"
       },
@@ -16804,7 +16898,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 247050,
       "name": "The Shadows (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"
@@ -17246,6 +17340,24 @@
       "duration_ms": 190923,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
+    },
+    {
+      "album": {
+        "name": "Time Has Been More Kind",
+        "url": "https://open.spotify.com/album/4DJDghQngHDGYwhWCpZhKn"
+      },
+      "artists": [
+        {
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291114,
+      "name": "Time Has Been More Kind",
+      "url": "https://open.spotify.com/track/7o0Uh5rxZdzurWRb2QBd5Z"
     },
     {
       "album": {

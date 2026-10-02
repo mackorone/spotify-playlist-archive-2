@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-365 songs - 23 hr 1 min
+366 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-11-10 | 2025-07-21 |
 | [Morningtime \(Amperland, NY\)](https://open.spotify.com/track/1nydOgVUenCgiXt9mEUr42) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Morningtime \(Amperland, NY\)](https://open.spotify.com/album/2L8eOqNiJZASVOga6cbyea) | 4:45 | 2021-10-18 | 2022-07-29 |
 | [Mountains](https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 4:09 | 2023-01-06 |  |
-| [Mouth of a Flower](https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a) | 4:17 | 2024-12-11 |  |
+| [Mouth of a Flower](https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a) | 4:17 | 2024-12-11 | 2026-10-02 |
 | [Movie](https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 5:57 | 2022-10-07 | 2024-04-19 |
 | [Movie](https://open.spotify.com/track/6pcED19DVN2Coh4tmmgHH6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Movie](https://open.spotify.com/album/7l6WtR1PQw7lw2K1uwd5Jv) | 5:57 | 2021-10-18 | 2022-09-19 |
 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 | 2022-10-07 | 2022-11-17 |
@@ -372,6 +372,7 @@
 | [You Can't Always Get What You Want](https://open.spotify.com/track/31kL6SK7esUd0QRkrkjI8Q) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 4:06 | 2022-04-27 | 2022-12-02 |
 | [You Love Me](https://open.spotify.com/track/4BqIT4j2xzROrC9dMlgXPT) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Hidden Vagenda](https://open.spotify.com/album/12025laJ05m1gjmZVLNv2B) | 2:39 | 2024-08-14 |  |
 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 | 2021-10-18 |  |
+| [You're Already There](https://open.spotify.com/track/6FBysoHxNcpqiYz8nOcIbJ) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [You're Already There](https://open.spotify.com/album/6ouIo2cSY03JmfowzMYNxS) | 2:33 | 2026-09-25 |  |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-10-18 | 2022-06-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

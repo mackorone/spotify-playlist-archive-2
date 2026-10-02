@@ -4,7 +4,7 @@
 
 > The songs soundtracking the best years
 
-135 songs - 9 hr 35 min
+136 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Dododo \- Ekassa 1](https://open.spotify.com/track/6bCmlUUb3u8MOSlu9myY1C) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sir Victor Uwaifo: Guitar Boy Superstar 1970\-76 \(Soundway Records\)](https://open.spotify.com/album/5FCUyTp1uErvfLcj1b1Tj7) | 5:19 | 2024-09-27 | 2025-08-27 |
 | [Don't Dull](https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:39 | 2025-08-26 | 2026-09-23 |
 | [Drogba \(Joanna\)](https://open.spotify.com/track/55Onv3xbnjms6xPzPOrJo1) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/6cYoh6lBH4p6wbK4lP2x0R) | 3:19 | 2026-09-22 |  |
-| [Dumebi](https://open.spotify.com/track/1sBX7EfLOgP3u6gHJBSqQg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8) | 2:59 | 2026-09-22 |  |
+| [Dumebi](https://open.spotify.com/track/1sBX7EfLOgP3u6gHJBSqQg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8) | 2:59 | 2026-09-22 | 2026-10-02 |
 | [Dumebi](https://open.spotify.com/track/6CJD4LDNULzE645JA2XHpx) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 2:59 | 2025-08-26 | 2026-09-23 |
 | [Electric \(feat\. Wizkid & London\)](https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [London](https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 2:58 | 2025-08-26 | 2026-09-23 |
 | [Ello Baby](https://open.spotify.com/track/5zN3hyqfKLYMZ0VGnBvahT) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Young John](https://open.spotify.com/artist/0qfFZU0MyOgRZyZL39YVGF) | [Ello Baby](https://open.spotify.com/album/4ReAUEHOS4yJSnTjiYQdyf) | 2:46 | 2026-09-22 |  |
@@ -126,6 +126,7 @@
 | [Shele Gan Gan](https://open.spotify.com/track/4umLGm81374u2zCfa4ugjQ) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Shele Gan Gan](https://open.spotify.com/album/59vlF8oPYgqngDXwuHKfTp) | 3:40 | 2026-09-22 |  |
 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 | 2026-09-22 |  |
 | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Spotless](https://open.spotify.com/artist/7zd8O0lGS5sHftyvnhtWD1), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo) | 4:15 | 2025-08-26 | 2026-09-23 |
+| [Soft Work](https://open.spotify.com/track/4V4iOjpWebbWHS5eycyeTn) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Stories That Touch](https://open.spotify.com/album/5V4Mel3NQSGXJkBtAUzZUe) | 3:25 | 2026-09-22 |  |
 | [Soweto Baby \(feat\. Wizkid & DJ Buckz\)](https://open.spotify.com/track/7pN5xeBGywMaE5JLIJzZ6Q) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DJ Buckz](https://open.spotify.com/artist/3Y4R3beJgTc14iwsKbAV7r) | [Soweto Baby \(feat\. DJ Buckz & Wizkid\)](https://open.spotify.com/album/2qBPI58b3ObEAPkqUgjGYy) | 4:18 | 2026-09-22 |  |
 | [Stalemate](https://open.spotify.com/track/039djQX5LwqXM93UxvktmR) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 12:54 | 2024-09-27 | 2025-08-27 |
 | [Superstar](https://open.spotify.com/track/1peZOCos8iTHCMSeEkzkDB) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Everybody Loves Ice Prince](https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi) | 4:15 | 2024-09-27 | 2026-09-23 |

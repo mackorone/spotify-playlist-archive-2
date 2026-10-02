@@ -4,7 +4,7 @@
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-100 songs - 7 hr 14 min
+101 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Walk on your way](https://open.spotify.com/track/7zqoPFIlmZpFZMKhhHFXSo) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Walk on your way](https://open.spotify.com/album/2xvNbAscHnJSTrggMk98vG) | 3:05 | 2026-06-29 |  |
 | [YeLL](https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:20 | 2023-02-11 | 2026-02-21 |
 | [ずっとそばで](https://open.spotify.com/track/1aBr7sWU2lxnH1Hef7W4HZ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:58 | 2023-05-19 | 2026-06-12 |
-| [ゆらり](https://open.spotify.com/track/70tdqvTvB1z00947SVvCUw) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:53 | 2026-05-16 |  |
+| [ゆらり](https://open.spotify.com/track/70tdqvTvB1z00947SVvCUw) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:53 | 2026-05-16 | 2026-10-02 |
 | [アイリス](https://open.spotify.com/track/3Bl9pbEgCoSnm50nG93bvL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:07 | 2022-06-09 |  |
 | [アカツキ](https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 4:51 | 2022-06-09 |  |
 | [アクセンティア](https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:36 | 2022-06-09 |  |
@@ -86,6 +86,7 @@
 | [僕が死のうと思ったのは](https://open.spotify.com/track/0QGDmJCe9mZOe2YXVOjqTs) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/1TmNiPfVxj6ktlhbRdy8Um) | 6:23 | 2023-02-24 | 2025-08-12 |
 | [八十年の孤独](https://open.spotify.com/track/2xPnPnsiJTbNBAWJEPRsDs) | [骸と伽藍堂](https://open.spotify.com/artist/1ttxDZMgD3g8c7Eq2NWL11), [Asa](https://open.spotify.com/artist/34wHoLv6gBNnAJSjAzuLGA), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [骸と伽藍堂\-壱\-](https://open.spotify.com/album/4v6SteCfMRBs8FfynXcpvq) | 3:16 | 2025-12-29 | 2026-04-19 |
 | [夢の終わり](https://open.spotify.com/track/0RUlI18GJNkrKgAPQ5lQbw) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 5:16 | 2022-07-30 | 2022-08-01 |
+| [嵐の中でも](https://open.spotify.com/track/7onoDZXteBbWsb3MZgS8Bu) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [UNBOUND](https://open.spotify.com/album/45YisWHJ7tDlfajP1Up1vK) | 4:40 | 2026-10-02 |  |
 | [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 | 2022-10-20 |  |
 | [星が降るユメ](https://open.spotify.com/track/1MphKuJ1ZLJ7bZ3oppFJAR) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:10 | 2023-02-21 |  |
 | [星が降るユメ](https://open.spotify.com/track/1tsHgDDNkX2eUBvh8hTDhL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [星が降るユメ](https://open.spotify.com/album/3eEkOmo0lmc3MfcfXoNxiJ) | 4:10 | 2022-06-09 | 2023-02-22 |

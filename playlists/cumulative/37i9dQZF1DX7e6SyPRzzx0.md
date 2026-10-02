@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Playboi Carti
 
-232 songs - 9 hr 54 min
+233 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [JUMPIN](https://open.spotify.com/track/2sABxyWikItSP31WOu3fup) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [JUMPIN](https://open.spotify.com/album/1AkmRGpbgD6jTHiKBezVEu) | 1:09 | 2026-01-16 | 2026-04-11 |
 | [just score it](https://open.spotify.com/track/2AxMqRbs9U6JBJaS3GL5wx) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [just score it](https://open.spotify.com/album/73cibirs94ZVsObZcEdyny) | 1:47 | 2024-12-06 | 2026-02-10 |
 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 | 2024-09-10 |  |
-| [Kidding Me \(feat\. Nine Vicious\)](https://open.spotify.com/track/1bTqiL8cmCJ3I5U3rI0D43) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 2:19 | 2026-08-14 |  |
+| [Kidding Me \(feat\. Nine Vicious\)](https://open.spotify.com/track/1bTqiL8cmCJ3I5U3rI0D43) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 2:19 | 2026-08-14 | 2026-10-02 |
 | [King tonka](https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 2:05 | 2024-05-14 | 2025-08-02 |
 | [KING TUT](https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [KING TUT](https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA) | 2:52 | 2024-02-02 | 2024-06-01 |
 | [KISS THA RING](https://open.spotify.com/track/3TxGpv2xqe3LO5HsmcJgfC) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [trompe l’oeil](https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK) | 2:24 | 2025-06-06 | 2025-07-05 |
@@ -211,6 +211,7 @@
 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 | 2025-10-10 |  |
 | [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 | 2024-08-04 | 2025-09-06 |
 | [Troops](https://open.spotify.com/track/6EDsyZJdzrS1G3aX3VoH9i) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/6rwxZslqJuyF0DivxOB0w9) | 2:19 | 2023-12-01 | 2024-03-16 |
+| [Turnin Your Back](https://open.spotify.com/track/6kffIE2gTlXcZbnFCuCVSH) | [Melly Mike](https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M) | [Turnin Your Back](https://open.spotify.com/album/1C6PBIrExmGF35eFCdAeEY) | 1:51 | 2026-10-02 |  |
 | [Tweakin' Together](https://open.spotify.com/track/6r639TM0j9JWM4jWJB1cVR) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Tweakin' Together](https://open.spotify.com/album/3ib7Nuviot6Wm2PJ13f2da) | 2:06 | 2023-12-01 | 2024-03-16 |
 | [Tyla](https://open.spotify.com/track/5JFOylCiD2CCfmMtaVECfv) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/4mpTd22gLh4zNxJZJbcOxO) | 2:03 | 2024-12-06 | 2025-04-12 |
 | [U could stay](https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [U could stay](https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz) | 1:36 | 2023-12-01 | 2024-04-13 |

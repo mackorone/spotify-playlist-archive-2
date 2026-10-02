@@ -10732,7 +10732,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 151327,
       "name": "Promises",
       "url": "https://open.spotify.com/track/4Q6nJI4EWgreJiMmRIinky"
@@ -12114,7 +12114,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 230823,
       "name": "Speak Lord",
       "url": "https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD"
@@ -14079,6 +14079,28 @@
     },
     {
       "album": {
+        "name": "When I Walk (Psalm 23) [World Version]",
+        "url": "https://open.spotify.com/album/2OmCFEVSl0ne69VgwsRk1e"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        },
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222162,
+      "name": "When I Walk (Psalm 23) - World Version",
+      "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
+    },
+    {
+      "album": {
         "name": "Where I For Dey",
         "url": "https://open.spotify.com/album/0hsksKMIUQgofLyKMn7hSk"
       },
@@ -15126,6 +15148,24 @@
       "duration_ms": 161841,
       "name": "ZA",
       "url": "https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z"
+    },
+    {
+      "album": {
+        "name": "\u00e0\u1e63\u1eb9",
+        "url": "https://open.spotify.com/album/2tGaPEhSWUdQmGL6FVSq6k"
+      },
+      "artists": [
+        {
+          "name": "The Good Wine",
+          "url": "https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147216,
+      "name": "\u00e0\u1e63\u1eb9",
+      "url": "https://open.spotify.com/track/4zIPB6jJOasLbPfJZcXjo8"
     },
     {
       "album": {

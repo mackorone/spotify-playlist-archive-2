@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 223773,
+  "num_followers": 223786,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "While The Flood Rages",
         "url": "https://open.spotify.com/album/7GEzoYe1TL7iOQnX0yirSF"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 310916,
       "name": "While The Flood Rages",
       "url": "https://open.spotify.com/track/5Kspplr3lgKpMyZLm4beUn"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Midnight Dreamer",
-        "url": "https://open.spotify.com/album/5sb0vRgPfKGi5jJ7QTM1CK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 186476,
-      "name": "Midnight Dreamer",
-      "url": "https://open.spotify.com/track/6tFQJ4WjSHXCI7SvosCRPv"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
         "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 254653,
       "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
       "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Midnight Dreamer",
+        "url": "https://open.spotify.com/album/5sb0vRgPfKGi5jJ7QTM1CK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 186476,
+      "name": "Midnight Dreamer",
+      "url": "https://open.spotify.com/track/6tFQJ4WjSHXCI7SvosCRPv"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "mirador",
+        "url": "https://open.spotify.com/album/2hGVnVTI3vz2SL4KPUr4Lz"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 273029,
+      "name": "laulasmaa",
+      "url": "https://open.spotify.com/track/2wlTZsfL5eictmDVatgi6K"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Works for Solo Piano",
         "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "mirador",
-        "url": "https://open.spotify.com/album/2hGVnVTI3vz2SL4KPUr4Lz"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 273029,
-      "name": "laulasmaa",
-      "url": "https://open.spotify.com/track/2wlTZsfL5eictmDVatgi6K"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
         "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
       },
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
-      },
-      "artists": [
-        {
-          "name": "Francesco Molino",
-          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
-        },
-        {
-          "name": "Emmanuel Pahud",
-          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
-        },
-        {
-          "name": "Christian Rivet",
-          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
-        }
-      ],
-      "duration_ms": 98320,
-      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
-      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
+      },
+      "artists": [
+        {
+          "name": "Francesco Molino",
+          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
+        },
+        {
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+        },
+        {
+          "name": "Christian Rivet",
+          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
+        }
+      ],
+      "duration_ms": 98320,
+      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
+      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1643,6 +1643,30 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/20w3NJjTyToeNiwTXtpgY1"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Mozart: Piano Concerto No. 24 in C Minor \u2014 Beethoven: Piano Concerto No. 3 in C Minor; 32 Variations in C Minor",
         "url": "https://open.spotify.com/album/1H2f1NcNMFQm9jxpQiAn2x"
       },
@@ -1667,30 +1691,6 @@
       "duration_ms": 536493,
       "name": "Piano Concerto No. 3 in C Minor, Op. 37: II. Largo",
       "url": "https://open.spotify.com/track/7HctY4t430gXK358KQDruZ"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
-        "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
-      },
-      "artists": [
-        {
-          "name": "Johann Pachelbel",
-          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
-        },
-        {
-          "name": "Gabriele Bagnati",
-          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
-        },
-        {
-          "name": "Esther Abrami",
-          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
-      "url": "https://open.spotify.com/track/20w3NJjTyToeNiwTXtpgY1"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Dancing Michelangelo (Andante Piano Sessions)",
-        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 110583,
-      "name": "Dancing Michelangelo - Andante Piano Sessions",
-      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
         "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 106320,
       "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
       "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Dancing Michelangelo (Andante Piano Sessions)",
+        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 110583,
+      "name": "Dancing Michelangelo - Andante Piano Sessions",
+      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1963,6 +1963,42 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Fermata",
+        "url": "https://open.spotify.com/album/4JX6cTjreUto3SKGbrQvHy"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        }
+      ],
+      "duration_ms": 183904,
+      "name": "Fermata",
+      "url": "https://open.spotify.com/track/3hCQEudNCNQs0u9zaBpSW8"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Mozart 1791",
         "url": "https://open.spotify.com/album/74bgXk4SBoMqfcXoAAh7VQ"
       },
@@ -1987,26 +2023,6 @@
       "duration_ms": 370546,
       "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/06sgVDVY4sH0TkQSEl2TFU"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2095,42 +2111,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Fermata",
-        "url": "https://open.spotify.com/album/4JX6cTjreUto3SKGbrQvHy"
-      },
-      "artists": [
-        {
-          "name": "Suena",
-          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
-        }
-      ],
-      "duration_ms": 183904,
-      "name": "Fermata",
-      "url": "https://open.spotify.com/track/3hCQEudNCNQs0u9zaBpSW8"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "El Bohemio",
-        "url": "https://open.spotify.com/album/5znYPBoDbkv2f5TKCFHzro"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Thibaut Garc\u00eda",
-          "url": "https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t"
-        }
-      ],
-      "duration_ms": 358640,
-      "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto (Arr. Barrios Mangor\u00e9 for Guitar)",
-      "url": "https://open.spotify.com/track/5j1fjs2Ooo0Rb1LQqwgUrO"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Telemann Edition, Vol. 1",
         "url": "https://open.spotify.com/album/5cEqeaVOOShRNlsEe4ubLC"
       },
@@ -2151,6 +2131,26 @@
       "duration_ms": 120813,
       "name": "Overture-Suite in G Major, TWV 55:G10: \"Burlesque de Quixotte\": IV. Ses soupirs amoureux apr\u00e8s la princesse Dulcin\u00e9e",
       "url": "https://open.spotify.com/track/5p2665rdi1sFIoCY5BFTy0"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "El Bohemio",
+        "url": "https://open.spotify.com/album/5znYPBoDbkv2f5TKCFHzro"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Thibaut Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t"
+        }
+      ],
+      "duration_ms": 358640,
+      "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto (Arr. Barrios Mangor\u00e9 for Guitar)",
+      "url": "https://open.spotify.com/track/5j1fjs2Ooo0Rb1LQqwgUrO"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Chopin",
-        "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Laurence Oldak",
-          "url": "https://open.spotify.com/artist/2PFGFK2N7de95IA21E4bTj"
-        }
-      ],
-      "duration_ms": 313200,
-      "name": "Grande valse brillante, Op. 34 No. 2",
-      "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Beeftink: Frequency",
         "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
       },
@@ -2379,6 +2359,26 @@
       "duration_ms": 378040,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Chopin",
+        "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Laurence Oldak",
+          "url": "https://open.spotify.com/artist/2PFGFK2N7de95IA21E4bTj"
+        }
+      ],
+      "duration_ms": 313200,
+      "name": "Grande valse brillante, Op. 34 No. 2",
+      "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
     },
     {
       "added_at": "2026-09-25 04:01:33",

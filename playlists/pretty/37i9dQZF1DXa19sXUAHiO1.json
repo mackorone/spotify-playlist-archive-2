@@ -1,6 +1,6 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1248096,
+  "num_followers": 1248104,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Heart Like A Wheel",
         "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
       },
@@ -639,18 +623,34 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Nicolette",
-        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
       "artists": [
         {
-          "name": "Nicolette Larson",
-          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 191773,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 167141,
+      "name": "Your Smiling Face",
+      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
     },
     {
       "added_at": "2021-12-14 20:17:09",
@@ -669,20 +669,20 @@
       "url": "https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
+      "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+        "name": "Nicolette",
+        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
         }
       ],
-      "duration_ms": 167141,
-      "name": "Your Smiling Face",
-      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
+      "duration_ms": 191773,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
     },
     {
       "added_at": "2021-01-06 18:39:03",

@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 15315,
+  "num_followers": 15314,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAACpYnC9/FmkQYeON17XTdNa",
+  "snapshot_id": "arxRAAAAAABqMMH4YorHA8sOSCkXuA2b",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 159533,
+      "name": "The Chairman's Waltz (From \"Memoirs of a Geisha\" Soundtrack)",
+      "url": "https://open.spotify.com/track/67EOtoy4dasPCapvD0aycg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brahms: Violin Concerto, Op. 77",
         "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
       },
@@ -387,26 +411,6 @@
       "duration_ms": 500293,
       "name": "Brahms: Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo vivace",
       "url": "https://open.spotify.com/track/55NalIUC671ie5eaNJAHjt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Liebesleid",
-      "url": "https://open.spotify.com/track/02Tn72DTvZNFJmstTQmJ2D"
     },
     {
       "added_at": null,
@@ -455,26 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
       },
       "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
         }
       ],
-      "duration_ms": 159533,
-      "name": "The Chairman's Waltz (From \"Memoirs of a Geisha\" Soundtrack)",
-      "url": "https://open.spotify.com/track/67EOtoy4dasPCapvD0aycg"
+      "duration_ms": 194000,
+      "name": "Liebesleid",
+      "url": "https://open.spotify.com/track/02Tn72DTvZNFJmstTQmJ2D"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 872840,
-      "name": "The Devil's Trill",
-      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivaldi: The Four Seasons - Violin Concertos RV 199 \"Il sospetto\", RV 356 & RV 347",
         "url": "https://open.spotify.com/album/542DjDnA3qBtx8v2GVT6sw"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 202533,
       "name": "Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: I. Allegro",
       "url": "https://open.spotify.com/track/4lr6NLlPlD5I3ZCxpg9WAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 872840,
+      "name": "The Devil's Trill",
+      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
     },
     {
       "added_at": null,
@@ -603,34 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concertos from My Childhood",
-        "url": "https://open.spotify.com/album/5pDLWs5OL20lr6ZolUd7F7"
-      },
-      "artists": [
-        {
-          "name": "Oskar Rieding",
-          "url": "https://open.spotify.com/artist/3CIecSd967uqzr6ZmU3Aix"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Lawrence Foster",
-          "url": "https://open.spotify.com/artist/0k8Ugg3yjlhOAEikLmXyUx"
-        },
-        {
-          "name": "The Juilliard Orchestra",
-          "url": "https://open.spotify.com/artist/2lFCJJ5o58ZfKmASMIqbrQ"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Rieding: Violin Concerto in B Minor, Op. 35: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/7i2l3STMDXzO0ethxPBl9v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Itzhak Perlman",
         "url": "https://open.spotify.com/album/6WB0uSzP87B9k4Qr3uvGdU"
       },
@@ -659,22 +631,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+        "name": "Concertos from My Childhood",
+        "url": "https://open.spotify.com/album/5pDLWs5OL20lr6ZolUd7F7"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "Oskar Rieding",
+          "url": "https://open.spotify.com/artist/3CIecSd967uqzr6ZmU3Aix"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Lawrence Foster",
+          "url": "https://open.spotify.com/artist/0k8Ugg3yjlhOAEikLmXyUx"
+        },
+        {
+          "name": "The Juilliard Orchestra",
+          "url": "https://open.spotify.com/artist/2lFCJJ5o58ZfKmASMIqbrQ"
         }
       ],
-      "duration_ms": 147960,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
-      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
+      "duration_ms": 177560,
+      "name": "Rieding: Violin Concerto in B Minor, Op. 35: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/7i2l3STMDXzO0ethxPBl9v"
     },
     {
       "added_at": null,
@@ -699,6 +679,26 @@
       "duration_ms": 352240,
       "name": "I Could Have Done More",
       "url": "https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
+      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
     },
     {
       "added_at": null,
@@ -783,38 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Violin Concertos & Double Concerto",
-        "url": "https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Bach, JS: Concerto for Two Violins in D Minor, BWV 1043: I. Vivace",
-      "url": "https://open.spotify.com/track/4UPdXvBV6gJid5N1aVB4wJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wieniawski: Works for Violin",
         "url": "https://open.spotify.com/album/3GEpFadKYyhjGitI2szU1p"
       },
@@ -871,6 +839,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach: Violin Concertos & Double Concerto",
+        "url": "https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Bach, JS: Concerto for Two Violins in D Minor, BWV 1043: I. Vivace",
+      "url": "https://open.spotify.com/track/4UPdXvBV6gJid5N1aVB4wJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brahms: Violin Concerto, Op. 77",
         "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
       },
@@ -899,30 +899,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concertos from My Childhood",
-        "url": "https://open.spotify.com/album/5pDLWs5OL20lr6ZolUd7F7"
+        "name": "Bruch: Violin Concerto No. 1",
+        "url": "https://open.spotify.com/album/6G9fhBrDqHLlegkym0rBEf"
       },
       "artists": [
         {
-          "name": "Jean Baptist Accolay",
-          "url": "https://open.spotify.com/artist/3PP6QDDEPdhwEgn9Xr7q5Q"
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Lawrence Foster",
-          "url": "https://open.spotify.com/artist/0k8Ugg3yjlhOAEikLmXyUx"
+          "name": "Bernard Haitink",
+          "url": "https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1"
         },
         {
-          "name": "The Juilliard Orchestra",
-          "url": "https://open.spotify.com/artist/2lFCJJ5o58ZfKmASMIqbrQ"
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
         }
       ],
-      "duration_ms": 462773,
-      "name": "Accolay: Violin Concerto No. 1 in A Minor",
-      "url": "https://open.spotify.com/track/5LEr2CzrqK4jpXa8ZXXLBM"
+      "duration_ms": 501293,
+      "name": "Violin Concerto No. 1 in G Minor, Op. 26: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/1DyXa68AwuLvbfcte5BKQx"
     },
     {
       "added_at": null,
@@ -955,30 +955,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruch: Violin Concerto No. 1",
-        "url": "https://open.spotify.com/album/6G9fhBrDqHLlegkym0rBEf"
+        "name": "Concertos from My Childhood",
+        "url": "https://open.spotify.com/album/5pDLWs5OL20lr6ZolUd7F7"
       },
       "artists": [
         {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+          "name": "Jean Baptist Accolay",
+          "url": "https://open.spotify.com/artist/3PP6QDDEPdhwEgn9Xr7q5Q"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Bernard Haitink",
-          "url": "https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1"
+          "name": "Lawrence Foster",
+          "url": "https://open.spotify.com/artist/0k8Ugg3yjlhOAEikLmXyUx"
         },
         {
-          "name": "Royal Concertgebouw Orchestra",
-          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+          "name": "The Juilliard Orchestra",
+          "url": "https://open.spotify.com/artist/2lFCJJ5o58ZfKmASMIqbrQ"
         }
       ],
-      "duration_ms": 501293,
-      "name": "Violin Concerto No. 1 in G Minor, Op. 26: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/1DyXa68AwuLvbfcte5BKQx"
+      "duration_ms": 462773,
+      "name": "Accolay: Violin Concerto No. 1 in A Minor",
+      "url": "https://open.spotify.com/track/5LEr2CzrqK4jpXa8ZXXLBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perlman & Zukerman - Duets for Two Violins",
+        "url": "https://open.spotify.com/album/4qMcYpaFtGRff8fmqVD4qf"
+      },
+      "artists": [
+        {
+          "name": "Johan Halvorsen",
+          "url": "https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        }
+      ],
+      "duration_ms": 416733,
+      "name": "Halvorsen: Passacaglia (After Handel's Keyboard Suite, HWV 432)",
+      "url": "https://open.spotify.com/track/3m8Zy0Tw6Fl1RoWZLCnZT7"
     },
     {
       "added_at": null,
@@ -1103,54 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perlman & Zukerman - Duets for Two Violins",
-        "url": "https://open.spotify.com/album/4qMcYpaFtGRff8fmqVD4qf"
-      },
-      "artists": [
-        {
-          "name": "Johan Halvorsen",
-          "url": "https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        }
-      ],
-      "duration_ms": 416733,
-      "name": "Halvorsen: Passacaglia (After Handel's Keyboard Suite, HWV 432)",
-      "url": "https://open.spotify.com/track/3m8Zy0Tw6Fl1RoWZLCnZT7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virtuoso Violin",
-        "url": "https://open.spotify.com/album/7jAJuBkjNtvJRO78fslikm"
-      },
-      "artists": [
-        {
-          "name": "Pablo de Sarasate",
-          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Sarasate: Spanish Dances, Op. 23: II. Zapateado (Allegro)",
-      "url": "https://open.spotify.com/track/0l0wAg37zHIadmfSc282Hu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
         "url": "https://open.spotify.com/album/3WaRty51Aje7wvZxP4nsLd"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 86106,
       "name": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
       "url": "https://open.spotify.com/track/52biJNbmbzCVyN8o0lbImY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virtuoso Violin",
+        "url": "https://open.spotify.com/album/7jAJuBkjNtvJRO78fslikm"
+      },
+      "artists": [
+        {
+          "name": "Pablo de Sarasate",
+          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Sarasate: Spanish Dances, Op. 23: II. Zapateado (Allegro)",
+      "url": "https://open.spotify.com/track/0l0wAg37zHIadmfSc282Hu"
     },
     {
       "added_at": null,

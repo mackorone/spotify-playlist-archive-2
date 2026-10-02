@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Mariah Deborah",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: XONARA",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 265440,
       "name": "'Di Naman",
       "url": "https://open.spotify.com/track/4Wmi7Sy5S9jjsw9rJ5t9Yk"
+    },
+    {
+      "album": {
+        "name": "10yrs",
+        "url": "https://open.spotify.com/album/58HEOt2iZV3ITEt0ZM1VjT"
+      },
+      "artists": [
+        {
+          "name": "Nadine Lustre",
+          "url": "https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "10yrs",
+      "url": "https://open.spotify.com/track/7smsa7cVPwPteHJJ2Rgpbo"
     },
     {
       "album": {
@@ -2314,7 +2332,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 239512,
       "name": "Bedtime Stories",
       "url": "https://open.spotify.com/track/6VEwbJbJhY9FpRBPzRAwEF"
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 183478,
       "name": "Bongga Ka Day",
       "url": "https://open.spotify.com/track/21NqR3XMIgTJlE1r3vw63w"
@@ -4130,7 +4148,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 230137,
       "name": "Dito Sa Amin",
       "url": "https://open.spotify.com/track/2GMsd6byifCbO7faosnbg5"
@@ -7263,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "IMPERFECT",
+        "url": "https://open.spotify.com/album/2XRyyT430G3Y2GgYx98jue"
+      },
+      "artists": [
+        {
+          "name": "XONARA",
+          "url": "https://open.spotify.com/artist/6Lp69qFA6hBPyvTIyQnujb"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "IMPERFECT",
+      "url": "https://open.spotify.com/track/27u25Xi7maxRX0likQbKif"
+    },
+    {
+      "album": {
         "name": "Ina",
         "url": "https://open.spotify.com/album/0MvjAQfH1OQyV8kFqdwXrF"
       },
@@ -9997,6 +10033,28 @@
     },
     {
       "album": {
+        "name": "Luha ng Buwaya",
+        "url": "https://open.spotify.com/album/3eRkzu7U24LO3aJtQbMYkS"
+      },
+      "artists": [
+        {
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
+        },
+        {
+          "name": "Gloc-9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Luha ng Buwaya",
+      "url": "https://open.spotify.com/track/0qHA6Kmal9xbZphliNIKnR"
+    },
+    {
+      "album": {
         "name": "Lulay",
         "url": "https://open.spotify.com/album/6ntZ2nx0HXRj3Vb5gYkUOo"
       },
@@ -10174,7 +10232,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 314043,
       "name": "Madaling Araw",
       "url": "https://open.spotify.com/track/2RZGETSSmOXgmHwVtNjRr4"
@@ -11411,6 +11469,24 @@
     },
     {
       "album": {
+        "name": "Muli (Secret Verse)",
+        "url": "https://open.spotify.com/album/5vVmtJ5IMEbqsFruJ51LBm"
+      },
+      "artists": [
+        {
+          "name": "Ace Banzuelo",
+          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288754,
+      "name": "Muli (Secret Verse)",
+      "url": "https://open.spotify.com/track/3XPhjx5P6Le2hPtVggY38F"
+    },
+    {
+      "album": {
         "name": "Multiply",
         "url": "https://open.spotify.com/album/3Pt30nQIwPM7Pv8N8jvhdj"
       },
@@ -11812,6 +11888,24 @@
       "duration_ms": 190089,
       "name": "Nahuhulog",
       "url": "https://open.spotify.com/track/2eKTYFbXJWS56VRiuFLp0a"
+    },
+    {
+      "album": {
+        "name": "Nahuhulog Nanaman Sa'yo",
+        "url": "https://open.spotify.com/album/7s3Gy06Iv0kmrtVBnO9t0n"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198588,
+      "name": "Nahuhulog Nanaman Sa'yo",
+      "url": "https://open.spotify.com/track/2NVJNM6UtvVhsz335h4Rk3"
     },
     {
       "album": {
@@ -12346,7 +12440,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 261478,
       "name": "Next In Line - From \"Rosario\"",
       "url": "https://open.spotify.com/track/7Mp3PaMFuf5e3Y5CIMOrmh"
@@ -15129,6 +15223,24 @@
     },
     {
       "album": {
+        "name": "Realidad",
+        "url": "https://open.spotify.com/album/3UCxh0e8g1aEXjW1wEBWGg"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185046,
+      "name": "Realidad",
+      "url": "https://open.spotify.com/track/2Q3TmKXe3bAw1uF5GlSv6u"
+    },
+    {
+      "album": {
         "name": "Relapse",
         "url": "https://open.spotify.com/album/6NdbN7a1rHRikiaCORR40S"
       },
@@ -15704,7 +15816,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 220363,
       "name": "SAAKIN",
       "url": "https://open.spotify.com/track/3HgZaNPlAc1rdUg8VBHTWY"

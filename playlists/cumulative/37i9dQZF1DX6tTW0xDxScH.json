@@ -3966,7 +3966,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 257904,
       "name": "Mouth of a Flower",
       "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
@@ -6754,6 +6754,24 @@
       "duration_ms": 162466,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
+    },
+    {
+      "album": {
+        "name": "You're Already There",
+        "url": "https://open.spotify.com/album/6ouIo2cSY03JmfowzMYNxS"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153900,
+      "name": "You're Already There",
+      "url": "https://open.spotify.com/track/6FBysoHxNcpqiYz8nOcIbJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,498 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,500 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 19 | [אוצר](https://open.spotify.com/track/5L7kVmR0aJno6BER8D9Z08) | [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [לבד איתך](https://open.spotify.com/album/0VhwzlF04FBXI1VHhAKc6K) | 4:17 |
 | 20 | [לחפש אותי באחרים](https://open.spotify.com/track/1OBxKOtmHgDatTgfIBtSX9) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [לחפש אותי באחרים](https://open.spotify.com/album/0IMENqjW5k2KS753plJObZ) | 3:05 |
 | 21 | [סולם האהבה](https://open.spotify.com/track/3DPI2o6RmT9vpkXTAAI7se) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [סולם האהבה](https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0) | 4:16 |
-| 22 | [אמרתי תודה](https://open.spotify.com/track/7rZMtcxPtHkkXo4qsMGGh8) | [E\-Z](https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [אמרתי תודה](https://open.spotify.com/album/7JoSpZ3Kdj37sEV9QHPFPs) | 3:06 |
+| 22 | [יותר מידי](https://open.spotify.com/track/2HYS3rLZrOD57DsxAgeTym) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [הכל טוב](https://open.spotify.com/album/7zyivKsWsDRAIuhFQCGrYj) | 3:08 |
 | 23 | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD) | 3:11 |
-| 24 | [יותר מידי](https://open.spotify.com/track/2HYS3rLZrOD57DsxAgeTym) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [הכל טוב](https://open.spotify.com/album/7zyivKsWsDRAIuhFQCGrYj) | 3:08 |
+| 24 | [אמרתי תודה](https://open.spotify.com/track/7rZMtcxPtHkkXo4qsMGGh8) | [E\-Z](https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [אמרתי תודה](https://open.spotify.com/album/7JoSpZ3Kdj37sEV9QHPFPs) | 3:06 |
 | 25 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
 | 26 | [כל כך הרבה שנים איתך](https://open.spotify.com/track/3Bx8JwrEExocGPOL1cKx2V) | [Joseph E\-Shine](https://open.spotify.com/artist/7wKNVbqW4UXVDCeAqTyUU4) | [כל כך הרבה שנים איתך](https://open.spotify.com/album/4jqFzglFJcy3g40baXxbeC) | 5:21 |
 | 27 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 |
 | 28 | [PENNY LAME](https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [PENNY LAME](https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5) | 3:00 |
 | 29 | [ניגון עתיק](https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:24 |
-| 30 | [חלמתי שאתה פה](https://open.spotify.com/track/7zpZ8m6qH0NJOgI4NmbtA1) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [חלמתי שאתה פה](https://open.spotify.com/album/4Dt8OsEPKwhPKhNdKTeLwT) | 2:50 |
-| 31 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
+| 30 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
+| 31 | [חלמתי שאתה פה](https://open.spotify.com/track/7zpZ8m6qH0NJOgI4NmbtA1) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [חלמתי שאתה פה](https://open.spotify.com/album/4Dt8OsEPKwhPKhNdKTeLwT) | 2:50 |
 | 32 | [בסיבוב](https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [בסיבוב](https://open.spotify.com/album/5Rxznk6IJnfljjWTdzyk9i) | 3:06 |
 | 33 | [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 |
 | 34 | [ג׳ין](https://open.spotify.com/track/0fAbC15ujG00QJjAXVE0Es) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:55 |

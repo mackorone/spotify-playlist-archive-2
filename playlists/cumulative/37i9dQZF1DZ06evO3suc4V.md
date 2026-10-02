@@ -4,7 +4,7 @@
 
 > This is Ravyn Lenae\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 59 min
+73 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Deep In The World](https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:12 | 2026-01-23 |  |
 | [Don’t Walk Away \(feat\. Jordan Ward & Ravyn Lenae\)](https://open.spotify.com/track/2kxrJsFXKCUB3em2TWLG5c) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 3:32 | 2025-12-18 |  |
 | [Dream Girl](https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:39 | 2026-02-13 |  |
+| [Drowning](https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 4:05 | 2026-10-02 |  |
 | [Familiar Dreams](https://open.spotify.com/track/1Puye0dExeFoZvMJIaZGGG) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 2:53 | 2026-08-09 |  |
 | [Feet Don't Fail Me Now \- Part 2](https://open.spotify.com/track/0BMtk8UjLE6GhQiBlsBzQx) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Feet Don't Fail Me Now \(Part 2\)](https://open.spotify.com/album/5rq7GrviWeiO176U26pDvS) | 3:19 | 2026-09-03 |  |
 | [Forever](https://open.spotify.com/track/3MoQWxjYFWm5wh7Q5XwSBp) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 3:38 | 2025-12-18 |  |
@@ -70,7 +71,7 @@
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2025-12-18 |  |
 | [Spice \- EP Version](https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:39 | 2025-12-18 |  |
 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 | 2025-12-18 |  |
-| [Tequan \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 4:45 | 2025-12-18 |  |
+| [Tequan \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 4:45 | 2025-12-18 | 2026-10-02 |
 | [The Night Song](https://open.spotify.com/track/0xQT5kbfnrU9Dv7x4MtMbi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:39 | 2025-12-18 |  |
 | [Thirst \- EP Version](https://open.spotify.com/track/66YWmARKaVgVYW7ZVPCQUM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 2:56 | 2026-01-31 | 2026-03-22 |
 | [Unknown \- EP Version](https://open.spotify.com/track/1wCManUnBwrfpnwTaV93ho) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:18 | 2025-12-18 |  |

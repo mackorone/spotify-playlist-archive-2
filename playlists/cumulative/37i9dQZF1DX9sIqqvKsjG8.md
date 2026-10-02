@@ -4,7 +4,7 @@
 
 > Soft and contemplative piano music to help you focus and chill.
 
-989 songs - 1 day 18 hr 17 min
+993 songs - 1 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-01-17 | 2022-09-24 |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-07-03 | 2026-05-16 |
 | [Anoesis](https://open.spotify.com/track/7wDdRiqwaF3CqDIOmO0nhQ) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Anoesis](https://open.spotify.com/album/1ohZ2YMU7a0qrDtTWrRKLj) | 2:11 | 2021-12-07 | 2022-03-17 |
+| [Another Story](https://open.spotify.com/track/0ZZDjonDMWdfmOsx57GWoO) | [Carl Bom](https://open.spotify.com/artist/4CJJY9yn3HJK7nmGNWVQnb) | [Another Story](https://open.spotify.com/album/4GE9j5BKXHi0ZBC3xQe8p1) | 2:33 | 2026-10-02 |  |
 | [Apart](https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Apart](https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt) | 3:15 | 2021-12-07 | 2022-06-08 |
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-12-07 | 2022-11-12 |
 | [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-02-01 | 2022-08-26 |
@@ -243,6 +244,7 @@
 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 | 2021-12-07 | 2022-03-02 |
 | [Empty](https://open.spotify.com/track/1SdZaNEpUNL7LMlnMVBoew) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Empty](https://open.spotify.com/album/1ziol7HnLkkxcXYHG2JUhz) | 2:46 | 2026-07-17 |  |
 | [Endearing](https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [Endearing](https://open.spotify.com/album/4igF9besSJ9l4MzQQfT9SK) | 2:17 | 2021-12-07 | 2022-10-05 |
+| [Endless](https://open.spotify.com/track/0fCVKTLUjQy20yl3SIzWfI) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Endless](https://open.spotify.com/album/2MtBiQEnnYmQmc4TETMrS1) | 2:25 | 2026-10-02 |  |
 | [Enigma](https://open.spotify.com/track/6E3tlk1QjAUzbgguYtVXeM) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Enigma](https://open.spotify.com/album/7Fjxhrg8uaiNiEQI0N7NN9) | 2:43 | 2022-01-17 | 2023-03-09 |
 | [Enouement](https://open.spotify.com/track/2FGyZllOwDIALirU4HK6hZ) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Enouement](https://open.spotify.com/album/4dd6YuBtoc8bdxcQSiTlb7) | 2:14 | 2021-12-07 | 2022-10-05 |
 | [Equilibrium](https://open.spotify.com/track/2AMQAsGA63b8dT9JxzBS5j) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm), [The David Roy Collective](https://open.spotify.com/artist/3rQj5XISunNkD97E1PGSrt), [MajorLink](https://open.spotify.com/artist/56M0OscfqROb5IPl7jGnyS) | [Equilibrium](https://open.spotify.com/album/2Uom7bqlUXp0iepb3NRzty) | 4:24 | 2022-08-09 | 2022-10-25 |
@@ -859,6 +861,7 @@
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-01-04 | 2022-06-08 |
 | [The What If](https://open.spotify.com/track/3qgA4uyqdQLpYLCeTtouQS) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The What If](https://open.spotify.com/album/2wgsNYjUj2zE2K6WdK9AFj) | 3:30 | 2022-09-12 | 2023-09-30 |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-05-19 | 2025-04-10 |
+| [Then Gone](https://open.spotify.com/track/0hTPpCy0wkKkrOAGOGMsFq) | [Julian North](https://open.spotify.com/artist/4fzhFLI71Hrc3ONAwaiK4a) | [Then Gone](https://open.spotify.com/album/45trMlvGrQNjRnihR7mnpM) | 2:56 | 2026-10-02 |  |
 | [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2023-10-23 | 2026-05-16 |
 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-13 |  |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2021-12-07 | 2022-10-14 |
@@ -950,6 +953,7 @@
 | [Watching You In The Morning](https://open.spotify.com/track/7dpxclo5KDKQ00MtYe1nOP) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Watching You In The Morning](https://open.spotify.com/album/6XyHr2XSw5l4oeF0Y8ZHr3) | 2:04 | 2021-12-07 | 2022-05-06 |
 | [Weakening The Heart](https://open.spotify.com/track/6koXlJjBbop5HBgg9qT09Z) | [OIYYIO](https://open.spotify.com/artist/2R9k2e0QnakmPpJCxx1Pag) | [Weakening The Heart](https://open.spotify.com/album/5JL7plfwuK312iNUdzpc5a) | 2:49 | 2025-05-13 |  |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2021-12-07 | 2022-11-12 |
+| [What Was Lost](https://open.spotify.com/track/1uSBbi8JXEDzeTSyPfYQyP) | [Nivellea](https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f) | [What Was Lost](https://open.spotify.com/album/0lvb0Aw0y8hqiGWIcsmUGI) | 2:40 | 2026-10-02 |  |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-12-07 | 2023-05-10 |
 | [Whatever is left](https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Whatever is left](https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q) | 2:03 | 2024-01-29 | 2025-05-17 |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-08-05 |

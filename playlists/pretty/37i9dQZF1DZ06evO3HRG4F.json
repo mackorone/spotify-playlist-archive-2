@@ -1,12 +1,12 @@
 {
   "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
-  "num_followers": 5710,
+  "num_followers": 5714,
   "original_name": "This Is Charlie Monttana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADFpCV2RMaaKCOA4DkcEW2U",
+  "snapshot_id": "arxRAAAAAAAiKUSgnowXm/RTgZmmf3Hk",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 221240,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ"
+      "duration_ms": 179133,
+      "name": "Por No Tener a Quien Amar",
+      "url": "https://open.spotify.com/track/3LephrgrP9s47JW97NA3UK"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 2",
-        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 179133,
-      "name": "Por No Tener a Quien Amar",
-      "url": "https://open.spotify.com/track/3LephrgrP9s47JW97NA3UK"
+      "duration_ms": 221240,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
       "duration_ms": 292000,
       "name": "Es Que Te Amo, Pt. 1",
       "url": "https://open.spotify.com/track/2i5YDMvJ10Wcx4tIquYgxx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "\u00bfD\u00f3nde Est\u00e1s?",
+      "url": "https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A"
     },
     {
       "added_at": null,
@@ -319,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 2",
-        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "\u00bfD\u00f3nde Est\u00e1s?",
-      "url": "https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presente: Mi Legado",
         "url": "https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5"
       },
@@ -347,38 +347,6 @@
       "duration_ms": 206693,
       "name": "Me Gusta Tu Chava",
       "url": "https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Estoy Ardiendo",
-      "url": "https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Ya No Te Tengo",
-      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
     },
     {
       "added_at": null,
@@ -399,38 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' And Rollin'",
-        "url": "https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 180760,
-      "name": "Pinches Mariguanos",
-      "url": "https://open.spotify.com/track/3abqHxzHzh7yTj6WTiy4J1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 206239,
-      "name": "Las Encueradas",
-      "url": "https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
         "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
@@ -447,6 +383,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Estoy Ardiendo",
+      "url": "https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockin' And Rollin'",
+        "url": "https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 180760,
+      "name": "Pinches Mariguanos",
+      "url": "https://open.spotify.com/track/3abqHxzHzh7yTj6WTiy4J1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotel Barcelona",
         "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
       },
@@ -459,6 +427,38 @@
       "duration_ms": 344920,
       "name": "Ramillete de Piernas",
       "url": "https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Ya No Te Tengo",
+      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 206239,
+      "name": "Las Encueradas",
+      "url": "https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg"
     },
     {
       "added_at": null,
@@ -547,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teatro Metropolitan 2018 (En Vivo)",
+        "url": "https://open.spotify.com/album/3jjZeLI5yIcstu7qFIDgeU"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 343613,
+      "name": "Recuerdos (En Vivo)",
+      "url": "https://open.spotify.com/track/2OvWNqEgX2avknXMNiJcRM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock Star",
         "url": "https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA"
       },
@@ -559,22 +579,6 @@
       "duration_ms": 254733,
       "name": "No Te Mueras en Mi Casa",
       "url": "https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decreto por el Regreso de los Buenos Tiempos",
-        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "\u00a1Vete al Carajo!",
-      "url": "https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI"
     },
     {
       "added_at": null,
@@ -611,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teatro Metropolitan 2018 (En Vivo)",
-        "url": "https://open.spotify.com/album/3jjZeLI5yIcstu7qFIDgeU"
+        "name": "Decreto por el Regreso de los Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
       },
       "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        },
         {
           "name": "Charlie Monttana",
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 343613,
-      "name": "Recuerdos (En Vivo)",
-      "url": "https://open.spotify.com/track/2OvWNqEgX2avknXMNiJcRM"
+      "duration_ms": 226520,
+      "name": "\u00a1Vete al Carajo!",
+      "url": "https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7x8Knu6fbmp4CDcYg7GcR7"
+        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
+        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 301573,
-      "name": "De Que el Amor Apesta Apesta - En Vivo",
-      "url": "https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti"
+      "duration_ms": 190026,
+      "name": "Blues para Trabajar - En Vivo",
+      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
-        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
+        "name": "En Vivo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7x8Knu6fbmp4CDcYg7GcR7"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 190026,
-      "name": "Blues para Trabajar - En Vivo",
-      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
+      "duration_ms": 301573,
+      "name": "De Que el Amor Apesta Apesta - En Vivo",
+      "url": "https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti"
     },
     {
       "added_at": null,

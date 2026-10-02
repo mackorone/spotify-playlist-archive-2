@@ -4,7 +4,7 @@
 
 > 🇵🇸
 
-156 songs - 9 hr 52 min
+157 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 | 2021-08-29 | 2025-10-13 |
 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 | 2025-10-12 |  |
 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 | 2021-08-29 | 2025-10-13 |
-| [Ll Abad](https://open.spotify.com/track/3qvSGDv3FfrAMIaCEO2p0y) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/4ShkzqUhBTAiPYj4bEaWEL) | 3:32 | 2025-10-12 |  |
+| [Ll Abad](https://open.spotify.com/track/3qvSGDv3FfrAMIaCEO2p0y) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/4ShkzqUhBTAiPYj4bEaWEL) | 3:32 | 2025-10-12 | 2026-10-02 |
 | [Long Live Palestine 3](https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r) | [Lowkey](https://open.spotify.com/artist/7lNJ1ZVAHcx6V4HqC68xRY), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Frankie Boyle](https://open.spotify.com/artist/7okniEZkjEUIZXNpsVKjI1), [Ken Loach](https://open.spotify.com/artist/6W66JbzBvKpYs75Ul4pw5L), [Chakabars](https://open.spotify.com/artist/6e2pNGkBvvdl107bXjnrZ9), [Khāled Siddīq](https://open.spotify.com/artist/2XYgHUbsmab6VT4a3FF9mX), [Mai Khalil](https://open.spotify.com/artist/5IjaZgpaSsPqSk9xVhyAk3) | [Soundtrack to the Struggle 2](https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu) | 5:17 | 2021-08-29 | 2025-10-13 |
 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 | 2021-08-29 | 2025-10-13 |
 | [Maktub](https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 3:28 | 2025-10-12 |  |
@@ -150,6 +150,7 @@
 | [دبكتنا فلسطينية](https://open.spotify.com/track/3ybO2gZVOKWCC0YckaPV21) | [Zain Daqqa](https://open.spotify.com/artist/7McV699B2B8toDcWE1tf2A) | [دبكتنا فلسطينية](https://open.spotify.com/album/1wv0KO8pIHd8Fb1H1fyERz) | 5:07 | 2025-10-12 |  |
 | [سبع أرواح](https://open.spotify.com/track/6tWRPppMbXLol7oUDDQ6qs) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp) | [سبع أرواح](https://open.spotify.com/album/1UzIxfKGKhqEtSBgRI3DWX) | 5:18 | 2025-10-12 |  |
 | [سلام لغزة](https://open.spotify.com/track/3c5p7TOw0z7Q6Udhwz4e9e) | [Mohammed Assaf](https://open.spotify.com/artist/5A9UhpgElhMFohpvsjFQJk) | [سلام لغزة](https://open.spotify.com/album/0SmNSigHgjszyYYywxCaH7) | 5:36 | 2025-10-12 |  |
+| [عالهيلا](https://open.spotify.com/track/1WI04ZdsSBY10E4L8Jlhnt) | [Mohammed Assaf](https://open.spotify.com/artist/5A9UhpgElhMFohpvsjFQJk) | [عالهيلا](https://open.spotify.com/album/4gKTaquHOrFQceYkVQm8Yi) | 3:01 | 2026-10-01 |  |
 | [عكا على راسي](https://open.spotify.com/track/5RJFhCCbiHx7GdaCiHIIYf) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS) | 3:46 | 2021-08-29 | 2023-03-26 |
 | [عكا على راسي](https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z) | 3:46 | 2022-12-17 | 2024-04-19 |
 | [فلسطين](https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Le meilleur, vol.1](https://open.spotify.com/album/7s3nuAyok865QigeowkopM) | 6:23 | 2021-08-29 | 2025-10-13 |

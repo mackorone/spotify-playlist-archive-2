@@ -2,9 +2,9 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Troye Sivan
+> The hottest tracks with the freshest hits! Cover: ADÉLA
 
-516 songs - 1 day 3 hr 49 min
+517 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Dance With Me](https://open.spotify.com/track/0oV6f0YDeVTGwdOeba8h89) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/5kJrtkLnvsAZq70QU5PyPd) | 3:45 | 2024-07-18 | 2025-04-25 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2025-03-12 |
 | [Dancing2](https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Dancing2](https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50) | 4:32 | 2025-09-02 | 2026-06-12 |
+| [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 | 2026-10-01 |  |
 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-04-03 | 2025-08-15 |
 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 | 2025-07-31 | 2026-03-06 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-06-15 | 2024-03-29 |
@@ -143,7 +144,7 @@
 | [Do You Really Love Her](https://open.spotify.com/track/3II8ry3bjOniwbCF78KRpb) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/6in65KMQol9r720LtGF40e) | 3:48 | 2026-03-19 | 2026-05-15 |
 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 | 2024-03-07 | 2024-04-19 |
 | [Don't Say That](https://open.spotify.com/track/6DLEHczuEFptUa2M4NTG3g) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1Yz0yY6ZIBkkCBFxhgvKpk) | 3:30 | 2026-04-30 |  |
-| [Don't Worry Baby](https://open.spotify.com/track/4nuw7DBPuiNHGSeUqkAEb4) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/7wjgGvAcDs9eGvAS2jQRKJ) | 3:27 | 2026-04-30 |  |
+| [Don't Worry Baby](https://open.spotify.com/track/4nuw7DBPuiNHGSeUqkAEb4) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/7wjgGvAcDs9eGvAS2jQRKJ) | 3:27 | 2026-04-30 | 2026-10-02 |
 | [dont let me go](https://open.spotify.com/track/7uVwJHgkpOI8mCCa0T23Vr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS) | 2:53 | 2024-02-29 | 2024-03-29 |
 | [Doors](https://open.spotify.com/track/3qlUIPzkFzIm3Ouzg0AoiH) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 3:51 | 2026-04-30 | 2026-06-19 |
 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 | 2024-04-19 | 2024-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Oct 7th \(Wed\), 8th \(Thu\) @ Goyang Stadium, Gyeonggi\-do
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,655 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,796 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

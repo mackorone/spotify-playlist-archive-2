@@ -4728,7 +4728,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 164307,
       "name": "Argent Sale - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
@@ -13274,7 +13274,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -19084,7 +19084,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -26126,6 +26126,24 @@
       "duration_ms": 159368,
       "name": "Graves-Interlude",
       "url": "https://open.spotify.com/track/4dUGNUrp23wV3mb9F0b87X"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "album": {
@@ -34113,6 +34131,32 @@
     },
     {
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/11UBJ8T28T3EkpQNf6deoV"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        },
+        {
+          "name": "Brandon Bill$",
+          "url": "https://open.spotify.com/artist/2wBkBSQX5PISkfjecIlH9d"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140615,
+      "name": "La Familia",
+      "url": "https://open.spotify.com/track/0vDr0PWkgDE0pvQMSZ3kQb"
+    },
+    {
+      "album": {
         "name": "Pyramide 2",
         "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
       },
@@ -34318,7 +34362,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 221053,
       "name": "La Nocturne",
       "url": "https://open.spotify.com/track/2fsZNGcGb7KVfcp3PlXgcD"
@@ -34478,7 +34522,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 150511,
       "name": "La p\u00e9tasse",
       "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
@@ -36882,7 +36926,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -37386,7 +37430,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 148677,
       "name": "Love Promises",
       "url": "https://open.spotify.com/track/5NAfpkjNfW7QGbRRdKnbUI"
@@ -37516,7 +37560,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "LOVE YOU",
       "url": "https://open.spotify.com/track/0SYGJCm9PpTvO7g14EZQex"
@@ -39877,6 +39921,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+    },
+    {
+      "album": {
         "name": "Me Hipnotizas",
         "url": "https://open.spotify.com/album/5wDmQ4b1LJDG6LQF8upzFd"
       },
@@ -41544,7 +41606,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1twXUY8kbuu6uUKIHeFuHM"
@@ -44626,7 +44688,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 191402,
       "name": "No Mesmo Lugar",
       "url": "https://open.spotify.com/track/1mdW2ieN6VWyoIQxJIlzuT"
@@ -46956,7 +47018,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -62662,7 +62724,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"

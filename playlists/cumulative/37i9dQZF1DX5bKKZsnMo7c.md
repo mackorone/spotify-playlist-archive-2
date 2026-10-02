@@ -4,7 +4,7 @@
 
 > Dramatic, theatrical pop: Grace Power it's your moment!
 
-619 songs - 1 day 9 hr 41 min
+620 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [kill myself](https://open.spotify.com/track/1ESEhyt5VAkioMnh4vnDHC) | [Tom O'Donovan](https://open.spotify.com/artist/06loAWIFFerpfkQdMI0moL) | [kill myself](https://open.spotify.com/album/2FOmTkLSZvr2xVf1hVmDVm) | 3:00 | 2022-07-13 | 2022-07-16 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-01 | 2024-01-05 |
 | [Kiss Me, I'm a Prince](https://open.spotify.com/track/5qVQqa8DOJVPFmQI8mrlsb) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Kiss Me, I'm a Prince](https://open.spotify.com/album/0BEhfiN2fU9vE7KZseDhYM) | 3:30 | 2023-03-16 | 2024-01-27 |
+| [Kiss The Ring](https://open.spotify.com/track/3uiUQodPW2SoJkzg7J6Bfd) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Kiss The Ring](https://open.spotify.com/album/3jhhlghXYx4hPeWRaptUXm) | 3:11 | 2026-10-02 |  |
 | [Knight of Swords](https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2) | [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [Knight of Swords](https://open.spotify.com/album/1QspQHGZ9yJhibMqUshuA0) | 2:39 | 2026-07-31 |  |
 | [La Seine \- Extrait de la bande originale un monstre à Paris](https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:47 | 2022-05-17 | 2024-01-27 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2024-11-15 | 2026-07-25 |

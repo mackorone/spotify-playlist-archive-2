@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Joyce Alane
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar
 
-524 songs - 1 day 1 hr 11 min
+525 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 | 2025-07-18 | 2026-08-28 |
 | [BABY](https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm) | [BABY](https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf) | 2:57 | 2026-07-31 |  |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-15 | 2023-11-04 |
+| [BAD GOOD](https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:57 | 2026-10-02 |  |
 | [BAGUNÇA](https://open.spotify.com/track/0w4eRv2fCerS49SgrStS1V) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:08 | 2022-02-04 | 2023-02-11 |
 | [Baile Charme \- Ao Vivo](https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:30 | 2024-02-23 | 2024-04-13 |
 | [Baile do Djavan](https://open.spotify.com/track/5uD5LNjOASmoTOVK7CR4j6) | [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [Baile do Djavan](https://open.spotify.com/album/0BzMA7k4ObqhbBqLPH4Ovx) | 2:53 | 2026-04-03 | 2026-05-30 |
@@ -138,7 +139,7 @@
 | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/track/0DlHQxrVijRqVUfuS6PKaY) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/album/1fjkJADMiiZWMDusZSMNix) | 3:04 | 2022-01-14 | 2022-02-12 |
 | [DEIXA ESTAR](https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 5:06 | 2024-08-19 | 2025-05-31 |
 | [Deixa Molhar](https://open.spotify.com/track/3xzwKkGHQp8USzDQtlnHQS) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Molhar](https://open.spotify.com/album/2RS2bespFSSmu2RQtn00at) | 3:01 | 2025-01-17 | 2025-05-24 |
-| [deja vu](https://open.spotify.com/track/6RqlhCt1obVazYJY1nBz89) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [deja vu](https://open.spotify.com/album/08ClZj3cnJ5PmdxLmVsC38) | 3:16 | 2026-07-24 |  |
+| [deja vu](https://open.spotify.com/track/6RqlhCt1obVazYJY1nBz89) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [deja vu](https://open.spotify.com/album/08ClZj3cnJ5PmdxLmVsC38) | 3:16 | 2026-07-24 | 2026-10-02 |
 | [Depois do Fim](https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 3:29 | 2023-04-14 | 2023-08-16 |
 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 | 2022-10-28 | 2023-05-06 |
 | [Derreter & Suar \- Remix](https://open.spotify.com/track/7lK6SVY3JPTWvDj7G1C5DP) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 2:24 | 2025-02-28 | 2025-04-05 |

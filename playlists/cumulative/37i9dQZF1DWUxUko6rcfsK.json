@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Higher Love",
+        "url": "https://open.spotify.com/album/4EJFTccW1ZsAjZyR5UJAXG"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hillen",
+          "url": "https://open.spotify.com/artist/3SOAaZR7eaIsYlAEDliSS4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185031,
+      "name": "A Higher Love",
+      "url": "https://open.spotify.com/track/1H7rWyKOKEWlF7C6QP4RKs"
+    },
+    {
+      "album": {
         "name": "A Little Bit Happy",
         "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
       },
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 231000,
       "name": "Fight Another Day",
       "url": "https://open.spotify.com/track/5Yz5uJTvZtYcblSvTgzhBG"
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 194946,
       "name": "How Beautiful This Life Is",
       "url": "https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k"
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 212637,
       "name": "I Guess I'm Sure",
       "url": "https://open.spotify.com/track/6UsRZit9dmciyAigtef9tn"
@@ -3291,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/4GOKo5KliZ5rFOo4nt1XBE"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244455,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/62nvyOhzrDwwLCzOYzSoZx"
+    },
+    {
+      "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/0ZdOm1pVd7bilAbWTrLeYw"
       },
@@ -3560,6 +3596,24 @@
       "duration_ms": 235265,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
+    },
+    {
+      "album": {
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198932,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv"
     },
     {
       "album": {

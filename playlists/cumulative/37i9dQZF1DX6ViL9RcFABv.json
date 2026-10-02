@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
+  "description": "Uma playlist de pura alma pop! Foto: Nena",
   "name": "Pop PT",
   "tracks": [
     {
@@ -230,6 +230,28 @@
       "duration_ms": 197781,
       "name": "A Saudade Aperta",
       "url": "https://open.spotify.com/track/1Lg6nlFbBJqZBrpifNMRtH"
+    },
+    {
+      "album": {
+        "name": "A Saudade Aperta (feat. Tiago Nogueira)",
+        "url": "https://open.spotify.com/album/3r2dTsZB1z0AVA660BDajT"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/5dmOPgOqzAhlpOlGFUouNh"
+        },
+        {
+          "name": "Tiago Nogueira",
+          "url": "https://open.spotify.com/artist/4eGX5Ukp5TPGJGYVmC91UF"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227096,
+      "name": "A Saudade Aperta (feat. Tiago Nogueira)",
+      "url": "https://open.spotify.com/track/0PEPgSOpegy4eaEhuo8wRl"
     },
     {
       "album": {
@@ -1482,6 +1504,28 @@
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/2gjoYpivdKaMgyqfZMrAIg"
+      },
+      "artists": [
+        {
+          "name": "Afonso Dubraz",
+          "url": "https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe"
+        },
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183641,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/6FF73EidnkO6TvgnUsZNHB"
     },
     {
       "album": {
@@ -3584,7 +3628,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 155478,
       "name": "Enleado",
       "url": "https://open.spotify.com/track/6AQL4I6BDvAIr75Iy4tXBP"
@@ -4182,7 +4226,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 192499,
       "name": "Ficar \u00d3ai",
       "url": "https://open.spotify.com/track/1nDOYhM8Xl18RAEzoN3ZAU"
@@ -4806,7 +4850,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 210424,
       "name": "Hist\u00f3ria Que Ficou",
       "url": "https://open.spotify.com/track/5GunpOgwidkHbSg98zfEYJ"
@@ -4868,6 +4912,28 @@
       "duration_ms": 196030,
       "name": "Hora de Ponta",
       "url": "https://open.spotify.com/track/0b0loQ8uNkOCF9VBWXIuI6"
+    },
+    {
+      "album": {
+        "name": "Houvesse Mais Tempo",
+        "url": "https://open.spotify.com/album/119jUwxTkF6iZlcBccjtfz"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        },
+        {
+          "name": "Lu\u00eds Trigacheiro",
+          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185413,
+      "name": "Houvesse Mais Tempo",
+      "url": "https://open.spotify.com/track/6j5yQLewppYrEiGdON4E5W"
     },
     {
       "album": {
@@ -6587,6 +6653,28 @@
     },
     {
       "album": {
+        "name": "debaixo de \u00e1gua, contigo",
+        "url": "https://open.spotify.com/album/3rvuwkwlFh7Udj0XotLZjr"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        },
+        {
+          "name": "Os Quatro e Meia",
+          "url": "https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197693,
+      "name": "nada \u00e9 do acaso (feat. Os Quatro e Meia)",
+      "url": "https://open.spotify.com/track/32d5gYQGKPvZ87QjCNkqpD"
+    },
+    {
+      "album": {
         "name": "Nas Pontas dos P\u00e9s",
         "url": "https://open.spotify.com/album/5n4oUABzSQyhbknyo8MnBX"
       },
@@ -7054,6 +7142,24 @@
       "duration_ms": 218453,
       "name": "O Maior Bem",
       "url": "https://open.spotify.com/track/4x5nUs1deAC6GMlWVjdNea"
+    },
+    {
+      "album": {
+        "name": "O Meu Fado",
+        "url": "https://open.spotify.com/album/3iKy6PzhWE7oFYQJmWsH95"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/1IJF0z5AWZ3GF0If3CrWvl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181630,
+      "name": "O Meu Fado",
+      "url": "https://open.spotify.com/track/1u9rwb8kSxlzsJ0GZ0GHcn"
     },
     {
       "album": {
@@ -7732,7 +7838,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 163750,
       "name": "Peda\u00e7o De Bom Caminho",
       "url": "https://open.spotify.com/track/12mSyoPyGcxkh97T4vQl6L"
@@ -8022,7 +8128,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 173613,
       "name": "Pobre Ex-Namorado",
       "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"

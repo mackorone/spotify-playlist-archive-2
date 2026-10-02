@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Cicada
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,363 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,475 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [Angel So Bad](https://open.spotify.com/track/4mlGoUXzd1xZs3f89ZXvL4) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/60s33QYtxHcdogg8JJjIFH) | 2:52 |
 | 75 | [Sheets to the Wind](https://open.spotify.com/track/0GfqEfxhVOvAZ0UwUpCjts) | [Feeferella](https://open.spotify.com/artist/3GGs9vrF5rb0LABaqUxJeF) | [Sheets to the Wind](https://open.spotify.com/album/50YSXQakdeMAuajy7crNnN) | 3:38 |
 | 76 | [The Ground Here](https://open.spotify.com/track/418czu4odsJIt9JabJYg2u) | [Biita Houdei](https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3) | [The Ground Here](https://open.spotify.com/album/7L4eOabqP8JJgaEwNpF4vh) | 3:20 |
-| 77 | [iwtfy](https://open.spotify.com/track/6ZNjkGZhZo4AbGEIDulVrH) | [sofii](https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS) | [iwtfy](https://open.spotify.com/album/1rpLkRaC2Q39NNJmDd8H4K) | 3:55 |
+| 77 | [iwtfy](https://open.spotify.com/track/6ZNjkGZhZo4AbGEIDulVrH) | [Sofii](https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS) | [iwtfy](https://open.spotify.com/album/1rpLkRaC2Q39NNJmDd8H4K) | 3:55 |
 | 78 | [The In\-Between](https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [The In\-Between](https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok) | 2:45 |
 | 79 | [Ocean Mother](https://open.spotify.com/track/6qwOdEszCVGF0sGNXXUfYw) | [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Ocean Mother](https://open.spotify.com/album/2qO9msXl2nKihLE9s7oZqo) | 4:23 |
 | 80 | [Levers and Pulleys](https://open.spotify.com/track/4Lb8OAcJUZgJLj9rWh9zDs) | [koleżanka](https://open.spotify.com/artist/3u4dOU5Uc471ciIiPBTohL) | [Levers and Pulleys](https://open.spotify.com/album/5TnZxoTV1XON9CIAlXuMhz) | 4:33 |

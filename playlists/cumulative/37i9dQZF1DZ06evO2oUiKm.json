@@ -890,10 +890,32 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 286306,
       "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
       "url": "https://open.spotify.com/track/5sGWOANwzkSyWW6eOsgMKI"
+    },
+    {
+      "album": {
+        "name": "With God On Our Side",
+        "url": "https://open.spotify.com/album/2bmIEl5LZ6fvqN7VIeK7B1"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286306,
+      "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/6odkxZJ4TeAGV0D39z7PMr"
     },
     {
       "album": {
@@ -1500,7 +1522,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 163704,
       "name": "She Said",
       "url": "https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP"
@@ -1914,7 +1936,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 43546,
       "name": "Until You Saw Me - Interlude",
       "url": "https://open.spotify.com/track/6yX11XqvshWi3Z2E8V24FO"

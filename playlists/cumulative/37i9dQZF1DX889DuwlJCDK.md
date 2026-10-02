@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: プッシュプルポット
 
-1,981 songs - 4 day 23 hr 48 min
+1,982 songs - 4 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [panzamasuto](https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Singer's High](https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky) | 2:52 | 2023-11-21 | 2023-12-06 |
 | [Paradox](https://open.spotify.com/track/2pI2hJE73VQunoktyU2QJa) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BAD MORNING](https://open.spotify.com/album/2sy34466XWeUGokvFDXG2l) | 2:47 | 2026-03-03 | 2026-06-10 |
 | [Party Girl](https://open.spotify.com/track/0aBZ3io7XpDtQZ4ZJeoRhM) | [Sezko](https://open.spotify.com/artist/23nBdACF9zHkfIGpuTNshj) | [Party Girl](https://open.spotify.com/album/3FYSobSc1vMDUmqPkp8eTX) | 3:06 | 2026-09-08 |  |
+| [PEACH BLACK](https://open.spotify.com/track/1FOf4EDHkeoAIARofhhjYf) | [SWALLOW](https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs) | [PEACH BLACK](https://open.spotify.com/album/1yAzFM7fpUV6DgKvWsTn4s) | 4:02 | 2026-09-29 |  |
 | [Peanut butter 2023 GIGA MAX](https://open.spotify.com/track/0r2abRSwPrVaYtiX5SeAt8) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 2:47 | 2023-11-14 | 2023-11-22 |
 | [Peppermint Gum](https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Peppermint Gum](https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I) | 3:50 | 2023-11-07 | 2023-11-28 |
 | [pineapple!](https://open.spotify.com/track/2ibwchU0fWFyPFxEx0GaoU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [the outside wind](https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN) | 3:00 | 2025-06-24 | 2025-11-05 |
@@ -1602,7 +1603,7 @@
 | [寄り道](https://open.spotify.com/track/7aJ4nj8jNZPDy819XX1FK8) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [寄り道](https://open.spotify.com/album/7xJRthLvDJ2Kiu3N8P1X4a) | 3:38 | 2026-03-17 | 2026-08-26 |
 | [密か](https://open.spotify.com/track/45WJKtsxdNQNQatWlTmIRo) | [月と徒花](https://open.spotify.com/artist/6Dc0ZVkKdA7QGiFEEfAuCE) | [密か](https://open.spotify.com/album/3xGH0bkhPPFO1oD4mXnD5H) | 3:39 | 2026-07-14 |  |
 | [寵愛族](https://open.spotify.com/track/6OZ8w9AASDDRdLVJwqSEId) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [寵愛族](https://open.spotify.com/album/2HeAgHWH154wSvhlWhlQYa) | 3:18 | 2024-12-17 | 2025-03-26 |
-| [小説家](https://open.spotify.com/track/4a5uyzbI0Jw6n1nEYvEhmD) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [くろいもり](https://open.spotify.com/album/56zhHqyQXbrIrmuhbFwovo) | 4:40 | 2026-07-16 |  |
+| [小説家](https://open.spotify.com/track/4a5uyzbI0Jw6n1nEYvEhmD) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [くろいもり](https://open.spotify.com/album/56zhHqyQXbrIrmuhbFwovo) | 4:40 | 2026-07-16 | 2026-10-02 |
 | [少年讃歌](https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [少年讃歌](https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne) | 3:42 | 2023-08-17 | 2023-10-13 |
 | [就職先はロックスター](https://open.spotify.com/track/3r7nPQ6zFJ7UCjfTZBWvJI) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [就職先はロックスター](https://open.spotify.com/album/1I6iIrGuJ3S02bKY6rWrSf) | 1:37 | 2026-01-13 | 2026-02-25 |
 | [岡崎京子のあの娘になりたかった](https://open.spotify.com/track/0wykwC7fLm3kn6cw5DfAr5) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [岡崎京子のあの娘になりたかった](https://open.spotify.com/album/60Y0XZI1pKhS7ZDd2YczWC) | 2:51 | 2024-12-24 | 2025-01-22 |

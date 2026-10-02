@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "kun det nyeste danske rap \ud83d\udc40  Wesmo p\u00e5 cover!!",
-  "name": "ny dansk rap",
+  "description": "kun det nyeste danske rap \ud83d\udc40  wicky p\u00e5 cover!!",
+  "name": "ny rap dk",
   "tracks": [
     {
       "album": {
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 124024,
       "name": "BAR G\u00d8R DET",
       "url": "https://open.spotify.com/track/62YoirydQgxNVCM0CwvBGS"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 132028,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/4OFLTQoQBrDDDzTLjgNPwB"
@@ -3964,7 +3964,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 122351,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/6qPZa8karYruU5PIZNUxb2"
@@ -5770,7 +5770,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165600,
       "name": "Hver Dag & Nat",
       "url": "https://open.spotify.com/track/5hU6PBSMW6inBahwpSq40X"
@@ -6120,7 +6120,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169139,
-      "name": "Igennem Byen (feat. Omar)",
+      "name": "Igennem Byen",
       "url": "https://open.spotify.com/track/0kQgjv5tXOq8J6MIu7m2MH"
     },
     {
@@ -6190,7 +6190,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 129897,
       "name": "Ikaros",
       "url": "https://open.spotify.com/track/6X0OYoe0cSzRrarfDVPbp9"
@@ -6430,7 +6430,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 168285,
       "name": "Ivrig",
       "url": "https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl"
@@ -7862,7 +7862,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 136602,
       "name": "Marvel",
       "url": "https://open.spotify.com/track/3xo7KuTSE9Jj6t1hPH7hVW"
@@ -10157,6 +10157,24 @@
     },
     {
       "album": {
+        "name": "Small Dick Energy",
+        "url": "https://open.spotify.com/album/6FTEVN5gQDXtB5J6jj9bHN"
+      },
+      "artists": [
+        {
+          "name": "Skammerens D\u00f8tre",
+          "url": "https://open.spotify.com/artist/27czJDSwFg9zbimXXwdwmh"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126633,
+      "name": "Small Dick Energy",
+      "url": "https://open.spotify.com/track/1Kkh8uthk8s79tGWy5fno6"
+    },
+    {
+      "album": {
         "name": "Smerte Indeni",
         "url": "https://open.spotify.com/album/751D8oEjKzoK7WpwT73Nzq"
       },
@@ -10256,6 +10274,24 @@
       "duration_ms": 167959,
       "name": "SOBER",
       "url": "https://open.spotify.com/track/0XJnk1m8m43RbeBYnbdlxy"
+    },
+    {
+      "album": {
+        "name": "SODA",
+        "url": "https://open.spotify.com/album/1Oc0wPHNFMdpvAB6F0H0zc"
+      },
+      "artists": [
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128647,
+      "name": "SODA",
+      "url": "https://open.spotify.com/track/2qQW6QYAqpRXWkIjiABgys"
     },
     {
       "album": {
@@ -10426,6 +10462,32 @@
       "duration_ms": 145588,
       "name": "Stafet",
       "url": "https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n"
+    },
+    {
+      "album": {
+        "name": "statisk",
+        "url": "https://open.spotify.com/album/7ny4E1EdQDwxZFuArfqGBQ"
+      },
+      "artists": [
+        {
+          "name": "Trepac",
+          "url": "https://open.spotify.com/artist/5x8sDeGS7ry9PNQng6hlGQ"
+        },
+        {
+          "name": "Guldlokk",
+          "url": "https://open.spotify.com/artist/3s1ycrMCGyVItSNujZS2cg"
+        },
+        {
+          "name": "Tue Track",
+          "url": "https://open.spotify.com/artist/4gkU3V5EzFhsXS7vNPuNKZ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234781,
+      "name": "statisk",
+      "url": "https://open.spotify.com/track/41gtQjOJnck6EXDNyfm77q"
     },
     {
       "album": {
@@ -10832,6 +10894,24 @@
       "duration_ms": 120382,
       "name": "Tar Dig Med",
       "url": "https://open.spotify.com/track/2oGIev7T7TQDqwDdt0d3or"
+    },
+    {
+      "album": {
+        "name": "TASK",
+        "url": "https://open.spotify.com/album/5WKXDOzrwoaj4iKkIAcSG4"
+      },
+      "artists": [
+        {
+          "name": "Eezy",
+          "url": "https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "TASK",
+      "url": "https://open.spotify.com/track/3NE7NZrgtasZVKkzuoysba"
     },
     {
       "album": {
@@ -11602,6 +11682,28 @@
       "duration_ms": 118240,
       "name": "VAN CLEEF",
       "url": "https://open.spotify.com/track/4I74Dshx4uU5g0GQ8FZxxe"
+    },
+    {
+      "album": {
+        "name": "Vant Til (feat. KESI)",
+        "url": "https://open.spotify.com/album/6QB8wUJIn4hjk6W0Q8ZxCw"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146204,
+      "name": "Vant Til (feat. KESI)",
+      "url": "https://open.spotify.com/track/0HuDb66kQr9d0Y0nHaG37U"
     },
     {
       "album": {
@@ -12430,6 +12532,24 @@
       "duration_ms": 173786,
       "name": "\u00c6vle",
       "url": "https://open.spotify.com/track/6cyxrvUTs1W5yMh5JF8qoL"
+    },
+    {
+      "album": {
+        "name": "\u00d8je p\u00e5 Mig",
+        "url": "https://open.spotify.com/album/49zH2UgVfXz17ebztiIaSV"
+      },
+      "artists": [
+        {
+          "name": "Tan",
+          "url": "https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157193,
+      "name": "\u00d8je p\u00e5 Mig",
+      "url": "https://open.spotify.com/track/736VTDrXam3hwCs9GdRgLr"
     },
     {
       "album": {

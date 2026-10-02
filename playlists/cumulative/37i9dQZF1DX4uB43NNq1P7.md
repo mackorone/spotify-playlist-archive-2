@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-160 songs - 7 hr 9 min
+162 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Last time in the rain](https://open.spotify.com/track/0UHxHoVeocXY2bHcHA0PHU) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Last time in the rain](https://open.spotify.com/album/11rQmfIgDLRXZVKWC95a6d) | 3:13 | 2025-04-29 |  |
 | [Left Behind](https://open.spotify.com/track/4dCze40Fkzx4BQiHyXlfdb) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Left Behind](https://open.spotify.com/album/1gfWJEGN4BjU3HDKVqSRs9) | 2:15 | 2025-09-17 |  |
 | [Like a Rose](https://open.spotify.com/track/6ijewExLv4RQnlQwkNZJef) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:00 | 2023-03-13 | 2025-08-23 |
+| [Lilies \(in the Rain\)](https://open.spotify.com/track/4sSIPu2WU8TZo3yN4PH36Z) | [Nils Olov](https://open.spotify.com/artist/1dgIBgGAPHKb49Cao2Z5U9) | [Lilies](https://open.spotify.com/album/6Q7a1kvIG9t3GgmTY2TeL3) | 3:02 | 2026-10-02 |  |
 | [Lluvia Suave \- Nature](https://open.spotify.com/track/7iKHNnNBUJ8PvWxcH2yUcw) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Lluvia Suave](https://open.spotify.com/album/1ZOvYb0aFVlgXd6vv2Wo1e) | 2:24 | 2025-05-14 |  |
 | [Lueur](https://open.spotify.com/track/4ZOrmb9k5OOYzMJ2twTANK) | [Novielle](https://open.spotify.com/artist/2du0EHVj1RbqO4q7mcL50s) | [Lueur](https://open.spotify.com/album/0XDn73aD1vsCf12A7z61c5) | 2:10 | 2025-11-05 |  |
 | [May We Meet Again](https://open.spotify.com/track/094ycsRYKwaMjTXyJlvOGe) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes Of Rain](https://open.spotify.com/album/43iV5w7TUZunozRVL1Tm0d) | 2:03 | 2023-10-19 | 2024-04-19 |
@@ -103,7 +104,7 @@
 | [Piano In The Rain](https://open.spotify.com/track/45COIvvOsEigCZY5H8C8zY) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Stillness Of Heart](https://open.spotify.com/album/3yI4HKLb8uDmx15Vj9ZvW7) | 3:20 | 2023-03-13 | 2025-01-30 |
 | [Pine Forest](https://open.spotify.com/track/4k2Y75YydpxSfennoQdqUc) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 3:09 | 2023-04-24 |  |
 | [Pines \(in the Rain\)](https://open.spotify.com/track/0nt6QhWLebtNMXQSyJ1CeO) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Pines \(in the Rain\)](https://open.spotify.com/album/1DpKF15JeyUbbgxXrcqCsx) | 2:15 | 2025-08-05 |  |
-| [Pitter Patter](https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Pitter Patter](https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE) | 2:42 | 2023-03-13 |  |
+| [Pitter Patter](https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Pitter Patter](https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE) | 2:42 | 2023-03-13 | 2026-10-02 |
 | [portraits \(rain\)](https://open.spotify.com/track/2ITDiZJX8N5tDpPteiqsvW) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [portraits \(rain\)](https://open.spotify.com/album/2e2RKbGI55KjdR3VbZiagA) | 2:18 | 2025-02-25 |  |
 | [Princess Tree](https://open.spotify.com/track/73DDIXHsJa18Z4u1WaFcuT) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 2:40 | 2023-03-13 | 2023-10-20 |
 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-13 | 2025-04-16 |
@@ -136,6 +137,7 @@
 | [Stillness of Nature](https://open.spotify.com/track/0zsKqVV4G6GasPqJ3uk4os) | [Joren Wilde](https://open.spotify.com/artist/5CzFN3onXTVhYoAqQPvkgU) | [Stillness of Nature](https://open.spotify.com/album/0b8UoYN5gIhnQoUUolfeqf) | 3:05 | 2025-02-25 |  |
 | [Summer Rain With Piano](https://open.spotify.com/track/407llJbsp5jZ9krtjlqE0O) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Rain & Piano](https://open.spotify.com/album/4Hxom43QXe8rjoiw1uxyFB) | 3:32 | 2023-03-13 |  |
 | [Summer Rainbow](https://open.spotify.com/track/3ZoWGe3xD7pQDuEoix445S) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [Summer Rainbow](https://open.spotify.com/album/0s0XzqCY2BbI2bizi1rM3z) | 2:58 | 2023-04-24 |  |
+| [Sweet Consequences](https://open.spotify.com/track/0yVOQ9HSzfu4dc08hCRkjR) | [Candle One](https://open.spotify.com/artist/4M5zaVmJAvkuuGI3HJ5UJY) | [Sweet Consequences](https://open.spotify.com/album/5OAjP1zvLsdqTjl3veYWTv) | 1:42 | 2026-10-02 |  |
 | [take a moment to breathe\. \- Instrumental](https://open.spotify.com/track/38aTQ9Zc5HuQKHyUdmewQn) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [take a moment to breathe.](https://open.spotify.com/album/0toJrr2xW06CSwEut3bbK9) | 3:38 | 2024-04-17 | 2024-11-20 |
 | [take a moment to breathe\. \- Instrumental](https://open.spotify.com/track/3lQmOV3OBO7O9FR7oCC8v1) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [take a moment to breathe.](https://open.spotify.com/album/22V9tEtQVgB85xG24ozhS3) | 3:38 | 2023-03-13 | 2024-04-19 |
 | [Teardrops on the doorstep](https://open.spotify.com/track/0AgOsnBAgQ3oS9Fd5AfqwT) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Teardrops on the doorstep](https://open.spotify.com/album/6xgL3nF6MXq3x55rOMB4pv) | 3:00 | 2023-03-13 | 2026-09-26 |

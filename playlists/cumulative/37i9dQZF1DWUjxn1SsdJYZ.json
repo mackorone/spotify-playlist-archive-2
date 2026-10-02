@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Lisi",
+  "description": "The best new AUS & NZ Rap. Cover: J Emz",
   "name": "Local Hype",
   "tracks": [
     {
@@ -2803,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Ben 10",
+        "url": "https://open.spotify.com/album/1US839apPDqjQ4C6SAbCUk"
+      },
+      "artists": [
+        {
+          "name": "DIBZ",
+          "url": "https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160833,
+      "name": "Ben 10",
+      "url": "https://open.spotify.com/track/1mUJ0kk0U5qeMY4PO1kTv0"
+    },
+    {
+      "album": {
         "name": "Ben Simmons",
         "url": "https://open.spotify.com/album/3gryXuLZ9zuYm1FkmQ7hoP"
       },
@@ -4096,7 +4114,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 135529,
       "name": "BOUNTY",
       "url": "https://open.spotify.com/track/5ApbFQrGkaXQKSqQpOUCVP"
@@ -6538,7 +6556,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 171411,
       "name": "CURSE",
       "url": "https://open.spotify.com/track/7B46lawmUGUBO8YHnsbdTJ"
@@ -15999,6 +16017,24 @@
     },
     {
       "album": {
+        "name": "Leaning",
+        "url": "https://open.spotify.com/album/4Zn4El33ukaLhtB2rPhJpI"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125607,
+      "name": "Leaning",
+      "url": "https://open.spotify.com/track/1FXpFpqem5hUWui83BqZCy"
+    },
+    {
+      "album": {
         "name": "Leave Me Alone",
         "url": "https://open.spotify.com/album/1kuECkKxX11NNa4U0u7izc"
       },
@@ -24932,6 +24968,36 @@
       "duration_ms": 149250,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/7MljuHS2zehnQXikZ2R1J1"
+    },
+    {
+      "album": {
+        "name": "Ruby (MHMM) (Kobie Dee & Nerve Remix)",
+        "url": "https://open.spotify.com/album/1kOt2zEA5qtqewoSIzrEvb"
+      },
+      "artists": [
+        {
+          "name": "Jords",
+          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
+        },
+        {
+          "name": "Marger",
+          "url": "https://open.spotify.com/artist/65uhMhwobL11ah8HltpDK2"
+        },
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201729,
+      "name": "Ruby (MHMM) - Kobie Dee & Nerve Remix",
+      "url": "https://open.spotify.com/track/1yd1Gx5axeivYN0p2GiFzR"
     },
     {
       "album": {

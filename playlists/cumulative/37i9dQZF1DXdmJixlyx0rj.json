@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 153000,
       "name": "CELEBRATION",
       "url": "https://open.spotify.com/track/3OKvpTlnhvj8u6fbV53kqC"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 158917,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 269222,
       "name": "firefly",
       "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 200826,
       "name": "Kind of Love (feat. Ina Bravo)",
       "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
@@ -4690,6 +4690,32 @@
       "duration_ms": 160517,
       "name": "PEAK (Feat. CAMO)",
       "url": "https://open.spotify.com/track/57EIGm8jQt9K0ACLOwW7Fv"
+    },
+    {
+      "album": {
+        "name": "All The People",
+        "url": "https://open.spotify.com/album/5xzfbBtV2iiQBBCcZwCU6w"
+      },
+      "artists": [
+        {
+          "name": "rom&BAAWLA",
+          "url": "https://open.spotify.com/artist/7dZtqcWfXuGDTyi1WLModI"
+        },
+        {
+          "name": "rom",
+          "url": "https://open.spotify.com/artist/75ybiVnYYHgBNx08VrIyLM"
+        },
+        {
+          "name": "BAAWLA",
+          "url": "https://open.spotify.com/artist/0jaVYitpvZqkDSpDXScIu2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259411,
+      "name": "PEOPLE (Stomping)",
+      "url": "https://open.spotify.com/track/7HbGe9tgbqhe6ZqrnAUY1P"
     },
     {
       "album": {

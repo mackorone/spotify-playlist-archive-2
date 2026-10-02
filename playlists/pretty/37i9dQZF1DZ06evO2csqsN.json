@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 41800,
+  "num_followers": 41808,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADVFMB0Ws4SX/hWARRn+1jg",
+  "snapshot_id": "arxRAAAAAAC02NYPSgJ5oNSqKJ4OCF+7",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOMF (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "GOMF (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTA",
         "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOMF (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "GOMF (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
     },
     {
       "added_at": null,

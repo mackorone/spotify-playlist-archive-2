@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Skepsis",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Netsky, Hannah Boleyn",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1227,6 +1227,28 @@
     },
     {
       "album": {
+        "name": "ANOTHER ONE",
+        "url": "https://open.spotify.com/album/7zl8GCEjLRUI0Hi0pOhDAt"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159085,
+      "name": "ANOTHER ONE",
+      "url": "https://open.spotify.com/track/2qT6tsRiIyp9FZzFYPTmoQ"
+    },
+    {
+      "album": {
         "name": "Anyone I Want (DRIIA's Jungle VIP Mix)",
         "url": "https://open.spotify.com/album/2d9P9VfwNOjz2wasvoC55y"
       },
@@ -1490,7 +1512,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 209655,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2FL4b35Fvy1LRSEaqrvgte"
@@ -5618,7 +5640,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 195000,
       "name": "Cut Em Down",
       "url": "https://open.spotify.com/track/1G5w9cbAUXuI1wZRoqsiBM"
@@ -8326,6 +8348,28 @@
       "duration_ms": 180689,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/3HiRpvyo4sjYumFPRUqA4v"
+    },
+    {
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2G5BCVsZJjwGIp8OXBa2w0"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206218,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/4i9ay73aSChB8q4KeGDBIl"
     },
     {
       "album": {
@@ -13183,6 +13227,28 @@
     },
     {
       "album": {
+        "name": "IWLYF",
+        "url": "https://open.spotify.com/album/5xk6vPHioIPBefx2pgwTn7"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Blocksberg",
+          "url": "https://open.spotify.com/artist/4WO8AqCp0aUFk6tWdbay32"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "IWLYF",
+      "url": "https://open.spotify.com/track/3UJ04gC6TvafUK3CVBvVL5"
+    },
+    {
+      "album": {
         "name": "Jack (Hoax Rework)",
         "url": "https://open.spotify.com/album/1DORqdh0Z5UxSrLbGGFkZH"
       },
@@ -17666,7 +17732,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 217931,
       "name": "No Place Like Home",
       "url": "https://open.spotify.com/track/1wnydCSiFvWQPPb6wfvDMc"
@@ -17950,6 +18016,24 @@
       "duration_ms": 155691,
       "name": "Not Over Yet (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE"
+    },
+    {
+      "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/28rkr57jj2kx1UA095a5tq"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/0J2ZKBeH9u7l1NKtkV8GHY"
     },
     {
       "album": {
@@ -20674,6 +20758,28 @@
       "duration_ms": 182068,
       "name": "Reflection of U",
       "url": "https://open.spotify.com/track/1NVvUIOkMedPLfhWL7AIgJ"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4x9oXKmETxPsM39h5QrVA8"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193189,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/4cqZQr5IzaxGeGsDkZHi0s"
     },
     {
       "album": {
@@ -28458,7 +28564,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 226293,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/00Kh829MiosKSvGHFQEbt8"
@@ -28660,7 +28766,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 170574,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/3aSmaEJbcLiBsueRiXDwA9"

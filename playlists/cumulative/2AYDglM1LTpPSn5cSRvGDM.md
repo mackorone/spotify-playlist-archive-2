@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-291 songs - 16 hr 40 min
+292 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bitter Love](https://open.spotify.com/track/1kNS0P12yGQoYJDbDwrKlx) | [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF), [Wilhelmina](https://open.spotify.com/artist/2ZCcqreFw4auSkxe2wsnbG) | [Bitter Love](https://open.spotify.com/album/4jug6MB2Rs9Ya8TimmLZGw) | 2:43 | 2025-07-11 |  |
 | [Black & Gold](https://open.spotify.com/track/2bLVojtkh60Rh0wK0TLwaf) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Black & Gold](https://open.spotify.com/album/7r71jB4J1FYwoHzb86xmD4) | 3:12 | 2026-02-27 | 2026-08-01 |
 | [Black Betty](https://open.spotify.com/track/2M71bQBuP0jiGEHmG07oTO) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Black Betty](https://open.spotify.com/album/2G3lpRqDLBBTegATDV5b5Y) | 2:35 | 2025-08-08 | 2025-08-16 |
+| [Black Hole](https://open.spotify.com/track/0awmTGa44Mnod8FdqZhoHI) | [L.GU.](https://open.spotify.com/artist/5HLFjiA44P1kaJHdoOfhHt), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Black Hole](https://open.spotify.com/album/4vDPYzDfDOaffs8jE58C4A) | 3:45 | 2026-10-01 |  |
 | [Blackberries](https://open.spotify.com/track/1QDpXIgR0U7ta48CwEYBeL) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Blackberries](https://open.spotify.com/album/0wRizVFvSd8ASY1OSnnnID) | 2:01 | 2025-07-23 |  |
 | [Blessings \- Max Styler Remix](https://open.spotify.com/track/4ABq8s2EfMZuqfKsh2XLls) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Blessings \(Max Styler Remix\)](https://open.spotify.com/album/0b2lrcEdueqWOAzyeAKScs) | 4:03 | 2025-07-11 | 2025-08-09 |
 | [Body Language](https://open.spotify.com/track/2BcDYBtqZF3BhCUKRjYAdz) | [Thursday Cigs](https://open.spotify.com/artist/5dRanOuN20a4kNXXdrilUL) | [Body Language](https://open.spotify.com/album/6hiajYvo2nlDbMj3Hbth44) | 2:33 | 2025-08-22 | 2025-11-01 |

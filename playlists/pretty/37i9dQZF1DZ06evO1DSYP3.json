@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5791,
+  "num_followers": 5792,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "armuAAAAAADuuN2kcaU23mKUCN2nyLbZ",
+  "snapshot_id": "arxRAAAAAADG057f32jukfergFXnVhAG",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 151053,
+      "name": "same squad",
+      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moovie! 2: The Yeequel",
         "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
       },
@@ -159,38 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+        "name": "Blue Hunnids (feat. P-Lo) - Single",
+        "url": "https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq"
       },
       "artists": [
         {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 151053,
-      "name": "same squad",
-      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turning My Money Over (Quadruple Album)",
-        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
-      },
-      "artists": [
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 172165,
-      "name": "Sucka Ducking",
-      "url": "https://open.spotify.com/track/4xygZtPUl3r1arsWfWKkn2"
+      "duration_ms": 196905,
+      "name": "Blue Hunnids",
+      "url": "https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ"
     },
     {
       "added_at": null,
@@ -219,22 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Hunnids (feat. P-Lo) - Single",
-        "url": "https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq"
+        "name": "Turning My Money Over (Quadruple Album)",
+        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
       },
       "artists": [
         {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 196905,
-      "name": "Blue Hunnids",
-      "url": "https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ"
+      "duration_ms": 172165,
+      "name": "Sucka Ducking",
+      "url": "https://open.spotify.com/track/4xygZtPUl3r1arsWfWKkn2"
     },
     {
       "added_at": null,
@@ -323,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Sneeze",
+      "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUMBLR (feat. E-40 & Kreayshawn)",
         "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 164549,
       "name": "DUMBLR (feat. E-40 & Kreayshawn)",
       "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Sneeze",
-      "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
     },
     {
       "added_at": null,
@@ -439,38 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNOOP CUBE 40 $HORT",
-        "url": "https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ"
+        "name": "Forgotten Island (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/35c85zu97RJsuQm9iefPoG"
       },
       "artists": [
         {
-          "name": "MOUNT WESTMORE",
-          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 216100,
-      "name": "Too Big",
-      "url": "https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF"
+      "duration_ms": 118640,
+      "name": "Double Up",
+      "url": "https://open.spotify.com/track/6x73uFEIQkOpG1g5mMmBxu"
     },
     {
       "added_at": null,
@@ -511,6 +495,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "SNOOP CUBE 40 $HORT",
+        "url": "https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ"
+      },
+      "artists": [
+        {
+          "name": "MOUNT WESTMORE",
+          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 216100,
+      "name": "Too Big",
+      "url": "https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -523,6 +543,22 @@
       "duration_ms": 181478,
       "name": "Stunna Anthem",
       "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140708,
+      "name": "AWW YEAH",
+      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
     },
     {
       "added_at": null,
@@ -551,42 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OUT THE BOX",
-        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140708,
-      "name": "AWW YEAH",
-      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forgotten Island (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/35c85zu97RJsuQm9iefPoG"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 118640,
-      "name": "Double Up",
-      "url": "https://open.spotify.com/track/6x73uFEIQkOpG1g5mMmBxu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Newly",
         "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 177828,
       "name": "Newly",
       "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -655,26 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Vault",
-        "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
       },
       "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Nef The Pharaoh",
-          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 199508,
-      "name": "Power (feat. Nef The Pharaoh & P-Lo)",
-      "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -699,6 +675,30 @@
       "duration_ms": 205480,
       "name": "On One",
       "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Vault",
+        "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Nef The Pharaoh",
+          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 199508,
+      "name": "Power (feat. Nef The Pharaoh & P-Lo)",
+      "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "drink bleach",
-        "url": "https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "shake ya ass (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Me?",
         "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
       },
@@ -835,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Soil",
-        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        },
-        {
-          "name": "Goapele",
-          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
-        }
-      ],
-      "duration_ms": 217710,
-      "name": "Suede",
-      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -883,6 +839,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "drink bleach",
+        "url": "https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "shake ya ass (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Soil",
+        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Goapele",
+          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
+        }
+      ],
+      "duration_ms": 217710,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Going To Work - Single",
         "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
       },
@@ -895,6 +895,30 @@
       "duration_ms": 197187,
       "name": "Going To Work",
       "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 198165,
+      "name": "GIVE ME A BEAT!",
+      "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
     },
     {
       "added_at": null,
@@ -939,50 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 198165,
-      "name": "GIVE ME A BEAT!",
-      "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -1007,6 +987,62 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Respectfully",
+        "url": "https://open.spotify.com/album/5hVS87XMV1UBHMdPQtLPOn"
+      },
+      "artists": [
+        {
+          "name": "Grand Nationxl",
+          "url": "https://open.spotify.com/artist/4fMApbC6SARLscJza8qtxn"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mani Draper",
+          "url": "https://open.spotify.com/artist/3FdRyYL0N7gAssfclu2q4k"
+        },
+        {
+          "name": "Kevin Allen",
+          "url": "https://open.spotify.com/artist/31d700d8caRWNRcYWrqV1B"
+        },
+        {
+          "name": "Brookfield Duece",
+          "url": "https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv"
+        },
+        {
+          "name": "Passwurdz",
+          "url": "https://open.spotify.com/artist/5wTcjhNkm9cEGjzRad9ZUV"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Respectfully",
+      "url": "https://open.spotify.com/track/5LaFUm8RJq7ULiVd0JdKV8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
     },
     {
       "added_at": null,
@@ -1067,42 +1103,6 @@
       "duration_ms": 243226,
       "name": "Light This Bitch Up",
       "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Respectfully",
-        "url": "https://open.spotify.com/album/5hVS87XMV1UBHMdPQtLPOn"
-      },
-      "artists": [
-        {
-          "name": "Grand Nationxl",
-          "url": "https://open.spotify.com/artist/4fMApbC6SARLscJza8qtxn"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Mani Draper",
-          "url": "https://open.spotify.com/artist/3FdRyYL0N7gAssfclu2q4k"
-        },
-        {
-          "name": "Kevin Allen",
-          "url": "https://open.spotify.com/artist/31d700d8caRWNRcYWrqV1B"
-        },
-        {
-          "name": "Brookfield Duece",
-          "url": "https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv"
-        },
-        {
-          "name": "Passwurdz",
-          "url": "https://open.spotify.com/artist/5wTcjhNkm9cEGjzRad9ZUV"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Respectfully",
-      "url": "https://open.spotify.com/track/5LaFUm8RJq7ULiVd0JdKV8"
     }
   ],
   "unique_name": "This Is P-Lo",

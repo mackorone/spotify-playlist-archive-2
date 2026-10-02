@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-645 songs - 1 day 12 hr 13 min
+646 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Joy](https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Joy](https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE) | 3:39 | 2026-04-03 | 2026-05-01 |
 | [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 | 2025-01-09 | 2025-10-24 |
 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2024-09-16 | 2026-04-17 |
+| [JURU](https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [JURU](https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE) | 3:08 | 2026-09-25 |  |
 | [Just Do It](https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [NELCNO](https://open.spotify.com/artist/6bFMQHgmlCF5T183y54XUE), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Just Do It](https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB) | 5:22 | 2022-09-09 | 2022-10-14 |
 | [Kaba](https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Kaba](https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO) | 2:51 | 2022-07-28 | 2022-11-27 |
 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 | 2026-02-11 |  |
@@ -428,7 +429,7 @@
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2021-12-09 | 2022-06-17 |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-03-03 | 2024-03-20 |
 | [No\. 1 Fan](https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 1:57 | 2026-04-17 | 2026-04-24 |
-| [Nostalgia](https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Nostalgia](https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz) | 2:56 | 2026-04-29 |  |
+| [Nostalgia](https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Nostalgia](https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz) | 2:56 | 2026-04-29 | 2026-10-02 |
 | [Not My Fault](https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Not My Fault](https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs) | 3:08 | 2023-06-09 | 2023-07-29 |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-22 | 2022-10-14 |
 | [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 | 2023-05-11 | 2024-06-26 |

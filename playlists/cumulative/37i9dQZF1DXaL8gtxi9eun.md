@@ -2,9 +2,9 @@
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: مهى فتوني
+> كل ما هو جديد في عالم البوب المصري\. الغلاف: رحمه محسن
 
-553 songs - 1 day 8 hr 33 min
+554 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Sahran](https://open.spotify.com/track/1VPjnnkxsxXdgaIbH2dhnq) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84) | 4:46 | 2022-05-04 | 2022-06-07 |
 | [SAHRAN](https://open.spotify.com/track/1x3jrqrELnhxHZTcQN4Lph) | [Soulphonic](https://open.spotify.com/artist/3QoLVZNmSNKRsjvrEFWqX9) | [SAHRAN](https://open.spotify.com/album/2KFQIhruo9Yoi9pHLoyKdt) | 3:33 | 2026-07-13 | 2026-08-11 |
 | [SALAM](https://open.spotify.com/track/5W1c8vIpCZbeJlhrXh0oKM) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [SALAM](https://open.spotify.com/album/1JZ5aFx7qMrDJ7QLWVpIs1) | 3:30 | 2026-07-06 | 2026-07-23 |
-| [SAMARA](https://open.spotify.com/track/2ttqOWC7r5wIxbcYsEaNky) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [SAMARA](https://open.spotify.com/album/3IAvXD8j3JXhE3RTfop4VB) | 2:53 | 2026-08-27 |  |
+| [SAMARA](https://open.spotify.com/track/2ttqOWC7r5wIxbcYsEaNky) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [SAMARA](https://open.spotify.com/album/3IAvXD8j3JXhE3RTfop4VB) | 2:53 | 2026-08-27 | 2026-10-02 |
 | [Sayed Alaqareb Intro](https://open.spotify.com/track/3Yhes3SPh9D70CMNA76y9I) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Sayed Alaqareb Intro](https://open.spotify.com/album/5WeNZAlFYcfNiVywGQWzMz) | 3:49 | 2024-03-19 | 2024-07-30 |
 | [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 | 2023-09-08 | 2024-02-10 |
 | [Sebooh](https://open.spotify.com/track/6aelrywDmMzedMN0FSa3s8) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Sebooh](https://open.spotify.com/album/2fhRFoAFIXCI3RFNZQh5dY) | 3:11 | 2022-10-24 | 2023-07-12 |
@@ -385,6 +385,7 @@
 | [Zidini](https://open.spotify.com/track/1b7xtXSt71WhXrL9khIlCK) | [Dunia Batma](https://open.spotify.com/artist/3GCRdccrBJ7DKUQvNMHQmU) | [Zidini](https://open.spotify.com/album/6ezbHGVbpC41VtjbLJn4Vs) | 3:20 | 2023-05-30 | 2023-09-02 |
 | [آخر إصدار](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [آخر إصدار](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 | 2023-06-23 | 2023-08-02 |
 | [أمانة ماتمشيش](https://open.spotify.com/track/0trItpxok4P4Wjn80gn6U3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [أمانة ماتمشيش](https://open.spotify.com/album/39wyOun2YvyHWYfpttmu6t) | 3:40 | 2026-09-22 |  |
+| [أنا الخسارة](https://open.spotify.com/track/6RzYEAbaq10zalHUyzIexV) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [‎ أنا الخسارة](https://open.spotify.com/album/1n0p9iqLXdkUzPtT1B7kiC) | 3:55 | 2026-10-01 |  |
 | [أنا مش صوتك](https://open.spotify.com/track/2so4YlyW2pJ2hpkB8mDca3) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا مش صوتك](https://open.spotify.com/album/1iU9abXK45PvgLdKkU2axL) | 3:07 | 2024-03-08 | 2024-04-19 |
 | [أول ما شوفتك](https://open.spotify.com/track/5WM5jLkz702UO40ptzIbpQ) | [Sara Mahgoub](https://open.spotify.com/artist/6pMTii9BBdgh8mZ7b0nTz6) | [أول ما شوفتك](https://open.spotify.com/album/1rj42ELyRLZysuVxm5YPhT) | 4:56 | 2026-08-07 | 2026-09-18 |
 | [إحساسي معاك \- من فيلم الكلام على إيه؟](https://open.spotify.com/track/3x37ks40XCDj8r4FSevyUy) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [إحساسي معاك \(من فيلم الكلام على إيه؟\)](https://open.spotify.com/album/6ctwTASynsRaZ527Vci2ch) | 3:40 | 2026-07-06 |  |

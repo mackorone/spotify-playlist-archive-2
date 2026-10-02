@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-421 songs - 1 day 6 hr 17 min
+422 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Light That Never Goes Out](https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Perennial Grace](https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ) | 3:22 | 2025-02-21 |  |
 | [A Tale](https://open.spotify.com/track/7xCVZnISlnQ2v30xD6qGY1) | [Synagetic Voice Orchestra](https://open.spotify.com/artist/4ajIjToZA6Hfqo3U2vQqeN) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/6EosUnPLduZ3HV9BKJBdts) | 5:35 | 2024-03-07 | 2025-01-25 |
 | [A Tale](https://open.spotify.com/track/0RwP29TYIWlQh6uvkyGT9y) | [Synergetic Voice Orchestra](https://open.spotify.com/artist/5shpMTYrRn3zNZsbvG5i3p) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/1HQaShZnkACQiXjJRaUzWi) | 5:35 | 2022-12-30 | 2024-04-19 |
+| [Abertura](https://open.spotify.com/track/7dNnMun8Y2htGG52eDkm0G) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Sergio Mendes Tribute](https://open.spotify.com/album/4LwANCezg04ZlqC3KVsc6V) | 1:30 | 2026-09-22 |  |
 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 | 2022-01-07 | 2022-10-01 |
 | [after the mint light faded](https://open.spotify.com/track/6uJePe8gFAaGc3U2ueJObl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [after the mint light faded](https://open.spotify.com/album/1jxyOd6xoAsBAJYGZskLHA) | 2:16 | 2026-01-23 | 2026-02-26 |
 | [After the Silence](https://open.spotify.com/track/2cr0AJ48Xk94H0UNjJA1BQ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [After the Silence](https://open.spotify.com/album/6Vv3N7JnzTBBlwdxy3eb2E) | 3:36 | 2026-06-26 |  |
@@ -71,7 +72,7 @@
 | [Candy Floss](https://open.spotify.com/track/2ZtH2scL0aDBizjDrqewIW) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 2:58 | 2022-12-30 | 2023-08-19 |
 | [Cassiopeia, 6 July 1982](https://open.spotify.com/track/2U05G9iflgUikBMpH76AIu) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [MDT001](https://open.spotify.com/album/57DgSN6ZCnVIsiUUOkIjji) | 3:31 | 2022-01-07 | 2022-07-29 |
 | [CATTLE](https://open.spotify.com/track/6Fx8SSWIaMnFZv9eAGFIXm) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [CATTLE](https://open.spotify.com/album/4n86SabGo3rJfbAgnPqBm4) | 1:38 | 2026-03-25 | 2026-06-04 |
-| [cave](https://open.spotify.com/track/7BZHpOPd7j32zqgPF0kvFN) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [cave](https://open.spotify.com/album/3tyvmRkGhMPT8ZlGLTSXBP) | 2:26 | 2026-08-30 |  |
+| [cave](https://open.spotify.com/track/7BZHpOPd7j32zqgPF0kvFN) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [cave](https://open.spotify.com/album/3tyvmRkGhMPT8ZlGLTSXBP) | 2:26 | 2026-08-30 | 2026-10-02 |
 | [Cave](https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Glow In The Dark](https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl) | 4:44 | 2023-01-20 |  |
 | [Celeste = Sky Blue](https://open.spotify.com/track/77AxYrrtLw02YTBZvSvota) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 5:02 | 2023-03-03 |  |
 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 | 2022-01-07 |  |
@@ -97,7 +98,7 @@
 | [Deep Echoes](https://open.spotify.com/track/1wOQnrIj5tM45aVXq03G1n) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Deep Echoes](https://open.spotify.com/album/5z37mTPHscHRrvjByGQOlu) | 6:10 | 2026-09-22 |  |
 | [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2022-08-19 | 2025-01-25 |
 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 | 2023-01-06 | 2024-04-19 |
-| [Dim Light](https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Dim Light](https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437) | 2:54 | 2026-07-18 |  |
+| [Dim Light](https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Dim Light](https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437) | 2:54 | 2026-07-18 | 2026-10-02 |
 | [drizzle](https://open.spotify.com/track/7uMejNc2Z9zbLQtDjBiaJc) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [drizzle](https://open.spotify.com/album/1HhtP45ahsxWLgOVO56VaJ) | 1:13 | 2026-03-09 | 2026-05-05 |
 | [Ear Dreamin'](https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU) | [Yoshiaki Ochi](https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:45 | 2022-12-30 | 2025-03-07 |
 | [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 | 2022-01-07 | 2025-06-13 |
@@ -114,7 +115,7 @@
 | [Familial Tones](https://open.spotify.com/track/3qM7XZwkDp7pKZtaSJynZq) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Familial Tones](https://open.spotify.com/album/1xFKbhp8x5fuK59GwdG8Rd) | 4:06 | 2026-06-12 |  |
 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 | 2022-12-30 | 2025-05-03 |
 | [fight and loving](https://open.spotify.com/track/4pTFdtpi58dNolsLI0frH6) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Blue Hour](https://open.spotify.com/album/2au1O3x9ExS0W7holTpntB) | 3:55 | 2026-05-30 |  |
-| [Firing \(feat\. Shimatani Shoryu Kobo\)](https://open.spotify.com/track/6zbYuGYwr34odkFt5KeJmv) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO), [Shimatani Shoryu Kobo](https://open.spotify.com/artist/35TkW5XHiRnfHTbw5O0o6R) | [VAGUE](https://open.spotify.com/album/3wwGYCEB35E5K5MAKjALtS) | 6:01 | 2022-01-07 | 2026-05-28 |
+| [Firing \(feat\. Shimatani Shoryu Kobo\)](https://open.spotify.com/track/6zbYuGYwr34odkFt5KeJmv) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO), [Shimatani Shoryu Kobo](https://open.spotify.com/artist/35TkW5XHiRnfHTbw5O0o6R) | [VAGUE](https://open.spotify.com/album/3wwGYCEB35E5K5MAKjALtS) | 6:01 | 2022-01-07 |  |
 | [Flius](https://open.spotify.com/track/7H6JZas9n5Lc3UkwWyXZoe) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons I](https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ) | 9:32 | 2022-12-30 | 2023-08-19 |
 | [Float On](https://open.spotify.com/track/1gxfSEYoqHO3rUluVLFXRS) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons I](https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ) | 5:42 | 2022-12-30 | 2025-01-14 |
 | [flow](https://open.spotify.com/track/4PfX6YNf0Mw9iDf9CCaPK6) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/1Vuv5R0WLEsksBxRZW7kyb) | 5:12 | 2022-01-07 | 2025-01-25 |

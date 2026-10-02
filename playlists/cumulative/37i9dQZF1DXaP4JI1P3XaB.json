@@ -440,7 +440,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 121106,
       "name": "Deep Dark",
       "url": "https://open.spotify.com/track/7lNTOULiGKU2MwFrZac2iO"
@@ -696,7 +696,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 142329,
       "name": "Gradestay",
       "url": "https://open.spotify.com/track/5efJi600QWwEW5v6kaXwpI"
@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "It Can Be Everywhere",
+        "url": "https://open.spotify.com/album/60VFfdCLTZZyX5wpOIUS2x"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330490,
+      "name": "It Can Be Everywhere",
+      "url": "https://open.spotify.com/track/1mQPLb9lmLBgR9WtrdEIJX"
+    },
+    {
+      "album": {
         "name": "The Way Out of Easy",
         "url": "https://open.spotify.com/album/3NBhIanqLMEjpwhzLWqHsN"
       },
@@ -876,6 +894,40 @@
       "duration_ms": 1041494,
       "name": "Late Autumn (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
       "url": "https://open.spotify.com/track/47yettQYYWSbrLOYDr7osZ"
+    },
+    {
+      "album": {
+        "name": "Lightship",
+        "url": "https://open.spotify.com/album/6AUppxCiaz6G8bDvsArS3n"
+      },
+      "artists": [
+        {
+          "name": "Unknown to Known",
+          "url": "https://open.spotify.com/artist/7INjimPX8qiYHGqsX0VzB9"
+        },
+        {
+          "name": "Idris Rahman",
+          "url": "https://open.spotify.com/artist/0usZeXbJX9kz203eMYmWRw"
+        },
+        {
+          "name": "Yusuf Ahmed",
+          "url": "https://open.spotify.com/artist/3gShmv2t9w6p0uvySqLIpB"
+        },
+        {
+          "name": "Tamar Osborn",
+          "url": "https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj"
+        },
+        {
+          "name": "Jihad Darwish",
+          "url": "https://open.spotify.com/artist/2bsHhAkRSy9fEdvd8D143v"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144486,
+      "name": "Lightship",
+      "url": "https://open.spotify.com/track/0CnpH1MHRwpe51tDTGHYPv"
     },
     {
       "album": {

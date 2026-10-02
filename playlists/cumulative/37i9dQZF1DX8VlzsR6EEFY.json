@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. PeeWee y Karol Sevilla en portada \ud83c\udf39",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Pipe Bueno en portada \ud83c\udf39",
   "name": "La Miscel\u00e1nea",
   "tracks": [
     {
@@ -504,6 +504,28 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
+    },
+    {
+      "album": {
+        "name": "Amor Factura",
+        "url": "https://open.spotify.com/album/3tyAXoOG4Q2nAs705ujxsy"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237098,
+      "name": "Amor Factura",
+      "url": "https://open.spotify.com/track/3cZgBPSMbcbpfLfpmv54Nq"
     },
     {
       "album": {
@@ -1038,6 +1060,24 @@
       "duration_ms": 165840,
       "name": "Cach\u00edn",
       "url": "https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl"
+    },
+    {
+      "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/7639dfG9UL1ABs8ABtClM1"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123998,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/77ILmTvNY5SO4XKZLu2bFt"
     },
     {
       "album": {
@@ -1638,6 +1678,24 @@
       "duration_ms": 177053,
       "name": "Cuando Te Cambian Por Alguien",
       "url": "https://open.spotify.com/track/2vEW1egg6xdTm5WBVopBFe"
+    },
+    {
+      "album": {
+        "name": "Cuesti\u00f3n Que Quieras",
+        "url": "https://open.spotify.com/album/5ufEErsLzCtHoSxFzyINTm"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117214,
+      "name": "Cuesti\u00f3n Que Quieras",
+      "url": "https://open.spotify.com/track/1uuwJy5EJ0U9a4KF8o6TPT"
     },
     {
       "album": {
@@ -3142,6 +3200,24 @@
       "duration_ms": 211000,
       "name": "Hasta Siempre",
       "url": "https://open.spotify.com/track/1UQ1jzCK5oqGU6OEkCsngb"
+    },
+    {
+      "album": {
+        "name": "Hay M\u00e1s Tiempo Que Vida",
+        "url": "https://open.spotify.com/album/5HZsqFKoOTqJtFW3soum4d"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Hay M\u00e1s Tiempo Que Vida",
+      "url": "https://open.spotify.com/track/5kOIX171TvyPDGsjLjNfBW"
     },
     {
       "album": {
@@ -6740,6 +6816,24 @@
       "duration_ms": 224490,
       "name": "Pueblito",
       "url": "https://open.spotify.com/track/11CLUu5OqX6I0QZFTom8zD"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Estoy Yo",
+        "url": "https://open.spotify.com/album/3S1shMfIc0bd3UZhMg3BsT"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118877,
+      "name": "Que Mas",
+      "url": "https://open.spotify.com/track/1BhypqZDFxUFn0pTbAvF1T"
     },
     {
       "album": {

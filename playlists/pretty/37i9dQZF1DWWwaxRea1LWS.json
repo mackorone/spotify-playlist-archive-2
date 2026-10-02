@@ -1,816 +1,780 @@
 {
-  "description": "#SpotifyTBT goes fall mode with these acoustic classics. Cover: James Taylor",
-  "num_followers": 2261373,
+  "description": "#SpotifyTBT goes Broadway.  Cover: The Cast of Hamilton",
+  "num_followers": 2261366,
   "original_name": "Throwback Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADX+A2xb9wTiFZNgSKkGqhV662//",
+  "snapshot_id": "AAAAAPaNGuVo389jkpBc6ym6dw2fa/UH",
   "tracks": [
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Gutterflower",
-        "url": "https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Redemption Song",
-      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 163275,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Amos Lee",
-        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Keep It Loose, Keep It Tight",
-      "url": "https://open.spotify.com/track/69dDr3w8IIcOGKwlW5XntT"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 148586,
-      "name": "Time in a Bottle",
-      "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 240139,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Under the Table and Dreaming (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0SeRWS3scHWplJhMppd6rJ"
-      },
-      "artists": [
-        {
-          "name": "Dave Matthews Band",
-          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/2BjUvisO4UVAtTHs4lYiqu"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 102986,
-      "name": "The Wind - Remastered 2021",
-      "url": "https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Welcome Interstate Managers",
-        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
-      },
-      "artists": [
-        {
-          "name": "Fountains Of Wayne",
-          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Hey Julie",
-      "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Plastic Ono Band",
-        "url": "https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Working Class Hero - Remastered 2010",
-      "url": "https://open.spotify.com/track/1yKQBy7olMIqRpziyAzf8c"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
         },
         {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
         }
       ],
-      "duration_ms": 189613,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
+      "duration_ms": 333154,
+      "name": "My Shot",
+      "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+        "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1woCvthHJakakroP6dXNxs"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
         }
       ],
-      "duration_ms": 255875,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+      "duration_ms": 353920,
+      "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "url": "https://open.spotify.com/track/184HGdGIscUiPbDuqbvHuN"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Swamp Ophelia",
-        "url": "https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21"
+        "name": "Be More Chill (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/0758cp4h8LSZeLRzrKx2XM"
       },
       "artists": [
         {
-          "name": "Indigo Girls",
-          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+          "name": "George Salazar",
+          "url": "https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB"
         }
       ],
-      "duration_ms": 322333,
-      "name": "Power Of Two",
-      "url": "https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC"
+      "duration_ms": 297573,
+      "name": "Michael in the Bathroom",
+      "url": "https://open.spotify.com/track/1L3wn1FJHmnv9OpjVbkMzY"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "The Best: Loggins & Messina Sittin' In Again",
-        "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
+        "name": "Fun Home (A New Broadway Musical)",
+        "url": "https://open.spotify.com/album/2GKE26bq2o8qoukpNlZnrh"
       },
       "artists": [
         {
-          "name": "Loggins & Messina",
-          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
+          "name": "Jeanine Tesori",
+          "url": "https://open.spotify.com/artist/3bW9aRkzZhlE53ca3djW8Z"
+        },
+        {
+          "name": "Lisa Kron",
+          "url": "https://open.spotify.com/artist/1vrC8QDkFBw7mkWShqEcXZ"
+        },
+        {
+          "name": "Sydney Lucas",
+          "url": "https://open.spotify.com/artist/2NC0NvcP3iJvpCPepplwof"
+        },
+        {
+          "name": "Beth Malone",
+          "url": "https://open.spotify.com/artist/60zvRmhQHRxokEB1taAVpN"
         }
       ],
-      "duration_ms": 190573,
-      "name": "A Love Song",
-      "url": "https://open.spotify.com/track/02ozRCoTjCxJXCyuFW8QUi"
+      "duration_ms": 187120,
+      "name": "Ring of Keys",
+      "url": "https://open.spotify.com/track/2zTjKIhgvU7mt6pbkWdzhi"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+        "name": "The Book Of Mormon (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI"
       },
       "artists": [
         {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+          "name": "Andrew Rannells",
+          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/3JzGBxl3Es2esakXzcIgre"
+        },
+        {
+          "name": "Rory O'Malley",
+          "url": "https://open.spotify.com/artist/3DvBdTdxzVtwQGY7IZTyvE"
+        },
+        {
+          "name": "Kevin Duda",
+          "url": "https://open.spotify.com/artist/5oqdjNuVZvyprDl56zhQnd"
+        },
+        {
+          "name": "Clark Johnsen",
+          "url": "https://open.spotify.com/artist/3ipd8nun05nkBToP5CjVHg"
+        },
+        {
+          "name": "Justin Bohon",
+          "url": "https://open.spotify.com/artist/4cI6V9bpNAORC3HFI0g2lQ"
+        },
+        {
+          "name": "Brian Sears",
+          "url": "https://open.spotify.com/artist/7rzCmTlsErSE6pVWeGRmhh"
+        },
+        {
+          "name": "Scott Barnhardt",
+          "url": "https://open.spotify.com/artist/0dkGWfQ3rOJjx6udgfHZL5"
+        },
+        {
+          "name": "Benjamin Schrader",
+          "url": "https://open.spotify.com/artist/7uaRq4n32htpYq2fe7Uduw"
+        },
+        {
+          "name": "Lewis Cleale",
+          "url": "https://open.spotify.com/artist/2PFf6gKpBf2mMnxqKz6YRA"
+        },
+        {
+          "name": "Jason Michael Snow",
+          "url": "https://open.spotify.com/artist/0xYYMypmsbvrRolxW1OyeL"
         }
       ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+      "duration_ms": 172026,
+      "name": "Hello!",
+      "url": "https://open.spotify.com/track/08hlFtp8y9S6YZmjBNvQ1I"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+        "name": "Waitress (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
       },
       "artists": [
         {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+          "name": "Jessie Mueller",
+          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+      "duration_ms": 260573,
+      "name": "She Used to Be Mine",
+      "url": "https://open.spotify.com/track/7CBrUf50mf2IqcRZla38by"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+        "name": "Passing Strange (Original Broadway Cast Recording / Live)",
+        "url": "https://open.spotify.com/album/4Y8UFWcgkxGGwKROxZA6sk"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Stew",
+          "url": "https://open.spotify.com/artist/4fXHnELBx986GW9ha8lI2e"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+      "duration_ms": 205346,
+      "name": "Keys (It's Alright) - Live",
+      "url": "https://open.spotify.com/track/7gN37Jx3PJzr5pcuryhcI1"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Solid Air",
-        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
+        "name": "The Light in the Piazza",
+        "url": "https://open.spotify.com/album/72MYWRFsmd7SJ2zPZZmeMm"
       },
       "artists": [
         {
-          "name": "John Martyn",
-          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
+          "name": "Mark Harelik",
+          "url": "https://open.spotify.com/artist/45OafIY8d7nUESAvMxDF3L"
+        },
+        {
+          "name": "Sarah Uriarte Berry",
+          "url": "https://open.spotify.com/artist/48VqIWqwjLW8E1zWLaOUAL"
+        },
+        {
+          "name": "Patti Cohenour",
+          "url": "https://open.spotify.com/artist/0vqY2Mc7IBz74KK3k77TJW"
+        },
+        {
+          "name": "Adam Guettel",
+          "url": "https://open.spotify.com/artist/6UJMGTzCvEMmjfFlj34gPU"
         }
       ],
-      "duration_ms": 220493,
-      "name": "May You Never",
-      "url": "https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP"
+      "duration_ms": 181920,
+      "name": "The Light in the Piazza",
+      "url": "https://open.spotify.com/track/6juPr9kdvYkAPthKmEX14F"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Original Broadway Cast of Dear Evan Hansen",
+          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+      "duration_ms": 236360,
+      "name": "Waving Through A Window",
+      "url": "https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "#1 Record",
-        "url": "https://open.spotify.com/album/1BumwwIEw1EC3xAHyf1ive"
+        "name": "Avenue Q (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4Ok0WpQf9ucxEbd0wJV5Cx"
       },
       "artists": [
         {
-          "name": "Big Star",
-          "url": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM"
+          "name": "Stephanie D'Abruzzo",
+          "url": "https://open.spotify.com/artist/2bvaL0chaHzVdKXjULRLeK"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/3BQLTtpQOYGXQY2lT3ZZeU"
+      "duration_ms": 159946,
+      "name": "There's a Fine, Fine Line",
+      "url": "https://open.spotify.com/track/2W7wqrmruKE07zZCg8rSdm"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Monuments And Melodies",
-        "url": "https://open.spotify.com/album/2gmvT6iSrWcxDT1tQMvp1c"
+        "name": "In the Heights (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "'In The Heights' Original Broadway Company",
+          "url": "https://open.spotify.com/artist/0kvp9mzfvoXvGtjSWTgrEb"
         }
       ],
-      "duration_ms": 216066,
-      "name": "A Certain Shade Of Green - Acoustic Version",
-      "url": "https://open.spotify.com/track/6P2DVhW1mmHSKQLfqkxLmO"
+      "duration_ms": 458906,
+      "name": "In the Heights",
+      "url": "https://open.spotify.com/track/4dS1QQw8askb1KSDLCKuvK"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "So Far",
-        "url": "https://open.spotify.com/album/5C1NUv7hNWS6n0GBtLetKM"
+        "name": "The Scottsboro Boys (Broadway) [Original Off Broadway Cast Recording]",
+        "url": "https://open.spotify.com/album/6xTXznnv9FBrDjtDehp7F9"
       },
       "artists": [
         {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+          "name": "Brandon Victor Dixon",
+          "url": "https://open.spotify.com/artist/3rIXaFZEmvRxMDdxvkg5g2"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Helplessly Hoping",
-      "url": "https://open.spotify.com/track/40WeJU3odsbq1fXNbub4nh"
+      "duration_ms": 206826,
+      "name": "Commencing In Chattanooga",
+      "url": "https://open.spotify.com/track/6qGJolh0hfI9P1pBv3qCuB"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+          "name": "Andr\u00e9 De Shields",
+          "url": "https://open.spotify.com/artist/0vtjXmCLNmJti4fJ5dBhxc"
+        },
+        {
+          "name": "Reeve Carney",
+          "url": "https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U"
+        },
+        {
+          "name": "Jewelle Blackman",
+          "url": "https://open.spotify.com/artist/4TBsKdA7190eaHM5E2HQI9"
+        },
+        {
+          "name": "Yvette Gonzalez-Nacer",
+          "url": "https://open.spotify.com/artist/5wUluB4hpO7rTnPSUCqJNT"
+        },
+        {
+          "name": "Kay Trinidad",
+          "url": "https://open.spotify.com/artist/7yWvIWQVF6Cfj5YTsrHIin"
+        },
+        {
+          "name": "Kimberly Marable",
+          "url": "https://open.spotify.com/artist/6fIpXrHv1mcqHo29dnmX1G"
+        },
+        {
+          "name": "Timothy Hughes",
+          "url": "https://open.spotify.com/artist/2CJ8jlnx3VMhVsqcjMHAWM"
+        },
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        },
+        {
+          "name": "Malcolm Armwood",
+          "url": "https://open.spotify.com/artist/0ddK8xNO0a7477c5NCwoGP"
+        },
+        {
+          "name": "Jessie Shelton",
+          "url": "https://open.spotify.com/artist/2fpFaqhr6d1JZ47hlYuIcs"
+        },
+        {
+          "name": "John Krause",
+          "url": "https://open.spotify.com/artist/3Wa7IOA9h3Ns3mMarjkQwL"
+        },
+        {
+          "name": "Ahmad Simmons",
+          "url": "https://open.spotify.com/artist/3KpWvpRW5ZDfndzjomuCee"
+        },
+        {
+          "name": "Khaila Wilcoxon",
+          "url": "https://open.spotify.com/artist/5RIgtgu0pFYmr2cUYvJKcM"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "T. Oliver Reid",
+          "url": "https://open.spotify.com/artist/2U42kkryvXvMw8BpRRVNvb"
+        },
+        {
+          "name": "Afra Hines",
+          "url": "https://open.spotify.com/artist/5GAvM5WeDGDmv2cPDPf8Sx"
         }
       ],
-      "duration_ms": 181093,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/2S7hH8gCuwlqL8vqia3eJp"
+      "duration_ms": 214961,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/1dARoUpgYHvx33Qp8dawsZ"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+        "name": "The Full Monty (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1ryQjSxXsdtphq71mCKf9z"
       },
       "artists": [
         {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+          "name": "Patrick Wilson",
+          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
+        },
+        {
+          "name": "John Ellison Conlee",
+          "url": "https://open.spotify.com/artist/2wt01uw4v4E5FFkGKdV42b"
+        },
+        {
+          "name": "Jason Danieley",
+          "url": "https://open.spotify.com/artist/0WZeAgkdC5N2uTCrTBUttb"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+      "duration_ms": 222800,
+      "name": "Big-Ass Rock",
+      "url": "https://open.spotify.com/track/6osv3rF9FO5P8uDlhy9TXu"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+        "name": "25th Annual Putnam County Spelling Bee (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5SXDpZh8lHqquvkcbheIYa"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "25th Annual Putnam County Spelling Bee Original Cast",
+          "url": "https://open.spotify.com/artist/66tdbpspqaHM1cPkBTC0WU"
         }
       ],
-      "duration_ms": 235391,
-      "name": "So Far Away",
-      "url": "https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl"
+      "duration_ms": 172040,
+      "name": "Pandemonium",
+      "url": "https://open.spotify.com/track/49Owuv1yJT9ndKe84pUNXH"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+        "name": "Rise Up! Hamilton: The Anthology",
+        "url": "https://open.spotify.com/album/3acdMj3FtDCQK0rAjcEVfp"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
         }
       ],
-      "duration_ms": 174717,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+      "duration_ms": 329228,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/5kMTLVgHv7DOAWGpItkWHp"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "Hairspray (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3XPjEfpawBvohxBMDXwXXW"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Marissa Jaret Winokur",
+          "url": "https://open.spotify.com/artist/4zdCODAJOsWFl6I9H7z1bX"
+        },
+        {
+          "name": "Original Broadway Cast of Hairspray",
+          "url": "https://open.spotify.com/artist/2fonmVretCT6oQ7woD6p4E"
         }
       ],
-      "duration_ms": 200066,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
+      "duration_ms": 220426,
+      "name": "Good Morning Baltimore",
+      "url": "https://open.spotify.com/track/5HDLfQNN2AwAZWqzjDLxb5"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Goats Head Soup (Deluxe)",
-        "url": "https://open.spotify.com/album/5Q7oMv5dx9VinYxveFZNsn"
+        "name": "Bloody Bloody Andrew Jackson (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/2d1txV0ZnQIh8qq2pBjRO4"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Bloody Bloody Andrew Jackson Original Cast",
+          "url": "https://open.spotify.com/artist/3jY0FDQ23jyQdWbDHDnpam"
         }
       ],
-      "duration_ms": 272173,
-      "name": "Angie - Giles Martin 2020 Mix",
-      "url": "https://open.spotify.com/track/1TJyjAa6rHkEZZpRS41rUp"
+      "duration_ms": 126733,
+      "name": "Populism, Yea Yea",
+      "url": "https://open.spotify.com/track/2YokxhfpmCqPjUNhgbQY7M"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "American Beauty (50th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2iR2R1AJPBqRQEMZ5TnG0y"
+        "name": "Newsies (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
       },
       "artists": [
         {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Newsies Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/6yTc5YHDriVSWYq8vPA4Xi"
         }
       ],
-      "duration_ms": 248160,
-      "name": "Ripple - 2020 Remaster",
-      "url": "https://open.spotify.com/track/4aQ8mFkZU6dmHaZOOKdscc"
+      "duration_ms": 308408,
+      "name": "Carrying The Banner",
+      "url": "https://open.spotify.com/track/1PK3BtcF1Dvfd8a24Xejaj"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Moondance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
+        "name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3Ohwm7WsUS6AJd56VnNlJX"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Den\u00e9e Benton",
+          "url": "https://open.spotify.com/artist/3bBNMFp7jH66nWZYYIzqc6"
         }
       ],
-      "duration_ms": 205613,
-      "name": "Into the Mystic - 2013 Remaster",
-      "url": "https://open.spotify.com/track/1lxVGQgbt0g7mMkmevl9Bm"
+      "duration_ms": 260746,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/6pPpMCJlAzXN78LYDS8Zxf"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "All That We Needed",
-        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+        "name": "Next To Normal (Original Broadway Cast Recording) [15th Anniversary Edition] [2024 Remix & Remaster]",
+        "url": "https://open.spotify.com/album/5CTQvGzc8g8WgagM3XeHzQ"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "Jennifer Damiano",
+          "url": "https://open.spotify.com/artist/64sJUOKAnROFdxjvpGxvl5"
+        },
+        {
+          "name": "Aaron Tveit",
+          "url": "https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx"
+        },
+        {
+          "name": "Alice Ripley",
+          "url": "https://open.spotify.com/artist/7KLUKenP88WNsnb7MKa70M"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+      "duration_ms": 128039,
+      "name": "Superboy and the Invisible Girl - 2024 Remix & Remaster",
+      "url": "https://open.spotify.com/track/2B9slMcknpWPGLRVuPVBBK"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+        "name": "Jersey Boys Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/5sCVURwZOOd13unG0uJmNX"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "Jersey Boys",
+          "url": "https://open.spotify.com/artist/28W9apMi2vgk9O9LnkijIC"
         }
       ],
-      "duration_ms": 340775,
-      "name": "Tangled up in Blue",
-      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
+      "duration_ms": 134506,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/11r0OH8zYLcBlryvnAiykT"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Don Quixote",
-        "url": "https://open.spotify.com/album/6J26uMCfqKMnm6CNbcIPJ7"
+        "name": "Caroline, Or Change (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4xCBLHCoWZqUuqXB7dSdq9"
       },
       "artists": [
         {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+          "name": "Tonya Pinkins",
+          "url": "https://open.spotify.com/artist/0CLEZQ0v0frW1XwJc16Jfw"
+        },
+        {
+          "name": "Capathia Jenkins",
+          "url": "https://open.spotify.com/artist/5H1CXdmI54UYSyddUJuwAG"
         }
       ],
-      "duration_ms": 203840,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1vRXK3F03wbFnCPmjryyEm"
+      "duration_ms": 105080,
+      "name": "16 Feet Beneath The Sea",
+      "url": "https://open.spotify.com/track/3pdtFyewcCT1HJPaG6o90N"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Californication",
-        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
+        "name": "Aida - Broadway Cast Album",
+        "url": "https://open.spotify.com/album/4wpEUSqcvIgEjAuQZ64JNa"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Women of the Palace",
+          "url": "https://open.spotify.com/artist/70Z0cZWRiRGM4D9FiYdeBR"
+        },
+        {
+          "name": "Sherie Rene Scott",
+          "url": "https://open.spotify.com/artist/2I5SzHTskqEe8LJl4IvwnT"
         }
       ],
-      "duration_ms": 204960,
-      "name": "Road Trippin'",
-      "url": "https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q"
+      "duration_ms": 315080,
+      "name": "My Strongest Suit",
+      "url": "https://open.spotify.com/track/7iLxAfUXcreZIabBXhtXPL"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+        "name": "Spring Awakening (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3aiuPuezy2yAwt4uvBUZxY"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "John Gallagher Jr.",
+          "url": "https://open.spotify.com/artist/20HJ0KBphamOUmXI1uG1z6"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/3h0UstEidZYyYdb4F4qeSy"
+        },
+        {
+          "name": "Jonathan B. Wright",
+          "url": "https://open.spotify.com/artist/4sC25H6noNOw0akd01pXvN"
+        },
+        {
+          "name": "Gideon Glick",
+          "url": "https://open.spotify.com/artist/38LQlt0tB9RLgsCf3p1xDn"
+        },
+        {
+          "name": "Skylar Astin",
+          "url": "https://open.spotify.com/artist/1QXyMGVMzdhyM5efhg3m3j"
+        },
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
         }
       ],
-      "duration_ms": 316015,
-      "name": "Sunshine On My Shoulders",
-      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
+      "duration_ms": 172266,
+      "name": "The Bitch Of Living - Original Broadway Cast Recording/2006",
+      "url": "https://open.spotify.com/track/16BIv1FQh44e4IyRlnzTaQ"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+        "name": "The Producers (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1OD5J8DxkYyS0WBOnuX4OX"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Gary Beach",
+          "url": "https://open.spotify.com/artist/0OckhIDFyA68SQXxyefMcH"
+        },
+        {
+          "name": "Roger Bart",
+          "url": "https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b"
+        },
+        {
+          "name": "Peter Marinos",
+          "url": "https://open.spotify.com/artist/3hQ5x19d0OOFtPyQzb3SpH"
+        },
+        {
+          "name": "Ray Wills",
+          "url": "https://open.spotify.com/artist/4asfLZMvOu2NjT4U1djwNs"
+        },
+        {
+          "name": "Jeffry Denman",
+          "url": "https://open.spotify.com/artist/5RJzb7VAS2BkMm7mpcLoOV"
+        },
+        {
+          "name": "Kathy Fitzgerald",
+          "url": "https://open.spotify.com/artist/4UPW83dmZfAXjyV2SjXW3u"
+        },
+        {
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+        },
+        {
+          "name": "Matthew Broderick",
+          "url": "https://open.spotify.com/artist/67e4oTnYalF7cutrWJB7dG"
+        },
+        {
+          "name": "Original Broadway Cast of The Producers",
+          "url": "https://open.spotify.com/artist/5NL9v6KR46cpVGigM6tLoo"
         }
       ],
-      "duration_ms": 208093,
-      "name": "Home - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
+      "duration_ms": 307906,
+      "name": "Keep It Gay",
+      "url": "https://open.spotify.com/track/6jUZ27rzs0wtkqFcFpdoP5"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Girls And Boys",
-        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
+        "name": "A Gentleman's Guide to Love and Murder (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1uCR6BcuolVN7Fk61dtTfI"
       },
       "artists": [
         {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+          "name": "Lauren Worsham",
+          "url": "https://open.spotify.com/artist/3MbRbDU0M6lbr2Blpz0573"
+        },
+        {
+          "name": "Lisa O'Hare",
+          "url": "https://open.spotify.com/artist/2Op4u1nTAsHksEynDykzdL"
+        },
+        {
+          "name": "Bryce Pinkham",
+          "url": "https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd"
         }
       ],
-      "duration_ms": 135386,
-      "name": "The Way I Am",
-      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
+      "duration_ms": 243600,
+      "name": "I've Decided to Marry You",
+      "url": "https://open.spotify.com/track/4nIr81QHOj9wDl1MOh3oJZ"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "The Singer and the Song",
-        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+        "name": "Women On The Verge Of A Nervous Breakdown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/7bWTn7yKVycRyvpOUcE8eP"
       },
       "artists": [
         {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+          "name": "Laura Benanti",
+          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
         }
       ],
-      "duration_ms": 100746,
-      "name": "Bless the Telephone",
-      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
+      "duration_ms": 310400,
+      "name": "Model Behavior",
+      "url": "https://open.spotify.com/track/5pFcqJsMLCaWVfqcbPf3s7"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "Bad Company (Deluxe)",
-        "url": "https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p"
+        "name": "Urinetown The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3Gckm2aWdGEXhVco2dklC6"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "Hunter Foster",
+          "url": "https://open.spotify.com/artist/43BnUJBWDZs1vEHVIStQRR"
+        },
+        {
+          "name": "Rick Crom",
+          "url": "https://open.spotify.com/artist/0zHHDaS9I0KpSOazf9dwOG"
+        },
+        {
+          "name": "Ken Jennings",
+          "url": "https://open.spotify.com/artist/1RFTi2xW0l7TYzduCBKnTX"
+        },
+        {
+          "name": "Megan Lawrence",
+          "url": "https://open.spotify.com/artist/7hNPP1C4xZP0eYlUAhvyjp"
+        },
+        {
+          "name": "Rachel Coloff",
+          "url": "https://open.spotify.com/artist/4FC374Ps5r1UFxDWn0M5yI"
+        },
+        {
+          "name": "Victor W. Hawks",
+          "url": "https://open.spotify.com/artist/293GuVObI7zzrgZUDogL5D"
+        },
+        {
+          "name": "Spencer Kayden",
+          "url": "https://open.spotify.com/artist/2zcTjMYnEEEHeFsZ9x0L2m"
+        },
+        {
+          "name": "Lawrence Street",
+          "url": "https://open.spotify.com/artist/2EQwysDW4VsyWBK7kWb7Sc"
+        },
+        {
+          "name": "Kay Walbye",
+          "url": "https://open.spotify.com/artist/7FqD3vKOfcHLO2HFH3Om2k"
         }
       ],
-      "duration_ms": 244840,
-      "name": "Seagull - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6jA05EM7TTFpWKwBQr5Isf"
+      "duration_ms": 170266,
+      "name": "Run, Freedom, Run!",
+      "url": "https://open.spotify.com/track/71PN5ixhorH1y4eHVbvjO4"
     },
     {
-      "added_at": "2026-09-24 04:00:12",
+      "added_at": "2026-10-01 04:00:30",
       "album": {
-        "name": "She's the One (Songs and Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
+        "name": "Curtains Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/2jWGFpmXXiseZZknfUlkRn"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "The Original Broadway Cast Of 'Curtains'",
+          "url": "https://open.spotify.com/artist/3kqfE6D4V8timYamp7iIyr"
         }
       ],
-      "duration_ms": 147800,
-      "name": "Angel Dream (No. 4)",
-      "url": "https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Going to California - Remaster",
-      "url": "https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "Jar Of Flies",
-        "url": "https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "Don't Follow",
-      "url": "https://open.spotify.com/track/7CI0VS6ETno5mgHi4PoCrY"
-    },
-    {
-      "added_at": "2026-09-24 04:00:12",
-      "album": {
-        "name": "The Places You Have Come to Fear the Most",
-        "url": "https://open.spotify.com/album/2b6f60fUMb0wSWWyFXBLfv"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Screaming Infidelities",
-      "url": "https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09"
+      "duration_ms": 308040,
+      "name": "I Miss The Music",
+      "url": "https://open.spotify.com/track/21Tt9GCioap9Z4Kb7VI3RE"
     }
   ],
   "unique_name": "Throwback Thursday",

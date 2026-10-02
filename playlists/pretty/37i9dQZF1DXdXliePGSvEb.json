@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78615,
+  "num_followers": 78619,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Song for You / The Wizard",
-        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Song for You",
-      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 170526,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Song for You / The Wizard",
+        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "TRUE MAGIC, DELUXE",
         "url": "https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 255983,
       "name": "gbesoke",
       "url": "https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp"
     },
     {
       "added_at": "2025-12-03 12:15:55",

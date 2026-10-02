@@ -3021,6 +3021,24 @@
     },
     {
       "album": {
+        "name": "Addicted to You",
+        "url": "https://open.spotify.com/album/1Kzu9HlqAOUwJYN09hmCZf"
+      },
+      "artists": [
+        {
+          "name": "Julia Byers",
+          "url": "https://open.spotify.com/artist/0FEeqEUVkJ0QwnAOYKYOWg"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221669,
+      "name": "Addicted to You",
+      "url": "https://open.spotify.com/track/6KOSNvI2HpDyd79qhhUcM6"
+    },
+    {
+      "album": {
         "name": "Kris James",
         "url": "https://open.spotify.com/album/4kSYwT6XJPQHMKmey578XS"
       },
@@ -27350,7 +27368,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 321240,
       "name": "Dinosaur Blues",
       "url": "https://open.spotify.com/track/6iCxcGxKqXO3nsu9qC6RcR"
@@ -51921,6 +51939,24 @@
     },
     {
       "album": {
+        "name": "I WAS LEAVING",
+        "url": "https://open.spotify.com/album/0FkycajqlV5iI1xuomBVCo"
+      },
+      "artists": [
+        {
+          "name": "Tom Morgan",
+          "url": "https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202813,
+      "name": "I WAS LEAVING",
+      "url": "https://open.spotify.com/track/5zFC45bAUMmXMd9rGQOoox"
+    },
+    {
+      "album": {
         "name": "I Will Always Be",
         "url": "https://open.spotify.com/album/7EWAv9u3WQE4K3v0ZmNJQ4"
       },
@@ -58290,6 +58326,24 @@
       "duration_ms": 165825,
       "name": "Kitty Cat",
       "url": "https://open.spotify.com/track/5GxI6UFqiB21CUUttI6Olp"
+    },
+    {
+      "album": {
+        "name": "Klassy",
+        "url": "https://open.spotify.com/album/1LWPRZRMsUbj8XZB3oL4cK"
+      },
+      "artists": [
+        {
+          "name": "God1ne",
+          "url": "https://open.spotify.com/artist/5UInoSdZgBHrdjBOP6rtdq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Klassy",
+      "url": "https://open.spotify.com/track/1MiddECcfTYG3On2bK8LSo"
     },
     {
       "album": {
@@ -91678,7 +91732,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 232760,
       "name": "Same Train",
       "url": "https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N"
@@ -106616,7 +106670,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 218174,
       "name": "The Company I Keep",
       "url": "https://open.spotify.com/track/2CHOEHU3zkZ2oPYGyyGEj3"
@@ -114013,6 +114067,24 @@
     },
     {
       "album": {
+        "name": "Halfway to Yours",
+        "url": "https://open.spotify.com/album/2gyIMhyQiQG0w8afs17wNS"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147945,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/4WQIv2PCAdX59S9pXDzxBS"
+    },
+    {
+      "album": {
         "name": "Under One Love",
         "url": "https://open.spotify.com/album/19tlUtXC4gNThMZ67UgWZn"
       },
@@ -119082,7 +119154,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 286480,
       "name": "What the Fudd?",
       "url": "https://open.spotify.com/track/5LCPHnAIoxc0Os4erxSgy7"
@@ -119154,7 +119226,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 168271,
       "name": "What Will I Do",
       "url": "https://open.spotify.com/track/4Hw6L4yWjgPfQR6g3hKNn0"

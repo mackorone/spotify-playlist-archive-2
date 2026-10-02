@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Inoya House
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: More on Mumbles
 
-584 songs - 1 day 13 hr 10 min
+586 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Anti ∞ Hero](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero](https://open.spotify.com/album/61uE81t3kSjEmDS2GPIkZ6) | 3:30 | 2024-10-24 |  |
 | [Anti ∞ Hero \- Orchestra](https://open.spotify.com/track/4XF1ufaENddFlVFaU283EO) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero The Legend is Born](https://open.spotify.com/album/5EtARuImOLEphaDZnoZNO7) | 3:30 | 2025-08-28 |  |
 | [Anti ∞ Hero \- Slowed + Reverb](https://open.spotify.com/track/3xN6I7qZ8bODMXGuMLrfZn) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero \(Alternate Version\)](https://open.spotify.com/album/71dJyWzzP0QSIUq8enWZrR) | 4:33 | 2024-12-13 |  |
+| [Api & Mimpi](https://open.spotify.com/track/1yWsyGf3RB7iyJ2lDrScGy) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Api & Mimpi](https://open.spotify.com/album/4voFfF4wEKMt8djQ2Lqbkc) | 4:47 | 2026-10-02 |  |
 | [Arutala](https://open.spotify.com/track/4dRV4oxoLxMy9ipgXXmpr6) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Arutala](https://open.spotify.com/album/7KIj8dXkRxlSYeL0V896PW) | 4:45 | 2024-07-24 | 2025-09-26 |
 | [As Falsas](https://open.spotify.com/track/0qPLO41igft7jd9NzSFOKd) | [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt), [Shinjoko](https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i) | [As Falsas](https://open.spotify.com/album/1wXWG6BuyyS9oQMHMvSg9t) | 3:57 | 2025-07-17 | 2025-10-24 |
 | [Attention](https://open.spotify.com/track/2J1l4yVdYwMke3ydYgn2Mz) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Attention](https://open.spotify.com/album/2WF2HCZZ6frFnyPrRGRL2P) | 3:24 | 2025-10-23 | 2026-02-13 |
@@ -475,6 +476,7 @@
 | [Serong Ke Kiri Serong Ke Kanan](https://open.spotify.com/track/5r95lj5VLGbgbqZBAYMhtt) | [The Goddamn!!!](https://open.spotify.com/artist/4XWLrH0bvZ6RQ3cb7u5loF) | [Merona Jingga](https://open.spotify.com/album/6VLPvJ8y53yAAuMBi0U7ys) | 2:54 | 2025-09-11 | 2025-11-29 |
 | [Sesuai Alamat](https://open.spotify.com/track/6o0UKm6wVgT05UF7bIaICA) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sesuai Alamat](https://open.spotify.com/album/1AP00EY3tql8UUmsalTx48) | 2:44 | 2026-03-05 | 2026-05-09 |
 | [Sesuka Hatimu](https://open.spotify.com/track/5UNhW9Gna0wtdu0h6o958W) | [GUNGS](https://open.spotify.com/artist/174qi9GGFldNKbeeQ3qM1h) | [Sesuka Hatimu / Entah Sama](https://open.spotify.com/album/2Xf4yCxHQ4TIzYAQmR58j3) | 3:06 | 2025-07-17 | 2025-10-24 |
+| [Setidaknya Kita Selamat](https://open.spotify.com/track/659GJrtXBYW1P1t3yW0KnZ) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [Setidaknya Kita Selamat](https://open.spotify.com/album/31MJNK88OpMPpJsRKFDDY9) | 3:58 | 2026-10-02 |  |
 | [Shower Scene](https://open.spotify.com/track/72Dl7jvzIzz8tYxfdvem6x) | [Sourmilk](https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq) | [A Collection of Absurd Ideas](https://open.spotify.com/album/3eKJ4Y8KFK98fKfwNrgzlq) | 4:03 | 2025-07-24 | 2025-10-03 |
 | [Si Baik](https://open.spotify.com/track/3z95u68kKOJR6mWHhll5yq) | [Inoya House](https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB) | [Si Baik](https://open.spotify.com/album/4XX0Rgksb8B562ynOz63oV) | 4:16 | 2026-06-26 |  |
 | [Si Bungsu](https://open.spotify.com/track/1MomZLrxTcSX1mXUCwxZdy) | [Sambadha](https://open.spotify.com/artist/7xKSiJ3Qq4uul4QDeq5cu9) | [Si Bungsu](https://open.spotify.com/album/2p7F424qcATGk0mezA7qfF) | 3:01 | 2026-03-05 |  |

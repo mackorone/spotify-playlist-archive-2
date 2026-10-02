@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,734 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,742 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 10 | [TUKI TUKI](https://open.spotify.com/track/5lZ8kgIFTHbu1PrwMj3Tqr) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 3:11 |
 | 11 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 |
 | 12 | [El Beneficio De La Duda](https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 4:05 |
-| 13 | [Peli De Terror](https://open.spotify.com/track/0JJHZJCLquYTulx3unxiUH) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Peli De Terror](https://open.spotify.com/album/5cTvoMY9dAjNe6GuGQfdNJ) | 2:42 |
+| 13 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
 | 14 | [GANAS REMIXXX \(feat\. De La Rose, Blessd\)](https://open.spotify.com/track/55knkuzL7hByREAumJcj3q) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [GANAS REMIXXX \(feat\. De La Rose, Blessd\)](https://open.spotify.com/album/5j9jw0AIRC6f0NjJWRdDMi) | 8:01 |
 | 15 | [SUPERSTAR](https://open.spotify.com/track/7rbUoVsxRtX2t5nzXhJcX0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [SUPERSTAR](https://open.spotify.com/album/41J20QpusXwXJmrsIKKyez) | 3:14 |
 | 16 | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w) | 3:39 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 40 | [Doma](https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:08 |
 | 41 | [Ya Borracho](https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Noches Sin Fin](https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM) | 2:38 |
 | 42 | [GANAS](https://open.spotify.com/track/5OkwPct5Y1q8nv7EygJOZo) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Dimelo Magic](https://open.spotify.com/artist/1s09WzlGc9wC1ChjTOiMtg), [OGBOOY](https://open.spotify.com/artist/0FHcoqof3mhgLgcPGW8EAF) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 3:10 |
-| 43 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
+| 43 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
 | 44 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
 | 45 | [Mentira](https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Mentira](https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6) | 2:36 |
 | 46 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Virgen](https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/126xvNTHDugqvllz6O0v4h) | 4:31 |
 | 50 | [SORNERO](https://open.spotify.com/track/0SEULBjjfkZEJUBF8Jxnou) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [EL PEOR HOMBRE DEL MUNDO](https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb) | 2:52 |
 
-Snapshot ID: `MlCN4AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlHfYAAAAAAAAAAAAAAAAAAAAAAAAGVu`

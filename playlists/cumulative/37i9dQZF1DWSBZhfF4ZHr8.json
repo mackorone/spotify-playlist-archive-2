@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Pierre de Maere & Clara Luciani.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec marguerite.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -820,7 +820,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165333,
       "name": "Boost\u00e9",
       "url": "https://open.spotify.com/track/16IuR7rJKqCkeOfr5jpD4o"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 209386,
       "name": "cartable",
       "url": "https://open.spotify.com/track/0wtQBam3tmqnuZlelqR2Hc"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 196970,
       "name": "D'or et d'\u00e9tain",
       "url": "https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf"
@@ -3305,6 +3305,28 @@
     },
     {
       "album": {
+        "name": "HOL\u00c0 QUE TAL",
+        "url": "https://open.spotify.com/album/4uNs7qYlEeiCLrKD7arha9"
+      },
+      "artists": [
+        {
+          "name": "Kano\u00e9",
+          "url": "https://open.spotify.com/artist/7jUHzlUQxkrsszeYAIqHCY"
+        },
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "HOL\u00c0 QUE TAL",
+      "url": "https://open.spotify.com/track/225wygqZ0HYFVpnVMMg51g"
+    },
+    {
+      "album": {
         "name": "Hors du temps",
         "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
       },
@@ -3637,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "j'laisse parler",
+        "url": "https://open.spotify.com/album/3mdQ9ydvdAiUNG8a5DC00K"
+      },
+      "artists": [
+        {
+          "name": "Ambre",
+          "url": "https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191741,
+      "name": "j'laisse parler",
+      "url": "https://open.spotify.com/track/4KQatk8mmIIOEsXRykvOPb"
+    },
+    {
+      "album": {
         "name": "J'm'en voudrais",
         "url": "https://open.spotify.com/album/7zbJLvOfTV4ldmVzY5DxO2"
       },
@@ -3742,7 +3782,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 189893,
       "name": "J'\u00e9changerais",
       "url": "https://open.spotify.com/track/5gMGpi4KPOzp8iDvJuCLSH"
@@ -3764,7 +3804,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 186000,
       "name": "Jamais",
       "url": "https://open.spotify.com/track/0eldDLympvtBACN1lWAA2s"
@@ -7787,6 +7827,24 @@
     },
     {
       "album": {
+        "name": "Plus rien \u00e0 offrir",
+        "url": "https://open.spotify.com/album/7CFxDyntooQjCRfesgXPvR"
+      },
+      "artists": [
+        {
+          "name": "Lena\u00efg",
+          "url": "https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183602,
+      "name": "Plus rien \u00e0 offrir",
+      "url": "https://open.spotify.com/track/0ElYW8dZgaoO2XYI6Saf1K"
+    },
+    {
+      "album": {
         "name": "Poup\u00e9e (Edit)",
         "url": "https://open.spotify.com/album/3AllFq7d0qGaXKaEfSDhTc"
       },
@@ -8200,6 +8258,24 @@
       "duration_ms": 155155,
       "name": "Quelle \u00e9poque",
       "url": "https://open.spotify.com/track/25ez46scpanlXxlyGX7oEN"
+    },
+    {
+      "album": {
+        "name": "Finalement l'amour",
+        "url": "https://open.spotify.com/album/5ciE0Rc421nDUjmPUFE4WW"
+      },
+      "artists": [
+        {
+          "name": "Kemmler",
+          "url": "https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129374,
+      "name": "Quelqu'un d'heureux",
+      "url": "https://open.spotify.com/track/2EE5pUEfUNSQ365QCmHMni"
     },
     {
       "album": {
@@ -10120,6 +10196,24 @@
       "duration_ms": 135612,
       "name": "Un jour de plus",
       "url": "https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg"
+    },
+    {
+      "album": {
+        "name": "gu\u00e9rir",
+        "url": "https://open.spotify.com/album/5SLhRamBJlp8UHE5VhKj5Y"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152906,
+      "name": "un peu beaucoup",
+      "url": "https://open.spotify.com/track/2ZNMr57GGEELFGV3w49qVT"
     },
     {
       "album": {

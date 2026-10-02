@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,658 likes - 39 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,661 likes - 38 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 19 | [Fade Your Heart](https://open.spotify.com/track/6HQcCZwTjqVeFsDha9U6YN) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Fade Your Heart](https://open.spotify.com/album/4bn5znqqxxF8NQwaoef4gY) | 3:34 |
 | 20 | [Kingdom](https://open.spotify.com/track/0RVEAF3XFF2dZFhI8O58JF) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:08 |
 | 21 | [London Mine](https://open.spotify.com/track/6vUIyI8EelA0GVKcwXOoai) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [London Mine](https://open.spotify.com/album/75Rq7SgoaIrr1CFQzUR7Nt) | 3:43 |
-| 22 | [Perfect Crime](https://open.spotify.com/track/6AiKuKk65VfgMUR9DpW9xG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:32 |
+| 22 | [Mathematics \(feat\. Kano\)](https://open.spotify.com/track/4tldGgVS1sF0HA0VzUcKK8) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:18 |
 | 23 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 |
 | 24 | [Poison](https://open.spotify.com/track/3yNLAcsyowTQ1GZUJUAXbH) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:31 |
 | 25 | [Darkest Hour](https://open.spotify.com/track/44gBofMgplbG0f1XQwTraO) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 3:36 |
-| 26 | [Mathematics \(feat\. Kano\)](https://open.spotify.com/track/4tldGgVS1sF0HA0VzUcKK8) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:18 |
+| 26 | [Perfect Crime](https://open.spotify.com/track/6AiKuKk65VfgMUR9DpW9xG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:32 |
 | 27 | [Man's World](https://open.spotify.com/track/59oGmgXiWsC4BSkskZ1uhV) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:42 |
 | 28 | [19th Floor](https://open.spotify.com/track/3fKmIoHvrhBQMOITJYeyeb) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:09 |
 | 29 | [HOW I'VE BEEN \(feat\. Joy Crookes, JNR Williams, Loyle Carner & Kojey Radical\)](https://open.spotify.com/track/0WfENrbos3cdD4TZaT4tEk) | [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [THE NEW WORLD](https://open.spotify.com/album/7mNF4Ef0UZpZyOc9NTOmx1) | 5:09 |
@@ -46,6 +46,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 36 | [Feet Don't Fail Me Now \(Joy Crookes\) \- slowed down](https://open.spotify.com/track/0wBIpIZk2GRPj0QS5irJ4j) | [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/56evPTmSOUt4bS3nmn9VNZ) | 3:44 |
 | 37 | [New Manhattan](https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:11 |
 | 38 | [Mahi Sona \(AKA The Wedding Song\) \- Joy Crookes Version](https://open.spotify.com/track/4oDFdxr8iodW5JubvDmjMt) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ), [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Billy Khan](https://open.spotify.com/artist/1uEVvjjSsBzSJ15mxDcR4J) | [What's Love Got to Do with It? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OtrHr6YssIB3dCg42g8qc) | 2:27 |
-| 39 | [Feet Don't Fail Me Now \- Part 2](https://open.spotify.com/track/0BMtk8UjLE6GhQiBlsBzQx) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Feet Don't Fail Me Now \(Part 2\)](https://open.spotify.com/album/5rq7GrviWeiO176U26pDvS) | 3:19 |
 
-Snapshot ID: `armuAAAAAAD/sEc/PRDtova84syR7yks`
+Snapshot ID: `arxRAAAAAAC7jj0+BCDhN11Ljj3PegJX`

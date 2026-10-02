@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,256 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,259 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fæddur til þess að vera þinn](https://open.spotify.com/track/4uUuzqYK8VMSHm8Ugf0BQx) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [Fæddur til þess að vera þinn](https://open.spotify.com/album/38Tyw3AWAHGy2MCN4SKRTs) | 4:05 |
-| 2 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
-| 3 | [Hugsa skýrt](https://open.spotify.com/track/3Pe74NsPbSjp1Kv2he8ZHr) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t) | [Hugsa skýrt](https://open.spotify.com/album/7sG8kELrHVV8esBSVfnzgK) | 2:09 |
-| 4 | [bararara](https://open.spotify.com/track/24wNSeNXxSruy3iDu9OSD5) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL) | [bararara](https://open.spotify.com/album/3FH7CWfONspUH95avG1TNA) | 2:30 |
-| 5 | [Hærra](https://open.spotify.com/track/0bEF1BlC30Co2sNjkeucfT) | [Séra Bjössi](https://open.spotify.com/artist/2Gnn51iidR6UIRSFc8vkHF), [REA](https://open.spotify.com/artist/2A2rwKj9sRgbaB8r3cXcFx), [Háski](https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE) | [Hærra](https://open.spotify.com/album/4JmkvpPkwtE07WREkhrz8J) | 2:55 |
-| 6 | [Hugsa alltof mikið um þig](https://open.spotify.com/track/2P9Q4Cnqe2XGkW4P6k0USl) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [Elín Hall](https://open.spotify.com/artist/1hfm4VS7hTtOZF08Qd9OTb) | [100&EINN](https://open.spotify.com/album/7CPUbHHNkEsGLZ9WJ5Lq97) | 2:45 |
-| 7 | [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 |
-| 8 | [Rokk Tónlist](https://open.spotify.com/track/5Urju4hVP9wVbiXRjs6c7k) | [Gross](https://open.spotify.com/artist/1LxLj4vppufRm90N3Avz7k) | [Rokk Tónlist](https://open.spotify.com/album/0MIZ50vG4zFhWs3s94Kfzq) | 1:55 |
+| 1 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
+| 2 | [Fæddur til þess að vera þinn](https://open.spotify.com/track/4uUuzqYK8VMSHm8Ugf0BQx) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [Fæddur til þess að vera þinn](https://open.spotify.com/album/38Tyw3AWAHGy2MCN4SKRTs) | 4:05 |
+| 3 | [ÚT](https://open.spotify.com/track/3m24tIcvw6Uu84F9bQ2bKN) | [NUSSUN](https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx) | [ÚT](https://open.spotify.com/album/7M1QvUgGaNM5tEPBQ5iqiR) | 3:12 |
+| 4 | [Hugsa skýrt](https://open.spotify.com/track/3Pe74NsPbSjp1Kv2he8ZHr) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t) | [Hugsa skýrt](https://open.spotify.com/album/7sG8kELrHVV8esBSVfnzgK) | 2:09 |
+| 5 | [bararara](https://open.spotify.com/track/24wNSeNXxSruy3iDu9OSD5) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL) | [bararara](https://open.spotify.com/album/3FH7CWfONspUH95avG1TNA) | 2:30 |
+| 6 | [Hærra](https://open.spotify.com/track/0bEF1BlC30Co2sNjkeucfT) | [Séra Bjössi](https://open.spotify.com/artist/2Gnn51iidR6UIRSFc8vkHF), [REA](https://open.spotify.com/artist/2A2rwKj9sRgbaB8r3cXcFx), [Háski](https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE) | [Hærra](https://open.spotify.com/album/4JmkvpPkwtE07WREkhrz8J) | 2:55 |
+| 7 | [Hugsa alltof mikið um þig](https://open.spotify.com/track/2P9Q4Cnqe2XGkW4P6k0USl) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [Elín Hall](https://open.spotify.com/artist/1hfm4VS7hTtOZF08Qd9OTb) | [100&EINN](https://open.spotify.com/album/7CPUbHHNkEsGLZ9WJ5Lq97) | 2:45 |
+| 8 | [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 |
 | 9 | [Stopp](https://open.spotify.com/track/5B6HbortdKqmO6fnR1LqSV) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z), [tatjana](https://open.spotify.com/artist/291ohykNwzL3QugnbCf4Ju) | [Stopp](https://open.spotify.com/album/0jxRKNAaXKXxE2jusA5Pfl) | 3:10 |
 | 10 | [BERDREYMI](https://open.spotify.com/track/4TF2zIRzf7lYueF8M3m10c) | [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN), [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [LEIKURINN ER LEIKURINN](https://open.spotify.com/album/68Q0d4B71X0kVm0eZUh0ZP) | 3:33 |
 | 11 | [Stjörnuhröp](https://open.spotify.com/track/536orMCZdnA0P1tKewcrHp) | [Gabríel](https://open.spotify.com/artist/67F83eXYeKrT54r4JxIo71), [Opee](https://open.spotify.com/artist/2cDX3y4WY7PdYwh8Imm0r5), [Valdimar Guðmundsson](https://open.spotify.com/artist/28FtvCIh12VQL6ggWDS1ps) | [Stjörnuhröp](https://open.spotify.com/album/4FlZbwNWO19SPnbqVxc8s1) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 49 | [Bernskan](https://open.spotify.com/track/42l2RMDpR6dKE8SSUzxdiG) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sátt](https://open.spotify.com/album/5MKoXI1asA8qMwmnPB4QHF) | 3:30 |
 | 50 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
 
-Snapshot ID: `AAAAAIHLRT19+G+yTSRuCD6g/4v5Ekbf`
+Snapshot ID: `AAAAAJydi/QF+OXMC/MpEp2ZvEAngCwF`

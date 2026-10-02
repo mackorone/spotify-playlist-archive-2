@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 367312,
+  "num_followers": 367500,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHkrTp18944gaG27NUAO3Gaq1RhN",
+  "snapshot_id": "AAAAAB5P2G4dTwR6RafGQHWvVvKYbmbM",
   "tracks": [
     {
       "added_at": "2026-09-23 13:23:25",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+      },
+      "artists": [
+        {
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+        }
+      ],
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Rainy morning",
         "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
-      },
-      "artists": [
-        {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
-        }
-      ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "II Reworked",
         "url": "https://open.spotify.com/album/1EsypK4DiuwCIWJKghB9Hy"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 254634,
       "name": "Spun - Kjartan Holm & Sin Fang Rework",
       "url": "https://open.spotify.com/track/4mZyu5iEEYugSPokqaFbx3"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "forgotten dreams",
+        "url": "https://open.spotify.com/album/2gkhloQAvOHRi5TMVFH4SU"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "forgotten dreams",
+      "url": "https://open.spotify.com/track/0L1h80QPKKEOgYhTsOSv2S"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Gazing Back At Earth",
         "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
       },
@@ -1163,6 +1183,22 @@
       "duration_ms": 213832,
       "name": "Out Of The Past",
       "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "distant feeling",
+        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
+      },
+      "artists": [
+        {
+          "name": "dreamzz",
+          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
+        }
+      ],
+      "duration_ms": 99600,
+      "name": "distant feeling",
+      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1199,42 +1235,6 @@
       "duration_ms": 262000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "distant feeling",
-        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
-      },
-      "artists": [
-        {
-          "name": "dreamzz",
-          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
-        }
-      ],
-      "duration_ms": 99600,
-      "name": "distant feeling",
-      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "forgotten dreams",
-        "url": "https://open.spotify.com/album/2gkhloQAvOHRi5TMVFH4SU"
-      },
-      "artists": [
-        {
-          "name": "Bluegaze",
-          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
-        },
-        {
-          "name": "hir\u00e6th",
-          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "forgotten dreams",
-      "url": "https://open.spotify.com/track/0L1h80QPKKEOgYhTsOSv2S"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "skies",
-        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
-      },
-      "artists": [
-        {
-          "name": "Blut Own",
-          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
-        },
-        {
-          "name": "Riversilvers",
-          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
-        }
-      ],
-      "duration_ms": 129998,
-      "name": "skies",
-      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "skies",
+        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
+      },
+      "artists": [
+        {
+          "name": "Blut Own",
+          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
+        },
+        {
+          "name": "Riversilvers",
+          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
+        }
+      ],
+      "duration_ms": 129998,
+      "name": "skies",
+      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 489320,
       "name": "Spectral",
       "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "distant, elsewhere",
+        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
+      },
+      "artists": [
+        {
+          "name": "kurisu.",
+          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
+        }
+      ],
+      "duration_ms": 150006,
+      "name": "distant, elsewhere",
+      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Symmetry",
         "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 133591,
       "name": "Too Much Love",
       "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "distant, elsewhere",
-        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
-      },
-      "artists": [
-        {
-          "name": "kurisu.",
-          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
-        }
-      ],
-      "duration_ms": 150006,
-      "name": "distant, elsewhere",
-      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 70306,
-      "name": "Safn",
-      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "bloom",
         "url": "https://open.spotify.com/album/00X0m3Bl3gaiYiOL8HZryn"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 79530,
       "name": "bloom",
       "url": "https://open.spotify.com/track/3frDiSCCOXlVbZiwbMoH3K"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 70306,
+      "name": "Safn",
+      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
     },
     {
       "added_at": "2026-09-23 13:23:25",

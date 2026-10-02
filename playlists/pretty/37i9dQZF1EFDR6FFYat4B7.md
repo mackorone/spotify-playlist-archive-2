@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 167 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 585 likes - 167 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 92 | [Sad Eyes](https://open.spotify.com/track/0qkkoL0bQBBWe4JU1NWcYt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:10 |
 | 93 | [Burning](https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
 | 94 | [My Cross](https://open.spotify.com/track/2dSXrqeloEF2jn4VBNZpZs) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:12 |
-| 95 | [NoLo](https://open.spotify.com/track/5tR4MFnmZKLjY5ccrSPyki) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Raceday](https://open.spotify.com/album/2KhYLcC6aBcnBfjD8N0FWA) | 4:25 |
-| 96 | [Boomerang](https://open.spotify.com/track/7EFXzio24ra2XJLuL1yCkk) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 2:49 |
+| 95 | [Boomerang](https://open.spotify.com/track/7EFXzio24ra2XJLuL1yCkk) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 2:49 |
+| 96 | [NoLo](https://open.spotify.com/track/5tR4MFnmZKLjY5ccrSPyki) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Raceday](https://open.spotify.com/album/2KhYLcC6aBcnBfjD8N0FWA) | 4:25 |
 | 97 | [Almost Famous](https://open.spotify.com/track/5fbeWfU4fnLobWibtLTzdQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Almost Famous](https://open.spotify.com/album/0FUNt6SqzP3tPUDB4d8p0s) | 3:32 |
 | 98 | [better alone](https://open.spotify.com/track/1m43PeB6kOKy4LYt75iOwB) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 4:31 |
 | 99 | [Superpower](https://open.spotify.com/track/0yRzqM7uTC2B2yvvmeqwft) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:10 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 166 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 | 167 | [Listen](https://open.spotify.com/track/06IkwCCdPyhRKlpr3GOdYu) | [Androppolis](https://open.spotify.com/artist/4qwtoERXntUZinWjz3Xk5p) | [Exhibit A](https://open.spotify.com/album/51ZXr1PSFscY478GVD7Qux) | 2:00 |
 
-Snapshot ID: `AcduggAAAABbCXE+xD4L6kA/2whXV6qp`
+Snapshot ID: `Acd0IgAAAAAilk+DhUrdpDXsu5mQFDVF`

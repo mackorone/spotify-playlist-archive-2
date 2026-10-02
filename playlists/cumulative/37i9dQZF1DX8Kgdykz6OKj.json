@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 139073,
       "name": "Calamari",
       "url": "https://open.spotify.com/track/3nL8tfuOypFqXE3oy4fnvb"
@@ -4706,6 +4706,24 @@
       "duration_ms": 232731,
       "name": "Get What's Yours",
       "url": "https://open.spotify.com/track/7lQf6F6IxEya4xGmSuwJMY"
+    },
+    {
+      "album": {
+        "name": "GETTHERESOON",
+        "url": "https://open.spotify.com/album/6GdT9qc1nmEa9MHfGVPQpa"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "GETTHERESOON",
+      "url": "https://open.spotify.com/track/1GU1zdNc5ypQxIG4xjhXhI"
     },
     {
       "album": {
@@ -8468,6 +8486,24 @@
       "duration_ms": 183448,
       "name": "Oracle",
       "url": "https://open.spotify.com/track/1DnHVfyOCinVjp1fJBCT4I"
+    },
+    {
+      "album": {
+        "name": "INNANETAPE",
+        "url": "https://open.spotify.com/album/2U6KMmA26Koq3X6X9tHEjs"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220407,
+      "name": "Orange Soda",
+      "url": "https://open.spotify.com/track/7zMB3GxMuDfunEHjv6nnpw"
     },
     {
       "album": {
@@ -12304,7 +12340,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"

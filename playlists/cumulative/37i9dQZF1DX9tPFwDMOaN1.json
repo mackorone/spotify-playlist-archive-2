@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 181095,
       "name": "2 L0VE",
       "url": "https://open.spotify.com/track/6RFwKZfqEfRfz9aJMuxeBq"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 251000,
       "name": "99 Degrees",
       "url": "https://open.spotify.com/track/0Adkq5CkilX52wKp7GzRct"
@@ -306,6 +306,24 @@
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+    },
+    {
+      "album": {
+        "name": "Mixtape : A1 GO",
+        "url": "https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "A1 GO",
+      "url": "https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF"
     },
     {
       "album": {
@@ -580,6 +598,24 @@
       "duration_ms": 199133,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
+    },
+    {
+      "album": {
+        "name": "HOME: DELUXE",
+        "url": "https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146551,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg"
     },
     {
       "album": {
@@ -1858,7 +1894,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 169000,
       "name": "BODY WAVE",
       "url": "https://open.spotify.com/track/6b4pAgNdvX3oB8JU8cfUck"
@@ -3313,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172978,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy"
+    },
+    {
+      "album": {
         "name": "Crazier - The 11th Album",
         "url": "https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj"
       },
@@ -3396,7 +3450,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 191755,
       "name": "Crow",
       "url": "https://open.spotify.com/track/4mZc0r3NFubFbe9xMOkZGJ"
@@ -3952,7 +4006,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 217696,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
@@ -5364,7 +5418,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 161000,
       "name": "Forever July",
       "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
@@ -6259,6 +6313,24 @@
     },
     {
       "album": {
+        "name": "Good Goodbye",
+        "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Good Goodbye",
+      "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
+    },
+    {
+      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -7004,7 +7076,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -7666,6 +7738,24 @@
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "album": {
+        "name": "ICONIC HEART",
+        "url": "https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "ICONIC HEART",
+      "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
     },
     {
       "album": {
@@ -9066,7 +9156,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 181560,
       "name": "LOVE ATTACK",
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
@@ -9102,7 +9192,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 165000,
       "name": "Love Got Me Ooh",
       "url": "https://open.spotify.com/track/3oiikhWraUTZVfGBF0OtFx"
@@ -9496,6 +9586,24 @@
       "duration_ms": 182656,
       "name": "M.O.",
       "url": "https://open.spotify.com/track/2jp0nh8LhOihT6SbPfQGvb"
+    },
+    {
+      "album": {
+        "name": "Made My Night",
+        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Made My Night",
+      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
     },
     {
       "album": {
@@ -9922,7 +10030,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 179657,
       "name": "METRONOME",
       "url": "https://open.spotify.com/track/0lcaaS20sIJaLeVsAyAiKf"
@@ -11214,7 +11322,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 154000,
       "name": "OXY",
       "url": "https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau"
@@ -12331,6 +12439,52 @@
     },
     {
       "album": {
+        "name": "ROOTS (Respect is the New Cool)",
+        "url": "https://open.spotify.com/album/2psy94g7etmQKnAL1jnHuw"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299428,
+      "name": "ROOTS - Spotify Singles",
+      "url": "https://open.spotify.com/track/00XLDzc8k0TQ8ge8m1PWrX"
+    },
+    {
+      "album": {
         "name": "Roses/Dandelion",
         "url": "https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3"
       },
@@ -13092,7 +13246,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 187500,
       "name": "singasong",
       "url": "https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T"
@@ -13476,7 +13630,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 153000,
       "name": "SNAPBACK",
       "url": "https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ"
@@ -14212,7 +14366,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 195000,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
@@ -14324,6 +14478,24 @@
       "duration_ms": 219333,
       "name": "SUMMER FESTA",
       "url": "https://open.spotify.com/track/4QYmuMAQ1iBzspZKCaMZuB"
+    },
+    {
+      "album": {
+        "name": "TUNE & PLAY",
+        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
+      },
+      "artists": [
+        {
+          "name": "TUIDE",
+          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "SUN KISS",
+      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
     },
     {
       "album": {
@@ -14798,6 +14970,24 @@
       "duration_ms": 181192,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
       "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+    },
+    {
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/7JcBMmZu2brnM7M9PZmwYL"
     },
     {
       "album": {

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: M\u0142ody West",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Leosia",
   "name": "RAP GENERACJA",
   "tracks": [
+    {
+      "album": {
+        "name": "$wag Boy",
+        "url": "https://open.spotify.com/album/7weMaVAYSN2STDoAg1zMti"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119632,
+      "name": "$wag Boy",
+      "url": "https://open.spotify.com/track/4VMLIZWhu7S78y5YOUmntU"
+    },
     {
       "album": {
         "name": "06.10.22",
@@ -338,7 +360,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 168623,
       "name": "16 STOPNI",
       "url": "https://open.spotify.com/track/5YMGCGtRLLyLyDRIw8MPA2"
@@ -880,7 +902,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 145454,
       "name": "5 KOS 5 DVP",
       "url": "https://open.spotify.com/track/5H6Ids5AD7HrZva4htsGu1"
@@ -4344,7 +4366,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 144000,
       "name": "Chce Mi Si\u0119",
       "url": "https://open.spotify.com/track/25bkSKTCr4uZiLuBeReCNU"
@@ -6995,6 +7017,32 @@
     },
     {
       "album": {
+        "name": "Dziwak",
+        "url": "https://open.spotify.com/album/1EMskulXKoaW04oQebDsLL"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "DR AP",
+          "url": "https://open.spotify.com/artist/56rV2ZDDY5WgfWom8lkIPu"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dziwak",
+      "url": "https://open.spotify.com/track/41q9XJzZhwwctOWUYe0psc"
+    },
+    {
+      "album": {
         "name": "DZWONI CUZI",
         "url": "https://open.spotify.com/album/1XHRKivXT8HnMY7SKeAZHO"
       },
@@ -8598,7 +8646,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 184000,
       "name": "GI\u0143 ZA MNIE",
       "url": "https://open.spotify.com/track/2eJYQ014VhXL8AWclsMxqk"
@@ -9122,6 +9170,44 @@
       "duration_ms": 195428,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/1NeQSyRQAXZNNQ7V8uhGBQ"
+    },
+    {
+      "album": {
+        "name": "RIOTT",
+        "url": "https://open.spotify.com/album/7KN9JNFNdqFcKUbFxBzxKM"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Hanz",
+          "url": "https://open.spotify.com/artist/1eL4DVwObeAZjGOVjASAXd"
+        },
+        {
+          "name": "Sem0r",
+          "url": "https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR"
+        },
+        {
+          "name": "Wini",
+          "url": "https://open.spotify.com/artist/2sIuhMKS4v6WOeS0HLS24r"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "HALO?",
+      "url": "https://open.spotify.com/track/6YbojlO8LV3vRqtsIoa1Qz"
     },
     {
       "album": {
@@ -9756,7 +9842,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 226456,
       "name": "HUSTLER",
       "url": "https://open.spotify.com/track/00hqhOTwJqUDgvUua2v7Xc"
@@ -11769,6 +11855,32 @@
     },
     {
       "album": {
+        "name": "24K",
+        "url": "https://open.spotify.com/album/7rTOaq66Cb81l0FJEMPQ37"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        },
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "JNKSH",
+          "url": "https://open.spotify.com/artist/0QwZRtchj6deJgyAKW12IM"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152538,
+      "name": "Kolega, o kt\u00f3rego...",
+      "url": "https://open.spotify.com/track/1JKadsp1VxKNFvo6LKqkIU"
+    },
+    {
+      "album": {
         "name": "kolorowe bloki outro",
         "url": "https://open.spotify.com/album/2ZgIiLotyYRd0n29JjZdbY"
       },
@@ -13467,6 +13579,36 @@
     },
     {
       "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/1xa9mbJzckuBf0qkel53lX"
+      },
+      "artists": [
+        {
+          "name": "730 Huncho",
+          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172359,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/1xG1EfiLnu8cMfEVVpMWpY"
+    },
+    {
+      "album": {
         "name": "Mamy ci\u0119\u017cko",
         "url": "https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F"
       },
@@ -13640,7 +13782,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 156081,
       "name": "MARBELLA",
       "url": "https://open.spotify.com/track/4GWnHZqrHozrGBBFItK5Oj"
@@ -14801,6 +14943,32 @@
     },
     {
       "album": {
+        "name": "Mr\u00f3wki",
+        "url": "https://open.spotify.com/album/6ZrauGmYuhwvIMC1Fh0dlJ"
+      },
+      "artists": [
+        {
+          "name": "Bonus RPK",
+          "url": "https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3"
+        },
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        },
+        {
+          "name": "Culten",
+          "url": "https://open.spotify.com/artist/3pM7p7APNjXOk2pV2Hz704"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Mr\u00f3wki",
+      "url": "https://open.spotify.com/track/4k2CajtyGKM1Jzncak5G5L"
+    },
+    {
+      "album": {
         "name": "MULLET",
         "url": "https://open.spotify.com/album/5zr4FEduj4kWdxVmiXy1Yb"
       },
@@ -15438,6 +15606,28 @@
       "duration_ms": 163636,
       "name": "Najm\u0142odszy Ksi\u0105\u017c\u0119",
       "url": "https://open.spotify.com/track/2tSqulqhLGnC6efT6TNnuj"
+    },
+    {
+      "album": {
+        "name": "NAJWI\u0118KSZA RANA",
+        "url": "https://open.spotify.com/album/38trbeSdqzwOzZN5cFCRel"
+      },
+      "artists": [
+        {
+          "name": "spazma",
+          "url": "https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115370,
+      "name": "NAJWI\u0118KSZA RANA",
+      "url": "https://open.spotify.com/track/6WzpBUrOVOvq6UtbcTTqCA"
     },
     {
       "album": {
@@ -20008,7 +20198,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 172172,
       "name": "Prezes",
       "url": "https://open.spotify.com/track/5przpZubvAvxNhe9ohW8e3"
@@ -20964,6 +21154,24 @@
     {
       "album": {
         "name": "RED BULL 64 BARS",
+        "url": "https://open.spotify.com/album/4tbCNECF3VI7tORUtrBvtm"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "RED BULL 64 BARS",
+      "url": "https://open.spotify.com/track/3Elnl9QQlyYCUsw7ECQnKs"
+    },
+    {
+      "album": {
+        "name": "RED BULL 64 BARS",
         "url": "https://open.spotify.com/album/1DbNDbr3NizI0NdaX5iSyk"
       },
       "artists": [
@@ -21000,7 +21208,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 250909,
       "name": "RED BULL 64 BARS",
       "url": "https://open.spotify.com/track/4CZC07uZnTahB1sAjTcb74"
@@ -21254,7 +21462,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 150000,
       "name": "RIOTT",
       "url": "https://open.spotify.com/track/2TeuRk4Z1bwV61QQyw0FoM"
@@ -21646,7 +21854,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 192000,
       "name": "R\u2019N\u2019B",
       "url": "https://open.spotify.com/track/0ECJBf37pYkpSmbHpaXkO2"
@@ -24131,6 +24339,28 @@
     },
     {
       "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/6uvyrzPPuvm1njEGpRde1R"
+      },
+      "artists": [
+        {
+          "name": "kidzlori",
+          "url": "https://open.spotify.com/artist/5vd5bcqLmwJKYag1wil888"
+        },
+        {
+          "name": "noSleep",
+          "url": "https://open.spotify.com/artist/6dwNjlT0zv5XxBDFv8Z4YL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151323,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/5Fv5oPulUz1e0lbs4OtFpm"
+    },
+    {
+      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7u5nHxM46D3LIVz6mNq8Q8"
       },
@@ -24688,6 +24918,24 @@
       "duration_ms": 178775,
       "name": "TYLKO ONA?",
       "url": "https://open.spotify.com/track/4nrY43rHzOffDNpxKNMTX1"
+    },
+    {
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/5l3EiAGbFrPMwMMlOuapX8"
+      },
+      "artists": [
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170160,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/1vAd9AaJ5C8ZnpHYMZGKu7"
     },
     {
       "album": {

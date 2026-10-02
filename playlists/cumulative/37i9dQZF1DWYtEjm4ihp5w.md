@@ -4,7 +4,7 @@
 
 > Cover: Draganov
 
-560 songs - 1 day 4 hr 58 min
+561 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [DEPART](https://open.spotify.com/track/2Jzn2clALwnSCrHdXPBXfB) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [DEPART](https://open.spotify.com/album/2wVXCvBj607fhsujknCH3y) | 2:41 | 2026-02-28 | 2026-07-30 |
 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 | 2022-11-28 | 2023-10-27 |
 | [DFN](https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:03 | 2026-03-30 |  |
+| [Different League](https://open.spotify.com/track/7aNFirYDjpSjQlZhAmAPtD) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [TRAP CARD](https://open.spotify.com/album/1wqIVWp3JmzliEruQdP5te) | 2:47 | 2026-10-02 |  |
 | [DIFFERENT V2](https://open.spotify.com/track/3nMLSphMk9zGtpJCB1zm8K) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [DIFFERENT V2](https://open.spotify.com/album/0pXh9lyVEqChCz3XGkWcLU) | 3:31 | 2023-02-10 | 2023-05-21 |
 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 | 2024-10-23 | 2025-04-26 |
 | [DIPLOMATICO](https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:16 | 2025-08-28 | 2025-12-19 |
@@ -239,7 +240,7 @@
 | [Iori 7](https://open.spotify.com/track/1n4iEYY1DI5QUJ9FvaDAMf) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 7](https://open.spotify.com/album/2Ey9s66K9xVd6eqVyOMAVv) | 2:46 | 2025-01-04 | 2025-11-30 |
 | [Jamaican](https://open.spotify.com/track/3YqxmbZW7LLyt7ZG0WlMCK) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Jamaican](https://open.spotify.com/album/4NaZZ5lcaDevJRlSwkwYEh) | 2:53 | 2026-09-03 |  |
 | [JANAH 4](https://open.spotify.com/track/2zwvxiH8XBloPFw33Hj6wT) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 3:08 | 2023-12-28 | 2024-01-07 |
-| [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 | 2025-08-10 |  |
+| [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 | 2025-08-10 | 2026-10-02 |
 | [JEFE](https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [JEFE](https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM) | 2:27 | 2024-10-25 | 2024-11-18 |
 | [Jorja Smith](https://open.spotify.com/track/7DfQdQYTgngRvFq2zHGPDX) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Jorja Smith](https://open.spotify.com/album/1o5ynyB52KUH1riQlPBGgW) | 3:00 | 2025-05-26 | 2025-06-07 |
 | [Jouj Ft.kasso](https://open.spotify.com/track/5Ywo6LwAcgwzEa38bZ0u3Q) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [kasso](https://open.spotify.com/artist/7ut4C0DkTA34VaO0xAjJA3) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 3:02 | 2023-05-18 | 2023-05-23 |

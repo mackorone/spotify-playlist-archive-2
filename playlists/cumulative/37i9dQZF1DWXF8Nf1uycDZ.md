@@ -2,7 +2,7 @@
 
 ### [Throwback Thursday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXF8Nf1uycDZ)
 
-> This week: it's Fatboy Slims favourite 30! Celebrating the iconic "Better Living Through Chemistry” 30th Anniversary 😃 🎉
+> This week: it's Fatboy Slim's favourite 30! Celebrating the iconic "Better Living Through Chemistry” 30th Anniversary 😃 🎉
 
 2,085 songs - 5 day 18 hr 23 min
 

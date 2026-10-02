@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-900 songs - 1 day 14 hr 39 min
+902 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,6 +648,7 @@
 | [Rêveuse](https://open.spotify.com/track/3IrhvylMyORrBvLbqVR1KM) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Rêveuse](https://open.spotify.com/album/5npG7egCzEs9bOxDd621W7) | 2:27 | 2023-01-31 | 2025-08-27 |
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2021-12-13 | 2023-01-10 |
 | [Sad Moments](https://open.spotify.com/track/4ZgngkORCnHjiXHmZbIFJT) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Sad Moments](https://open.spotify.com/album/4yueXDq97H7jHHnYYYc1JJ) | 2:34 | 2025-01-06 |  |
+| [Safe Harbour](https://open.spotify.com/track/0PFwvBe4AnIA3VXOkg0HWk) | [Sondre Waltz](https://open.spotify.com/artist/0tkvxKp9fbGRC0hg8TWp0U) | [Safe Harbour](https://open.spotify.com/album/4ZeHt5NFc0pmd56X02b1nt) | 2:42 | 2026-10-02 |  |
 | [Sagesse en Amour](https://open.spotify.com/track/7MJcTb10o1gms7Gr641tj7) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [Sagesse en Amour](https://open.spotify.com/album/3jlN7BgH820pjPsJw9M8C5) | 2:21 | 2023-04-24 | 2026-07-04 |
 | [sahdana](https://open.spotify.com/track/7rTV5NBxyhcHbFdzbyLiJf) | [ildio](https://open.spotify.com/artist/0M7lk3XgbBRdb5EzeRlGIq) | [sahdana](https://open.spotify.com/album/7pn4A1Cyta0u8c3K55JBHr) | 2:55 | 2021-12-13 | 2022-10-25 |
 | [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-14 | 2025-09-16 |
@@ -870,6 +871,7 @@
 | [Whatever Will Be](https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Whatever Will Be](https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56) | 1:52 | 2023-06-26 | 2023-08-22 |
 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 | 2023-06-26 | 2025-05-22 |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2021-12-13 | 2022-11-12 |
+| [When Time Softens](https://open.spotify.com/track/30oAtgwrdeelu4WSX3ijdX) | [Elian Vale](https://open.spotify.com/artist/3rBMKkHDotvACQiKeeZOir) | [When Time Softens](https://open.spotify.com/album/0221em9Zt7xmK4CGXxRSmY) | 2:24 | 2026-10-02 |  |
 | [When We Dance](https://open.spotify.com/track/1XkTvyqh9ECRpqwbnxoZCv) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [When We Dance](https://open.spotify.com/album/7EX5b7L0MzsxnOF5mluc2C) | 2:37 | 2021-12-13 | 2023-01-21 |
 | [When We Go Walking](https://open.spotify.com/track/18NGWsACj7kLOwiUvUVSux) | [Randy Oppenheim](https://open.spotify.com/artist/6obM7znnjdS04ci0REuXyT) | [When We Go Walking](https://open.spotify.com/album/5itqXfUI69UzAZXpXLpN0K) | 2:05 | 2022-11-11 | 2024-08-13 |
 | [When We're On The Mountain](https://open.spotify.com/track/4FFFy9Nm4wUyhc5eMHuQ0z) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When We’re On The Mountain](https://open.spotify.com/album/4jXuyiY3O4BPSdEi8qiOho) | 2:28 | 2021-12-13 | 2022-10-05 |

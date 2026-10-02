@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Yoly Saa.",
-  "num_followers": 22970,
+  "num_followers": 22968,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "Bichifokel",
-        "url": "https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 187091,
-      "name": "Bichifokel",
-      "url": "https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
         "name": "EL NENE, VOL 2",
         "url": "https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 130666,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
+        "name": "Bichifokel",
+        "url": "https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 187091,
+      "name": "Bichifokel",
+      "url": "https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "OTA",
-        "url": "https://open.spotify.com/album/4sl6H4xJkNuDjFMPeHZVxJ"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 129230,
-      "name": "OTA",
-      "url": "https://open.spotify.com/track/3FjDHcmwRk8gSEfyjwMBnC"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
         "name": "Yo quiero un affaire",
         "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 184970,
       "name": "Yo quiero un affaire",
       "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
+        "name": "OTA",
+        "url": "https://open.spotify.com/album/4sl6H4xJkNuDjFMPeHZVxJ"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 129230,
+      "name": "OTA",
+      "url": "https://open.spotify.com/track/3FjDHcmwRk8gSEfyjwMBnC"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

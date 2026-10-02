@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-124 songs - 6 hr 15 min
+126 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Coisa Linda \(Solo Guitar\)](https://open.spotify.com/track/5RIBurCH73RYHD9rbNPvN2) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Coisa Linda](https://open.spotify.com/album/0nSH16JFQkqaePBZyXvcgV) | 3:25 | 2023-12-15 |  |
 | [Con Calma](https://open.spotify.com/track/3FVjQ0xvY0egkX73XwR5KF) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Rumba De Rambla](https://open.spotify.com/album/10pjbovsMmRO6b4YjSrqKR) | 3:11 | 2023-12-15 | 2025-02-25 |
 | [Contigo Siempre Es Mejor](https://open.spotify.com/track/19rQxLjd9KJTmZRx9XLzac) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Contigo Siempre Es Mejor](https://open.spotify.com/album/0N1rENtPkYES0D56D2bezb) | 3:18 | 2023-12-15 | 2026-03-31 |
+| [Coquille Paradise](https://open.spotify.com/track/4Fk0ZXtHAiauQOVAJX444m) | [Leo Testoni](https://open.spotify.com/artist/0aG115WGfnrG8Ck2HFiMm4) | [Coquille Paradise](https://open.spotify.com/album/6ZRyZmgND6Cp64H1n5RisB) | 2:15 | 2026-10-02 |  |
 | [Cuando Brille El Sol](https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 | 2024-11-07 |  |
 | [Cuando Te Duermas](https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Cuando Te Duermas](https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT) | 2:42 | 2023-12-15 |  |
 | [Cuantas Amantes](https://open.spotify.com/track/009thiR2SWpG6jXqXYX2AT) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Cuantas Amantes](https://open.spotify.com/album/3YKLNFNyg3a1ZSYO9z3EHr) | 2:32 | 2023-12-15 |  |
@@ -68,6 +69,7 @@
 | [Ibiza Sunset](https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Ibiza Sunset](https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8) | 2:48 | 2023-12-15 | 2025-07-23 |
 | [If I Hold Her Tight](https://open.spotify.com/track/7DyqszQV23g2raAm9hYskl) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:41 | 2023-12-15 |  |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2023-12-15 |  |
+| [Jurubaina](https://open.spotify.com/track/7146GVbt0VBukli12IomPY) | [Leo Testoni](https://open.spotify.com/artist/0aG115WGfnrG8Ck2HFiMm4) | [Jurubaina](https://open.spotify.com/album/2AhZapx5zCSY0UxJb9YqMx) | 2:17 | 2026-10-02 |  |
 | [Just In Case](https://open.spotify.com/track/0xsxO2M2wEqtTMPmkFMxW4) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [Just In Case](https://open.spotify.com/album/6oE3lcUNSBg3JdGZXrwE9L) | 2:45 | 2025-05-28 |  |
 | [La Fogata](https://open.spotify.com/track/0lIee3QNGXfs0AVJr29yIo) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [La Fogata](https://open.spotify.com/album/72AEnJLKgvXxsPuVQAWPvi) | 2:32 | 2023-12-15 |  |
 | [La Frase Importante](https://open.spotify.com/track/6W4kU5OcSgSsn0e0yrZ6Na) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [La Frase Importante](https://open.spotify.com/album/7IGHlC1Vf7aOa5i4OaeVCu) | 3:02 | 2023-12-15 | 2025-02-25 |

@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 333088,
       "name": "ARES",
       "url": "https://open.spotify.com/track/73kKFk6Ktj163RKmdeYkEH"
@@ -2816,7 +2816,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 247391,
       "name": "Body Code",
       "url": "https://open.spotify.com/track/4kz06ttD534FEOm3XjeY0r"
@@ -7015,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "Enter Ecstasy",
+        "url": "https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Enter Ecstasy",
+      "url": "https://open.spotify.com/track/5KmIER0T9L2CQQUjMpgYnd"
+    },
+    {
+      "album": {
         "name": "Enter the Rave",
         "url": "https://open.spotify.com/album/155BMWajgjJvAgVstDQRI9"
       },
@@ -9342,6 +9360,28 @@
       "duration_ms": 235948,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/4obKzXuNqeIT3F4qF1HZcA"
+    },
+    {
+      "album": {
+        "name": "God Gave Us Techno",
+        "url": "https://open.spotify.com/album/3VxlGgGwrPTL4IW0wfC7IH"
+      },
+      "artists": [
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188357,
+      "name": "God Gave Us Techno",
+      "url": "https://open.spotify.com/track/3qgHj0sK3BAoxD4oOtUXBy"
     },
     {
       "album": {
@@ -11834,7 +11874,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 309500,
       "name": "KOBOLD",
       "url": "https://open.spotify.com/track/68zgXgST1ZbM0LEAIZU1R5"
@@ -13268,6 +13308,28 @@
       "duration_ms": 298676,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/5dIDLIH876CTEgSq1OuDeD"
+    },
+    {
+      "album": {
+        "name": "Master Of Reality",
+        "url": "https://open.spotify.com/album/33GqAxnuKXyc5ZGXfbIvP7"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325454,
+      "name": "Master Of Reality",
+      "url": "https://open.spotify.com/track/1Ka5upMdKtVXUDcqUr8RVA"
     },
     {
       "album": {
@@ -17049,6 +17111,24 @@
     },
     {
       "album": {
+        "name": "Primal Particel",
+        "url": "https://open.spotify.com/album/47qexsuQiB2cBeSrWGdubQ"
+      },
+      "artists": [
+        {
+          "name": "Raho",
+          "url": "https://open.spotify.com/artist/0cm6TNMImRKuuwosNtBHge"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337576,
+      "name": "Primal Particel",
+      "url": "https://open.spotify.com/track/320HRgAAtaG7X28fmsQmNT"
+    },
+    {
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk"
       },
@@ -19632,7 +19712,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 394000,
       "name": "Set The Tone",
       "url": "https://open.spotify.com/track/0CwR8AW83fbSnU5gOg5sBh"
@@ -23738,7 +23818,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 324335,
       "name": "Undersense",
       "url": "https://open.spotify.com/track/2JSu2yhFHyXX6aiyOFDniT"
@@ -23808,6 +23888,28 @@
       "duration_ms": 433000,
       "name": "Union",
       "url": "https://open.spotify.com/track/11c5UGx5liajWJDS4hSYp0"
+    },
+    {
+      "album": {
+        "name": "Unite The Universe",
+        "url": "https://open.spotify.com/album/4be2NzItVejEGhjgrwiJ9p"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143086,
+      "name": "Unite The Universe",
+      "url": "https://open.spotify.com/track/73JbM4XuiGONBHUDr5dyLN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 484979,
+  "num_followers": 484984,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "We\u2019re All Gonna Die",
+        "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 179202,
+      "name": "We\u2019re All Gonna Die (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
         "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
-        "name": "We\u2019re All Gonna Die",
-        "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 179202,
-      "name": "We\u2019re All Gonna Die (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Stars Are on Your Side",
         "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 218004,
       "name": "Stars Are on Your Side",
       "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "WIRED",
-        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 206780,
-      "name": "Head Alight",
-      "url": "https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Wreckage",
         "url": "https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "WIRED",
+        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 206780,
+      "name": "Head Alight",
+      "url": "https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 201808,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 193425,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
+      "duration_ms": 201808,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1455,6 +1439,22 @@
       "duration_ms": 283946,
       "name": "Who Laughs Last (feat. Kristen Stewart)",
       "url": "https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 193425,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 234231,
       "name": "Crying Over U",
       "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Death of Me",
         "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 214230,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Run To The Moon",
         "url": "https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 225901,
       "name": "Run To The Moon",
       "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Holy Grail",
-        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Holy Grail",
-      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI"
       },
@@ -2143,18 +2127,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Before the Waves",
-        "url": "https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un"
+        "name": "Holy Grail",
+        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
       },
       "artists": [
         {
-          "name": "Magic Man",
-          "url": "https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv"
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         }
       ],
-      "duration_ms": 223529,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP"
+      "duration_ms": 214000,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2171,6 +2155,22 @@
       "duration_ms": 284111,
       "name": "The River",
       "url": "https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Before the Waves",
+        "url": "https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un"
+      },
+      "artists": [
+        {
+          "name": "Magic Man",
+          "url": "https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv"
+        }
+      ],
+      "duration_ms": 223529,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP"
     },
     {
       "added_at": "2026-06-17 20:08:40",

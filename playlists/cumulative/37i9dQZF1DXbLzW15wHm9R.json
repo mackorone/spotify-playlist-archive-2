@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "album": {
         "name": "Dream As One (from Avatar: Fire and Ash)",
         "url": "https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q"
       },
@@ -2967,6 +2989,28 @@
     },
     {
       "album": {
+        "name": "One Right Here",
+        "url": "https://open.spotify.com/album/2JgexwYwrhoNQsbbdZauTK"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240043,
+      "name": "One Right Here",
+      "url": "https://open.spotify.com/track/0O0OQsq0bTk0t0ohUbuFNW"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
       },
@@ -3978,7 +4022,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-02",
       "duration_ms": 149137,
       "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
       "url": "https://open.spotify.com/track/29rXj5xHh7tGAA8H5Zqrxy"

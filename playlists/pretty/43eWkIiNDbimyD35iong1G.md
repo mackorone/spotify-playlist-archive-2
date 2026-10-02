@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > The ultimate wedding songs playlist for your big day\. Featuring romantic wedding love ballads, acoustic ceremony hits, and a high\-energy wedding music &amp; wedding mix for your first dance and reception\. With Bruno Mars, Taylor Swift, John Legend, Dan + Shay &amp; Luke Combs\. Updated weekly.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 205,919 likes - 151 songs - 9 hr 6 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 205,944 likes - 151 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

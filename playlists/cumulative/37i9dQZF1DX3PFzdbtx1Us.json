@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Almost Home",
+        "url": "https://open.spotify.com/album/0DWC9TqNbcO3PkdYT03rrK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Veyron",
+          "url": "https://open.spotify.com/artist/4o9YspbbKlnoponwOWPK5E"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/0u6CuUGcnkWXIwp2VKQeSR"
+    },
+    {
+      "album": {
         "name": "Along dammed rivers",
         "url": "https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK"
       },
@@ -5580,6 +5598,24 @@
       "duration_ms": 125577,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW"
+    },
+    {
+      "album": {
+        "name": "Returning",
+        "url": "https://open.spotify.com/album/1YJgw1bar9X6dBeoiR8uT1"
+      },
+      "artists": [
+        {
+          "name": "John Othmar",
+          "url": "https://open.spotify.com/artist/7J3MgxBFbSLYv0Q0Viy5v2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156874,
+      "name": "Returning",
+      "url": "https://open.spotify.com/track/56DoCuEfeEZbHnPLGr67WG"
     },
     {
       "album": {

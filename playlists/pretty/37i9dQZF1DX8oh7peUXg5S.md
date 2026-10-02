@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,445 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,455 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 60 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 |
 | 61 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
 | 62 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
-| 63 | [Méritos Y Merecimientos](https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT) | [Fernando Cabrera](https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Méritos Y Merecimientos](https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc) | 3:40 |
-| 64 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 |
+| 63 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 |
+| 64 | [Méritos Y Merecimientos](https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT) | [Fernando Cabrera](https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Méritos Y Merecimientos](https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc) | 3:40 |
 | 65 | [Slowly](https://open.spotify.com/track/2ZZvtilGKmGDAdz9IU1EG2) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 5:39 |
 | 66 | [Quiero Abrazarte Tanto](https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [¿Quién Puso Más?](https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G) | 3:05 |
 | 67 | [Humo](https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [50 Palos](https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB) | 3:05 |

@@ -4,7 +4,7 @@
 
 > Ya llegué de donde andaba..\. se me concedió volver 🙏🏾
 
-271 songs - 14 hr 11 min
+272 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 | 2023-08-08 | 2024-04-19 |
 | [Como Perro Con Rabia](https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY) | 3:14 | 2023-08-08 | 2024-02-23 |
 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 | 2023-08-08 |  |
+| [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 | 2025-08-13 |  |
 | [Con Toda La Fe](https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con Toda La Fe](https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx) | 2:24 | 2024-11-15 |  |
 | [Con Todo Respetillo](https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 2:57 | 2024-11-15 |  |
 | [Consejos Gratis](https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:22 | 2024-02-22 | 2025-08-14 |
@@ -111,7 +112,7 @@
 | [Esos Tus Ojos](https://open.spotify.com/track/1BgnOcUE1rdcFtDphQtDOf) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Territorio Prohibido](https://open.spotify.com/album/50JoC611NpgapCzN11G4Xo) | 3:38 | 2023-08-08 |  |
 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:06 | 2023-08-08 | 2024-02-23 |
 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Me Rindo](https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj) | 3:09 | 2024-02-22 |  |
-| [Estrellita Marinera](https://open.spotify.com/track/4Taym6YKbhXQwEsltfBUDC) | [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [Pa' Miar El Higado Vol\. 2](https://open.spotify.com/album/7tA9BQxRZX4HI2FXI81TtG) | 2:40 | 2025-08-13 |  |
+| [Estrellita Marinera](https://open.spotify.com/track/4Taym6YKbhXQwEsltfBUDC) | [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [Pa' Miar El Higado Vol\. 2](https://open.spotify.com/album/7tA9BQxRZX4HI2FXI81TtG) | 2:40 | 2025-08-13 | 2026-10-02 |
 | [Está Llorando Mi Corazón \- Versión Banda](https://open.spotify.com/track/3qWufYVvbsvM1IM1bdvWV2) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [La Historia De Los Éxitos \(20 Súper Temas\)](https://open.spotify.com/album/01SHiQD1sR754F0RihRJjI) | 2:56 | 2023-08-08 | 2024-08-24 |
 | [Feliz Feliz](https://open.spotify.com/track/2sWBABI42O6dzqQKXk10jo) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:37 | 2024-02-22 |  |
 | [Florita Del Alma](https://open.spotify.com/track/6SdsyCzGpDY5czmoGaczHK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 2:55 | 2023-08-08 |  |
