@@ -1,15 +1,35 @@
 {
-  "description": "The new & hottest K-Pop is here! (Cover: ROS\u00c9)",
-  "num_followers": 6123448,
+  "description": "The new & hottest K-Pop is here! (Cover: YENA, NOWIMYOUNG)",
+  "num_followers": 6124130,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAARQOSEzbVtjR+XhYniovuy0O/kG",
+  "snapshot_id": "AAAAAB0cnGwA1h8bo9yIL92QG3OX5WA6",
   "tracks": [
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "Dime Girl (Feat. NOWIMYOUNG)",
+        "url": "https://open.spotify.com/album/0xpzZIaGVh8d2NtXfBrKJH"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Dime Girl (Feat. NOWIMYOUNG)",
+      "url": "https://open.spotify.com/track/71QaFkKKm3tbsWdwwuX9pI"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "new trick",
         "url": "https://open.spotify.com/album/4HrG5QKffOfqTOoaSnAcq3"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/20QSTolol0EyLCVoOmGgAs"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "SaWaDiKa",
         "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "GOLDEN HOUR : Part.5",
         "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "THE SIN : BLISS",
         "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
@@ -73,7 +93,23 @@
       "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 172978,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "LEMONADE - The 2nd Album",
         "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
@@ -89,7 +125,7 @@
       "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Fallen Angel (Digital EP)",
         "url": "https://open.spotify.com/album/65w21mMPOHN63hNU5z1FYL"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/1ZyTTzndFMzzZUtOpKaqN7"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "HOME: DELUXE",
         "url": "https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq"
@@ -121,23 +157,7 @@
       "url": "https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 172978,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy"
-    },
-    {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Made My Night",
         "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "ICONIC HEART",
         "url": "https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "THIS & THAT",
         "url": "https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Unknown Planet",
         "url": "https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/02KRPJcx4TJFLCXt9qwEUE"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "CLICK",
         "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "MAMIHLAPINATAPAI",
         "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "BITE NOW",
         "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/0oFpuvfX2uwcuIGTMJr2kt"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "GREENGREEN_playextended",
         "url": "https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/0soE3o6dUx6YiSzpUkfyBE"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "BiiiG",
         "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Good Goodbye",
         "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "SYNK : aeXIS LINE - 2026 Special Digital Single",
         "url": "https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "REDRED",
         "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "ICONIC BY MISTAKE",
         "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "PHASE 1 : Soft Violence",
         "url": "https://open.spotify.com/album/00x0WXx4DSdWFst0Opd6Jz"
@@ -401,7 +421,7 @@
       "url": "https://open.spotify.com/track/6VohXisU3ybT3INqyKCJXD"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "NO LABELS: PART 02",
         "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "BITE NOW",
         "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "LOVE CATCHER",
         "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "'PUREFLOW', Pt. 1",
         "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "MOTION (feat. Juicy J)",
         "url": "https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "SUGAR HONEY ICE TEA",
         "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "We made",
         "url": "https://open.spotify.com/album/6zmBnUxSBXV1d0xNnxtgTp"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "\ucda4 (CHOOM)",
         "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/0qq4ARUCMYdH7iEN6Wcq2a"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/0D7q3I9Hpi7bBuFd2OFp1s"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Velvet Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "One - Spotify Singles",
         "url": "https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Glow ME",
         "url": "https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "TUNE & PLAY",
         "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/7JcBMmZu2brnM7M9PZmwYL"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "OriginaLyn",
         "url": "https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Pretty Girl - Special Single",
         "url": "https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Lemon Tang - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
@@ -693,7 +713,7 @@
       "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "RIDE OR DIE",
         "url": "https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "\ucda4 (CHOOM)",
         "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/7vKgGaEDN3shr8HBlCbIWg"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "\u2161 - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "ROOTS (Respect is the New Cool)",
         "url": "https://open.spotify.com/album/2psy94g7etmQKnAL1jnHuw"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/00XLDzc8k0TQ8ge8m1PWrX"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "CHAT",
         "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
     },
     {
-      "added_at": "2026-10-01 12:39:24",
+      "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "Mixtape : A1 GO",
         "url": "https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B"

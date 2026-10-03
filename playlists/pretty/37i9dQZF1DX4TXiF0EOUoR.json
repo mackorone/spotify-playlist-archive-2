@@ -1,6 +1,6 @@
 {
   "description": "\u00a1PUEEERTAAAAAAAAS! ",
-  "num_followers": 262389,
+  "num_followers": 262411,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Banda La Jaripera Vol.1",
-        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
-      },
-      "artists": [
-        {
-          "name": "Banda La Jaripera",
-          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Arriba Pichataro",
-      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Ajeno",
         "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Zapateado Perron",
-        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
+        "name": "Banda La Jaripera Vol.1",
+        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
       },
       "artists": [
         {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+          "name": "Banda La Jaripera",
+          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
         }
       ],
-      "duration_ms": 200305,
-      "name": "Huapango el Pistolero",
-      "url": "https://open.spotify.com/track/0U6yUSlqYTCTfdKkF6dDnZ"
+      "duration_ms": 145520,
+      "name": "Arriba Pichataro",
+      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -447,18 +431,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
+        "name": "Zapateado Perron",
+        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
         }
       ],
-      "duration_ms": 173560,
-      "name": "El Baile Nuevo",
-      "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
+      "duration_ms": 200305,
+      "name": "Huapango el Pistolero",
+      "url": "https://open.spotify.com/track/0U6yUSlqYTCTfdKkF6dDnZ"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -475,6 +459,22 @@
       "duration_ms": 182346,
       "name": "Peque\u00f1a De Ojos Brujos",
       "url": "https://open.spotify.com/track/11tKgwnryAHa6om6OjIZhX"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "El Baile Nuevo",
+      "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Los Viejitos",
-      "url": "https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Puras Chicotedas, Vol. 2",
         "url": "https://open.spotify.com/album/6mbswRFWJZYdNHJcyIla2y"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 129560,
       "name": "El Son de los Aguacates",
       "url": "https://open.spotify.com/track/4HMxfNzokt7s7zPFN0LdI1"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "Los Viejitos",
+      "url": "https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 188310,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 260160,
       "name": "Popurr\u00ed Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito",
       "url": "https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188310,
+      "name": "Vamonos de Fiesta",
+      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "En Vivo...Desde Guanajuato Vol. 2",
-        "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
-      },
-      "artists": [
-        {
-          "name": "Banda Yurirense",
-          "url": "https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4"
-        }
-      ],
-      "duration_ms": 123141,
-      "name": "El Olotito",
-      "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "El Guateque",
         "url": "https://open.spotify.com/album/4wcH9aFTZCj2kB7eDoXPrj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 208266,
       "name": "El Guateque",
       "url": "https://open.spotify.com/track/68jj5roQ7KgqCAnpWNnsEU"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "En Vivo...Desde Guanajuato Vol. 2",
+        "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
+      },
+      "artists": [
+        {
+          "name": "Banda Yurirense",
+          "url": "https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4"
+        }
+      ],
+      "duration_ms": 123141,
+      "name": "El Olotito",
+      "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
-        }
-      ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
         "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 138640,
       "name": "El Tiliche",
       "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "\u00a1\u00a1la Explosiva!!, Vol. 2",
-        "url": "https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "El Ocotito",
-      "url": "https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Las Alegres de los Infinitos",
         "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 170520,
       "name": "Agua de T\u00e9",
       "url": "https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "\u00a1\u00a1la Explosiva!!, Vol. 2",
+        "url": "https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "El Ocotito",
+      "url": "https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 152373,
-      "name": "Rumbo a la Ca\u00f1ada",
-      "url": "https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
         "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
         }
       ],
-      "duration_ms": 161946,
-      "name": "La Feria de Cali",
-      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
+      "duration_ms": 152373,
+      "name": "Rumbo a la Ca\u00f1ada",
+      "url": "https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
         }
       ],
-      "duration_ms": 217280,
-      "name": "La Yaquesita",
-      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
+      "duration_ms": 161946,
+      "name": "La Feria de Cali",
+      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "Sones Adictivos (En Vivo)",
-        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 144693,
-      "name": "El Coyotito - En Vivo",
-      "url": "https://open.spotify.com/track/4cvgt1OqvbjikfPRJFfQCN"
-    },
-    {
-      "added_at": "2026-09-25 06:00:25",
-      "album": {
         "name": "Que Chulo Es el Jaripeo",
         "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
       },
@@ -1443,6 +1411,38 @@
       "duration_ms": 177930,
       "name": "El Novillo Despuntado",
       "url": "https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
+    },
+    {
+      "added_at": "2026-09-25 06:00:25",
+      "album": {
+        "name": "Sones Adictivos (En Vivo)",
+        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 144693,
+      "name": "El Coyotito - En Vivo",
+      "url": "https://open.spotify.com/track/4cvgt1OqvbjikfPRJFfQCN"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
+        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
         }
       ],
-      "duration_ms": 158146,
-      "name": "Arriba Tonichi",
-      "url": "https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO"
+      "duration_ms": 180197,
+      "name": "La Amachona - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2026-09-25 06:00:25",
       "album": {
-        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
-        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
       },
       "artists": [
         {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
         }
       ],
-      "duration_ms": 180197,
-      "name": "La Amachona - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
+      "duration_ms": 158146,
+      "name": "Arriba Tonichi",
+      "url": "https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1728,9 +1728,9 @@
           "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 126395,
-      "name": "El Toro Viejo - En Vivo",
-      "url": "https://open.spotify.com/track/1yxCR1LJlGx7P1AujsPwoI"
+      "duration_ms": 140146,
+      "name": "Arriba Pichataro - En Vivo",
+      "url": "https://open.spotify.com/track/5anf6O53GtbL9FC1il8RrR"
     },
     {
       "added_at": "2026-09-25 06:00:25",
@@ -1808,9 +1808,9 @@
           "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 140146,
-      "name": "Arriba Pichataro - En Vivo",
-      "url": "https://open.spotify.com/track/5anf6O53GtbL9FC1il8RrR"
+      "duration_ms": 126395,
+      "name": "El Toro Viejo - En Vivo",
+      "url": "https://open.spotify.com/track/1yxCR1LJlGx7P1AujsPwoI"
     },
     {
       "added_at": "2026-09-25 06:00:25",

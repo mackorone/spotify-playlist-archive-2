@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 
 > This is Papa Roach\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,636 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,679 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 | 22 | [Leader of the Broken Hearts](https://open.spotify.com/track/21ESBRYWFZmiZAM9iBIjtn) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Connection](https://open.spotify.com/album/6x5bHblLrGWaQlH6xLB38V) | 4:12 |
 | 23 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
 | 24 | [Come Around](https://open.spotify.com/track/7iscuE4OcWsuHkuTv7opfL) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:30 |
-| 25 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
-| 26 | [Take Me](https://open.spotify.com/track/6Mzc0iOvIHgPiiY6M5vVoN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:26 |
+| 25 | [Take Me](https://open.spotify.com/track/6Mzc0iOvIHgPiiY6M5vVoN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:26 |
+| 26 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
 | 27 | [Liar](https://open.spotify.com/track/09Z8JUFWPyjOuTziXbr0DJ) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 2:57 |
 | 28 | [No Matter What](https://open.spotify.com/track/5DooZQl3JTbKQetZqtjrDN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Time For Annihilation: On the Record & On the Road](https://open.spotify.com/album/3d50lh0NuJJwtMj8NV0Tsr) | 3:33 |
 | 29 | [Sunrise Trailer Park](https://open.spotify.com/track/45sBpSdovHtgjx4L1r0jtk) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/5RxLd756Vagaq1aso8uqWc) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 | 49 | [Dying To Believe](https://open.spotify.com/track/1ZjwhGQSDINyRhYHjK1JQq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:01 |
 | 50 | [Time And Time Again](https://open.spotify.com/track/2OAOAtuDWWfzhbgdkZ24sw) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [lovehatetragedy](https://open.spotify.com/album/2bsemtYlVfVAQODavrDkS4) | 2:58 |
 
-Snapshot ID: `arxRAAAAAADfNuvZhfGqg0X/Jf3z8MEs`
+Snapshot ID: `ar2igAAAAABRg5Ug5prJ9JyeSdOJ8AW5`

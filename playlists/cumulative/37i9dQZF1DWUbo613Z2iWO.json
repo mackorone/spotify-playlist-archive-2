@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Zyah Belle",
+  "description": "R&B of the moment by the artists of the future. Cover: LAYA",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "A Time More Perfect",
+        "url": "https://open.spotify.com/album/6SrJLXEGTSqs1GLrxjvQx0"
+      },
+      "artists": [
+        {
+          "name": "Devon Culture",
+          "url": "https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "A Time More Perfect",
+      "url": "https://open.spotify.com/track/6mn8Kyg7aCnhWIIugF7dr9"
+    },
+    {
+      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 136509,
       "name": "After Party",
       "url": "https://open.spotify.com/track/22Icf9HFciTcBTcQc908uu"
@@ -2203,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Are you willing to change?",
+        "url": "https://open.spotify.com/album/22oyuORNrfXqKzM8jjESWr"
+      },
+      "artists": [
+        {
+          "name": "A.G. Sully",
+          "url": "https://open.spotify.com/artist/1DS9B5f4jcKRCqXI6fKDYY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246511,
+      "name": "Are you willing to change?",
+      "url": "https://open.spotify.com/track/7FmB6G5FcIEZkKAeYtnZ1J"
+    },
+    {
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY"
       },
@@ -2484,6 +2520,24 @@
       "duration_ms": 167200,
       "name": "B.S.",
       "url": "https://open.spotify.com/track/1Z3NXXk8GZJwEEJiX5l2G6"
+    },
+    {
+      "album": {
+        "name": "Baaad!",
+        "url": "https://open.spotify.com/album/76W1uPvnUVROrdMvAoOIWY"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Baaad!",
+      "url": "https://open.spotify.com/track/6QuWpNthKEE38rp0YjhqgB"
     },
     {
       "album": {
@@ -9127,6 +9181,24 @@
     },
     {
       "album": {
+        "name": "Don't Walk Away",
+        "url": "https://open.spotify.com/album/3Ebf6sZqCjkLn5ixpYvGKP"
+      },
+      "artists": [
+        {
+          "name": "Soulaan Marie",
+          "url": "https://open.spotify.com/artist/16Nc1RfbspI0cXuCE5BIG0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155100,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/6awOcVs9F2nTGjJSlbOri3"
+    },
+    {
+      "album": {
         "name": "Don't Wanna Let You Down",
         "url": "https://open.spotify.com/album/5O8QsJ9KSgaUtrTnSlyvO2"
       },
@@ -15290,7 +15362,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 171803,
       "name": "Homegrown (feat. Blxst)",
       "url": "https://open.spotify.com/track/4s0tZBDviWiawHu8XlYXcJ"
@@ -17357,6 +17429,24 @@
     },
     {
       "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/2nd1HvTITdoLzdyLn9WxcE"
+      },
+      "artists": [
+        {
+          "name": "Ania Hoo",
+          "url": "https://open.spotify.com/artist/141bAnJhsORNsCW1biNRvL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196949,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/6eRM3i6S1WN3yCy5Gr2eid"
+    },
+    {
+      "album": {
         "name": "april showers",
         "url": "https://open.spotify.com/album/0ZJqPDvP8qunZSLwsbSaEz"
       },
@@ -18124,7 +18214,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 154711,
       "name": "Kacey (feat. Jordan Ward)",
       "url": "https://open.spotify.com/track/2x98vnp1K0wgGgMmoBqYbG"
@@ -18891,7 +18981,7 @@
       "artists": [
         {
           "name": "L\u00c9A THE LEOX",
-          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+          "url": "https://open.spotify.com/artist/3xFV4FWskoe7sxMh8NDswQ"
         }
       ],
       "date_added": "2026-07-17",
@@ -27604,7 +27694,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 182257,
       "name": "risk it all",
       "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
@@ -28232,7 +28322,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 155036,
       "name": "same bed",
       "url": "https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET"
@@ -30582,7 +30672,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 173538,
       "name": "SPLINTER",
       "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
@@ -33123,6 +33213,24 @@
     },
     {
       "album": {
+        "name": "Me My Songs & I",
+        "url": "https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "The Way You Move",
+      "url": "https://open.spotify.com/track/1mnuai6bn7yNwQ6IhxT4AC"
+    },
+    {
+      "album": {
         "name": "Before I Let Her Go EP",
         "url": "https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg"
       },
@@ -34428,6 +34536,24 @@
       "duration_ms": 224986,
       "name": "Try",
       "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
+    },
+    {
+      "album": {
+        "name": "try",
+        "url": "https://open.spotify.com/album/5FgxNvGl4xOtC2cJ6KJxcl"
+      },
+      "artists": [
+        {
+          "name": "Yaya",
+          "url": "https://open.spotify.com/artist/4vhwpfSggjFSAqAKUEyaJn"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193939,
+      "name": "try",
+      "url": "https://open.spotify.com/track/5vpX6U5qb4culzcLyCfbH5"
     },
     {
       "album": {
@@ -36452,7 +36578,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 123428,
       "name": "Why Me?",
       "url": "https://open.spotify.com/track/7fuftbX1j5glNZ3977uxxY"

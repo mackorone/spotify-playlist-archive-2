@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 
 > neler yaşamışım ben ya...
 
-[Çodur](https://open.spotify.com/user/mertcodur) - 424 likes - 44 songs - 2 hr 6 min
+[Çodur](https://open.spotify.com/user/mertcodur) - 423 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Çıktı Yangınlar](https://open.spotify.com/track/4kjQ47cziTQ17YIA62KcgX) | [Ayse Hatun Onal](https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS), [Mert Çodur](https://open.spotify.com/artist/3idhDtE1MgJuZ0fx37vEaO), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çıktı Yangınlar](https://open.spotify.com/album/25KF6IYYRYUGbPBcIOKCY8) | 2:49 |
+| 1 | [Çıktı Yangınlar](https://open.spotify.com/track/4kjQ47cziTQ17YIA62KcgX) | [Ayse Hatun Onal](https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS), [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çıktı Yangınlar](https://open.spotify.com/album/25KF6IYYRYUGbPBcIOKCY8) | 2:49 |
 | 2 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
 | 3 | [Harbi Güzel](https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Harbi Güzel](https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW) | 2:55 |
 | 4 | [Yas Tutarak](https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Yas Tutarak](https://open.spotify.com/album/7uPqReZ6mc48CYTDVyKAkn) | 2:50 |
 | 5 | [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 |
 | 6 | [Pişmanım \- Akustik](https://open.spotify.com/track/3J3F7tuKTkmv4NEhXk6lke) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Pişmanım \(Akustik\)](https://open.spotify.com/album/5Gl43bYKyhihUP94SeNJPs) | 2:15 |
 | 7 | [Yıkılana Kadar \- with İrem Derici](https://open.spotify.com/track/7i06FmelUto7k4Y3j4Vc7f) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Yıkılana Kadar \(with İrem Derici\)](https://open.spotify.com/album/4eo1mwSnNEoNhwOzY8odR1) | 3:00 |
-| 8 | [Gözlerin Lazım](https://open.spotify.com/track/61WXoK5Lu4xI9fjXkWlL70) | [Mert Çodur](https://open.spotify.com/artist/0zwNURJxQE1N0imj5Akh0a), [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Gözlerin Lazım](https://open.spotify.com/album/0Ll45DLQRvuqeJtMmag0a9) | 2:59 |
+| 8 | [Gözlerin Lazım](https://open.spotify.com/track/61WXoK5Lu4xI9fjXkWlL70) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Gözlerin Lazım](https://open.spotify.com/album/0Ll45DLQRvuqeJtMmag0a9) | 2:59 |
 | 9 | [Nankördük](https://open.spotify.com/track/1J2FKNY2ZXUqirIr1LG2OD) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Kavi](https://open.spotify.com/album/5HUqAZDTtciZsDmQqlyFst) | 3:44 |
 | 10 | [Paranoya](https://open.spotify.com/track/6J3XfN1PEtqjR6Snop9hY3) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Olay Mahalli](https://open.spotify.com/album/7dCbyl9MY5FnmDx5fnmdfV) | 3:08 |
 | 11 | [Olay Mahalli](https://open.spotify.com/track/3rVQ8J2B7CjVxyRZuQKYJU) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Olay Mahalli](https://open.spotify.com/album/7dCbyl9MY5FnmDx5fnmdfV) | 3:09 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 | 13 | [Derin Mevzular](https://open.spotify.com/track/65jBnp5troNslpir74QATL) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Derin Mevzular](https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX) | 2:51 |
 | 14 | [Amadeyim Emrine](https://open.spotify.com/track/2QfoZEbanUUXZZWQJQmSkn) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Kavi](https://open.spotify.com/album/5HUqAZDTtciZsDmQqlyFst) | 3:15 |
 | 15 | [Kim Özleyecek](https://open.spotify.com/track/4CRdavZLSgH4oiUZxGx6lD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kim Özleyecek](https://open.spotify.com/album/5GT9iBUJHUUVC4Y3BEvKuQ) | 2:48 |
-| 16 | [Bilen Varsa](https://open.spotify.com/track/4X7mqQVz8rs6rbbe0iTMiC) | [Mert Çodur](https://open.spotify.com/artist/0zwNURJxQE1N0imj5Akh0a) | [Bilen Varsa](https://open.spotify.com/album/1InCVaeeXbDzR3kSLD08VA) | 2:20 |
+| 16 | [Bilen Varsa](https://open.spotify.com/track/4X7mqQVz8rs6rbbe0iTMiC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Bilen Varsa](https://open.spotify.com/album/1InCVaeeXbDzR3kSLD08VA) | 2:20 |
 | 17 | [Yıkılana Kadar](https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Yıkılana Kadar](https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg) | 3:00 |
 | 18 | [Her Zerrene](https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Her Zerrene](https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8) | 2:29 |
 | 19 | [Pişmanım](https://open.spotify.com/track/0GjsxUigEnfo2OZr0pYrc1) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Pişmanım](https://open.spotify.com/album/0Ow2w8J3f8HzCt9g6xBttQ) | 2:17 |

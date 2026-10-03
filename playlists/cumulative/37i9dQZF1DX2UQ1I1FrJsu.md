@@ -4,7 +4,7 @@
 
 > smooth, crisp, not too tannic.
 
-240 songs - 14 hr 24 min
+241 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bonnie And Clyde](https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 4:16 | 2024-01-08 | 2026-01-15 |
 | [Breathe](https://open.spotify.com/track/28AnZq4Yo21iyneTWGjeUT) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Breathe](https://open.spotify.com/album/1ESGqa57ayFuz8ZpS6RxqX) | 3:57 | 2026-06-19 | 2026-09-22 |
 | [BusyForYa \(feat\. Planet Giza, Shibo\)](https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [BusyForYa](https://open.spotify.com/album/2HVZHeCUroQTUACNbhh7DX) | 3:34 | 2026-09-11 |  |
+| [Cairo FM](https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Zero](https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y) | 3:01 | 2026-10-02 |  |
 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2024-01-08 |  |
 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 | 2024-01-08 |  |
 | [Carinho](https://open.spotify.com/track/2nNWtxK93xB0jCpdAzu6k3) | [Lorena Moura](https://open.spotify.com/artist/1Voc4loA71s0PHb8K2cNUT) | [Mata\-Leão](https://open.spotify.com/album/71dIXMjX1mEsLYIqyUtNrE) | 3:55 | 2026-07-31 |  |
@@ -110,7 +111,7 @@
 | [Goji](https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Goji](https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij) | 3:35 | 2025-03-14 |  |
 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:39 | 2024-01-08 |  |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2024-01-08 |  |
-| [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2024-01-08 |  |
+| [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2024-01-08 | 2026-10-03 |
 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 | 2024-01-08 |  |
 | [Head Lights](https://open.spotify.com/track/4siDlNbBBuqE8AuNMhQ6eS) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Cherry](https://open.spotify.com/album/4vXwpz82nAfH45EFhT7UIq) | 2:25 | 2026-07-24 | 2026-08-22 |
 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 | 2026-07-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,429 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,437 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 51 | [Un Vacío](https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Un Vacío](https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU) | 2:31 |
 | 52 | [NO SE DA \(Bahía Aguacate\)](https://open.spotify.com/track/2AfAXREccYROY8IdG789VC) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [NO SE DA \(Bahía Aguacate\)](https://open.spotify.com/album/00IAfX3E8MwCxxyQy89hX9) | 3:00 |
 | 53 | [Me Enamoró](https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8) | [Osman Música](https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC) | [Me Enamoró](https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf) | 2:34 |
-| 54 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |
-| 55 | [TE LO ADVERTÍ](https://open.spotify.com/track/65obf6PsnYTQk4votV4aA3) | [Dos Rayos](https://open.spotify.com/artist/6oW8mrGWf9Hy3Q5sFr71Pc), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [TE LO ADVERTÍ](https://open.spotify.com/album/3k5sKzriLrzq46FcLccPZK) | 3:19 |
+| 54 | [TE LO ADVERTÍ](https://open.spotify.com/track/65obf6PsnYTQk4votV4aA3) | [Dos Rayos](https://open.spotify.com/artist/6oW8mrGWf9Hy3Q5sFr71Pc), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [TE LO ADVERTÍ](https://open.spotify.com/album/3k5sKzriLrzq46FcLccPZK) | 3:19 |
+| 55 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |
 | 56 | [Nunca Es Tarde](https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [Nunca Es Tarde](https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G) | 2:41 |
 | 57 | [Conexión Total](https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Deja](https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd) | 3:35 |
 | 58 | [Eso Vaa](https://open.spotify.com/track/5wMoKneqcYJoHqHntkiLxd) | [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [FRUTTI](https://open.spotify.com/album/7BC1dycMsk72yMpZ3cXnu9) | 2:40 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 61 | [Perdiendo el Control](https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Perdiendo el Control](https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10) | 3:22 |
 | 62 | [Partycito](https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl) | [Nohaaddana](https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA) | [Partycito](https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk) | 2:33 |
 | 63 | [Regalo](https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Buen Pez \(Deluz\)](https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe) | 2:57 |
-| 64 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
-| 65 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
+| 64 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
+| 65 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
 | 66 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
 | 67 | [Cuando Te Vi](https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Cuando Te Vi](https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac) | 2:57 |
 | 68 | [Se Acabó](https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 3:41 |

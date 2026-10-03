@@ -4,7 +4,7 @@
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-139 songs - 8 hr 15 min
+140 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [The Light Within](https://open.spotify.com/track/3bdcZhuUHinvFeNViIWXKT) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Where We Are \(Unity Edition\)](https://open.spotify.com/album/4ritLJ4dx1ORPyARuasLjB) | 2:14 | 2026-06-19 |  |
 | [The long wait](https://open.spotify.com/track/5myWqn2hTYUvHzFM2bdp5r) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [The long wait](https://open.spotify.com/album/0fkCVJKKAS7ORhbMoiV8R9) | 2:56 | 2024-10-15 | 2025-01-03 |
 | [The Stars Will Dim \- Nowhere Sessions](https://open.spotify.com/track/59FkcwkiWIq6HBVrSai5Db) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The Stars Will Dim \(Nowhere Sessions\)](https://open.spotify.com/album/4Eil98QcM8s8ES9vCP7Pxl) | 2:41 | 2026-06-19 |  |
+| [The Wanderer \(Piano and Strings\)](https://open.spotify.com/track/5nRosH8j7xF8IOlqGuZZSl) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3), [Alkyona Quartet](https://open.spotify.com/artist/6GFleRROXkEseKXdEhnNUc) | [The Wanderer \(Piano and Strings\)](https://open.spotify.com/album/5ClG6l60y3oVW92yECoyfp) | 4:32 | 2026-10-02 |  |
 | [Timeless](https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO) | [Sisulu](https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC) | [Timeless](https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq) | 2:17 | 2022-07-11 | 2023-02-02 |
 | [Timothy Is Sleeping](https://open.spotify.com/track/6vYjY9nVrHxfKQ2ByvcuTu) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Lumière \(Expanded\)](https://open.spotify.com/album/5sPxNUytj37p0cQJ8KRbOZ) | 1:55 | 2026-06-19 |  |
 | [To Ourselves](https://open.spotify.com/track/4K1LYV02moMXdlsp63IxI8) | [Jon Notar](https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX) | [To Ourselves](https://open.spotify.com/album/4etqTS2Mu9WRjjaWvWJBFA) | 4:28 | 2022-07-11 | 2023-02-02 |

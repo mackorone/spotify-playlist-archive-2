@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Francis Karel
 
-1,815 songs - 4 day 18 hr 48 min
+1,818 songs - 4 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [Ego \- Live Version](https://open.spotify.com/track/25Lal5T01WHDBjW7WEbM8X) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Tujuh Belas](https://open.spotify.com/album/5LMiSpyLeOxZBpYZmu0Uiu) | 4:20 | 2025-07-03 | 2025-08-30 |
 | [Ego Wong Tuo \- HipHop Dangdut Version](https://open.spotify.com/track/6EclwrE9yVgAKjOnlw0qFv) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ego Wong Tuo \(HipHop Dangdut Version\)](https://open.spotify.com/album/4OkDaPsPQQWB0Tpy9509G3) | 4:37 | 2025-11-06 | 2026-02-06 |
 | [EGP](https://open.spotify.com/track/6uOGcTA9RS4lV0B6kjTSBJ) | [Sundanis](https://open.spotify.com/artist/7aL9PiYEeYQWnBL8iDPHDs) | [EGP](https://open.spotify.com/album/78RZnl53aFY6nw9vAvpWih) | 3:29 | 2025-09-12 | 2025-11-07 |
+| [Eh Becanda](https://open.spotify.com/track/0RJ5u7L2qpogHXMtbgGTsE) | [Pipaw](https://open.spotify.com/artist/0glr9p2zr1vdYHakGd5SBw), [Mimomix](https://open.spotify.com/artist/148O9Qn71Ok2WGnnIpqJQ4), [Pawzia](https://open.spotify.com/artist/18OGxt2KANFLWA7dJIBhvh) | [Eh Becanda](https://open.spotify.com/album/75Ib6GNyseHPNDQXpaZ6nZ) | 3:07 | 2026-10-02 |  |
 | [Eksplorasi](https://open.spotify.com/track/2WXmgTLLUbl13plXDLzSxQ) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Eksplorasi](https://open.spotify.com/album/1LfGaqBK7M3X0n7TyzRycI) | 3:01 | 2024-09-05 | 2024-11-08 |
 | [Elegi Esok Pagi](https://open.spotify.com/track/4NuTMOmnKTWBsYh2vn9Rey) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC), [Segara](https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC) | [Elegi Esok Pagi](https://open.spotify.com/album/7hQBSVBwUgEq8brOZxSy3N) | 3:44 | 2025-02-13 | 2025-05-30 |
 | [Elu\-elukan](https://open.spotify.com/track/7LQ9yw8sSdjmckKCK4CHSo) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Elu\-elukan](https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm) | 4:03 | 2025-10-16 | 2026-02-06 |
@@ -835,6 +836,7 @@
 | [Kulakukan Semua Untukmu](https://open.spotify.com/track/6VBkE4gtAmebF1lTkKFPaB) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Fatur](https://open.spotify.com/artist/68v2wNmrKf1vIJp52qqiOm) | [Kulakukan Semua Untukmu](https://open.spotify.com/album/4QRzrMNHOYcE22vttsu4l7) | 3:28 | 2024-08-08 | 2024-09-06 |
 | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/0V6nKCvWMIXgsvyiSyiLPT) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/23qxIsMBrP5jSrF66At2dt) | 4:15 | 2025-04-10 | 2025-05-30 |
 | [Kunci Hati](https://open.spotify.com/track/3CwhctExu5cz77YvbI9wlI) | [Asrilia](https://open.spotify.com/artist/1pQOQZuNllNIBrJeYjgCS7) | [Kunci Hati](https://open.spotify.com/album/683QwvnT2ZBvHF4gVHQgoH) | 4:59 | 2026-04-16 | 2026-05-30 |
+| [Kupu \- Kupu](https://open.spotify.com/track/07Ojh9Dn5bTOErl1uQwy0a) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d), [dbatlayar](https://open.spotify.com/artist/6Cl2MkL95uTSdGnkT0epnG) | [Kupu \- Kupu](https://open.spotify.com/album/6cu8HBxa70rlU0VvnbnU9B) | 3:32 | 2026-10-02 |  |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-04-18 | 2024-09-27 |
 | [Kurela](https://open.spotify.com/track/7yA0mZGp8AzRLJRpOsojZD) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Rasa&Rasa](https://open.spotify.com/album/4Q3EngYfM5IHtJq8fEgbqK) | 3:18 | 2026-05-21 | 2026-06-26 |
 | [Kurnia dan Pesona](https://open.spotify.com/track/2b0q54nbMgJT61fdfLdT9n) | [Fariz RM](https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kurnia dan Pesona](https://open.spotify.com/album/7oDA77V7S2EOtn0urfmyfM) | 4:02 | 2024-12-19 | 2025-02-07 |
@@ -1674,6 +1676,7 @@
 | [Terbawa Suasana](https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Terbawa Suasana](https://open.spotify.com/album/5ZnqRmmlH1EgJY3GKIfYoL) | 4:10 | 2024-08-15 | 2024-09-27 |
 | [Terbelah Jadi Dua](https://open.spotify.com/track/3aM3bFzA2dCtej0U3h4WKH) | [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Terbelah Jadi Dua](https://open.spotify.com/album/7yOC8uTLy0iwjg1n7YBz4P) | 4:15 | 2026-04-16 | 2026-06-26 |
 | [Terbentur](https://open.spotify.com/track/6ZS1HUUDf2MZ6E3GW9JiTC) | [Polka Wars](https://open.spotify.com/artist/18ss7hrVwa5Wgb278tcy8d) | [Terbentur](https://open.spotify.com/album/6bnxxGlVOK4BY3bgScSQ1M) | 4:02 | 2026-08-07 | 2026-09-11 |
+| [Tercipta Untukku](https://open.spotify.com/track/5IBQGQDQH1qaPlM21v2qOm) | [Vedra](https://open.spotify.com/artist/0yEm2hcw2egZ4tGeSca3dz), [Gerald](https://open.spotify.com/artist/5Pcq71ji8pMg9NdV9saNjr) | [Tercipta Untukku](https://open.spotify.com/album/72LT3UAp6dShJsQ4exF6rM) | 3:17 | 2026-10-02 |  |
 | [Tercipta Untukmu](https://open.spotify.com/track/7y2wNnNXT3NMgJ07DL5TKZ) | [NINEBALL](https://open.spotify.com/artist/1qAwDrmiiBt6JjepLcjXdp) | [Tercipta Untukmu](https://open.spotify.com/album/60S6BVDoaAFJ5wrDBNqgsU) | 3:04 | 2025-05-30 | 2025-06-27 |
 | [Tergariskan](https://open.spotify.com/track/5ojHPGLl3ZjE6ikmUqoeHA) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Tergariskan](https://open.spotify.com/album/6Hed4MpnhCfLIJ6uDMOskA) | 4:10 | 2024-12-12 | 2025-04-11 |
 | [Terima Kasih](https://open.spotify.com/track/6VvqrT2ptFQjM5aMWAcxSH) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Terima Kasih](https://open.spotify.com/album/3j8Y4da2KygEkphQNPzxjk) | 3:53 | 2025-09-25 | 2025-11-07 |

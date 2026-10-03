@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,628 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,631 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 64 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
 | 65 | [covent garden](https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [covent garden](https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH) | 3:01 |
 | 66 | [My Way Home](https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Wonder, Won't You?](https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y) | 3:37 |
-| 67 | [言わせばない](https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [言わせばない](https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR) | 4:56 |
-| 68 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 67 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 68 | [言わせばない](https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [言わせばない](https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR) | 4:56 |
 | 69 | [FIVE](https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [FIVE](https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5) | 3:31 |
 | 70 | [PERFECT](https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [TIME SLIP](https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo) | 4:28 |
 | 71 | [Accord](https://open.spotify.com/track/4YiSm3yWe57eX3ZDxhIzzO) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm), [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [The other day,](https://open.spotify.com/album/0C35I9pRllDfNNgZ24tzMB) | 5:12 |
 | 72 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 |
-| 73 | [NEW ERA](https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [NEW ERA](https://open.spotify.com/album/68M8Tmn6r8UHPjj9mEKfIv) | 4:39 |
-| 74 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 |
+| 73 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 |
+| 74 | [NEW ERA](https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [NEW ERA](https://open.spotify.com/album/68M8Tmn6r8UHPjj9mEKfIv) | 4:39 |
 | 75 | [Move On](https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Move On](https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t) | 2:42 |
 | 76 | [栃木](https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [栃木](https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE) | 3:49 |
 | 77 | [Tunes for Suly](https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 7:06 |

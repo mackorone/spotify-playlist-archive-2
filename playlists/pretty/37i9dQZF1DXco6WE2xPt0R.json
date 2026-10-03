@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 128211,
+  "num_followers": 128206,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
+        "name": "Slow Grind",
+        "url": "https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Slow Grind",
+      "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
         "name": "AIN'T U TIRED? (with Muni Long)",
         "url": "https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 221000,
       "name": "AIN'T U TIRED? (with Muni Long)",
       "url": "https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "Slow Grind",
-        "url": "https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Slow Grind",
-      "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "Broken is the man",
-      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 194000,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "Broken is the man",
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "BERNARR.",
-        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 211993,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/0zxEQlq4FRzOpfJQCItVNE"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Serial Romantic",
         "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 240000,
       "name": "I Believe (Selfish)",
       "url": "https://open.spotify.com/track/7vpejOgd1PfPuBqFZ6Sw0y"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "BERNARR.",
+        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 211993,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/0zxEQlq4FRzOpfJQCItVNE"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 225298,
+      "name": "He Will Follow You With His Eyes",
+      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
         "name": "I NEED IT (feat. Syd & Tank)",
         "url": "https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 224516,
       "name": "I NEED IT (feat. Syd & Tank)",
       "url": "https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 225298,
-      "name": "He Will Follow You With His Eyes",
-      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 178716,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/0oY74qutz2kdv3mUGthTIX"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Dreamsoul Ballads",
         "url": "https://open.spotify.com/album/4YDB8xoCS8aCo93B5SfPCK"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 237500,
       "name": "Anita Valentine",
       "url": "https://open.spotify.com/track/54hEV0SJrVqPi0SePNXKXg"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 178716,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/0oY74qutz2kdv3mUGthTIX"
     },
     {
       "added_at": "2026-08-07 14:25:39",

@@ -9351,6 +9351,24 @@
     },
     {
       "album": {
+        "name": "Beach Gothic",
+        "url": "https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Girl's Girl",
+      "url": "https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi"
+    },
+    {
+      "album": {
         "name": "GirlMagnet",
         "url": "https://open.spotify.com/album/3VhOfi3Bg6CMLuSc835Izk"
       },
@@ -24460,24 +24478,6 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
-    },
-    {
-      "album": {
-        "name": "Beach Gothic",
-        "url": "https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d"
-      },
-      "artists": [
-        {
-          "name": "Orchid",
-          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
-        }
-      ],
-      "date_added": "2026-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi"
     },
     {
       "album": {

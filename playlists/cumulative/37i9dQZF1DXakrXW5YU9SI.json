@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 179979,
       "name": "chc\u0119 tu zosta\u0107",
       "url": "https://open.spotify.com/track/0EHfwu3900Lz5BwocEch4S"
@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 219522,
       "name": "Czere\u015bniowy",
       "url": "https://open.spotify.com/track/4nUMzmwgnkUgSCG8h6z8st"
@@ -4231,6 +4231,28 @@
     },
     {
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "album": {
         "name": "Dream As One (from Avatar: Fire and Ash)",
         "url": "https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q"
       },
@@ -5210,6 +5232,24 @@
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
+        "name": "Fickle",
+        "url": "https://open.spotify.com/album/5wHazOcgweQjf3IoshDFzX"
+      },
+      "artists": [
+        {
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195770,
+      "name": "Fickle",
+      "url": "https://open.spotify.com/track/0UryFuTgfEwvpM6A7jIOG7"
     },
     {
       "album": {
@@ -8578,7 +8618,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 261909,
       "name": "Latanie",
       "url": "https://open.spotify.com/track/6b184Yx4dYqWMAVCaEbavW"
@@ -10745,6 +10785,24 @@
     },
     {
       "album": {
+        "name": "My Whole World",
+        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247694,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
+    },
+    {
+      "album": {
         "name": "\u017bony Hollywood",
         "url": "https://open.spotify.com/album/3qR6yvACFqUEMJu3OKbJOW"
       },
@@ -12288,7 +12346,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 169891,
       "name": "ob\u0142oki",
       "url": "https://open.spotify.com/track/6D7uM8zuAYJ82Fwatw9rWA"
@@ -12746,6 +12804,32 @@
       "duration_ms": 186813,
       "name": "Ostatni dzie\u0144 lata",
       "url": "https://open.spotify.com/track/6FJb2Knd2tn504K1durCVt"
+    },
+    {
+      "album": {
+        "name": "NURT",
+        "url": "https://open.spotify.com/album/4HSrEiHI07MfLJEAlJUTj7"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186813,
+      "name": "Ostatni dzie\u0144 lata",
+      "url": "https://open.spotify.com/track/6vAdfVyvcqGdRPmvutIp4D"
     },
     {
       "album": {
@@ -13776,7 +13860,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 195573,
       "name": "Pokochaj Mnie Ponownie",
       "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
@@ -15130,7 +15214,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 173926,
       "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
       "url": "https://open.spotify.com/track/2P5bFUdYdTZq13FIRbqdzo"
@@ -16480,7 +16564,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 153116,
       "name": "storytelling",
       "url": "https://open.spotify.com/track/6f3NMJL36JfGQU7cP3ysyf"
@@ -16538,7 +16622,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 141984,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
@@ -16596,6 +16680,24 @@
       "duration_ms": 221688,
       "name": "St\u00f3j",
       "url": "https://open.spotify.com/track/2gUWtzU7l87TY2ScTJyBzn"
+    },
+    {
+      "album": {
+        "name": "Summer Clothes",
+        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265505,
+      "name": "Summer Clothes",
+      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
     },
     {
       "album": {
@@ -17038,6 +17140,24 @@
       "duration_ms": 245701,
       "name": "Tacy sami",
       "url": "https://open.spotify.com/track/3BMOhoXlSUa3hOEgX6qxni"
+    },
+    {
+      "album": {
+        "name": "Po\u0142udnie",
+        "url": "https://open.spotify.com/album/682aI8kCrCpjITb2VV69hn"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "Tak bym chcia\u0142...",
+      "url": "https://open.spotify.com/track/3mbVuvuQQC9LLzvgSIHsbg"
     },
     {
       "album": {
@@ -18208,7 +18328,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 193846,
       "name": "To zabola\u0142o",
       "url": "https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE"
@@ -19263,6 +19383,24 @@
     },
     {
       "album": {
+        "name": "\u017beremie",
+        "url": "https://open.spotify.com/album/7gOWyyB6lrWqFPOWEJkCGA"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228336,
+      "name": "Wagoniki",
+      "url": "https://open.spotify.com/track/218RVrFkpsNNX58I5kPdlQ"
+    },
+    {
+      "album": {
         "name": "Waiting on the Right Time",
         "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
       },
@@ -19400,7 +19538,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
@@ -21294,6 +21432,24 @@
       "duration_ms": 200820,
       "name": "\u015awietnie",
       "url": "https://open.spotify.com/track/2W9yJOkL3YoCS4cyWhw0gG"
+    },
+    {
+      "album": {
+        "name": "Plamy",
+        "url": "https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211705,
+      "name": "\u017bebro",
+      "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
     },
     {
       "album": {

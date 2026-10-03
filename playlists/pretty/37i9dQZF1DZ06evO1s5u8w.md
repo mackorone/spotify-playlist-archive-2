@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,061 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,074 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 26 | [Love Goes to a Building on Fire \- 2024 Remaster](https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads: 77 \(Super Deluxe Edition\) \[2024 Remaster\]](https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan) | 2:58 |
 | 27 | [Swamp \- 2005 Remaster](https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:13 |
 | 28 | [Thank You for Sending Me an Angel \- Live](https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 2:09 |
-| 29 | [The Big Country](https://open.spotify.com/track/1YoRuPU8F05eVcSjiAEq7r) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 5:30 |
-| 30 | [The Great Curve \- 2005 Remaster](https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 6:27 |
+| 29 | [The Great Curve \- 2005 Remaster](https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 6:27 |
+| 30 | [The Big Country](https://open.spotify.com/track/1YoRuPU8F05eVcSjiAEq7r) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 5:30 |
 | 31 | [Making Flippy Floppy \- 2005 Remaster](https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:54 |
 | 32 | [Found a Job \- Live](https://open.spotify.com/track/7rWq4710VbhYigwobjNwni) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 3:15 |
 | 33 | [New Feeling](https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 3:09 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 36 | [What a Day That Was \- Live; Edit](https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 6:00 |
 | 37 | [Pulled Up](https://open.spotify.com/track/6qSzRfSevJwvfCL1Y2gK45) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 4:28 |
 | 38 | [I Zimbra \- 2005 Remaster](https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:08 |
-| 39 | [Perfect World \- 2005 Remaster](https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:27 |
-| 40 | [The Good Thing](https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:03 |
+| 39 | [The Good Thing](https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:03 |
+| 40 | [Perfect World \- 2005 Remaster](https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:27 |
 | 41 | [Don't Worry About the Government](https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 3:00 |
 | 42 | [Mind \- 2005 Remaster](https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:12 |
-| 43 | [Paper](https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 2:39 |
-| 44 | [Warning Sign](https://open.spotify.com/track/4tqipsSOnLHM8UbH6kzvXO) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:54 |
+| 43 | [Warning Sign](https://open.spotify.com/track/4tqipsSOnLHM8UbH6kzvXO) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:54 |
+| 44 | [Paper](https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 2:39 |
 | 45 | [The Book I Read](https://open.spotify.com/track/4OT7Ndu29Z7JfhwRS2iCJX) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 4:10 |
 | 46 | [Television Man \- 2005 Remaster](https://open.spotify.com/track/02eyUrxu8saTFZoxzNHtHz) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 6:10 |
-| 47 | [Air](https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:34 |
-| 48 | [Artists Only](https://open.spotify.com/track/0TESnUvaEm6IXp38352XZG) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:35 |
+| 47 | [Artists Only](https://open.spotify.com/track/0TESnUvaEm6IXp38352XZG) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:35 |
+| 48 | [Air](https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:34 |
 | 49 | [Love for Sale \- 2005 Remaster](https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [True Stories](https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM) | 4:31 |
 | 50 | [A Clean Break \(Let's Work\) \- Live at WCOZ, Massachusetts; 2004 Remaster](https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Name of This Band Is Talking Heads \(Expanded 2004 Remaster\)](https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY) | 5:05 |
 
-Snapshot ID: `arxRAAAAAADUc81T7mQORohQINF3tCHJ`
+Snapshot ID: `ar2igAAAAAAw2+hodwqJzS6+Ub4wGF3l`

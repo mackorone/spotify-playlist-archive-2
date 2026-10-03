@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,516 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,556 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 17 | [Liberdade](https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 3:05 |
 | 18 | [ANA](https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 3:26 |
 | 19 | [Vitória](https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Vitória](https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw) | 3:29 |
-| 20 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 |
-| 21 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 |
+| 20 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 |
+| 21 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 |
 | 22 | [Denso e Danço](https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:37 |
 | 23 | [Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Oh! Chuva \(Ao Vivo\)](https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK) | 3:14 |
 | 24 | [Incenso \- Ao Vivo](https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Maneva 20 Anos, Origem \- Ao Vivo](https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr) | 2:32 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 37 | [Rede no Coqueiro](https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Entre Borboletas e Aviões](https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC) | 3:27 |
 | 38 | [Meu Jeito de Ser](https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Meu Jeito de Ser](https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N) | 2:56 |
 | 39 | [Pedra Preciosa](https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pedra Preciosa](https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY) | 3:24 |
-| 40 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 |
-| 41 | [Seu Herói](https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER \(Deluxe\)](https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb) | 3:22 |
+| 40 | [Seu Herói](https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER \(Deluxe\)](https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb) | 3:22 |
+| 41 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 |
 | 42 | [Pura Ingratidão \- Ao Vivo](https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Pura Ingratidão \(Ao Vivo\)](https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf) | 4:18 |
 | 43 | [Aeroporto \- Acústico](https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Aeroporto \(Acústico\)](https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0) | 3:40 |
 | 44 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 |

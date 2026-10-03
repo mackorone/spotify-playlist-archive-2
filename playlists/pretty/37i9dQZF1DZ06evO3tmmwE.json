@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1451,
+  "num_followers": 1450,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADE4ldB/RvHZkSPO2QBM5oR",
+  "snapshot_id": "ar2igAAAAAAQoxPWXDPCdk7+kBZCnQRW",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Mexican Heaven",
+      "url": "https://open.spotify.com/track/0YzkYtsG5jFfK1k22n3kCz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uno Cuhh",
         "url": "https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 154644,
       "name": "Uno Cuhh",
       "url": "https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Mexican Heaven",
-      "url": "https://open.spotify.com/track/0YzkYtsG5jFfK1k22n3kCz"
     },
     {
       "added_at": null,
@@ -383,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave 687",
-        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
       "artists": [
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Shrt Lyfe",
+          "url": "https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF"
         }
       ],
-      "duration_ms": 207230,
-      "name": "Nave 687",
-      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
+      "duration_ms": 105629,
+      "name": "El Drogadito",
+      "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
     },
     {
       "added_at": null,
@@ -451,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nave 687",
+        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 207230,
+      "name": "Nave 687",
+      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 155928,
       "name": "Cassius Clay",
       "url": "https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Shrt Lyfe",
-          "url": "https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF"
-        }
-      ],
-      "duration_ms": 105629,
-      "name": "El Drogadito",
-      "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
     },
     {
       "added_at": null,

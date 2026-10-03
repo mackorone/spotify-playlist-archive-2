@@ -1,13 +1,29 @@
 {
   "description": "it's finally folk weather \ud83c\udf42",
-  "num_followers": 152113,
+  "num_followers": 152163,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGe0Kbyk+xOmKGL7TaB8qoY6Whvq",
+  "snapshot_id": "AAAAAK8wb13GBit9MZGSknRHurwOWhC/",
   "tracks": [
+    {
+      "added_at": "2026-10-02 14:30:34",
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/1RQPYudY9t7nbM6P1dg5kd"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/0BeurN342PVJckMqXHTHzT"
+    },
     {
       "added_at": "2026-09-22 04:00:41",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/5Ev1zhaO6hi5eCLGYE0WKT"
     },
     {
+      "added_at": "2026-10-02 04:02:01",
+      "album": {
+        "name": "Fighter Dog",
+        "url": "https://open.spotify.com/album/57pXQxr9mmsmf6sohGsyp0"
+      },
+      "artists": [
+        {
+          "name": "Nikki Falk",
+          "url": "https://open.spotify.com/artist/4XlXTNdb31GyKkl1sICiF0"
+        }
+      ],
+      "duration_ms": 192446,
+      "name": "June Blue",
+      "url": "https://open.spotify.com/track/467c5moEgrKIqydu0rxacW"
+    },
+    {
       "added_at": "2026-09-25 04:02:34",
       "album": {
         "name": "If I Had The Hand Of God",
@@ -55,6 +87,26 @@
       "duration_ms": 161816,
       "name": "If I Had The Hand Of God",
       "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "added_at": "2026-10-02 04:02:01",
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "added_at": "2026-09-29 19:32:25",
@@ -87,6 +139,70 @@
       "duration_ms": 193293,
       "name": "When You Look at Me",
       "url": "https://open.spotify.com/track/4vzmREv8I7PDPC95mK8t6V"
+    },
+    {
+      "added_at": "2026-10-02 04:02:01",
+      "album": {
+        "name": "Fell Ass Backwards",
+        "url": "https://open.spotify.com/album/3W7i1zFzkka3bAWCNbI3GH"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 143882,
+      "name": "Fell Ass Backwards",
+      "url": "https://open.spotify.com/track/2DpILFiRNzOKzvNbhPs0U8"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
+        "name": "Whatever You Wanna",
+        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 211486,
+      "name": "Whatever You Wanna",
+      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
+    },
+    {
+      "added_at": "2026-10-02 04:02:01",
+      "album": {
+        "name": "Living and Dying",
+        "url": "https://open.spotify.com/album/3tTVsaRSi2vGPUFxG3WHOm"
+      },
+      "artists": [
+        {
+          "name": "Reagan Beem",
+          "url": "https://open.spotify.com/artist/5tPTpbUqEfk2JU979vtzzM"
+        }
+      ],
+      "duration_ms": 133625,
+      "name": "Living and Dying",
+      "url": "https://open.spotify.com/track/4Lbo3oCVGpgMFoS9nlaw47"
+    },
+    {
+      "added_at": "2026-10-02 04:02:01",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
     },
     {
       "added_at": "2026-09-22 04:00:41",
@@ -151,6 +267,54 @@
       "duration_ms": 180021,
       "name": "Comedy Show",
       "url": "https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v"
+    },
+    {
+      "added_at": "2026-10-02 04:02:01",
+      "album": {
+        "name": "Lightspheres on Their Way",
+        "url": "https://open.spotify.com/album/4raaYds0i8Z9Ai0njZ9Dwf"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Bindlestiff",
+      "url": "https://open.spotify.com/track/5ISZ5PHuaHMbRTLdwden0M"
+    },
+    {
+      "added_at": "2026-10-02 04:02:01",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/2lyEJEORRg02M5uIyMNqdW"
+      },
+      "artists": [
+        {
+          "name": "Bridey Costello",
+          "url": "https://open.spotify.com/artist/3tvlb1aIjr47jXRsA4i7GU"
+        }
+      ],
+      "duration_ms": 186391,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/7hL6EB3ucYphlHwQE5yTjg"
+    },
+    {
+      "added_at": "2026-10-02 04:02:01",
+      "album": {
+        "name": "Queens",
+        "url": "https://open.spotify.com/album/58mb074KdbNxpLKrkvDZej"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "duration_ms": 387646,
+      "name": "Queens",
+      "url": "https://open.spotify.com/track/38BxonKtYegINzHKASHfty"
     },
     {
       "added_at": "2026-09-25 04:02:34",
@@ -247,6 +411,22 @@
       "duration_ms": 265912,
       "name": "True Feeling",
       "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:01",
+      "album": {
+        "name": "Pair of Dice",
+        "url": "https://open.spotify.com/album/4j7dkLQXcDmKH5BxgsSdWy"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 274157,
+      "name": "Pair of Dice",
+      "url": "https://open.spotify.com/track/6xHiYvCq8GcSZmRdq2eWIp"
     },
     {
       "added_at": "2026-08-14 04:01:50",
@@ -1011,22 +1191,6 @@
       "duration_ms": 183413,
       "name": "Punch!",
       "url": "https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Whatever You Wanna",
-        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
-      },
-      "artists": [
-        {
-          "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
-        }
-      ],
-      "duration_ms": 211486,
-      "name": "Whatever You Wanna",
-      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
     },
     {
       "added_at": "2026-07-17 04:01:15",

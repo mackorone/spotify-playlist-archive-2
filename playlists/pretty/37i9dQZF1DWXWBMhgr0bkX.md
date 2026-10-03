@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: kaeto
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,538 likes - 79 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,549 likes - 79 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 10 | [Met my match](https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Met my match](https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO) | 2:45 |
 | 11 | [Ireland](https://open.spotify.com/track/5iXvUuow4NySBMCtWiGz9m) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1) | [Ireland](https://open.spotify.com/album/2uzgtFzX2z8L9NnRrSUKgm) | 2:56 |
 | 12 | [Jennifer](https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Take Away My Problems](https://open.spotify.com/album/1QthikCvDI8Bt7QAODFQ7h) | 2:36 |
-| 13 | [Track 3](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 0:00 |
+| 13 | [Girl's Girl](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 2:41 |
 | 14 | [Blame It On You](https://open.spotify.com/track/2Y7yWtI0r0lD0xTfCh2mC1) | [Finn Forster](https://open.spotify.com/artist/5wNzkW6AOF8pl4tCuPdVZh) | [Blame It On You](https://open.spotify.com/album/6vPQf0CgBrmTSzl79cu6rE) | 2:50 |
 | 15 | [She's Just A Friend Of Mine](https://open.spotify.com/track/4HZb7nI9lA3VNFlZeyw1j8) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [She's Just A Friend Of Mine](https://open.spotify.com/album/2RwbSWEsPaS21vssjkLHC2) | 2:40 |
 | 16 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |

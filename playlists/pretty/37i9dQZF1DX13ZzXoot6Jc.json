@@ -1,6 +1,6 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 449789,
+  "num_followers": 449788,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Blacktop",
+        "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "you look like you love me (feat. Riley Green)",
         "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Blacktop",
-        "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Wild as Her",
-      "url": "https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/0TaLETmF6CvzLKukgBXERn"
     },
     {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
+    },
+    {
       "added_at": "2026-01-23 05:01:12",
       "album": {
         "name": "What Not To",
@@ -491,22 +507,6 @@
       "duration_ms": 158333,
       "name": "3,2,1",
       "url": "https://open.spotify.com/track/1gJeOuF6VuBy2jZNN8CIOP"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Blue Jean Baby",
-        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 132068,
-      "name": "Blue Jean Baby",
-      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Blue Jean Baby",
+        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 132068,
+      "name": "Blue Jean Baby",
+      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "A Lot More Free",
         "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 198920,
       "name": "A Lot More Free",
       "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "High Road",
-      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -947,18 +947,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz"
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 170106,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY"
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -979,22 +983,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Texas (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Texas (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+      "duration_ms": 170106,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1573,20 +1573,20 @@
       "url": "https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG"
     },
     {
-      "added_at": "2025-07-04 04:00:22",
+      "added_at": "2025-12-12 19:32:52",
       "album": {
-        "name": "Last Rodeo",
-        "url": "https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES"
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
       },
       "artists": [
         {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
         }
       ],
-      "duration_ms": 195488,
-      "name": "Last Rodeo",
-      "url": "https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP"
+      "duration_ms": 189638,
+      "name": "You Didn\u2019t Hear It From Me",
+      "url": "https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1605,20 +1605,20 @@
       "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
     },
     {
-      "added_at": "2025-12-12 19:32:52",
+      "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "One Of Us",
-        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
+        "name": "Last Rodeo",
+        "url": "https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES"
       },
       "artists": [
         {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
         }
       ],
-      "duration_ms": 189638,
-      "name": "You Didn\u2019t Hear It From Me",
-      "url": "https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf"
+      "duration_ms": 195488,
+      "name": "Last Rodeo",
+      "url": "https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP"
     },
     {
       "added_at": "2025-07-04 04:00:22",

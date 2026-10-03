@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: Mark Stam
 
-571 songs - 1 day 2 hr 56 min
+572 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Bani](https://open.spotify.com/track/61deXEuSYYBLM0iFAR56Hx) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Lora](https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq) | [Bani](https://open.spotify.com/album/1QZskmHu5VDLTmSmOFLC8r) | 2:39 | 2025-07-03 | 2025-07-18 |
 | [Bastionul Fericirii](https://open.spotify.com/track/6jg9LBPwmtVNXLlqHozweF) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Bastionul Fericirii](https://open.spotify.com/album/7p2FEhYZBk8MuxYM60sqPS) | 3:02 | 2026-08-13 |  |
 | [Bea, Daca Vrei](https://open.spotify.com/track/0Jrjh6uUm8piWAWGP8erR2) | [Anda Adam](https://open.spotify.com/artist/5Xf9tWz0AarRXKqKKxJkNE), [Marius Moga](https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk) | [Bea, Daca Vrei](https://open.spotify.com/album/2ktHpw0rjUnhPmVJS5erVH) | 2:54 | 2024-11-28 | 2025-01-24 |
+| [Beau cu timpul](https://open.spotify.com/track/0TzeBdbYYYSCQI6Gd7EhL7) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Cântece de Inimă, Vol\. III](https://open.spotify.com/album/0kBVtBhtn4gnJUCbuYX61m) | 2:40 | 2026-10-02 |  |
 | [Beautiful](https://open.spotify.com/track/3N6AhbiagcojnXm4GiugHk) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Beautiful](https://open.spotify.com/album/0K4ZTHodKJ4oLr37KIrtvW) | 2:44 | 2025-09-25 | 2025-10-17 |
 | [Beluga](https://open.spotify.com/track/18dQBc9UPscYIqRqSepWF8) | [Florin Ristei](https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW) | [Beluga](https://open.spotify.com/album/3DTsjoUMCLAnBp4iGhVvSJ) | 2:47 | 2026-06-18 |  |
 | [Better Alone](https://open.spotify.com/track/7xyQZu1eQD0L36F48B9C0w) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Better Alone](https://open.spotify.com/album/6t2SDoTeLUBNWpaOisUfsy) | 2:57 | 2026-05-14 | 2026-05-29 |
@@ -525,7 +526,7 @@
 | [Totul Pe Nimic](https://open.spotify.com/track/3ki2hTuCBdfuRRHU91il4x) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Totul Pe Nimic](https://open.spotify.com/album/05uNXr8ZcRGYE7hBKJphpJ) | 2:55 | 2026-09-10 |  |
 | [Trandafiri](https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Trandafiri](https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5) | 2:22 | 2025-05-15 | 2025-08-22 |
 | [Trecător](https://open.spotify.com/track/6CwoQ1l8yrUBNlK6PPZNd3) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd), [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Trecător](https://open.spotify.com/album/1I591aeaK1BoL8MEbxoVmy) | 2:57 | 2025-09-18 | 2026-02-27 |
-| [Trenul](https://open.spotify.com/track/0tkYAGQjYLqTnZSF17X7qy) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Trenul](https://open.spotify.com/album/7oRBj3hViUmgyV0EvNTO5R) | 2:54 | 2026-10-01 |  |
+| [Trenul](https://open.spotify.com/track/0tkYAGQjYLqTnZSF17X7qy) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Trenul](https://open.spotify.com/album/7oRBj3hViUmgyV0EvNTO5R) | 2:54 | 2026-10-01 | 2026-10-03 |
 | [Tricoul](https://open.spotify.com/track/5PGEjoxC9efpeBPFzTztNY) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Antifragil](https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC) | 2:33 | 2024-11-28 | 2025-04-25 |
 | [Tu n\-ai avut curaj \- Roton 3.0 / Sessions](https://open.spotify.com/track/35d5yXDqFehq1sZPQegLOk) | [Radu Stefan Banica](https://open.spotify.com/artist/52jEJDX313iC62ZgWdvrp1), [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Tu n\-ai avut curaj \(Roton 3.0 / Sessions\)](https://open.spotify.com/album/59qrjWlCwK9AYC099Y47iD) | 3:21 | 2024-06-27 | 2024-07-25 |
 | [Tu pe mine m\-ai ales](https://open.spotify.com/track/6Klf7QK9VaDdJfAOB5PaHN) | [Edward Sanda](https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V), [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Tu pe mine m\-ai ales](https://open.spotify.com/album/03axcpcgVFHlLzoP04zt0s) | 2:46 | 2025-09-11 | 2026-02-27 |

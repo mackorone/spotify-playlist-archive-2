@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 
 > Our editors' favorite Afro House tracks of 2024\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,429 likes - 74 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,458 likes - 74 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

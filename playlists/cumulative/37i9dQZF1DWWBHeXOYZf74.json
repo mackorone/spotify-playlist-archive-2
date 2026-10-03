@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Jam City",
+  "description": "Genre-less. Quality first always. Cover: Tempest",
   "name": "POLLEN",
   "tracks": [
     {
@@ -1024,6 +1024,28 @@
       "duration_ms": 215481,
       "name": "2late",
       "url": "https://open.spotify.com/track/72uQrCNSvA8TViHajPbMH9"
+    },
+    {
+      "album": {
+        "name": "Confirmation!",
+        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "FAUZIA",
+          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164611,
+      "name": "2Love (feat. FAUZIA)",
+      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
     },
     {
       "album": {
@@ -4220,7 +4242,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 128399,
       "name": "ANGEL",
       "url": "https://open.spotify.com/track/1Cr8nfjheWB9QuMzgkN0s6"
@@ -7588,6 +7610,24 @@
       "duration_ms": 58142,
       "name": "bite me INTRO",
       "url": "https://open.spotify.com/track/3RScLz4xxB1hjcYMmiARGr"
+    },
+    {
+      "album": {
+        "name": "Bite the bullet",
+        "url": "https://open.spotify.com/album/4za6fKrD5xBuAul38W8UXc"
+      },
+      "artists": [
+        {
+          "name": "Natek",
+          "url": "https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Bite the bullet",
+      "url": "https://open.spotify.com/track/2bNKOjlCAiglIC0nNSQJmk"
     },
     {
       "album": {
@@ -15144,7 +15184,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161784,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI"
@@ -16839,6 +16879,28 @@
     },
     {
       "album": {
+        "name": "22 Durnham Dew",
+        "url": "https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195532,
+      "name": "Do No Harm (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v"
+    },
+    {
+      "album": {
         "name": "Do The Dance",
         "url": "https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza"
       },
@@ -17970,6 +18032,24 @@
       "duration_ms": 172000,
       "name": "dork",
       "url": "https://open.spotify.com/track/2jLSVy4c3jUqA9y55PrARJ"
+    },
+    {
+      "album": {
+        "name": "double",
+        "url": "https://open.spotify.com/album/4lU4ZCZP928cee0w5WZXVf"
+      },
+      "artists": [
+        {
+          "name": "TEILZ",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195489,
+      "name": "double",
+      "url": "https://open.spotify.com/track/7huEKLZAuEeMwJAsvoKTVP"
     },
     {
       "album": {
@@ -20428,7 +20508,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 316400,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/0v2AiyfpKx4qE0c0enlSl2"
@@ -27438,7 +27518,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 209535,
       "name": "Healer",
       "url": "https://open.spotify.com/track/3dyQvN3fiYktWEhQ7WavRn"
@@ -27970,7 +28050,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 223658,
       "name": "Hell of a time",
       "url": "https://open.spotify.com/track/1mNyD4FwFJGIAxnnDpTBtp"
@@ -29135,6 +29215,24 @@
     },
     {
       "album": {
+        "name": "Honey Lemon",
+        "url": "https://open.spotify.com/album/25Px87qQrXDW4CDppjNz5g"
+      },
+      "artists": [
+        {
+          "name": "Tempest",
+          "url": "https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201580,
+      "name": "Honey Lemon",
+      "url": "https://open.spotify.com/track/5oPtCWKKscS2fdX8rZJnPw"
+    },
+    {
+      "album": {
         "name": "Honeycomb",
         "url": "https://open.spotify.com/album/4mhf0XnJKJwrustMTk4hRI"
       },
@@ -29374,6 +29472,24 @@
       "duration_ms": 187344,
       "name": "House Fire",
       "url": "https://open.spotify.com/track/4wG5sRMJRvPsxSaUQzyKag"
+    },
+    {
+      "album": {
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/2OtfN1D5BW0kBMORPBXvtZ"
+      },
+      "artists": [
+        {
+          "name": "Ciar\u00e1n",
+          "url": "https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155497,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/1HLqWUTpcuzxBxaTzNPvT9"
     },
     {
       "album": {
@@ -31120,7 +31236,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 188280,
       "name": "I Only Look to You",
       "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
@@ -33420,6 +33536,24 @@
       "duration_ms": 184611,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9"
+    },
+    {
+      "album": {
+        "name": "Life 1",
+        "url": "https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221575,
+      "name": "It goes like this",
+      "url": "https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx"
     },
     {
       "album": {
@@ -38998,7 +39132,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 228492,
       "name": "Lucky[Hymn]",
       "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
@@ -57051,6 +57185,24 @@
     },
     {
       "album": {
+        "name": "Besides you",
+        "url": "https://open.spotify.com/album/0P3z4sDLV8mRa3UZVqMVhF"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233513,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/6s3k3EXwkSNbJS0rGDzqNk"
+    },
+    {
+      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -60386,7 +60538,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 220044,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
@@ -63642,7 +63794,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 135306,
       "name": "The World Keeps Spinning",
       "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
@@ -69970,6 +70122,24 @@
       "duration_ms": 211501,
       "name": "Winter in America - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
       "url": "https://open.spotify.com/track/7lpmYA2oDMcAdlNJBjTMTB"
+    },
+    {
+      "album": {
+        "name": "Winter Waiting",
+        "url": "https://open.spotify.com/album/1YtW2BZmQiei25ZVFcuWoT"
+      },
+      "artists": [
+        {
+          "name": "Jimothy Lacoste",
+          "url": "https://open.spotify.com/artist/0sq3OExudqk1vOkbSuc8KW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285139,
+      "name": "Winter Waiting",
+      "url": "https://open.spotify.com/track/1ok5pQhSxf9jTOaFNborSj"
     },
     {
       "album": {

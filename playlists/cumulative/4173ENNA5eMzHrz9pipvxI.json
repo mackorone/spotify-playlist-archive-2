@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: AVE",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: David Guetta and Jast ",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -4510,6 +4510,28 @@
       "duration_ms": 187680,
       "name": "Big Spender",
       "url": "https://open.spotify.com/track/4FzSzkQihMq3vPMwVpJmVE"
+    },
+    {
+      "album": {
+        "name": "Bigger Than",
+        "url": "https://open.spotify.com/album/1pqLi5Fgxe3jVgTi6Uk1R5"
+      },
+      "artists": [
+        {
+          "name": "L\u00a5O",
+          "url": "https://open.spotify.com/artist/5ntG7VhN9iZ6Mg7K0x1EAr"
+        },
+        {
+          "name": "Dead Prez",
+          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151579,
+      "name": "Bigger Than",
+      "url": "https://open.spotify.com/track/6WRng4KvxwgNbskldQiiR3"
     },
     {
       "album": {
@@ -16022,6 +16044,32 @@
       "duration_ms": 116129,
       "name": "Hard Techno Love",
       "url": "https://open.spotify.com/track/6DH5mdtGpAnQaATeirJeeF"
+    },
+    {
+      "album": {
+        "name": "Hard To be Around",
+        "url": "https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        },
+        {
+          "name": "Cleopard2000",
+          "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176223,
+      "name": "Hard To be Around",
+      "url": "https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"
     },
     {
       "album": {

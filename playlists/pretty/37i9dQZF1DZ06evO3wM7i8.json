@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 36961,
+  "num_followers": 36971,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABQyEPsHfbR6HiG4d9ec4BH",
+  "snapshot_id": "ar2igAAAAAAwM6UI7vu/7B1Uk0X79wgA",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol.12 / 1940 - 1941",
+        "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Swing 42",
+      "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "You Rascal You",
+      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -463,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "You Rascal You",
-      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol9 / 1939 - 1940",
         "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 157066,
       "name": "A Pretty Girl Is Like a Melody",
       "url": "https://open.spotify.com/track/3XTGJlIluS71fut4P7uBsI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol.12 / 1940 - 1941",
-        "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Swing 42",
-      "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 211266,
-      "name": "Anniversary Song",
-      "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
+      "duration_ms": 160720,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2xsWxOTPFJKKA6xy7874HC"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 160720,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2xsWxOTPFJKKA6xy7874HC"
+      "duration_ms": 211266,
+      "name": "Anniversary Song",
+      "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Indispensible Django Reinhardt (1949-1950)",
-        "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "Beyond The Sea (La Mer)",
-      "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol7 / 1937 - 1938",
         "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 168813,
       "name": "Tea for Two",
       "url": "https://open.spotify.com/track/3J0vC7T9DmAJdXDIp8Xq7v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Indispensible Django Reinhardt (1949-1950)",
+        "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "Beyond The Sea (La Mer)",
+      "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
     },
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol.2 / 1936 - 1937",
-        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
+        "name": "Djangology (feat. St\u00e9phane Grappelli)",
+        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
       },
       "artists": [
         {
@@ -942,11 +942,15 @@
         {
           "name": "Quintette du Hot Club de France",
           "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         }
       ],
-      "duration_ms": 187133,
-      "name": "After You're Gone",
-      "url": "https://open.spotify.com/track/0gGBsUh6KzomYrr4oQGlHC"
+      "duration_ms": 190866,
+      "name": "Lover Man (Oh, Where Can You Be?) (feat. St\u00e9phane Grappelli) - Remastered 2002",
+      "url": "https://open.spotify.com/track/4w473yXLEtb4tVQ592R8dE"
     },
     {
       "added_at": null,
@@ -987,8 +991,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangology (feat. St\u00e9phane Grappelli)",
-        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
+        "name": "Djangologie Vol.2 / 1936 - 1937",
+        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
       "artists": [
         {
@@ -998,15 +1002,11 @@
         {
           "name": "Quintette du Hot Club de France",
           "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Lover Man (Oh, Where Can You Be?) (feat. St\u00e9phane Grappelli) - Remastered 2002",
-      "url": "https://open.spotify.com/track/4w473yXLEtb4tVQ592R8dE"
+      "duration_ms": 187133,
+      "name": "After You're Gone",
+      "url": "https://open.spotify.com/track/0gGBsUh6KzomYrr4oQGlHC"
     },
     {
       "added_at": null,

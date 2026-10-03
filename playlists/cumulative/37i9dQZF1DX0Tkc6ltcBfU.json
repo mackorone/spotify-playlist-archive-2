@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: Belly Gang Kushington and 21 Savage",
+  "description": "The hottest out the South. Cover: Quavo",
   "name": "No Cap",
   "tracks": [
     {
@@ -352,6 +352,24 @@
       "duration_ms": 226666,
       "name": "1982 (with Curren$y & LE$)",
       "url": "https://open.spotify.com/track/4OTmDHEUGop3Qw1GAXm3F9"
+    },
+    {
+      "album": {
+        "name": "Heaven on Mars",
+        "url": "https://open.spotify.com/album/6Vl0W9hhq2weIuqYbUZJJE"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250485,
+      "name": "1B / Shift",
+      "url": "https://open.spotify.com/track/3QKyt2bVoF99ZM9YH8vY9I"
     },
     {
       "album": {
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 143317,
       "name": "719 FREESTYLE",
       "url": "https://open.spotify.com/track/43oXCD9RRs6TZ1WqiUPtLu"
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 238037,
       "name": "Angels Smile",
       "url": "https://open.spotify.com/track/5hlzK77e6QAOeKbvsSECb3"
@@ -3871,6 +3889,28 @@
     },
     {
       "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143296,
+      "name": "Away (feat. Offset)",
+      "url": "https://open.spotify.com/track/694Fxl9wFBAmQHjLKF7ri9"
+    },
+    {
+      "album": {
         "name": "Awf Da Perky",
         "url": "https://open.spotify.com/album/1E39us3HG0hEugRjvFn7Nf"
       },
@@ -4070,6 +4110,28 @@
       "duration_ms": 124808,
       "name": "B.T.W",
       "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
+    },
+    {
+      "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149159,
+      "name": "BA (feat. Future)",
+      "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
     },
     {
       "album": {
@@ -12824,7 +12886,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 159612,
       "name": "Dat Sound - Remix",
       "url": "https://open.spotify.com/track/20Ml5ycyNu4gLMXJQnAZaY"
@@ -16481,6 +16543,24 @@
     },
     {
       "album": {
+        "name": "F You",
+        "url": "https://open.spotify.com/album/4TPOzSWHrWZb8hhrr3z7n2"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128566,
+      "name": "F You",
+      "url": "https://open.spotify.com/track/5GJNSOZzuQ6mFYu4a2E54O"
+    },
+    {
+      "album": {
         "name": "F**k The Rap Game",
         "url": "https://open.spotify.com/album/5MUIJ1AGDtARYt2sYcTtYC"
       },
@@ -19932,7 +20012,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 173493,
       "name": "Gates Flow 2 (She Don't Wanna)",
       "url": "https://open.spotify.com/track/7DxOo87U0J785h5cWEEZ5z"
@@ -20696,6 +20776,24 @@
       "duration_ms": 188600,
       "name": "girl, get up. (feat. SZA)",
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
+    },
+    {
+      "album": {
+        "name": "GIRLS GIRL",
+        "url": "https://open.spotify.com/album/1M2ZRsaDrBIzUTFLEMh7dJ"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124333,
+      "name": "GIRLS GIRL",
+      "url": "https://open.spotify.com/track/73qHZ9ewdMNB0lWbt81xEN"
     },
     {
       "album": {
@@ -21472,6 +21570,24 @@
       "duration_ms": 230019,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/0byfLZu1ZnNEc5DaiqIZZX"
+    },
+    {
+      "album": {
+        "name": "GOT D 4 YA",
+        "url": "https://open.spotify.com/album/3qzYBH8lWCc6orKx4mzlBm"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "GOT D 4 YA",
+      "url": "https://open.spotify.com/track/59TeuRvpYgt6Wrk4K9yEi7"
     },
     {
       "album": {
@@ -26486,7 +26602,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 144708,
       "name": "IN THE CLUB (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a"
@@ -32391,6 +32507,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/0hUddAdLMUEdJQwmLZnFxf"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "MAYHEM",
+      "url": "https://open.spotify.com/track/5NT8bOT2qOLKISSpv1MDuV"
+    },
+    {
+      "album": {
         "name": "Me & My",
         "url": "https://open.spotify.com/album/1uOVuBVE748SspsHe51MYe"
       },
@@ -35748,10 +35882,28 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 135672,
       "name": "Nicki Flow",
       "url": "https://open.spotify.com/track/3r52kZ19Gy1d1hmXUgCbnL"
+    },
+    {
+      "album": {
+        "name": "Nights Prayed",
+        "url": "https://open.spotify.com/album/2xMpIjf5NOpuzeZRvz3wi8"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117303,
+      "name": "Nights Prayed",
+      "url": "https://open.spotify.com/track/4QfqgM0TGU65KvdXXI6X7p"
     },
     {
       "album": {
@@ -37746,6 +37898,24 @@
       "duration_ms": 176143,
       "name": "OK",
       "url": "https://open.spotify.com/track/5AudmoKQrhhAKfKA0N9d6J"
+    },
+    {
+      "album": {
+        "name": "Ok Cool",
+        "url": "https://open.spotify.com/album/778H84iUa3L5cJ72IHTyU7"
+      },
+      "artists": [
+        {
+          "name": "Bally Baby",
+          "url": "https://open.spotify.com/artist/7I0vkHapi0O00Yd6BZcl2Z"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88876,
+      "name": "Ok Cool",
+      "url": "https://open.spotify.com/track/0IiSL9cjBSZGzWZiimBrnY"
     },
     {
       "album": {
@@ -40586,7 +40756,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 198604,
       "name": "Platinum Fubu",
       "url": "https://open.spotify.com/track/7atXUrYbedUpYlHCNm6fFJ"
@@ -42031,6 +42201,24 @@
     },
     {
       "album": {
+        "name": "Proud of You",
+        "url": "https://open.spotify.com/album/2peESn217hnWrCfdFdm6Ab"
+      },
+      "artists": [
+        {
+          "name": "Zillionaire Doe",
+          "url": "https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166278,
+      "name": "Proud of You",
+      "url": "https://open.spotify.com/track/4iqo8Brrv2eg8gs2d8l5qN"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -43138,6 +43326,24 @@
       "duration_ms": 195528,
       "name": "Real As It Gets",
       "url": "https://open.spotify.com/track/2tiRmNWhtWKmnzaoYBYJSs"
+    },
+    {
+      "album": {
+        "name": "REAL BAGGER",
+        "url": "https://open.spotify.com/album/5Ihs9tDR9Hvsc671EAJAuz"
+      },
+      "artists": [
+        {
+          "name": "Nino Breeze",
+          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147893,
+      "name": "REAL BAGGER",
+      "url": "https://open.spotify.com/track/3vI6j2LUbWxEFzvacLAYGL"
     },
     {
       "album": {
@@ -44998,6 +45204,24 @@
       "duration_ms": 193294,
       "name": "SAME SH!T",
       "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
+    },
+    {
+      "album": {
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/6gbcv097aD6bzPeUo2BLhl"
     },
     {
       "album": {
@@ -48834,7 +49058,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 261517,
       "name": "Started Out (feat. Sy Ari Da Kid & Boosie)",
       "url": "https://open.spotify.com/track/2VxN6cjaWKUnQmeyBEU86T"
@@ -49758,7 +49982,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 122229,
       "name": "Strange",
       "url": "https://open.spotify.com/track/1i3llF9c7xUAkztYDyTude"
@@ -56154,7 +56378,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 144065,
       "name": "Walking",
       "url": "https://open.spotify.com/track/0TWSQ46ueFejcvpYXXAvbl"
@@ -59460,6 +59684,28 @@
       "duration_ms": 143829,
       "name": "You Ain't Neva",
       "url": "https://open.spotify.com/track/6jsHrSTKM0AD7w7z2ZGwRc"
+    },
+    {
+      "album": {
+        "name": "YOU DONT LIKE IT (Remix)",
+        "url": "https://open.spotify.com/album/64JXGQWPeqjTFZUDbaodBm"
+      },
+      "artists": [
+        {
+          "name": "BabyRu78",
+          "url": "https://open.spotify.com/artist/3FBU2WoaEzquFaIIe1dzHj"
+        },
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166464,
+      "name": "YOU DONT LIKE IT - Remix",
+      "url": "https://open.spotify.com/track/42ElWr7UVsGeqDPSbNnH5y"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Vacations
 
-1,822 songs - 4 day 9 hr 26 min
+1,822 songs - 4 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1555,6 +1555,7 @@
 | [Tell Me How It Feels](https://open.spotify.com/track/7heLi5l4FqgKvOG3IN8jFm) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Tell Me How It Feels](https://open.spotify.com/album/20WT44ywZwSmZsYSk4OW7l) | 3:23 | 2026-02-19 | 2026-04-25 |
 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-17 | 2025-05-30 |
 | [Tell Me What I Want To Hear](https://open.spotify.com/track/2ZFdBYiFi0RDySqTjY0qaT) | [emerson](https://open.spotify.com/artist/6LcSy8gx2Eb1FVRd1NoONZ) | [Tell Me What I Want To Hear](https://open.spotify.com/album/1fv1Wv1Xt6cqgbwn2KvZJM) | 2:11 | 2026-04-30 | 2026-06-19 |
+| [Tell Me When You're Home](https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Look Up](https://open.spotify.com/album/3IItemvs6diBqETll5pINP) | 3:00 | 2026-10-02 |  |
 | [Tell Me Why](https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers Continued](https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1) | 3:42 | 2026-01-29 | 2026-03-13 |
 | [Telling Lies](https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Dime](https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd) | 2:11 | 2025-03-27 | 2025-05-09 |
 | [Temper](https://open.spotify.com/track/5ay3JwzdhHMWA1dpCaZJ0a) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Temper](https://open.spotify.com/album/5y5g63F5OpGcjwWKLVpnQb) | 2:20 | 2025-08-14 | 2025-09-12 |
@@ -1667,7 +1668,6 @@
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-11-14 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-07-10 |
-| [Track 10](https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Look Up](https://open.spotify.com/album/3IItemvs6diBqETll5pINP) | 0:00 | 2026-10-02 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-05-22 |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |

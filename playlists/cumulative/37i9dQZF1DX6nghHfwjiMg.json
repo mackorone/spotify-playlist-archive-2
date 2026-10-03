@@ -287,6 +287,28 @@
     },
     {
       "album": {
+        "name": "AHORA",
+        "url": "https://open.spotify.com/album/1yHGqFZAGxSyR1wUpmRMNn"
+      },
+      "artists": [
+        {
+          "name": "Mica Racciatti",
+          "url": "https://open.spotify.com/artist/0YZo1Sz48rRpCenoB20lHM"
+        },
+        {
+          "name": "Gabriel Pedernera",
+          "url": "https://open.spotify.com/artist/1I7I2jfVn3KvuAi49h01Gr"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204344,
+      "name": "AHORA",
+      "url": "https://open.spotify.com/track/0AOdpfOo30h0opPqHXpFP7"
+    },
+    {
+      "album": {
         "name": "AH\u00cd VIENE LA MIEL",
         "url": "https://open.spotify.com/album/5SREVdMCXgDFk0aDIW1Ld8"
       },
@@ -342,6 +364,24 @@
       "duration_ms": 151153,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/5K64lG2ppjQUFN2PzPU7DD"
+    },
+    {
+      "album": {
+        "name": "Algo M\u00e1s",
+        "url": "https://open.spotify.com/album/207q8t0suGPw8bmagNMFeE"
+      },
+      "artists": [
+        {
+          "name": "Lucyid",
+          "url": "https://open.spotify.com/artist/1wxjc06h0Wj2VYeJAgjRsU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146444,
+      "name": "Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/7qMJOEx1aqEqNgIz515JlY"
     },
     {
       "album": {
@@ -1009,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n del que nunca olvida",
+        "url": "https://open.spotify.com/album/4PODmEVdLzt1xCy1kMFu6f"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240198,
+      "name": "Canci\u00f3n del que nunca olvida",
+      "url": "https://open.spotify.com/track/7ILibasyz2o2nfOAjrNk9c"
+    },
+    {
+      "album": {
         "name": "Canciones de tapa blanca y negra",
         "url": "https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS"
       },
@@ -1060,7 +1118,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 193750,
       "name": "CAPIT\u00c1N",
       "url": "https://open.spotify.com/track/6B2HlVCB12CvtW3VJWUwVg"
@@ -1540,7 +1598,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 204822,
       "name": "Dispuesto A Morir",
       "url": "https://open.spotify.com/track/67SlD9Piai5B0tHaFaUbbY"
@@ -1678,6 +1736,28 @@
       "duration_ms": 200436,
       "name": "El Aplauso",
       "url": "https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY"
+    },
+    {
+      "album": {
+        "name": "el consuelo",
+        "url": "https://open.spotify.com/album/76Xo0kwOvrwlssYxzkxAjo"
+      },
+      "artists": [
+        {
+          "name": "Crema",
+          "url": "https://open.spotify.com/artist/1CH98JiIEYNH4UXDiE6WQY"
+        },
+        {
+          "name": "Crewrod",
+          "url": "https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193281,
+      "name": "el consuelo",
+      "url": "https://open.spotify.com/track/08UBx8RvIYX0XjzKfVhyEe"
     },
     {
       "album": {
@@ -2088,6 +2168,24 @@
       "duration_ms": 320484,
       "name": "Estaba tan segura",
       "url": "https://open.spotify.com/track/2OGAqBUjK6PNvh3gEb9orQ"
+    },
+    {
+      "album": {
+        "name": "ESTO NO AVANZA",
+        "url": "https://open.spotify.com/album/5BOCqhYIS7mRVlFegklZT5"
+      },
+      "artists": [
+        {
+          "name": "Malta Caramelo",
+          "url": "https://open.spotify.com/artist/4nMH5OWOUdGltvRpXDydPm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "ESTO NO AVANZA",
+      "url": "https://open.spotify.com/track/6r4KV2V5Kbg8SjonixJBBf"
     },
     {
       "album": {
@@ -2598,7 +2696,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 201750,
       "name": "Hor\u00f3scopo - 21:00",
       "url": "https://open.spotify.com/track/7hMVe5L6zluc4pCVEVznpN"
@@ -4347,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "Donde respira el cielo",
+        "url": "https://open.spotify.com/album/6FDxBNbxYxVeqOjwk5EVFi"
+      },
+      "artists": [
+        {
+          "name": "Dani Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5Ytqx2mdkcV9h7ql5zEsVL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72888,
+      "name": "Ni\u00f1a del sur",
+      "url": "https://open.spotify.com/track/7GAi3c0MS18q9njYYIC4ON"
+    },
+    {
+      "album": {
         "name": "D\u00edas As\u00ed",
         "url": "https://open.spotify.com/album/442h4OS4JBOjmdi8NhtaJF"
       },
@@ -5451,6 +5567,24 @@
     },
     {
       "album": {
+        "name": "Rar\u00edsimo",
+        "url": "https://open.spotify.com/album/424uFFEhXvFZYmotXosVeU"
+      },
+      "artists": [
+        {
+          "name": "Lichi",
+          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210176,
+      "name": "Rar\u00edsimo",
+      "url": "https://open.spotify.com/track/1TUGLzc5WvhNS25wFmoRtq"
+    },
+    {
+      "album": {
         "name": "Under",
         "url": "https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n"
       },
@@ -6222,6 +6356,24 @@
       "duration_ms": 141407,
       "name": "TOLKIN YIT",
       "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
+    },
+    {
+      "album": {
+        "name": "Ey, no molestes",
+        "url": "https://open.spotify.com/album/7pciEPMEdELNvsOP2aTNcw"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161813,
+      "name": "Trabajar",
+      "url": "https://open.spotify.com/track/49m0vJkGR4oo3ZfmEiqWMh"
     },
     {
       "album": {

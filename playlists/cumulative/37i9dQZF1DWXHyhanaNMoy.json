@@ -7691,6 +7691,24 @@
     },
     {
       "album": {
+        "name": "Fijnproever",
+        "url": "https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q"
+    },
+    {
+      "album": {
         "name": "Celebrate life",
         "url": "https://open.spotify.com/album/6ObkxETtSitsiLHqQIBCVh"
       },
@@ -37160,24 +37178,6 @@
       "duration_ms": 194395,
       "name": "Tra",
       "url": "https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo"
-    },
-    {
-      "album": {
-        "name": "Fijnproever",
-        "url": "https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "date_added": "2026-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Ben PLG",
-  "num_followers": 401538,
+  "num_followers": 401578,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "ESTRUS",
-        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 131744,
-      "name": "source of life",
-      "url": "https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "WpointM",
         "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
       },
@@ -135,18 +119,18 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg"
+        "name": "ESTRUS",
+        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 194444,
-      "name": "Versailles",
-      "url": "https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN"
+      "duration_ms": 131744,
+      "name": "source of life",
+      "url": "https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -163,6 +147,22 @@
       "duration_ms": 165121,
       "name": "Empty Stadium",
       "url": "https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 194444,
+      "name": "Versailles",
+      "url": "https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Dream House",
         "url": "https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 296285,
-      "name": "\u2060Wildfire",
-      "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "Air / Lemonder / Viper",
         "url": "https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q"
       },
@@ -275,6 +275,42 @@
       "duration_ms": 262559,
       "name": "Air",
       "url": "https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 296285,
+      "name": "\u2060Wildfire",
+      "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "PA' TOUCH - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 172775,
+      "name": "PA' TOUCH - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -311,22 +347,18 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "PA' TOUCH - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu"
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg"
       },
       "artists": [
         {
-          "name": "Ino Casablanca",
-          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 172775,
-      "name": "PA' TOUCH - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM"
+      "duration_ms": 215760,
+      "name": "Stone Fruit",
+      "url": "https://open.spotify.com/track/0GuYLoC2G9eXMGwwXH8xt1"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -351,34 +383,26 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg"
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Stone Fruit",
-      "url": "https://open.spotify.com/track/0GuYLoC2G9eXMGwwXH8xt1"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
-      },
-      "artists": [
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
         }
       ],
-      "duration_ms": 193716,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+      "duration_ms": 224206,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -415,30 +439,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Love Triangle",
-        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        }
-      ],
-      "duration_ms": 224206,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "GODIN",
         "url": "https://open.spotify.com/album/655bGp9sr5NZqTpJVnmma5"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 164714,
       "name": "GODIN",
       "url": "https://open.spotify.com/track/6CxmDudrDAn0yi3t27DQmF"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "velib'bleu",
+        "url": "https://open.spotify.com/album/2s3JW4L4ZpOvFC46pDSD3N"
+      },
+      "artists": [
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        }
+      ],
+      "duration_ms": 203491,
+      "name": "velib'bleu",
+      "url": "https://open.spotify.com/track/4IeQKn5Lti8iobHsBdYUYu"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -491,22 +507,6 @@
       "duration_ms": 214013,
       "name": "Cognac en canette",
       "url": "https://open.spotify.com/track/3Sg3E3si7poLGEwjCQ8wLb"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "velib'bleu",
-        "url": "https://open.spotify.com/album/2s3JW4L4ZpOvFC46pDSD3N"
-      },
-      "artists": [
-        {
-          "name": "sean",
-          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
-        }
-      ],
-      "duration_ms": 203491,
-      "name": "velib'bleu",
-      "url": "https://open.spotify.com/track/4IeQKn5Lti8iobHsBdYUYu"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -559,6 +559,26 @@
       "duration_ms": 142853,
       "name": "TELFAR\u2122",
       "url": "https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "NODA: le monde et les humains",
+        "url": "https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW"
+      },
+      "artists": [
+        {
+          "name": "Ptite Soeur",
+          "url": "https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC"
+        },
+        {
+          "name": "neophron",
+          "url": "https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "SttttRANGERENDER",
+      "url": "https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -619,26 +639,6 @@
       "duration_ms": 168000,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "NODA: le monde et les humains",
-        "url": "https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW"
-      },
-      "artists": [
-        {
-          "name": "Ptite Soeur",
-          "url": "https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC"
-        },
-        {
-          "name": "neophron",
-          "url": "https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "SttttRANGERENDER",
-      "url": "https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "jamais danser!",
+        "url": "https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv"
+      },
+      "artists": [
+        {
+          "name": "Nikola",
+          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "jamais danser!",
+      "url": "https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/3V0CwiD6WbosuJ8XcWmtF1"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 165333,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/734vgILhukoLD4s1z0kS5h"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "jamais danser!",
-        "url": "https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv"
-      },
-      "artists": [
-        {
-          "name": "Nikola",
-          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "jamais danser!",
-      "url": "https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6"
     },
     {
       "added_at": "2026-09-30 22:00:22",

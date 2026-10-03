@@ -1,13 +1,45 @@
 {
-  "description": "Who's now and next in pop. Cover: Mollie Elizabeth",
-  "num_followers": 3196420,
+  "description": "Who's now and next in pop. Cover: Say Now",
+  "num_followers": 3196542,
   "original_name": "Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALNJUg71jEDY9gM8KuZYtCYwovYc",
+  "snapshot_id": "AAAAAJl11h2zHlGl0j399tFu9e8ZKSjY",
   "tracks": [
+    {
+      "added_at": "2026-09-18 04:00:33",
+      "album": {
+        "name": "Met my match",
+        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 165339,
+      "name": "Met my match",
+      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
+    },
+    {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
+    },
     {
       "added_at": "2026-09-25 04:02:12",
       "album": {
@@ -23,6 +55,26 @@
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "added_at": "2026-05-22 04:01:37",
@@ -57,6 +109,38 @@
       "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
     },
     {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
+        "name": "Broken chair",
+        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "Broken chair",
+      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
+    },
+    {
+      "added_at": "2026-09-04 04:02:34",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
       "added_at": "2026-09-25 04:02:12",
       "album": {
         "name": "Danceteria Afterhours",
@@ -75,38 +159,6 @@
       "duration_ms": 230503,
       "name": "Danceteria Afterhours",
       "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
-    },
-    {
-      "added_at": "2026-09-18 04:00:33",
-      "album": {
-        "name": "Met my match",
-        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
-      },
-      "artists": [
-        {
-          "name": "Say Now",
-          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
-        }
-      ],
-      "duration_ms": 165339,
-      "name": "Met my match",
-      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
-    },
-    {
-      "added_at": "2026-09-04 04:02:34",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "added_at": "2026-09-18 04:00:33",
@@ -155,6 +207,22 @@
       "duration_ms": 201331,
       "name": "Party",
       "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+    },
+    {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
     },
     {
       "added_at": "2026-09-18 04:00:33",
@@ -347,6 +415,22 @@
       "duration_ms": 262057,
       "name": "Love I You",
       "url": "https://open.spotify.com/track/5va7AdTu5BWzZcziPkdxSP"
+    },
+    {
+      "added_at": "2026-10-02 04:02:59",
+      "album": {
+        "name": "My Midwest Best",
+        "url": "https://open.spotify.com/album/7dk59UXUbGolU6WYsNz1N9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/5MrsWtJVzVfMQ5hWCt4BzZ"
     },
     {
       "added_at": "2026-07-17 04:01:20",
@@ -1301,22 +1385,6 @@
       "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
     },
     {
-      "added_at": "2026-07-17 04:01:20",
-      "album": {
-        "name": "Club To Your Arms / Just Be Bodies",
-        "url": "https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 207173,
-      "name": "Just Be Bodies",
-      "url": "https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x"
-    },
-    {
       "added_at": "2026-09-04 04:02:34",
       "album": {
         "name": "SaWaDiKa",
@@ -1381,22 +1449,6 @@
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
     },
     {
-      "added_at": "2026-06-12 04:01:43",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
       "added_at": "2026-07-17 04:01:20",
       "album": {
         "name": "Pop Sound",
@@ -1443,26 +1495,6 @@
       "duration_ms": 174823,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
-    },
-    {
-      "added_at": "2026-06-19 04:01:58",
-      "album": {
-        "name": "Crash First",
-        "url": "https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi"
-      },
-      "artists": [
-        {
-          "name": "honestav",
-          "url": "https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF"
-        },
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Crash First (with mgk)",
-      "url": "https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO"
     },
     {
       "added_at": "2026-06-19 04:01:58",
@@ -1555,46 +1587,6 @@
       "duration_ms": 145520,
       "name": "Girl Like Me",
       "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
-    },
-    {
-      "added_at": "2026-06-12 04:01:43",
-      "album": {
-        "name": "ICONIC BY MISTAKE",
-        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        },
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 177982,
-      "name": "ICONIC BY MISTAKE",
-      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
-    },
-    {
-      "added_at": "2026-06-12 04:01:43",
-      "album": {
-        "name": "untitled.jpeg",
-        "url": "https://open.spotify.com/album/67y4FE0buC45wGLltGEi25"
-      },
-      "artists": [
-        {
-          "name": "Jessie Mazin",
-          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
-        }
-      ],
-      "duration_ms": 232758,
-      "name": "the precipice",
-      "url": "https://open.spotify.com/track/7HFA3UBP3nUyjZtDtQ4ml7"
     },
     {
       "added_at": "2026-06-12 04:01:43",

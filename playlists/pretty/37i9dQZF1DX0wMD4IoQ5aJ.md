@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,639 likes - 155 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,689 likes - 155 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 154 | [Nothing Ever Really Happens](https://open.spotify.com/track/0SRFBXJ3LDXewzpJwqOer9) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Nothing Ever Really Happens](https://open.spotify.com/album/7rR9suvBRL5d7feyoo7aAe) | 2:38 |
 | 155 | [Softness](https://open.spotify.com/track/11yy3szswtwpVgIiHbb2J1) | [Valea](https://open.spotify.com/artist/0L6a5oSrR4lhV7LgJwNIR2) | [Softness](https://open.spotify.com/album/0cg3EwS3X3p9UOuiXlIcAB) | 2:36 |
 
-Snapshot ID: `AAAAAM2/nHJK6FPsIBU5PkVcd8fjd5Vg`
+Snapshot ID: `AAAAANnccLxQuZAoyYHVQR9ZdrFCaHA9`

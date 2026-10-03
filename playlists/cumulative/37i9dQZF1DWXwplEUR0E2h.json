@@ -771,6 +771,36 @@
     },
     {
       "album": {
+        "name": "Como hac\u00edas conmigo",
+        "url": "https://open.spotify.com/album/0NGJN4FzzvpEJsbrsZh4pm"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242727,
+      "name": "Como hac\u00edas conmigo",
+      "url": "https://open.spotify.com/track/5K8WJAQl2xVCfsCzjjpC4I"
+    },
+    {
+      "album": {
         "name": "COMO OREO",
         "url": "https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd"
       },
@@ -4185,6 +4215,32 @@
     },
     {
       "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342485,
+      "name": "PARADIXE",
+      "url": "https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN"
+    },
+    {
+      "album": {
         "name": "Parla Quillera",
         "url": "https://open.spotify.com/album/1ysPtXcup5ZfL5la5Hxyl3"
       },
@@ -4826,7 +4882,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 146240,
       "name": "RU MOR",
       "url": "https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN"
@@ -5528,7 +5584,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 157593,
       "name": "TIEMPO SIN VXRTX",
       "url": "https://open.spotify.com/track/1IA7a4Q967PCZELcgCkmk0"

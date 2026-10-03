@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 98310,
+  "num_followers": 98325,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Con Cartitas y Palabras",
-        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
-      },
-      "artists": [
-        {
-          "name": "Gabino y su Banda Chica",
-          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
-        }
-      ],
-      "duration_ms": 145124,
-      "name": "Con Cartitas y Palabras",
-      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "La Reyna de Tierra Caliente",
         "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
       },
@@ -1183,6 +1167,38 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "Con Cartitas y Palabras",
+        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
+      },
+      "artists": [
+        {
+          "name": "Gabino y su Banda Chica",
+          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
+        }
+      ],
+      "duration_ms": 145124,
+      "name": "Con Cartitas y Palabras",
+      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "Rolonononas Pa la Raza",
         "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 158906,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -2047,22 +2047,18 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Canci\u00f3n a mi Pap\u00e1",
-        "url": "https://open.spotify.com/album/2848T5rwOKJwxPElYm1Xls"
+        "name": "Como Lo Hice Yo",
+        "url": "https://open.spotify.com/album/26CM1WtFNPMMIMKlTou43y"
       },
       "artists": [
         {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        },
-        {
-          "name": "Los Numero 1",
-          "url": "https://open.spotify.com/artist/5NguftlrG2vteEZ6WVgugW"
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
         }
       ],
-      "duration_ms": 170812,
-      "name": "Canci\u00f3n a mi Pap\u00e1",
-      "url": "https://open.spotify.com/track/5SgNpLaVzP1r2oewqS5DIk"
+      "duration_ms": 196266,
+      "name": "Como Lo Hice Yo",
+      "url": "https://open.spotify.com/track/4RgnIVqKYEuGot3yDrtikf"
     }
   ],
   "unique_name": "Tierra Caliente",

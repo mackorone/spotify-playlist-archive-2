@@ -1,13 +1,117 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9183,
+  "num_followers": 9185,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAARIoVCCIU/eDRfwEcoH1u6fsgf+OBh",
+  "snapshot_id": "AAARLdUvoPRC5ZVi5JAjt7qZHXGoSZLM",
   "tracks": [
+    {
+      "added_at": "2026-10-02 17:49:08",
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 238106,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L"
+    },
+    {
+      "added_at": "2026-10-02 17:49:46",
+      "album": {
+        "name": "OUTBREAK (feat. Cory Brandan)",
+        "url": "https://open.spotify.com/album/0tlb1VwunVtvuMtt4eeB4x"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 292549,
+      "name": "OUTBREAK (feat. Cory Brandan)",
+      "url": "https://open.spotify.com/track/7gfd1REaf35dS1e37SqaYj"
+    },
+    {
+      "added_at": "2026-10-02 17:49:36",
+      "album": {
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/5BPkjNSFiYFf07MQLi8Y9W"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "To Whom It May Concern",
+      "url": "https://open.spotify.com/track/5RnRyDM0I6IGh09cGIAZFh"
+    },
+    {
+      "added_at": "2026-10-02 17:49:54",
+      "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/2lMWLzBdhNZ6asnZRLsitT"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 251649,
+      "name": "Devil May Try",
+      "url": "https://open.spotify.com/track/4mo5rN8e7ghh1jQRhPPLkw"
+    },
+    {
+      "added_at": "2026-10-02 17:49:15",
+      "album": {
+        "name": "Stormwatcher",
+        "url": "https://open.spotify.com/album/4JfhIFE8ZSEKO1x7MLUWwT"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 311320,
+      "name": "Stormwatcher",
+      "url": "https://open.spotify.com/track/13TZd9nP6xdNmouCzvtekC"
+    },
+    {
+      "added_at": "2026-10-02 17:49:24",
+      "album": {
+        "name": "Waiting Room",
+        "url": "https://open.spotify.com/album/4OTN6499OJjQcswppxk0lv"
+      },
+      "artists": [
+        {
+          "name": "Overgrown",
+          "url": "https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0"
+        }
+      ],
+      "duration_ms": 182580,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/0g1yZo3wKgRtexXZzhZ98m"
+    },
     {
       "added_at": "2026-09-25 18:50:00",
       "album": {

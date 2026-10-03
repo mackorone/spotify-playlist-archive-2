@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 199935,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 240326,
       "name": "Bolero Triste",
       "url": "https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 215986,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 294373,
       "name": "Colmena",
       "url": "https://open.spotify.com/track/3qE7rUCJAOIpPfIoxb9Iaz"
@@ -870,6 +870,24 @@
       "duration_ms": 238847,
       "name": "Como una punzada",
       "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
+    },
+    {
+      "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166742,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/2yvKs3WAyKTeqtLnG317B2"
     },
     {
       "album": {
@@ -1004,10 +1022,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 209652,
       "name": "Diez Pasos Hacia Ti",
       "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
+    },
+    {
+      "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197456,
+      "name": "Dolores",
+      "url": "https://open.spotify.com/track/4BEH5g6OVUG1sDToICk03y"
     },
     {
       "album": {
@@ -1174,7 +1210,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 200725,
       "name": "El Jardin",
       "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
@@ -1540,7 +1576,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 137100,
       "name": "Helecho",
       "url": "https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA"
@@ -1594,7 +1630,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 258993,
       "name": "H\u00e1blame de Ti",
       "url": "https://open.spotify.com/track/0UAd5a3A1v2yEMFUF66apJ"
@@ -1818,7 +1854,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 211680,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB"
@@ -1858,7 +1894,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 202773,
       "name": "La Flor De La Canela",
       "url": "https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5"
@@ -2002,7 +2038,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 158121,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
@@ -2280,7 +2316,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
@@ -2965,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/1RQPYudY9t7nbM6P1dg5kd"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156016,
+      "name": "Qu\u00e9date Un Ratito M\u00e1s",
+      "url": "https://open.spotify.com/track/54UWlGEHoE0LYvpPCTNuJy"
+    },
+    {
+      "album": {
         "name": "Homenaje a una Grande",
         "url": "https://open.spotify.com/album/22B1O50wYuPXDH1vnWAa2Q"
       },
@@ -3016,6 +3070,24 @@
       "duration_ms": 208074,
       "name": "Remedios",
       "url": "https://open.spotify.com/track/7EozlnvFrXBD2wl5jdCvDR"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316576,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
     },
     {
       "album": {
@@ -3146,7 +3218,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 247959,
       "name": "Sabr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/2cstyWKLChOLpbND4lzazW"
@@ -3168,6 +3240,24 @@
       "duration_ms": 247959,
       "name": "Sabr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR"
+    },
+    {
+      "album": {
+        "name": "Salvarse de uno mismo",
+        "url": "https://open.spotify.com/album/7rnKSwonAOmRQWGsIYlaZ9"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246108,
+      "name": "Salvarse de uno mismo",
+      "url": "https://open.spotify.com/track/0eM6fxEtmA04I1oPhFDbRC"
     },
     {
       "album": {
@@ -3272,7 +3362,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 174680,
       "name": "Sensei",
       "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
@@ -3348,7 +3438,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 240000,
       "name": "siente m\u00e1s",
       "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
@@ -3404,6 +3494,24 @@
       "duration_ms": 225365,
       "name": "Sol Redondo",
       "url": "https://open.spotify.com/track/765Av5qJo9j2Tm1ABwxByG"
+    },
+    {
+      "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238654,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/6QxCLqnfSYN4KzbPBJn53h"
     },
     {
       "album": {
@@ -3476,7 +3584,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 201674,
       "name": "Te Guardo",
       "url": "https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN"
@@ -3683,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Vibrando bajo",
+        "url": "https://open.spotify.com/album/4JgZOF7no0vY7JEYc45O62"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173963,
+      "name": "Vibrando bajo",
+      "url": "https://open.spotify.com/track/3uXyUBP9LLfpmHwsxSlDx9"
+    },
+    {
+      "album": {
         "name": "Viento y Tiempo",
         "url": "https://open.spotify.com/album/5CpzQuOIcxVvn0IsP2GeL3"
       },
@@ -3832,7 +3958,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
@@ -3926,7 +4052,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 212693,
       "name": "\u00bfY C\u00f3mo?",
       "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"

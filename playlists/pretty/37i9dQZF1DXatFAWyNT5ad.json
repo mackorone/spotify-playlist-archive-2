@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153544,
+  "num_followers": 153547,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Say That You Love Me",
-        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
-      },
-      "artists": [
-        {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
-        }
-      ],
-      "duration_ms": 152804,
-      "name": "Say That You Love Me",
-      "url": "https://open.spotify.com/track/5kcAl2B3o7oM26BCQVggKl"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "F.A.M.O.U.S",
         "url": "https://open.spotify.com/album/0vVoKZmi97XxytJghdjvHF"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 200712,
       "name": "F.A.M.O.U.S",
       "url": "https://open.spotify.com/track/4cLzHSqYaxcw8qVFV2xlGY"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Say That You Love Me",
+        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "duration_ms": 152804,
+      "name": "Say That You Love Me",
+      "url": "https://open.spotify.com/track/5kcAl2B3o7oM26BCQVggKl"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Dislocate",
-        "url": "https://open.spotify.com/album/3Zneuvz5t1O7cZ0NuTCIfd"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Dislocate",
-      "url": "https://open.spotify.com/track/4KKh6w0WLsV5wO87gQJMF4"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "I'm Coming Home (Big Gulps)",
         "url": "https://open.spotify.com/album/3UypOMMWtWmkozVQ27deln"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 160271,
       "name": "I'm Coming Home (Big Gulps)",
       "url": "https://open.spotify.com/track/5gicnqs115n4zT8VX4weqd"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Dislocate",
+        "url": "https://open.spotify.com/album/3Zneuvz5t1O7cZ0NuTCIfd"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Dislocate",
+      "url": "https://open.spotify.com/track/4KKh6w0WLsV5wO87gQJMF4"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Ugly and Rotten",
-        "url": "https://open.spotify.com/album/3yzjllwbnDV0UYkSN1lotP"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 169953,
-      "name": "Ugly and Rotten",
-      "url": "https://open.spotify.com/track/5hzzV3Obinhe4peRvsiW75"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Loving and Losing",
         "url": "https://open.spotify.com/album/3vq2VF9ZyCVqnE7Apciczd"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 174334,
       "name": "Sorry Much",
       "url": "https://open.spotify.com/track/31kc2aRTsb1TwByv2Zd3RC"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Ugly and Rotten",
+        "url": "https://open.spotify.com/album/3yzjllwbnDV0UYkSN1lotP"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 169953,
+      "name": "Ugly and Rotten",
+      "url": "https://open.spotify.com/track/5hzzV3Obinhe4peRvsiW75"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Better Days (Deluxe)",
-        "url": "https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 171294,
-      "name": "Hell With Me (feat. Steve Aoki)",
-      "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -711,22 +691,6 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -751,6 +715,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Cinderella Snapped",
         "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 173103,
       "name": "Cinderella Snapped",
       "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Better Days (Deluxe)",
+        "url": "https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 171294,
+      "name": "Hell With Me (feat. Steve Aoki)",
+      "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "JINX",
         "url": "https://open.spotify.com/album/35rdxaliabwQm6RTam3Wtk"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 204613,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -919,22 +935,6 @@
       "duration_ms": 199866,
       "name": "Known You Always",
       "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "NEXT2U",
-        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 196508,
-      "name": "NEXT2U",
-      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 179916,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "OUTSIDE",
         "url": "https://open.spotify.com/album/5Dyh89K1iROsfBSIR12CXb"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 203757,
       "name": "Split Lip",
       "url": "https://open.spotify.com/track/4O4ynhu4jkeCp8yvAlEggC"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 179916,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "eighteen",
         "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 189179,
       "name": "eighteen",
       "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 173836,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Silverline",
+        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Silverline",
+      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "SINS (with Sueco & WesGhost)",
         "url": "https://open.spotify.com/album/5r5oU1Zx0paGlnx0PfryqZ"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Silverline",
-        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Silverline",
-      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "The Weather",
         "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Takes One To Know One",
-        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Takes One To Know One",
-      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "...with little ease",
         "url": "https://open.spotify.com/album/07d9MuFH9oqAuH0CUk4YMW"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 196153,
       "name": "\u2026with little ease",
       "url": "https://open.spotify.com/track/2Zfxn2rD0z56MayaSWtfAy"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Takes One To Know One",
+        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Takes One To Know One",
+      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "junebug!",
-        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+        "name": "GO",
+        "url": "https://open.spotify.com/album/6f08KdogXbNKrPVBmQkk9p"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 139204,
-      "name": "junebug!",
-      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
+      "duration_ms": 175536,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/6DGAyltkwehLntbZ6GtJBz"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1431,6 +1431,22 @@
       "duration_ms": 224849,
       "name": "Angel Wings",
       "url": "https://open.spotify.com/track/3iy584wHI5wWPYKVMr95W3"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "junebug!",
+        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 139204,
+      "name": "junebug!",
+      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1495,22 +1511,6 @@
       "duration_ms": 199632,
       "name": "Get This",
       "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/6f08KdogXbNKrPVBmQkk9p"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 175536,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/6DGAyltkwehLntbZ6GtJBz"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Day Job",
         "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 158423,
       "name": "Day Job",
       "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 144074,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "The Bliss Of Ignorance",
+        "url": "https://open.spotify.com/album/074bckj5sD8VA1tFqIsMej"
+      },
+      "artists": [
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Don't Bother",
+      "url": "https://open.spotify.com/track/7mazBIRlTjBgFSWO5kXXJT"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
       },
@@ -2031,18 +2047,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "The Bliss Of Ignorance",
-        "url": "https://open.spotify.com/album/074bckj5sD8VA1tFqIsMej"
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
       },
       "artists": [
         {
-          "name": "Emi Grace",
-          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Don't Bother",
-      "url": "https://open.spotify.com/track/7mazBIRlTjBgFSWO5kXXJT"
+      "duration_ms": 200210,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2063,22 +2079,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 200210,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -2095,18 +2095,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Both Ways",
-        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Tally Spear",
+          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
         }
       ],
-      "duration_ms": 186779,
-      "name": "Both Ways",
-      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
+      "duration_ms": 194526,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
+        "name": "Both Ways",
+        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
       },
       "artists": [
         {
-          "name": "Tally Spear",
-          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
+      "duration_ms": 186779,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 198000,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
+      },
+      "artists": [
+        {
+          "name": "The Foxies",
+          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
+        }
+      ],
+      "duration_ms": 224504,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Red Lights / Ireland",
         "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 184733,
       "name": "Well I Hope Ur Happy",
       "url": "https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
-      },
-      "artists": [
-        {
-          "name": "The Foxies",
-          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
-        }
-      ],
-      "duration_ms": 224504,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
     },
     {
       "added_at": "2026-09-25 04:03:07",

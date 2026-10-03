@@ -1537,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292933,
+      "name": "Rush Rush",
+      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
+    },
+    {
+      "album": {
         "name": "Desireless",
         "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
       },
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 267440,
       "name": "You're Makin' Me High",
       "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"

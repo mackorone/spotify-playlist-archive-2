@@ -4,7 +4,7 @@
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-138 songs - 6 hr 34 min
+139 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,8 +132,9 @@
 | [Walkin' My Baby Back Home \- Live at the Blue Note Chicago](https://open.spotify.com/track/0LrkGhiOu55op9d3U8R9W1) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Live At The Blue Note Chicago](https://open.spotify.com/album/2V1zyQVnrgnvxSngoARNcS) | 2:07 | 2024-06-30 | 2024-07-30 |
 | [Walkin' My Baby Back Home \- Live at the Blue Note Chicago](https://open.spotify.com/track/48M0EALJS5d85svX0Mhp7o) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Walkin' My Baby Back \(Live at the Blue Note Chicago\)](https://open.spotify.com/album/71RgdD0PmYghTnTjmVj0OL) | 2:07 | 2024-06-13 | 2024-06-30 |
 | [What Does It Take? \- Live at the Blue Note Chicago](https://open.spotify.com/track/1pk8u7sU6pxO92NZMljYEe) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Live At The Blue Note Chicago](https://open.spotify.com/album/2V1zyQVnrgnvxSngoARNcS) | 2:34 | 2024-06-13 | 2024-07-24 |
-| [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 | 2024-06-13 |  |
+| [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 | 2024-06-13 | 2026-10-03 |
 | [When I Fall In Love](https://open.spotify.com/track/42p5zI23jUWahgQnCJoFkF) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Stardust](https://open.spotify.com/album/1hr7C22EvqhtyoS4fnsOVE) | 4:09 | 2024-06-13 | 2026-08-28 |
+| [When I Fall In Love \- Remastered 1999](https://open.spotify.com/track/5z7a5NPgdG71W3dsCHSm3w) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole for Fall: Autumn Leaves](https://open.spotify.com/album/3CXjKI1anvTh1Fk633ltt1) | 3:11 | 2026-10-03 |  |
 | [When I Grow Too Old To Dream \- Remastered 1999](https://open.spotify.com/track/1CANiqTKDkdkLklQnvGjvf) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:34 | 2024-06-13 | 2024-06-28 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 2:46 | 2024-06-20 |  |
 | [When You're Smiling \(The Whole World Smiles With You\) \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/44hUubH8Om6qIYVJN7pyFU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ramblin Rose](https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP) | 2:44 | 2026-03-12 | 2026-03-29 |

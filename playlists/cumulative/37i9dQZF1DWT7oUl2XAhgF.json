@@ -5308,7 +5308,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 196189,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/1CbjA7ApNZ6H70K4A53tBK"
@@ -6152,6 +6152,28 @@
       "duration_ms": 283420,
       "name": "Lovin' Made Easy",
       "url": "https://open.spotify.com/track/2DE5u62CmddU4ct3jEoYm4"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/1ZeDNZewEmvewYHodpbW1e"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        },
+        {
+          "name": "Sarsha Simone",
+          "url": "https://open.spotify.com/artist/2vkHrZOutYeSMnvW6K6IZw"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168482,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/6DZoMlHPA6CvrabWgCD3nm"
     },
     {
       "album": {
@@ -9518,7 +9540,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 146680,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A"
@@ -10128,6 +10150,24 @@
       "duration_ms": 183874,
       "name": "Things Gotta Change",
       "url": "https://open.spotify.com/track/5aOeaLKF1v0CEDv7GRxsJv"
+    },
+    {
+      "album": {
+        "name": "This Ain't Your Song",
+        "url": "https://open.spotify.com/album/6m7dEfmyInxrTcMSTS4nuq"
+      },
+      "artists": [
+        {
+          "name": "James Tutson",
+          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234326,
+      "name": "This Ain't Your Song",
+      "url": "https://open.spotify.com/track/7HbUeeuOhje4yP8zTzINEg"
     },
     {
       "album": {

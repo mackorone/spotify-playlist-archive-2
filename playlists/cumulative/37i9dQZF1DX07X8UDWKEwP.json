@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: YE\u0418DRY",
+  "description": "Lo nuevo del mundo tropical. Cover: Los Gaiteros de San Jacinto, Fruko Y Sus Tesos, Carmelo Torres y Su Cumbia Sabanera & Madre Cumbia",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 268846,
       "name": "Ah\u00ed Viene, Ah\u00ed Va",
       "url": "https://open.spotify.com/track/4h5hlBFYCXhqIMzbuu2Wx4"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 147533,
       "name": "Apambichao",
       "url": "https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV"
@@ -1587,6 +1587,28 @@
     },
     {
       "album": {
+        "name": "Ay Amor / Expl\u00edcale (En Vivo)",
+        "url": "https://open.spotify.com/album/0hUcbWP2OTzyHz9J8476iY"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Orquesta Kaluque\u00f1a",
+          "url": "https://open.spotify.com/artist/12zefi6fKx3GWAIAP4mndM"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235322,
+      "name": "Ay Amor / Expl\u00edcale - En Vivo",
+      "url": "https://open.spotify.com/track/4Hopur0Xdwt2rtggJzOT4c"
+    },
+    {
+      "album": {
         "name": "Ay, Ay, Ay",
         "url": "https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD"
       },
@@ -1690,7 +1712,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 158846,
       "name": "A\u00fan La Extra\u00f1o",
       "url": "https://open.spotify.com/track/58I3XZi7dfS5AxsVfyen4u"
@@ -2008,7 +2030,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 252900,
       "name": "Bailemos",
       "url": "https://open.spotify.com/track/62bwSXNBzLeGebnbZWJuLq"
@@ -2346,7 +2368,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 155454,
       "name": "Bingo",
       "url": "https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn"
@@ -3063,6 +3085,36 @@
     },
     {
       "album": {
+        "name": "Chavela",
+        "url": "https://open.spotify.com/album/1CIaIhXAnHtjw9g12OpvJT"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
+        },
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Carmelo Torres y Su Cumbia Sabanera",
+          "url": "https://open.spotify.com/artist/1jYRdM5PDaXDNyZWicE92w"
+        },
+        {
+          "name": "Madre Cumbia",
+          "url": "https://open.spotify.com/artist/58iKkCQtqhamRZFtLhYzrN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272518,
+      "name": "Chavela",
+      "url": "https://open.spotify.com/track/712yBPYD0Fg5xbIOmOcMjv"
+    },
+    {
+      "album": {
         "name": "Chica Ideal (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/3y70JNLdvpnbeaItEuGL7H"
       },
@@ -3144,7 +3196,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 202545,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/6CU9YxII6yaKb09In80ZSk"
@@ -3734,6 +3786,28 @@
       "duration_ms": 197200,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/7ftYb4y7GwiSmpbZizpZgZ"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n De Hielo",
+        "url": "https://open.spotify.com/album/3u78XCJrPlxL0OZox7Gtvh"
+      },
+      "artists": [
+        {
+          "name": "El Lobo",
+          "url": "https://open.spotify.com/artist/1CPciktTTItfYFKVuHbLnK"
+        },
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139034,
+      "name": "Coraz\u00f3n De Hielo",
+      "url": "https://open.spotify.com/track/0KusYLgWKaINFVpDjgItcv"
     },
     {
       "album": {
@@ -5177,6 +5251,24 @@
     },
     {
       "album": {
+        "name": "Inimitables!..",
+        "url": "https://open.spotify.com/album/6PDY4mU8aIYTISUwNoPZsd"
+      },
+      "artists": [
+        {
+          "name": "Los Wawanco",
+          "url": "https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133047,
+      "name": "El Agua Se La Llev\u00f3",
+      "url": "https://open.spotify.com/track/5IAt9syXEtIkWOL59k4a64"
+    },
+    {
+      "album": {
         "name": "El Amor De Mi Vida",
         "url": "https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW"
       },
@@ -5814,6 +5906,24 @@
       "duration_ms": 271289,
       "name": "El Sabio - Remastered 2024",
       "url": "https://open.spotify.com/track/00fbQF4r4xGbblVPcgxIXi"
+    },
+    {
+      "album": {
+        "name": "El Son de los Enanos",
+        "url": "https://open.spotify.com/album/07lLQ2X4R0HXLd8Di8JTVY"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323573,
+      "name": "El Son de los Enanos",
+      "url": "https://open.spotify.com/track/3oDYQnzJkTK8E4TpXveb3R"
     },
     {
       "album": {
@@ -7496,7 +7606,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 174402,
       "name": "Hilo Rojo [ I ]",
       "url": "https://open.spotify.com/track/0WQGgbBXd3ZATAGrjVQsOK"
@@ -8241,6 +8351,24 @@
     },
     {
       "album": {
+        "name": "La Canela",
+        "url": "https://open.spotify.com/album/36cBKhQ51EypIw4HpWd6Wg"
+      },
+      "artists": [
+        {
+          "name": "EmmaKings",
+          "url": "https://open.spotify.com/artist/2J3sVzhAJeWjEtjCgDbHSy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "La Canela",
+      "url": "https://open.spotify.com/track/037r576gRxGJ2cozF2rFLH"
+    },
+    {
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -8322,6 +8450,24 @@
       "duration_ms": 181360,
       "name": "La Chancleta",
       "url": "https://open.spotify.com/track/5XZvJ6snWZ66bKyoPZm7wz"
+    },
+    {
+      "album": {
+        "name": "La Conga de Juana",
+        "url": "https://open.spotify.com/album/1kKAjzmIFuhCcMlIuNtvhC"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212074,
+      "name": "La Conga de Juana",
+      "url": "https://open.spotify.com/track/75ZNoFo2amHpNKnnnsKg8U"
     },
     {
       "album": {
@@ -8642,6 +8788,28 @@
       "duration_ms": 217500,
       "name": "La Fragancia",
       "url": "https://open.spotify.com/track/7GtsjJN40nj4adhHmnRQQg"
+    },
+    {
+      "album": {
+        "name": "La Fuerza del Enga\u00f1o",
+        "url": "https://open.spotify.com/album/1mnpydfOAx3HcpM3MVijcp"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180982,
+      "name": "La Fuerza del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/6P8TDRSZYXBb5hxz2Unv4i"
     },
     {
       "album": {
@@ -9690,7 +9858,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 196829,
       "name": "Lo Nuestro Se Acab\u00f3",
       "url": "https://open.spotify.com/track/3clgHCFjmDz5MLr7XhQ58Y"
@@ -10176,7 +10344,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 226432,
       "name": "Magia",
       "url": "https://open.spotify.com/track/1sbKA3XQ7CQXPF5BXwqGYy"
@@ -10723,6 +10891,28 @@
     },
     {
       "album": {
+        "name": "Me Despido (Remix)",
+        "url": "https://open.spotify.com/album/61AAshZlcwzLKWnqeg3cps"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Dalvin La Melodia",
+          "url": "https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171815,
+      "name": "Me Despido - Remix",
+      "url": "https://open.spotify.com/track/3rT2EZXcyhtF9xCF7z4Mu8"
+    },
+    {
+      "album": {
         "name": "Me Enamore de Ti, y Que?",
         "url": "https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg"
       },
@@ -10774,6 +10964,24 @@
       "duration_ms": 185822,
       "name": "Me EnRD",
       "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
+    },
+    {
+      "album": {
+        "name": "Me Espera (La Salsa del Nonno)",
+        "url": "https://open.spotify.com/album/6t4tcMhyknRfmN9s3EewpE"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220746,
+      "name": "Me Espera (La Salsa del Nonno) - Esp. Vesion",
+      "url": "https://open.spotify.com/track/5WXqJIriE5tbaRiXtVE2lo"
     },
     {
       "album": {
@@ -12784,7 +12992,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 189186,
       "name": "Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/0WvCKbeTXebWQUCduvbjIG"
@@ -12890,6 +13098,28 @@
       "duration_ms": 207333,
       "name": "Ojitos Rojos",
       "url": "https://open.spotify.com/track/3aELvqT50UzebNg2at9vDe"
+    },
+    {
+      "album": {
+        "name": "Ojo de loca",
+        "url": "https://open.spotify.com/album/3O4bp7IeIM1v8NUwaO25tI"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Ojo de loca",
+      "url": "https://open.spotify.com/track/5Ae1oUwxLSa0CirTSrbTeK"
     },
     {
       "album": {
@@ -13554,7 +13784,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 215151,
       "name": "Perderme Contigo (Salsa)",
       "url": "https://open.spotify.com/track/0yC19LEuEQPjxmyXcG1DL2"
@@ -13886,6 +14116,24 @@
       "duration_ms": 158100,
       "name": "Poloche",
       "url": "https://open.spotify.com/track/6FbQ2tej1wh45DyEwFSE0m"
+    },
+    {
+      "album": {
+        "name": "Popurr\u00ed Noventero: Bailando de Jal\u00f3n/Menea Menea/La Negra Candelaria/Quiero Bailar",
+        "url": "https://open.spotify.com/album/5L92XeKdoJcNz2wnQ9K35K"
+      },
+      "artists": [
+        {
+          "name": "Junior Klan",
+          "url": "https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435312,
+      "name": "Popurr\u00ed Noventero: Bailando de Jal\u00f3n/Menea Menea/La Negra Candelaria/Quiero Bailar",
+      "url": "https://open.spotify.com/track/5qGx1ZaC2k9UmFzJpgzlK2"
     },
     {
       "album": {
@@ -14260,6 +14508,28 @@
       "duration_ms": 185120,
       "name": "Punta Cana",
       "url": "https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaro Cenzontle",
+        "url": "https://open.spotify.com/album/0ATwVV9SWF0pfuJVKqORqT"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        },
+        {
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288574,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/0MfbZQeFpmdOEEDHjuDd0l"
     },
     {
       "album": {
@@ -17047,6 +17317,24 @@
     },
     {
       "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/4iv0eZd5hKu4IasWvwNvOR"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254785,
+      "name": "Te Fallar\u00e9",
+      "url": "https://open.spotify.com/track/0bKwwZkDCpk5drsVEB1WRo"
+    },
+    {
+      "album": {
         "name": "Apambichao",
         "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
       },
@@ -17058,7 +17346,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161285,
       "name": "Te hacen falta dos",
       "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
@@ -17225,6 +17513,24 @@
     },
     {
       "album": {
+        "name": "Tiene Espinas el Rosal",
+        "url": "https://open.spotify.com/album/2RgchZbSHVYWzXrp3dDRc1"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175517,
+      "name": "Tiene Espinas el Rosal",
+      "url": "https://open.spotify.com/track/0pDcdEbRBV8G978ZCIjxiN"
+    },
+    {
+      "album": {
         "name": "Pan",
         "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
       },
@@ -17341,6 +17647,24 @@
     },
     {
       "album": {
+        "name": "Todo Es Por Ti",
+        "url": "https://open.spotify.com/album/3cQkmyDfjdiP71TIiUHyUk"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149661,
+      "name": "Todo Es Por Ti",
+      "url": "https://open.spotify.com/track/3JUAvF2Gpql8HPHvwEa4Uu"
+    },
+    {
+      "album": {
         "name": "Todo Suena Mejor En Cumbia",
         "url": "https://open.spotify.com/album/1j29vWtpi3TOnmVu2iedOF"
       },
@@ -17356,7 +17680,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 222666,
       "name": "Todo, Todo, Todo",
       "url": "https://open.spotify.com/track/2mjbZxnlsAObqLIj2B3BCd"
@@ -17396,7 +17720,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 133255,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/0PC3Pk2uMx1o2bNFr1Ba9K"
@@ -17636,7 +17960,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 235714,
       "name": "Tu recuerdo",
       "url": "https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf"
@@ -19112,7 +19436,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 143172,
       "name": "YA SUFRI POR AMOR",
       "url": "https://open.spotify.com/track/1QGwQaCkWA88Rcw8xuq4Py"

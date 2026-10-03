@@ -3393,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "The Soul of Racing (Main Theme) [From \"Star Wars: Galactic Racer\"]",
+        "url": "https://open.spotify.com/album/38NOnClJATSTssK1XcWHxi"
+      },
+      "artists": [
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134773,
+      "name": "The Soul of Racing (Main Theme) - From \"Star Wars: Galactic Racer\"",
+      "url": "https://open.spotify.com/track/7DdAeRJWmIVMzES3he1Zvz"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
       },

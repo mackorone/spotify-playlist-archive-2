@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Music from BigXthaPlug, Lil Baby and Travis Scott.",
+  "description": "New music from Drake, Gunna and Quavo.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 245093,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf"
@@ -3861,6 +3861,28 @@
     },
     {
       "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149159,
+      "name": "BA (feat. Future)",
+      "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
+    },
+    {
+      "album": {
         "name": "Babushka Boi",
         "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
       },
@@ -3920,6 +3942,36 @@
       "duration_ms": 181948,
       "name": "Baby Birkin",
       "url": "https://open.spotify.com/track/0BOmhToQ03yOdpzYKMEnAg"
+    },
+    {
+      "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227787,
+      "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky)",
+      "url": "https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc"
     },
     {
       "album": {
@@ -9871,6 +9923,24 @@
     },
     {
       "album": {
+        "name": "The Divine Feminine (10th Anniversary)",
+        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264280,
+      "name": "Channel 13",
+      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
+    },
+    {
+      "album": {
         "name": "ERYS (Deluxe)",
         "url": "https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58"
       },
@@ -10892,6 +10962,32 @@
       "duration_ms": 211569,
       "name": "Cold Gangsta",
       "url": "https://open.spotify.com/track/2bxvKs7Q0zqFqajnRcgxbv"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234849,
+      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+      "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
     },
     {
       "album": {
@@ -14448,7 +14544,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
@@ -15382,6 +15478,24 @@
       "duration_ms": 144840,
       "name": "Eye To Eye",
       "url": "https://open.spotify.com/track/5DZC0qdqkeUC3H5yoyRW43"
+    },
+    {
+      "album": {
+        "name": "F You",
+        "url": "https://open.spotify.com/album/4TPOzSWHrWZb8hhrr3z7n2"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128566,
+      "name": "F You",
+      "url": "https://open.spotify.com/track/5GJNSOZzuQ6mFYu4a2E54O"
     },
     {
       "album": {
@@ -18702,7 +18816,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 173742,
       "name": "Game Six",
       "url": "https://open.spotify.com/track/0bSlEreR3f5j8DlEc17QqI"
@@ -21374,7 +21488,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 150000,
       "name": "HAAVIN",
       "url": "https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk"
@@ -37010,7 +37124,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 183600,
       "name": "ON THE LOW feat tyler, the creator",
       "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
@@ -41585,6 +41699,24 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+      "album": {
         "name": "Disco Mafia Pack",
         "url": "https://open.spotify.com/album/4Fx0xGlG4kmNBjzPVx7xGY"
       },
@@ -45580,7 +45712,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 188722,
       "name": "Shabang",
       "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
@@ -47638,6 +47770,28 @@
       "duration_ms": 190037,
       "name": "SoIcyBoyz 2 (feat. Pooh Shiesty, Foogiano & Tay Keith)",
       "url": "https://open.spotify.com/track/0IGLcex3HtI1EzVKLrT4RN"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {
@@ -53980,7 +54134,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 107757,
       "name": "TOKYO DRIFT",
       "url": "https://open.spotify.com/track/1hjDhXme9NEFlMjVwV8dd8"
@@ -58788,7 +58942,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 222580,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"

@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf41",
-  "num_followers": 143659,
+  "num_followers": 143675,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,22 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Uh Oh",
-        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
+        "name": "Bridge Back to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
         },
         {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+          "name": "Benedikt MacIsaac",
+          "url": "https://open.spotify.com/artist/6qD9LwEvJDCeiLJUHxRMnA"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Uh Oh",
-      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+      "duration_ms": 166506,
+      "name": "Bridge Back to Me - Acoustic",
+      "url": "https://open.spotify.com/track/7hCgoPQ1R2A1vUYNPeqBzJ"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -383,18 +383,22 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
         }
       ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
+      "duration_ms": 228613,
+      "name": "Uh Oh",
+      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -419,22 +423,18 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Bridge Back to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
       "artists": [
         {
-          "name": "Al Nicol",
-          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
-        },
-        {
-          "name": "Benedikt MacIsaac",
-          "url": "https://open.spotify.com/artist/6qD9LwEvJDCeiLJUHxRMnA"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 166506,
-      "name": "Bridge Back to Me - Acoustic",
-      "url": "https://open.spotify.com/track/7hCgoPQ1R2A1vUYNPeqBzJ"
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "freedom",
-        "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
-      },
-      "artists": [
-        {
-          "name": "fyodor",
-          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
-        }
-      ],
-      "duration_ms": 218389,
-      "name": "freedom",
-      "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
         "name": "Answers",
         "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 167732,
       "name": "Answers",
       "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
+        "name": "freedom",
+        "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
+      },
+      "artists": [
+        {
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+        }
+      ],
+      "duration_ms": 218389,
+      "name": "freedom",
+      "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 199909,
-      "name": "Did Life Work Out for You?",
-      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
         "name": "Moondog",
         "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 305640,
       "name": "Moondog",
       "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 199909,
+      "name": "Did Life Work Out for You?",
+      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
         "name": "Si les bateaux",
         "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 193493,
       "name": "Si les bateaux",
       "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "figure it out",
-        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
+        "name": "Fantasy Prologue",
+        "url": "https://open.spotify.com/album/4e6CxjLswiuoTkqMAPP7gL"
       },
       "artists": [
         {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
         }
       ],
-      "duration_ms": 171428,
-      "name": "figure it out",
-      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
+      "duration_ms": 159138,
+      "name": "The Shallow End",
+      "url": "https://open.spotify.com/track/2nMNg9uNbJM88NzxFD9OAM"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
         "name": "TABLE DU FOND",
         "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
       },
@@ -1171,34 +1187,18 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+        "name": "I Liked Blue After You",
+        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Bain Marie",
+          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
         }
       ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
-        "name": "Fantasy Prologue",
-        "url": "https://open.spotify.com/album/4e6CxjLswiuoTkqMAPP7gL"
-      },
-      "artists": [
-        {
-          "name": "sunniva",
-          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
-        }
-      ],
-      "duration_ms": 159138,
-      "name": "The Shallow End",
-      "url": "https://open.spotify.com/track/2nMNg9uNbJM88NzxFD9OAM"
+      "duration_ms": 178168,
+      "name": "Dis-moi, dis-moi",
+      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "I Liked Blue After You",
-        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
       "artists": [
         {
-          "name": "Bain Marie",
-          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 178168,
-      "name": "Dis-moi, dis-moi",
-      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Take the time",
-        "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
+        "name": "Si on allait",
+        "url": "https://open.spotify.com/album/3r937q1h9NV530JTZDmZy3"
       },
       "artists": [
         {
-          "name": "Muhoza",
-          "url": "https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG"
-        },
-        {
-          "name": "Carson",
-          "url": "https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn"
+          "name": "Huriel",
+          "url": "https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K"
         }
       ],
-      "duration_ms": 177562,
-      "name": "Take the time",
-      "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
+      "duration_ms": 247362,
+      "name": "Si on allait",
+      "url": "https://open.spotify.com/track/1cmw415RluZZ83KUfE8YDw"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -1383,18 +1379,22 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Si on allait",
-        "url": "https://open.spotify.com/album/3r937q1h9NV530JTZDmZy3"
+        "name": "Take the time",
+        "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
       },
       "artists": [
         {
-          "name": "Huriel",
-          "url": "https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K"
+          "name": "Muhoza",
+          "url": "https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG"
+        },
+        {
+          "name": "Carson",
+          "url": "https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn"
         }
       ],
-      "duration_ms": 247362,
-      "name": "Si on allait",
-      "url": "https://open.spotify.com/track/1cmw415RluZZ83KUfE8YDw"
+      "duration_ms": 177562,
+      "name": "Take the time",
+      "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 235910,
+      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
+      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
         "name": "carnavalito",
         "url": "https://open.spotify.com/album/79xlBgBMznG5YWAOLFnAZI"
       },
@@ -1463,18 +1479,34 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
       "artists": [
         {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 235910,
-      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
-      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
+        "name": "betterside",
+        "url": "https://open.spotify.com/album/50whUMBlSVu5RbwYKJDB7s"
+      },
+      "artists": [
+        {
+          "name": "em & I",
+          "url": "https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb"
+        }
+      ],
+      "duration_ms": 121290,
+      "name": "betterside",
+      "url": "https://open.spotify.com/track/6Nmsvya50LmZqQCZgZYkyS"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -1511,38 +1543,6 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "betterside",
-        "url": "https://open.spotify.com/album/50whUMBlSVu5RbwYKJDB7s"
-      },
-      "artists": [
-        {
-          "name": "em & I",
-          "url": "https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb"
-        }
-      ],
-      "duration_ms": 121290,
-      "name": "betterside",
-      "url": "https://open.spotify.com/track/6Nmsvya50LmZqQCZgZYkyS"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Tempest",
-        "url": "https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II"
-      },
-      "artists": [
-        {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Tempest",
-      "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
         "name": "AVALANCHE (n.f.)",
         "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 188516,
       "name": "Tu pars",
       "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
+        "name": "Tempest",
+        "url": "https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"
     },
     {
       "added_at": "2026-10-02 04:03:46",

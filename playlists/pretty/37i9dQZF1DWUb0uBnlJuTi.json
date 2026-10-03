@@ -1,13 +1,33 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 422783,
+  "num_followers": 422821,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4e7H3I6ZzAVjWvPwpS6VTlQubs",
+  "snapshot_id": "AAAAAITFtUsSc5Nta49sM97vW1HjXJz0",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:00:36",
+      "album": {
+        "name": "Cows",
+        "url": "https://open.spotify.com/album/0udG01fgscq1AhnQLkZlTg"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Ursa Major",
+          "url": "https://open.spotify.com/artist/1t96Tk4yaINGyLVLVxmmC3"
+        }
+      ],
+      "duration_ms": 384892,
+      "name": "Cows",
+      "url": "https://open.spotify.com/track/12DEfsc5TBgfMyWcrvU5CT"
+    },
     {
       "added_at": "2026-09-25 04:00:32",
       "album": {
@@ -2319,22 +2339,6 @@
       "duration_ms": 246761,
       "name": "Banana",
       "url": "https://open.spotify.com/track/3lWMxUaH99svmD3GnuMZJb"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Juice Box",
-        "url": "https://open.spotify.com/album/7DF6OjSJwgaXr9GpPdlXHs"
-      },
-      "artists": [
-        {
-          "name": "YAM YAM",
-          "url": "https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Juice Box",
-      "url": "https://open.spotify.com/track/5ZJrwkNAswWr1rHZCrEkfs"
     },
     {
       "added_at": "2022-08-19 04:02:00",

@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: AVE
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta and Jast
 
-2,082 songs - 4 day 4 hr 15 min
+2,084 songs - 4 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Bifrost](https://open.spotify.com/track/4B930MKVgJdW93LVq5xeBl) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Bifrost](https://open.spotify.com/album/0Phjy3NVF9RjzqPBA59y31) | 2:35 | 2022-10-07 | 2022-10-21 |
 | [Big Jet Plane \(Pharmacist Remix\)](https://open.spotify.com/track/0lCoghKzK272EvXPwo1aNV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [Big Jet Plane \(Pharmacist Remix\)](https://open.spotify.com/album/1qjXVjpo68p78MOk0SDrAr) | 3:38 | 2023-02-17 | 2023-02-25 |
 | [Big Spender](https://open.spotify.com/track/4FzSzkQihMq3vPMwVpJmVE) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Gorillowz](https://open.spotify.com/artist/45oMgBI6YCpxhr29PnmRE9) | [Big Spender](https://open.spotify.com/album/3N5DCRAAAfZP2X500ASdbQ) | 3:07 | 2023-07-07 | 2023-07-21 |
+| [Bigger Than](https://open.spotify.com/track/6WRng4KvxwgNbskldQiiR3) | [L¥O](https://open.spotify.com/artist/5ntG7VhN9iZ6Mg7K0x1EAr), [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Bigger Than](https://open.spotify.com/album/1pqLi5Fgxe3jVgTi6Uk1R5) | 2:31 | 2026-10-02 |  |
 | [Bite My Tongue](https://open.spotify.com/track/48I1OduvkSKjzsFhPQFU42) | [Dynamick](https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa) | [Bite My Tongue](https://open.spotify.com/album/3OOP39MVOHpCuKz5PINATT) | 2:12 | 2023-03-09 | 2023-03-18 |
 | [Blessed \(Lost & Found\)](https://open.spotify.com/track/61YKjWGAo6dGy43mHmQ8un) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Blessed \(Lost & Found\)](https://open.spotify.com/album/5fhv3zHmYuIPO7S8zFarFq) | 3:28 | 2023-12-22 | 2024-01-13 |
 | [Blind Side \(feat\. Patrik Jean\)](https://open.spotify.com/track/3uyoqNVG9LUVBvaAmsdvZy) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [Blind Side \(feat\. Patrik Jean\)](https://open.spotify.com/album/2Leqdnq9lvfPRYIySIQBMo) | 2:50 | 2022-07-01 | 2022-07-16 |
@@ -738,6 +739,7 @@
 | [Happy](https://open.spotify.com/track/4ByUi288uL4M7UI6M42JFA) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Happy](https://open.spotify.com/album/32eRz4zK1Mz4113eASeTtB) | 3:04 | 2023-04-13 | 2023-04-28 |
 | [Happy \(feat\. Tiina\)](https://open.spotify.com/track/3CjdXar5vfq39M06YNwCE0) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Tiina](https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8) | [Happy \(feat\. Tiina\)](https://open.spotify.com/album/7JbXWrz529d0L25gU7yju5) | 3:30 | 2024-03-08 | 2024-03-23 |
 | [Hard Techno Love](https://open.spotify.com/track/6DH5mdtGpAnQaATeirJeeF) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [PHOROS](https://open.spotify.com/artist/3mAGi2CAWTnF7t6CUGJN9q), [Church of Molly](https://open.spotify.com/artist/7uTmmx6Ta5g0KvtxeeFrrn) | [Hard Techno Love](https://open.spotify.com/album/6H7MamYPP8OBK9c5czBt2F) | 1:56 | 2026-01-22 |  |
+| [Hard To be Around](https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU), [Cleopard2000](https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl) | [Hard To be Around](https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H) | 2:56 | 2026-10-02 |  |
 | [Hard To Love](https://open.spotify.com/track/2U8vIkkWWloYx0sM6u7rjz) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Hard To Love](https://open.spotify.com/album/58q0tShWYhtsheH5mA17Mb) | 2:31 | 2022-06-03 | 2022-06-20 |
 | [Have It All \(feat\. Franky\)](https://open.spotify.com/track/3PryuZr5TAxT74B8290q51) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Have It All \(feat\. Franky\)](https://open.spotify.com/album/0NHCitf8CZjmXsUmAJ6tWM) | 3:10 | 2022-11-24 | 2022-12-09 |
 | [Have It All \(feat\. Franky\) \[George Z Remix\]](https://open.spotify.com/track/6s48NdRORuQvOJ46HeDosT) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW), [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [Have It All \(feat\. Franky\) \[George Z Remix\]](https://open.spotify.com/album/2g75jykVOuHBfoBJtf80pI) | 4:25 | 2023-02-24 | 2023-03-04 |

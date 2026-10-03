@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat VIIVI & Elastinen, Pihlaja, Goldielocks..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,641 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,748 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 17 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
 | 18 | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d) | 2:55 |
 | 19 | [etkö sä nää?](https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [etkö sä nää?](https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr) | 3:25 |
-| 20 | [Track 2](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 0:00 |
+| 20 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 21 | [Into the Void \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/track/6t2ZxoTjuNH3VWZxWXsjhD) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [Aaron Pauley](https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Into the Void \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/album/4T1W7uHQMT7ARsaCb0TNks) | 2:58 |
 | 22 | [Bad Luck Hideaway](https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mr Charm](https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9) | 3:50 |
 | 23 | [Tähdet syttyvät pimeään](https://open.spotify.com/track/1EGhnAJA1AXkn8SUhzbQuD) | [Komiat](https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna) | [Tähdet syttyvät pimeään](https://open.spotify.com/album/3c3AMEtukaF1lO9F04XQLJ) | 3:25 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 88 | [Tell Your Friends You Love Them](https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Kaleidoscope](https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM) | 2:13 |
 | 89 | [Way Too Late](https://open.spotify.com/track/6x6qpL0Qxi68Z0POHaIToF) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Way Too Late](https://open.spotify.com/album/4MGP41iZLRFvEf0uNqnLQx) | 3:05 |
 | 90 | [Swamp intro](https://open.spotify.com/track/04FPGpsbAxXn6NJlwJAMdb) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Greatest swamp hits](https://open.spotify.com/album/34OVcIAlr75Cni7d4nvUKb) | 2:43 |
-| 91 | [Track 3](https://open.spotify.com/track/38Z2OVfyPWG2cXOnK9ygSC) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Hardcore Software](https://open.spotify.com/album/5OFEtLZrp06iFWsYRduwEp) | 0:00 |
+| 91 | [Give it 2 me](https://open.spotify.com/track/38Z2OVfyPWG2cXOnK9ygSC) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Hardcore Software](https://open.spotify.com/album/5OFEtLZrp06iFWsYRduwEp) | 2:49 |
 | 92 | [hringja](https://open.spotify.com/track/1qYdEL0ske7wieombhZPbA) | [lára](https://open.spotify.com/artist/6ErQHeCo3fok5FFg3rfyxP) | [í bleiku ljósi](https://open.spotify.com/album/1qbeu0prgn2HSCEq8UYjBF) | 3:22 |
 | 93 | [Pop Rock Sugar Rush](https://open.spotify.com/track/3j1ir4cK96ILIU5twTkD6B) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Sugar Rush](https://open.spotify.com/album/5VzKsz1G19SNoEqMAG0eJA) | 1:51 |
 | 94 | [unwanted](https://open.spotify.com/track/79QmoyRkeqV96rKFRhAUed) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [unwanted](https://open.spotify.com/album/3w2biga72syy4OKrSmmDBc) | 2:10 |

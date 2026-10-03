@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6145,
+  "num_followers": 6144,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABXmPUNo9epiZSOl9VFBlxo",
+  "snapshot_id": "ar2igAAAAAD02QCDYiufHmdgbZkMzmPY",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 256872,
-      "name": "2Cor 5:7",
-      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
+      "duration_ms": 247719,
+      "name": "Yahweh Will Manifest Himself",
+      "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 247719,
-      "name": "Yahweh Will Manifest Himself",
-      "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
+      "duration_ms": 256872,
+      "name": "2Cor 5:7",
+      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
     },
     {
       "added_at": null,
@@ -411,26 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
+        "name": "ALONE WITH GOD (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
       "artists": [
         {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Morgan Williams",
-          "url": "https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie"
         }
       ],
-      "duration_ms": 143947,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
+      "duration_ms": 2526933,
+      "name": "ALONE WITH GOD (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
     },
     {
       "added_at": null,
@@ -451,18 +443,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALONE WITH GOD (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
       "artists": [
         {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Morgan Williams",
+          "url": "https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie"
         }
       ],
-      "duration_ms": 2526933,
-      "name": "ALONE WITH GOD (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+      "duration_ms": 143947,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urhobo/Isoko Worship Medley",
-        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 363781,
-      "name": "Urhobo/Isoko Worship Medley",
-      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 192029,
       "name": "Carry me like Baby",
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urhobo/Isoko Worship Medley",
+        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 363781,
+      "name": "Urhobo/Isoko Worship Medley",
+      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You are Lifted (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 2461616,
-      "name": "You are Lifted (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
+      "duration_ms": 824408,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
       "duration_ms": 164155,
       "name": "Na You",
       "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You are Lifted (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2461616,
+      "name": "You are Lifted (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 1147000,
       "name": "Great is Your Faithfulness",
       "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     },
     {
       "added_at": null,
@@ -822,15 +822,11 @@
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Uwese",
-      "url": "https://open.spotify.com/track/2Qsf7cbzB82dFjrUkuXZFA"
+      "duration_ms": 182318,
+      "name": "Nkosi",
+      "url": "https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco"
     },
     {
       "added_at": null,
@@ -842,11 +838,15 @@
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Nkosi",
-      "url": "https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco"
+      "duration_ms": 192000,
+      "name": "Uwese",
+      "url": "https://open.spotify.com/track/2Qsf7cbzB82dFjrUkuXZFA"
     }
   ],
   "unique_name": "This Is Victor Thompson",

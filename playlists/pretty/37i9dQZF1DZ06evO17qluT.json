@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 113363,
+  "num_followers": 113402,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAA88yFcJ6k1QUGubkKHJzGR",
+  "snapshot_id": "ar2igAAAAAD6uSJO9ZBHXh0xeNdJNVHM",
   "tracks": [
     {
       "added_at": null,
@@ -803,30 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR\u00c7A DA JUVENTUDE",
-        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 245710,
-      "name": "se joga",
-      "url": "https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes dos Gigantes Chegarem, Vol. 2",
         "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 227093,
       "name": "Almas",
       "url": "https://open.spotify.com/track/2nOaBepWvTS9HdZ25YYode"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 245710,
+      "name": "se joga",
+      "url": "https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM"
     },
     {
       "added_at": null,
@@ -1103,6 +1103,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 148738,
+      "name": "Deus do Furdun\u00e7o",
+      "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALFA",
         "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
@@ -1127,30 +1151,6 @@
       "duration_ms": 231110,
       "name": "Karat\u00ea",
       "url": "https://open.spotify.com/track/5Lvm4MGdCXErM0Svb8ICUC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 148738,
-      "name": "Deus do Furdun\u00e7o",
-      "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
     },
     {
       "added_at": null,

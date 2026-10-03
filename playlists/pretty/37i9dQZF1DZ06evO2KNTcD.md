@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KNTcD.md) - [plain]
 
 > This is Jae Stephens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726 likes - 39 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 728 likes - 39 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KNTcD.md) - [plain]
 | 14 | [Please Don't Talk to Me](https://open.spotify.com/track/5VMM25GeSk123NAhOFdcpu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:47 |
 | 15 | [Gold \(feat\. Parisalexa\)](https://open.spotify.com/track/5K7UdrgyWZPjmiAXLen783) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT), [Parisalexa](https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV) | [And Friends](https://open.spotify.com/album/7FArNYvyeMXYTECCmHoqUe) | 2:43 |
 | 16 | [Body Favors](https://open.spotify.com/track/2obj6HfJslPQdfTUpM8ywG) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:56 |
-| 17 | [Soft Side](https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:55 |
-| 18 | [High My Name Is](https://open.spotify.com/track/7CtGIu3D2Xid9UgnHzE8pO) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:55 |
-| 19 | [What's A Monday](https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [What's A Monday](https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1) | 2:33 |
+| 17 | [Crush](https://open.spotify.com/track/7pRrlsZm66TRUJi5OaPTNX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 3:04 |
+| 18 | [What's A Monday](https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [What's A Monday](https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1) | 2:33 |
+| 19 | [High My Name Is](https://open.spotify.com/track/7CtGIu3D2Xid9UgnHzE8pO) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:55 |
 | 20 | [Boyfriend Forever](https://open.spotify.com/track/6o4tdluxrx4gDOyuweL866) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:58 |
-| 21 | [Crush](https://open.spotify.com/track/7pRrlsZm66TRUJi5OaPTNX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 3:04 |
+| 21 | [Soft Side](https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:55 |
 | 22 | [All Our Time \(feat\. Jae Stephens\)](https://open.spotify.com/track/1cYVwtYE0OD7gn8GnD4H6X) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [if You Feel](https://open.spotify.com/album/3MbutmdmYVZkJet5KXtALG) | 2:46 |
 | 23 | [What You Need \(feat THEY.\)](https://open.spotify.com/track/0fHbxdDnol6ZeRtKrGCBrU) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT), [The They](https://open.spotify.com/artist/1sPdKjeLQGW8g9kY4GAM9G) | [What You Need \(feat THEY.\)](https://open.spotify.com/album/6PNzYWPwECYWRzxCQb5snv) | 3:14 |
 | 24 | [WET](https://open.spotify.com/track/1Wb8kMQTcZmoMo9faO7oyA) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:09 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KNTcD.md) - [plain]
 | 34 | [2019](https://open.spotify.com/track/16b6aJMurd3OxBo92UDtyw) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:24 |
 | 35 | [Long Way to Go](https://open.spotify.com/track/5QamNCps8nwxRYVM7WMFXz) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Long Way to Go](https://open.spotify.com/album/51X4XGeOfWa4B2oC84tXxw) | 3:18 |
 | 36 | [Every Time](https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Every Time](https://open.spotify.com/album/0kqpfZCDG8NhePJQMhbiFd) | 3:36 |
-| 37 | [hate LA](https://open.spotify.com/track/68VZYVbqmDzqaBvH9Lpeq4) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:04 |
-| 38 | [what are you doing tonight?](https://open.spotify.com/track/0QmSIJ8eUs7vry56VHiiTc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 2:56 |
+| 37 | [what are you doing tonight?](https://open.spotify.com/track/0QmSIJ8eUs7vry56VHiiTc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 2:56 |
+| 38 | [hate LA](https://open.spotify.com/track/68VZYVbqmDzqaBvH9Lpeq4) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:04 |
 | 39 | [Downhill](https://open.spotify.com/track/75LOalaw37fgTkL3mSe3XF) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 3:23 |
 
-Snapshot ID: `arxRAAAAAADzp8ui5kjAMdPhqaiWP3Ny`
+Snapshot ID: `ar2igAAAAADqp7H5vldfzMz1hHXCu3q2`

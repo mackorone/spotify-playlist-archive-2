@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 613993,
+  "num_followers": 614130,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Make-believe",
+        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Make-believe",
+      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Make-believe",
-        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Make-believe",
-      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
-        "url": "https://open.spotify.com/album/075BGMvnefok6HKmhbaR5V"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 147613,
-      "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
-      "url": "https://open.spotify.com/track/0vqFUCbcApsfeJDQJLBBM0"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
         "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 58413,
       "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
       "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
+        "url": "https://open.spotify.com/album/075BGMvnefok6HKmhbaR5V"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
+      "url": "https://open.spotify.com/track/0vqFUCbcApsfeJDQJLBBM0"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "F. Couperin: L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
-        "url": "https://open.spotify.com/album/7xu0VApvShwpthWrqtua0g"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Mishka Rushdie Momen",
-          "url": "https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
-      "url": "https://open.spotify.com/track/1URKZCF0l4pzwj61q0MukM"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Works for Solo Piano",
         "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
       },
@@ -1179,22 +1159,22 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
-        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
+        "name": "F. Couperin: L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
+        "url": "https://open.spotify.com/album/7xu0VApvShwpthWrqtua0g"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "Mariani Klavierquartett",
-          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
+          "name": "Mishka Rushdie Momen",
+          "url": "https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab"
         }
       ],
-      "duration_ms": 518539,
-      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
-      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
+      "duration_ms": 103000,
+      "name": "L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
+      "url": "https://open.spotify.com/track/1URKZCF0l4pzwj61q0MukM"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1215,6 +1195,26 @@
       "duration_ms": 470000,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major, 'Lento sostenuto'",
       "url": "https://open.spotify.com/track/0FKULDvNOHU1r3I4nKtwoJ"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
+        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Mariani Klavierquartett",
+          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
+        }
+      ],
+      "duration_ms": 518539,
+      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
+      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
-      },
-      "artists": [
-        {
-          "name": "Francesco Molino",
-          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
-        },
-        {
-          "name": "Emmanuel Pahud",
-          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
-        },
-        {
-          "name": "Christian Rivet",
-          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
-        }
-      ],
-      "duration_ms": 98320,
-      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
-      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 261213,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
       "url": "https://open.spotify.com/track/5Olix25Y5aNqIWGDrrB0Pb"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
+      },
+      "artists": [
+        {
+          "name": "Francesco Molino",
+          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
+        },
+        {
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+        },
+        {
+          "name": "Christian Rivet",
+          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
+        }
+      ],
+      "duration_ms": 98320,
+      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
+      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
         "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 144333,
       "name": "Minuet & Trio in C Major, K. 485a (Compl. Attwood)",
       "url": "https://open.spotify.com/track/04HFjYp900E9b3Plshyvzo"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2026-09-25 04:01:32",

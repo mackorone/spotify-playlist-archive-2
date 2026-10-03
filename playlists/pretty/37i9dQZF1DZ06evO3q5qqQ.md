@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,551 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,556 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 18 | [El Mochomo \- En vivo](https://open.spotify.com/track/3rBfXOCyxYSrvIq5LSc9h2) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD) | 2:42 |
 | 19 | [Ayer & Hoy](https://open.spotify.com/track/3Z8dLMmpusKUZNLotCMH0V) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ayer & Hoy](https://open.spotify.com/album/6R0IH7A8RtsCl3HXOI7aiR) | 2:35 |
 | 20 | [Serafin Zambada](https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt) | 2:08 |
-| 21 | [Ella Esta Triste](https://open.spotify.com/track/5Y2Q1SyaHSkk5hvYDXNpqZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Otra Cara](https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt) | 2:49 |
-| 22 | [La Muchacha Del Salado "La Nicholette" \- En vivo](https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM) | 2:44 |
+| 21 | [La Muchacha Del Salado "La Nicholette" \- En vivo](https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM) | 2:44 |
+| 22 | [Ella Esta Triste](https://open.spotify.com/track/5Y2Q1SyaHSkk5hvYDXNpqZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Otra Cara](https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt) | 2:49 |
 | 23 | [Corazón Ranchero \- En Vivo](https://open.spotify.com/track/5Y7ph3ZXDOOAShgLyKLsHb) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1XBHkino209lUqg5yra3wO) | 3:41 |
 | 24 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 |
 | 25 | [Nunca Me Quisiste](https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Quisiste](https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL) | 2:32 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 34 | [El Hombre Alegre \- En Vivo](https://open.spotify.com/track/4gjJ95Tps8wTzegFSM7llF) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1XBHkino209lUqg5yra3wO) | 3:31 |
 | 35 | [El H](https://open.spotify.com/track/1ipRWFeVZQ449C0HL8K8kS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V) | 2:44 |
 | 36 | [La Pasadita \- En vivo](https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD) | 2:29 |
-| 37 | [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 |
-| 38 | [Solo Por Bonita](https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Solo Por Bonita](https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI) | 2:12 |
+| 37 | [Solo Por Bonita](https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Solo Por Bonita](https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI) | 2:12 |
+| 38 | [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 |
 | 39 | [Prohibido \- En vivo](https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E) | 2:52 |
-| 40 | [Ismael \- En Vivo](https://open.spotify.com/track/76ykOZkFwSlRNsTyQ8hib0) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL \(En Vivo\)](https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU) | 2:23 |
-| 41 | [El Mas Poderoso \- En Vivo](https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1XBHkino209lUqg5yra3wO) | 3:05 |
+| 40 | [El Mas Poderoso \- En Vivo](https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1XBHkino209lUqg5yra3wO) | 3:05 |
+| 41 | [Ismael \- En Vivo](https://open.spotify.com/track/76ykOZkFwSlRNsTyQ8hib0) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL \(En Vivo\)](https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU) | 2:23 |
 | 42 | [El Instructivo](https://open.spotify.com/track/6vtfKCxBf7GrcyvlU2Dl0D) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Otra Cara](https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt) | 2:38 |
 | 43 | [En La Cima \- En vivo](https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E) | 3:04 |
 | 44 | [El Chapio](https://open.spotify.com/track/6GQB3NPE3K8klw6ONwhXx8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Que las Cuartitos No Falten](https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V) | 2:59 |
 | 50 | [El Sultan](https://open.spotify.com/track/4f1M1VZzl83tWeV6CyBGLj) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL \(En Vivo\)](https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU) | 3:15 |
 
-Snapshot ID: `arxRAAAAAAAbbwDEmvH66RdK+ZNvlWVN`
+Snapshot ID: `ar2igAAAAACbLufFZ1SB1r3BSXYZ2b+G`

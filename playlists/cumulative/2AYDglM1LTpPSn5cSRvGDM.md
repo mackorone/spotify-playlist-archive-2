@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-292 songs - 16 hr 44 min
+293 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Hear Me Out \- Hel:sløwed Remix](https://open.spotify.com/track/2jjk9eOpncsrixFwuTUisI) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK), [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss) | [Hear Me Out \(Hel:sløwed Remix\)](https://open.spotify.com/album/4oqPBZ0tn7Toj5CtOJZJk1) | 3:13 | 2025-07-11 |  |
 | [Heart Starts Beating](https://open.spotify.com/track/4dWriJSpVzVOECD8GNDxxb) | [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX), [Jas.](https://open.spotify.com/artist/3ueCEKtgkcjy2YxGPjCobz) | [Heart Starts Beating](https://open.spotify.com/album/6xSJEP1rHuCNRscd1YQVs7) | 3:10 | 2025-07-11 |  |
 | [Heartbeat \- Estiva Remix](https://open.spotify.com/track/18LJyRPtECmqZNxYWrhiZS) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV), [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Heartbeat \(Estiva Remix\)](https://open.spotify.com/album/6daUDDSdvVnXGaDOxRoZnC) | 4:06 | 2026-08-28 |  |
+| [Heavenbound](https://open.spotify.com/track/65TZ3FJKohRKiVp0x42NRQ) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Heavenbound](https://open.spotify.com/album/2390ZFxnBvQC1HTnItMdil) | 3:36 | 2026-10-02 |  |
 | [Hero](https://open.spotify.com/track/5CQ4pHqibilSqbAxvMxOq3) | [Louis Bekk](https://open.spotify.com/artist/3vhqjjDY5CvxhFjuHGi5WC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Hero](https://open.spotify.com/album/0Q4FZ1rx5FSM1bfyEN3BE8) | 3:53 | 2026-04-10 | 2026-08-01 |
 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz) | 3:12 | 2025-07-11 | 2025-11-29 |
 | [Hide and Seek](https://open.spotify.com/track/0SlhHeNYhm4I1EjqaPZ7pc) | [RUMPUS](https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ) | [Hide and Seek](https://open.spotify.com/album/6YrM7hgBq4ZIogV7ebUt4V) | 2:54 | 2026-01-12 | 2026-02-15 |

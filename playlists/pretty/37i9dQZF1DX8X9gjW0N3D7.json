@@ -1,6 +1,6 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: LUMI\u00c8RE",
-  "num_followers": 70665,
+  "num_followers": 70675,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U"
-      },
-      "artists": [
-        {
-          "name": "Fine Food Market",
-          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
-        }
-      ],
-      "duration_ms": 235735,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
         "name": "Quand on aura 100 ans",
         "url": "https://open.spotify.com/album/6MQ4VjsvLXriZeaOcUBhKL"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 180000,
       "name": "Quand on aura 100 ans",
       "url": "https://open.spotify.com/track/3hNuvsH6zArmxbMss28xpI"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U"
+      },
+      "artists": [
+        {
+          "name": "Fine Food Market",
+          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
+        }
+      ],
+      "duration_ms": 235735,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "\u00c7a veut rien saou\u00e8re",
-        "url": "https://open.spotify.com/album/3rbzg7lJGKjfszf8hbu5IL"
-      },
-      "artists": [
-        {
-          "name": "Salebarbes",
-          "url": "https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u00c7a veut toute aou\u00e8re",
-      "url": "https://open.spotify.com/track/6b7hOe2dM38hy46WDGFVaw"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
         "name": "Malgr\u00e9 la temp\u00eate (Deluxe)",
         "url": "https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 160013,
       "name": "Avant qu'il soit trop tard",
       "url": "https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
+        "name": "\u00c7a veut rien saou\u00e8re",
+        "url": "https://open.spotify.com/album/3rbzg7lJGKjfszf8hbu5IL"
+      },
+      "artists": [
+        {
+          "name": "Salebarbes",
+          "url": "https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u00c7a veut toute aou\u00e8re",
+      "url": "https://open.spotify.com/track/6b7hOe2dM38hy46WDGFVaw"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "I don't know",
-        "url": "https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu"
-      },
-      "artists": [
-        {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "I don't know",
-      "url": "https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
         "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
         "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 199146,
       "name": "reel talk",
       "url": "https://open.spotify.com/track/5EByJp6cwNCzueuovl04Am"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
+        "name": "I don't know",
+        "url": "https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "I don't know",
+      "url": "https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
+        "name": "Je fais confiance au temps",
+        "url": "https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U"
+      },
+      "artists": [
+        {
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        }
+      ],
+      "duration_ms": 197822,
+      "name": "Je fais confiance au temps",
+      "url": "https://open.spotify.com/track/36u2u14w4ljjuuty5gZU80"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
         "name": "the evergreen, the birch",
         "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 179050,
       "name": "the evergreen, the birch",
       "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
-        "name": "Je fais confiance au temps",
-        "url": "https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U"
-      },
-      "artists": [
-        {
-          "name": "Mah\u00e9ja",
-          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
-        }
-      ],
-      "duration_ms": 197822,
-      "name": "Je fais confiance au temps",
-      "url": "https://open.spotify.com/track/36u2u14w4ljjuuty5gZU80"
     },
     {
       "added_at": "2026-10-02 04:03:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-10-02 04:03:46",
       "album": {
-        "name": "Mood Ring",
-        "url": "https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 202616,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT"
-    },
-    {
-      "added_at": "2026-10-02 04:03:46",
-      "album": {
         "name": "figure it out",
         "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 171428,
       "name": "figure it out",
       "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
+    },
+    {
+      "added_at": "2026-10-02 04:03:46",
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 202616,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT"
     },
     {
       "added_at": "2026-10-02 04:03:46",

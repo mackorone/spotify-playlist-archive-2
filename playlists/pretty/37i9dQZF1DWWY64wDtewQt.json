@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11934408,
+  "num_followers": 11936230,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKuSVS52arLgLPQY3o4bE1DnKrkJ",
+  "snapshot_id": "AAAAAAdIZByA1Rc/bsIPfLEKxLSaBX9/",
   "tracks": [
     {
       "added_at": "2026-07-17 04:04:29",
@@ -75,6 +75,30 @@
       "duration_ms": 102048,
       "name": "MONTAGEM PEGADORA - Slowed",
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
+    },
+    {
+      "added_at": "2026-09-18 14:18:53",
+      "album": {
+        "name": "SEM DEMORA",
+        "url": "https://open.spotify.com/album/1aKsOw22I4kcaz4jEOCa8S"
+      },
+      "artists": [
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "MXXNAVRA",
+          "url": "https://open.spotify.com/artist/2MQcsVEslLkZZdBWlb9vL0"
+        },
+        {
+          "name": "SIXTINAGER",
+          "url": "https://open.spotify.com/artist/2BMyfra4JbxaQO9d7XfB8n"
+        }
+      ],
+      "duration_ms": 116593,
+      "name": "SEM DEMORA - Slowed",
+      "url": "https://open.spotify.com/track/1NKhUxMfZMfDYfPGaWenLk"
     },
     {
       "added_at": "2026-05-01 15:50:01",
@@ -175,6 +199,22 @@
       "duration_ms": 96004,
       "name": "MONTAGEM ALQUIMIA",
       "url": "https://open.spotify.com/track/0Wms5IftbzNzmrAyXx4A33"
+    },
+    {
+      "added_at": "2026-10-02 10:45:05",
+      "album": {
+        "name": "PROS BANDIDO",
+        "url": "https://open.spotify.com/album/69r1iymHW8P8HcTxmM1py3"
+      },
+      "artists": [
+        {
+          "name": "MATORO",
+          "url": "https://open.spotify.com/artist/1L1T6dVeD1s1OMwCLdxGuu"
+        }
+      ],
+      "duration_ms": 118807,
+      "name": "PROS BANDIDO - ULTRA SLOWED",
+      "url": "https://open.spotify.com/track/6jjCBwlpwDPaL3WZa8ZpwK"
     },
     {
       "added_at": "2026-05-15 15:15:08",
@@ -467,30 +507,6 @@
       "duration_ms": 105665,
       "name": "MONTAGEM SANTA FE 2",
       "url": "https://open.spotify.com/track/7EyTAAgH5jME3tKxbr8W12"
-    },
-    {
-      "added_at": "2026-09-18 14:18:53",
-      "album": {
-        "name": "SEM DEMORA",
-        "url": "https://open.spotify.com/album/1aKsOw22I4kcaz4jEOCa8S"
-      },
-      "artists": [
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        },
-        {
-          "name": "MXXNAVRA",
-          "url": "https://open.spotify.com/artist/2MQcsVEslLkZZdBWlb9vL0"
-        },
-        {
-          "name": "SIXTINAGER",
-          "url": "https://open.spotify.com/artist/2BMyfra4JbxaQO9d7XfB8n"
-        }
-      ],
-      "duration_ms": 116593,
-      "name": "SEM DEMORA - Slowed",
-      "url": "https://open.spotify.com/track/1NKhUxMfZMfDYfPGaWenLk"
     },
     {
       "added_at": "2025-05-14 19:31:19",
@@ -1109,24 +1125,24 @@
       "url": "https://open.spotify.com/track/0GecnrwlbhYKU0occvdJPs"
     },
     {
-      "added_at": "2024-04-12 15:41:29",
+      "added_at": "2026-10-02 10:45:05",
       "album": {
-        "name": "MASHA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
+        "name": "MONTAGEM ROYAL",
+        "url": "https://open.spotify.com/album/3sL1xjPFSx0hPXqKeQATkp"
       },
       "artists": [
         {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
         },
         {
-          "name": "TXVSTERPLAYA",
-          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
         }
       ],
-      "duration_ms": 93650,
-      "name": "MASHA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+      "duration_ms": 165825,
+      "name": "MONTAGEM ROYAL - SLOWED",
+      "url": "https://open.spotify.com/track/2cyeUeqXKN6alqJQxbzQpw"
     },
     {
       "added_at": "2026-03-27 16:00:08",
@@ -1155,6 +1171,26 @@
       "duration_ms": 93038,
       "name": "MONTAGEM TENTA - Slowed",
       "url": "https://open.spotify.com/track/5WShZpWdfHKvWonA4ZUJHW"
+    },
+    {
+      "added_at": "2024-04-12 15:41:29",
+      "album": {
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
+      },
+      "artists": [
+        {
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+        },
+        {
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+        }
+      ],
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
       "added_at": "2025-08-11 21:16:02",
@@ -1537,30 +1573,6 @@
       "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
     },
     {
-      "added_at": "2025-10-10 14:25:24",
-      "album": {
-        "name": "YOSHO HAI MONTAGEM",
-        "url": "https://open.spotify.com/album/6zbBrp4ubvGJcf3riFqKrC"
-      },
-      "artists": [
-        {
-          "name": "Torbahed",
-          "url": "https://open.spotify.com/artist/70RROKB3fDyzsemSqSCsjL"
-        },
-        {
-          "name": "ZODIVK",
-          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
-        },
-        {
-          "name": "Y3LLAVISION",
-          "url": "https://open.spotify.com/artist/0ApnjXe7M2x00FUNOP96JT"
-        }
-      ],
-      "duration_ms": 83995,
-      "name": "YOSHO HAI MONTAGEM",
-      "url": "https://open.spotify.com/track/0AVvy2eRQas5xX2EOk3G9h"
-    },
-    {
       "added_at": "2025-08-29 15:35:59",
       "album": {
         "name": "BELONG TO ME FUNK",
@@ -1815,30 +1827,6 @@
       "duration_ms": 113161,
       "name": "SLAVA FUNK!",
       "url": "https://open.spotify.com/track/55YYhNqfMTIpPulNc0lLme"
-    },
-    {
-      "added_at": "2025-05-02 15:58:53",
-      "album": {
-        "name": "NADA DE NADA",
-        "url": "https://open.spotify.com/album/0bnRh8zzDmwzfBflvRk4jE"
-      },
-      "artists": [
-        {
-          "name": "KVRXD",
-          "url": "https://open.spotify.com/artist/3BF0v9nGW4RzCFBBWWQarA"
-        },
-        {
-          "name": "MAXPVNK",
-          "url": "https://open.spotify.com/artist/4dHkDmvdWDXoycp4Caui8D"
-        },
-        {
-          "name": "DJ RITMO DIVINO",
-          "url": "https://open.spotify.com/artist/6GvahNk3SvKrC48sA1V15o"
-        }
-      ],
-      "duration_ms": 68312,
-      "name": "NADA DE NADA",
-      "url": "https://open.spotify.com/track/397jCX8wRPKsSZTDcAUccg"
     },
     {
       "added_at": "2026-03-06 14:00:09",

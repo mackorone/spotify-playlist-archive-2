@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Original Broadway Cast of The Lost Boys",
-  "num_followers": 113014,
+  "num_followers": 113016,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANziN9qNwC9d/GPsftailVnIH2R3",
+  "snapshot_id": "AAAAAPCbmctxrg3D2dq3TgDUrtXHtbHl",
   "tracks": [
     {
       "added_at": "2026-08-21 22:27:37",
@@ -47,6 +47,38 @@
       "duration_ms": 229227,
       "name": "Secret Comes Out (feat. Brian Flores, Sean Grandillo, Dean Maupin)",
       "url": "https://open.spotify.com/track/6GJ0nYFR1G4M3eTTRl39Dl"
+    },
+    {
+      "added_at": "2026-10-02 04:00:16",
+      "album": {
+        "name": "Out of the Ordinary (feat. Michael Leon Wooley & Kat Nestel)",
+        "url": "https://open.spotify.com/album/6Db7t5U9sPIMLlXIIne2Nk"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        },
+        {
+          "name": "Elyssa Samsel",
+          "url": "https://open.spotify.com/artist/75QEgCXd582Jrdk7YEPPgM"
+        },
+        {
+          "name": "Kate Anderson",
+          "url": "https://open.spotify.com/artist/0u3ACq9Z1LeUkQ4ljpBMs4"
+        },
+        {
+          "name": "Michael Leon Wooley",
+          "url": "https://open.spotify.com/artist/5ZjcvtBULFd3OUZcm8Ujhi"
+        },
+        {
+          "name": "Kat Nestel",
+          "url": "https://open.spotify.com/artist/2S5DXnDpQlpDXFUcvqAb4E"
+        }
+      ],
+      "duration_ms": 167282,
+      "name": "Out of the Ordinary (feat. Michael Leon Wooley & Kat Nestel)",
+      "url": "https://open.spotify.com/track/4fGykOnKnYp4EYcgCEvep4"
     },
     {
       "added_at": "2026-08-21 22:27:37",
@@ -1071,38 +1103,6 @@
       "duration_ms": 188317,
       "name": "She Knocks Me Out",
       "url": "https://open.spotify.com/track/7zaCoHhmiCq0rTOBJH7cjK"
-    },
-    {
-      "added_at": "2026-08-21 22:27:37",
-      "album": {
-        "name": "Real Women Have Curves: The Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1yPicjQltK5h3RmfZ116Bp"
-      },
-      "artists": [
-        {
-          "name": "Tatianna C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/4NzAALgQdqh2ts1FO94Etd"
-        },
-        {
-          "name": "Carla Jimenez",
-          "url": "https://open.spotify.com/artist/11H3IXQy9MAM9hY2aEyyQa"
-        },
-        {
-          "name": "Florencia Cuenca",
-          "url": "https://open.spotify.com/artist/1W5tuAWRhPuKMJN438XYac"
-        },
-        {
-          "name": "Justina Machado",
-          "url": "https://open.spotify.com/artist/0Caerv4ooDH953kuV32Yzj"
-        },
-        {
-          "name": "Real Women Have Curves Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3iQQnAznu8N9ope2iEuv7W"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Real Women Have Curves",
-      "url": "https://open.spotify.com/track/3IQsP9pkvP7OI1VZEqJ3vQ"
     },
     {
       "added_at": "2026-08-21 22:27:37",

@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 5 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
 | 6 | [Com Muito Louvor](https://open.spotify.com/track/0suvVjf5ZT2Pasu1cDPEVr) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 5:05 |
 | 7 | [O Leão e o Cordeiro](https://open.spotify.com/track/1irO0WkYsvyJn69eU2WPtp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Nível do Céu](https://open.spotify.com/album/7LrpfDg51GwVELHlfflG6l) | 6:20 |
-| 8 | [500 Graus](https://open.spotify.com/track/7qSzexUzL3H8Fqic0jwDDL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:25 |
-| 9 | [Peregrino \- Ao vivo](https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Peregrino \(Ao Vivo\)](https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp) | 5:30 |
+| 8 | [Peregrino \- Ao vivo](https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Peregrino \(Ao Vivo\)](https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp) | 5:30 |
+| 9 | [500 Graus](https://open.spotify.com/track/7qSzexUzL3H8Fqic0jwDDL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:25 |
 | 10 | [Com Cristo é Vencer](https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:24 |
 | 11 | [Vou Seguir](https://open.spotify.com/track/67TQGw4cZzFD33j4KJcOdQ) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Para Sempre](https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb) | 4:42 |
 | 12 | [Amigo Espírito Santo](https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Ao Som dos Louvores](https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU) | 5:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 49 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
 | 50 | [Campeões da Luz](https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 3:47 |
 
-Snapshot ID: `arxRAAAAAADc8MKC4XfeMNfGFjTqJbIt`
+Snapshot ID: `ar2igAAAAABBH02Dcu2Z21tbPkI/iCM1`

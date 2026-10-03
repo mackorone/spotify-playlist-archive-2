@@ -4,11 +4,12 @@
 
 > e don cast
 
-310 songs - 15 hr 44 min
+311 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Kilo](https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 | 2025-05-16 |  |
+| [16](https://open.spotify.com/track/1pLS5FERQjEXlHho6THq1d) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Still In Charge](https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD) | 3:23 | 2026-10-02 |  |
 | [2Good4u](https://open.spotify.com/track/2omFUhQMF6cJzLVIbPfRlX) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [MRS Gold \(My Real Self\)](https://open.spotify.com/album/7w5RxBwixoaVGJXzUj5qxP) | 3:09 | 2024-02-23 | 2024-03-06 |
 | [365 Days](https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [365 Days](https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH) | 3:08 | 2026-09-11 |  |
 | [4 Nothin'](https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb) | 3:29 | 2022-02-11 | 2023-05-15 |
@@ -47,7 +48,7 @@
 | [Broken Souls](https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v) | [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Broken Souls](https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp) | 2:37 | 2025-02-19 |  |
 | [BURN](https://open.spotify.com/track/35JabnPsJkmaNH5V1Zl5ln) | [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd) | [BURN](https://open.spotify.com/album/5ZS3CpdwDGD3BcaCyq2E4k) | 2:43 | 2026-05-15 | 2026-05-29 |
 | [Bye Bye](https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3) | [Asem](https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Solid Ground](https://open.spotify.com/album/1SwHH5FFGEsoj428xaUU9k) | 5:05 | 2022-02-11 | 2022-08-17 |
-| [BYE BYE](https://open.spotify.com/track/6nTQY7MENn4JietjaoOjhj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:58 | 2026-08-07 |  |
+| [BYE BYE](https://open.spotify.com/track/6nTQY7MENn4JietjaoOjhj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:58 | 2026-08-07 | 2026-10-03 |
 | [Call Again](https://open.spotify.com/track/31Kunh3BOAccQ5EHXkJkz5) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Both Worlds](https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq) | 3:10 | 2025-02-28 | 2025-04-28 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-17 |  |
 | [Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:55 | 2025-01-21 |  |

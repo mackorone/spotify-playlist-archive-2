@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Panther",
+  "description": "Best of Hindi Hip-Hop! Cover: Vichaar",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -140,6 +140,28 @@
       "duration_ms": 185060,
       "name": "8-FIGGAAH! (feat. GD47)",
       "url": "https://open.spotify.com/track/2WNFPHqgE3iFcsnIOJ2IWw"
+    },
+    {
+      "album": {
+        "name": "AABHAARI HOON",
+        "url": "https://open.spotify.com/album/7M5zh2u8StzveWk4mSsD9z"
+      },
+      "artists": [
+        {
+          "name": "vichaar",
+          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
+        },
+        {
+          "name": "ISHH",
+          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "AABHAARI HOON",
+      "url": "https://open.spotify.com/track/0TvBGs9qgh5NC9Zmx1LuNi"
     },
     {
       "album": {
@@ -472,7 +494,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 166451,
       "name": "Ankurit Moong",
       "url": "https://open.spotify.com/track/1tjarvG7EoJRYL7etWdJgo"
@@ -752,6 +774,28 @@
       "duration_ms": 163384,
       "name": "Badshah",
       "url": "https://open.spotify.com/track/1hfRfTfumpDvDtMtXMRY81"
+    },
+    {
+      "album": {
+        "name": "BAJESH VISHAY (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/0jKNnlKyjqmi30CoKdrPTy"
+      },
+      "artists": [
+        {
+          "name": "Naam Sujal",
+          "url": "https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP"
+        },
+        {
+          "name": "Hisab",
+          "url": "https://open.spotify.com/artist/5hUQdeBxFRCATjJnUo5Jdx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206629,
+      "name": "BAJESH VISHAY - Red Bull 64 Bars",
+      "url": "https://open.spotify.com/track/5knokuk6RjmAMgKhnv7DDj"
     },
     {
       "album": {
@@ -2015,6 +2059,36 @@
     },
     {
       "album": {
+        "name": "Dola Re",
+        "url": "https://open.spotify.com/album/2mDZHkuFaPQHk8FEOwHl5c"
+      },
+      "artists": [
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        },
+        {
+          "name": "Naam Sujal",
+          "url": "https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP"
+        },
+        {
+          "name": "Dhp",
+          "url": "https://open.spotify.com/artist/77NUvfelg2oWph4u620NwF"
+        },
+        {
+          "name": "Ismail Darbar",
+          "url": "https://open.spotify.com/artist/3r4HOyyBpGvNIyajw3mcER"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124153,
+      "name": "Dola Re",
+      "url": "https://open.spotify.com/track/0OLMYuBARmEYwQMbsqHlmQ"
+    },
+    {
+      "album": {
         "name": "Don't Even Text",
         "url": "https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb"
       },
@@ -2484,7 +2558,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 184071,
       "name": "GANG & HOODIES",
       "url": "https://open.spotify.com/track/0ThCEz3hZpBTftDPKh2XUp"
@@ -3955,6 +4029,32 @@
     },
     {
       "album": {
+        "name": "NO FORMULA",
+        "url": "https://open.spotify.com/album/6fxTN7A3WenyJesBtcKnR7"
+      },
+      "artists": [
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Hashbass",
+          "url": "https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Kuch Mat Kar",
+      "url": "https://open.spotify.com/track/4nMUzO2UV5pnabuhFx6ay9"
+    },
+    {
+      "album": {
         "name": "Kya Haal Hai Bro?",
         "url": "https://open.spotify.com/album/4ANdzXnb8riLng8auviFnv"
       },
@@ -4072,7 +4172,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 152903,
       "name": "Laal Gaddiyan",
       "url": "https://open.spotify.com/track/65jij66fK47fSYqiGK5LrD"
@@ -4699,6 +4799,28 @@
     },
     {
       "album": {
+        "name": "Hustle 5 - Episode 12",
+        "url": "https://open.spotify.com/album/05PJOGRq9bkrHVvNYhTdnX"
+      },
+      "artists": [
+        {
+          "name": "SickLot",
+          "url": "https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152832,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/0ZM4Sq2L0z6PTorf8ZNTUU"
+    },
+    {
+      "album": {
         "name": "MOOSA",
         "url": "https://open.spotify.com/album/0HD6W00T91a8Hmm9Wok6wX"
       },
@@ -4814,7 +4936,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 168510,
       "name": "Mujhe Ye Gaana Pasand Hai",
       "url": "https://open.spotify.com/track/4B0ZooeBJvDsNzRRm3V5o3"
@@ -5823,6 +5945,32 @@
     },
     {
       "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/31IK2iRy13nI7JeepjD1X4"
+      },
+      "artists": [
+        {
+          "name": "KavyaKriti",
+          "url": "https://open.spotify.com/artist/1DHwrcQWDQhgbRg4BE9rgr"
+        },
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/351dCswaJ118gyxKoIlmbV"
+    },
+    {
+      "album": {
         "name": "Regret",
         "url": "https://open.spotify.com/album/48y1lb2W155CpRSwfgY6ZR"
       },
@@ -6014,7 +6162,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 159130,
       "name": "Sab Set Hai",
       "url": "https://open.spotify.com/track/4EY4BcpAYDfcTb2ljrDc14"
@@ -6080,7 +6228,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 167666,
       "name": "SAFAL - Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/1Rc8HH8HNlclwmvobJD2WK"

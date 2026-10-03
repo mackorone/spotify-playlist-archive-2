@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,183 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,196 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 40 | [El Preso De Nuevo León \- En Vivo](https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB) | [La Borrachera Perfecta El After \(En Vivo\)](https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX) | 3:18 |
 | 41 | [Ojitos a Mi Gusto](https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM) | 2:40 |
 | 42 | [Sin Recompensa Ni Esperanza \- En Vivo](https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Borrachera Perfecta \(En Vivo\)](https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5) | 2:58 |
-| 43 | [Corazón de Oro \- En Vivo](https://open.spotify.com/track/6LWbqItYhTpwKXC64sn67L) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [Chapayeka \(Puro Chucky\) \(En Vivo\)](https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h) | 3:25 |
-| 44 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 |
+| 43 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 |
+| 44 | [Corazón de Oro \- En Vivo](https://open.spotify.com/track/6LWbqItYhTpwKXC64sn67L) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [Chapayeka \(Puro Chucky\) \(En Vivo\)](https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h) | 3:25 |
 | 45 | [Los Sauces Llorones](https://open.spotify.com/track/4usEulEiuTXderzs33oblT) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM) | 3:19 |
 | 46 | [Sabor De Engaño \- En Vivo](https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Rosendo Cantú](https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Borrachera Perfecta \(En Vivo\)](https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5) | 2:50 |
 | 47 | [Que Dios Me Perdone](https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Más Pegadas](https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [Pero María](https://open.spotify.com/track/3gIWoXj9KTMBDBcL1xt2Xb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM) | 3:07 |
 | 50 | [Baraja de Oro](https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:13 |
 
-Snapshot ID: `arxRAAAAAADUI4fdv45PnacvhYKLRVpd`
+Snapshot ID: `ar2igAAAAAD37Q+sFeoIsjSuAUyig+JN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > algorave\_ˋˏ♡ˎˊ˗\_hyper\_sleaze.electro\_glitch\_☆▽☆\_⏻⏻⏻\_w/meatcomputer\_\[FINAL\]\_\[REAL\]\_\_coverartist.DJ\_Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370,908 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370,898 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

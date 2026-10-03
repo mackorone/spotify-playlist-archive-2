@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-673 songs - 1 day 17 hr 27 min
+674 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [One More Time](https://open.spotify.com/track/65DXx4MjmlPwm1RlWtuPvZ) | [Stopgap Solution](https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb) | [One More Time](https://open.spotify.com/album/3QUosDhdcGqOSgxXxagaFo) | 3:10 | 2026-02-16 | 2026-03-22 |
 | [One of a Kind](https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Invisible People](https://open.spotify.com/album/2Ll9ZEs3ab6t1apPx4Oj5g) | 3:59 | 2026-02-08 | 2026-03-04 |
 | [One Roof Band](https://open.spotify.com/track/33MX2mqv9J1IJhNSXDMxzx) | [Ashton McKinley](https://open.spotify.com/artist/2Fo0a4n5BfuG5cbm1P6nAy), [Jack McKinley](https://open.spotify.com/artist/5pV0bg4PE7KriPKMOlU1JH) | [One Roof Band](https://open.spotify.com/album/0chLuhom9W02NOMEaepQaJ) | 3:44 | 2025-11-06 | 2025-12-12 |
+| [Orange Slice Memory](https://open.spotify.com/track/71IgFgauHKNpetUKU3uDN3) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Enter! Plastic City / Orange Slice Memory](https://open.spotify.com/album/6xLpoRjVBhQVDX4Hm3Mn4k) | 2:58 | 2026-10-02 |  |
 | [Out of Deep Waters](https://open.spotify.com/track/4ypopxCsejZafILZq7wnDq) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Differentiation](https://open.spotify.com/album/4esD0RdSmXX2NXvVeTYbc7) | 3:32 | 2026-03-21 | 2026-04-20 |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-17 | 2025-12-12 |
 | [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 | 2026-09-02 |  |

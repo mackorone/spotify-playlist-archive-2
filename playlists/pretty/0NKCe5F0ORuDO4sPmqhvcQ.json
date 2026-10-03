@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening ",
-  "num_followers": 20340,
+  "num_followers": 20341,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAArWzt/7O6p1dL/t46dS+Zpr1QYkJWZ",
+  "snapshot_id": "AAArZaWcArQoaDIFr48FIo6Gm1y5zmnB",
   "tracks": [
     {
       "added_at": "2026-09-15 18:22:50",
@@ -27,6 +27,22 @@
       "duration_ms": 204137,
       "name": "All Things Fall Away",
       "url": "https://open.spotify.com/track/01LUUZPRT7tW7daEf6FIOv"
+    },
+    {
+      "added_at": "2026-10-02 22:44:58",
+      "album": {
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/3ZbK8r37aASznMcda031C5"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/7aghuR0jokdfhwirE7s8hu"
     },
     {
       "added_at": "2026-09-15 18:23:36",
@@ -199,6 +215,46 @@
       "duration_ms": 175182,
       "name": "RINSE IT (Feat. Nevve)",
       "url": "https://open.spotify.com/track/2GzM7fkgawh6a5KQwMxyCg"
+    },
+    {
+      "added_at": "2026-10-02 22:45:47",
+      "album": {
+        "name": "Hot Girl Walk",
+        "url": "https://open.spotify.com/album/5GUlkDaeCQeSCr2JUcp9yp"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        },
+        {
+          "name": "NO STATIC",
+          "url": "https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Hot Girl Walk",
+      "url": "https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25"
+    },
+    {
+      "added_at": "2026-10-02 22:46:57",
+      "album": {
+        "name": "Indian Summer (San Holo Remix)",
+        "url": "https://open.spotify.com/album/7d4JiubflwZTm6GZfCV4fn"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 212024,
+      "name": "Indian Summer (San Holo Remix)",
+      "url": "https://open.spotify.com/track/5vbQ7NAm2AjOa1e8PXiwLO"
     },
     {
       "added_at": "2024-09-06 16:26:02",
@@ -401,6 +457,26 @@
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
     },
     {
+      "added_at": "2026-10-02 22:45:14",
+      "album": {
+        "name": "Arrows (Slow Magic Remix)",
+        "url": "https://open.spotify.com/album/1gYG16U0PiNz3dxRQnPfvO"
+      },
+      "artists": [
+        {
+          "name": "Rooting For You",
+          "url": "https://open.spotify.com/artist/3amDy0Svx7L5grjfy9np0O"
+        },
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        }
+      ],
+      "duration_ms": 291925,
+      "name": "Arrows - Slow Magic Remix",
+      "url": "https://open.spotify.com/track/181XuKQ7lyBOl5dX5qDRGl"
+    },
+    {
       "added_at": "2023-02-22 21:57:47",
       "album": {
         "name": "Conflicted",
@@ -495,6 +571,22 @@
       "duration_ms": 389310,
       "name": "Everyday, Everyday - Live Edit",
       "url": "https://open.spotify.com/track/4lqEaB69YUYkV2i9T7ZuU0"
+    },
+    {
+      "added_at": "2026-09-25 17:46:41",
+      "album": {
+        "name": "Uno Dos Tres",
+        "url": "https://open.spotify.com/album/1bqMPwpSaxLiyeWDBQvRug"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Uno Dos Tres",
+      "url": "https://open.spotify.com/track/2vdtxz7fFGfAu6Xs3i2D6m"
     },
     {
       "added_at": "2022-12-02 16:45:58",
@@ -1129,20 +1221,20 @@
       "url": "https://open.spotify.com/track/0ce3j6wnI1zasUA65b0YyS"
     },
     {
-      "added_at": "2026-09-25 17:46:41",
+      "added_at": "2026-10-02 22:48:15",
       "album": {
-        "name": "Uno Dos Tres",
-        "url": "https://open.spotify.com/album/1bqMPwpSaxLiyeWDBQvRug"
+        "name": "5T4RP0W3R",
+        "url": "https://open.spotify.com/album/66V5NZ2YA7kOza3gONqARK"
       },
       "artists": [
         {
-          "name": "Cole Knight",
-          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Uno Dos Tres",
-      "url": "https://open.spotify.com/track/2vdtxz7fFGfAu6Xs3i2D6m"
+      "duration_ms": 214250,
+      "name": "Lightning In A Bottle",
+      "url": "https://open.spotify.com/track/5X9akP1OfE8A1PPj5hNJ2k"
     }
   ],
   "unique_name": "Moving Castle Monthly",

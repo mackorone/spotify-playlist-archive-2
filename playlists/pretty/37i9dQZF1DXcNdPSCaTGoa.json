@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: The Mahotella Queens, lordkez",
-  "num_followers": 7291,
+  "num_followers": 7332,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2026-09-24 22:00:42",
       "album": {
-        "name": "Khokhovula",
-        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
+        {
+          "name": "ZANO",
+          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Sana Luma (Thats The Way Love Is)",
-      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
+      "duration_ms": 274053,
+      "name": "Sondela (feat. Zano)",
+      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
     },
     {
       "added_at": "2026-09-24 22:00:42",
@@ -567,22 +571,18 @@
     {
       "added_at": "2026-09-24 22:00:42",
       "album": {
-        "name": "Family Values",
-        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
       "artists": [
         {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
-        },
-        {
-          "name": "ZANO",
-          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
         }
       ],
-      "duration_ms": 274053,
-      "name": "Sondela (feat. Zano)",
-      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
+      "duration_ms": 317760,
+      "name": "Sana Luma (Thats The Way Love Is)",
+      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
     },
     {
       "added_at": "2026-09-24 22:00:42",
@@ -863,22 +863,18 @@
     {
       "added_at": "2026-09-24 22:00:42",
       "album": {
-        "name": "Rain Man: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
       "artists": [
         {
-          "name": "Savuka",
-          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
-        },
-        {
-          "name": "Johnny Clegg",
-          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
         }
       ],
-      "duration_ms": 245626,
-      "name": "Scatterlings Of Africa",
-      "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2026-09-24 22:00:42",
@@ -899,18 +895,22 @@
     {
       "added_at": "2026-09-24 22:00:42",
       "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+        "name": "Rain Man: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
       "artists": [
         {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+          "name": "Savuka",
+          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
+        },
+        {
+          "name": "Johnny Clegg",
+          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+      "duration_ms": 245626,
+      "name": "Scatterlings Of Africa",
+      "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
     },
     {
       "added_at": "2026-09-24 22:00:42",

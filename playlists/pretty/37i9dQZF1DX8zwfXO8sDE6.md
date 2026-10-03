@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,213 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,227 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 43 | [キッシング・フィッシュ \- 2017 リマスター](https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v) | [Nanaco Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Kissing Fish \(2017 リマスター\)](https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ) | 4:39 |
 | 44 | [The Tokyo Taste](https://open.spotify.com/track/6AKFrXgaa6gAWZyg5g2hyH) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW), [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y), [Alex](https://open.spotify.com/artist/7A6cteuR1eQJ01f5P2ZDZI) | [sadistics](https://open.spotify.com/album/0hoyGdz4oLEHvtazzD0myg) | 3:42 |
 | 45 | [心のままに](https://open.spotify.com/track/5X0xhUWh5d1LltgEPnGl1I) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/2TAs79aEFZQpGxYwpF7yAo) | 3:49 |
-| 46 | [冥想](https://open.spotify.com/track/7zpGF0mHjjs7r0CUmT1yhm) | [Amii Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [SHADY（シェイディ）](https://open.spotify.com/album/5nmYJKydQYpjmgu1YCJkmn) | 4:08 |
-| 47 | [Gardenia](https://open.spotify.com/track/6mWffFIkSHEJaJNSSFlvMR) | [Kazuhiko Kato](https://open.spotify.com/artist/2lNBXVmLH56C2x0Nj4NSzC) | [ガーディニア](https://open.spotify.com/album/3DbzmSYvnSrbCwsdThZ9d9) | 4:29 |
+| 46 | [Gardenia](https://open.spotify.com/track/6mWffFIkSHEJaJNSSFlvMR) | [Kazuhiko Kato](https://open.spotify.com/artist/2lNBXVmLH56C2x0Nj4NSzC) | [ガーディニア](https://open.spotify.com/album/3DbzmSYvnSrbCwsdThZ9d9) | 4:29 |
+| 47 | [冥想](https://open.spotify.com/track/7zpGF0mHjjs7r0CUmT1yhm) | [Amii Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [SHADY（シェイディ）](https://open.spotify.com/album/5nmYJKydQYpjmgu1YCJkmn) | 4:08 |
 | 48 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 |
-| 49 | [YOU GOT THE MUSIC](https://open.spotify.com/track/4QUEaU4FicWIwmbTK6P1X5) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [THRILL\[Remaster\]](https://open.spotify.com/album/0XzepsIs71Hzyu2FPgvp7A) | 4:32 |
-| 50 | [レインボー・シーライン](https://open.spotify.com/track/7jQ3TGii9ExXggR5LMoT7p) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [スーパー・マーケット](https://open.spotify.com/album/0gL7jDFYfF6QzfEWdofTxF) | 3:53 |
+| 49 | [レインボー・シーライン](https://open.spotify.com/track/7jQ3TGii9ExXggR5LMoT7p) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [スーパー・マーケット](https://open.spotify.com/album/0gL7jDFYfF6QzfEWdofTxF) | 3:53 |
+| 50 | [YOU GOT THE MUSIC](https://open.spotify.com/track/4QUEaU4FicWIwmbTK6P1X5) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [THRILL\[Remaster\]](https://open.spotify.com/album/0XzepsIs71Hzyu2FPgvp7A) | 4:32 |
 
 Snapshot ID: `AAAAAGqxtYJgN1mjpY0ShQ9gJkRyt3I7`

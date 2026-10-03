@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,596 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,601 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 6 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
 | 7 | [P0RN0](https://open.spotify.com/track/5LMy35rxqq4OG4VTWRMtz3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Chesyprod](https://open.spotify.com/artist/3dSQm2WdaqG31BS3DylQFD) | [P0RN0](https://open.spotify.com/album/6B0R5o69CqabFAfU3rIeeL) | 2:18 |
 | 8 | [Kho Sa Gaya Hoon](https://open.spotify.com/track/6f4j8tJbdca1JAjbxCpH3G) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Kho Sa Gaya Hoon](https://open.spotify.com/album/3QGif7T782Wl9lRA4Zx76N) | 2:07 |
-| 9 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
-| 10 | [Solo Ama](https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Solo Ama](https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh) | 3:30 |
-| 11 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |
+| 9 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |
+| 10 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
+| 11 | [Solo Ama](https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Solo Ama](https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh) | 3:30 |
 | 12 | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn) | 3:09 |
 | 13 | [El Endemoniao](https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Endemoniao](https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo) | 3:34 |
 | 14 | [stranger](https://open.spotify.com/track/7rIncPcHyKmnsZgyvGhoDw) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:28 |
@@ -29,21 +29,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 19 | [GO](https://open.spotify.com/track/1jESDIMfh3MPC2A6SZvWSN) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界が変わる時](https://open.spotify.com/album/0y0zbIj2mPsAeRHzlNQEAe) | 3:49 |
 | 20 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
 | 21 | [over](https://open.spotify.com/track/7y9aCH44424t5XmTHIdli8) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [over](https://open.spotify.com/album/6RrUiVZgYqU7bdt7MWMMzZ) | 2:47 |
-| 22 | [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 |
-| 23 | [QUÉ NOS PASÓ?](https://open.spotify.com/track/6nWrPaHLvdqIYeqPvydLFu) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [QUÉ NOS PASÓ?](https://open.spotify.com/album/0WswLK7Vb1ceeDjNhtdZAC) | 2:08 |
-| 24 | [The Dealer](https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [The Dealer](https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg) | 3:09 |
-| 25 | [Man On The Moon](https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Man On The Moon](https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx) | 3:23 |
+| 22 | [Man On The Moon](https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Man On The Moon](https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx) | 3:23 |
+| 23 | [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 |
+| 24 | [QUÉ NOS PASÓ?](https://open.spotify.com/track/6nWrPaHLvdqIYeqPvydLFu) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [QUÉ NOS PASÓ?](https://open.spotify.com/album/0WswLK7Vb1ceeDjNhtdZAC) | 2:08 |
+| 25 | [The Dealer](https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [The Dealer](https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg) | 3:09 |
 | 26 | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/track/1L4JAfalGltZ5oZmpd5mOS) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw) | 4:16 |
 | 27 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
-| 28 | [chilling in my bathtub](https://open.spotify.com/track/4kU6toL3cyw5Tly52hCsqb) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [chilling in my bathtub](https://open.spotify.com/album/7xWjvCyfTkOyyp7FtWnvhX) | 3:11 |
-| 29 | [Writing's on the Wall](https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Writing's on the Wall](https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G) | 3:03 |
+| 28 | [Writing's on the Wall](https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Writing's on the Wall](https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G) | 3:03 |
+| 29 | [chilling in my bathtub](https://open.spotify.com/track/4kU6toL3cyw5Tly52hCsqb) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [chilling in my bathtub](https://open.spotify.com/album/7xWjvCyfTkOyyp7FtWnvhX) | 3:11 |
 | 30 | [Camila](https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila](https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8) | 2:03 |
 | 31 | [WRANGLER](https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [WHAT CAN I TELL U](https://open.spotify.com/album/3hbjx9QSXlYmizj5cSULSA) | 2:05 |
 | 32 | [BBB](https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B) | [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo) | [BBB](https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l) | 3:06 |
 | 33 | [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 |
 | 34 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
-| 35 | [Floo](https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Context](https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH) | 4:26 |
-| 36 | [before](https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [before](https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG) | 3:40 |
+| 35 | [before](https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [before](https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG) | 3:40 |
+| 36 | [Floo](https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Context](https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH) | 4:26 |
 | 37 | [Hridhayam](https://open.spotify.com/track/0gSgiwCwOhj2gi2RQczwWV) | [Raaza Razaq](https://open.spotify.com/artist/5ustb0rnxsWzd8G95USxs3), [Iyyaamma](https://open.spotify.com/artist/4iUJKDtuzHBEvlKTDuncmi) | [Hridhayam](https://open.spotify.com/album/6voA6abUq7Jd8jmUfur0HB) | 3:18 |
 | 38 | [ENCANTO](https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [ENCANTO](https://open.spotify.com/album/5M4QvzWkh0ElAWtoAratZy) | 3:14 |
 | 39 | [Nota de Voz](https://open.spotify.com/track/414bekTP0wBQjE8juGHaC6) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 2:37 |

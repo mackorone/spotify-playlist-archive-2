@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Los Gemelos De Sinaloa
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,430,164 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,430,331 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [El Quilin](https://open.spotify.com/track/3d12eWHA9P7LUjUcY3vQp7) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [El Quilin](https://open.spotify.com/album/0uf02vcbAZFQPpIeWUrYlB) | 3:42 |
 | 75 | [El 08](https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:10 |
 
-Snapshot ID: `AAAAANKvggmo4NkZ7Oa/2waNAWfXw+Qz`
+Snapshot ID: `AAAAAP+IaeZ+3RNcgOZqz3iEuyVTVyOx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,956 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,970 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 36 | [Me Llaman Nella](https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [Santiago Periné](https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj) | [Me Llaman Nella](https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb) | 3:18 |
 | 37 | [Todos Tenemos un Amor](https://open.spotify.com/track/6vH11o55aRZCZqvF7SycPq) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Todos Tenemos un Amor](https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0) | 3:44 |
 | 38 | [Vem Pra Mim](https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:52 |
-| 39 | [Danza de LA LOM](https://open.spotify.com/track/01c4tTtVJjqo5iOanAaf6y) | [LA LOM](https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ) | [Danza de LA LOM](https://open.spotify.com/album/7icPkLsJ0UZyyPmDTOoQg5) | 3:03 |
-| 40 | [bossa nova](https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [bossa nova](https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN) | 3:08 |
+| 39 | [bossa nova](https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [bossa nova](https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN) | 3:08 |
+| 40 | [Danza de LA LOM](https://open.spotify.com/track/01c4tTtVJjqo5iOanAaf6y) | [LA LOM](https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ) | [Danza de LA LOM](https://open.spotify.com/album/7icPkLsJ0UZyyPmDTOoQg5) | 3:03 |
 | 41 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 |
 | 42 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
 | 43 | [Tú y Yo](https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Tú y Yo](https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9) | 3:29 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 75 | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 |
 | 76 | [Happy ending](https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Refresco, Vol.1: Cheo Goes Latin](https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf) | 3:44 |
 | 77 | [Me Das](https://open.spotify.com/track/6zBkexycHADArkud3zGT6x) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Me Das](https://open.spotify.com/album/4y67AtdL0t0BUHJaVgIuIG) | 3:02 |
-| 78 | [Together](https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby), [Jamie Allensworth](https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn) | [Together](https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo) | 3:43 |
-| 79 | [Picadillo](https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Delicate & Jumpy](https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J) | 5:34 |
+| 78 | [Picadillo](https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Delicate & Jumpy](https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J) | 5:34 |
+| 79 | [Together](https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby), [Jamie Allensworth](https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn) | [Together](https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo) | 3:43 |
 | 80 | [Agüita de Coco](https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Butera Knowless](https://open.spotify.com/artist/3x4ddfyjJHpGIBcPvdFxeK) | [Agüita de Coco](https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx) | 2:33 |
 | 81 | [Nobreza](https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [Nobreza](https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq) | 3:21 |
 | 82 | [Yo La Vi](https://open.spotify.com/track/3Gc1LdChaPOVxFbGUuW8sq) | [Compass: Mexican Institute Of Sound + Toy Selectah](https://open.spotify.com/artist/4SXKAjs2uxonZB8OEZt8hm), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Toy Selectah](https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Compass](https://open.spotify.com/album/2SJKC7sZ0uS1m43oNarZHA) | 4:08 |

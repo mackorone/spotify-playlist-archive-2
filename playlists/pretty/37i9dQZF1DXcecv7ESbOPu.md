@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Fanny Avonne, Norlie & KKV och Yasin med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,297 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,479 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 60 | [decembers](https://open.spotify.com/track/5E4lH1YcqN4LIGcE5TRmV1) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [decembers](https://open.spotify.com/album/0jnUhRL2wuWzc59MaZ3D8h) | 4:35 |
 | 61 | [Undantagshelgen](https://open.spotify.com/track/74KW77hS1KuaxmOvH67fyN) | [Kallsup](https://open.spotify.com/artist/0lksP63BacYDmZCjWyNWnz) | [Alldeles för nära](https://open.spotify.com/album/5OvW0o5MikMZ7Op4Z0Ky4c) | 3:13 |
 | 62 | [Down the River](https://open.spotify.com/track/5RbcXgY0pHBJfgSXU55JSr) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Down the River](https://open.spotify.com/album/5xXDE5uhAnIeXaYwM8Kgm6) | 6:23 |
-| 63 | [Ger dig all min love](https://open.spotify.com/track/6DiEEc4CoHvG6xeZqxHnD3) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Ger dig all min love](https://open.spotify.com/album/6i8EbfXAy2FaYwWnhAiASn) | 1:56 |
+| 63 | [Ger dig all min love](https://open.spotify.com/track/6DiEEc4CoHvG6xeZqxHnD3) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Firawii](https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W) | [Ger dig all min love](https://open.spotify.com/album/6i8EbfXAy2FaYwWnhAiASn) | 1:56 |
 | 64 | [2008](https://open.spotify.com/track/211K8IAEPeVhuPxA1CWHCF) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [2008](https://open.spotify.com/album/053G7DllNKe9rlc01DaKiQ) | 2:31 |
 | 65 | [VILL VARA HÄR](https://open.spotify.com/track/4OG3ULeZl3idtV93yagqsd) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [VILL VARA HÄR](https://open.spotify.com/album/64YKDTujJPN5uQSv53CMrJ) | 2:10 |
 | 66 | [Home](https://open.spotify.com/track/5eeZyiJusiP16PnViXEScM) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [With Love, From Dani](https://open.spotify.com/album/2Bh1Huk5ft3vwwWLdbpDlT) | 3:05 |

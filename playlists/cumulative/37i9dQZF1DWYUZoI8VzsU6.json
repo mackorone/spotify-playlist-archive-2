@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-06",
-  "description": "back roads up loud with Treaty Oak Revival",
+  "description": "back roads up loud with Dexter and The Moonrocks and Avery Anna",
   "name": "GRAVEL",
   "tracks": [
     {
@@ -1613,6 +1613,28 @@
     },
     {
       "album": {
+        "name": "The Day I Hang It Up",
+        "url": "https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234010,
+      "name": "Us Again",
+      "url": "https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/4R0A4nVSxIVtVFKFjilhWb"
       },
@@ -1682,6 +1704,28 @@
       "duration_ms": 177808,
       "name": "West Texas Wind",
       "url": "https://open.spotify.com/track/4UGBo7iybOWD057IEQWcQl"
+    },
+    {
+      "album": {
+        "name": "Friends That I Don't Like",
+        "url": "https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Why Don\u2019t You Say So (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/0JTvM3WnB7C2X8LxOcnCS5"
     },
     {
       "album": {

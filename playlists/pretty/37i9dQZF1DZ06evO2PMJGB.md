@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,591 likes - 47 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,593 likes - 47 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 27 | [recadin no espelho](https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [recadin no espelho](https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT) | 2:04 |
 | 28 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 |
 | 29 | [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 |
-| 30 | [Loira Gelada](https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 3:12 |
-| 31 | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq) | 2:37 |
-| 32 | [Flores](https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Flores](https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt) | 2:35 |
+| 30 | [Santa Maculada](https://open.spotify.com/track/67Nv43gpsFhtu0zHeWros3) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 2:14 |
+| 31 | [Flores](https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Flores](https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt) | 2:35 |
+| 32 | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq) | 2:37 |
 | 33 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 |
-| 34 | [Santa Maculada](https://open.spotify.com/track/67Nv43gpsFhtu0zHeWros3) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 2:14 |
+| 34 | [Loira Gelada](https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 3:12 |
 | 35 | [BATE VOLTA](https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BATE VOLTA](https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6) | 2:29 |
 | 36 | [FAMA](https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:05 |
 | 37 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 46 | [escapismo](https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [escapismo](https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ) | 3:00 |
 | 47 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 |
 
-Snapshot ID: `arxRAAAAAACPMmDbhmUDjUMSMgl5a/Yd`
+Snapshot ID: `ar2igAAAAABwm3MTh7ItQtmdeaK2vRtL`

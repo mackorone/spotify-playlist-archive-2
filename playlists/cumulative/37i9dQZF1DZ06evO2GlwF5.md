@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-173 songs - 13 hr 1 min
+174 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [宇宙の記憶](https://open.spotify.com/track/3uaZprGpodif2hd4GPEZGA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [宇宙の記憶](https://open.spotify.com/album/4dqKz3OlI0w5ug6Gd9wI7p) | 3:15 | 2022-09-08 |  |
 | [幸せについて私が知っている5つの方法](https://open.spotify.com/track/0kaD2eFGEkjDhWNQI6dITy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:40 | 2022-12-05 | 2023-09-13 |
 | [幸せについて私が知っている5つの方法](https://open.spotify.com/track/4tintWIPJBh36pkOgWSSGj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 4:40 | 2022-09-20 | 2022-09-22 |
+| [幸せについて私が知っている５つの方法](https://open.spotify.com/track/6IVfXTmCOeoyPsL1fRrlh6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [幸せについて私が知っている５つの方法／色彩](https://open.spotify.com/album/4f2jYtFDHK66bUVSSzD6MD) | 4:40 | 2026-10-03 |  |
 | [手紙](https://open.spotify.com/track/7DOaQ274hoiHZcX4Q3YasI) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 2:19 | 2023-08-27 | 2023-09-06 |
 | [抱きしめて](https://open.spotify.com/track/2vETGnAnQLNQFl6VR84Bfo) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [抱きしめて](https://open.spotify.com/album/5c44hFzL4fj1h6P6uhgREi) | 4:47 | 2024-01-17 | 2025-03-19 |
 | [抱きしめて \-LIVE 2024 Ver.\-](https://open.spotify.com/track/6Pi7sm6ynmfaR6m6gqIGM9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOWオリジナルアニメ「火狩りの王」第2シーズンエンディングテーマ　抱きしめて](https://open.spotify.com/album/1qTmJgdaAoFsk8FskutwSP) | 5:06 | 2024-04-21 | 2024-04-22 |
@@ -176,7 +177,7 @@
 | [逆光 \-unplugged session\-](https://open.spotify.com/track/3otsDATxGR5wvTEoCOkM82) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動　<FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 5:43 | 2025-12-26 | 2026-08-02 |
 | [逆光\-unplugged session\-](https://open.spotify.com/track/6YIHCnUw8Uds0cWqhqMnnU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [『Fate/Grand Order』主題歌ベストアルバム　余韻](https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs) | 5:41 | 2026-08-03 |  |
 | [透明\-self cover\-](https://open.spotify.com/track/3kFN1sB1L7t3K8Dr34qY2s) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [『Fate/Grand Order』主題歌ベストアルバム　余韻](https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs) | 4:59 | 2026-07-31 |  |
-| [鏡の中で](https://open.spotify.com/track/7sylSCr7B6OXeNu3EiFMaR) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:16 | 2026-08-31 |  |
+| [鏡の中で](https://open.spotify.com/track/7sylSCr7B6OXeNu3EiFMaR) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:16 | 2026-08-31 | 2026-10-03 |
 | [雨が降る](https://open.spotify.com/track/7pJmowV8EnAPMIwCgbFHQ0) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 5:15 | 2022-08-10 |  |
 | [風が吹く日（Ma\-aya version）](https://open.spotify.com/track/62LX9aAiafyFvZxjvJ0DiV) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere I](https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G) | 5:53 | 2026-05-05 | 2026-05-22 |
 | [風待ちジェット\~kazeyomi edition](https://open.spotify.com/track/5WKdIWhEvWIeaUTCn99MH9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:17 | 2022-08-10 | 2022-10-13 |

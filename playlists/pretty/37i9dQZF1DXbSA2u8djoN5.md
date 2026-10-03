@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Alduts Sherdley
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,693 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,697 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 35 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
 | 36 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
 | 37 | [Arunca\-ma La Lei](https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Arunca\-ma La Lei](https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7) | 2:32 |
-| 38 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 |
-| 39 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
+| 38 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
+| 39 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 |
 | 40 | [Interes](https://open.spotify.com/track/3KZoTu5JGe5QtK97DrBLAi) | [GYXBaby](https://open.spotify.com/artist/1XWVFUESxCqRo0TkyIamEv), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Interes](https://open.spotify.com/album/6k8yGq5Ra4fyhQ4egdooMO) | 2:31 |
 | 41 | [FORME AI](https://open.spotify.com/track/6y3E05aCYm2nyQOneUXajU) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PLAYBOY CITY \- THE ALBUM](https://open.spotify.com/album/6igCZUd9U3XiYYOCxoyWbt) | 2:26 |
 | 42 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 |

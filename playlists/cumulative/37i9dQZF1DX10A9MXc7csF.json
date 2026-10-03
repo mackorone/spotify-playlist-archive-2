@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Danny Felix \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Ely Romero y Adrian L Santos \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -2763,6 +2763,28 @@
     },
     {
       "album": {
+        "name": "ASI ES EL ROLLO",
+        "url": "https://open.spotify.com/album/2cAfhKbJV1WQwek1EE3JDH"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171154,
+      "name": "ASI ES EL ROLLO",
+      "url": "https://open.spotify.com/track/1hcqt03Nrt8r3apR5GPYDP"
+    },
+    {
+      "album": {
         "name": "Asi Hablamos en Tijuana",
         "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
       },
@@ -4014,6 +4036,28 @@
       "duration_ms": 168756,
       "name": "Billeticos",
       "url": "https://open.spotify.com/track/1kCoBGKhlOqf364YOytQNl"
+    },
+    {
+      "album": {
+        "name": "DESSIENTO",
+        "url": "https://open.spotify.com/album/1awsZM1XWRigaMXZwiBqjo"
+      },
+      "artists": [
+        {
+          "name": "Kevin Cuadras",
+          "url": "https://open.spotify.com/artist/5rB9nhJrkE9OTWujBUKJWA"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141900,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/0y1sScvFLXrefcrlYgZiUz"
     },
     {
       "album": {
@@ -6476,7 +6520,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 167146,
       "name": "Condenados",
       "url": "https://open.spotify.com/track/4NfWpoovz1tPDLM1ehoFkz"
@@ -17461,6 +17505,32 @@
     },
     {
       "album": {
+        "name": "Lebron",
+        "url": "https://open.spotify.com/album/1fuZChNBCEcyMqrG0WCO6E"
+      },
+      "artists": [
+        {
+          "name": "Ismael CM",
+          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
+        },
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        },
+        {
+          "name": "Efecto SR",
+          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168508,
+      "name": "Lebron",
+      "url": "https://open.spotify.com/track/78M8ALW3CA3pYistln2ArZ"
+    },
+    {
+      "album": {
         "name": "Lentes de Sol",
         "url": "https://open.spotify.com/album/5D93vihHgaEtbb5QdnCZJR"
       },
@@ -21902,7 +21972,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 134808,
       "name": "Morrillo",
       "url": "https://open.spotify.com/track/0URiAI6CeHITFzLQaxUXBg"
@@ -24569,6 +24639,28 @@
     },
     {
       "album": {
+        "name": "PPYPQ",
+        "url": "https://open.spotify.com/album/0JjvlPTGieLo797CUjEzex"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216727,
+      "name": "Oscuro Lo Que Sent\u00edas",
+      "url": "https://open.spotify.com/track/5Lz4M01FHW2NCxBUybszpp"
+    },
+    {
+      "album": {
         "name": "Otra Mentira",
         "url": "https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl"
       },
@@ -26702,7 +26794,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 163359,
       "name": "Potencial",
       "url": "https://open.spotify.com/track/551pkGrSf5WwvvsZdfMTHy"
@@ -27566,6 +27658,28 @@
       "duration_ms": 196146,
       "name": "Que Salga De Ti",
       "url": "https://open.spotify.com/track/4GtnM2wxYSeHtoiwKQwTuf"
+    },
+    {
+      "album": {
+        "name": "Que Se Siente",
+        "url": "https://open.spotify.com/album/45XvFLRB93yz21YcXAB29L"
+      },
+      "artists": [
+        {
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138512,
+      "name": "Que Se Siente",
+      "url": "https://open.spotify.com/track/2vTorS5pBxHr4LNrbbJk8K"
     },
     {
       "album": {
@@ -31426,7 +31540,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 233987,
       "name": "su\u00e9ltame",
       "url": "https://open.spotify.com/track/6ZLpEYDN1alkr0wWOcmfuD"
@@ -35830,7 +35944,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 178919,
       "name": "YUANFEN",
       "url": "https://open.spotify.com/track/6xXq5T9UCMdAobtSLm5sGG"

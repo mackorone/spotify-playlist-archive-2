@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,704 songs - 6 day 13 hr 47 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,718 songs - 6 day 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2712,5 +2712,19 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2702 | [Vacant \(Speed Up\)](https://open.spotify.com/track/0VW5Bt2TGWD1QsVl6fRJPz) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp) | [Vacant \(Speed Up\)](https://open.spotify.com/album/3Omc7jeA2xXV72r2ncAZ3S) | 2:04 |
 | 2703 | [Space X](https://open.spotify.com/track/387FtDh7ZIbIwgXBfdfPmY) | [Cinco Dois Zero](https://open.spotify.com/artist/44HTfgo1d0O6reBV1z8YVO), [Nabala](https://open.spotify.com/artist/0PzBs4y6dIkzxs8cJczopM), [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp), [Liu Danger](https://open.spotify.com/artist/0LQetgRtKnELT97tMBN7Hb), [Yan Nader](https://open.spotify.com/artist/0eDUVIpntIqofaWpnCFKUw) | [Space X](https://open.spotify.com/album/7ICLez2eWGoMPp7zPS0AV6) | 2:12 |
 | 2704 | [Algo Contigo](https://open.spotify.com/track/0r61mAhpd4fQxpZZj894NY) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:46 |
+| 2705 | [Bossa Nova](https://open.spotify.com/track/0JP57TrgNaFzRgE3Fq403n) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:29 |
+| 2706 | [Q3](https://open.spotify.com/track/2pOfEpi2hFEYB4bJdOuYfb) | [Step1.ent](https://open.spotify.com/artist/62OatxvvXWYzva0GCACKjV), [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp), [Tamaki](https://open.spotify.com/artist/2wyLE3svisSbRjauvIysY5) | [S\-TAPE, Vol\. 1](https://open.spotify.com/album/1ykSJJLbfBSzkmAFYujXQO) | 1:40 |
+| 2707 | [Tenho Pressa](https://open.spotify.com/track/0lMjR3slQN2fifTP8QqyGF) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp), [CafeBeatz](https://open.spotify.com/artist/038xfJHWhNeAH4kzyqQJfp), [Nabala](https://open.spotify.com/artist/0PzBs4y6dIkzxs8cJczopM) | [Seven Days of Club](https://open.spotify.com/album/5oQ8v5tGtub6hP6n0PH7Xr) | 3:09 |
+| 2708 | [i can't sleep](https://open.spotify.com/track/3WzKqRIzaD7BK6EjfaGYwy) | [Cold Water](https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw) | [i can't sleep](https://open.spotify.com/album/6LEBp205JfQYMjf2q0pGKC) | 1:16 |
+| 2709 | [Sunny Days](https://open.spotify.com/track/2y5n6haO7Kod9xcFHGFnSc) | [Slow North](https://open.spotify.com/artist/2vgmHaMLBOYXBeh54s5tBh) | [Sunny Days](https://open.spotify.com/album/3KDsNh02bPTkK4c9PuxJ2S) | 1:29 |
+| 2710 | [Bending Hectic](https://open.spotify.com/track/1xnVnK5ZHZaGEZ166eFpNJ) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 8:03 |
+| 2711 | [Empty Streets](https://open.spotify.com/track/0Jt9ZgUXpwbNMq83j0Qo6A) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:27 |
+| 2712 | [Flute Flow](https://open.spotify.com/track/5aHoBf2ehORrOaDK8KI39q) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:29 |
+| 2713 | [Holiday](https://open.spotify.com/track/6OW4uf1id6WXSilxQmFiiV) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:36 |
+| 2714 | [Ocean Waves](https://open.spotify.com/track/7CYsRfmQ1GAnPApL5RRAXH) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 1:51 |
+| 2715 | [Hotel Lobby](https://open.spotify.com/track/1M6oNk2jldBJ095Qqqztgr) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:12 |
+| 2716 | [Nightfall](https://open.spotify.com/track/1ZxBd5l7IKz7SIDdqarzXa) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:40 |
+| 2717 | [Sweet Dreams](https://open.spotify.com/track/40rTpjhIAw6h8DujR13VuY) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:34 |
+| 2718 | [Kiss My Baby Goodbye](https://open.spotify.com/track/5QpwBp5IRU7sC1OFocsL9s) | [Aly Berry](https://open.spotify.com/artist/5cKQvzBmGmmwUoUp0ZQYI7) | [Kiss My Baby Goodbye](https://open.spotify.com/album/2EnFl6F2TJ0nhSDP5SHxbE) | 2:56 |
 
-Snapshot ID: `AAALlS5Z0feWOWr0nnmkCBA0VD99az2G`
+Snapshot ID: `AAALn7UkceotkKT8bjj05B/bl8ZWwBhI`

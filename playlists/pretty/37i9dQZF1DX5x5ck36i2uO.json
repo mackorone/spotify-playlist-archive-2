@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 11003,
+  "num_followers": 11007,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
+        "name": "Breathe 4",
+        "url": "https://open.spotify.com/album/4mH2hi1Tjysb8bTCJpYYCU"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "sWing",
+      "url": "https://open.spotify.com/track/0rxdQrVLojZ9xR88Q8E28v"
+    },
+    {
+      "added_at": "2026-06-26 09:20:00",
+      "album": {
         "name": "Phantom Pain",
         "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
-    },
-    {
-      "added_at": "2026-06-26 09:20:00",
-      "album": {
-        "name": "Breathe 4",
-        "url": "https://open.spotify.com/album/4mH2hi1Tjysb8bTCJpYYCU"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "sWing",
-      "url": "https://open.spotify.com/track/0rxdQrVLojZ9xR88Q8E28v"
     },
     {
       "added_at": "2026-06-26 09:20:00",
@@ -731,6 +731,30 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
+        "name": "Flower Cafe",
+        "url": "https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        },
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "Flower Cafe (feat.Sam Ock, I.M)",
+      "url": "https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W"
+    },
+    {
+      "added_at": "2026-06-26 09:20:00",
+      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -759,30 +783,6 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
-        "name": "Flower Cafe",
-        "url": "https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd"
-      },
-      "artists": [
-        {
-          "name": "JOOHONEY",
-          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
-        },
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        },
-        {
-          "name": "Sam Ock",
-          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Flower Cafe (feat.Sam Ock, I.M)",
-      "url": "https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W"
-    },
-    {
-      "added_at": "2026-06-26 09:20:00",
-      "album": {
         "name": "\uff0b",
         "url": "https://open.spotify.com/album/6yd7PgSlEG6FC0D9XL3x8c"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 232500,
       "name": "Revenge Season (Feat. Chillin Homie)",
       "url": "https://open.spotify.com/track/0zViWFqw7P41WTPwj4Nvse"
-    },
-    {
-      "added_at": "2026-06-26 09:20:00",
-      "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 240094,
-      "name": "Girl in New York (jazz)",
-      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
     },
     {
       "added_at": "2026-06-26 09:20:00",
@@ -839,6 +823,22 @@
       "duration_ms": 170312,
       "name": "MY MAN",
       "url": "https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe"
+    },
+    {
+      "added_at": "2026-06-26 09:20:00",
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 240094,
+      "name": "Girl in New York (jazz)",
+      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
     },
     {
       "added_at": "2026-06-26 09:20:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
-        "name": "Tourist",
-        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Tourist",
-      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
-    },
-    {
-      "added_at": "2026-06-26 09:20:00",
-      "album": {
         "name": "Piece of mine",
         "url": "https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 235374,
       "name": "Flowers (feat.Justhis)",
       "url": "https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR"
+    },
+    {
+      "added_at": "2026-06-26 09:20:00",
+      "album": {
+        "name": "Tourist",
+        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Tourist",
+      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
     },
     {
       "added_at": "2026-06-26 09:20:00",
@@ -987,18 +987,22 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+        "name": "House of Girls, Episode 4",
+        "url": "https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "ara",
+          "url": "https://open.spotify.com/artist/08v6oPQmhA9hQisGpjRQ9A"
+        },
+        {
+          "name": "\uc800\uc2a4\ub514\uc2a4 (JUSTHIS)",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
-      "duration_ms": 187426,
-      "name": "Unknown guy",
-      "url": "https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM"
+      "duration_ms": 217333,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/0js8Q0TXxvg288AO0MPM0U"
     }
   ],
   "unique_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",

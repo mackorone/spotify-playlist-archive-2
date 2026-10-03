@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-482 songs - 22 hr 9 min
+483 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Do you know how much this cost in Norway?](https://open.spotify.com/track/2mGGLNIDw7IrtxK3HpNhi6) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ) | [Do you know how much this cost in Norway?](https://open.spotify.com/album/2qmzljoCTQKPNBaK0lYG7o) | 1:41 | 2023-07-13 | 2023-07-18 |
 | [DREKKA MERA \(feat\. Kevin Boine\)](https://open.spotify.com/track/21gWDhpO2CsqjuqUnnL31j) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [DREKKA MERA](https://open.spotify.com/album/2uQAqRRC56HG1jimMHem4h) | 2:21 | 2022-05-05 | 2022-07-28 |
 | [Drekke dæ fin](https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Drekke dæ fin](https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc) | 1:59 | 2026-03-26 |  |
-| [Dridas me ei måga](https://open.spotify.com/track/4gNKouLMJUL5DuqIsClusQ) | [Knivblad](https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng) | [Pistol og gevær \(Fullada\)](https://open.spotify.com/album/4fQCGbEbzcruqDTeGew6ta) | 3:08 | 2026-05-21 |  |
+| [Dridas me ei måga](https://open.spotify.com/track/4gNKouLMJUL5DuqIsClusQ) | [Knivblad](https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng) | [Pistol og gevær \(Fullada\)](https://open.spotify.com/album/4fQCGbEbzcruqDTeGew6ta) | 3:08 | 2026-05-21 | 2026-10-03 |
 | [Du + Jeg = Helvete \(Figure Eight\)](https://open.spotify.com/track/4BEnuYgI3SM81ehvW7lPfH) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Du + Jeg = Helvete \(Figure Eight\)](https://open.spotify.com/album/2n08hNDHvuA6t4Ubvs2wtG) | 2:36 | 2021-12-16 | 2022-06-16 |
 | [Du får aldri se meg naken igjen](https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Du får aldri se meg naken igjen](https://open.spotify.com/album/4SVHYtGKfALHqpFnBqIKsX) | 2:47 | 2021-12-16 | 2022-11-16 |
 | [Du kan inte få min öl](https://open.spotify.com/track/28g0C6ruCVWccDCYJy3G0c) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/7DPVUlgOqQlKS9DKaT9ATm) | 2:16 | 2023-12-14 | 2024-02-09 |
@@ -471,6 +471,7 @@
 | [Vi svinger oss i dansen](https://open.spotify.com/track/5NiRCAAZfx70MFnvvaAug3) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt i blinken](https://open.spotify.com/album/2026ajRTf5JyS5sUwWIbDF) | 2:32 | 2022-10-13 | 2022-10-16 |
 | [Vi tar det igjen neste år](https://open.spotify.com/track/0xwR5vB4PYsfBgWhTSXpXV) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Vi tar det igjen neste år](https://open.spotify.com/album/5TdfrM5ed5gG9sX4k06PoZ) | 3:00 | 2021-12-16 | 2022-10-16 |
 | [Vi trenger ikke preke om det](https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Vi trenger ikke preke om det](https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u) | 2:20 | 2026-01-08 |  |
+| [Vi va alt](https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Vi va alt](https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0) | 2:45 | 2026-10-01 |  |
 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 | 2021-12-16 |  |
 | [Vill ha dig](https://open.spotify.com/track/3tuVDdCxxgoU94NyqzTeTC) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t) | [Vill ha dig](https://open.spotify.com/album/5xYfkDkUxtuCL6jhUPpnZ7) | 3:13 | 2022-01-06 | 2022-07-25 |
 | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/track/0JDaabBuiKaBEpIvwLGXUO) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Jaa9](https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4) | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/album/4R3gv6RiRbxTxILW9t9U8D) | 2:42 | 2021-12-16 | 2022-07-06 |

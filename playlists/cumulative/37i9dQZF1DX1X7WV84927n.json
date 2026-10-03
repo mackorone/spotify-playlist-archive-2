@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Spiritbox",
+  "description": "For full-volume lovers. Cover: P.O.D.",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 241280,
       "name": "13 Days",
       "url": "https://open.spotify.com/track/1FJ2qhndBNNmF1tMMOvxkP"
@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Mr Charm",
+        "url": "https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230359,
+      "name": "Bad Luck Hideaway",
+      "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
+    },
+    {
+      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa"
       },
@@ -3492,7 +3510,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 262687,
       "name": "BLAME (feat. Corey Taylor)",
       "url": "https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU"
@@ -4168,6 +4186,24 @@
       "duration_ms": 139593,
       "name": "Break You",
       "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
+    },
+    {
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238106,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L"
     },
     {
       "album": {
@@ -6622,16 +6658,16 @@
       },
       "artists": [
         {
+          "name": "Ninth Key",
+          "url": "https://open.spotify.com/artist/4lcvro3hYRhGU6BtcNIIYx"
+        },
+        {
           "name": "Ekoh",
           "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
         },
         {
           "name": "L\u00f8 Spirit",
           "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
-        },
-        {
-          "name": "Ninth Key",
-          "url": "https://open.spotify.com/artist/4lcvro3hYRhGU6BtcNIIYx"
         }
       ],
       "date_added": "2026-09-25",
@@ -8550,7 +8586,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 212419,
       "name": "Dust",
       "url": "https://open.spotify.com/track/7DkTkMRNAmIv84PBxuSEoW"
@@ -9444,6 +9480,24 @@
       "duration_ms": 181666,
       "name": "Everything Burns (feat. Beartooth)",
       "url": "https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG"
+    },
+    {
+      "album": {
+        "name": "We Were Bleeding Anyway",
+        "url": "https://open.spotify.com/album/3Fv9UES0mXzes5hb2TF8jY"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221056,
+      "name": "Everything Ends In Silence",
+      "url": "https://open.spotify.com/track/1IAjbjtQk23OyWKeg1Capm"
     },
     {
       "album": {
@@ -13120,7 +13174,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 210229,
       "name": "Headway - DLX",
       "url": "https://open.spotify.com/track/6U7ZgjHjoVD1pCRRkFb2rT"
@@ -13920,6 +13974,24 @@
       "duration_ms": 277714,
       "name": "Hollywood Forever",
       "url": "https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh"
+    },
+    {
+      "album": {
+        "name": "Monarch",
+        "url": "https://open.spotify.com/album/5h4gaqJQWxTUgVNSb7gqwU"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217534,
+      "name": "Hollywood On Fire",
+      "url": "https://open.spotify.com/track/6Fx93FeykhviDh2kF0kY4r"
     },
     {
       "album": {
@@ -15914,7 +15986,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 265388,
       "name": "It's A Lot",
       "url": "https://open.spotify.com/track/5AiKETKUAet8GFGOos5Suq"
@@ -16986,7 +17058,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 220705,
       "name": "Lay Cold",
       "url": "https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O"
@@ -22329,6 +22401,28 @@
     },
     {
       "album": {
+        "name": "OUTBREAK (feat. Cory Brandan)",
+        "url": "https://open.spotify.com/album/0tlb1VwunVtvuMtt4eeB4x"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292549,
+      "name": "OUTBREAK (feat. Cory Brandan)",
+      "url": "https://open.spotify.com/track/7gfd1REaf35dS1e37SqaYj"
+    },
+    {
+      "album": {
         "name": "Fragments Of Us",
         "url": "https://open.spotify.com/album/4B6CYCSxw9GXAaJ2Q6TriK"
       },
@@ -22800,7 +22894,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 246601,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/5qL9ry43j5LQDpnkEa8rV6"
@@ -23751,6 +23845,24 @@
     },
     {
       "album": {
+        "name": "Private Lives",
+        "url": "https://open.spotify.com/album/4c2z5M8fhqX4PpS85aEltq"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185117,
+      "name": "Private Lives",
+      "url": "https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks"
+    },
+    {
+      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
       },
@@ -23964,7 +24076,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 172733,
       "name": "Pulling Apart",
       "url": "https://open.spotify.com/track/5uTArNdJCqN7dAw8zyXeY0"
@@ -27168,7 +27280,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 143952,
       "name": "SINCERELY YOURS",
       "url": "https://open.spotify.com/track/2y8aupZKIMIsyk63YEH2vf"
@@ -28300,6 +28412,28 @@
       "duration_ms": 226391,
       "name": "Storms Over",
       "url": "https://open.spotify.com/track/6kQmBfM03aobvAxHSUkvwo"
+    },
+    {
+      "album": {
+        "name": "Stormwatcher",
+        "url": "https://open.spotify.com/album/4JfhIFE8ZSEKO1x7MLUWwT"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311320,
+      "name": "Stormwatcher",
+      "url": "https://open.spotify.com/track/13TZd9nP6xdNmouCzvtekC"
     },
     {
       "album": {
@@ -31933,6 +32067,24 @@
     },
     {
       "album": {
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/5BPkjNSFiYFf07MQLi8Y9W"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "To Whom It May Concern",
+      "url": "https://open.spotify.com/track/5RnRyDM0I6IGh09cGIAZFh"
+    },
+    {
+      "album": {
         "name": "Together Right",
         "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
       },
@@ -32170,7 +32322,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 197336,
       "name": "too heavy",
       "url": "https://open.spotify.com/track/1QDm1gAb16mMBekE7QSnGX"
@@ -33721,6 +33873,24 @@
     },
     {
       "album": {
+        "name": "Waiting Room",
+        "url": "https://open.spotify.com/album/4OTN6499OJjQcswppxk0lv"
+      },
+      "artists": [
+        {
+          "name": "Overgrown",
+          "url": "https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182580,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/0g1yZo3wKgRtexXZzhZ98m"
+    },
+    {
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/05RKwbKlZsCQFapjGm3mWa"
       },
@@ -34744,6 +34914,28 @@
       "duration_ms": 235504,
       "name": "Who Will You Follow",
       "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
+    },
+    {
+      "album": {
+        "name": "Friends That I Don't Like",
+        "url": "https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Why Don\u2019t You Say So (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/0JTvM3WnB7C2X8LxOcnCS5"
     },
     {
       "album": {

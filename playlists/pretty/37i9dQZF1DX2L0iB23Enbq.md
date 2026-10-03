@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 
 > Viral, trending and taking off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,242,935 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,242,783 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 | 49 | [Young Hearts Run Free](https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Young Hearts Run Free \(US Internet Release\)](https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ) | 4:08 |
 | 50 | [misery.](https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY) | [pupsies](https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm) | [misery.](https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2) | 2:46 |
 
-Snapshot ID: `AAAAAN6NHyasBxXFuS9pwDSD2AY5Uhlm`
+Snapshot ID: `AAAAAKg5XA8bOrb6vwv0sVglYTTTlQlX`

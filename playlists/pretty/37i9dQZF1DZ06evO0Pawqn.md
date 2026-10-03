@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,540 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,541 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 36 | [De Su Vida Me Ire](https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:57 |
 | 37 | [Esta Tristeza Mia](https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:31 |
 | 38 | [Por una Mujer Bonita](https://open.spotify.com/track/6L1B9w1dSvNI5dCASNb4Ez) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Cara a Cara](https://open.spotify.com/album/3RwlERz4moNAWgCbKtectx) | 3:11 |
-| 39 | [Amigo de la Luna](https://open.spotify.com/track/5FqhnthUoK7zljqUpO1Cbi) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 3:11 |
+| 39 | [Tierra Mala](https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:35 |
 | 40 | [Que Te Perdone Dios](https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:25 |
-| 41 | [Tierra Mala](https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:35 |
+| 41 | [Amigo de la Luna](https://open.spotify.com/track/5FqhnthUoK7zljqUpO1Cbi) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 3:11 |
 | 42 | [Vuela Paloma](https://open.spotify.com/track/56JWh6yS9DbgHQH6wwtI3y) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entre Amigos](https://open.spotify.com/album/26SuK8JzjDQO7oGQQauiuj) | 3:37 |
 | 43 | [Te Pido y Te Ruego](https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Asomate a Mi Alma](https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph) | 2:54 |
 | 44 | [Cuando Sola Estes](https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [Comiendote a Besos](https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Nicky Rosse](https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc) | [Comiendote a Besos](https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c) | 3:28 |
 | 50 | [De La Tierra Al Cielo](https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De La Tierra Al Cielo](https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd) | 2:37 |
 
-Snapshot ID: `arxRAAAAAAC0hRGEF3/5qLzH+/JXURgD`
+Snapshot ID: `ar2igAAAAAC+Li0xXe/qisqC+Ybanuq0`

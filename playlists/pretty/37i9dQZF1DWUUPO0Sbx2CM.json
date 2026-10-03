@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240368,
+  "num_followers": 240399,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Perfect Duet",
-        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
-      },
-      "artists": [
-        {
-          "name": "LZ7",
-          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
-        },
-        {
-          "name": "Gracie",
-          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
-        }
-      ],
-      "duration_ms": 219418,
-      "name": "Perfect Duet",
-      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/7w38vAO2LbUzzp7wIxNTIY"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 203135,
       "name": "Peace",
       "url": "https://open.spotify.com/track/35T2hC2SKsxXfuh4Nz9U4G"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Perfect Duet",
+        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
+      },
+      "artists": [
+        {
+          "name": "LZ7",
+          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
+        },
+        {
+          "name": "Gracie",
+          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
+        }
+      ],
+      "duration_ms": 219418,
+      "name": "Perfect Duet",
+      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "ELIJAH LEVEL EP",
-        "url": "https://open.spotify.com/album/42HqbTzC7Rw2L05IBUnJPy"
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
       "artists": [
         {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        },
-        {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 175238,
-      "name": "Elijah Level EDM",
-      "url": "https://open.spotify.com/track/4ea0T3YrxaKA7q15n6JrCH"
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+        "name": "ELIJAH LEVEL EP",
+        "url": "https://open.spotify.com/album/42HqbTzC7Rw2L05IBUnJPy"
       },
       "artists": [
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        },
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
         }
       ],
-      "duration_ms": 255848,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+      "duration_ms": 175238,
+      "name": "Elijah Level EDM",
+      "url": "https://open.spotify.com/track/4ea0T3YrxaKA7q15n6JrCH"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Reason To Dance",
-        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
-      },
-      "artists": [
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        }
-      ],
-      "duration_ms": 220296,
-      "name": "Reason To Dance",
-      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 149032,
       "name": "Church",
       "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Reason To Dance",
+        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 220296,
+      "name": "Reason To Dance",
+      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Looking For Happiness",
+        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 143997,
+      "name": "Looking For Happiness",
+      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Energy (EchoStorms Remix)",
         "url": "https://open.spotify.com/album/1kRddLhejNCrVFcpci3UsX"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 173333,
       "name": "Energy - EchoStorms Remix",
       "url": "https://open.spotify.com/track/6GhjGsYPSglelleu3kIFmt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Looking For Happiness",
-        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Looking For Happiness",
-      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 293916,
-      "name": "Love Is All I Know",
-      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 174240,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 293916,
+      "name": "Love Is All I Know",
+      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Lie To You",
+        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
+      },
+      "artists": [
+        {
+          "name": "Alphein",
+          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Lie To You",
+      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
       },
@@ -1619,6 +1635,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4S80CkwQ8lpwX69leEAHat"
+      },
+      "artists": [
+        {
+          "name": "Nathan G",
+          "url": "https://open.spotify.com/artist/5sY89xuf8fkENxCnGT3d6P"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "My Prayer (Micky More & Andy Tee Mixes)",
         "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
       },
@@ -1635,38 +1667,6 @@
       "duration_ms": 228694,
       "name": "My Prayer - Micky More & Andy Tee Classic Edit",
       "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Lie To You",
-        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
-      },
-      "artists": [
-        {
-          "name": "Alphein",
-          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Lie To You",
-      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/4S80CkwQ8lpwX69leEAHat"
-      },
-      "artists": [
-        {
-          "name": "Nathan G",
-          "url": "https://open.spotify.com/artist/5sY89xuf8fkENxCnGT3d6P"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Worship You",
-        "url": "https://open.spotify.com/album/1KIa8LWo1nxxx8MO21tzQi"
-      },
-      "artists": [
-        {
-          "name": "Grace George",
-          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Worship You",
-      "url": "https://open.spotify.com/track/5ycozZUhfqJ7hAkPTg8LKC"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Deliver (Higher)",
         "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 200433,
       "name": "Deliver (Higher)",
       "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/1KIa8LWo1nxxx8MO21tzQi"
+      },
+      "artists": [
+        {
+          "name": "Grace George",
+          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/5ycozZUhfqJ7hAkPTg8LKC"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "How He Works",
-        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
-      },
-      "artists": [
-        {
-          "name": "Ish D",
-          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "How He Works",
-      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 173333,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "How He Works",
+        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
+      },
+      "artists": [
+        {
+          "name": "Ish D",
+          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "How He Works",
+      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
     },
     {
       "added_at": "2026-08-18 23:12:48",

@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 94521,
+  "num_followers": 94534,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
+        "name": "Paradisco",
+        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
         }
       ],
-      "duration_ms": 188133,
-      "name": "Una Caricia",
-      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
+      "duration_ms": 233042,
+      "name": "Paradisco",
+      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Paradisco",
-        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
       },
       "artists": [
         {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         }
       ],
-      "duration_ms": 233042,
-      "name": "Paradisco",
-      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
+      "duration_ms": 188133,
+      "name": "Una Caricia",
+      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 182782,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 153139,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 182782,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Good Fortune",
-        "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 164815,
-      "name": "Good Fortune",
-      "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 183973,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/6NOrzjlq99joQdEySY7Dtt"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Good Fortune",
+        "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 164815,
+      "name": "Good Fortune",
+      "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Cari\u00f1o y ternura",
-        "url": "https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Te Odio",
         "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 213956,
       "name": "Te odio",
       "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Cari\u00f1o y ternura",
+        "url": "https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        },
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "COMETIERRA REMIX",
         "url": "https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 233691,
       "name": "DIAS DE PAJA",
       "url": "https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0"
-      },
-      "artists": [
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        },
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6"
     },
     {
       "added_at": "2024-09-20 03:00:00",

@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: AZ Chike
 
-1,772 songs - 3 day 15 hr 47 min
+1,773 songs - 3 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1563,6 +1563,7 @@
 | [Thorns](https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:10 | 2024-06-14 | 2024-07-27 |
 | [Thought I Was Dead](https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Thought I Was Dead](https://open.spotify.com/album/4IUCrwXucmLoVO6geJ3Vjr) | 2:28 | 2024-10-17 | 2025-01-17 |
 | [Throw It](https://open.spotify.com/track/0XKQj4cBUZH7BCGsSV85uv) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Throw It](https://open.spotify.com/album/5HhfgIL183MzFvW5OPmbza) | 2:26 | 2026-07-31 |  |
+| [TIKI TIKI \- Remix](https://open.spotify.com/track/0wNSrdLKeRHt6ypFNNFFYH) | [SUZANA](https://open.spotify.com/artist/6hOjLMwFsfiJz0ucFsDIbz), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL), [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [TIKI TIKI \(Remix\)](https://open.spotify.com/album/55CEYcNtUxFO5wvJNBQdt3) | 2:47 | 2026-09-22 |  |
 | [Till I Live](https://open.spotify.com/track/41QtqULXM34zXfPkM88Rwm) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Till I Live](https://open.spotify.com/album/7uZSZnFHoZIGYA5eN9nLbH) | 4:28 | 2023-10-19 | 2023-11-11 |
 | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/track/3wZwJmK48mHwruBIK24oP2) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/album/3N7NAEQA0RxUxJSq0JOmd5) | 2:08 | 2025-05-30 | 2025-08-01 |
 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:17 | 2025-07-10 | 2025-07-18 |

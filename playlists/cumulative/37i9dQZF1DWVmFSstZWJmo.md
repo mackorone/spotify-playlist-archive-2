@@ -4,7 +4,7 @@
 
 > Fcukers on the cover bby
 
-295 songs - 18 hr 10 min
+296 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 | 2023-08-10 | 2024-11-23 |
 | [Dry Drunk Emperor \- 2005 Recording](https://open.spotify.com/track/5xs5wIA0bTPsxYVI7qONdF) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Desperate Youth, Blood Thirsty Babes \(20th Anniversary Edition\)](https://open.spotify.com/album/3GNzcWsUHJfAfkjf59KrAA) | 6:47 | 2024-11-22 | 2025-03-26 |
 | [Easter Pink](https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Easter Pink](https://open.spotify.com/album/2gN2buJiTuKIl8LjWNP9Z5) | 1:24 | 2025-07-25 | 2025-11-01 |
-| [Eat Ur Heart Out](https://open.spotify.com/track/3lt7ZqkryK8qsdBDIR6DGV) | [Swordes](https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb) | [Eat Ur Heart Out](https://open.spotify.com/album/5WSkaSg5qxrxDOsnbJlWC0) | 4:54 | 2026-09-02 |  |
+| [Eat Ur Heart Out](https://open.spotify.com/track/3lt7ZqkryK8qsdBDIR6DGV) | [Swordes](https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb) | [Eat Ur Heart Out](https://open.spotify.com/album/5WSkaSg5qxrxDOsnbJlWC0) | 4:54 | 2026-09-02 | 2026-10-03 |
 | [Ecstasy](https://open.spotify.com/track/6dZveJk4t5MazzX1HW2x65) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Ecstasy](https://open.spotify.com/album/2uGAnU3lDDpLKaa8vSw9Jm) | 2:21 | 2025-11-07 | 2026-04-04 |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2022-11-10 |  |
 | [Emerge](https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY) | [Fischerspooner](https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3) | [\#1](https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2) | 4:48 | 2023-09-05 |  |
@@ -171,6 +171,7 @@
 | [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 | 2022-11-10 | 2023-08-18 |
 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2023-01-10 |  |
 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 | 2022-11-10 | 2023-09-06 |
+| [monkey disco brain](https://open.spotify.com/track/1h5KIQzrSqoWwXy5kcdDDI) | [Almost Heaven](https://open.spotify.com/artist/25M75SztfGLmmWJK09R1dN) | [RAW CRANIUM \(8 Month Anniversary Edition\)](https://open.spotify.com/album/47usfreydA0AeYe75FT4dP) | 3:16 | 2026-10-02 |  |
 | [Mosquito](https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:12 | 2023-04-14 | 2023-04-27 |
 | [Mothers](https://open.spotify.com/track/7HwsHnOYth2MsW25gDEGWV) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Mothers](https://open.spotify.com/album/2gRso3E2lJR6xOBFuJqVH6) | 3:12 | 2023-04-14 | 2023-04-27 |
 | [Motor](https://open.spotify.com/track/155t0i7MddhDV4l1KzXgdj) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 4:03 | 2023-04-14 | 2023-04-27 |

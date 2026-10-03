@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2219251,
+  "num_followers": 2219493,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2025-07-03 03:36:52",
-      "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "A 20 Something Fuck",
@@ -1017,6 +1001,22 @@
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
+      "added_at": "2025-07-03 03:36:52",
+      "album": {
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Moonlight",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "BABYDOLL",
-        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "BABYDOLL",
-      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Megalithic Symphony",
         "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 259093,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "BABYDOLL",
+        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "BABYDOLL",
+      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
-      },
-      "artists": [
-        {
-          "name": "Darci",
-          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "touchin\u2019 me",
         "url": "https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 149617,
       "name": "touchin\u2019 me",
       "url": "https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
+      },
+      "artists": [
+        {
+          "name": "Darci",
+          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
     },
     {
       "added_at": "2025-02-14 05:00:31",

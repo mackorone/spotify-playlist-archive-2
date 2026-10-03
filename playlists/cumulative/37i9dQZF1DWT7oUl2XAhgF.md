@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-625 songs - 1 day 13 hr 28 min
+627 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Kinda Cowgirl](https://open.spotify.com/track/4Hk2jzwMXxMkVBcODfcILC) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Kinda Cowgirl](https://open.spotify.com/album/6BoTRlw3qryfJxVaObaFjp) | 4:17 | 2023-10-06 | 2024-01-13 |
 | [Lady Love](https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lady Love](https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc) | 3:02 | 2022-08-19 | 2022-09-19 |
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2021-12-03 | 2023-01-28 |
-| [Late Bloomer](https://open.spotify.com/track/1CbjA7ApNZ6H70K4A53tBK) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Late Bloomer](https://open.spotify.com/album/4mwPqkVG6UByPnxdUVmRtx) | 3:16 | 2026-09-18 |  |
+| [Late Bloomer](https://open.spotify.com/track/1CbjA7ApNZ6H70K4A53tBK) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Late Bloomer](https://open.spotify.com/album/4mwPqkVG6UByPnxdUVmRtx) | 3:16 | 2026-09-18 | 2026-10-03 |
 | [Leave it all Behind](https://open.spotify.com/track/6Zcpb2xesQgsSb0alHHIBm) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Halcyon](https://open.spotify.com/album/78taGztt2CApRup8BKnpMe) | 4:59 | 2026-06-26 |  |
 | [Leave You Alone](https://open.spotify.com/track/266b55L7iAmnNdphZDeZ8p) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Leave You Alone](https://open.spotify.com/album/2LwQhwvAWd15eFJfzNDiAU) | 3:10 | 2023-07-14 | 2024-10-19 |
 | [Less Is More](https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Less Is More](https://open.spotify.com/album/1vr964CwAICSadDDA9EuaJ) | 4:16 | 2021-07-09 | 2022-05-23 |
@@ -331,6 +331,7 @@
 | [Lover Boy](https://open.spotify.com/track/4wlEw6x7ynK4dfKk47HNtt) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Lover Boy](https://open.spotify.com/album/3VL9z3tG7Wr5g8iORdtF0M) | 2:55 | 2023-02-10 | 2024-09-07 |
 | [Lovers' Holiday](https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lovers' Holiday](https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM) | 3:25 | 2025-05-30 | 2025-06-28 |
 | [Lovin' Made Easy](https://open.spotify.com/track/2DE5u62CmddU4ct3jEoYm4) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Lovin' Made Easy](https://open.spotify.com/album/47bxdJhnEQ92tIzOyqqlyU) | 4:43 | 2026-02-27 | 2026-03-28 |
+| [Loving You](https://open.spotify.com/track/6DZoMlHPA6CvrabWgCD3nm) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Sarsha Simone](https://open.spotify.com/artist/2vkHrZOutYeSMnvW6K6IZw) | [Loving You](https://open.spotify.com/album/1ZeDNZewEmvewYHodpbW1e) | 2:48 | 2026-10-02 |  |
 | [Loving You Is All I Want To Do](https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV) | [Roseaux](https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Loving You is All I Want to Do](https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf) | 3:39 | 2023-02-17 | 2025-08-02 |
 | [Loving You Is Easy](https://open.spotify.com/track/4Q5uCevQDZ2dCrPq0isNPQ) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Loving You Is Easy](https://open.spotify.com/album/7gGU9LnpOyctBMvxA1vxyx) | 3:24 | 2022-06-10 | 2022-07-02 |
 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-21 | 2025-06-24 |
@@ -509,7 +510,7 @@
 | [Street People](https://open.spotify.com/track/39n0HaRNVVxtvINVdivQwH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Street People](https://open.spotify.com/album/15NOultLFQgFoZyYLfy8hM) | 5:52 | 2024-03-01 | 2024-04-27 |
 | [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 | 2023-09-01 | 2025-05-03 |
 | [Sugar Me Up](https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Sugar Me Up](https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o) | 4:13 | 2024-09-20 |  |
-| [Summertime](https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Never Have I Ever](https://open.spotify.com/album/6our4t9vD0EbAzRgVqP7cA) | 2:26 | 2025-08-15 |  |
+| [Summertime](https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Never Have I Ever](https://open.spotify.com/album/6our4t9vD0EbAzRgVqP7cA) | 2:26 | 2025-08-15 | 2026-10-03 |
 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 | 2021-07-09 | 2023-01-28 |
 | [Sunny And Warm](https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Sunny And Warm](https://open.spotify.com/album/56zBru86m6LhGmC0heS1s8) | 3:25 | 2021-07-16 | 2022-07-26 |
 | [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 | 2021-07-09 | 2023-01-28 |
@@ -541,6 +542,7 @@
 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:22 | 2021-07-09 | 2023-01-28 |
 | [Thee Only One](https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku) | [Trish Toledo](https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah), [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Thee Only One](https://open.spotify.com/album/4ztSd9IONvZJ1kq4sdDkVp) | 3:36 | 2023-03-17 | 2024-05-04 |
 | [Things Gotta Change](https://open.spotify.com/track/5aOeaLKF1v0CEDv7GRxsJv) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [Things Gotta Change](https://open.spotify.com/album/3PfPnsS5YuLWENdvNg2QyO) | 3:03 | 2025-10-24 |  |
+| [This Ain't Your Song](https://open.spotify.com/track/7HbUeeuOhje4yP8zTzINEg) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [This Ain't Your Song](https://open.spotify.com/album/6m7dEfmyInxrTcMSTS4nuq) | 3:54 | 2026-10-02 |  |
 | [This Could Last Forever](https://open.spotify.com/track/1KJLEv9rznKlMnBOG1ofPk) | [The Sextones](https://open.spotify.com/artist/3cXcKlLqfzaqFq80D7RCWu) | [Love Can't Be Borrowed](https://open.spotify.com/album/58xH0DrDeYp9eknc0gY6b0) | 3:57 | 2023-09-29 | 2024-04-19 |
 | [This Could Last Forever](https://open.spotify.com/track/4QvXMdjbpYKw86TDFFmXlI) | [The Sextones](https://open.spotify.com/artist/3cXcKlLqfzaqFq80D7RCWu) | [Love Can't Be Borrowed](https://open.spotify.com/album/4lVwQRcEyiifhaQRhyv0w0) | 3:57 | 2023-09-29 | 2025-10-18 |
 | [This Feelin'](https://open.spotify.com/track/7fZi9X5RGmoCKNMRtJN9in) | [Charlotte Colace](https://open.spotify.com/artist/3LAiKQXxGsQWRFfmKqHyXd) | [No Way But Through](https://open.spotify.com/album/2h7iQYlbNpEVAZjNUVuN3n) | 2:09 | 2026-03-13 |  |

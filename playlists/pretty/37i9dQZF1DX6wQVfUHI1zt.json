@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 252539,
+  "num_followers": 252581,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Lo Hare Por Ti",
-        "url": "https://open.spotify.com/album/15lIqg78oQM9CjPoeUB40T"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0u2UofQv9iYDou2bLb5adc"
       },
       "artists": [
         {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
         }
       ],
-      "duration_ms": 250426,
-      "name": "Ayer Y Hoy",
-      "url": "https://open.spotify.com/track/5TMB9Xnfe1lbvDHZtjCUcZ"
+      "duration_ms": 315266,
+      "name": "Y Te Lo Pido",
+      "url": "https://open.spotify.com/track/4OXelnhgkkiLE05YsnFEuS"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0u2UofQv9iYDou2bLb5adc"
+        "name": "Lo Hare Por Ti",
+        "url": "https://open.spotify.com/album/15lIqg78oQM9CjPoeUB40T"
       },
       "artists": [
         {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
         }
       ],
-      "duration_ms": 315266,
-      "name": "Y Te Lo Pido",
-      "url": "https://open.spotify.com/track/4OXelnhgkkiLE05YsnFEuS"
+      "duration_ms": 250426,
+      "name": "Ayer Y Hoy",
+      "url": "https://open.spotify.com/track/5TMB9Xnfe1lbvDHZtjCUcZ"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Ven Mi Amor",
         "url": "https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 232533,
       "name": "Ahora Dile",
       "url": "https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -910,15 +910,11 @@
         {
           "name": "David Lee Garza",
           "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        },
-        {
-          "name": "Los Musicales",
-          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
+      "duration_ms": 194013,
+      "name": "Al Partir",
+      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -994,11 +990,15 @@
         {
           "name": "David Lee Garza",
           "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        },
+        {
+          "name": "Los Musicales",
+          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
         }
       ],
-      "duration_ms": 194013,
-      "name": "Al Partir",
-      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
+      "duration_ms": 206200,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
     },
     {
       "added_at": "2024-05-02 04:14:20",

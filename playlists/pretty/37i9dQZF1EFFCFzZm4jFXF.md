@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 16 | [Learn To Let Go](https://open.spotify.com/track/0bkhYOTZjerRS8V6IzTwYP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Learn To Let Go](https://open.spotify.com/album/2plYHT0IWYG709H7dJyY14) | 3:30 |
 | 17 | [Following My Heart](https://open.spotify.com/track/2yWZcMqbjL1qAaDbH37tC5) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 4:19 |
 | 18 | [Light Up](https://open.spotify.com/track/4nwsFIIP3YmIVRpReo0JrC) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Remember To Remember Me](https://open.spotify.com/album/3k1r8pNLVD6Lbq0Qyr9yfk) | 3:04 |
-| 19 | [Falling into You](https://open.spotify.com/track/02GRplM4IhpuHaCpKbbKOm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Falling into You](https://open.spotify.com/album/6NiqDjyRBAosW0HAdREPdv) | 3:55 |
-| 20 | [Revel In The Chaos](https://open.spotify.com/track/4BUkQEtq4b70YlS5FWnT9N) | [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Revel In The Chaos](https://open.spotify.com/album/77mSYLnSCZ4PQV0bVLb37s) | 2:53 |
+| 19 | [Revel In The Chaos](https://open.spotify.com/track/4BUkQEtq4b70YlS5FWnT9N) | [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Revel In The Chaos](https://open.spotify.com/album/77mSYLnSCZ4PQV0bVLb37s) | 2:53 |
+| 20 | [Falling into You](https://open.spotify.com/track/02GRplM4IhpuHaCpKbbKOm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Falling into You](https://open.spotify.com/album/6NiqDjyRBAosW0HAdREPdv) | 3:55 |
 | 21 | [too late](https://open.spotify.com/track/4ggEgjXUdpsh80hbJRvP6t) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [too late](https://open.spotify.com/album/0iPembrErla1mAj0jFjvn4) | 3:03 |
 | 22 | [Painting Mirrors](https://open.spotify.com/track/7avhyUb2pFAxYNZ9PLlluV) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Painting Mirrors](https://open.spotify.com/album/4Pys2ICRhTgauE2E04qbdF) | 3:40 |
 | 23 | [Familiar Strangers \(feat\. Rothwell\)](https://open.spotify.com/track/1oxYhEMbizWCKeYJwHzupl) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Rothwell](https://open.spotify.com/artist/5uPbfbVvS1knjpH37U1Mgr) | [Familiar Strangers \(feat\. Rothwell\)](https://open.spotify.com/album/1M4dLP4T6R2i4NHc0zBRNw) | 2:55 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 131 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 132 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `Acdz8AAAAACNcuJJFqVIPyL4UFKWI054`
+Snapshot ID: `Acd5kAAAAADKH2W7vUD/+C5PCDYKx9KB`

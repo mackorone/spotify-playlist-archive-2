@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-961 songs - 1 day 17 hr 23 min
+962 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [All Those Things](https://open.spotify.com/track/6crKfVVbULAcl1qmnZfr47) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [All Those Things](https://open.spotify.com/album/335oTYZv32szZG1aXCyg0o) | 2:42 | 2021-12-08 | 2022-07-01 |
 | [Alla En El Mar](https://open.spotify.com/track/6NBOtdpYoTJxXm7rHJkVMt) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Alla En El Mar](https://open.spotify.com/album/4Kixf6WoIm214Sh5SzuGtV) | 2:35 | 2021-12-08 | 2022-07-22 |
 | [Along The River Bed](https://open.spotify.com/track/1BM24Gn75oMaeHhhepw5s5) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Along The River Bed](https://open.spotify.com/album/5SgOo5N1ol9tZM97orurK0) | 3:26 | 2022-11-18 | 2023-05-13 |
+| [Alpine Rain](https://open.spotify.com/track/3T5kK2GIVAVV6PHZLU9zHL) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Alpine Rain](https://open.spotify.com/album/76txDiFmrnfevvse4yuyqa) | 2:17 | 2026-10-02 |  |
 | [Altitudes](https://open.spotify.com/track/1irRBmDlje6gY0rBa3ue1m) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Altitudes](https://open.spotify.com/album/2e8F67H4vPMGo5L3tJu0id) | 2:23 | 2021-12-08 | 2022-07-22 |
 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 | 2023-08-10 | 2026-05-09 |
 | [Am ende](https://open.spotify.com/track/60N406bCjmSX6Mwj0lR7dC) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Am ende](https://open.spotify.com/album/2a7ziC6igJV8XCrw9s2yeb) | 2:32 | 2022-10-07 | 2024-06-08 |

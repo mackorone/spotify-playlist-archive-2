@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Fabian
 
-609 songs - 1 day 7 hr 38 min
+613 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Amor Clandestino](https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:46 | 2023-09-01 | 2024-05-04 |
 | [Amor de Ayer](https://open.spotify.com/track/5LL67HAHSeGtlCKydUtz5w) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Amor de Ayer](https://open.spotify.com/album/11n5xOrXVg22JEEToOy2Dt) | 2:36 | 2023-11-03 | 2024-04-27 |
 | [Amor es Amor](https://open.spotify.com/track/237ZvnxXu1W65gg2vODZXM) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2), [Facu Mazzei](https://open.spotify.com/artist/7jVqO2R5SxnUOvPPBEramy) | [Mírame Como Soy](https://open.spotify.com/album/5x3B2lH0uel1pV1TbFoa5t) | 3:31 | 2024-05-31 | 2024-06-21 |
+| [Amor Eterno](https://open.spotify.com/track/2QMY7asFUKBEXllZ7XsjB7) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Eternos](https://open.spotify.com/album/556oquvE8lpKicIKB8s7yw) | 4:51 | 2026-10-02 |  |
 | [AMÉN BEBÉ](https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:31 | 2025-10-24 | 2025-11-29 |
 | [Ando \(bye, ya me voy…\)](https://open.spotify.com/track/1SibhfQCLiuL7qyYLwNZOc) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L) | [Ando \(bye, ya me voy…\)](https://open.spotify.com/album/13fYNWj8sbBb89e0xbMi1f) | 2:57 | 2026-08-21 |  |
 | [Antología](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 | 2026-03-18 | 2026-03-27 |
@@ -485,6 +486,7 @@
 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 | 2025-08-22 | 2026-01-31 |
 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 | 2025-02-21 | 2025-03-29 |
 | [QUIZÁS](https://open.spotify.com/track/7gIA58X5inZX0gmsrEJshr) | [Jarah](https://open.spotify.com/artist/7M9LU8frdsqdvohdmDHu76) | [QUIZÁS](https://open.spotify.com/album/6JgnkUyrIK2I0GTgbUIYD6) | 2:39 | 2026-06-26 | 2026-07-18 |
+| [Quién Contra Mí \- Live From Los Ángeles](https://open.spotify.com/track/4B63O9ddDnEXNyAAkKBhTE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Live From Los Ángeles](https://open.spotify.com/album/7yAaOQSsXdjiRjvrtDCFc2) | 3:39 | 2026-10-02 |  |
 | [Qué Tal Si Mañana](https://open.spotify.com/track/6VlMI262Q1xTSHdE59zpxp) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Lo Que Queda En El Aire \(Deluxe\)](https://open.spotify.com/album/1MOfY5hvAmVzsUyAK7dHor) | 2:23 | 2026-07-31 |  |
 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 | 2023-08-04 | 2024-02-17 |
 | [Rayo \- Spotify Singles](https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Rayo \(Spotify Singles\)](https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT) | 2:55 | 2025-03-07 |  |
@@ -529,6 +531,7 @@
 | [sorry es que soy bipolarrr](https://open.spotify.com/track/33BselzygJVodjKKHVLpiH) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [sorry es que soy bipolarrr](https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5) | 3:40 | 2024-07-26 | 2024-12-14 |
 | [sorry por esta canción \(Londres\)](https://open.spotify.com/track/2iGuYT6EmMGVXVZShiQ5SC) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [sorry por esta canción \(Londres\)](https://open.spotify.com/album/65x1sUS2zqKdDzA3VB9nlB) | 3:34 | 2025-03-21 |  |
 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 | 2026-03-18 | 2026-09-12 |
+| [superpoder](https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [superpoder](https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT) | 3:10 | 2026-10-02 |  |
 | [Superpoder](https://open.spotify.com/track/4RCcQeGtfdPQGxwvSdE1nV) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Superpoder](https://open.spotify.com/album/1NmYcgpj4L0xWLaoUd2phI) | 2:57 | 2024-07-19 | 2026-04-22 |
 | [Sussy](https://open.spotify.com/track/7BwTusOtnCb1TDnwfwqALe) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Sussy](https://open.spotify.com/album/45DC2xHGmXJcQxqd5gyoMM) | 3:14 | 2024-06-14 | 2025-03-01 |
 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 | 2023-03-17 | 2023-06-24 |
@@ -587,6 +590,7 @@
 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 | 2024-06-28 | 2026-06-13 |
 | [verano en la ciudad](https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [verano en la ciudad](https://open.spotify.com/album/7esCAic9KXNGprLkyCSMDR) | 3:32 | 2026-08-07 |  |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-22 | 2024-08-10 |
+| [versAAce](https://open.spotify.com/track/0sdwGJRJgAmNJK3fKUbod2) | [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [versAAce](https://open.spotify.com/album/113KAUl3wYEgkNSaGAHBn5) | 2:40 | 2026-10-02 |  |
 | [Vestido Azul](https://open.spotify.com/track/1AhK0LVcXaZ4SRcaJvU6MK) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Vestido Azul](https://open.spotify.com/album/1cG0jWGYtjHLwkBDLu3evL) | 2:52 | 2023-04-21 | 2023-05-27 |
 | [Vida](https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z) | [Nina Rodriguez](https://open.spotify.com/artist/2DJELwDLewsLp12JjJUwI6) | [Vida](https://open.spotify.com/album/0LJJXNz6QEpPs0R8gykGjP) | 3:08 | 2023-03-17 | 2023-07-22 |
 | [Viernes](https://open.spotify.com/track/5ydIprMt8QT0XSdapQ4BKt) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [TQ+](https://open.spotify.com/album/136gXSHLFKP4WwV9QbRuK1) | 2:38 | 2025-11-28 | 2026-01-31 |

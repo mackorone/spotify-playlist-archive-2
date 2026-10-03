@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAPrt0tUsp0xo5fzr7+KzWI",
+  "snapshot_id": "ar2igAAAAABEZYZlG1kyzBVdPkIjMERf",
   "tracks": [
     {
       "added_at": null,
@@ -124,7 +124,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Picasso Trigger",
-      "url": "https://open.spotify.com/track/6hbJCRM1jQDDCVcg6uMoLU"
+      "duration_ms": 321306,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
     },
     {
       "added_at": null,
@@ -252,7 +252,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 321306,
-      "name": "Play Dead",
-      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/6hbJCRM1jQDDCVcg6uMoLU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de septiembre 2026\. Cover: ARIA VEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,471 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,093 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 38 | [Si Un Día Me Extrañas](https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Si Un Día Me Extrañas](https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd) | 3:26 |
 | 39 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
 | 40 | [SI NO ESTÁS TÚ](https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Finjo y estoy bien \(División A\)](https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx) | 3:55 |
-| 41 | [suéltame](https://open.spotify.com/track/6ZLpEYDN1alkr0wWOcmfuD) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [suéltame](https://open.spotify.com/album/6Ed3eUKovBiVFfK9iujjmr) | 3:53 |
+| 41 | [CARIÑO](https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [LOS CISNES](https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk) | 2:57 |
 | 42 | [VALIENTE](https://open.spotify.com/track/6zsh0CVgBxGnmDQvSxAObK) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [VALIENTE](https://open.spotify.com/album/7zl5hsgnVio4VvgjqkcaWE) | 2:30 |
-| 43 | [CARIÑO](https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [LOS CISNES](https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk) | 2:57 |
+| 43 | [suéltame](https://open.spotify.com/track/6ZLpEYDN1alkr0wWOcmfuD) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [suéltame](https://open.spotify.com/album/6Ed3eUKovBiVFfK9iujjmr) | 3:53 |
 | 44 | [algo me gusta de ti](https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw) | [MYF](https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K) | [algo me gusta de ti](https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV) | 2:36 |
 | 45 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
 | 46 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
-| 47 | [PERMANENTE](https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [PERMANENTE](https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d) | 2:22 |
-| 48 | [santa lucía \(impala\)](https://open.spotify.com/track/2iXV1aHxVVtaLLHgdC4Woq) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [todavía no vuelvo](https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK) | 3:35 |
+| 47 | [santa lucía \(impala\)](https://open.spotify.com/track/2iXV1aHxVVtaLLHgdC4Woq) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [todavía no vuelvo](https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK) | 3:35 |
+| 48 | [PERMANENTE](https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [PERMANENTE](https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d) | 2:22 |
 | 49 | [INTERÉS HACIA TI](https://open.spotify.com/track/1YmlIvluWNhC2iHEpwRP6U) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [INTERÉS HACIA TI](https://open.spotify.com/album/3NVnCP1FRHUhAOrKgo7TZ2) | 2:29 |
 | 50 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 |
 

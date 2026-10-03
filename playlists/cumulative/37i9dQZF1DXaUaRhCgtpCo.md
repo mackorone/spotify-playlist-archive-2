@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-192 songs - 10 hr 42 min
+193 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [The Sacred Jedi Texts](https://open.spotify.com/track/74BhnLENTXul5hgjC7NaUj) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:32 | 2021-05-14 |  |
 | [The Sacrifice](https://open.spotify.com/track/1sAE0vqLfXWlAqOJlPWTmT) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch – Season 2: Vol\. 2 \(Episodes 9\-16\) \[Original Soundtrack\]](https://open.spotify.com/album/7t9Fc3xnmmYqUkMdMpuqdA) | 4:10 | 2023-04-12 | 2026-05-02 |
 | [The Scavenger](https://open.spotify.com/track/2AJHEH475SPH3XckX6KyBI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 3:39 | 2024-05-03 |  |
+| [The Soul of Racing \(Main Theme\) \- From "Star Wars: Galactic Racer"](https://open.spotify.com/track/7DdAeRJWmIVMzES3he1Zvz) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [The Soul of Racing \(Main Theme\) \[From "Star Wars: Galactic Racer"\]](https://open.spotify.com/album/38NOnClJATSTssK1XcWHxi) | 2:14 | 2026-10-02 |  |
 | [The Spark](https://open.spotify.com/track/1gaPmqLrbaOAFNnuNGc4sQ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:35 | 2021-05-14 |  |
 | [The Supremacy](https://open.spotify.com/track/6VVazVCT7PMofEkMXDdbEo) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 4:00 | 2021-05-14 | 2026-05-02 |
 | [The Throne Room and End Title](https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 5:34 | 2021-05-14 |  |

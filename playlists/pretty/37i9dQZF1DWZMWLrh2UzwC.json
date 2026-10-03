@@ -1,12 +1,12 @@
 {
   "description": "New music from Victoria Mon\u00e9t, Bruno Mars, Noah Kahan, Lil Nas X,  BOYNEXTDOOR, Anirudh Ravichander, Super Subu, Kaer Azami, NAKI, and more!",
-  "num_followers": 75933,
+  "num_followers": 76021,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMIQfnoUrvhRqOEKihLHGxlYhWOF",
+  "snapshot_id": "AAAAAGPV9e+6S6/kTUBwm5bGlw+mU9fc",
   "tracks": [
     {
       "added_at": "2026-10-01 16:00:13",
@@ -123,6 +123,22 @@
       "duration_ms": 146551,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg"
+    },
+    {
+      "added_at": "2026-10-02 04:01:18",
+      "album": {
+        "name": "The Divine Feminine (10th Anniversary)",
+        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Channel 13",
+      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
     },
     {
       "added_at": "2026-10-01 16:00:13",
@@ -263,6 +279,22 @@
       "duration_ms": 287341,
       "name": "Api & Mimpi",
       "url": "https://open.spotify.com/track/1yWsyGf3RB7iyJ2lDrScGy"
+    },
+    {
+      "added_at": "2026-10-02 04:01:05",
+      "album": {
+        "name": "\u901f\u6210\u6200\u611b (\u5f71\u96c6\u300a\u63a5\u62db\u5427\uff01\u88fd\u4f5c\u4eba\u300b\u55ae\u5143\u66f2)",
+        "url": "https://open.spotify.com/album/73ClRrQ4Z1PC9ZPZYGI6EH"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u8587 Ivy",
+          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
+        }
+      ],
+      "duration_ms": 198387,
+      "name": "\u901f\u6210\u6200\u611b - \u5f71\u96c6\u300a\u63a5\u62db\u5427\uff01\u88fd\u4f5c\u4eba\u300b\u55ae\u5143\u66f2",
+      "url": "https://open.spotify.com/track/336ZdICXwiJy3PQd1QbuuD"
     },
     {
       "added_at": "2026-10-01 16:00:13",
@@ -433,6 +465,26 @@
       "url": "https://open.spotify.com/track/5fiN4IOzzFcGBotGMetr4H"
     },
     {
+      "added_at": "2026-10-02 04:01:18",
+      "album": {
+        "name": "NIGHTLIGHT",
+        "url": "https://open.spotify.com/album/3v0ebqPMX4s3FbPSRP3rnq"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "NIGHTLIGHT",
+      "url": "https://open.spotify.com/track/2kxFNE6wepdgXCzP8dnXvP"
+    },
+    {
       "added_at": "2026-10-01 16:00:13",
       "album": {
         "name": "Purple Skies",
@@ -559,6 +611,26 @@
       "duration_ms": 193716,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "added_at": "2026-10-02 09:00:18",
+      "album": {
+        "name": "Dime Girl (Feat. NOWIMYOUNG)",
+        "url": "https://open.spotify.com/album/0xpzZIaGVh8d2NtXfBrKJH"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Dime Girl (Feat. NOWIMYOUNG)",
+      "url": "https://open.spotify.com/track/71QaFkKKm3tbsWdwwuX9pI"
     },
     {
       "added_at": "2026-10-01 16:00:13",
@@ -1117,6 +1189,22 @@
       "url": "https://open.spotify.com/track/2Yt19u4D60gpzjMuh5NcPL"
     },
     {
+      "added_at": "2026-10-02 09:00:18",
+      "album": {
+        "name": "Yochi! (TV TOKYO \"MAME\uff06MUGI\" OP Theme)",
+        "url": "https://open.spotify.com/album/7fnFhMfQchOgAK3s7ZS3NR"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Yochi! (TV TOKYO \"MAME\uff06MUGI\" OP Theme)",
+      "url": "https://open.spotify.com/track/2oR3ILOvxFaYBNUhFVaS8J"
+    },
+    {
       "added_at": "2026-10-01 16:00:13",
       "album": {
         "name": "Mind Games",
@@ -1183,6 +1271,22 @@
       "duration_ms": 138000,
       "name": "A1 GO",
       "url": "https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF"
+    },
+    {
+      "added_at": "2026-10-02 04:01:18",
+      "album": {
+        "name": "A4M",
+        "url": "https://open.spotify.com/album/0QnoNftipuBWXxqLNeSdnW"
+      },
+      "artists": [
+        {
+          "name": "WAYF BOYS",
+          "url": "https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC"
+        }
+      ],
+      "duration_ms": 172930,
+      "name": "A4M",
+      "url": "https://open.spotify.com/track/6gU1AMURzv5ODnCCGlapDW"
     },
     {
       "added_at": "2026-10-01 16:00:13",
@@ -1348,12 +1452,12 @@
           "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
           "name": "Solomun",
           "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
       "duration_ms": 180150,
@@ -1420,8 +1524,8 @@
           "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 156209,
+      "name": "Vertigo",
       "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
     },
     {

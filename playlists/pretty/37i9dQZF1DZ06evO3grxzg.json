@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233665,
+  "num_followers": 233657,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAArJ3S2Fq6VnRsYXWnWipY+",
+  "snapshot_id": "ar2igAAAAADtIBI5gdej5utTXKPh9E77",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar",
-        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 235173,
-      "name": "El Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/7i8Pt4HNuQideWC6t0cDX9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Akelarre (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1P0QSEfymaBrUl1h0uDcx0"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 184000,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/6h3e3vc3bzGqAtEPV7vh2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 235173,
+      "name": "El Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/7i8Pt4HNuQideWC6t0cDX9"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar",
-        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Mariposa Y Sol",
-      "url": "https://open.spotify.com/track/5laCdDysZ44czBosf4F10W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HiROQUEST 2: Double Helix",
         "url": "https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 180000,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/3fteNuQG0KtROKx1Egd5NT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Mariposa Y Sol",
+      "url": "https://open.spotify.com/track/5laCdDysZ44czBosf4F10W"
     },
     {
       "added_at": null,
@@ -811,6 +811,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poperos Latinos Vol. 5",
+        "url": "https://open.spotify.com/album/2jmxMXc7iCLfb4RPlAJTx8"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/2b64fUwHcq8lkV7SPy6wRQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
+      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
       },
@@ -843,38 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
-      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pop para los peques",
-        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Ilarie",
-      "url": "https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Romper La Pi\u00f1ata",
         "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poperos Latinos Vol. 5",
-        "url": "https://open.spotify.com/album/2jmxMXc7iCLfb4RPlAJTx8"
+        "name": "Pop para los peques",
+        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 219693,
-      "name": "Ag\u00fcita",
-      "url": "https://open.spotify.com/track/2b64fUwHcq8lkV7SPy6wRQ"
+      "duration_ms": 229666,
+      "name": "Ilarie",
+      "url": "https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI"
     },
     {
       "added_at": null,

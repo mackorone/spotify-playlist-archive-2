@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Catholic Boy",
+        "url": "https://open.spotify.com/album/3cIz5GI6LqMhJyrxUY1GsP"
+      },
+      "artists": [
+        {
+          "name": "Vicla boi",
+          "url": "https://open.spotify.com/artist/0VupyRTwkYyNf9iooZcLFN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181513,
+      "name": "Catholic Boy",
+      "url": "https://open.spotify.com/track/1dWrrmOqCkMr0puVaMiVXI"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/6Sx0kUchJIpm5eh5J1HXu7"
       },

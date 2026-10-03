@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,649 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,657 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 8 | [I Get Around \(Mono\)](https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:14 |
 | 9 | [Barbara Ann](https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Spirit Of America](https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH) | 2:13 |
 | 10 | [California Girls \- Remix/Remastered 2001](https://open.spotify.com/track/6bJuuCtXYiwOcKT9s8uRh8) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:40 |
-| 11 | [Good Vibrations](https://open.spotify.com/track/6aU6a9tdn2vHhnPGlboFZX) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM) | 4:15 |
-| 12 | [California Dreamin' \- Remastered 2007](https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Warmth Of The Sun](https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m) | 3:24 |
+| 11 | [California Dreamin' \- Remastered 2007](https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Warmth Of The Sun](https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m) | 3:24 |
+| 12 | [Good Vibrations](https://open.spotify.com/track/6aU6a9tdn2vHhnPGlboFZX) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM) | 4:15 |
 | 13 | [Sloop John B](https://open.spotify.com/track/72fAewq2UVWSf3RjtqICdS) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:59 |
 | 14 | [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 |
 | 15 | [I Can Hear Music](https://open.spotify.com/track/1hcMfYTsRTC4hIKbfosxjz) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [20/20 \(Remastered\)](https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82) | 2:37 |
 | 16 | [Little Deuce Coupe \- Remastered 2001](https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 1:40 |
-| 17 | [Forever \- Remastered 2009](https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:42 |
-| 18 | [Darlin' \- Remastered 2001](https://open.spotify.com/track/4BcAcEbp6j6luowfAliUfW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Wild Honey \(Remastered\)](https://open.spotify.com/album/01uTaEF0YlcBgNwaSS9iIl) | 2:14 |
+| 17 | [Darlin' \- Remastered 2001](https://open.spotify.com/track/4BcAcEbp6j6luowfAliUfW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Wild Honey \(Remastered\)](https://open.spotify.com/album/01uTaEF0YlcBgNwaSS9iIl) | 2:14 |
+| 18 | [Forever \- Remastered 2009](https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:42 |
 | 19 | [Surfin' Safari \- Mono/Remastered 2001](https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Safari \(Remastered\)](https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB) | 2:06 |
 | 20 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 |
 | 21 | [Then I Kissed Her \- Remastered 2001](https://open.spotify.com/track/3Ez3Pk5Xe6GmocOVZ6dEks) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 49 | [Getcha Back](https://open.spotify.com/track/0gRFT4DkEpiYuSc2KlebWF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 2:59 |
 | 50 | [Wouldn’t It Be Nice](https://open.spotify.com/track/4gySZmwNJcFvVUR0SaELUK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:13 |
 
-Snapshot ID: `arxRAAAAAACEj2IIkaEjJXYUsxIid1f5`
+Snapshot ID: `ar2igAAAAADJ9a+yZIzbuemH/r7uOz9X`

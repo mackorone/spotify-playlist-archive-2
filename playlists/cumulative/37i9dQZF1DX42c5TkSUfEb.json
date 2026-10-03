@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "We Were Only Young",
+        "url": "https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "All I\u2019ll Ever Need",
+      "url": "https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP"
+    },
+    {
+      "album": {
         "name": "Alma Mater",
         "url": "https://open.spotify.com/album/33ZsoPlzcb0TXIdZQlSqHH"
       },
@@ -5491,6 +5509,24 @@
     },
     {
       "album": {
+        "name": "Pursuit of Anything",
+        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Lucky, Forever",
+      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
+    },
+    {
+      "album": {
         "name": "Mama's Boy",
         "url": "https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9"
       },
@@ -5846,7 +5882,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 217264,
       "name": "Moon Not Mine",
       "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
@@ -5936,7 +5972,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
@@ -6174,7 +6210,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 198120,
       "name": "nicotine",
       "url": "https://open.spotify.com/track/2DDqh8VKrNHo1xtzdydLfA"
@@ -6622,6 +6658,24 @@
       "duration_ms": 167000,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX"
+    },
+    {
+      "album": {
+        "name": "Only Gets Better",
+        "url": "https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234582,
+      "name": "Only Gets Better",
+      "url": "https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA"
     },
     {
       "album": {
@@ -8446,7 +8500,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 231236,
       "name": "Take Care Of You",
       "url": "https://open.spotify.com/track/3D8lrJ07m1xymKXya8jI05"
@@ -8696,6 +8750,24 @@
       "duration_ms": 211190,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
+    },
+    {
+      "album": {
+        "name": "A Gospel of Some Sort",
+        "url": "https://open.spotify.com/album/4wjQ0sVuSqjFFHZ9ag0qeB"
+      },
+      "artists": [
+        {
+          "name": "Syd Matters",
+          "url": "https://open.spotify.com/artist/4kDmwaDsfY9hcvz7K0otLJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "The Holy Ghost",
+      "url": "https://open.spotify.com/track/1b924g4lZUE8AMywa1trXy"
     },
     {
       "album": {

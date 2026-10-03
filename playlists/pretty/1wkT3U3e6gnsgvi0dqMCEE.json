@@ -1,12 +1,12 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites.  <a href=\"https://www.umusic.ca/collections/rediscover\">here</a>",
-  "num_followers": 3527,
+  "num_followers": 3525,
   "original_name": "UMUSIC Rediscover",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAEI1l/yW3jAwhA57hSkRv+fnjEUWoF",
+  "snapshot_id": "AAAELB6JYOAScLZgP4mNEdy+L1NqfFlF",
   "tracks": [
     {
       "added_at": "2026-09-25 15:07:35",
@@ -47,6 +47,138 @@
       "duration_ms": 238957,
       "name": "Wheat Kings (feat. Allison Russell) - 'It's A Good Life If You Don't Weaken' Original Cast Recording",
       "url": "https://open.spotify.com/track/4y2gmy4Md3xQ95S3raKtFr"
+    },
+    {
+      "added_at": "2026-10-02 15:54:57",
+      "album": {
+        "name": "Face the Wall (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/6kYlpRsI0PGXTSy5hnli8A"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 287393,
+      "name": "Face the Wall - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/1g8rsnKJGTQmtUGArw9bZa"
+    },
+    {
+      "added_at": "2026-10-02 15:55:07",
+      "album": {
+        "name": "Songs In The Key Of Life - The EP",
+        "url": "https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 344454,
+      "name": "I'm Into Livin'",
+      "url": "https://open.spotify.com/track/6XLz9eG94OkudHCfwBvO3j"
+    },
+    {
+      "added_at": "2026-10-02 15:55:27",
+      "album": {
+        "name": "Rubber Soul (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3ICK3lBLOuStuhttDJOtnq"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "I'm Looking Through You (Second Version - Take 3)",
+      "url": "https://open.spotify.com/track/4GQD3CsNLLNMh3tcqeYn8Y"
+    },
+    {
+      "added_at": "2026-10-02 15:55:40",
+      "album": {
+        "name": "Mr Charm",
+        "url": "https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 230359,
+      "name": "Bad Luck Hideaway",
+      "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
+    },
+    {
+      "added_at": "2026-10-02 15:55:55",
+      "album": {
+        "name": "Squeeze Box (Acoustic / Stripped Mix 2026)",
+        "url": "https://open.spotify.com/album/4plZVMP0NIkyldGk0rreWy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "Squeeze Box - Acoustic / Stripped Mix 2026",
+      "url": "https://open.spotify.com/track/2GFDqzmYb6hiw7ewTzpFQw"
+    },
+    {
+      "added_at": "2026-10-02 15:56:09",
+      "album": {
+        "name": "My Aim Is True - 49th Anniversary Edition (2026 Remaster)",
+        "url": "https://open.spotify.com/album/2vZc0ftw3tyFDtP22rFKQx"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "Clover",
+          "url": "https://open.spotify.com/artist/25wd2jHq2IQ1lE3OXwpV1Y"
+        }
+      ],
+      "duration_ms": 155828,
+      "name": "Love is Gone - Live at Great American Music Hall, San Francisco, CA / November 8th, 2007",
+      "url": "https://open.spotify.com/track/38ZIqaNHQRLlXCh4pNm5LX"
+    },
+    {
+      "added_at": "2026-10-02 15:56:22",
+      "album": {
+        "name": "Fuckery (Me & Mr Jones - Original Demo)",
+        "url": "https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "Fuckery - Me & Mr Jones / Original Demo",
+      "url": "https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX"
+    },
+    {
+      "added_at": "2026-10-02 15:56:31",
+      "album": {
+        "name": "Summer Clothes",
+        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 265505,
+      "name": "Summer Clothes",
+      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
     },
     {
       "added_at": "2026-09-25 15:08:41",
@@ -2013,7 +2145,7 @@
         }
       ],
       "duration_ms": 172421,
-      "name": "What Lies Ahead (Bright-Side Mix)",
+      "name": "What Lies Ahead - Bright-Side Mix",
       "url": "https://open.spotify.com/track/2AUNZCdSl2hiNpB78Bv0BS"
     },
     {

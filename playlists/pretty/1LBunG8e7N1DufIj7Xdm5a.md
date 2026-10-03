@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,899 songs - 11 day 1 hr 26 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,903 songs - 11 day 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -699,7 +699,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 689 | [Decisions](https://open.spotify.com/track/0gyylCldcBhBbnnRlrXF2Q) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5) | [Decisions](https://open.spotify.com/album/4evCvOxwrSos0EN5OgXVeM) | 2:10 |
 | 690 | [Slow Burn](https://open.spotify.com/track/0SxdicIbMhORL9rAdKujOG) | [Thirty Seconds](https://open.spotify.com/artist/3ngDPIubjXf7wfE0oN6zoh) | [Slow Burn](https://open.spotify.com/album/7sn1viT482pLSRx20ErvEK) | 2:13 |
 | 691 | [Fire emoji \(Deluxe\)](https://open.spotify.com/track/6JOrEG0E9p1ouUJQcSc7tF) | [Brian Jeck](https://open.spotify.com/artist/1jjQCpK843ShqLm4AMYna7), [Leo Magozz](https://open.spotify.com/artist/3OXeHIirpgyxCLualXXrB4), [Bling4](https://open.spotify.com/artist/3O0bJuoK49Mge1J8DAqBZc) | [Fire emoji \(Deluxe\)](https://open.spotify.com/album/0OG53iSQPwcJ5lg2rUQytm) | 3:10 |
-| 692 | [Face2Face](https://open.spotify.com/track/5bUNu7YfOoE80F3GpZqoPw) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Chow Lee](https://open.spotify.com/artist/3Xxk2j1ubQsg72F0gxCmOx), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 |
+| 692 | [Face2Face](https://open.spotify.com/track/5bUNu7YfOoE80F3GpZqoPw) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 |
 | 693 | [Scenic Route](https://open.spotify.com/track/1rSfECAMmGeczMFLHq7Ee7) | [Slain Illz](https://open.spotify.com/artist/4wvsM83Fwm2b7X83oCjP1t) | [Scenic Route](https://open.spotify.com/album/09rvwuADKJAFKek7IZgYLT) | 2:34 |
 | 694 | [deep down](https://open.spotify.com/track/5I5vatsJd4PPZRNgEMyonX) | [APRIL](https://open.spotify.com/artist/23cdrivHH2nRJCNn0zuSSc) | [deep down](https://open.spotify.com/album/7sdPbYbpSjyz5vZGI2mIfe) | 1:13 |
 | 695 | [PIECES](https://open.spotify.com/track/1rbBa1K2ey2p70ulgsNDLh) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [PIECES](https://open.spotify.com/album/1WM8fSWUKte00wxu0XIv4M) | 2:03 |
@@ -4907,5 +4907,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4897 | [Losing Control](https://open.spotify.com/track/24x8zbSJ72uRWc6xM63Idy) | [Mindscape Lab](https://open.spotify.com/artist/62CykolqF4eLYT5Q01D236) | [Deep Pression II – Relapse](https://open.spotify.com/album/35boMnlPM2sKvgjmM6aoe4) | 2:53 |
 | 4898 | [Spark Mandrill Mega Man X \- Vocal Version](https://open.spotify.com/track/61GCtHUH83JJazDKrnSLFa) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Spark Mandrill Mega Man X \(Vocal Version\)](https://open.spotify.com/album/7d1TDCvSIGNkYlR7Husnyp) | 3:42 |
 | 4899 | [1 Am Vibes](https://open.spotify.com/track/4bXVGRSQQVFvXf36Hxy5U6) | [S1J](https://open.spotify.com/artist/6GcGggHeS1LlSundBrW3AG), [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Your Favorite Sins](https://open.spotify.com/album/48fMy4uGhbknKMnVlBp7HU) | 1:42 |
+| 4900 | [Engines](https://open.spotify.com/track/7g96sPYXnr6RTKTspYbEJF) | [Fickle Hill](https://open.spotify.com/artist/7K7Uyq9xCc8uxlHQgQnUHx) | [Engines](https://open.spotify.com/album/3c0v7FCB4vnmrVNjzvEmUR) | 3:08 |
+| 4901 | [Rhythm of Today](https://open.spotify.com/track/0Ambv3LtpfWr5wKH1dZ5RX) | [Pure Queen](https://open.spotify.com/artist/4tDTJCLg5Z7TRuNPt2zN5o) | [Rhythm of Today](https://open.spotify.com/album/0uQj0af0UNC5mCFteBvxNE) | 4:36 |
+| 4902 | [Tuuli kuljettaa](https://open.spotify.com/track/6GdzkADsuQVmdxVv2YZEcO) | [Presidenttikuningas](https://open.spotify.com/artist/09CvbZF0xb31mQGO44VOSo) | [Tuuli kuljettaa](https://open.spotify.com/album/7J7xevI9cqKAEVoH4Zb3qn) | 7:38 |
+| 4903 | [Antarctica](https://open.spotify.com/track/7mpk8wnLKaNgd0XJ5ldgrF) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 3:51 |
 
-Snapshot ID: `AAAKXHH/MbzQvmUKpdouTkCK87/EPtFb`
+Snapshot ID: `AAAKYI0WNN3xm3wQ359jCZ8oOX469lMs`

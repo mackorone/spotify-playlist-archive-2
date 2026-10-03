@@ -4,7 +4,7 @@
 
 > solo le tracce con l'aura migliore 👾 Sangiovanni in cover
 
-1,261 songs - 2 day 10 hr 49 min
+1,262 songs - 2 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1092,6 +1092,7 @@
 | [Stupido](https://open.spotify.com/track/0wgWQNOvlCKIj6YMBtjgcd) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Stupido](https://open.spotify.com/album/60bOfsjjwd0Pou97omCFhl) | 3:17 | 2023-03-23 | 2023-05-26 |
 | [Su e giù](https://open.spotify.com/track/60LVYwBRKpGJAHFQbdZIcN) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Su e giù](https://open.spotify.com/album/6vLhK5varlM6G0zDdCgba7) | 2:44 | 2023-07-13 | 2023-09-22 |
 | [Sudamerica](https://open.spotify.com/track/7pVk9Mov9OxPyIWp4fOOSB) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Sudamerica](https://open.spotify.com/album/48xyRhgDbvu2yqfubWoNvH) | 2:37 | 2025-07-17 | 2025-10-24 |
+| [Sul Filo](https://open.spotify.com/track/1XoRJ6XYeIpfrRTm0t1Ple) | [PierC](https://open.spotify.com/artist/16FsbJXEa2nJ61pyIL3ch8) | [Sul Filo](https://open.spotify.com/album/130Xq8MNyG0Sp77qx37KP1) | 2:58 | 2026-10-02 |  |
 | [sull'orlo di fallire](https://open.spotify.com/track/1Jj93oszGO1mLTFTJXrdwG) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [sull'orlo di fallire](https://open.spotify.com/album/30yNTzilcF8l9NCGtMtDU2) | 1:54 | 2025-01-16 | 2025-03-14 |
 | [SUMMERSAD 4](https://open.spotify.com/track/153mTpcY4kLe2PBS0wnvMF) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [SUMMERSAD 4](https://open.spotify.com/album/4bb6rIjGtgEzAOkHJBcEfC) | 2:59 | 2023-06-15 | 2023-11-24 |
 | [SUPEREROI](https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPEREROI](https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn) | 3:15 | 2023-03-23 | 2023-06-23 |

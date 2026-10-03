@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2026 yazının şarkıları\. Kapak: manifest x Ajda Pekkan
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,210 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,213 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,18 +31,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 21 | [Ha Leylim](https://open.spotify.com/track/75WVsYxlIGjuTiCl2roWlQ) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Ha Leylim](https://open.spotify.com/album/1ymhtkA6s0diNC71vDoZFL) | 3:36 |
 | 22 | [Gidişat](https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Gidişat](https://open.spotify.com/album/67EvM60fproAJUULEJFEbR) | 3:45 |
 | 23 | [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 |
-| 24 | [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 |
+| 24 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 |
 | 25 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
 | 26 | [Umrumdışı](https://open.spotify.com/track/14xSndBPmB5bsYmKbwkhnB) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Umrumdışı](https://open.spotify.com/album/71VuUzbv9T5vXkLTnf8iKq) | 3:38 |
-| 27 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 |
+| 27 | [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 |
 | 28 | [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 |
 | 29 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 |
 | 30 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 31 | [Sen Var Ya](https://open.spotify.com/track/4rjkteaLzR9SrLtgTS4AbQ) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Sen Var Ya](https://open.spotify.com/album/61CNS4q5GuxT7i5BInlcun) | 3:15 |
 | 32 | [Sabrettim](https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Sabrettim](https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP) | 3:05 |
 | 33 | [Aşkın Ertesi](https://open.spotify.com/track/4AjczPNcEFPIcib5c9H4TA) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Münezzeh](https://open.spotify.com/album/4WWXv2TPxWU93AIuRIGWC1) | 2:59 |
-| 34 | [Vursunlar \- Roman Version](https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [ROMANESA](https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny) | 2:37 |
-| 35 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
+| 34 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
+| 35 | [Vursunlar \- Roman Version](https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [ROMANESA](https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny) | 2:37 |
 | 36 | [İtaat Yok](https://open.spotify.com/track/0RZwoJKQGZ2Fox5bodEX24) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [İtaat Yok](https://open.spotify.com/album/4Q79xH8eHjHzg4TIfT62Th) | 2:23 |
 | 37 | [Kafayı Yaktım](https://open.spotify.com/track/5u0zy8RMeAa0F778XRxYO6) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Yalan Dolan](https://open.spotify.com/album/20MU09DJjpeHTZRgUg2HCq) | 3:31 |
 | 38 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 |

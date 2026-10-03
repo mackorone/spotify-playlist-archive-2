@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,057 songs - 2 day 16 hr 12 min
+1,058 songs - 2 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Cada Mañana](https://open.spotify.com/track/5IPuXyY9rskCEaY52tUUQu) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Ahí va!](https://open.spotify.com/album/1trcwLjDM6wTSeZ96F4EZK) | 3:32 | 2022-04-13 | 2022-04-16 |
 | [Cada Vez Que Te Veo](https://open.spotify.com/track/4popC2lZb3GSs0qU66B5ik) | [KLQ](https://open.spotify.com/artist/1XuVJm2kTaJkrVqoyYwTEh) | [Cada Vez Que Te Veo](https://open.spotify.com/album/0iLiSCEHGTkfM5CNacGjcQ) | 3:21 | 2022-04-08 | 2022-04-16 |
 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 | 2024-04-09 | 2024-08-10 |
+| [cafe](https://open.spotify.com/track/2IUa9mMpG9ihnVM9V5vvpy) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm), [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [cafe](https://open.spotify.com/album/53KamHpcWWNVfRiP0Zi2AV) | 3:18 | 2026-10-02 |  |
 | [Caja Negra](https://open.spotify.com/track/3TpScH6g1bM9xFscLpvQNV) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Caja Negra](https://open.spotify.com/album/30cJ5mNGEE9p5ZEzTTAwSx) | 3:38 | 2023-06-16 | 2023-07-29 |
 | [Calavera](https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 3:32 | 2022-03-28 | 2022-04-07 |
 | [Call Me Maybe](https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [Call Me Maybe](https://open.spotify.com/album/3iQeXzGeBiPYGoweNfxDpW) | 3:31 | 2022-04-01 | 2022-04-19 |
@@ -967,7 +968,7 @@
 | [TUNA](https://open.spotify.com/track/06kZbAkPevdwrQDa1Y41UM) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:41 | 2023-02-02 | 2023-04-15 |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2021-12-24 |  |
 | [Tú](https://open.spotify.com/track/1m7i1H4AeNZ4OLUKgSzqRy) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Tú](https://open.spotify.com/album/1VWUNv00kcEVsdD5CGGfCZ) | 3:07 | 2022-07-07 | 2022-07-16 |
-| [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-03-24 |  |
+| [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-03-24 | 2026-10-03 |
 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn) | 4:28 | 2022-03-11 | 2022-05-17 |
 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-17 | 2024-04-28 |
 | [Umbrella \- Acoustic Version](https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Umbrella \(Acoustic Version\)](https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6) | 2:58 | 2022-04-01 | 2022-04-07 |

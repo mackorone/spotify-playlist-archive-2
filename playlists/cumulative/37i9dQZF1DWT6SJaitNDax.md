@@ -2,9 +2,9 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Rema
+> Afro sounds crossing borders\. Cover: Tml Vibez
 
-1,063 songs - 2 day 6 hr 20 min
+1,066 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,9 @@
 | [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 | 2024-02-02 | 2026-05-09 |
 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-04-26 | 2024-06-01 |
 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 | 2025-09-05 | 2026-08-01 |
+| [If You Like](https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Still In Charge](https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD) | 2:42 | 2026-10-02 |  |
 | [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-23 | 2024-09-04 |
+| [IKEBE 3000](https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [IKEBE 3000](https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL) | 3:17 | 2026-10-02 |  |
 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 | 2024-04-19 |  |
 | [ILEBOGUS \(feat\. MASIDI\)](https://open.spotify.com/track/3H3SnLZImZuFhlstOt7SXj) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [ILEBOGUS \(feat\. MASIDI\)](https://open.spotify.com/album/4Nu6IaJVHgala5CKqyjPwl) | 2:41 | 2025-01-24 | 2025-02-08 |
 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 | 2025-04-04 | 2025-04-12 |
@@ -865,6 +867,7 @@
 | [Showa](https://open.spotify.com/track/4WYbYaibpIWj1FLbMUH2Yb) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:55 | 2024-03-15 |  |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-07-25 | 2023-05-15 |
 | [Shu! \(feat\. Chley\)](https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Shu! \(feat\. Chley\)](https://open.spotify.com/album/7sjv3DhaAGAO0Iu9cDgRSn) | 4:23 | 2024-01-26 | 2024-09-28 |
+| [Shuperu](https://open.spotify.com/track/1OQsbva3p2g1ycxCVPC2gc) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:49 | 2026-10-02 |  |
 | [Shy Lover](https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shy Lover](https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I) | 2:43 | 2026-04-03 | 2026-07-25 |
 | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [EDNA \(Deluxe\)](https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP) | 2:53 | 2021-09-10 | 2022-04-16 |
 | [Sika Mami](https://open.spotify.com/track/4AD4v1Dg1Xb2quFqUH5bza) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [What I've Been Missing](https://open.spotify.com/album/3KGqab98XetDo97GDzV65O) | 2:07 | 2024-02-23 | 2024-03-02 |

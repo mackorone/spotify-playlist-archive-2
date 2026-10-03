@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,136 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,139 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 12 | [Take It Back](https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:05 |
 | 13 | [I Care About You](https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Babyface Unplugged NYC 1997](https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs) | 5:05 |
 | 14 | [Comfortable](https://open.spotify.com/track/6NKtO7hYNDtjGFXE858qEk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:25 |
-| 15 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
+| 15 | [What If \- Urban Mix](https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:06 |
 | 16 | [Where Did We Go Wrong?](https://open.spotify.com/track/3aefZfkE1vgF4utcNTKi04) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:36 |
-| 17 | [What If \- Urban Mix](https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:06 |
+| 17 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
 | 18 | [Slow Jams](https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Portrait](https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 7:30 |
 | 19 | [How Come, How Long \(feat\. Stevie Wonder\)](https://open.spotify.com/track/6kTakcO9wwXh8tEqmJSV8h) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 5:15 |
 | 20 | [Runaway](https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Lips On Lips](https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [I Love You Babe](https://open.spotify.com/track/64hQ8WQCdVuilwwIbyPuPn) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Lovers](https://open.spotify.com/album/74OF6f8hif6ZNLAh1JxRvF) | 4:09 |
 | 50 | [Standing Ovation](https://open.spotify.com/track/2s8808a3WKmshVjkhtiL7c) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:45 |
 
-Snapshot ID: `arxRAAAAAABeA3fjwCPqCwPGMkzx5oEE`
+Snapshot ID: `ar2igAAAAAAqYMmC2HD5+hOB1eG/6Tva`

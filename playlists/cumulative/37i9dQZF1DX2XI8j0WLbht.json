@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "una guitarra y mucho sentimiento para cantar. Ed Maverick en portada.",
+  "description": "una guitarra y mucho sentimiento para cantar. Gabriela Alatorre en portada.",
   "name": "Folk Mexicano",
   "tracks": [
     {
@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 228235,
       "name": "Belleza Pasajera",
       "url": "https://open.spotify.com/track/0zTOXS5uSxH6XgTCbIBbxE"
@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166742,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/2yvKs3WAyKTeqtLnG317B2"
+    },
+    {
+      "album": {
         "name": "Contra La Corriente",
         "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
       },
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 112500,
       "name": "Cuando Yo Fui Tu Clavel",
       "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
@@ -1152,6 +1170,24 @@
       "duration_ms": 233513,
       "name": "Cumbia Feminista",
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
+    },
+    {
+      "album": {
+        "name": "Caminante",
+        "url": "https://open.spotify.com/album/4IO4wUaIK4cLXWdFtA204W"
+      },
+      "artists": [
+        {
+          "name": "Querido Erick",
+          "url": "https://open.spotify.com/artist/5LHD6YYVDxYixAaP7V5Q15"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191943,
+      "name": "Dame un besito",
+      "url": "https://open.spotify.com/track/0aAuTTkAXh4n7Nux7GBetm"
     },
     {
       "album": {
@@ -1361,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197456,
+      "name": "Dolores",
+      "url": "https://open.spotify.com/track/4BEH5g6OVUG1sDToICk03y"
+    },
+    {
+      "album": {
         "name": "6 Conejo",
         "url": "https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72"
       },
@@ -1376,6 +1430,24 @@
       "duration_ms": 265864,
       "name": "Dolorosa",
       "url": "https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8"
+    },
+    {
+      "album": {
+        "name": "Eh\u00e9catl",
+        "url": "https://open.spotify.com/album/5Jo4BoOirjVRMhZbbBrC5e"
+      },
+      "artists": [
+        {
+          "name": "Liz Morir\u00e9",
+          "url": "https://open.spotify.com/artist/58hywzV0ya3keINey4KFqK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "Eh\u00e9catl",
+      "url": "https://open.spotify.com/track/3Bhz0SUH1g1L4asukfCoVd"
     },
     {
       "album": {
@@ -1758,6 +1830,24 @@
       "duration_ms": 174600,
       "name": "El Wall",
       "url": "https://open.spotify.com/track/00MXsjYKxtLgohKqsXAAHA"
+    },
+    {
+      "album": {
+        "name": "El zar",
+        "url": "https://open.spotify.com/album/6ccy2acomAyOIwj7NjHljL"
+      },
+      "artists": [
+        {
+          "name": "Liz Morir\u00e9",
+          "url": "https://open.spotify.com/artist/58hywzV0ya3keINey4KFqK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "El zar",
+      "url": "https://open.spotify.com/track/7MTGHaFpVPQSKqkpJUYAis"
     },
     {
       "album": {
@@ -2841,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/0A5wcYRAoMuNa65PAdRpej"
+      },
+      "artists": [
+        {
+          "name": "Majo Puente",
+          "url": "https://open.spotify.com/artist/1pyvvzBs5rAleQc3hKyMte"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193964,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/6xVIaHdTS6Ul7dKlj61hC5"
+    },
+    {
+      "album": {
         "name": "Mateo",
         "url": "https://open.spotify.com/album/7cBhm8uNl8PLWqtYj1nt0E"
       },
@@ -3582,7 +3690,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 314573,
       "name": "Nos Queda Mucho Dolor Por Recorrer",
       "url": "https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l"
@@ -3680,6 +3788,24 @@
       "duration_ms": 250544,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/1FauUKBCr1kBqJdqwAkxde"
+    },
+    {
+      "album": {
+        "name": "personasaparte",
+        "url": "https://open.spotify.com/album/0347soGOdAV06H9xA4Vhrg"
+      },
+      "artists": [
+        {
+          "name": "bri!!o",
+          "url": "https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258054,
+      "name": "personasaparte",
+      "url": "https://open.spotify.com/track/1RsYVpJP35RbGwWMHVku56"
     },
     {
       "album": {
@@ -3952,6 +4078,24 @@
       "duration_ms": 144215,
       "name": "Qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
+    },
+    {
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/1RQPYudY9t7nbM6P1dg5kd"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156016,
+      "name": "Qu\u00e9date Un Ratito M\u00e1s",
+      "url": "https://open.spotify.com/track/54UWlGEHoE0LYvpPCTNuJy"
     },
     {
       "album": {
@@ -4617,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "Suerte o Muerte",
+        "url": "https://open.spotify.com/album/4GKTVEcY72TQaOdmQd69fZ"
+      },
+      "artists": [
+        {
+          "name": "Majo Puente",
+          "url": "https://open.spotify.com/artist/1pyvvzBs5rAleQc3hKyMte"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137352,
+      "name": "Suerte o Muerte",
+      "url": "https://open.spotify.com/track/59p4eIgSMMqdCyp62WojvS"
+    },
+    {
+      "album": {
         "name": "sue\u00f1a lindo, coraz\u00f3n / nuestra casa en el mar",
         "url": "https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28"
       },
@@ -4744,7 +4906,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 211837,
       "name": "Te Volv\u00ed a So\u00f1ar",
       "url": "https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4"
@@ -4766,6 +4928,24 @@
       "duration_ms": 257593,
       "name": "Ten Piedad",
       "url": "https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf"
+    },
+    {
+      "album": {
+        "name": "tendr\u00eda que hablar de luz",
+        "url": "https://open.spotify.com/album/7IxVa3ltmAnbQW1c7inB55"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141637,
+      "name": "tendr\u00eda que hablar de luz",
+      "url": "https://open.spotify.com/track/1bjRVX8tG5hgPhlr6TUNPn"
     },
     {
       "album": {
@@ -5002,6 +5182,24 @@
       "duration_ms": 244933,
       "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
+    },
+    {
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/0fxUo4rcesXOe3mZrroLm7"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167443,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/16T1DhU29TfBDqdH6gR3Cf"
     },
     {
       "album": {

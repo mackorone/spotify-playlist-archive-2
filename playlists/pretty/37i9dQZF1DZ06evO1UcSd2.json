@@ -1,33 +1,13 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 89551,
+  "num_followers": 89570,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADbpAGWnRQNbAe6SzKlS9Zh",
+  "snapshot_id": "ar2igAAAAAC/PzhikHOoEsV0gUOPbMAV",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cruz de Olvido",
-        "url": "https://open.spotify.com/album/7ekuClkiVqgE7dVi5s5rEF"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Cruz de Olvido",
-      "url": "https://open.spotify.com/track/2KYuqg2xVo9Ph51ndlXZjy"
-    },
     {
       "added_at": null,
       "album": {
@@ -123,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HD",
-        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 193295,
-      "name": "HD",
-      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -163,6 +123,26 @@
       "duration_ms": 208117,
       "name": "Recordando a Manuel",
       "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HD",
+        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 193295,
+      "name": "HD",
+      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
     },
     {
       "added_at": null,
@@ -239,6 +219,26 @@
       "duration_ms": 243460,
       "name": "Rolling One",
       "url": "https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cruz de Olvido",
+        "url": "https://open.spotify.com/album/7ekuClkiVqgE7dVi5s5rEF"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Cruz de Olvido",
+      "url": "https://open.spotify.com/track/2KYuqg2xVo9Ph51ndlXZjy"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 167439,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 179905,
       "name": "The King of Ice",
       "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 167439,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 139668,
-      "name": "Cuando Andaba Recio (El Cholo)",
-      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gordo",
         "url": "https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 166613,
       "name": "El Gordo",
       "url": "https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 139668,
+      "name": "Cuando Andaba Recio (El Cholo)",
+      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "C\u00f3mo Los Vaqueros",
-      "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Sierre\u00f1as Con Revolver Cannabis",
         "url": "https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 240640,
       "name": "Cuento Chino",
       "url": "https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "C\u00f3mo Los Vaqueros",
+      "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
     },
     {
       "added_at": null,

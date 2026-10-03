@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Mirko in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,843 likes - 96 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,832 likes - 96 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

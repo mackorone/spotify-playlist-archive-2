@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Moon Sujin, GANGGA)",
+  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: YENA, NOWIMYOUNG)",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "tracks": [
     {
@@ -1160,6 +1160,28 @@
       "duration_ms": 199146,
       "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
       "url": "https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS"
+    },
+    {
+      "album": {
+        "name": "Dime Girl (Feat. NOWIMYOUNG)",
+        "url": "https://open.spotify.com/album/0xpzZIaGVh8d2NtXfBrKJH"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Dime Girl (Feat. NOWIMYOUNG)",
+      "url": "https://open.spotify.com/track/71QaFkKKm3tbsWdwwuX9pI"
     },
     {
       "album": {
@@ -6286,7 +6308,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 178928,
       "name": "\ub124 \uc606\uc5d0 \uc788\uc744 \ub54c",
       "url": "https://open.spotify.com/track/6XQo75TRRqpQGhQmHwa8AQ"

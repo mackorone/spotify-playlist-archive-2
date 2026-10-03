@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Equipo HC en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. El Randal, Rey Quinto en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -2651,6 +2651,28 @@
     },
     {
       "album": {
+        "name": "ASI ES EL ROLLO",
+        "url": "https://open.spotify.com/album/2cAfhKbJV1WQwek1EE3JDH"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171154,
+      "name": "ASI ES EL ROLLO",
+      "url": "https://open.spotify.com/track/1hcqt03Nrt8r3apR5GPYDP"
+    },
+    {
+      "album": {
         "name": "Asi Es La Vida",
         "url": "https://open.spotify.com/album/0cBosyhqW3iYiIWff8mcL3"
       },
@@ -5067,6 +5089,28 @@
     },
     {
       "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171676,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn"
+    },
+    {
+      "album": {
         "name": "Chema Arroyo",
         "url": "https://open.spotify.com/album/4Jz9ywUtSxsscvJMjKI7xY"
       },
@@ -5278,7 +5322,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 189760,
       "name": "CHOLOGANTE",
       "url": "https://open.spotify.com/track/6DbVaqg26bLbTG7GU2cMzS"
@@ -5974,7 +6018,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 175515,
       "name": "Compton",
       "url": "https://open.spotify.com/track/26d4MdcZ4la9pwDQjOW4H3"
@@ -8670,6 +8714,24 @@
       "duration_ms": 183373,
       "name": "El 08",
       "url": "https://open.spotify.com/track/5sMkgRtSd1calfcBqIuRv4"
+    },
+    {
+      "album": {
+        "name": "El 10",
+        "url": "https://open.spotify.com/album/2gP2Yqrq2yHvInirBmplVx"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151097,
+      "name": "El 10",
+      "url": "https://open.spotify.com/track/39eLDmSDV44LX8M6r4FuIk"
     },
     {
       "album": {
@@ -13706,7 +13768,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 133984,
       "name": "El Mando De Los Aretes",
       "url": "https://open.spotify.com/track/6NCTfGA892dpbuc7FjHGnF"
@@ -18770,7 +18832,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 203000,
       "name": "Fresh Club",
       "url": "https://open.spotify.com/track/6pfVH6G1jvGyxtTCmlr85P"
@@ -20110,6 +20172,24 @@
       "duration_ms": 131413,
       "name": "Hay de Dos",
       "url": "https://open.spotify.com/track/1YZhKkEd9rpMdkgF9uGUoz"
+    },
+    {
+      "album": {
+        "name": "Hay M\u00e1s Tiempo Que Vida",
+        "url": "https://open.spotify.com/album/5HZsqFKoOTqJtFW3soum4d"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Hay M\u00e1s Tiempo Que Vida",
+      "url": "https://open.spotify.com/track/5kOIX171TvyPDGsjLjNfBW"
     },
     {
       "album": {
@@ -23105,6 +23185,28 @@
     },
     {
       "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/66SMUDjiObL6694DcDwxDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aktitud",
+          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+        },
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229103,
+      "name": "La Loteria",
+      "url": "https://open.spotify.com/track/19O9uQaDRYRfdHO8tyv7CF"
+    },
+    {
+      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
       },
@@ -23294,7 +23396,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 170454,
       "name": "La Meta Es Ser",
       "url": "https://open.spotify.com/track/6XXuLRprNFfcZjHLvOBBmh"
@@ -23808,6 +23910,28 @@
       "duration_ms": 172006,
       "name": "La Sierrita",
       "url": "https://open.spotify.com/track/1p5uH0Mvsncir0kPaWNwoh"
+    },
+    {
+      "album": {
+        "name": "Enfocado's",
+        "url": "https://open.spotify.com/album/6KXcxx3POGHgaHYnaPYeO3"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        },
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123706,
+      "name": "La Silverado",
+      "url": "https://open.spotify.com/track/2FqsYzZfvWgm9UJZeFEWtv"
     },
     {
       "album": {
@@ -25014,6 +25138,32 @@
       "duration_ms": 137750,
       "name": "Lealtad",
       "url": "https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B"
+    },
+    {
+      "album": {
+        "name": "Lebron",
+        "url": "https://open.spotify.com/album/1fuZChNBCEcyMqrG0WCO6E"
+      },
+      "artists": [
+        {
+          "name": "Ismael CM",
+          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
+        },
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        },
+        {
+          "name": "Efecto SR",
+          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168508,
+      "name": "Lebron",
+      "url": "https://open.spotify.com/track/78M8ALW3CA3pYistln2ArZ"
     },
     {
       "album": {
@@ -31080,7 +31230,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 124764,
       "name": "Pajuelazo",
       "url": "https://open.spotify.com/track/7v9L3VNQjmRKZ4DjGd7OLT"
@@ -31778,6 +31928,28 @@
       "duration_ms": 180535,
       "name": "Pilas Plebes",
       "url": "https://open.spotify.com/track/04wix3MYN5kru11iMQZGER"
+    },
+    {
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/52QEVrXe08gdahxNbFh84j"
+      },
+      "artists": [
+        {
+          "name": "Grupo MM",
+          "url": "https://open.spotify.com/artist/6B8hu42GbDNo6uvQfxPJJY"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154592,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/6mJrhqJTnq78z3yprBxjw1"
     },
     {
       "album": {

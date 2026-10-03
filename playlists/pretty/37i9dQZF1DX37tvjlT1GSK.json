@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cover: Los Terricolas, Tony Garcia",
-  "num_followers": 820744,
+  "num_followers": 820758,
   "original_name": "Sierre\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
+        "name": "Las Pacas",
+        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
+      },
+      "artists": [
+        {
+          "name": "Alame\u00f1os de la Sierra",
+          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
+        }
+      ],
+      "duration_ms": 281518,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 216000,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
-        "name": "Las Pacas",
-        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
-      },
-      "artists": [
-        {
-          "name": "Alame\u00f1os de la Sierra",
-          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
-        }
-      ],
-      "duration_ms": 281518,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
         "name": "La Cherokee",
         "url": "https://open.spotify.com/album/1KoUyx6tosCXD7qidBRXae"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 175980,
       "name": "La Cherokee",
       "url": "https://open.spotify.com/track/286FxdzLxQJPzLDH6QQd5K"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "MIAMI PENTHOUSE",
-        "url": "https://open.spotify.com/album/00roY55J2iEw56IBdWTCRe"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 174137,
-      "name": "MIAMI PENTHOUSE",
-      "url": "https://open.spotify.com/track/1idSm0NlutOIBoedkPrKXe"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
+        "name": "MIAMI PENTHOUSE",
+        "url": "https://open.spotify.com/album/00roY55J2iEw56IBdWTCRe"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 174137,
+      "name": "MIAMI PENTHOUSE",
+      "url": "https://open.spotify.com/track/1idSm0NlutOIBoedkPrKXe"
     },
     {
       "added_at": "2026-09-25 06:00:15",

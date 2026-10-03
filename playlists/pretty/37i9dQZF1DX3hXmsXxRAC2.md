@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,875 likes - 58 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,899 likes - 58 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 21 | [Te Sigo Amando \- En Vivo](https://open.spotify.com/track/6wYjK1VnoNKRszV9YFTC0D) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [En Vivo Desde El Río Nilo](https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt) | 2:43 |
 | 22 | [Querida](https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:29 |
 | 23 | [Solo Se Que Fue En Marzo](https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:53 |
-| 24 | [Costumbres](https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 4:32 |
+| 24 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
 | 25 | [Amor de un Rato](https://open.spotify.com/track/2ZmLc6EVSWKBMNQZTeqBVQ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 4:32 |
 | 26 | [Con Tu Amor](https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 4:44 |
 | 27 | [No Tengo Dinero](https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Origen](https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO) | 3:31 |
 | 28 | [Dejame Vivir](https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Interpretan Éxitos De Juan Gabriel](https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM) | 3:11 |
-| 29 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
+| 29 | [Costumbres](https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 4:32 |
 | 30 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/2eMkbfrDfi9cQB7TTZvlsI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:34 |
 | 31 | [Debo Hacerlo / Caray / Querida / Me Nace del Corazón \(Popurri Juan Gabriel\)](https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [En Acustico](https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw) | 5:19 |
-| 32 | [Quizás Mañana](https://open.spotify.com/track/7M1iJDm9sewaakBFcMHlT4) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 4:14 |
-| 33 | [Insensible](https://open.spotify.com/track/0R3jFSMsqwOlzGH5itZj4r) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 2:37 |
+| 32 | [Insensible](https://open.spotify.com/track/0R3jFSMsqwOlzGH5itZj4r) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 2:37 |
+| 33 | [Quizás Mañana](https://open.spotify.com/track/7M1iJDm9sewaakBFcMHlT4) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 4:14 |
 | 34 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:59 |
 | 35 | [Siempre en Mi Mente](https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:04 |
 | 36 | [Un Alma en Pena](https://open.spotify.com/track/4XmP7meJ8H35govmmHLvrg) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Juan Gabriel, el Divo y Sus Divas](https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid) | 3:42 |

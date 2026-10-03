@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > gemstones in the teeth, second hand and matcha latte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,740 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,752 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 49 | [MUVI4K](https://open.spotify.com/track/1hzjPZnggSh4ah12hayb7Z) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT), [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk) | [MUVI4K](https://open.spotify.com/album/065dUr4T531GasZiiOHgnL) | 2:47 |
 | 50 | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn) | 3:09 |
 
-Snapshot ID: `AAAAAJXdqkp6Qg7MvCnVjPUK5mqg6yWe`
+Snapshot ID: `AAAAAPgFKyEPVCvinbE/rxRuwCozraI2`

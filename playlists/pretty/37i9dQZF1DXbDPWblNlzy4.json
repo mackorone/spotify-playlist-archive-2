@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Fabian",
-  "num_followers": 600371,
+  "num_followers": 600336,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHxcHqYZFdQtbqkeDC1x4xkpetR8",
+  "snapshot_id": "AAAAAFKgXa6E2NlbdQeiTkqqKr9AupVX",
   "tracks": [
     {
       "added_at": "2026-09-25 04:59:18",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/1Ti5iLAbHICLtvkQW1d4YZ"
     },
     {
+      "added_at": "2026-10-02 04:59:26",
+      "album": {
+        "name": "superpoder",
+        "url": "https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "superpoder",
+      "url": "https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL"
+    },
+    {
       "added_at": "2026-09-25 04:59:18",
       "album": {
         "name": "Normal",
@@ -267,6 +283,22 @@
       "duration_ms": 268179,
       "name": "Donde Quiera Que Est\u00e9s",
       "url": "https://open.spotify.com/track/3kPEIvfgHYM4FGyv3SYA2Q"
+    },
+    {
+      "added_at": "2026-10-02 04:59:26",
+      "album": {
+        "name": "Live From Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/7yAaOQSsXdjiRjvrtDCFc2"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 219104,
+      "name": "Qui\u00e9n Contra M\u00ed - Live From Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/4B63O9ddDnEXNyAAkKBhTE"
     },
     {
       "added_at": "2026-07-01 14:25:35",
@@ -443,6 +475,26 @@
       "duration_ms": 178848,
       "name": "No Llegamos Ni A Febrero",
       "url": "https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs"
+    },
+    {
+      "added_at": "2026-10-02 04:59:26",
+      "album": {
+        "name": "versAAce",
+        "url": "https://open.spotify.com/album/113KAUl3wYEgkNSaGAHBn5"
+      },
+      "artists": [
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        },
+        {
+          "name": "SVNTI",
+          "url": "https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "versAAce",
+      "url": "https://open.spotify.com/track/0sdwGJRJgAmNJK3fKUbod2"
     },
     {
       "added_at": "2026-06-19 04:59:07",
@@ -811,6 +863,22 @@
       "duration_ms": 214000,
       "name": "Los Domingos",
       "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
+    },
+    {
+      "added_at": "2026-10-02 04:59:26",
+      "album": {
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/556oquvE8lpKicIKB8s7yw"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 291121,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2QMY7asFUKBEXllZ7XsjB7"
     },
     {
       "added_at": "2026-03-26 18:25:59",

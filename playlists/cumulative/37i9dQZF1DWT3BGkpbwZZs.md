@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT3BGkpbwZZs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT3BGkpbwZZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT3BGkpbwZZs)
 
-### [The Hunger Games Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWT3BGkpbwZZs)
+### [The Hunger Games: Sunrise on the Reaping Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWT3BGkpbwZZs)
 
-> Everyone hungers for something\. Listen to the music from and inspired by The Hunger Games and Ballad of Songbirds and Snakes.
+> These Games are going to be different\. Noah Kahan's "Draw You Out" is here, the first song from The Hunger Games: Sunrise on the Reaping\. In theaters soon.
 
-64 songs - 3 hr 51 min
+65 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Dead Air](https://open.spotify.com/track/5maON0RcedoTuJR3fa6rD3) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:14 | 2023-11-17 |  |
 | [Devil May Cry \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/50YZQsqoTXoPHd1YmZyBID) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 5:23 | 2023-11-17 |  |
 | [District 12 Stomp \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/2EDNrd2VrdEluhD66ii9Qd) | [The Covey Band](https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 0:43 | 2023-11-17 |  |
+| [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-02 |  |
 | [Elastic Heart \- From "The Hunger Games: Catching Fire" Soundtrack](https://open.spotify.com/track/2JHG14oKGHQN0jPdyWHcxg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 4:17 | 2023-11-17 |  |
 | [Everybody Wants To Rule The World \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/3S1tTwSKIZgf4QGltFyCxM) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 2:35 | 2023-11-17 |  |
 | [Eyes Open](https://open.spotify.com/track/7wjbSn8QHsxqKXU5M0jXGM) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN) | 4:04 | 2023-11-17 |  |

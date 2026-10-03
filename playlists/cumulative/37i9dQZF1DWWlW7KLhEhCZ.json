@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Kenji, vvallace",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Cryzin",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -6699,6 +6699,28 @@
     },
     {
       "album": {
+        "name": "bumbom!",
+        "url": "https://open.spotify.com/album/4bPjYTUxJIa97g12cZZslK"
+      },
+      "artists": [
+        {
+          "name": "LKP",
+          "url": "https://open.spotify.com/artist/3jSZfzqwQeCbMKOf9e9yZO"
+        },
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152209,
+      "name": "bumbom!",
+      "url": "https://open.spotify.com/track/0uBplV069EEDidQxojx7IW"
+    },
+    {
+      "album": {
         "name": "O Menino do Cabelo Rosa",
         "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
       },
@@ -7568,6 +7590,28 @@
       "duration_ms": 138142,
       "name": "Capital No Topo",
       "url": "https://open.spotify.com/track/2OuWG3kum65CumD5hgcB8m"
+    },
+    {
+      "album": {
+        "name": "Um Lugar",
+        "url": "https://open.spotify.com/album/1nlEi9I9tfWKqUHFlffd1K"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "7Landa",
+          "url": "https://open.spotify.com/artist/7gRpkXpZE37hRDStQigxWP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Cap\u00edtulo VIII - Rem\u00e9dio",
+      "url": "https://open.spotify.com/track/1ukpOBl4ygWsrySn3sh3tB"
     },
     {
       "album": {
@@ -15648,7 +15692,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 225860,
       "name": "Esp\u00e9cie",
       "url": "https://open.spotify.com/track/2ia3Ch4i1xMAkAuZwPd0oI"
@@ -16060,7 +16104,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 185600,
       "name": "Eu Procuro",
       "url": "https://open.spotify.com/track/6YY8SNYhZ8ZfFjt6pJviQQ"
@@ -18319,6 +18363,36 @@
     },
     {
       "album": {
+        "name": "FREESTYLE 23",
+        "url": "https://open.spotify.com/album/2hXsPLiZrFzNWMe3GXrY0Y"
+      },
+      "artists": [
+        {
+          "name": "Jhowzin",
+          "url": "https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7"
+        },
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        },
+        {
+          "name": "Rap Forte",
+          "url": "https://open.spotify.com/artist/5r7Z1SbBf7MVGaioT8xORH"
+        },
+        {
+          "name": "2X'",
+          "url": "https://open.spotify.com/artist/0Vdhhk8UkhMgDtLWAyjgKq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "FREESTYLE 23",
+      "url": "https://open.spotify.com/track/6jcfQDhz8L6B0uvkRE9al1"
+    },
+    {
+      "album": {
         "name": "Freestyle da Madrugada 01 - Depois Eu Conserto",
         "url": "https://open.spotify.com/album/1JsqmfKTbP4bxfHMHjBcH0"
       },
@@ -19628,6 +19702,28 @@
       "duration_ms": 172627,
       "name": "GLA",
       "url": "https://open.spotify.com/track/6jAyi0z7YVQ7cmBpkYhhph"
+    },
+    {
+      "album": {
+        "name": "Glamourosa",
+        "url": "https://open.spotify.com/album/3iPiF3KYWdTGoY9Na6nXrt"
+      },
+      "artists": [
+        {
+          "name": "Gbzxda",
+          "url": "https://open.spotify.com/artist/0FqJvK48dvsnQudqvrfix1"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Glamourosa",
+      "url": "https://open.spotify.com/track/3zHIIdLFUFkoMRMqBub5vV"
     },
     {
       "album": {
@@ -31396,7 +31492,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 135888,
       "name": "Pane!",
       "url": "https://open.spotify.com/track/6G7UreBmxXGVKMy2lgxF7h"
@@ -35622,7 +35718,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 112116,
       "name": "QUENTE",
       "url": "https://open.spotify.com/track/220U3AsC6AE6RqOKsF7oE1"
@@ -36900,6 +36996,36 @@
       "duration_ms": 107491,
       "name": "RICO DO QUE IMPORTA",
       "url": "https://open.spotify.com/track/2y4DfIV90JWA6aRVd1uJIe"
+    },
+    {
+      "album": {
+        "name": "RIHANNA",
+        "url": "https://open.spotify.com/album/5L1cneM4wPsDG744valglr"
+      },
+      "artists": [
+        {
+          "name": "Tenshi Kali",
+          "url": "https://open.spotify.com/artist/2LHkojO5tgpXCw0qHweIHE"
+        },
+        {
+          "name": "Aizakz",
+          "url": "https://open.spotify.com/artist/7xWcVg3imdH4pHVfdjVggh"
+        },
+        {
+          "name": "VeP\u00ea",
+          "url": "https://open.spotify.com/artist/6HPFrY8AE92mm2zpQeQcJk"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119178,
+      "name": "RIHANNA",
+      "url": "https://open.spotify.com/track/0JYbce5IDgDjcuigRSyJ74"
     },
     {
       "album": {
@@ -38210,7 +38336,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 199480,
       "name": "SEM NO\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/3O8wxFy1Ei3xBSDeihinIP"
@@ -39804,6 +39930,28 @@
       "duration_ms": 146776,
       "name": "Solu\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5SgfkZNUYEDXfd0F8WnIeE"
+    },
+    {
+      "album": {
+        "name": "Som Isolado",
+        "url": "https://open.spotify.com/album/4h3dkzBtmXbgtvT0aMca7o"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        },
+        {
+          "name": "Cunamata",
+          "url": "https://open.spotify.com/artist/6rJNpR6pFY5p0RRSEymeRI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131100,
+      "name": "Som Isolado",
+      "url": "https://open.spotify.com/track/6dduQ4ps27mqF6d0hpxVZs"
     },
     {
       "album": {
@@ -42112,7 +42260,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 175041,
       "name": "Tipo Filme",
       "url": "https://open.spotify.com/track/3b2C3UZ3NzQG4ofCl42BX8"

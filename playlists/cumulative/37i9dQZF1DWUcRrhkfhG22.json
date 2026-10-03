@@ -1625,6 +1625,28 @@
     },
     {
       "album": {
+        "name": "Point 2 Prove",
+        "url": "https://open.spotify.com/album/0S9brJxATwHfzgBhhoQy1r"
+      },
+      "artists": [
+        {
+          "name": "Young Guy",
+          "url": "https://open.spotify.com/artist/5IVjnYOECj7Ml65rpafLgx"
+        },
+        {
+          "name": "Yuric Primer",
+          "url": "https://open.spotify.com/artist/1n0pSnH1WeLy0pyMXOPEjB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Point 2 Prove",
+      "url": "https://open.spotify.com/track/4FW5tXCbqVkWOIx454NHRC"
+    },
+    {
+      "album": {
         "name": "This Day EP",
         "url": "https://open.spotify.com/album/1DNHoVmaDggZwxNWxTpBpA"
       },

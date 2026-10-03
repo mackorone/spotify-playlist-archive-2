@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Gangsta, Jory Boy y Red Fox.
 
-1,483 songs - 3 day 4 hr 34 min
+1,484 songs - 3 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,7 +757,7 @@
 | [Los poderes](https://open.spotify.com/track/5ku5dYXFm1okB4AYkKmZyC) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 3:27 | 2026-05-15 |  |
 | [Los Polvos](https://open.spotify.com/track/1cIyCXCDtkP0a2v093PJbK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:56 | 2023-08-25 | 2023-10-28 |
 | [Los Roques](https://open.spotify.com/track/5wUNXICiryiGhRBVL5FQXh) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 2:51 | 2023-11-17 | 2024-08-03 |
-| [LoSIENTES?](https://open.spotify.com/track/24dDvXUCClESLZb4Bai6Sy) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [LoSIENTES?](https://open.spotify.com/album/4mAQtrtokBXeynqqfkl1AD) | 2:22 | 2026-04-03 |  |
+| [LoSIENTES?](https://open.spotify.com/track/24dDvXUCClESLZb4Bai6Sy) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [LoSIENTES?](https://open.spotify.com/album/4mAQtrtokBXeynqqfkl1AD) | 2:22 | 2026-04-03 | 2026-10-03 |
 | [LOVE](https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [LOVE](https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29) | 2:52 | 2025-10-24 | 2026-04-25 |
 | [Low Key](https://open.spotify.com/track/1ZJG3aUT5sGmsita5dy7uQ) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Low Key](https://open.spotify.com/album/3wj7f657nfJayDnnFZXj7e) | 2:31 | 2022-01-07 | 2022-01-15 |
 | [LQTQH](https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [LQTQH](https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59) | 2:41 | 2023-07-21 | 2023-09-30 |
@@ -1068,6 +1068,7 @@
 | [Pikete](https://open.spotify.com/track/4eElSQrNzpkkH9lh11C1oS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 2:43 | 2022-11-30 | 2023-02-25 |
 | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/album/4JWW3H1HSUA5beQdZ8oj8K) | 2:38 | 2022-04-08 | 2022-05-20 |
 | [Pikito](https://open.spotify.com/track/4uincenPTAa44KUmUQXbQC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Pikito](https://open.spotify.com/album/5lGdVKuivIsUF4bNSqAUQe) | 3:24 | 2025-12-05 | 2026-01-30 |
+| [pikito pikito](https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [pikito pikito](https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB) | 3:00 | 2026-10-02 |  |
 | [Piscis](https://open.spotify.com/track/528kxaIqmOEng6tMhBF0vb) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7) | [Piscis](https://open.spotify.com/album/7DZwQifNiCy2n3vhhlpVba) | 2:41 | 2023-01-20 | 2023-04-25 |
 | [PLAY BOY](https://open.spotify.com/track/2A921k4SPpRUo7xUS9HQ8l) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [PERMANENTE](https://open.spotify.com/album/3iA6lFPydNrgFd6s1Hojii) | 2:16 | 2024-08-02 | 2024-11-23 |
 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 | 2022-12-16 | 2023-04-22 |

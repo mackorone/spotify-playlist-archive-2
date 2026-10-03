@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo mejor del Trap, Rap, R&B, Afrobeats y Reggaeton Cristiano\. Foto: Niko Eme
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,328 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,347 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 6 | [Sigo Firme](https://open.spotify.com/track/1ko30tEQ1NcMTBNPTeZurH) | [Marky O](https://open.spotify.com/artist/2imiGAOjvr74j2uW3drLCi), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Sigo Firme](https://open.spotify.com/album/3NGFEU6jnnJOqS90KdvfGW) | 3:18 |
 | 7 | [Entre Lágrimas y Fe](https://open.spotify.com/track/5Ak4fjPN0RAVsVNnZbXbdl) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Edith Roy Music](https://open.spotify.com/artist/4WfW99akZNpNL33tSX70ar), [Nipo809](https://open.spotify.com/artist/24jgLzPtbvGaTKKjvE7UMj) | [Entre Lágrimas y Fe](https://open.spotify.com/album/7byddGVUF61pMjfitjaCMW) | 3:05 |
 | 8 | [AGUABIBA](https://open.spotify.com/track/6kEFRyxnDJtCFCtMA2BLAY) | [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [AGUABIBA](https://open.spotify.com/album/6mf5ADpzwUHQ9dWSAGW1pd) | 3:00 |
-| 9 | [Me Hiere](https://open.spotify.com/track/5AGmZp8Yby6C5efwjCTBDn) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7), [RIVERS](https://open.spotify.com/artist/3jMVVq9mJJn2anR1yqpzMW) | [BALANCE \(B\-002\)](https://open.spotify.com/album/0NNqdkEH3zqagF3hrAgZZo) | 4:03 |
+| 9 | [Me Hiere](https://open.spotify.com/track/5AGmZp8Yby6C5efwjCTBDn) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7), [RIVERS](https://open.spotify.com/artist/3kSlYrat8qtFMck5m9i3bh) | [BALANCE \(B\-002\)](https://open.spotify.com/album/0NNqdkEH3zqagF3hrAgZZo) | 4:03 |
 | 10 | [Dile en Merengue](https://open.spotify.com/track/5eAYCnFYt5UTG30875EaCt) | [Giovani](https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG) | [Sazón Over Everything \(S.O.E\) Vol\. 1](https://open.spotify.com/album/7L1GyCQtf6cYdR5GHeCBcO) | 1:02 |
 | 11 | [Zaqueo](https://open.spotify.com/track/5k0t1fLWVydyGRxOVbahaC) | [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Zaqueo](https://open.spotify.com/album/1Z1ZfJZgpP8mc0j4nOPGGe) | 3:00 |
 | 12 | [Otro Flow](https://open.spotify.com/track/14e5L68aTqaamVCAV4RvHU) | [Kenny Rivers](https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9) | [Otro Flow](https://open.spotify.com/album/3GJ3mKpyLPoQWkvM8H4Wea) | 1:52 |

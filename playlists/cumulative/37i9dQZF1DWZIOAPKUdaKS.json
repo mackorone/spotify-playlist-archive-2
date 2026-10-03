@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 133205,
       "name": "Beaux r\u00eaves",
       "url": "https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 160250,
       "name": "diamond star",
       "url": "https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 145920,
       "name": "Dreams of Us",
       "url": "https://open.spotify.com/track/6I1qp1q6iTtOCNUXfziWpn"
@@ -5772,7 +5772,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 155360,
       "name": "Impromptu",
       "url": "https://open.spotify.com/track/7fgqEIEV6kpswoBsgru92Z"
@@ -9488,7 +9488,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 134500,
       "name": "Passage sombre",
       "url": "https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk"
@@ -12033,6 +12033,24 @@
     },
     {
       "album": {
+        "name": "Still Water",
+        "url": "https://open.spotify.com/album/7bb9hRPpJ4npTsiUZtsj4y"
+      },
+      "artists": [
+        {
+          "name": "Mila Sinclair",
+          "url": "https://open.spotify.com/artist/04D6inmBTpRkz2oi0ehKsI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Still Water",
+      "url": "https://open.spotify.com/track/0673Elw27XDiUX8Vgzpscm"
+    },
+    {
+      "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/0msgHgZpWhe5InxDJIauQ8"
       },
@@ -12300,7 +12318,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 122987,
       "name": "S\u00f6dermalm",
       "url": "https://open.spotify.com/track/2NqMMcqgTtYpAd53apD7aE"
@@ -13110,7 +13128,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 137785,
       "name": "Toys around",
       "url": "https://open.spotify.com/track/0E6dS91D3AYdAKRKTCB5YI"

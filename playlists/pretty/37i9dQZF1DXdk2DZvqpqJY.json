@@ -1,6 +1,6 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 126881,
+  "num_followers": 126976,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "May This Dance Last Forever",
-        "url": "https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq"
+        "name": "At Least I Know",
+        "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
       },
       "artists": [
         {
-          "name": "The Belleville Band",
-          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
         }
       ],
-      "duration_ms": 169594,
-      "name": "May This Dance Last Forever",
-      "url": "https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4"
+      "duration_ms": 368388,
+      "name": "Lonely Streets",
+      "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "At Least I Know",
-        "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
+        "name": "May This Dance Last Forever",
+        "url": "https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq"
       },
       "artists": [
         {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
         }
       ],
-      "duration_ms": 368388,
-      "name": "Lonely Streets",
-      "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
+      "duration_ms": 169594,
+      "name": "May This Dance Last Forever",
+      "url": "https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "All My Tomorrows",
-        "url": "https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ"
-      },
-      "artists": [
-        {
-          "name": "Figgy Mold",
-          "url": "https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF"
-        }
-      ],
-      "duration_ms": 201515,
-      "name": "All My Tomorrows",
-      "url": "https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "At your place",
         "url": "https://open.spotify.com/album/2wLyO0bm1UmYBmvF5C0JcU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 198816,
       "name": "At your place",
       "url": "https://open.spotify.com/track/77JtSFO9b4BXKXIBGRng1U"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "All My Tomorrows",
+        "url": "https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ"
+      },
+      "artists": [
+        {
+          "name": "Figgy Mold",
+          "url": "https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF"
+        }
+      ],
+      "duration_ms": 201515,
+      "name": "All My Tomorrows",
+      "url": "https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "All The Sunsets",
-        "url": "https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE"
-      },
-      "artists": [
-        {
-          "name": "Midnight Trio",
-          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
-        }
-      ],
-      "duration_ms": 220650,
-      "name": "All The Sunsets",
-      "url": "https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Something about him",
         "url": "https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 160111,
       "name": "Something about him",
       "url": "https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "All The Sunsets",
+        "url": "https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "duration_ms": 220650,
+      "name": "All The Sunsets",
+      "url": "https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "There Will Be Better Days",
-        "url": "https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli"
-      },
-      "artists": [
-        {
-          "name": "Midnight Trio",
-          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
-        }
-      ],
-      "duration_ms": 299349,
-      "name": "There Will Be Better Days",
-      "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Journeying",
         "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 231130,
       "name": "Journeying",
       "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "There Will Be Better Days",
+        "url": "https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "duration_ms": 299349,
+      "name": "There Will Be Better Days",
+      "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
-      },
-      "artists": [
-        {
-          "name": "Urban Jazz Junction",
-          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/3shpzzZyznWqGeWrIxPD11"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 234000,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/623jWCHHgkHJ09bAPqvx8Y"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Sunset Stroll",
-        "url": "https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf"
-      },
-      "artists": [
-        {
-          "name": "Urban Jazz Junction",
-          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
-        }
-      ],
-      "duration_ms": 164682,
-      "name": "Sunset Stroll",
-      "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Can't Help Loving That Man",
         "url": "https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 269030,
       "name": "Can't Help Loving That Man",
       "url": "https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Sunset Stroll",
+        "url": "https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "duration_ms": 164682,
+      "name": "Sunset Stroll",
+      "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Lovestrung",
-        "url": "https://open.spotify.com/album/7pGN97RlbphE3ap1UsWReS"
+        "name": "Thank God It's Friday",
+        "url": "https://open.spotify.com/album/5dgTygeXR5TRuDYIzm5X0T"
       },
       "artists": [
         {
-          "name": "Rossdale Junction",
-          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
         }
       ],
-      "duration_ms": 199043,
-      "name": "Lovestrung",
-      "url": "https://open.spotify.com/track/57tNKYlNeknPlPFvMXsMaK"
+      "duration_ms": 233319,
+      "name": "Thank God It's Friday",
+      "url": "https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Thank God It's Friday",
-        "url": "https://open.spotify.com/album/5dgTygeXR5TRuDYIzm5X0T"
+        "name": "Lovestrung",
+        "url": "https://open.spotify.com/album/7pGN97RlbphE3ap1UsWReS"
       },
       "artists": [
         {
-          "name": "Mike Coen",
-          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
         }
       ],
-      "duration_ms": 233319,
-      "name": "Thank God It's Friday",
-      "url": "https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt"
+      "duration_ms": 199043,
+      "name": "Lovestrung",
+      "url": "https://open.spotify.com/track/57tNKYlNeknPlPFvMXsMaK"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Rue Cr\u00e9mieux",
-        "url": "https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO"
-      },
-      "artists": [
-        {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
-        }
-      ],
-      "duration_ms": 183872,
-      "name": "Moon Side",
-      "url": "https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Midnight Mood",
         "url": "https://open.spotify.com/album/00JwIcg9QId8yv41j8hsiF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 178511,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/21DBgFgwnYGspw2b2gfqZE"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Rue Cr\u00e9mieux",
+        "url": "https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "duration_ms": 183872,
+      "name": "Moon Side",
+      "url": "https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "The yellow note",
-        "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
-      },
-      "artists": [
-        {
-          "name": "Hollbeck",
-          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
-        }
-      ],
-      "duration_ms": 229756,
-      "name": "The yellow note",
-      "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "February Brings The Rain",
         "url": "https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
+        "name": "The yellow note",
+        "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
+      },
+      "artists": [
+        {
+          "name": "Hollbeck",
+          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
+        }
+      ],
+      "duration_ms": 229756,
+      "name": "The yellow note",
+      "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
         "name": "Holding Onto Dawn",
         "url": "https://open.spotify.com/album/0JNJYL6httnFWoLYXh6JAE"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Gentle Rain",
-        "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
-      },
-      "artists": [
-        {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
-        }
-      ],
-      "duration_ms": 192874,
-      "name": "Gentle Rain",
-      "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Autumn Once Again",
         "url": "https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 284438,
       "name": "Autumn Once Again",
       "url": "https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Gentle Rain",
+        "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "duration_ms": 192874,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Lazy Art",
-        "url": "https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 258872,
-      "name": "You Never Say You're Sorry",
-      "url": "https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Love Will Last Forever",
         "url": "https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 215917,
       "name": "Love Will Last Forever",
       "url": "https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Lazy Art",
+        "url": "https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 258872,
+      "name": "You Never Say You're Sorry",
+      "url": "https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Gloomy Sunday",
-        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
       },
       "artists": [
         {
-          "name": "Alec Taylor Trio",
-          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
         }
       ],
-      "duration_ms": 193256,
-      "name": "Gloomy Sunday",
-      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
+      "duration_ms": 236937,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1531,18 +1531,34 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Good Night",
-        "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
+        "name": "For Ellen",
+        "url": "https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q"
       },
       "artists": [
         {
-          "name": "Charlie James-Walker",
-          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
         }
       ],
-      "duration_ms": 236937,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
+      "duration_ms": 198750,
+      "name": "For Ellen",
+      "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Gloomy Sunday",
+        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "duration_ms": 193256,
+      "name": "Gloomy Sunday",
+      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 273123,
       "name": "Fools Rush In",
       "url": "https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "For Ellen",
-        "url": "https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q"
-      },
-      "artists": [
-        {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "For Ellen",
-      "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "It's You Or No One",
-        "url": "https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 214798,
-      "name": "It's You Or No One",
-      "url": "https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Blue Room",
         "url": "https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 158481,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "It's You Or No One",
+        "url": "https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 214798,
+      "name": "It's You Or No One",
+      "url": "https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2"
     },
     {
       "added_at": "2026-06-09 09:45:00",

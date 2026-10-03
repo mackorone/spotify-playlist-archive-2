@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax by listening to piano renditions of your favorite Disney songs.",
-  "num_followers": 169343,
+  "num_followers": 169360,
   "original_name": "Disney Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAbVVt02P7wD6d2VM7PzPB7uY3l8",
+  "snapshot_id": "AAAAAFVo8AxIF8yoidV7cdjyzVpo3tBI",
   "tracks": [
     {
       "added_at": "2026-06-18 19:02:08",
@@ -693,6 +693,26 @@
       "url": "https://open.spotify.com/track/5RE32waR7pe72PoTbQO6VS"
     },
     {
+      "added_at": "2026-10-02 04:00:47",
+      "album": {
+        "name": "Disney Peaceful Piano: Deep Focus",
+        "url": "https://open.spotify.com/album/2qO0pbZco75616ASWjgIsG"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 274343,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/55HWxsa7Dc8uaNHrTlwErA"
+    },
+    {
       "added_at": "2026-06-18 19:02:08",
       "album": {
         "name": "Disney Peaceful Piano: Mellow",
@@ -727,6 +747,26 @@
       "duration_ms": 211124,
       "name": "Something There",
       "url": "https://open.spotify.com/track/0ieCb0iyigq1kPGpkogkH1"
+    },
+    {
+      "added_at": "2026-10-02 04:00:47",
+      "album": {
+        "name": "Disney Peaceful Piano: Deep Focus",
+        "url": "https://open.spotify.com/album/2qO0pbZco75616ASWjgIsG"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 235674,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/1hB9h5bQLflbsxJmTyAHEj"
     },
     {
       "added_at": "2026-06-18 19:02:08",
@@ -1237,6 +1277,26 @@
       "url": "https://open.spotify.com/track/121jHMUmLlQ24bViLY1btQ"
     },
     {
+      "added_at": "2026-10-02 04:00:47",
+      "album": {
+        "name": "Disney Peaceful Piano: Deep Focus",
+        "url": "https://open.spotify.com/album/2qO0pbZco75616ASWjgIsG"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 133034,
+      "name": "The Ballad of the Lonesome Cowboy",
+      "url": "https://open.spotify.com/track/1eNGVt0qN4sG7ulna4wpvB"
+    },
+    {
       "added_at": "2026-06-18 19:02:08",
       "album": {
         "name": "Disney Peaceful Piano: Happy",
@@ -1695,22 +1755,6 @@
       "duration_ms": 292909,
       "name": "Show Yourself",
       "url": "https://open.spotify.com/track/4IUazrVEupgZ1QCg8X97cx"
-    },
-    {
-      "added_at": "2026-06-18 19:02:08",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Lin-Manuel Miranda",
-          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
-        }
-      ],
-      "duration_ms": 293346,
-      "name": "All Of You - Instrumental",
-      "url": "https://open.spotify.com/track/3bKY8qGrxlhZojriFo3Svh"
     },
     {
       "added_at": "2026-06-18 19:02:08",
@@ -2183,22 +2227,6 @@
     {
       "added_at": "2026-06-18 19:02:08",
       "album": {
-        "name": "Disney Karaoke Series: Disney Princess Music Box",
-        "url": "https://open.spotify.com/album/0oZDzJhlBWhcGuHjciEjLd"
-      },
-      "artists": [
-        {
-          "name": "Disney Princess Music Box Karaoke",
-          "url": "https://open.spotify.com/artist/4UdIwOXkD2szRzHCtrpngp"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Beauty and the Beast (Instrumental)",
-      "url": "https://open.spotify.com/track/5ew52UUKFk7KNb5m4Nxsim"
-    },
-    {
-      "added_at": "2026-06-18 19:02:08",
-      "album": {
         "name": "Disney Lullaby & Goodnight",
         "url": "https://open.spotify.com/album/5XM8EEuQ4D9EsygINToYny"
       },
@@ -2231,22 +2259,6 @@
       "duration_ms": 126132,
       "name": "I Wan'na Be Like You (The Monkey Song)",
       "url": "https://open.spotify.com/track/2HzVqRwteyisUJ0SafTwEZ"
-    },
-    {
-      "added_at": "2026-06-18 19:02:08",
-      "album": {
-        "name": "Disney Karaoke Series: Disney Princess Music Box",
-        "url": "https://open.spotify.com/album/0oZDzJhlBWhcGuHjciEjLd"
-      },
-      "artists": [
-        {
-          "name": "Disney Princess Music Box Karaoke",
-          "url": "https://open.spotify.com/artist/4UdIwOXkD2szRzHCtrpngp"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "Part of Your World (Instrumental)",
-      "url": "https://open.spotify.com/track/77N7pS5gFIOZ3XOGzsGZg0"
     },
     {
       "added_at": "2026-06-18 19:02:08",
@@ -2707,22 +2719,6 @@
       "duration_ms": 250828,
       "name": "Rainbow Connection - From \"The Muppet Movie\"",
       "url": "https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml"
-    },
-    {
-      "added_at": "2026-06-18 19:02:08",
-      "album": {
-        "name": "Homeward Bound 2",
-        "url": "https://open.spotify.com/album/0yrSqMRj3Uj61rXCeoOAHi"
-      },
-      "artists": [
-        {
-          "name": "Bruce Broughton",
-          "url": "https://open.spotify.com/artist/2l8NfsHSrQV6cwfJrGqqDm"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "In the Park - Score Version",
-      "url": "https://open.spotify.com/track/75xMovAEyPZtexoEWHHcqW"
     },
     {
       "added_at": "2026-06-18 19:02:08",

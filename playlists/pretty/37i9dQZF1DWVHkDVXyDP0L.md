@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Stimpies
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,978 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,983 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [State Of Things](https://open.spotify.com/track/75cxH1EOqK8BINNC6UZ8eB) | [Stimpies](https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4) | [State of Things](https://open.spotify.com/album/6lxm19PHeFqiezAsITMXyR) | 3:55 |
-| 2 | [Track 1](https://open.spotify.com/track/06rpq1YGWFvUxIevdldh96) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Carparks](https://open.spotify.com/album/41exX5asmlevP9n8OsoviK) | 0:00 |
+| 2 | [Adeline](https://open.spotify.com/track/06rpq1YGWFvUxIevdldh96) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Carparks](https://open.spotify.com/album/41exX5asmlevP9n8OsoviK) | 3:00 |
 | 3 | [Dog](https://open.spotify.com/track/62XVpwDVieY9QQRyEKeI0U) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Dog](https://open.spotify.com/album/12g9KrJbj4W8REl08H1Ezn) | 3:28 |
 | 4 | [Broke My Jaw](https://open.spotify.com/track/2dtiMGU46xRCa4pw68kx6l) | [Zach Stephenson](https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN) | [Broke My Jaw](https://open.spotify.com/album/19i9uS4A0eAotKP4MWrA67) | 3:27 |
 | 5 | [Fake Tree](https://open.spotify.com/track/1O6Ee63Z8bfdMZRx4sakcH) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Fake Tree](https://open.spotify.com/album/1Wl77Ns93Wmag0SeKcXr7d) | 3:08 |

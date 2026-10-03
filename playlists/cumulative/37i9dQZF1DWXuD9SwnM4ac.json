@@ -28719,6 +28719,24 @@
     },
     {
       "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/3IItemvs6diBqETll5pINP"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180002,
+      "name": "Tell Me When You're Home",
+      "url": "https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q"
+    },
+    {
+      "album": {
         "name": "Glimmers Continued",
         "url": "https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1"
       },
@@ -30816,24 +30834,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/3IItemvs6diBqETll5pINP"
-      },
-      "artists": [
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "date_added": "2026-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q"
     },
     {
       "album": {

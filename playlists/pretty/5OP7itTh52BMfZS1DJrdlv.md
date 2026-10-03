@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2026 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,227,018 likes - 100 songs - 5 hr 25 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,227,940 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 19 | [Sleigh Ride](https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 3:06 |
 | 20 | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 |
 | 21 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
-| 22 | [White Christmas](https://open.spotify.com/track/5skPAf0IIIy7UXJch1QgZy) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:38 |
+| 22 | [White Christmas](https://open.spotify.com/track/5skPAf0IIIy7UXJch1QgZy) | [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:38 |
 | 23 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |
 | 24 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
 | 25 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 |

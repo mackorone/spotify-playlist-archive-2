@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 35 | [Deja Vu](https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Dearest](https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h) | 3:04 |
 | 36 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 |
 | 37 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 |
-| 38 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 |
-| 39 | [LOCKED IN](https://open.spotify.com/track/3Kr3znUOSD3dCxmskMYtmO) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 3:01 |
+| 38 | [LOCKED IN](https://open.spotify.com/track/3Kr3znUOSD3dCxmskMYtmO) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 3:01 |
+| 39 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 |
 | 40 | [Ice Queen](https://open.spotify.com/track/4f4QMBoxGhX6YrzajQozxT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:03 |
 | 41 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
 | 42 | [testosterone](https://open.spotify.com/track/3M7DvOm9xlkhgj9oLxZygU) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [testosterone](https://open.spotify.com/album/2ekbb1ggU4xcpzN88njSQT) | 3:10 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 58 | [Hope Is a Scary Thing](https://open.spotify.com/track/2Pn8rE4he6Knz53X3RS896) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:48 |
 | 59 | [Salvation](https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:20 |
 | 60 | [Dreams](https://open.spotify.com/track/6qV4tSoKUstKvDUunRP8rJ) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 3:14 |
-| 61 | [NINETEEN](https://open.spotify.com/track/4TqQPf01wvMqpbjcVtaeNJ) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/3UrgYfoyt36j4j1smNqwpb) | 3:03 |
-| 62 | [Fireworks](https://open.spotify.com/track/1UQDjhNSUJq1Qt02fdXzN3) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:00 |
+| 61 | [Fireworks](https://open.spotify.com/track/1UQDjhNSUJq1Qt02fdXzN3) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:00 |
+| 62 | [NINETEEN](https://open.spotify.com/track/4TqQPf01wvMqpbjcVtaeNJ) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/3UrgYfoyt36j4j1smNqwpb) | 3:03 |
 | 63 | [Latest Ghost \- Piano Version](https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World \(Piano Versions\)](https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T) | 2:51 |
 | 64 | [Priorities](https://open.spotify.com/track/74JMCtnIUVepy6Iz6FLqzx) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Priorities](https://open.spotify.com/album/2Jwz8d47Z1SjssxwYGMMEE) | 3:13 |
 | 65 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 91 | [Love Has Different Ways to Say Goodbye](https://open.spotify.com/track/4NqzHL8KnCbMmi6sOmHsuc) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:06 |
 | 92 | [Pills](https://open.spotify.com/track/7uQ5PzE3jeek7OQHiSkxTz) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Wherever I Go, I Want To Leave](https://open.spotify.com/album/4blsuHsL3FdV5hwoKAk7nS) | 2:57 |
 | 93 | [If Looks Could Kill](https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [If Looks Could Kill](https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO) | 3:29 |
-| 94 | [Slutphase](https://open.spotify.com/track/1R3QjFdho8jtsv38Hd2BIL) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/79Go9MHdjw3lw66GOQXgOK) | 2:43 |
-| 95 | [Waschesalon](https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:12 |
+| 94 | [Waschesalon](https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:12 |
+| 95 | [Slutphase](https://open.spotify.com/track/1R3QjFdho8jtsv38Hd2BIL) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/79Go9MHdjw3lw66GOQXgOK) | 2:43 |
 | 96 | [Backwards](https://open.spotify.com/track/1pgKXLlRX9hnQGpIEdJbrW) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [ColoRise](https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr) | 2:41 |
 | 97 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 |
 | 98 | [Sadtown USA](https://open.spotify.com/track/1JSPW0h57CHHDFABPH6VxR) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 3:10 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 134 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 135 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `Acdz+gAAAAAlqvuxSE3h8bcXwq8D7KgX`
+Snapshot ID: `Acd5mgAAAAC15FAVY1veSAIaFQ7WT0N4`

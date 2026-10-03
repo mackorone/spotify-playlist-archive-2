@@ -4624,10 +4624,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 244426,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX"
+    },
+    {
+      "album": {
+        "name": "Get Me Some",
+        "url": "https://open.spotify.com/album/5fC36HdxOtKwY40jlFbTrP"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246466,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/4NENjLSkyFUqS0yCVcvWOn"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 100309,
+  "num_followers": 100321,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADqjmOjp6h1vzl2rdHf9i+E",
+  "snapshot_id": "ar2igAAAAACSfJz+FsP3Bf08ETB7db9H",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 304613,
+      "name": "Hawaii Song",
+      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 209032,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 304613,
-      "name": "Hawaii Song",
-      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 359506,
-      "name": "Livin' It",
-      "url": "https://open.spotify.com/track/0fe0BzO1VQRG8OV4YEecNO"
+      "duration_ms": 302000,
+      "name": "Fight the Feeling",
+      "url": "https://open.spotify.com/track/5ZnQmeqBxKPkEeQYcKg87F"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Fight the Feeling",
-      "url": "https://open.spotify.com/track/5ZnQmeqBxKPkEeQYcKg87F"
+      "duration_ms": 359506,
+      "name": "Livin' It",
+      "url": "https://open.spotify.com/track/0fe0BzO1VQRG8OV4YEecNO"
     },
     {
       "added_at": null,

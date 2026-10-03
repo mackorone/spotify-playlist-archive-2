@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2268495,
+  "num_followers": 2268925,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "Fast as You",
-      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 228173,
       "name": "Paint Me A Birmingham",
       "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Fast as You",
+      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Boomtown",
         "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 147026,
       "name": "You Ain't Much Fun",
       "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "You Won' t Ever Be Lonely",
-        "url": "https://open.spotify.com/album/3CTLrEYxd3j14KtSWvp3RQ"
-      },
-      "artists": [
-        {
-          "name": "Andy Griggs",
-          "url": "https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "You Won't Ever Be Lonely",
-      "url": "https://open.spotify.com/track/0wfr8FjpLXIO1YjqEyVCg5"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 215600,
       "name": "A Broken Wing",
       "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "You Won' t Ever Be Lonely",
+        "url": "https://open.spotify.com/album/3CTLrEYxd3j14KtSWvp3RQ"
+      },
+      "artists": [
+        {
+          "name": "Andy Griggs",
+          "url": "https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "You Won't Ever Be Lonely",
+      "url": "https://open.spotify.com/track/0wfr8FjpLXIO1YjqEyVCg5"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Ten Thousand Angels",
-        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
-      },
-      "artists": [
-        {
-          "name": "Mindy McCready",
-          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Guys Do It All the Time",
-      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Life's So Funny",
         "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 237226,
       "name": "Bigger Than the Beatles",
       "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Ten Thousand Angels",
+        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
+      },
+      "artists": [
+        {
+          "name": "Mindy McCready",
+          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Guys Do It All the Time",
+      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
     },
     {
       "added_at": "2026-02-11 22:52:29",

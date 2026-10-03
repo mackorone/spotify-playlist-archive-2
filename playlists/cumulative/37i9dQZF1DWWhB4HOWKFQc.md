@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: MASDO
+> Kumpulan lagu yang sedang menyebar luas\. Cover: ADÉLA
 
 1,699 songs - 4 day 6 hr 17 min
 
@@ -976,7 +976,7 @@
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-23 | 2025-02-01 |
 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 | 2026-02-06 | 2026-04-11 |
 | [MORE THAN JUST A FRIEND](https://open.spotify.com/track/1VpxzuSYQEaAlDfhStaOBZ) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq) | [MORE THAN JUST A FRIEND](https://open.spotify.com/album/53DyhydHhPqkIBfhgrNzJr) | 3:29 | 2024-06-20 | 2024-07-27 |
-| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 | 2026-05-28 | 2026-07-04 |
+| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 | 2026-05-28 |  |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-04 | 2024-08-29 |
 | [Movie Star](https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 2:52 | 2023-04-20 | 2023-05-05 |
 | [Mr\. Loverman](https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:36 | 2024-07-04 | 2024-10-16 |

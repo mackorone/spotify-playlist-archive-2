@@ -1,13 +1,33 @@
 {
   "description": "Funky vocoders and talk boxes",
-  "num_followers": 63000,
+  "num_followers": 63009,
   "original_name": "Robo-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIRRvt+/AEG0zUyeo5Ffn0QVGz+m",
+  "snapshot_id": "AAAAAC+BvCt9TV+IrpDSEfze1L30AKbd",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:00:50",
+      "album": {
+        "name": "Point 2 Prove",
+        "url": "https://open.spotify.com/album/0S9brJxATwHfzgBhhoQy1r"
+      },
+      "artists": [
+        {
+          "name": "Young Guy",
+          "url": "https://open.spotify.com/artist/5IVjnYOECj7Ml65rpafLgx"
+        },
+        {
+          "name": "Yuric Primer",
+          "url": "https://open.spotify.com/artist/1n0pSnH1WeLy0pyMXOPEjB"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Point 2 Prove",
+      "url": "https://open.spotify.com/track/4FW5tXCbqVkWOIx454NHRC"
+    },
     {
       "added_at": "2026-04-24 04:03:59",
       "album": {

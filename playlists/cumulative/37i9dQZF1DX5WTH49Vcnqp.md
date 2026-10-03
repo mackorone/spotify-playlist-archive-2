@@ -4,7 +4,7 @@
 
 > Music that's hard to define, but easy to love\. Cover: Logic1000
 
-1,946 songs - 4 day 16 hr 1 min
+1,947 songs - 4 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-29 | 2024-12-05 |
 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-15 | 2025-07-11 |
 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 3:09 | 2025-09-18 | 2026-03-06 |
-| [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 | 2026-07-09 |  |
+| [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 | 2026-07-09 | 2026-10-03 |
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-02-16 | 2023-03-31 |
 | [Blurr](https://open.spotify.com/track/30guhp5kCpZlOu8i8XarLw) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Blurr](https://open.spotify.com/album/7w7nZ6AH60pbR2CACJZEmW) | 2:15 | 2022-09-01 | 2022-10-21 |
 | [Boarding Pass](https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [MAJORDOMO](https://open.spotify.com/album/5E0LdqAKEHpaP3nxS47uxq) | 3:37 | 2024-08-29 | 2024-10-18 |
@@ -1826,6 +1826,7 @@
 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-08 | 2023-03-18 |
 | [Vienna](https://open.spotify.com/track/0mGIL8cwDCf712oaI1Nosb) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/10t8s95xXT88VShcKfPDZ2) | 2:43 | 2022-05-12 | 2022-09-30 |
 | [vinegar](https://open.spotify.com/track/35jHNbOE3tKh8DW0CMi1ck) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [vinegar](https://open.spotify.com/album/5aaVC5e0OslOtUwx8bUwv9) | 3:16 | 2022-01-27 | 2022-03-04 |
+| [vintage vuitton](https://open.spotify.com/track/6Rvi7T8vQkkIYQcp1DWm3u) | [earfzilla](https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f) | [vintage vuitton](https://open.spotify.com/album/6l9qksdtvLKaFg6SZv1Xem) | 1:26 | 2026-10-02 |  |
 | [Visions of Ourselves](https://open.spotify.com/track/4awTImyx5aWFWS4aYwkas8) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Visions of Ourselves](https://open.spotify.com/album/0Tip7HHcj09mf0AThkT2sd) | 3:31 | 2025-05-22 | 2025-08-08 |
 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 | 2021-12-28 | 2022-02-11 |
 | [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 | 2025-10-09 | 2025-11-11 |

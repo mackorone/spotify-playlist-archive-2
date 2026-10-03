@@ -125,9 +125,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 115 | [Learn To Love Myself](https://open.spotify.com/track/0FQ9ML5Is7CRKHGoVDdrKi) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Left In Your Love](https://open.spotify.com/album/7ha3cuKSuE1edlTUbMH2lb) | 3:02 |
 | 116 | [Lonely Nights](https://open.spotify.com/track/198mIqbxkeeGcWJvmLOMbt) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 2:56 |
 | 117 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 |
-| 118 | [Talking in Emotions](https://open.spotify.com/track/6i6fRjYpT1UQzhTDmY4Hwh) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:13 |
-| 119 | [Sugar Rush](https://open.spotify.com/track/07jlo8nEfBOOkL3Rn1CTGN) | [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw) | [Sugar Rush](https://open.spotify.com/album/1xZHrkLd5Nk9xMouzDEzHK) | 2:44 |
-| 120 | [Destination](https://open.spotify.com/track/0gY0h3DvEFqPNYfVrafY25) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD) | [Destination](https://open.spotify.com/album/5CHGLdsHjJzJ8lqdyT4X8l) | 2:55 |
+| 118 | [Destination](https://open.spotify.com/track/0gY0h3DvEFqPNYfVrafY25) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD) | [Destination](https://open.spotify.com/album/5CHGLdsHjJzJ8lqdyT4X8l) | 2:55 |
+| 119 | [Talking in Emotions](https://open.spotify.com/track/6i6fRjYpT1UQzhTDmY4Hwh) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:13 |
+| 120 | [Sugar Rush](https://open.spotify.com/track/07jlo8nEfBOOkL3Rn1CTGN) | [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw) | [Sugar Rush](https://open.spotify.com/album/1xZHrkLd5Nk9xMouzDEzHK) | 2:44 |
 | 121 | [Lovefool](https://open.spotify.com/track/6kYs7BzNz8uo8v2ofrZcVF) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lovefool](https://open.spotify.com/album/12jDom2LoFIXzPQxdPAtM5) | 2:18 |
 | 122 | [Golden \- aus "Angry Birds 2 \- Der Film"](https://open.spotify.com/track/4kOMmI3oj5KYGyzbwSudWs) | [Lukas Rieger](https://open.spotify.com/artist/0QPfdFGUGhEOrYAzdUw1Xx) | [Justice](https://open.spotify.com/album/1ryFzCTmkh8M2aKpI9Jnkn) | 2:36 |
 | 123 | [All Night Long](https://open.spotify.com/track/55IEdCXiAa3A7Mcy8t9n2v) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Wanderer](https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO) | 2:41 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 145 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 146 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `Acdz8AAAAAAo0oYFaa/Oan+LVUy027fh`
+Snapshot ID: `Acd5kAAAAABiKEq73MKUBIpynyhzQVwi`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 
 > This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,527 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,531 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sweet Memories feat\. アイナ・ジ・エンド](https://open.spotify.com/track/5ohDaO3JClUzxArhvn1gjr) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Sweet Memories feat\. アイナ・ジ・エンド](https://open.spotify.com/album/4Zo01uS5I7jLhyYtaFtFgn) | 4:12 |
-| 2 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 |
+| 1 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 |
+| 2 | [Sweet Memories feat\. アイナ・ジ・エンド](https://open.spotify.com/track/5ohDaO3JClUzxArhvn1gjr) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Sweet Memories feat\. アイナ・ジ・エンド](https://open.spotify.com/album/4Zo01uS5I7jLhyYtaFtFgn) | 4:12 |
 | 3 | [TTTTOKYO](https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 3:37 |
 | 4 | [Tokyo Calling](https://open.spotify.com/track/7Gke62gU7kbBjQ7ucS4bLF) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:11 |
 | 5 | [Giri Giri](https://open.spotify.com/track/0A1MywK95IyiQ8VhcP1VB9) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:05 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 12 | [Oi AG!](https://open.spotify.com/track/4Eu28VG0a4Dng5NkpltDZt) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 3:32 |
 | 13 | [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 |
 | 14 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 |
-| 15 | [ドラ１独走](https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [放生会](https://open.spotify.com/album/37asoWjHlM134Da94j5kAc) | 3:03 |
-| 16 | [Narani Narani \(feat\. ATARASHII GAKKO!\)](https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Narani Narani \(feat\. ATARASHII GAKKO!\)](https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw) | 3:44 |
+| 15 | [Narani Narani \(feat\. ATARASHII GAKKO!\)](https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Narani Narani \(feat\. ATARASHII GAKKO!\)](https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw) | 3:44 |
+| 16 | [ドラ１独走](https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [放生会](https://open.spotify.com/album/37asoWjHlM134Da94j5kAc) | 3:03 |
 | 17 | [Essa Hoisa](https://open.spotify.com/track/3sCVB9bWkFPMWdM5QSQ3MH) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:55 |
 | 18 | [Leave It All Behind](https://open.spotify.com/track/2iPZW9H37FBM39iVcmDsnz) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 3:20 |
 | 19 | [One Heart](https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [One Heart](https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 49 | [Free Your Mind](https://open.spotify.com/track/5RWkakv9Kg0MtYnXdQUHWm) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:57 |
 | 50 | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr) | 3:33 |
 
-Snapshot ID: `arxRAAAAAAAn50JwDnw5Rv13pmeqWkQK`
+Snapshot ID: `ar2igAAAAAAnGocUjhv3Oo5CC8Rmn2Iy`

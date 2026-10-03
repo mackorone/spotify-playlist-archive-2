@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,887 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,235,859 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 74 | [My Number](https://open.spotify.com/track/4c9WmjVlQMr0s1IjbYO52Z) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/0PIR7PK8DMB4pgoxq7F9Ad) | 4:00 |
 | 75 | [Here Comes Your Man](https://open.spotify.com/track/0cs671lxX2eoDzr2KMuo3N) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 3:21 |
 
-Snapshot ID: `AAAAAJHj+nvWj5guFoYScXzgOzEDtvk2`
+Snapshot ID: `AAAAAPdG/SalkTs/HAA1WlnnHGMIEX8Q`

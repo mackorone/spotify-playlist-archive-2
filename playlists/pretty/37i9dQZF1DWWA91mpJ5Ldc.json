@@ -735,26 +735,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "T\u00c1 FELIZ?!",
-        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
       },
       "artists": [
         {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
         }
       ],
-      "duration_ms": 191093,
-      "name": "SAMBA DE CRIA",
-      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
+      "duration_ms": 206312,
+      "name": "Hexagrama 28",
+      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -787,18 +779,26 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+        "name": "T\u00c1 FELIZ?!",
+        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 206312,
-      "name": "Hexagrama 28",
-      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
+      "duration_ms": 191093,
+      "name": "SAMBA DE CRIA",
+      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Improviso",
-        "url": "https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 231989,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4ElEPqphxDORaD5Ov08hSp"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 200000,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Improviso",
+        "url": "https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 231989,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4ElEPqphxDORaD5Ov08hSp"
     },
     {
       "added_at": "2025-12-05 19:00:22",

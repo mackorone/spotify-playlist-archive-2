@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 201379,
       "name": "Elevate - SOTA Remix",
       "url": "https://open.spotify.com/track/5l1KPMsuhpp3aE4UoK8Hzx"
@@ -2699,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "Genesis II",
+        "url": "https://open.spotify.com/album/3mkvfsafNXE0Yh0sJE7znC"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222068,
+      "name": "Genesis II",
+      "url": "https://open.spotify.com/track/6jkFiUGy2bKFREJ7nJcwtl"
+    },
+    {
+      "album": {
         "name": "Get Outta Here",
         "url": "https://open.spotify.com/album/21HJSnokIUBrff02ohoMGh"
       },
@@ -2802,10 +2820,28 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 267586,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/2E2jt5kAro9LBfauaoynM6"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223912,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/1pUBYFaXLMURNA6Slof9Mm"
     },
     {
       "album": {
@@ -2864,7 +2900,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 180000,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
@@ -3134,6 +3170,28 @@
       "duration_ms": 155913,
       "name": "Hijack",
       "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
+    },
+    {
+      "album": {
+        "name": "Hitman",
+        "url": "https://open.spotify.com/album/1ArZBdgPscE9w45S9hN7U6"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200228,
+      "name": "Hitman",
+      "url": "https://open.spotify.com/track/7kHq3IH6Tgb63WrEDEuVSz"
     },
     {
       "album": {
@@ -3792,7 +3850,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192000,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
@@ -5021,6 +5079,32 @@
     },
     {
       "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/0coZoi5RIGHl1myhhZLZi6"
+      },
+      "artists": [
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        },
+        {
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/4owdWOLUOV9GuYxaTRIcdu"
+    },
+    {
+      "album": {
         "name": "Out & About",
         "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
       },
@@ -5270,6 +5354,24 @@
       "duration_ms": 170400,
       "name": "Playing With Fire (feat. Zac Pajak)",
       "url": "https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/3XwujMrHgCfjTIpnB6zIgR"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271724,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/2zzO5pkMoiWvgO5lCOLkDH"
     },
     {
       "album": {
@@ -5928,7 +6030,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 200228,
       "name": "Rush",
       "url": "https://open.spotify.com/track/7t4la9AACH1mc9MBCUzJrw"
@@ -7167,6 +7269,24 @@
     },
     {
       "album": {
+        "name": "Reloaded",
+        "url": "https://open.spotify.com/album/5NeT8nWhxSxqiz4BpruIxB"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Too Lazy - VIP",
+      "url": "https://open.spotify.com/track/4vAU7hppWfdfwEgCvIRviQ"
+    },
+    {
+      "album": {
         "name": "Touchdown",
         "url": "https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F"
       },
@@ -7462,7 +7582,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161034,
       "name": "Violence",
       "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"

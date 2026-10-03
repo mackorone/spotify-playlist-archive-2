@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62620,
+  "num_followers": 62621,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACQiZdXzzd3DHfULO3Fdwn9",
+  "snapshot_id": "ar2igAAAAAC5hZly8tSKBjOsDThOnuce",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 159986,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/3tafV5ntIMSZRYIWkFFiR2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 207320,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/0B1ZjLUvqgUW4wWM7AvkHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 159986,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/3tafV5ntIMSZRYIWkFFiR2"
     },
     {
       "added_at": null,
@@ -295,38 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "You Drive Me Wild",
-      "url": "https://open.spotify.com/track/2ZSDEBnyfkCHNdllWJqxNG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 148520,
-      "name": "(I'm Gonna) Run Away",
-      "url": "https://open.spotify.com/track/5xa98AOYx4nY4yj0MF9AFX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hit List",
         "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
@@ -339,38 +307,6 @@
       "duration_ms": 227400,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/1TtEL6XQLDyDnG5QU9oqaD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
-      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "A.C.D.C.",
-      "url": "https://open.spotify.com/track/094d5lrmlKxKyNGDaAR9Go"
     },
     {
       "added_at": null,
@@ -391,6 +327,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "You Drive Me Wild",
+      "url": "https://open.spotify.com/track/2ZSDEBnyfkCHNdllWJqxNG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
+      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
@@ -403,6 +371,38 @@
       "duration_ms": 204413,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/0VmPPpFGWRwhXvNN9YpdUA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 148520,
+      "name": "(I'm Gonna) Run Away",
+      "url": "https://open.spotify.com/track/5xa98AOYx4nY4yj0MF9AFX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "A.C.D.C.",
+      "url": "https://open.spotify.com/track/094d5lrmlKxKyNGDaAR9Go"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Little Liar",
+      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hit List",
         "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
@@ -579,6 +595,22 @@
       "duration_ms": 186600,
       "name": "Love Me Two Times",
       "url": "https://open.spotify.com/track/0Rg2m4xJT2Ft9JME02mTaY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Rebel, Rebel",
+      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
     },
     {
       "added_at": null,
@@ -599,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Activity Grrrl",
-      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Music",
         "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 345000,
       "name": "Good Music",
       "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Little Liar",
-      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 250573,
-      "name": "Rebel, Rebel",
-      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
+      "duration_ms": 215440,
+      "name": "Activity Grrrl",
+      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "I Love You Love Me Love",
-      "url": "https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 216173,
       "name": "Coney Island Whitefish",
       "url": "https://open.spotify.com/track/0s0oLRYtGnZkJEQ59NjRsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "I Love You Love Me Love",
+      "url": "https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue"
     },
     {
       "added_at": null,

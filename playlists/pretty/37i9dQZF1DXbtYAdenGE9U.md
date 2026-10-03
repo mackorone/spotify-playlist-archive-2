@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,445 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,794 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 6 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
 | 7 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
 | 8 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 |
-| 9 | [Airwave \- Radio Vocal Edit](https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Airwave](https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8) | 2:59 |
-| 10 | [Need To Feel Loved \- Radio Edit](https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6) | [Reflekt](https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk) | [Need To Feel Loved](https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X) | 3:16 |
+| 9 | [Need To Feel Loved \- Radio Edit](https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6) | [Reflekt](https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk) | [Need To Feel Loved](https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X) | 3:16 |
+| 10 | [Airwave \- Radio Vocal Edit](https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Airwave](https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8) | 2:59 |
 | 11 | [Castles In The Sky](https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 3:47 |
 | 12 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 |
 | 13 | [Feel the Beat](https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 4:19 |

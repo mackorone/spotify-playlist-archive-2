@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 11261,
+  "num_followers": 11267,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABNYc4/wrVYwlYxZta8viIB",
+  "snapshot_id": "ar2igAAAAAAILCzRBDyQlEDJy/K3W/dz",
   "tracks": [
     {
       "added_at": null,
@@ -470,15 +470,11 @@
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 234469,
-      "name": "Light By The Window",
-      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
+      "duration_ms": 165703,
+      "name": "Time Doesn\u2019t Heal",
+      "url": "https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F"
     },
     {
       "added_at": null,
@@ -538,11 +534,15 @@
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 165703,
-      "name": "Time Doesn\u2019t Heal",
-      "url": "https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F"
+      "duration_ms": 234469,
+      "name": "Light By The Window",
+      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
     },
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO"
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
       },
       "artists": [
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 152610,
-      "name": "Shame (with Elmiene)",
-      "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
+      "duration_ms": 220573,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
     },
     {
       "added_at": null,
@@ -679,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO"
       },
       "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
+      "duration_ms": 152610,
+      "name": "Shame (with Elmiene)",
+      "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
     },
     {
       "added_at": null,

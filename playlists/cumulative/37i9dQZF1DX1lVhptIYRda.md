@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Corey Kent
+> Today's top country hits\. Cover: Miranda Lambert and Ella Langley
 
-1,037 songs - 2 day 8 hr 5 min
+1,039 songs - 2 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-03 | 2023-11-04 |
 | [Last Night](https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:43 | 2024-08-09 | 2024-08-11 |
 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-03-04 | 2022-10-01 |
-| [Last One To Know](https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Last One To Know](https://open.spotify.com/album/4zzLitRvQXzr4Eu2UVz0Nh) | 2:57 | 2025-08-15 |  |
+| [Last One To Know](https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Last One To Know](https://open.spotify.com/album/4zzLitRvQXzr4Eu2UVz0Nh) | 2:57 | 2025-08-15 | 2026-10-03 |
 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 | 2023-10-06 | 2024-03-30 |
 | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls) | 3:16 | 2026-09-18 |  |
 | [Last Time I Say Sorry](https://open.spotify.com/track/3gAaDDoBipWZzGBMwK194e) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Last Time I Say Sorry](https://open.spotify.com/album/1nYnm2JXB13BYcsOnjGwGs) | 3:14 | 2020-03-28 | 2020-05-09 |
@@ -580,7 +580,7 @@
 | [Love You Too Late](https://open.spotify.com/track/52MNypbTWiwybwzhXvsPk5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:24 | 2019-08-10 | 2019-08-11 |
 | [Love You, Miss You, Mean It](https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Love You, Miss You, Mean It](https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE) | 3:21 | 2024-05-10 | 2024-10-19 |
 | [Lovin' On You](https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:14 | 2020-06-29 | 2020-11-03 |
-| [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 | 2026-03-20 |  |
+| [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 | 2026-03-20 | 2026-10-03 |
 | [LOW ROAD \(feat\. Avery Anna\)](https://open.spotify.com/track/1pbWkKLJUUFyEBJ82Ha26S) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [LOW ROAD \(feat\. Avery Anna\)](https://open.spotify.com/album/6IGH3D37Bkrko7WBfW9VEY) | 2:57 | 2025-02-14 | 2025-06-28 |
 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 | 2025-09-05 | 2026-03-21 |
 | [Lucky](https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:14 | 2023-03-24 | 2023-08-12 |
@@ -800,6 +800,7 @@
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2024-12-31 | 2025-02-01 |
 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 | 2024-03-22 | 2024-07-19 |
 | [Smoke & Embers](https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Smoke & Embers](https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78) | 3:47 | 2025-04-11 | 2025-07-05 |
+| [Snakeskin Boots](https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Crisco](https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng) | 4:09 | 2026-10-02 |  |
 | [Sober](https://open.spotify.com/track/0T1tCsZ2qPRf6fwphjlNPM) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Sober](https://open.spotify.com/album/3ioP1B9kUTn3e7RLbjKmTY) | 3:30 | 2025-05-02 | 2025-10-05 |
 | [Some Girls](https://open.spotify.com/track/54eUv9Q3D9MZuOGS5PSflp) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Jameson Rodgers](https://open.spotify.com/album/52tL6ea7pvC3qgZCMPQAa5) | 3:04 | 2020-08-15 | 2020-11-03 |
 | [Some Of It](https://open.spotify.com/track/3d1qN7AHge6BXuVPutcpI5) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Desperate Man](https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx) | 3:15 | 2019-05-26\* | 2019-08-13 |
@@ -877,6 +878,7 @@
 | [That's What Tequila Does](https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:09 | 2022-08-05 | 2023-04-01 |
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2019-12-08 | 2020-03-14 |
 | [The Bones](https://open.spotify.com/track/7g9YrTuImvIkpS9uveKdCO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL...The Bones](https://open.spotify.com/album/3wRyo249Hi01jeaxnkJ49m) | 3:17 | 2019-05-26\* | 2019-12-11 |
+| [The Day I Hang It Up](https://open.spotify.com/track/05LCkBsBCDEcQv9nqZab41) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [The Day I Hang It Up](https://open.spotify.com/album/5yWMqaHPPBwpS5sOhGU9u5) | 2:41 | 2026-10-02 |  |
 | [The Devil I Know](https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 3:07 | 2024-05-31 | 2024-08-03 |
 | [The Fall](https://open.spotify.com/track/4QpuZ1Qbcd11aOtY1kGMRg) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 3:17 | 2025-07-18 | 2026-04-18 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 | 2025-04-26 |

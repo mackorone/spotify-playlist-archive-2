@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,001 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,117 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 31 | [Shitlist](https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:55 |
 | 32 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 |
 | 33 | [Figurine](https://open.spotify.com/track/3eo9ytt9yiJRLUy85Wumnw) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Figurine](https://open.spotify.com/album/27P08yRazykZcJCbgQxheh) | 2:31 |
-| 34 | [Lavender Bones](https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:24 |
-| 35 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
+| 34 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
+| 35 | [Lavender Bones](https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:24 |
 | 36 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
 | 37 | [Date With The Night](https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:35 |
 | 38 | [The Bow](https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N) | [Niis](https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X) | [NIIS WORLD](https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul) | 2:51 |
@@ -88,18 +88,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 78 | [She's Crushing My Mind](https://open.spotify.com/track/1KRdlcpHmzF4KTldSGVthD) | [Team Dresch](https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs) | [Personal Best](https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5) | 1:42 |
 | 79 | [I Hope You Know](https://open.spotify.com/track/5FnOK06ng2h8TwNtCk7DOt) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [I Hope You Know](https://open.spotify.com/album/2RK46DbriaUmep5XnMDLvE) | 2:20 |
 | 80 | [No Control](https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [No Control](https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e) | 3:01 |
-| 81 | [JJ](https://open.spotify.com/track/1orez4wPUf42d2jtvUpm0b) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Nothing Feels Natural](https://open.spotify.com/album/0JHreJbw5DKq7Nr9aW2KqI) | 2:57 |
-| 82 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 |
+| 81 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 |
+| 82 | [Looking for A Fight](https://open.spotify.com/track/2Uj3b1Ce5SLBN9Xp7Zqjp5) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Ride Your Heart](https://open.spotify.com/album/5pGaGSjUiidjJEixmde6Ha) | 2:17 |
 | 83 | [Straight Up \(Needy\)](https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Straight Up \(Needy\)](https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX) | 3:14 |
-| 84 | [Looking for A Fight](https://open.spotify.com/track/2Uj3b1Ce5SLBN9Xp7Zqjp5) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Ride Your Heart](https://open.spotify.com/album/5pGaGSjUiidjJEixmde6Ha) | 2:17 |
+| 84 | [JJ](https://open.spotify.com/track/1orez4wPUf42d2jtvUpm0b) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Nothing Feels Natural](https://open.spotify.com/album/0JHreJbw5DKq7Nr9aW2KqI) | 2:57 |
 | 85 | [I Don't Mind It](https://open.spotify.com/track/4azLr54wMnoayzplNpQpRh) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Castle Talk](https://open.spotify.com/album/4lUYpT7Ksnyn2TtLMJ6Nr8) | 3:26 |
 | 86 | [DOOMTOWN](https://open.spotify.com/track/1cLUvmoOfRZYbTedbeB9nC) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [DOOMTOWN](https://open.spotify.com/album/79TiaJjwfwiay0vdDwwa5y) | 3:18 |
 | 87 | [Last Breath](https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Last Breath](https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap) | 1:50 |
 | 88 | [Hurricane](https://open.spotify.com/track/3rMCQpwLtAMKwDlgjPrysO) | [The Coathangers](https://open.spotify.com/artist/7INFKsainUv68DHVbuLh4J) | [Larceny & Old Lace](https://open.spotify.com/album/5Bu8QKUFumC4uywqYqmN5P) | 2:32 |
 | 89 | [We Are the One](https://open.spotify.com/track/6o16JFxoLZbrKCdlkC36e0) | [The Avengers](https://open.spotify.com/artist/7eSvd8I9IvSXvz5DhbJ7Oe) | [The American in Me](https://open.spotify.com/album/2YsJTJdqKhc0g9FN6p3bFE) | 2:38 |
 | 90 | [The Surface](https://open.spotify.com/track/7FXfrpdWGdjjZZt1pJ1RbM) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 1:55 |
-| 91 | [Close](https://open.spotify.com/track/4zRUoox84YBfE9MznVfs0j) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Package Pt\. 2](https://open.spotify.com/album/7I0F67GkYeGYEXfBpnUABW) | 3:57 |
-| 92 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
+| 91 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
+| 92 | [Close](https://open.spotify.com/track/4zRUoox84YBfE9MznVfs0j) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Package Pt\. 2](https://open.spotify.com/album/7I0F67GkYeGYEXfBpnUABW) | 3:57 |
 | 93 | [FUU](https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:50 |
 | 94 | [Miss Understood](https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Gato Negro](https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3) | 3:07 |
 | 95 | [Savage](https://open.spotify.com/track/0m4r5bLIF9pZrc50oh0N38) | [The Nuns](https://open.spotify.com/artist/4lbdX52isOilRhdB9Zzs1y) | [The Nuns](https://open.spotify.com/album/1oCCvYac2MIYPX4fFJK6iD) | 2:17 |

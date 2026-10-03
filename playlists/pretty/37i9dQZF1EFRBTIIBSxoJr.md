@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 927 likes - 145 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 928 likes - 145 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 82 | [F.L.Y.](https://open.spotify.com/track/3NEuDhQxPh9mXA8fufQsKh) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [F.L.Y.](https://open.spotify.com/album/4KmOABMWA5k924gh3uGG83) | 2:24 |
 | 83 | [Higher \(Call My Name\)](https://open.spotify.com/track/4uX6unuXXrUAKSTaqOovp9) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Higher \(Call My Name\)](https://open.spotify.com/album/0Y4Gw8rHKGl2iyI4BRmPTw) | 3:09 |
 | 84 | [8 Days](https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [8 Days](https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD) | 2:10 |
-| 85 | [Rivers](https://open.spotify.com/track/4EW2QK7Fw8AtE0tZ3c3XS7) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 |
-| 86 | [Remember This](https://open.spotify.com/track/4GaXpQAh6e0ItV1jFHOzPK) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Remember This](https://open.spotify.com/album/0JeBuIbqH1NaM0cvICe9J3) | 3:46 |
-| 87 | [Nothing Lasts Forever](https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [RØAM](https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC) | [Nothing Lasts Forever](https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE) | 2:45 |
+| 85 | [Nothing Lasts Forever](https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [RØAM](https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC) | [Nothing Lasts Forever](https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE) | 2:45 |
+| 86 | [Rivers](https://open.spotify.com/track/4EW2QK7Fw8AtE0tZ3c3XS7) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 |
+| 87 | [Remember This](https://open.spotify.com/track/4GaXpQAh6e0ItV1jFHOzPK) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Remember This](https://open.spotify.com/album/0JeBuIbqH1NaM0cvICe9J3) | 3:46 |
 | 88 | [The Way I Love You](https://open.spotify.com/track/2QtVSNgeddQkXqifFiiXab) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 2:58 |
 | 89 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
 | 90 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 144 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 145 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Acd0BAAAAAAxtatvavkmGlwqbFB1wrbS`
+Snapshot ID: `Acd5pAAAAAC9jphztISQNV7/UqnlFRoD`

@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 429847,
+  "num_followers": 429979,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Discoteca Eterna",
-        "url": "https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY"
+        "name": "Volpe",
+        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        },
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Discoteca Eterna",
-      "url": "https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW"
+      "duration_ms": 467869,
+      "name": "Volpi Polari",
+      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Volpe",
-        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
+        "name": "Discoteca Eterna",
+        "url": "https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY"
       },
       "artists": [
         {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        },
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 467869,
-      "name": "Volpi Polari",
-      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
+      "duration_ms": 205161,
+      "name": "Discoteca Eterna",
+      "url": "https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW"
     },
     {
       "added_at": "2026-07-30 22:02:37",

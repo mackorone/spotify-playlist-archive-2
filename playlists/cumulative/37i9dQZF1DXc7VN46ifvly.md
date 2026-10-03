@@ -4,11 +4,11 @@
 
 > 한계를 뛰어넘는 당신을 운동을 위하여.
 
-185 songs - 10 hr 12 min
+186 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [+82 Pressin'](https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [+82 Pressin'](https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y) | 3:22 | 2025-04-01 |  |
+| [+82 Pressin'](https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [+82 Pressin'](https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y) | 3:22 | 2025-04-01 | 2026-10-03 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2023-11-03 |  |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2024-02-23 | 2024-03-30 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-05-07 |  |
@@ -27,6 +27,7 @@
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-12 | 2025-03-20 |
 | [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2023-11-03 |  |
 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 | 2023-11-03 | 2024-05-07 |
+| [BLUE CHECK \(Feat\. Jay Park, Jessi\) \(Prod\. by Slom\)](https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:28 | 2026-06-29 |  |
 | [Blueberry Faygo](https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Blueberry Faygo](https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL) | 2:42 | 2023-11-03 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2023-11-03 |  |
 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-05-07 |  |

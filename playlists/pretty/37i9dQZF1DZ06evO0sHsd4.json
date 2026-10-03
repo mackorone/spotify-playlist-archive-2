@@ -1,33 +1,13 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 25258,
+  "num_followers": 25275,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADzk1sJuO9tcqNWfY7yxCuh",
+  "snapshot_id": "ar2igAAAAABSlVV3PGKZHAzO0qkqTlqu",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perderte",
-        "url": "https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL"
-      },
-      "artists": [
-        {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Perderte",
-      "url": "https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ"
-    },
     {
       "added_at": null,
       "album": {
@@ -107,22 +87,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 204253,
-      "name": "ROSA PASTEL",
-      "url": "https://open.spotify.com/track/4yjeRuoVickg1G87LWeRes"
+      "duration_ms": 244245,
+      "name": "Cielo Eterno",
+      "url": "https://open.spotify.com/track/5BHyssNPTVo1Exf7LPVtrO"
     },
     {
       "added_at": null,
@@ -147,22 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 244245,
-      "name": "Cielo Eterno",
-      "url": "https://open.spotify.com/track/5BHyssNPTVo1Exf7LPVtrO"
+      "duration_ms": 204253,
+      "name": "ROSA PASTEL",
+      "url": "https://open.spotify.com/track/4yjeRuoVickg1G87LWeRes"
     },
     {
       "added_at": null,
@@ -487,6 +467,26 @@
       "duration_ms": 184269,
       "name": "La Lleca",
       "url": "https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perderte",
+        "url": "https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Perderte",
+      "url": "https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ"
     },
     {
       "added_at": null,

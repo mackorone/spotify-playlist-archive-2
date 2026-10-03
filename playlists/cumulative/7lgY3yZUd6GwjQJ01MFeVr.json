@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Bar Stars & Beauty Queens",
+        "url": "https://open.spotify.com/album/3bSZ6lbiElpGT18lu6OUI0"
+      },
+      "artists": [
+        {
+          "name": "Jimi",
+          "url": "https://open.spotify.com/artist/2hKyRk37dnpcAPIqU0Fghj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171896,
+      "name": "Bar Stars & Beauty Queens",
+      "url": "https://open.spotify.com/track/3PDP1qaABCp2ovbpkRBZ2p"
+    },
+    {
+      "album": {
         "name": "Beautiful Lies",
         "url": "https://open.spotify.com/album/6l4pvSCSSeBuUpyQaCAGoC"
       },
@@ -2700,6 +2718,24 @@
       "duration_ms": 207533,
       "name": "I Will (When You Do)",
       "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
+    },
+    {
+      "album": {
+        "name": "I'll Know",
+        "url": "https://open.spotify.com/album/72eVF75otNO1jux20nhkEz"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145557,
+      "name": "I'll Know",
+      "url": "https://open.spotify.com/track/3Cs9MnaZMUYK7KA3ePjwIQ"
     },
     {
       "album": {
@@ -5600,6 +5636,28 @@
       "duration_ms": 157913,
       "name": "Two Wheel Drive Cowboy",
       "url": "https://open.spotify.com/track/5P50sBnHTqfbA6ciFs0cBY"
+    },
+    {
+      "album": {
+        "name": "The Day I Hang It Up",
+        "url": "https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234010,
+      "name": "Us Again",
+      "url": "https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,406 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,429 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 40 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 41 | [My System](https://open.spotify.com/track/74s87wGi4ZIqgoBPg7fzyj) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System \(Acoustic\)](https://open.spotify.com/album/4SJkfGs1KQDsfFGbN7LAfZ) | 3:02 |
 | 42 | [Sommarkatt](https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Sommarkatt](https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD) | 3:28 |
-| 43 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
-| 44 | [Räddare i nöden](https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 4:01 |
+| 43 | [Räddare i nöden](https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 4:01 |
+| 44 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
 | 45 | [Håller Mig Själv](https://open.spotify.com/track/1nBqEg9NUvwh0D0xauvzy4) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Nya Skolans Ledare](https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ) | 1:49 |
 | 46 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
 | 47 | [Döden ut](https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Döden ut](https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ) | 3:39 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 70 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 |
 | 71 | [Stockholm är för stort](https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Stockholm är för stort](https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk) | 3:05 |
 | 72 | [Bakom molnen](https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Bakom molnen](https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o) | 3:02 |
-| 73 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
-| 74 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
+| 73 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
+| 74 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
 | 75 | [Dansa med mig själv](https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Dansa med mig själv](https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc) | 3:30 |
 | 76 | [KNOCKED DOWN](https://open.spotify.com/track/2fmFzhUmp5uMDbynpXWRpQ) | [Sebastian Lara](https://open.spotify.com/artist/1gK6bR7fr8AfgfdZfGPyB0) | [KNOCKED DOWN](https://open.spotify.com/album/5qNhnAH6Tg7n2BEA8EPGEt) | 3:02 |
 | 77 | [Det får världen aldrig veta](https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 2:31 |

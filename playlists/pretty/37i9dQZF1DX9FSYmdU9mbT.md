@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Djavan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,189 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,305 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 3 | [Quem de nós Dois \(La Mia Storia Tra Le Dita\)](https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Rita Joana Iracema Carolina](https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK) | 5:05 |
 | 4 | [Relicário \- Ao Vivo](https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:06 |
 | 5 | [Amigos Novos e Antigos](https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Amigos Novos e Antigos](https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms) | 4:36 |
-| 6 | [Samba De Verão](https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 3:07 |
-| 7 | [Não Sei Dançar](https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Lima](https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj) | 5:05 |
-| 8 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
+| 6 | [Não Sei Dançar](https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Lima](https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj) | 5:05 |
+| 7 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
+| 8 | [Samba De Verão](https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 3:07 |
 | 9 | [Se..\. \(Ao Vivo\)](https://open.spotify.com/track/5ZnmWmQB74hJ9geBL9bY3R) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:47 |
 | 10 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 |
 | 11 | [É Preciso Dar Um Jeito, Meu Amigo](https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:47 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 55 | [Entre a Serpente e a Estrela \- Ao Vivo](https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Zé Ramalho Na Paraíba \(Ao Vivo\)](https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA) | 3:33 |
 | 56 | [O Segundo Sol \(Turnê Jardim\-Pomar\) \[Ao Vivo em Porto Alegre\]](https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [O Segundo Sol \(Turnê Jardim\-Pomar\) \[Ao Vivo em Porto Alegre\]](https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm) | 4:13 |
 | 57 | [Samba do Grande Amor \- Ao Vivo](https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Que Tal Um Samba? \(Ao Vivo\)](https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO) | 2:50 |
-| 58 | [Canto de Ossanha](https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Os Primeiros Anos](https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC) | 2:02 |
-| 59 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
+| 58 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
+| 59 | [Canto de Ossanha](https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Os Primeiros Anos](https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC) | 2:02 |
 | 60 | [Paisagem da Janela \- Ao Vivo](https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tênis + Clube \- Ao Vivo No Circo Voador](https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ) | 3:12 |
 | 61 | [Casa No Campo \- Remastered 2021](https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis \(Remastered\)](https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je) | 2:51 |
 | 62 | [Sabiá \- Ao Vivo](https://open.spotify.com/track/629DheUXpR6hplX51EWdiw) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Caravanas Ao Vivo](https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 99 | [A História de Lilly Braun \- Ao Vivo no Coala Festival](https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A História de Lilly Braun \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv) | 4:26 |
 | 100 | [Toda Menina Baiana \- Ao Vivo](https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Especial Ivete, Gil E Caetano \(Ao Vivo No Projac, Rio De Janeiro / 2011\)](https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc) | 3:22 |
 
-Snapshot ID: `AAAAALZas3HtHP585iEVYKtAHEiRfYe4`
+Snapshot ID: `AAAAAGozxVez+y9bj5tM7NsV0UZ8yJ1w`

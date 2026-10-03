@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,001 likes - 46 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,002 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 28 | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC) | 8:14 |
 | 29 | [Sweetest Waste Of Time](https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:57 |
 | 30 | [The Divorce Song](https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 2:58 |
-| 31 | [I Still Pray](https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 4:31 |
-| 32 | [If We Had a Child \(with Keith Urban\)](https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:40 |
+| 31 | [If We Had a Child \(with Keith Urban\)](https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:40 |
+| 32 | [I Still Pray](https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 4:31 |
 | 33 | [The Quiet Life](https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:35 |
 | 34 | [When We’re Both Old & Mad](https://open.spotify.com/track/4dx684GtAUi86s1bzstO65) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Songs From The South: Paul Kelly's Greatest Hits 1985\-2019](https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a) | 2:22 |
-| 35 | [Don't Talk Back](https://open.spotify.com/track/3nbLqPi1GaCBnfkDls0013) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:48 |
-| 36 | [Hey \(with Paul Kelly\)](https://open.spotify.com/track/3XnN1OhwOLTYjDB1UR3Sx8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:07 |
+| 35 | [Hey \(with Paul Kelly\)](https://open.spotify.com/track/3XnN1OhwOLTYjDB1UR3Sx8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:07 |
+| 36 | [Don't Talk Back](https://open.spotify.com/track/3nbLqPi1GaCBnfkDls0013) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:48 |
 | 37 | [Bluebird](https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:05 |
 | 38 | [Freight Train](https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU) | 2:46 |
 | 39 | [Beautiful Mess](https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:14 |
@@ -53,6 +53,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 43 | [Luka](https://open.spotify.com/track/6JlFTEQrVMz4uVDfhVk2gk) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 3:33 |
 | 44 | [Wayward Angel](https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 5:00 |
 | 45 | [A Love Like Springsteen](https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:40 |
-| 46 | [Arlo](https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:25 |
 
-Snapshot ID: `arxRAAAAAAA6zBYQnmCiZ+GadiukcxFt`
+Snapshot ID: `ar2igAAAAABf1G5QxcEfAu9OHPO5apXD`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 featuring HAL\u014c",
+  "description": "Home is where the main stage is \ud83d\udc99\ud83d\udc99 featuring Martin Garrix",
   "name": "EDM 2026",
   "tracks": [
     {
@@ -3308,7 +3308,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 210000,
       "name": "CLARITY",
       "url": "https://open.spotify.com/track/2pPLYNcDIezI2rgtLy7UCi"
@@ -4778,6 +4778,28 @@
       "duration_ms": 192470,
       "name": "Down",
       "url": "https://open.spotify.com/track/3E7NvHQfe0GNagcVW3fzlm"
+    },
+    {
+      "album": {
+        "name": "Dramma",
+        "url": "https://open.spotify.com/album/0fqD0NWfRlK9GMa6CwxgSF"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209463,
+      "name": "Dramma",
+      "url": "https://open.spotify.com/track/1eUxAz48txalzffXUUdTtr"
     },
     {
       "album": {
@@ -6281,6 +6303,28 @@
     },
     {
       "album": {
+        "name": "Find My Light",
+        "url": "https://open.spotify.com/album/4DRlmxeGvrUOvYChJRgclL"
+      },
+      "artists": [
+        {
+          "name": "Nil Martorell",
+          "url": "https://open.spotify.com/artist/1JJhMriYbHMseShsl4OM8t"
+        },
+        {
+          "name": "John White",
+          "url": "https://open.spotify.com/artist/1UVoyard7BA5KdbK6JdTPx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201562,
+      "name": "Find My Light",
+      "url": "https://open.spotify.com/track/29Bpgc0EKxU2QJcURnlxC2"
+    },
+    {
+      "album": {
         "name": "Fire (Official UEFA EURO 2024 Song)",
         "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
       },
@@ -6796,7 +6840,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 185538,
       "name": "Forever",
       "url": "https://open.spotify.com/track/67rhowGXT0Ivhje7optNDe"
@@ -7941,6 +7985,32 @@
     },
     {
       "album": {
+        "name": "Hard To be Around",
+        "url": "https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        },
+        {
+          "name": "Cleopard2000",
+          "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176223,
+      "name": "Hard To be Around",
+      "url": "https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"
+    },
+    {
+      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/0CnwOtw9uDFMQyGkg71jdk"
       },
@@ -8294,6 +8364,28 @@
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "album": {
+        "name": "Heavenbound",
+        "url": "https://open.spotify.com/album/2390ZFxnBvQC1HTnItMdil"
+      },
+      "artists": [
+        {
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Heavenbound",
+      "url": "https://open.spotify.com/track/65TZ3FJKohRKiVp0x42NRQ"
     },
     {
       "album": {
@@ -10878,7 +10970,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 194307,
       "name": "Let Loose",
       "url": "https://open.spotify.com/track/2zJj9ajxjEgKfpE80XoO4N"
@@ -12868,7 +12960,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 168750,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF"
@@ -16406,7 +16498,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 180451,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/7Bu1buLfokdnTdpVaGWne0"
@@ -20424,6 +20516,24 @@
       "duration_ms": 150962,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue"
+    },
+    {
+      "album": {
+        "name": "This Dream of You",
+        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286406,
+      "name": "This Dream of You",
+      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
     },
     {
       "album": {

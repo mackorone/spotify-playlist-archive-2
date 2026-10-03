@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-906 songs - 1 day 21 hr 4 min
+907 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Feelings Fade](https://open.spotify.com/track/0waYUrVgNfMbrIpImHgKg9) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Wwings](https://open.spotify.com/artist/3tqTQFEyGKpdsDZjlxjyqS) | [Feelings Fade](https://open.spotify.com/album/3Rmh9O67BIF8Y86djdKFSa) | 3:02 | 2025-01-31 |  |
 | [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 | 2024-03-15 | 2024-09-29 |
 | [fellshortofhell](https://open.spotify.com/track/2KjDKp62UZWGYjLxM9Cczk) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [fellshortofhell](https://open.spotify.com/album/6j3akUEBjgbtcBqPmNRYgS) | 2:49 | 2025-04-22 |  |
+| [Fight In Me](https://open.spotify.com/track/0vFUxkeaKb4HxXIelQYGiN) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [Fight In Me](https://open.spotify.com/album/7JTp2khsUq9awc6jKMH8mV) | 3:12 | 2026-10-02 |  |
 | [Fighting Inside](https://open.spotify.com/track/5CMckaGgXeAK21PO1GbXFs) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Fighting Inside](https://open.spotify.com/album/1btvMyRjDakN00uJOOZU1V) | 2:32 | 2023-12-13 | 2024-03-22 |
 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 | 2023-08-10 |
 | [fired up](https://open.spotify.com/track/5QLnmfHwjOt4krkauOeBo0) | [jonty](https://open.spotify.com/artist/6YJHE94iyYJhyxsg8QKXT2) | [fired up](https://open.spotify.com/album/2HsiWbkvAdt58XPw4oL6om) | 2:30 | 2026-09-18 |  |

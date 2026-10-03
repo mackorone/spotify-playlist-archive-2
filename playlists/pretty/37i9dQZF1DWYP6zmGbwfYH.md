@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 
 > Tallando, bailando y cantando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,446 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,573 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 |
 | 2 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
 | 3 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
-| 4 | [Sé Que Te Amo](https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Una Lágrima No Basta](https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He) | 4:06 |
-| 5 | [Como Una Novela](https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Intimidades](https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39) | 3:46 |
+| 4 | [Como Una Novela](https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Intimidades](https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39) | 3:46 |
+| 5 | [Sé Que Te Amo](https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Una Lágrima No Basta](https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He) | 4:06 |
 | 6 | [Amor Prohibido](https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Por El Amor](https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX) | 3:49 |
 | 7 | [Ese Loco Soy Yo](https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Directo Al Corazón](https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe) | 4:40 |
 | 8 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 41 | [Encadenada A Mi \- Cumbia](https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:49 |
 | 42 | [La Burbuja](https://open.spotify.com/track/1sk0LP75QkHk9xCgBQiA82) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [La Burbuja](https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y) | 3:18 |
 | 43 | [Ilusión](https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H) | [Cuerdas De Venezuela](https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy) | [Ilusión y Más Ilusión](https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9) | 2:57 |
-| 44 | [Te Amo](https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [21 Black Jack](https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms) | 2:57 |
-| 45 | [Negra Ron y Velas](https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI) | [Morgan Blanco](https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w) | [Negra Ron y Velas](https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD) | 4:36 |
+| 44 | [Negra Ron y Velas](https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI) | [Morgan Blanco](https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w) | [Negra Ron y Velas](https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD) | 4:36 |
+| 45 | [Te Amo](https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [21 Black Jack](https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms) | 2:57 |
 | 46 | [TRR TAC TAC](https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h) | [TRR TAC TAC](https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT) | 3:07 |
 | 47 | [Te Quiero A Tí](https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Amor, Familia Y Respeto](https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ) | 3:14 |
-| 48 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 |
-| 49 | [El cafetero](https://open.spotify.com/track/2p0dAybBIdHwLEizVAz4ql) | [Los Guacharacos de Colombia](https://open.spotify.com/artist/5ebyRyRMat0MDvrmIwh1ow) | [Peerless 80 Aniversario \- 24 Cumbias Pa' Bailar](https://open.spotify.com/album/2gZbn5CcZQ0mny27gbV8Ve) | 2:41 |
+| 48 | [El cafetero](https://open.spotify.com/track/2p0dAybBIdHwLEizVAz4ql) | [Los Guacharacos de Colombia](https://open.spotify.com/artist/5ebyRyRMat0MDvrmIwh1ow) | [Peerless 80 Aniversario \- 24 Cumbias Pa' Bailar](https://open.spotify.com/album/2gZbn5CcZQ0mny27gbV8Ve) | 2:41 |
+| 49 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 |
 | 50 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 |
 | 51 | [Cómo Me Duele Amor](https://open.spotify.com/track/0yrIXInoV5XQU3k7BFEZSQ) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:10 |
 | 52 | [Nuestra Pobreza](https://open.spotify.com/track/3jRkFiUmUKlF0jMzI2NMc6) | [Joe Rodriguez](https://open.spotify.com/artist/72OLjE8BPRg2SZOeGjV2PW) | [Pídeme](https://open.spotify.com/album/1RrDX24HHQ1d8kpg2urVZM) | 3:19 |

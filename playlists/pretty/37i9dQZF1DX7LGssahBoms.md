@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 
 > Le meilleur des années 70 en 70 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,400 likes - 70 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,412 likes - 70 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 40 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 41 | [Don't Leave Me This Way](https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx) | 3:37 |
 | 42 | [Every Kinda People](https://open.spotify.com/track/38E7U60ipLSTVDcPIuVzZw) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Double Fun](https://open.spotify.com/album/3eGG3yU4bnmBK7TfFWa15y) | 3:18 |
-| 43 | [Pour un flirt](https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Pour Un Flirt \- Vol.1](https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71) | 3:26 |
-| 44 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/1ZA8L9IOkRhmmz4nPXXx7h) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Complete Greatest Hits \(2013 Remaster\)](https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b) | 6:31 |
+| 43 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/1ZA8L9IOkRhmmz4nPXXx7h) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Complete Greatest Hits \(2013 Remaster\)](https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b) | 6:31 |
+| 44 | [Pour un flirt](https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Pour Un Flirt \- Vol.1](https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71) | 3:26 |
 | 45 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
 | 46 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 |
 | 47 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu de l'extérieur](https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At) | 3:23 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 65 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 | 66 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 |
 | 67 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
-| 68 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/1AhDOtG9vPSOmsWgNW0BEY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO) | 5:54 |
-| 69 | [Sultans Of Swing](https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits \(Remastered\)](https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX) | 5:48 |
+| 68 | [Sultans Of Swing](https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits \(Remastered\)](https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX) | 5:48 |
+| 69 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/1AhDOtG9vPSOmsWgNW0BEY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO) | 5:54 |
 | 70 | [I Was Made For Lovin' You](https://open.spotify.com/track/2ZSCy3P1QzpJySCWA6NRIU) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty \(Remastered Version\)](https://open.spotify.com/album/3vasiwx11ruCgyn54MBJYL) | 4:31 |
 
 Snapshot ID: `AAAAAMii4M4Or71BAhXAG71CbCawvPsB`

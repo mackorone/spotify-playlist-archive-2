@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483784,
+  "num_followers": 483771,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Stranger (Mariachi)",
         "url": "https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 204626,
       "name": "Stranger - Mariachi",
       "url": "https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
     },
     {
       "added_at": "2026-09-17 14:00:53",

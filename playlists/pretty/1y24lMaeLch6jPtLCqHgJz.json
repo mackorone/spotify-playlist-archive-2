@@ -1,12 +1,12 @@
 {
   "description": "best festival music - summer festival - best festivals - festival summer - mainstage music - tomorrowland festival - awakenings festival - zomer festivals - festival vibes",
-  "num_followers": 85562,
+  "num_followers": 85560,
   "original_name": "Summer Festival 2026 \ud83d\udca5 Festival Summer Music",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAAM8U/RCtMMLY1Do7cTP4r3UQP+8mO2",
+  "snapshot_id": "AAAM9b5OIgaBl8EV6a/9weuKMja0/T7D",
   "tracks": [
     {
       "added_at": "2026-10-01 14:57:12",
@@ -79,6 +79,38 @@
       "duration_ms": 145278,
       "name": "Surrender To The Madness",
       "url": "https://open.spotify.com/track/6h5bkCLzuqmsgX4ARzswbo"
+    },
+    {
+      "added_at": "2026-10-02 09:37:58",
+      "album": {
+        "name": "Pillars of Light",
+        "url": "https://open.spotify.com/album/0sM8lwcU0NY0ToHGztjU3I"
+      },
+      "artists": [
+        {
+          "name": "C-Systems",
+          "url": "https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Pillars of Light",
+      "url": "https://open.spotify.com/track/1GOqSoJvLRc9PGvBhWCgRV"
+    },
+    {
+      "added_at": "2026-10-02 07:25:16",
+      "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/2YXfiy1aLXEorGVokUw5hi"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 150410,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/6ldE1maDt5nGQ41Sh7BviE"
     },
     {
       "added_at": "2026-10-01 14:57:12",
@@ -2435,42 +2467,6 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2026-10-01 14:57:12",
-      "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2026-10-01 14:57:12",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/4PzGhQX3OK44wGxsZVZVUE"
-      },
-      "artists": [
-        {
-          "name": "Pithman",
-          "url": "https://open.spotify.com/artist/102gEOw4rXYB94Y1yUz7fe"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4cGJHruHEYC1J52Nr0v2H5"
     }
   ],
   "unique_name": "Summer Festival 2026 \ud83d\udca5 Festival Summer Music",

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-536 songs - 1 day 4 hr 30 min
+537 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 | 2024-07-26 |  |
 | [Gets Like That](https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [The Finest EP](https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve) | 2:49 | 2025-09-26 |  |
 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 | 2026-05-15 |  |
-| [Girl](https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Girl](https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT) | 3:13 | 2026-05-29 |  |
+| [Girl](https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Girl](https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT) | 3:13 | 2026-05-29 | 2026-10-03 |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-07-09 |  |
 | [Give It All Now](https://open.spotify.com/track/0DagTSqkS7UIYWJFBN1Up1) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Give It All Now](https://open.spotify.com/album/70R5M4X86EDmrRL9jkSEhB) | 3:16 | 2022-03-25 | 2022-07-16 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-26 |  |
@@ -260,6 +260,7 @@
 | [Jolie Fille](https://open.spotify.com/track/3pyPyRSFvIOMNS3S2CeMDB) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille](https://open.spotify.com/album/7x1lI7V6hPlNkQtcuRCrnV) | 3:14 | 2024-11-22 | 2025-06-08 |
 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 | 2023-03-31 | 2023-04-29 |
 | [Just a Dream](https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Just a Dream](https://open.spotify.com/album/7GuDH0XJmTsFJMAQ1ywTfz) | 2:29 | 2021-10-29 | 2022-03-26 |
+| [Just A Little Bit More](https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Just A Little Bit More](https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC) | 3:34 | 2026-10-02 |  |
 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 | 2026-02-06 |  |
 | [Kalabancoro](https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Kalabancoro](https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6) | 3:06 | 2025-08-15 | 2025-12-13 |
 | [Karibu](https://open.spotify.com/track/38FWbKB13dMOGf2oJhSZ10) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/400Ymai2y2a12EvkEUEx7p) | 4:02 | 2026-05-15 | 2026-05-18 |

@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Devon Gilfillian
 
-517 songs - 1 day 6 hr 9 min
+518 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Mood](https://open.spotify.com/track/1i29QJiUT65rVEiibSJCVr) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF), [Velvet Vibrations](https://open.spotify.com/artist/7w6qQs086ApwY9eAGEIzGV) | [Home Is No Place For A Riot](https://open.spotify.com/album/69zrewrJrgNJOEEMVKqPtT) | 2:52 | 2026-05-22 |  |
 | [Moonlight](https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Moonlight](https://open.spotify.com/album/4peKAwsBT7Tct2QcZqAXtG) | 3:25 | 2021-06-18 | 2022-01-29 |
 | [more than a Luva](https://open.spotify.com/track/3aJXEytbdB7YPYKnGD2io5) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [more than a Luva](https://open.spotify.com/album/3qbXSocni3gE2JTOUGRcQ2) | 3:00 | 2025-06-13 |  |
-| [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 | 2024-01-12 |  |
+| [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 | 2024-01-12 | 2026-10-03 |
 | [Move Your Body](https://open.spotify.com/track/1ykn3V2Mv2JhE8dkDAbWji) | [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Move Your Body](https://open.spotify.com/album/2bI85Cz6myN5xQxM31bfvg) | 1:38 | 2024-08-16 | 2026-06-27 |
 | [Movin' Nowhere](https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [Movin' Nowhere](https://open.spotify.com/album/7pHcGqCRiK9o9iewDsgvkk) | 4:19 | 2022-03-25 | 2023-03-04 |
 | [My Big Day Off](https://open.spotify.com/track/6natNsxOUP1d2LRzT7psRh) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr) | [My Big Day Off](https://open.spotify.com/album/3wfcoCMznCp2ucwpVhHD51) | 3:08 | 2025-08-29 |  |
@@ -463,6 +463,7 @@
 | [To The Death](https://open.spotify.com/track/2q6ufQzqSn4Cr26hJhvQiW) | [DK the Drummer](https://open.spotify.com/artist/0idL9ZMTGh1E5UqxgQKAEe), [Jessy Wilson](https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [To The Death](https://open.spotify.com/album/4UAMvlxdpmvec0fQMEh4J5) | 3:50 | 2022-10-28 | 2023-04-29 |
 | [TOGETHER \(With Devon Gilfillian\)](https://open.spotify.com/track/4U7WNGITP6pP6xahNsvzaI) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [TOGETHER \(With Devon Gilfillian\)](https://open.spotify.com/album/5ucp6xSvkJMNfwRT9Sc5Uh) | 3:27 | 2025-01-31 |  |
 | [Too Much Redbone](https://open.spotify.com/track/7wx4ytRBrhqBxGgci6f4Tl) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Too Much Redbone](https://open.spotify.com/album/2NMBNG4RPq85eMItMjQqfc) | 3:05 | 2025-08-01 |  |
+| [Treat You Better](https://open.spotify.com/track/2TiFZSL6z8aJShLVj7h7bX) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Good as Gone](https://open.spotify.com/album/1rsYbbNufqOu0l5PskqdMV) | 3:17 | 2026-10-02 |  |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-10 |  |
 | [Trust Me](https://open.spotify.com/track/07o395Wrt3pGfyh7ZWFrCz) | [Sly Johnson](https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7) | [Trust Me](https://open.spotify.com/album/0O0PG52c1uvXqPJdxjAEpX) | 3:05 | 2022-02-25 | 2022-11-26 |
 | [Try \(Rework\)](https://open.spotify.com/track/6QlbAS3CdT8IgvFMUs5A04) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2), [The Wildcardz](https://open.spotify.com/artist/5pcPCj25V5zH3ly8v6JF8L), [SoundKid](https://open.spotify.com/artist/2hMyfhXffc8i7BJjZHZWvt) | [Try \(Rework\)](https://open.spotify.com/album/6tg2NnY0qWlPW5Z6w3Jxrg) | 3:06 | 2023-08-11 | 2026-05-16 |

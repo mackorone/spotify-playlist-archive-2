@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,584 likes - 348 songs - 21 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,587 likes - 347 songs - 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -347,14 +347,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Unstoppable \(Winner\)](https://open.spotify.com/track/5REbtP9VVeEZjbtoPfZKi5) | [Nicholson](https://open.spotify.com/artist/7ak5W5CiG11tI24HVUJlqw), [Elle Mariachi](https://open.spotify.com/artist/16GJH7ZlDVulpvX4jJrnfY) | [Unstoppable \(Winner\)](https://open.spotify.com/album/0Q4LMMEqjbYBamGbs9ovbE) | 3:48 |
 | 338 | [Losing You](https://open.spotify.com/track/5SZuPkpxwgoP2pgxI76Z6Y) | [Love Hits](https://open.spotify.com/artist/4OGYWMUEByPvHnXdjSVDhB) | [Love Songs Now](https://open.spotify.com/album/6xZy4c6pJEqnQaXbHUI108) | 3:00 |
 | 339 | [Blame It On the Radio](https://open.spotify.com/track/0FS4cFiS05fzihSTZy4Xej) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost](https://open.spotify.com/album/1cOQ4Jc5MCUMvycbFCl5Si) | 2:30 |
-| 340 | [Up](https://open.spotify.com/track/2DmrjeW34yN2azsE2Xwj1p) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [B\. R\. Gunna](https://open.spotify.com/artist/6YIllbHGkgifcCut5A6Nrl), [Fat Ray](https://open.spotify.com/artist/7tjfWNXhMsf8G6WosK2hy2) | [Prequel to a Classic](https://open.spotify.com/album/7dSFl29aOSj3rq0fiBH2R5) | 2:47 |
-| 341 | [Text Me Back](https://open.spotify.com/track/0SEA2Tin86daYsOzXTGmsQ) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [TQX](https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38), [KOOL A.D.](https://open.spotify.com/artist/6Xnvmw6KieZ1nVs0YdWemQ) | [Global Intimacy](https://open.spotify.com/album/6vRNDhVToXjZbxKyyIajWM) | 3:25 |
-| 342 | [You Lost Me](https://open.spotify.com/track/0lYyvXtcfPP8oA51fsQ85J) | [Liv Skotte](https://open.spotify.com/artist/2BdJOtQ2kOCA2KA9H7lHQA) | [Voice \- Live Show 18\. Feb\. 2012 \(Danmarks Største Stemme fra TV2\)](https://open.spotify.com/album/179MAVuEp3ztrlTt9kJXC4) | 4:14 |
-| 343 | [Utopia](https://open.spotify.com/track/6jqRMsjU5Aoxf7phpqu2YT) | [Mitchell Solaris](https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU) | [Zen Meditation 101 \- Tibetan Healing Music with Nature Sounds for Yoga Poses](https://open.spotify.com/album/3gqPrJov5KKj0fqu66yr1w) | 4:07 |
-| 344 | [Jazz Epidural](https://open.spotify.com/track/1JPMUm78VLvKqO4EkQq18W) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 3:23 |
-| 345 | [Lift Up Your Voices](https://open.spotify.com/track/2DxYmQ3yRAk2B3iBRJCX1p) | [eKbeats](https://open.spotify.com/artist/1gpShRgOkgvzSV822BqQ50) | [CLOSER](https://open.spotify.com/album/6EAEGDwehEIyypaPRcxKLN) | 3:36 |
-| 346 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
-| 347 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
-| 348 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
+| 340 | [Text Me Back](https://open.spotify.com/track/0SEA2Tin86daYsOzXTGmsQ) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [TQX](https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38), [KOOL A.D.](https://open.spotify.com/artist/6Xnvmw6KieZ1nVs0YdWemQ) | [Global Intimacy](https://open.spotify.com/album/6vRNDhVToXjZbxKyyIajWM) | 3:25 |
+| 341 | [You Lost Me](https://open.spotify.com/track/0lYyvXtcfPP8oA51fsQ85J) | [Liv Skotte](https://open.spotify.com/artist/2BdJOtQ2kOCA2KA9H7lHQA) | [Voice \- Live Show 18\. Feb\. 2012 \(Danmarks Største Stemme fra TV2\)](https://open.spotify.com/album/179MAVuEp3ztrlTt9kJXC4) | 4:14 |
+| 342 | [Utopia](https://open.spotify.com/track/6jqRMsjU5Aoxf7phpqu2YT) | [Mitchell Solaris](https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU) | [Zen Meditation 101 \- Tibetan Healing Music with Nature Sounds for Yoga Poses](https://open.spotify.com/album/3gqPrJov5KKj0fqu66yr1w) | 4:07 |
+| 343 | [Jazz Epidural](https://open.spotify.com/track/1JPMUm78VLvKqO4EkQq18W) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 3:23 |
+| 344 | [Lift Up Your Voices](https://open.spotify.com/track/2DxYmQ3yRAk2B3iBRJCX1p) | [eKbeats](https://open.spotify.com/artist/1gpShRgOkgvzSV822BqQ50) | [CLOSER](https://open.spotify.com/album/6EAEGDwehEIyypaPRcxKLN) | 3:36 |
+| 345 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
+| 346 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
+| 347 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Acd0BAAAAAANUGJGUx9AK49gKtvaKqD9`
+Snapshot ID: `Acd5pAAAAAC0LEwQyZ5enTuK0HVUrYYo`

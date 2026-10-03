@@ -4,7 +4,7 @@
 
 > All the biggest House &amp; Tech House anthems of right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-358 songs - 18 hr 16 min
+359 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Wave ‘Em](https://open.spotify.com/track/0raEM5xv4RbVdXrKAQ5CnY) | [ZOFIA](https://open.spotify.com/artist/3mHYYxXJzjhq07Su3sYMvl) | [Wave ‘Em](https://open.spotify.com/album/3pE0Ehc8UXEZAk4E4bncgt) | 2:29 | 2026-03-06 | 2026-08-08 |
 | [Weekend](https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Weekend](https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND) | 3:16 | 2025-07-11 | 2026-01-24 |
 | [Werk It](https://open.spotify.com/track/15tNFHKEeHrVbcuzeLpV6d) | [Sam Frandisco](https://open.spotify.com/artist/2B9jyxYt9jWkqKTCJrVoz7), [Yomanda](https://open.spotify.com/artist/1PyczlWcgtczHvUkXtUFdL) | [Werk It](https://open.spotify.com/album/4PS2Ljot5CJDGmLdEGNjXo) | 2:29 | 2026-09-11 |  |
+| [What's Up Man](https://open.spotify.com/track/0QjUi7OgEddMwqR79bZeDz) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD), [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [What's Up Man](https://open.spotify.com/album/4IRi9QOKNsIN0a3e8ptueZ) | 2:54 | 2026-10-02 |  |
 | [WHAT?!](https://open.spotify.com/track/7s3T3e0lbzV4l7i4F7JVmp) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [WHAT?!](https://open.spotify.com/album/3UjpGkt987CyttBrXfKy4U) | 2:55 | 2026-01-23 | 2026-07-04 |
 | [Whatcha Do To Me](https://open.spotify.com/track/2B6NPa5xN0ktAoEFXC7Ar9) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Whatcha Do To Me](https://open.spotify.com/album/1FPuoX8VWiPV0p1iUYkgU5) | 4:22 | 2026-04-24 | 2026-09-26 |
 | [Whisper](https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Whisper](https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu) | 2:34 | 2026-07-10 |  |

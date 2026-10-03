@@ -44484,7 +44484,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -44502,7 +44502,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -48208,6 +48208,24 @@
       "duration_ms": 182326,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/3yw3m8wgRB4ptDyAvtdhq5"
+    },
+    {
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
     },
     {
       "album": {
@@ -52988,7 +53006,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

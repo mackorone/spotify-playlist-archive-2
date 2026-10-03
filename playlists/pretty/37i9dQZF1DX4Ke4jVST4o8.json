@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 11652,
+  "num_followers": 11706,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Get It Started (feat. Shakira)",
-        "url": "https://open.spotify.com/album/78yPCn5PoKJLrIV8DtLLnc"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "Get It Started (feat. Shakira)",
-      "url": "https://open.spotify.com/track/3JNqJPbbS1KhVzStLyxw1h"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Club Life: Vol. Two Miami",
         "url": "https://open.spotify.com/album/2BwI9hLyadMsWhWNVCkQMO"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 273095,
       "name": "Somebody I Used to Know - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/013CED9qUgt808UQr9jSPm"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Get It Started (feat. Shakira)",
+        "url": "https://open.spotify.com/album/78yPCn5PoKJLrIV8DtLLnc"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "Get It Started (feat. Shakira)",
+      "url": "https://open.spotify.com/track/3JNqJPbbS1KhVzStLyxw1h"
     },
     {
       "added_at": "2022-10-14 00:00:00",

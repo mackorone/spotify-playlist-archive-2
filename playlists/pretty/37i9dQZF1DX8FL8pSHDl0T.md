@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 
 > Experience the world of STEINS;GATE from video game to TV anime series.\(C\)2009 MAGES./5pb./Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,747 likes - 44 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,763 likes - 44 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [あなたの選んだこの時を](https://open.spotify.com/track/1re8Akpjx9FipWCXgaF7TV) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [劇場版「STEINS;GATE 負荷領域のデジャヴ」主題歌 「あなたの選んだこの時を」](https://open.spotify.com/album/4ZnU4rnMW5gJnCa8RwWQl5) | 5:08 |
-| 2 | [ファティマ](https://open.spotify.com/track/4UPR9dSw2YcvJQAGJKPwCk) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [ファティマ\(TVアニメ「シュタインズ・ゲート ゼロ」OPテーマ\)](https://open.spotify.com/album/6mZ8853alvt0kdi2zNvMEV) | 4:06 |
+| 2 | [ファティマ](https://open.spotify.com/track/4UPR9dSw2YcvJQAGJKPwCk) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [ファティマ\(TVアニメ「シュタインズ･ゲート ゼロ」OPテーマ\)](https://open.spotify.com/album/6mZ8853alvt0kdi2zNvMEV) | 4:06 |
 | 3 | [スカイクラッドの観測者](https://open.spotify.com/track/3Y0W7Lxg1X4cbyvtmdCHzL) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [ChaosAttractor](https://open.spotify.com/album/0yHtsepi9vEUIxuHq5ohz7) | 4:35 |
 | 4 | [萌える世界の幻想譚](https://open.spotify.com/track/6cNj8d9bP7otNUQjQ5Znbj) | [橋田 至（cv.関智一）](https://open.spotify.com/artist/2MVVY12TKfpKBwWnRPKJXt) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:38 |
 | 5 | [Hacking to the Gate](https://open.spotify.com/track/78dl9lfz8vogpSxpdpWQdl) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [TVアニメ『シュタインズ・ゲート』OPテーママキシシングル「Hacking to the Gate」](https://open.spotify.com/album/3dQ3C0NOeMqQT3mwWVivM2) | 4:16 |

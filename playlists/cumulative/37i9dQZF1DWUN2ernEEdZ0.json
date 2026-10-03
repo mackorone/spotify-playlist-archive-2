@@ -3347,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "The Summer Portraits Live",
+        "url": "https://open.spotify.com/album/6x9gU8omObgITmlcibydZf"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357760,
+      "name": "I Giorni - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/0S3xSShLQ4t6QTnW182qfb"
+    },
+    {
+      "album": {
         "name": "Felix Woyrsch: Sanktus (from: Symphony No. 6 in C major, Op. 77)",
         "url": "https://open.spotify.com/album/7aXstBzqtPwFadVOZPOuEb"
       },
@@ -9098,6 +9116,44 @@
       "duration_ms": 353440,
       "name": "Tsohle Tsohle",
       "url": "https://open.spotify.com/track/6fPJv5AOm392XonIGAzr9C"
+    },
+    {
+      "album": {
+        "name": "Nessun Dorma!",
+        "url": "https://open.spotify.com/album/0YgSDvOZVDiq5lNBgG96PN"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "John Alldis Choir",
+          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+        },
+        {
+          "name": "Wandsworth School Boys Choir",
+          "url": "https://open.spotify.com/artist/3Al8lu5X4j3QY40s4OIawp"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181360,
+      "name": "Turandot, Act III: Nessun dorma!",
+      "url": "https://open.spotify.com/track/31SMCqcq00FPi7vAovLl7d"
     },
     {
       "album": {

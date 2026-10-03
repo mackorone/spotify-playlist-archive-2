@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De la Calle a la Cima con Feid.",
+  "description": "De la Calle a la Cima con De La Ghetto y Yandel.",
   "name": "MANSI\u00d3N REGGAET\u00d3N",
   "tracks": [
     {
@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Alg\u00fan D\u00eda",
+        "url": "https://open.spotify.com/album/4u6qq4hzHJRdRTBzHpkjH8"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189397,
+      "name": "Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/1xsCN4M0pvYi0CkwxTUC0D"
+    },
+    {
+      "album": {
         "name": "ALMAS GEMELAS",
         "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
       },
@@ -856,7 +878,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 206621,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/0eIORudF8TZvkZO3yWhRW4"
@@ -2200,7 +2222,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 173694,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz"
@@ -2739,6 +2761,36 @@
     },
     {
       "album": {
+        "name": "Como hac\u00edas conmigo",
+        "url": "https://open.spotify.com/album/0NGJN4FzzvpEJsbrsZh4pm"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242727,
+      "name": "Como hac\u00edas conmigo",
+      "url": "https://open.spotify.com/track/5K8WJAQl2xVCfsCzjjpC4I"
+    },
+    {
+      "album": {
         "name": "COMO OREO",
         "url": "https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd"
       },
@@ -2828,7 +2880,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 194245,
       "name": "Con Amor",
       "url": "https://open.spotify.com/track/21GPNZIGbUK9OF7DtcOUzq"
@@ -7508,7 +7560,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 194250,
       "name": "Lady Night",
       "url": "https://open.spotify.com/track/0a1zVbAhcSXby7OoSHJGBo"
@@ -9703,6 +9755,24 @@
     },
     {
       "album": {
+        "name": "No Me Suman",
+        "url": "https://open.spotify.com/album/5ulvNgx5AklRdc42BJljP0"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158859,
+      "name": "No Me Suman",
+      "url": "https://open.spotify.com/track/23M9h0b9WvF3NC9ZgT0qB4"
+    },
+    {
+      "album": {
         "name": "No Pinto Pajaritos",
         "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
       },
@@ -9894,7 +9964,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 167106,
       "name": "NOTA",
       "url": "https://open.spotify.com/track/7zCBT5SUMOHkuUnTZHyNQC"
@@ -10856,6 +10926,28 @@
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
+    },
+    {
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187940,
+      "name": "PENXAMIENTOS DE MADRUGADA",
+      "url": "https://open.spotify.com/track/5rWyF3zS53QMc9Jymh79lP"
     },
     {
       "album": {
@@ -13496,6 +13588,36 @@
       "duration_ms": 188733,
       "name": "Siente El Boom",
       "url": "https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy"
+    },
+    {
+      "album": {
+        "name": "Sin Hueso",
+        "url": "https://open.spotify.com/album/7JxWTdCQhDZR0NhzH8jyj8"
+      },
+      "artists": [
+        {
+          "name": "Perro Negro",
+          "url": "https://open.spotify.com/artist/2rIeXiq0ji7G9VbW9eaBpN"
+        },
+        {
+          "name": "TURY",
+          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185567,
+      "name": "Sin Hueso",
+      "url": "https://open.spotify.com/track/5sEXraPvJsyRHae9cNfNAW"
     },
     {
       "album": {

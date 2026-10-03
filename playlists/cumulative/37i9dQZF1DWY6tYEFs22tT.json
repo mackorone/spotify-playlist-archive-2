@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Kardinal Offishall, Travis Scott, Yeat, and Drake.",
+  "description": "Today's Hip-Hop with Quavo, Drake, Yung Miami, Travis Scott, and Yeat.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -316,6 +316,24 @@
       "duration_ms": 242000,
       "name": "2004 - feat. buddy & the gang",
       "url": "https://open.spotify.com/track/53TwJxoz2dCjrfRYZJAIaQ"
+    },
+    {
+      "album": {
+        "name": "2008",
+        "url": "https://open.spotify.com/album/053G7DllNKe9rlc01DaKiQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/211K8IAEPeVhuPxA1CWHCF"
     },
     {
       "album": {
@@ -2576,6 +2594,28 @@
       "duration_ms": 178041,
       "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
       "url": "https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx"
+    },
+    {
+      "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149159,
+      "name": "BA (feat. Future)",
+      "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
     },
     {
       "album": {
@@ -6052,7 +6092,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 114594,
       "name": "Cheat Code (Follow Me)",
       "url": "https://open.spotify.com/track/1zMC68MhT4X7Mn6jVJslMB"
@@ -7898,7 +7938,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 168865,
       "name": "DIFFERENCE [Feat. Yebba]",
       "url": "https://open.spotify.com/track/2o0quqVps5WtMhiuzswkV1"
@@ -9346,7 +9386,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 136333,
       "name": "Ever Since U Left Me (I Went Deaf)",
       "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
@@ -12194,6 +12234,24 @@
       "duration_ms": 188600,
       "name": "girl, get up. (feat. SZA)",
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
+    },
+    {
+      "album": {
+        "name": "GIRLS GIRL",
+        "url": "https://open.spotify.com/album/1M2ZRsaDrBIzUTFLEMh7dJ"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124333,
+      "name": "GIRLS GIRL",
+      "url": "https://open.spotify.com/track/73qHZ9ewdMNB0lWbt81xEN"
     },
     {
       "album": {
@@ -16978,7 +17036,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 244280,
       "name": "Last Man Breathin",
       "url": "https://open.spotify.com/track/0yr6Sa2SLF4g6PTT3T3UkL"
@@ -19772,7 +19830,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 217215,
       "name": "MORNING DEW (DONK) REMIX FEAT JA\u0178-Z",
       "url": "https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw"
@@ -20594,7 +20652,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 143450,
       "name": "Negative",
       "url": "https://open.spotify.com/track/0RDb7mW6zljLNIzWwPbso9"
@@ -21302,6 +21360,28 @@
       "duration_ms": 165392,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/34cEqOnaJRikAuS8fijvZk"
+    },
+    {
+      "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7"
+      },
+      "artists": [
+        {
+          "name": "ICXN",
+          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184335,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
     },
     {
       "album": {
@@ -23477,6 +23557,28 @@
     },
     {
       "album": {
+        "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+        "url": "https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161817,
+      "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+      "url": "https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob"
+    },
+    {
+      "album": {
         "name": "Pink Dreads",
         "url": "https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A"
       },
@@ -24860,6 +24962,24 @@
       "duration_ms": 74500,
       "name": "Quaresma",
       "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
     },
     {
       "album": {
@@ -27515,6 +27635,28 @@
     },
     {
       "album": {
+        "name": "Sin City (Ft. Vory)",
+        "url": "https://open.spotify.com/album/0JzE36lKt2fyNbrIP3AGgZ"
+      },
+      "artists": [
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146625,
+      "name": "Sin City (Ft. Vory)",
+      "url": "https://open.spotify.com/track/0mwS7Dy7G305ZRL4vh2tE7"
+    },
+    {
+      "album": {
         "name": "Sinister (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX"
       },
@@ -28238,7 +28380,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 194666,
       "name": "Spend Dat (feat. Lil Baby & Kodak Black) - Remix",
       "url": "https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm"
@@ -31596,7 +31738,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161374,
       "name": "Trance (Walk It Down)",
       "url": "https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw"
@@ -33266,6 +33408,24 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "album": {
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "WAY MORE",
+      "url": "https://open.spotify.com/track/6bMLLlQdaYKinJy2ZnFaR3"
     },
     {
       "album": {

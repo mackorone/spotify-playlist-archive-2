@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 
 > Puro paso bien perro a la hora de bailar\. Los Rugar en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,440 likes - 107 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,642 likes - 107 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 | 106 | [Huapango Redoblado](https://open.spotify.com/track/5043xBN9Qu9o2lNOkeRUng) | [Rebeldia Norteña](https://open.spotify.com/artist/1XTE7Ts86m8juoCaMeOJO7) | [Porque Te Amo](https://open.spotify.com/album/6qpQs0kdErLvcpreVaCi2i) | 2:42 |
 | 107 | [El Zapatazo Tribal \(Remix\)](https://open.spotify.com/track/6SuFWv4mDu8FZWtcq87evB) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L) | [El Zapatazo Tribal \(Remix\)](https://open.spotify.com/album/5ZBEwO4cOHLjawYDniasMh) | 3:17 |
 
-Snapshot ID: `AAAAAESgcp3Nb3y8TtfH/U3WMgmnVNg4`
+Snapshot ID: `AAAAAEs9n2mHNrbWO7VqS472oorE6qtA`

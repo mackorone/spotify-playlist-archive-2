@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 169490,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/4UGKcid6TWRJfApERq0HQ0"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 216346,
       "name": "BYAK",
       "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
@@ -5915,6 +5915,24 @@
     },
     {
       "album": {
+        "name": "RITMO COXINO",
+        "url": "https://open.spotify.com/album/4tbNY02StPKJEXBBthh0UM"
+      },
+      "artists": [
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "RITMO COXINO",
+      "url": "https://open.spotify.com/track/0jD1B0GQOGmay5VfzVsCRu"
+    },
+    {
+      "album": {
         "name": "roadhead",
         "url": "https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7"
       },
@@ -6495,6 +6513,28 @@
     },
     {
       "album": {
+        "name": "Sin Libreta",
+        "url": "https://open.spotify.com/album/1rSkg2GcJvunQ3cvv28Gn8"
+      },
+      "artists": [
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/2jBa39W2cucJozDpEBtCXu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155308,
+      "name": "Sin Libreta",
+      "url": "https://open.spotify.com/track/0ldqPlngOlTvSPDqNAvGPJ"
+    },
+    {
+      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -6718,7 +6758,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 224347,
       "name": "Suculenta",
       "url": "https://open.spotify.com/track/6GC99m9l40lVVQ9ddZ4PKO"
@@ -7012,6 +7052,24 @@
       "duration_ms": 121800,
       "name": "TiTis",
       "url": "https://open.spotify.com/track/5sviOHka5WMyKidQCSdFNa"
+    },
+    {
+      "album": {
+        "name": "Todas Mienten",
+        "url": "https://open.spotify.com/album/5YKn74xV5MR54EzNiGiovW"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Todas Mienten",
+      "url": "https://open.spotify.com/track/1i4YutNLLzUJ8iyWLp3Yfe"
     },
     {
       "album": {

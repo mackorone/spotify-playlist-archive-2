@@ -2755,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Carolina Shakedown",
+        "url": "https://open.spotify.com/album/4dVVlrOj72vq2MRLmav4rq"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes @ Sunset",
+          "url": "https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157083,
+      "name": "Carolina Shakedown",
+      "url": "https://open.spotify.com/track/3JnzeLMaTrZnL5Ms7KADIC"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/6DJpZnz5JxwtbLSJPb15K8"
       },
@@ -6244,6 +6262,24 @@
       "duration_ms": 300453,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/4rdE7Rtddm0BXwj6RBFSxL"
+    },
+    {
+      "album": {
+        "name": "Hamilton Honey: Part 2",
+        "url": "https://open.spotify.com/album/1URnaoGqhNWioCVkaWvtff"
+      },
+      "artists": [
+        {
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214693,
+      "name": "Hamilton Honey",
+      "url": "https://open.spotify.com/track/0VWgKSTPRkDk8TG9dpTwVQ"
     },
     {
       "album": {
@@ -10912,7 +10948,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 243440,
       "name": "Ouachita Woods",
       "url": "https://open.spotify.com/track/2nfWM85aomohgkF0FNCB9K"
@@ -14906,7 +14942,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 250928,
       "name": "Tiger's Blood",
       "url": "https://open.spotify.com/track/4RTF94P3ywTBCtcJ3Crw9k"
@@ -16012,6 +16048,24 @@
       "duration_ms": 291034,
       "name": "When John Prine Died",
       "url": "https://open.spotify.com/track/5VBOocjR3TYhcgYkPE7XiO"
+    },
+    {
+      "album": {
+        "name": "When The River Runs Dry",
+        "url": "https://open.spotify.com/album/3H1zyVPVwIAQgDZdYJoEgn"
+      },
+      "artists": [
+        {
+          "name": "Jack Blocker",
+          "url": "https://open.spotify.com/artist/2JW9eW6831ZTp8CRk2KgP7"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168512,
+      "name": "When The River Runs Dry",
+      "url": "https://open.spotify.com/track/23WvtsduDwoOjLwc7EjFhg"
     },
     {
       "album": {

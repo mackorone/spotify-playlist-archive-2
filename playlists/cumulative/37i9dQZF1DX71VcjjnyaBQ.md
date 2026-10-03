@@ -4,7 +4,7 @@
 
 > Soft jazz for slow mornings, first coffee, and the quiet before the day starts.
 
-270 songs - 23 hr 2 min
+271 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Baba Drame](https://open.spotify.com/track/0I0xbIFqsdofe9bVvurK9Q) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Valentine](https://open.spotify.com/album/379ITOn61QlGYoHwkdTVQ2) | 4:59 | 2021-12-21 | 2022-06-09 |
 | [Ballad for K](https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD) | [Ruhi Erdogan](https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9) | [Ballad for K](https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl) | 3:55 | 2022-02-10 | 2025-06-14 |
 | [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 | 2023-09-26 | 2024-04-19 |
-| [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 | 2023-08-08 |  |
+| [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 | 2023-08-08 | 2026-10-03 |
 | [Benny Thanks](https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Ernie Watts](https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH) | [Benny Thanks](https://open.spotify.com/album/0gtNywZJdNKiixAUPE7UbU) | 5:58 | 2025-09-12 | 2026-01-31 |
 | [Bess Is My Woman Now](https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Massimo Faraò Plays the Great Jazz American Composers \- George Gershwin, Vol\. 3](https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC) | 4:28 | 2022-06-02 | 2026-01-31 |
 | [Blowin' in the Wind](https://open.spotify.com/track/5vJJXYF4p0nAyvOBU2WHoD) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Blowin' in the Wind](https://open.spotify.com/album/47jaPNFEb5Tzm6fnJjpro6) | 5:00 | 2025-01-10 | 2025-02-22 |
@@ -216,6 +216,7 @@
 | [Spring of Life](https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Via de la Plata](https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI) | 3:35 | 2022-06-30 | 2024-04-19 |
 | [Strange Flower](https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT) | 5:29 | 2021-12-21 | 2026-01-24 |
 | [Strange Flower](https://open.spotify.com/track/5yXxlQuUaPjIrHe3e6QKrb) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/50KXmOwyzT5fOWraaR9MKq) | 5:29 | 2022-11-10 | 2024-04-19 |
+| [Summertime](https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Summertime](https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV) | 3:55 | 2026-10-02 |  |
 | [Sun Khosi](https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb) | 3:56 | 2022-06-30 | 2024-01-18 |
 | [Sun Khosi](https://open.spotify.com/track/5jY2fC4kHyTwFfThR7CFTh) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/5NgVPG2bQoy2wlGTFZZdRV) | 3:56 | 2021-12-21 | 2022-07-29 |
 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 | 2025-11-21 | 2026-03-21 |

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,058 songs - 2 day 2 hr 52 min
+1,059 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [IF](https://open.spotify.com/track/798mrR0yhiegkpy3GSHiei) | [Boy Ocean](https://open.spotify.com/artist/6bv6Z9B9k9ZpSEXhy5XBym), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [IF](https://open.spotify.com/album/7vP71zjAIkT1TxIQPtWYVh) | 2:17 | 2022-11-04 | 2022-12-03 |
 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-04-26 | 2024-09-10 |
 | [If You Leave](https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love Is Not Enough, Vol\. 2](https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG) | 2:29 | 2022-10-21 | 2023-02-24 |
+| [If You Like](https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Still In Charge](https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD) | 2:42 | 2026-10-02 |  |
 | [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-25 | 2024-09-07 |
 | [IFEOMA](https://open.spotify.com/track/3E6EHZ4a2n5zP7eNK45lfZ) | [KODEE](https://open.spotify.com/artist/0b2KMU81y0jEUeTuzkcCua) | [A KID WITH A DREAM \(AKWAD\)](https://open.spotify.com/album/0SDU4FpbAxUz2LrdXwyS7S) | 2:35 | 2025-08-29 | 2025-10-19 |
 | [Ifeoma](https://open.spotify.com/track/10XsCKNpmw7Xx8kSsI8OrD) | [Shugavybz](https://open.spotify.com/artist/55o2TzDIJFZ3AtYK9N53tm), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Ifeoma](https://open.spotify.com/album/712c1s1yOhmn5ImbCMyU1M) | 1:55 | 2025-03-07 | 2025-03-29 |
@@ -821,7 +822,7 @@
 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 | 2023-10-27 | 2024-06-28 |
 | [Repay Your Part](https://open.spotify.com/track/0bos4KHIefjCBFT9qcMSu1) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Teslim: A Lover Boy PTSD](https://open.spotify.com/album/4ma3gfhBBC4zmqBGZKnufW) | 3:55 | 2025-03-07 | 2025-09-22 |
 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 | 2024-05-10 | 2024-10-07 |
-| [Rhythm](https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Rhythm](https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf) | 3:16 | 2026-06-19 |  |
+| [Rhythm](https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Rhythm](https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf) | 3:16 | 2026-06-19 | 2026-10-03 |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-29 | 2024-11-22 |
 | [Ride Solo](https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Ride Solo](https://open.spotify.com/album/5DYNIzeEqVdzYl0w23wvfo) | 2:24 | 2026-01-30 | 2026-02-20 |
 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-12 | 2025-08-26 |

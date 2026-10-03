@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PIDE from GELBOYS 2",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALALA",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Burning Snow",
+        "url": "https://open.spotify.com/album/70hIb1RNgIpEP42rkDrZCR"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216372,
+      "name": "Burning Snow",
+      "url": "https://open.spotify.com/track/2NS1rH1v9yTNVij2qoebQn"
+    },
+    {
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/2lmihlrOT7fNGU0fDQsxmE"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 202767,
       "name": "Bye",
       "url": "https://open.spotify.com/track/1dRGIAZOqJsaFgYpIMD1Hn"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 220291,
       "name": "CHEST VOICE",
       "url": "https://open.spotify.com/track/6fjZEUzV1nt8BJdd0416jp"
@@ -1619,6 +1637,28 @@
     },
     {
       "album": {
+        "name": "Faded Ink",
+        "url": "https://open.spotify.com/album/6gg6tiUUVNQFUUR04Z7Fvc"
+      },
+      "artists": [
+        {
+          "name": "TIGGER (\u0e17\u0e34\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c)",
+          "url": "https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF"
+        },
+        {
+          "name": "TARA (VIIS)",
+          "url": "https://open.spotify.com/artist/539lE2c0CiFxnVRAxY3gGU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234210,
+      "name": "Faded Ink",
+      "url": "https://open.spotify.com/track/0ELp6s18IbtuLLHahuctFw"
+    },
+    {
+      "album": {
         "name": "FAKE NEWS (\u0e2b\u0e30 \u0e2d\u0e30\u0e44\u0e23\u0e19\u0e30\u0e04\u0e30?)",
         "url": "https://open.spotify.com/album/4Z0RmooEv7EDEDv97WABCC"
       },
@@ -1800,7 +1840,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 221517,
       "name": "Free WiFi (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
       "url": "https://open.spotify.com/track/5CA8IKh7jZPb1nOyM6NBEW"
@@ -4133,6 +4173,24 @@
     },
     {
       "album": {
+        "name": "Rise up to the sky",
+        "url": "https://open.spotify.com/album/5LcmngfsBhl1PI5Lucc61p"
+      },
+      "artists": [
+        {
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "Rise up to the sky",
+      "url": "https://open.spotify.com/track/6T3cUBSR6ut6BOd77fVvmv"
+    },
+    {
+      "album": {
         "name": "THI-O 1st Mini Album",
         "url": "https://open.spotify.com/album/4JayThE37cKd5m1fbVwZii"
       },
@@ -4318,6 +4376,24 @@
       "duration_ms": 210546,
       "name": "Shoot (Choose) \u0e40\u0e25\u0e22",
       "url": "https://open.spotify.com/track/6tFi6XNeINiaexPT6UEsr7"
+    },
+    {
+      "album": {
+        "name": "SHOOT YOUR SHOT",
+        "url": "https://open.spotify.com/album/6ifUkymuk125zwBek2UJWE"
+      },
+      "artists": [
+        {
+          "name": "MINDY",
+          "url": "https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216805,
+      "name": "SHOOT YOUR SHOT",
+      "url": "https://open.spotify.com/track/1jbQrJTtUnnSsswWiKDUsm"
     },
     {
       "album": {
@@ -5276,10 +5352,28 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 262857,
       "name": "unsend (\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49)",
       "url": "https://open.spotify.com/track/047ii8AyYNBQFigrAv1XBR"
+    },
+    {
+      "album": {
+        "name": "UNTIL WE MEET AGAIN",
+        "url": "https://open.spotify.com/album/1Sx2ondAWObsT7EdTTN3M7"
+      },
+      "artists": [
+        {
+          "name": "Jackie Jackrin",
+          "url": "https://open.spotify.com/artist/61wBtGF8ryUlEeb5lq4cnX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264252,
+      "name": "UNTIL WE MEET AGAIN",
+      "url": "https://open.spotify.com/track/5JM2CLij34yrTqk37lJhmE"
     },
     {
       "album": {
@@ -5622,7 +5716,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192466,
       "name": "Wish",
       "url": "https://open.spotify.com/track/7zXuAHX3H0AKPBoQ46YY5e"
@@ -6059,6 +6153,28 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e23\u0e32\u0e15\u0e23\u0e35 (Aroma)",
+        "url": "https://open.spotify.com/album/1Jw9psscXD0dXsaPlCJWO5"
+      },
+      "artists": [
+        {
+          "name": "MANG",
+          "url": "https://open.spotify.com/artist/5WD4f7gUknSxaDM4JI7ETV"
+        },
+        {
+          "name": "Daou Pittaya",
+          "url": "https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e23\u0e32\u0e15\u0e23\u0e35 (Aroma)",
+      "url": "https://open.spotify.com/track/01r3leuypcVycEuIvTLDAT"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e49\u0e27\u0e22\u0e2b\u0e2d\u0e21",
         "url": "https://open.spotify.com/album/2cdum1VDL9Gj7ttjht1XzH"
       },
@@ -6226,6 +6342,28 @@
       "duration_ms": 203013,
       "name": "\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (Fall And Fall In Love) - From \u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series",
       "url": "https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e38\u0e0d\u0e41\u0e08\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c (Moonkey)",
+        "url": "https://open.spotify.com/album/5r233KoYTvzsA85uTJKXaR"
+      },
+      "artists": [
+        {
+          "name": "Emi Thasorn",
+          "url": "https://open.spotify.com/artist/3L0pX41yQ7PT7yB3ZfWfgk"
+        },
+        {
+          "name": "Bonnie Pattraphus",
+          "url": "https://open.spotify.com/artist/0coSKlgl5qpnMwtLajRHO1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203825,
+      "name": "\u0e01\u0e38\u0e0d\u0e41\u0e08\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c (Moonkey)",
+      "url": "https://open.spotify.com/track/2oGqFbBPEhmIBsdfi3KOwl"
     },
     {
       "album": {
@@ -7995,6 +8133,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e38\u0e4a\u0e1a\u0e17\u0e35\u0e14\u0e34 (One Kiss) (From \"\u0e17\u0e35\u0e48\u0e2a\u0e32\u0e21\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d Your Third\")",
+        "url": "https://open.spotify.com/album/0rMQfuzFGGOMC0UiysRUAf"
+      },
+      "artists": [
+        {
+          "name": "DICEBLUE",
+          "url": "https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191290,
+      "name": "\u0e08\u0e38\u0e4a\u0e1a\u0e17\u0e35\u0e14\u0e34 (One Kiss) - From \"\u0e17\u0e35\u0e48\u0e2a\u0e32\u0e21\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d Your Third\"",
+      "url": "https://open.spotify.com/track/0cgVl2vlOxfTkFyJEqYsCX"
+    },
+    {
+      "album": {
         "name": "MAS[S]TERPIECE",
         "url": "https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2"
       },
@@ -8104,7 +8260,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 190666,
       "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e0a\u0e37\u0e48\u0e2d\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (\u0e41\u0e15\u0e48\u0e08\u0e30\u0e2b\u0e32\u0e21\u0e32\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d)",
       "url": "https://open.spotify.com/track/0S4UcVTTWezM0AX6xS4lUo"
@@ -14333,6 +14489,28 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e08\u0e30\u0e23\u0e31\u0e01 (Love Symptoms) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"You Maniac \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e08\u0e30\u0e23\u0e31\u0e01\u0e0b\u0e30\u0e43\u0e2b\u0e49\u0e1a\u0e49\u0e32\"]",
+        "url": "https://open.spotify.com/album/11UCkBFcmcwegwnPl4gWOE"
+      },
+      "artists": [
+        {
+          "name": "William Jakrapatr",
+          "url": "https://open.spotify.com/artist/51sFFBq8BCtciQk7VqsDTJ"
+        },
+        {
+          "name": "Est Supha",
+          "url": "https://open.spotify.com/artist/1Huc366KRzo3Y1GWnnuFLO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238906,
+      "name": "\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e08\u0e30\u0e23\u0e31\u0e01 (Love Symptoms) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"You Maniac \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e08\u0e30\u0e23\u0e31\u0e01\u0e0b\u0e30\u0e43\u0e2b\u0e49\u0e1a\u0e49\u0e32\"",
+      "url": "https://open.spotify.com/track/6RSAWmSLwesRHlTLdblISU"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19 (Perhaps)",
         "url": "https://open.spotify.com/album/2OeoSY0JnY355A7Qu2QgXZ"
       },
@@ -16816,7 +16994,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 183984,
       "name": "\u0e41\u0e1f\u0e19\u0e04\u0e25\u0e31\u0e1aNo\u0e41\u0e1f\u0e19\u0e04\u0e23\u0e31\u0e1a (No Fankub) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
       "url": "https://open.spotify.com/track/4TQokJkD0O2wujHK2zUDGD"
@@ -16856,6 +17034,28 @@
       "duration_ms": 208666,
       "name": "\u0e41\u0e1f\u0e19\u0e41\u0e1f\u0e23\u0e4c - Dreamy",
       "url": "https://open.spotify.com/track/5SI3nhdadhXRWdPJ3S120A"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e1f\u0e19\u0e43\u0e04\u0e23\u0e1b\u0e30\u0e04\u0e30 (Final Call)",
+        "url": "https://open.spotify.com/album/7gbhdy8uyq1zThUAKVTYM8"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        },
+        {
+          "name": "Girly Berry",
+          "url": "https://open.spotify.com/artist/01HDNDrV3oXyU78MNW4qrZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171262,
+      "name": "\u0e41\u0e1f\u0e19\u0e43\u0e04\u0e23\u0e1b\u0e30\u0e04\u0e30 (Final Call)",
+      "url": "https://open.spotify.com/track/3NoLOb2z1kWZCNNQDO9eE3"
     },
     {
       "album": {
@@ -17214,7 +17414,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 206029,
       "name": "\u0e42\u0e14\u0e19 (DON'T)",
       "url": "https://open.spotify.com/track/26vPhbb6Wa58BG9uBhfATa"
@@ -17636,7 +17836,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 201130,
       "name": "\u0e43\u0e0a\u0e49\u0e43\u0e08 (By Heart) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"You Maniac \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e08\u0e30\u0e23\u0e31\u0e01\u0e0b\u0e30\u0e43\u0e2b\u0e49\u0e1a\u0e49\u0e32\"",
       "url": "https://open.spotify.com/track/3XUYD2WhkiK1rDWxdRB45U"
@@ -18262,7 +18462,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 178560,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e47\u0e19\u0e0a\u0e2d\u0e1a (Denied)",
       "url": "https://open.spotify.com/track/4wTaXdUMwx7wFjt1uc4veL"

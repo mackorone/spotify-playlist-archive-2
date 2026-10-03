@@ -9,10 +9,46 @@
   "snapshot_id": "AAAAAIVApb069C6WQ6rdgSmTnQ7bSje+",
   "tracks": [
     {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
       "album": {
-        "name": "Put Your Head On My Shoulder (Goes Metal)",
-        "url": "https://open.spotify.com/album/1YXLn1Pb1CBvq29qvAtXxm"
+        "name": "The Allfather Awakens",
+        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 276706,
+      "name": "The Allfather Awakes",
+      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Holding Space",
+        "url": "https://open.spotify.com/album/6CgyEtg4jaqOKE2g5MyzPj"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Adamson",
+          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 803994,
+      "name": "Breath Meditation",
+      "url": "https://open.spotify.com/track/4EE1MPWf8ReE14JrYpRtFY"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Classroom Metal, Vol. 1",
+        "url": "https://open.spotify.com/album/5RTdZc8uUOi4FvLNmMq1vd"
       },
       "artists": [
         {
@@ -20,12 +56,192 @@
           "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
         }
       ],
-      "duration_ms": 178801,
-      "name": "Put Your Head On My Shoulder (Goes Metal)",
-      "url": "https://open.spotify.com/track/7xkhlMObLKTMOswBFb39K8"
+      "duration_ms": 45714,
+      "name": "Study",
+      "url": "https://open.spotify.com/track/2JZkkfXGuy2Z8w7mShXbZI"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 227787,
+      "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky)",
+      "url": "https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/6nEP9ggydguOQnbMU8zsCI"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 230491,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/3zONpRVIOwk8iyzB90R2Lq"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "The Center Eye",
+        "url": "https://open.spotify.com/album/05W9V7JjcPqndBOawmtv3B"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        }
+      ],
+      "duration_ms": 175254,
+      "name": "The Center Eye",
+      "url": "https://open.spotify.com/track/2G5oWiVywnXs4UxSxp17Qf"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "God Body",
+        "url": "https://open.spotify.com/album/4I9PLFVCsL7NgznafpWhD3"
+      },
+      "artists": [
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "duration_ms": 190440,
+      "name": "God Body",
+      "url": "https://open.spotify.com/track/5XMdDjf5Xwhrqpvx08cZIa"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Fall, Through Her Voice: Nina, Billie & Sarah",
+        "url": "https://open.spotify.com/album/3bs5ZIfCYpB3zqwjXy24ux"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 205742,
+      "name": "Black Is The Color Of My True Love's Hair",
+      "url": "https://open.spotify.com/track/5LqZYgKIRYff0KI4MJY137"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Beyond Zeta Reticuli",
+        "url": "https://open.spotify.com/album/0zWln9L7ewaoAngMg4rscO"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "duration_ms": 380026,
+      "name": "Beyond Zeta Reticuli",
+      "url": "https://open.spotify.com/track/3WtWoEF1QNiOsXnUhDHzoC"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Mr Charm",
+        "url": "https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 230359,
+      "name": "Bad Luck Hideaway",
+      "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Vacancy: Late Checkout",
+        "url": "https://open.spotify.com/album/62NrsYBeDNa4r9FvGuwbVw"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 155153,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5UWypDFke2swJxdSJ6mdkq"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "Hunger of the Beast",
         "url": "https://open.spotify.com/album/2fUzMIDZnpHGFH8DlzvLSe"
@@ -41,7 +257,27 @@
       "url": "https://open.spotify.com/track/1l4yG2jjnzg6XpwVKlp0R8"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 237250,
+      "name": "So Good (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "Rhodomagnetics (Remastered 2026)",
         "url": "https://open.spotify.com/album/3hsZQTFEpAjOePlrEToEGU"
@@ -61,7 +297,7 @@
       "url": "https://open.spotify.com/track/31tDjlAyJmCSBOYrLHC5jX"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "Pullin' Out",
         "url": "https://open.spotify.com/album/4pNhOyU4lUMtANwbDGtvJ6"
@@ -77,7 +313,7 @@
       "url": "https://open.spotify.com/track/4EfiKVYocBi7szQHSI8SSm"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "Loser (Fcukers Remix)",
         "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
@@ -97,7 +333,7 @@
       "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "What Do I Do If You Don't",
         "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
@@ -113,7 +349,187 @@
       "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/5tTVErPEf0dIdLB5kI8oqA"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 263727,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Merriweather 6/30/85 (Live)",
+        "url": "https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 277933,
+      "name": "Keep On Growing - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
+      "url": "https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "DPG WU-TANG, WU-TANG DPG -THE GODBODY LP-",
+        "url": "https://open.spotify.com/album/2KovdnHtmmm4JrAmln3Yqp"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 69900,
+      "name": "God Speak - Interlude",
+      "url": "https://open.spotify.com/track/2Ukq3hEVucKT3vk1zH3WPi"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/6CEgNom7Vnf68GFeb87XBa"
+      },
+      "artists": [
+        {
+          "name": "Aron",
+          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Movements",
+      "url": "https://open.spotify.com/track/4KaZ8RtH1wGQdrB87D2wVK"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Bread & Butter",
+        "url": "https://open.spotify.com/album/0jy3e8oZyves4NtI8Hr5tc"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 221516,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/0kdeENHpCZk2doppKMPDM3"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Live In Krakow",
+        "url": "https://open.spotify.com/album/2TsxHULDHOfbHXGcxizmai"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "duration_ms": 295580,
+      "name": "Golden Shower - Live In Krakow",
+      "url": "https://open.spotify.com/track/6abushQObMifGaSrI7CbUl"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Complicated (with Tropidelic & Wax)",
+        "url": "https://open.spotify.com/album/6NbjFjAaytpWAxZnmXauIN"
+      },
+      "artists": [
+        {
+          "name": "Mouse Powell",
+          "url": "https://open.spotify.com/artist/75kFbUAkohoxDCLjF7IOFn"
+        },
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Complicated (with Tropidelic & Wax)",
+      "url": "https://open.spotify.com/track/6Iph1eRoFtHPRz0KQpid9k"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "Bread & Butter",
         "url": "https://open.spotify.com/album/0jy3e8oZyves4NtI8Hr5tc"
@@ -133,23 +549,7 @@
       "url": "https://open.spotify.com/track/11OvILap0KxKlGMqo8dAwS"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Live In Krakow",
-        "url": "https://open.spotify.com/album/2TsxHULDHOfbHXGcxizmai"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 295580,
-      "name": "Golden Shower - Live In Krakow",
-      "url": "https://open.spotify.com/track/6abushQObMifGaSrI7CbUl"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "Jungle Noire",
         "url": "https://open.spotify.com/album/2IAAbamIP2plGErikuiWYd"
@@ -173,7 +573,7 @@
       "url": "https://open.spotify.com/track/4mMjLwwILdbH5RcziLYEX7"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "Upperhand (from CONTROL Resonant)",
         "url": "https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb"
@@ -197,27 +597,7 @@
       "url": "https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "DO IT BIG",
-        "url": "https://open.spotify.com/album/0VBa1aG8zfDlVwEjI8D1XY"
-      },
-      "artists": [
-        {
-          "name": "FLVR",
-          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 120424,
-      "name": "Lion Pt. II",
-      "url": "https://open.spotify.com/track/1eoIwYeQvNeYduodNty4x3"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "The Hours (from \"The Hours\")",
         "url": "https://open.spotify.com/album/454c9XlPEk7tgVQ3K6Tya0"
@@ -241,7 +621,103 @@
       "url": "https://open.spotify.com/track/2HPBVuqsqEVXy8DojQJaOK"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "In This World (Boris Brejcha Remix)",
+        "url": "https://open.spotify.com/album/3jhLKqd8JwBAwyIiVr6DIn"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "In This World - Boris Brejcha Remix",
+      "url": "https://open.spotify.com/track/0M0PLcQOKPcmLNT87q5oEl"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Same Old Blues (feat. Jessi Colter)",
+        "url": "https://open.spotify.com/album/2dlfP92ddutgTLL2EulfXl"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "duration_ms": 158899,
+      "name": "Same Old Blues (feat. Jessi Colter)",
+      "url": "https://open.spotify.com/track/3Ms0Rpg8ou8CnKJ0NMhAXA"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "Blissed Out",
+        "url": "https://open.spotify.com/album/3NDxs3nvQvDUlm8YcFDTbd"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 238938,
+      "name": "Blissed Out",
+      "url": "https://open.spotify.com/track/1v3fjHaMNoXYMntxhpUIcF"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "ARD NOW (Deluxe)",
+        "url": "https://open.spotify.com/album/2KWJHgAKKt8N3OWoZEbmUS"
+      },
+      "artists": [
+        {
+          "name": "KUR",
+          "url": "https://open.spotify.com/artist/1l9MB9QHLcmvuI3wwiWCkB"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 266322,
+      "name": "Grab Your Popcorn - Remix",
+      "url": "https://open.spotify.com/track/0OAAa34zkFVK7bcu0Zr471"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
+      "album": {
+        "name": "SO GOOD",
+        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 222316,
+      "name": "SO GOOD",
+      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
+    },
+    {
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "Mr. Doubt",
         "url": "https://open.spotify.com/album/0cwrCnCyi4Oe8MxwAcQpSM"
@@ -269,395 +745,7 @@
       "url": "https://open.spotify.com/track/2aVRIcHwiljXuZid7OojAG"
     },
     {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "A Good Day",
-        "url": "https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "A Good Day",
-      "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 237250,
-      "name": "So Good (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Breath Meditation",
-        "url": "https://open.spotify.com/album/4c9nynidRc29EB5X9zsOwD"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Adamson",
-          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Miles Shrewsbery",
-          "url": "https://open.spotify.com/artist/2qPbxtEvbkxW4BuSCLppye"
-        }
-      ],
-      "duration_ms": 803994,
-      "name": "Breath Meditation",
-      "url": "https://open.spotify.com/track/6bYTPxDT8DT9zVfccG0B2d"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/655tfMuWbx5lzrx6gLxUQZ"
-      },
-      "artists": [
-        {
-          "name": "Miguel Atwood-Ferguson",
-          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
-        },
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        },
-        {
-          "name": "David Virelles",
-          "url": "https://open.spotify.com/artist/2yHMWN7OFCTJ9ZiGSVU0F8"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 285122,
-      "name": "Compassion (feat. Flying Lotus, Immanuel Wilkins, David Virelles)",
-      "url": "https://open.spotify.com/track/0HnzJayzmv01DGyBV1J8na"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "No Rest for The Wicked",
-        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
-      },
-      "artists": [
-        {
-          "name": "AZ Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 174638,
-      "name": "The World Is Ours",
-      "url": "https://open.spotify.com/track/7fNKmovV27B2bUg80GhdL4"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Tear It Down",
-        "url": "https://open.spotify.com/album/5tTVErPEf0dIdLB5kI8oqA"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 263727,
-      "name": "Tear It Down",
-      "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "DPG WU-TANG, WU-TANG DPG -THE GODBODY LP-",
-        "url": "https://open.spotify.com/album/2KovdnHtmmm4JrAmln3Yqp"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        }
-      ],
-      "duration_ms": 69900,
-      "name": "God Speak - Interlude",
-      "url": "https://open.spotify.com/track/2Ukq3hEVucKT3vk1zH3WPi"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Play with Fire",
-        "url": "https://open.spotify.com/album/3He8QMmHg3FeakwIsXbvBF"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Play with Fire",
-      "url": "https://open.spotify.com/track/7q1m5o8VZUZb7zDwdfvEAu"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/6CEgNom7Vnf68GFeb87XBa"
-      },
-      "artists": [
-        {
-          "name": "Aron",
-          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Movements",
-      "url": "https://open.spotify.com/track/4KaZ8RtH1wGQdrB87D2wVK"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Bread & Butter",
-        "url": "https://open.spotify.com/album/0jy3e8oZyves4NtI8Hr5tc"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 221516,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/0kdeENHpCZk2doppKMPDM3"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Merriweather 6/30/85 (Live)",
-        "url": "https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 277933,
-      "name": "Keep On Growing - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
-      "url": "https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Complicated (with Tropidelic & Wax)",
-        "url": "https://open.spotify.com/album/6NbjFjAaytpWAxZnmXauIN"
-      },
-      "artists": [
-        {
-          "name": "Mouse Powell",
-          "url": "https://open.spotify.com/artist/75kFbUAkohoxDCLjF7IOFn"
-        },
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Complicated (with Tropidelic & Wax)",
-      "url": "https://open.spotify.com/track/6Iph1eRoFtHPRz0KQpid9k"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
-        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        },
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
-      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Same Old Blues (feat. Jessi Colter)",
-        "url": "https://open.spotify.com/album/2dlfP92ddutgTLL2EulfXl"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
-        }
-      ],
-      "duration_ms": 158899,
-      "name": "Same Old Blues (feat. Jessi Colter)",
-      "url": "https://open.spotify.com/track/3Ms0Rpg8ou8CnKJ0NMhAXA"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "In This World (Boris Brejcha Remix)",
-        "url": "https://open.spotify.com/album/3jhLKqd8JwBAwyIiVr6DIn"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "In This World - Boris Brejcha Remix",
-      "url": "https://open.spotify.com/track/0M0PLcQOKPcmLNT87q5oEl"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Blissed Out",
-        "url": "https://open.spotify.com/album/3NDxs3nvQvDUlm8YcFDTbd"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 238938,
-      "name": "Blissed Out",
-      "url": "https://open.spotify.com/track/1v3fjHaMNoXYMntxhpUIcF"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "ARD NOW (Deluxe)",
-        "url": "https://open.spotify.com/album/2KWJHgAKKt8N3OWoZEbmUS"
-      },
-      "artists": [
-        {
-          "name": "KUR",
-          "url": "https://open.spotify.com/artist/1l9MB9QHLcmvuI3wwiWCkB"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 266322,
-      "name": "Grab Your Popcorn - Remix",
-      "url": "https://open.spotify.com/track/0OAAa34zkFVK7bcu0Zr471"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "SO GOOD",
-        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 222316,
-      "name": "SO GOOD",
-      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
+      "added_at": "2026-10-02 04:00:00",
       "album": {
         "name": "2SIDED (Oscar Farrell Remix)",
         "url": "https://open.spotify.com/album/79TOuv37PELoILt6hmgk7F"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Westcross in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,524 likes - 65 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,528 likes - 65 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 44 | [NON CI VOGLIONO](https://open.spotify.com/track/2WvmmULiInLmRpNDdSZRGs) | [Rheda](https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct), [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR), [Logos.Lux](https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T) | [NON CI VOGLIONO](https://open.spotify.com/album/7e0s6TM8SxfmgSieiovPrU) | 2:03 |
 | 45 | [Animo/Calibro](https://open.spotify.com/track/1va8SIcmL5XgdQP9SGgqE8) | [Neyman](https://open.spotify.com/artist/6YsSngR29UxtNlCDwqbx24), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [Animo/Calibro](https://open.spotify.com/album/4GkYazlw9vrqkFDRdPNvbr) | 2:07 |
 | 46 | [NINNA NANNA](https://open.spotify.com/track/524O7G4Gess1VTQo5FzJr2) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI) | [NINNA NANNA](https://open.spotify.com/album/6kqbg7t9sSjxgyjYI1FYFX) | 2:21 |
-| 47 | [Maria](https://open.spotify.com/track/7zbYiYPJwdOdgBodB5ZlfI) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Maria](https://open.spotify.com/album/1lp7WKEO05NkOrH1lUTc3u) | 2:25 |
+| 47 | [MARIA](https://open.spotify.com/track/7zbYiYPJwdOdgBodB5ZlfI) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [MARIA](https://open.spotify.com/album/1lp7WKEO05NkOrH1lUTc3u) | 2:25 |
 | 48 | [Wormhole](https://open.spotify.com/track/43o2jgCmTIAKCFvbORYkWn) | [Dmoha](https://open.spotify.com/artist/3Azrc3PGFCLwPxouZw8ELl), [Iso](https://open.spotify.com/artist/6hsJTATEHf781PJkzOecBc) | [Wormhole](https://open.spotify.com/album/1FlCBk9qxNaVC0vd88u2dV) | 2:03 |
 | 49 | [MADONNA MIA](https://open.spotify.com/track/6AcpkYp96V3JC5NOvUIvR2) | [Occhiaia 47](https://open.spotify.com/artist/1yERvIWJ5NqsRf5Mu1GNtm) | [MADONNA MIA](https://open.spotify.com/album/0KO08os4zZ3N6SVzZZBr82) | 1:42 |
 | 50 | [Normale](https://open.spotify.com/track/3tj4GAxiQes5FJpLuaLRhW) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Normale](https://open.spotify.com/album/3Z2sukcWDfPwxvPUHbcgAW) | 2:41 |

@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 147763,
       "name": "Alguns Defeitos",
       "url": "https://open.spotify.com/track/23AU70NKsQ4HfdSyd7lwZl"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 146750,
       "name": "Baqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 158589,
       "name": "Displicente - Ao Vivo",
       "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
@@ -5780,7 +5780,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 205714,
       "name": "Eu Me Apaixonei",
       "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
@@ -9003,6 +9003,28 @@
     },
     {
       "album": {
+        "name": "Mega Hair (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6x2tya5gbF2JqQIvW1p0ST"
+      },
+      "artists": [
+        {
+          "name": "Netto Brito",
+          "url": "https://open.spotify.com/artist/1slHyPE5gIYlHAKLiLv9PU"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153721,
+      "name": "Mega Hair - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lZjGV5YRf4JP82ylbO0yu"
+    },
+    {
+      "album": {
         "name": "EQUILIBRIVM",
         "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
       },
@@ -9284,6 +9306,40 @@
       "duration_ms": 173206,
       "name": "Mentira Estampada",
       "url": "https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p"
+    },
+    {
+      "album": {
+        "name": "Mentira ou Verdade",
+        "url": "https://open.spotify.com/album/1GMrZpzfl1pReQkPYPuNX1"
+      },
+      "artists": [
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "$CAM",
+          "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        },
+        {
+          "name": "Ian Durso",
+          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103759,
+      "name": "Mentira ou Verdade",
+      "url": "https://open.spotify.com/track/71LFe32b7ne58NiL1jvwmp"
     },
     {
       "album": {

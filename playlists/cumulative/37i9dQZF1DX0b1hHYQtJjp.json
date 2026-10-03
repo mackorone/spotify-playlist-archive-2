@@ -5577,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "Born For You",
+        "url": "https://open.spotify.com/album/5mCXq7JbA0KKtXNJXe5I5r"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155248,
+      "name": "Born For You",
+      "url": "https://open.spotify.com/track/6P4KOxSNS12SAa0zYExbwZ"
+    },
+    {
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
       },
@@ -5838,7 +5856,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 205523,
       "name": "Break Up in Reverse",
       "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
@@ -9588,7 +9606,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 188832,
       "name": "Dance Right Now",
       "url": "https://open.spotify.com/track/0ja6kwEPfMl1GJoVhKB4Bl"
@@ -11472,6 +11490,28 @@
       "duration_ms": 224000,
       "name": "Drag Path",
       "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
+    },
+    {
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "album": {
@@ -17762,7 +17802,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 190666,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
@@ -21119,6 +21159,24 @@
     },
     {
       "album": {
+        "name": "I Think You're In Love With Me",
+        "url": "https://open.spotify.com/album/2u3EqWV93xDtwTogBNAI4V"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194639,
+      "name": "I Think You're In Love With Me",
+      "url": "https://open.spotify.com/track/2F08tQVMVWZY4kFfCcANoX"
+    },
+    {
+      "album": {
         "name": "I Told You",
         "url": "https://open.spotify.com/album/50jh9JaOKYIxjRnmeUkpvY"
       },
@@ -21318,7 +21376,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 197573,
       "name": "I'd Be Lyin'",
       "url": "https://open.spotify.com/track/6JmUaJbnsLFKU929yINf0i"
@@ -23144,7 +23202,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 189813,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/0QBghBie9QpjQMm6F5EMbS"
@@ -28739,6 +28797,24 @@
     },
     {
       "album": {
+        "name": "Midnight Crisis",
+        "url": "https://open.spotify.com/album/5NBylpmkOvFFlpF9Gx2mFl"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207654,
+      "name": "Midnight Crisis",
+      "url": "https://open.spotify.com/track/2EKRvcVCzYfamZCUWdYBJk"
+    },
+    {
+      "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
       },
@@ -32992,7 +33068,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 269833,
       "name": "Pair of Dice",
       "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
@@ -35726,7 +35802,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 154834,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T"
@@ -38067,6 +38143,28 @@
     },
     {
       "album": {
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Snakeskin Boots",
+      "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
+    },
+    {
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -39496,6 +39594,24 @@
       "duration_ms": 170467,
       "name": "Splash",
       "url": "https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV"
+    },
+    {
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/7D3e5oMPiVHQIU2i9cJRpu"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153960,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/5OQkCJ8bwovqGddTM779iY"
     },
     {
       "album": {
@@ -44998,6 +45114,24 @@
       "duration_ms": 147741,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
+    },
+    {
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
     },
     {
       "album": {

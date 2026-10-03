@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 
 > This is Hozier\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,920 likes - 44 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,954 likes - 44 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 38 | [The Parting Glass \- Live from the Late Late Show](https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Parting Glass \(Live from the Late Late Show\)](https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A) | 2:15 |
 | 39 | [Moment's Silence \(Common Tongue\)](https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:14 |
 | 40 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/3Zwb1yipBxvrukVaNMm4o5) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:42 |
-| 41 | [Better Love \- From "The Legend Of Tarzan" Original Motion Picture Soundtrack / Single Version](https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Better Love](https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl) | 3:13 |
-| 42 | [Through Me \(The Flood\)](https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 3:47 |
+| 41 | [Through Me \(The Flood\)](https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 3:47 |
+| 42 | [Better Love \- From "The Legend Of Tarzan" Original Motion Picture Soundtrack / Single Version](https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Better Love](https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl) | 3:13 |
 | 43 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
 | 44 | [Fare Well](https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:08 |
 
-Snapshot ID: `arxRAAAAAABl9vzMVQ7VqTVNT3G3djfS`
+Snapshot ID: `ar2igAAAAAAk2S225UhanZR7N1zYcHmt`

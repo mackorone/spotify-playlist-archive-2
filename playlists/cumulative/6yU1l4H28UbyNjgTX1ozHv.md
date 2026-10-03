@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-340 songs - 17 hr 23 min
+342 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 | 2024-05-27 |  |
 | [Billie Jean \- Acoustic](https://open.spotify.com/track/6uaTKOvSd4PZdHWs05r65k) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Billie Jean \(Acoustic\)](https://open.spotify.com/album/2FkpSpxM1xedprP77SJA3T) | 3:05 | 2023-07-07 | 2024-01-13 |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/2gcgIegEsUm4xKKWhLxOFx) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Bitter Sweet Symphony](https://open.spotify.com/album/2xXixzfakAmF34WzT8xxbS) | 3:22 | 2019-10-13 |  |
+| [Budapest](https://open.spotify.com/track/2t7VNXaBzGDNGwSEBOHuku) | [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [Budapest](https://open.spotify.com/album/3aph79xUZfjSrDJIzzzD69) | 2:07 | 2026-10-02 |  |
 | [California Dreamin' \- Acoustic](https://open.spotify.com/track/5dx6uQJsxVDQSyQ2E1cDBw) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [California Dreamin' \(Acoustic\)](https://open.spotify.com/album/3ECsyggi4fbolrvkhydPAg) | 2:32 | 2023-04-21 | 2024-03-04 |
 | [Call Me \- Acoustic](https://open.spotify.com/track/7g4qpkynAKRQ2RPDNh5Gwj) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Call Me \(Acoustic\)](https://open.spotify.com/album/0PqRjANzwz9dEy1fAwB5tn) | 2:18 | 2022-06-17 | 2022-07-16 |
 | [Call Me \- Acoustic](https://open.spotify.com/track/4ItkAxuNvjuWvN8t93SYNE) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Call Me \(Acoustic\)](https://open.spotify.com/album/5zDhAJF7zb9MeY80oWJ1Br) | 2:46 | 2020-07-17 |  |
@@ -250,6 +251,7 @@
 | [Smells Like Teen Spirit \- Acoustic](https://open.spotify.com/track/5Y0X7NxowxPpvDb4vzq1Hr) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Smells Like Teen Spirit \(Acoustic\)](https://open.spotify.com/album/4Si5kpHAc3ec1bB07qwxJu) | 2:30 | 2021-04-13 |  |
 | [So Sick \- Acoustic](https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [So Sick \(Acoustic\)](https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9) | 2:33 | 2023-01-27 | 2024-02-03 |
 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2019-10-13 |  |
+| [Stand By Me](https://open.spotify.com/track/2aO14q5CTyZcmhOFfhKlrH) | [Emily Linge](https://open.spotify.com/artist/1oHuewfSrJgCviOzYBcr5A) | [Stand By Me](https://open.spotify.com/album/6PDNYQWnVHvoTlN7DJSTTg) | 2:44 | 2026-10-02 |  |
 | [Stand By Me](https://open.spotify.com/track/7d9NoDdoypNEDgsVo9IcrO) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Stand By Me](https://open.spotify.com/album/5wbwndPaTut4nnCUxXs5MZ) | 2:29 | 2026-08-21 |  |
 | [Stand By Me \- Acoustic](https://open.spotify.com/track/3EwflvIjTsj1geph4V1rj5) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Stand By Me \(Acoustic\)](https://open.spotify.com/album/4YBuNLaJI4MAHEeaobswnV) | 2:53 | 2020-04-09 | 2023-02-02 |
 | [Stargazing \- Acoustic](https://open.spotify.com/track/5uHduwKoauygmlCn8J8cBx) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Stargazing \(Acoustic\)](https://open.spotify.com/album/0HwxUJzRuCyaG9M1uyi761) | 2:40 | 2025-02-02 |  |

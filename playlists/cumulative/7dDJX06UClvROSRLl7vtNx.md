@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,500 songs - 2 day 16 hr 32 min
+1,501 songs - 2 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -910,7 +910,7 @@
 | [Never Forget You](https://open.spotify.com/track/5DeaVbECxhdNP0198mzbEP) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX) | [Never Forget You](https://open.spotify.com/album/1ryIuBz77bhF9vxzRYjEwt) | 3:02 | 2026-06-26 | 2026-07-25 |
 | [Never Found It](https://open.spotify.com/track/5vz1ItCx8S2bZWbfjk4ESo) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Never Found It](https://open.spotify.com/album/6FU7w4Ecf0uA6fQXiDH1B0) | 2:44 | 2024-01-20 | 2024-02-26 |
 | [Never Get Over You](https://open.spotify.com/track/42tZW3Qcb9iVIFvkVSyQqG) | [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30) | [Never Get Over You](https://open.spotify.com/album/6PhL0M9yG9iGHSzVElnVOj) | 2:38 | 2026-03-22 |  |
-| [Never Gonna Give You Up](https://open.spotify.com/track/0Gdxx7POlFKSJ9doWvxsxJ) | [Addal](https://open.spotify.com/artist/4KvEeVTVVyMlEhr5ovZBOT) | [Never Gonna Give You Up](https://open.spotify.com/album/2wSsI2ng04XjUngE22ycQr) | 2:27 | 2026-03-10 | 2026-07-06 |
+| [Never Gonna Give You Up](https://open.spotify.com/track/0Gdxx7POlFKSJ9doWvxsxJ) | [Addal](https://open.spotify.com/artist/4KvEeVTVVyMlEhr5ovZBOT) | [Never Gonna Give You Up](https://open.spotify.com/album/2wSsI2ng04XjUngE22ycQr) | 2:27 | 2026-03-10 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6pKlEVAue9oZO1qsNCZton) | [Made Of Marble](https://open.spotify.com/artist/3nkiEsorNbO1gdtibcPUdW), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Never Let Me Go](https://open.spotify.com/album/2gBKmaHMvmW3aqNriAmEmw) | 2:24 | 2025-02-02 | 2025-02-17 |
 | [Never Say Goodbye](https://open.spotify.com/track/5hCod6lx9NNAxS1MfZrsAl) | [Namic](https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy) | [Never Say Goodbye](https://open.spotify.com/album/5Mj9xW75Kh49AvTC2fsS9H) | 2:35 | 2025-07-06 | 2025-08-04 |
 | [Never Tell You](https://open.spotify.com/track/6rv3rD9z6ZUtT3Y3ErUJ8w) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [esiole](https://open.spotify.com/artist/20834GegbqTl8KA5p6PQZN) | [Never Tell You](https://open.spotify.com/album/1vkY2zDAMJZloanPD1xNRo) | 2:11 | 2025-04-17 | 2026-08-03 |
@@ -1264,6 +1264,7 @@
 | [Symphony](https://open.spotify.com/track/4v5RMvSiVz0hYBQFhvnh82) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Symphony](https://open.spotify.com/album/4mCt8zbxUNXArA4ekiddac) | 2:24 | 2026-04-26 | 2026-05-25 |
 | [Symphony](https://open.spotify.com/track/09H6t4arQwwtZSx6l01iHp) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Stangen](https://open.spotify.com/artist/1EuUknnWCMEWRlVImWTpJe) | [Symphony](https://open.spotify.com/album/0Hcdfx34DnuGHDlq1dHdVm) | 2:25 | 2025-01-12 | 2026-02-16 |
 | [Take It Easy](https://open.spotify.com/track/138WIAG4MuVT77Ynr42vt3) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Johnny Chicago](https://open.spotify.com/artist/3zvkVa6tS4vVWltR4CLNV4) | [Take It Easy](https://open.spotify.com/album/3CCwjRyfPPnkSbypQz0D7U) | 2:35 | 2024-07-30 | 2025-09-14 |
+| [Take It Slow](https://open.spotify.com/track/0J6bV8HuLkGBx9T9i6zx1S) | [Baked Moon](https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K), [Rya Rey](https://open.spotify.com/artist/2qLLWt3vgzahHq3CeWVJaS), [High On Vibes](https://open.spotify.com/artist/6eNEG8T3Wx6GJIs7LgqmQt) | [Take It Slow](https://open.spotify.com/album/65PEs5e9WM2yVX2KB0i4Dj) | 2:42 | 2026-10-02 |  |
 | [Take It Slow](https://open.spotify.com/track/2gbmGcKUCyU3bifR49KMAY) | [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [Megggi](https://open.spotify.com/artist/2aJSeysNzFHO6Y5pMrIK3O) | [Take It Slow](https://open.spotify.com/album/1Vu3BmfYbqRmNyOy3Eb7WF) | 3:01 | 2024-03-01 | 2024-07-05 |
 | [Take Me Far](https://open.spotify.com/track/05v3B4bfLHxPCb9P5BI3dV) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Take Me Far](https://open.spotify.com/album/1fgBP8xLHiTlxQ0Y0uWfDE) | 2:15 | 2024-09-23 | 2024-12-02 |
 | [Take Me Higher](https://open.spotify.com/track/7EuDg4t8Xo4Exrk7MxqPdX) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Take Me Higher](https://open.spotify.com/album/0Ijdp7RUQ4gEN0p5diiFVG) | 2:09 | 2024-06-21 | 2024-07-29 |

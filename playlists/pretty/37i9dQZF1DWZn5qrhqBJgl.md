@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,440 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,438 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 25 | [Palms](https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [Palms](https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45) | 2:32 |
 | 26 | [Birdie\_ \- Instrumental](https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Birdie\_](https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le) | 2:29 |
 | 27 | [Peepers](https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq) | [Nadamondi](https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ) | [Act Upon](https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB) | 2:11 |
-| 28 | [سمراء](https://open.spotify.com/track/2qfcSQjjn699Zp0uFiUUBX) | [Deeb](https://open.spotify.com/artist/7pjuu5qyxT0hyCdUbhmyDt) | [السلام البارد](https://open.spotify.com/album/5RkeVX6ftHFDMBkNlCzt0C) | 1:26 |
+| 28 | [Tank \- Instrumental](https://open.spotify.com/track/6Q7nTYBffkZSNebWmz0XSQ) | [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Tank](https://open.spotify.com/album/2Q1wocAY05F8VaxnXqfVZM) | 2:47 |
 | 29 | [Eshkol](https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Eshkol](https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV) | 1:58 |
-| 30 | [Tank \- Instrumental](https://open.spotify.com/track/6Q7nTYBffkZSNebWmz0XSQ) | [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Tank](https://open.spotify.com/album/2Q1wocAY05F8VaxnXqfVZM) | 2:47 |
+| 30 | [سمراء](https://open.spotify.com/track/2qfcSQjjn699Zp0uFiUUBX) | [Deeb](https://open.spotify.com/artist/7pjuu5qyxT0hyCdUbhmyDt) | [السلام البارد](https://open.spotify.com/album/5RkeVX6ftHFDMBkNlCzt0C) | 1:26 |
 | 31 | [Farmingdale](https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ) | [Goldspell](https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1) | [Farmingdale](https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO) | 3:00 |
 | 32 | [Qahwah Con Leche](https://open.spotify.com/track/3tUdYudStuFWmlb43jvo24) | [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk) | [Qahwah Con Leche](https://open.spotify.com/album/4qhILwo49DJUZLXEaaM0fF) | 3:32 |
 | 33 | [SMOK](https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV) | [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [SMOK](https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7) | 2:40 |

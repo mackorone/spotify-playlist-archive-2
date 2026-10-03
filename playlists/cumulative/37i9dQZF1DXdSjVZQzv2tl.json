@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Jo\u00e3o Gustavo e Murilo, Grelo",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: \u00cdcaro e Gilmar",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -3949,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "Origens Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3nqIQXOhx7hz2kCssaQ0OB"
+      },
+      "artists": [
+        {
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172046,
+      "name": "Imagina Se Me Odiasse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1rb6dLdRPapa0Br8RuBDoS"
+    },
+    {
+      "album": {
         "name": "Onde Tudo Come\u00e7a,",
         "url": "https://open.spotify.com/album/19xRmHjdqso76RByiG81me"
       },
@@ -6596,7 +6614,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 132346,
       "name": "Que Del\u00edcia",
       "url": "https://open.spotify.com/track/62ZeAs3fShuWFRYsV1TFFF"

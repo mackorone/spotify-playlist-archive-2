@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,843 songs - 10 day 22 hr 32 min
+4,847 songs - 10 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Another World](https://open.spotify.com/track/2vjyvxL5hSgzXJGfDybGMT) | [Popgang](https://open.spotify.com/artist/69jNhtjLutxw7rGbsiqcGS) | [Another World](https://open.spotify.com/album/6fAaYXvUnwzIuUGOxqmlJP) | 4:16 | 2025-12-10 |  |
 | [Another Year](https://open.spotify.com/track/3wp3F2NwsvVflzJhKgQaUP) | [Devil's Degree](https://open.spotify.com/artist/0zGOAhPOYhMCw7er97nMer) | [19Hz](https://open.spotify.com/album/7gOO3LABrfDSW9P1OAXqop) | 5:06 | 2025-06-04 |  |
 | [Ansiedad Social](https://open.spotify.com/track/0uf3yBVaoyMthJiiu2dZez) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Ansiedad Social](https://open.spotify.com/album/2mirnr7ex2EUk3xXjNz5dn) | 2:47 | 2026-08-05 | 2026-09-30 |
+| [Antarctica](https://open.spotify.com/track/7mpk8wnLKaNgd0XJ5ldgrF) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 3:51 | 2026-10-02 |  |
 | [Antarctica 2 South Georgia](https://open.spotify.com/track/5u5UMCU1vEDPbEHssiDabE) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 2:56 | 2026-08-24 |  |
 | [Anything \- Radio Edit](https://open.spotify.com/track/2LjtlofgJSPLLR2BHobh1Y) | [Vellkhan](https://open.spotify.com/artist/4IkkkRiHwKB0fnXWcFjLEp) | [Anything](https://open.spotify.com/album/2tl8aq8QwKHP23Tch8Rgej) | 2:45 | 2025-07-16 |  |
 | [Apes and Cyborgs](https://open.spotify.com/track/4hsqJGvyzt4n7fdalPuPpw) | [Gibson and Gibson](https://open.spotify.com/artist/6wItM1DeDBExx3nHd8Q2mB) | [Apes and Cyborgs](https://open.spotify.com/album/3gQk0fJjEizqHDZhfkg4fU) | 2:40 | 2026-09-05 |  |
@@ -1432,6 +1433,7 @@
 | [Enemies](https://open.spotify.com/track/0a2CcExfykpLoFuK3ZHdZW) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [HEXE](https://open.spotify.com/album/6xC2UI57tNsEp38Wg485pm) | 3:18 | 2026-06-02 |  |
 | [Enemy Or Friend](https://open.spotify.com/track/3WL10C4Au2Um3ngMIWWezK) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 2:20 | 2025-06-05 |  |
 | [Enferm01](https://open.spotify.com/track/5HjGcUYBqAoOChWW0k30Sf) | [Ivan Cortes](https://open.spotify.com/artist/15aPeDSL8oBv1kJamlqkWo), [Zekshi](https://open.spotify.com/artist/2WiNjEd8sRr9Gb7KBKjmrJ) | [Soul Pacific](https://open.spotify.com/album/11fI2DyukEEFAYWtv00lZX) | 4:00 | 2025-03-06 |  |
+| [Engines](https://open.spotify.com/track/7g96sPYXnr6RTKTspYbEJF) | [Fickle Hill](https://open.spotify.com/artist/7K7Uyq9xCc8uxlHQgQnUHx) | [Engines](https://open.spotify.com/album/3c0v7FCB4vnmrVNjzvEmUR) | 3:08 | 2026-10-02 |  |
 | [Enigma](https://open.spotify.com/track/1gbv892FWdLAot1OT5gAmH) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [Quintale](https://open.spotify.com/album/2rWs38gmRLEsd506aLSJMe) | 2:50 | 2025-11-12 |  |
 | [Enigmas](https://open.spotify.com/track/2Wya6iAvu5GmToZh9xioDY) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:26 | 2025-07-29 |  |
 | [ENKI](https://open.spotify.com/track/78aPKQHPUrYPXvA9XteGcv) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [The Sun In The 12th House](https://open.spotify.com/album/3bMk0D70P4yVp4Zmn6Dey7) | 4:48 | 2026-05-21 |  |
@@ -1499,7 +1501,7 @@
 | [Face to Face](https://open.spotify.com/track/4u3Aajaq6TYC9tElKr3p6C) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Face to Face](https://open.spotify.com/album/4TTBTNzNSNirHge7QCjhIl) | 1:36 | 2025-07-28 |  |
 | [Face Your Demons](https://open.spotify.com/track/58FQyH5jqb85CzURK0qxrV) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:11 | 2025-04-09 |  |
 | [Face Your Fears](https://open.spotify.com/track/3DOzXmIe505xcIsM6NgQPE) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Face Your Fears](https://open.spotify.com/album/0gha59Ce5NjojEk5VT3Qu8) | 3:33 | 2025-09-30 |  |
-| [Face2Face](https://open.spotify.com/track/5bUNu7YfOoE80F3GpZqoPw) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Chow Lee](https://open.spotify.com/artist/3Xxk2j1ubQsg72F0gxCmOx), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 | 2025-05-16 |  |
+| [Face2Face](https://open.spotify.com/track/5bUNu7YfOoE80F3GpZqoPw) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 | 2025-05-16 |  |
 | [Facile preda](https://open.spotify.com/track/7dpXWCeVcgn7FasyUwefOz) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Elettricità \(Radio Version\)](https://open.spotify.com/album/5XqEsAqAOJQS52RC0qOq7A) | 3:10 | 2025-06-24 |  |
 | [Fade Away](https://open.spotify.com/track/5E2r06r909l0xI9nvPIgoe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 2:39 | 2025-09-20 |  |
 | [Fade Into You](https://open.spotify.com/track/1QPkoOomGEsxufcDVCeDXQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn th Night, Vol\. 2](https://open.spotify.com/album/732QXoYcUYkM9K7nICidlq) | 1:57 | 2025-09-12 |  |
@@ -3415,6 +3417,7 @@
 | [Rey de la luna](https://open.spotify.com/track/4h0flqrN57X13YYgpUfEJL) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Piedras](https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb) | 4:21 | 2026-03-15 |  |
 | [Rhythm of My Heart](https://open.spotify.com/track/3wOAshpGbohiEeP1kR2zOX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sweet Pop Soul Music](https://open.spotify.com/album/55a7hAqwwUnWd8BYrqvUMm) | 2:28 | 2025-09-19 |  |
 | [Rhythm of My Heart \(another\)](https://open.spotify.com/track/0FA7EChEHKBVUqvwbNaHn1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sweet Pop Soul Music](https://open.spotify.com/album/55a7hAqwwUnWd8BYrqvUMm) | 2:23 | 2025-09-19 |  |
+| [Rhythm of Today](https://open.spotify.com/track/0Ambv3LtpfWr5wKH1dZ5RX) | [Pure Queen](https://open.spotify.com/artist/4tDTJCLg5Z7TRuNPt2zN5o) | [Rhythm of Today](https://open.spotify.com/album/0uQj0af0UNC5mCFteBvxNE) | 4:36 | 2026-10-02 |  |
 | [Riding Dinamite](https://open.spotify.com/track/5tJNvlN9W3yH6xDAad0ilT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:36 | 2026-05-21 |  |
 | [Riding the Waves](https://open.spotify.com/track/3lxKZlfSvw1gSDCBoWIlT7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:19 | 2025-09-19 |  |
 | [Riding the Waves \(another\)](https://open.spotify.com/track/6TDSR8kgCz5q7Q62plYaPU) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:34 | 2025-09-19 |  |
@@ -4386,6 +4389,7 @@
 | [Turn Up the Night \(another\)](https://open.spotify.com/track/62Eh141ij7gAnhrh4SQ8kJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 2:48 | 2025-09-15 |  |
 | [Tutta La Notte](https://open.spotify.com/track/6hGqWpUkuPDgw2I8F2K2NH) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [Tutta La Notte](https://open.spotify.com/album/4ruH46F6x8Hs3x0Z3hu396) | 2:39 | 2026-02-13 |  |
 | [Tutto ok](https://open.spotify.com/track/61BJSwl2KEPRVZgbGZD1rp) | [Noemi Shy Voice](https://open.spotify.com/artist/45cXKfdtkEgzHryseMpNpW) | [Tutto ok](https://open.spotify.com/album/7r75Jpy5WBxAUYkaqmekpw) | 3:10 | 2026-02-13 |  |
+| [Tuuli kuljettaa](https://open.spotify.com/track/6GdzkADsuQVmdxVv2YZEcO) | [Presidenttikuningas](https://open.spotify.com/artist/09CvbZF0xb31mQGO44VOSo) | [Tuuli kuljettaa](https://open.spotify.com/album/7J7xevI9cqKAEVoH4Zb3qn) | 7:38 | 2026-10-02 |  |
 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 | 2025-07-28 |  |
 | [twelve](https://open.spotify.com/track/6gwiamokJhSwLl58pJblLl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 4:10 | 2025-08-20 |  |
 | [twenty](https://open.spotify.com/track/0NB8xlu1pT5oBlrD7no9uZ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:51 | 2025-08-20 |  |

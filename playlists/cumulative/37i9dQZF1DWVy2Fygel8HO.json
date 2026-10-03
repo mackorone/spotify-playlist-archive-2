@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Golden Pollen",
+        "url": "https://open.spotify.com/album/3q3sTBop12RVy3jR379h6K"
+      },
+      "artists": [
+        {
+          "name": "Ted Lucky",
+          "url": "https://open.spotify.com/artist/38GDIHuGmSYxf05zaOZKFg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173315,
+      "name": "Golden Pollen",
+      "url": "https://open.spotify.com/track/4Qub4VJa5LuuvHX2vEisZR"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb"
       },

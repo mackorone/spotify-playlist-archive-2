@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,664 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,688 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Dis\-le \- Acoustic](https://open.spotify.com/track/5VX5tNEjLpNA8SH4quzvwL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Dis\-le \(Acoustic\)](https://open.spotify.com/album/7DijESNKToR0E0v9X72ksc) | 3:45 |
 | 50 | [Je Vis Pour Elle \(feat\. Kendji Girac\) \- Acoustic](https://open.spotify.com/track/5GPgxzeHMdHja2eBhIHNAx) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Je Vis Pour Elle \(feat\. Kendji Girac\) \(Acoustic\)](https://open.spotify.com/album/7friF6osl3PuN7zdUEvNmu) | 4:26 |
 
-Snapshot ID: `AAAAAPNbyACNgbXjMAat3Zx3teLMLXsC`
+Snapshot ID: `AAAAADj9VE0rFVdgGnAw4doFNbB/2Ad4`

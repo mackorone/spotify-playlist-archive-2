@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22406,
+  "num_followers": 22403,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAh9eDrdOOScXuuI/CiGR4V",
+  "snapshot_id": "ar2igAAAAADAe9+wv9HLw3Y/NlxSdcw2",
   "tracks": [
     {
       "added_at": null,
@@ -931,30 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Cupido Querido",
-      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bruxaria 051",
         "url": "https://open.spotify.com/album/5wwsozSTK5ftZLbZYXb287"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 235919,
       "name": "O Corre Nunca Vai Parar",
       "url": "https://open.spotify.com/track/7Hkk9sj1032Lv1S61s5qzy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": null,

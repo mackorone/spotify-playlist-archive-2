@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Michael Kiwanuka, Fontaines D.C., Drake, Holly Humberstone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,161 likes - 102 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,021 likes - 102 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,6 +109,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [Zeppelin](https://open.spotify.com/track/5GskDjVo667ql2CNZA2GbJ) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [Zeppelin](https://open.spotify.com/album/6OBRm5wtQ45ywu2oy0Y44E) | 3:47 |
 | 100 | [biting](https://open.spotify.com/track/2Ix0r0n5TQtcIxdi1j4ySy) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [biting](https://open.spotify.com/album/5Jun9PxPXL4MsnMSjVpAjd) | 4:03 |
 | 101 | [Girl's Girl](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 2:41 |
-| 102 | [No Problem](https://open.spotify.com/track/4w3iQNSo3AKGWiUozuaudS) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [No Problem](https://open.spotify.com/album/2ngDZz6Z62POTczGmfjL4d) | 2:13 |
+| 102 | [No Problem \(feat\. Bryte\)](https://open.spotify.com/track/4w3iQNSo3AKGWiUozuaudS) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [No Problem \(feat\. Bryte\)](https://open.spotify.com/album/2ngDZz6Z62POTczGmfjL4d) | 2:13 |
 
 Snapshot ID: `AAAAAAy60NpWfMOetpd+4p9PLaMia8oy`

@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-600 songs - 1 day 8 hr 45 min
+601 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Fade](https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Fade \(feat\. SHELLS\)](https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y) | 3:43 | 2022-08-05 | 2025-02-08 |
 | [Fade \- Your Eyes Vocal Edit](https://open.spotify.com/track/0Il7aXEcgGpJ1gCMQYeAMe) | [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp), [Lucia](https://open.spotify.com/artist/2q125u4SujtYj8A0Zs3R7Z) | [Fade E.P\. \(Incl\. Remix By Lexer\)](https://open.spotify.com/album/7GGC5AySPrPqj0ritAovrb) | 6:03 | 2020-09-13\* | 2021-03-06 |
 | [fade out](https://open.spotify.com/track/2YdfYkX3v6o0ogBCIuPiQW) | [i.am.u.](https://open.spotify.com/artist/2ikhrwYSd90KMYRIIS8Iju) | [over time](https://open.spotify.com/album/1yQjcEAY5y5lxYupIaleHo) | 2:03 | 2025-12-26 | 2026-08-22 |
+| [Fading](https://open.spotify.com/track/6qxP7LvY9lkn6xtYn5VHNe) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Fading](https://open.spotify.com/album/2J1Lj5iKbB9FlUf7BmRhA4) | 2:32 | 2026-10-02 |  |
 | [Falling for the Feeling](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Are You Real?](https://open.spotify.com/album/1iPFzT2uinjvbAYWm9HwA4) | 2:35 | 2026-02-06 |  |
 | [Falling into You](https://open.spotify.com/track/7B9GM2PNugSwEBHpkAgRCf) | [Soulflow](https://open.spotify.com/artist/6YaiytTo7ird6rLHP2BxYL) | [Deeper](https://open.spotify.com/album/6Q5RxFSosdLM5YFDYIK60r) | 2:05 | 2026-03-20 |  |
 | [Feel Good Inc.](https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Feel Good Inc.](https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb) | 2:53 | 2021-03-06 | 2021-10-16 |

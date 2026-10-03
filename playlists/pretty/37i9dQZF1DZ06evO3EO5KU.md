@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,445 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,459 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 16 | [Ya lo Superé](https://open.spotify.com/track/7KLvYoh4CK9FSzQvQGmCTh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:49 |
 | 17 | [Cuanto Te Quiero](https://open.spotify.com/track/7pm5uUs8o5GE9T5oIAbeED) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/0rLXapbkgFxBsutqWfvijP) | 2:43 |
 | 18 | [Hay Niveles](https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Hay Niveles](https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb) | 4:12 |
-| 19 | [El Rey De Corazones](https://open.spotify.com/track/4R5fDuGTh3qi9GxtjzTbK7) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Rey De Corazones](https://open.spotify.com/album/3QiF1HQLaYyVkxbSi6v1rE) | 3:53 |
+| 19 | [Me Llamas \- En Vivo](https://open.spotify.com/track/3SqC8hNt1YsnlJj1uYPWCw) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Banda Sinaloense La Tuyia de Culiacán](https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C) | 4:42 |
 | 20 | [Te Voy a Olvidar](https://open.spotify.com/track/3L9b67Rz7l93Wl6rSUwsIY) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 2:43 |
-| 21 | [Me Llamas \- En Vivo](https://open.spotify.com/track/3SqC8hNt1YsnlJj1uYPWCw) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Banda Sinaloense La Tuyia de Culiacán](https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C) | 4:42 |
+| 21 | [El Rey De Corazones](https://open.spotify.com/track/4R5fDuGTh3qi9GxtjzTbK7) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Rey De Corazones](https://open.spotify.com/album/3QiF1HQLaYyVkxbSi6v1rE) | 3:53 |
 | 22 | [Linda Morenita](https://open.spotify.com/track/2a4ZzWcCKUrxfP0c5lCRpF) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Linda Morenita](https://open.spotify.com/album/6yibLHAkjiEsJYldm5xih6) | 2:35 |
 | 23 | [Hablemos](https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:07 |
 | 24 | [Mi Riqueza](https://open.spotify.com/track/4JXI9yB7EWRsHRfMKfwXUf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Aquí Sigues Tú](https://open.spotify.com/track/4JBVBolRrTPpRYjBGBaQot) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Aquí Sigues Tú](https://open.spotify.com/album/1NO5Jfuoe0b34Tszpk41wj) | 4:22 |
 | 50 | [El Karma](https://open.spotify.com/track/6e1Kq7zm6Tu4XZrSTGxgqt) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/2w5x87DU6Bzd3kLqwHjzd6) | 3:30 |
 
-Snapshot ID: `arxRAAAAAAAi96cGWX2q850pxVnSfWj2`
+Snapshot ID: `ar2igAAAAAAJXPtlmc/0oOshtt1Akmnz`

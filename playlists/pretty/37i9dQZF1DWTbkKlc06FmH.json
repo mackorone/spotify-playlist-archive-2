@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 147477,
+  "num_followers": 147480,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 191003,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
         "name": "Bottle",
         "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
       },
@@ -491,18 +475,34 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 217205,
-      "name": "I Can\u2019t Wait",
-      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+      "duration_ms": 217205,
+      "name": "I Can\u2019t Wait",
+      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "Happiness Anytime: Part 2",
-        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 178702,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 229333,
       "name": "\u30ac\u30fc\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 178702,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 216247,
-      "name": "CAN I WATCH YOU (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 216493,
       "name": "Miami (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
+        "name": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 216247,
+      "name": "CAN I WATCH YOU (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "no more regrets",
-        "url": "https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 178477,
-      "name": "no more regrets",
-      "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
         "name": "BELOVED: ACT II",
         "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 265127,
       "name": "JEZEBEL",
       "url": "https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
+        "name": "no more regrets",
+        "url": "https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 178477,
+      "name": "no more regrets",
+      "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "Happiness Anytime: Part 1",
-        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Light the Way",
-      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 227000,
       "name": "Witchy (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
+        "name": "\u6e80\u3061\u3066\u3086\u304f",
+        "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 310997,
+      "name": "\u6e80\u3061\u3066\u3086\u304f",
+      "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
         "name": "Pretty Eyes",
         "url": "https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "\u6e80\u3061\u3066\u3086\u304f",
-        "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 310997,
-      "name": "\u6e80\u3061\u3066\u3086\u304f",
-      "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "We Go Again",
-        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
       },
       "artists": [
         {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 185715,
-      "name": "Charge It",
-      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
+      "duration_ms": 266021,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1111,18 +1127,22 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "Vie",
-        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 266021,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1151,26 +1171,6 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
         "name": "BEFORE I FORGET",
         "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
       },
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 291190,
+      "name": "White Gloves ii",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
         "name": "Someday, Somewhere",
         "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+        "name": "\u98a8\u795e",
+        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 291190,
-      "name": "White Gloves ii",
-      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
+      "duration_ms": 235543,
+      "name": "\u98a8\u795e",
+      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1239,18 +1255,22 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "\u98a8\u795e",
-        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
+        "name": "CRYSALIS (CODA)",
+        "url": "https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
         }
       ],
-      "duration_ms": 235543,
-      "name": "\u98a8\u795e",
-      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
+      "duration_ms": 177173,
+      "name": "Hvnly (feat. JIHYO)",
+      "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1275,26 +1295,6 @@
       "duration_ms": 174813,
       "name": "Ay Bendito (with Mora & Ovy On The Drums)",
       "url": "https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
-        "name": "CRYSALIS (CODA)",
-        "url": "https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        },
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "Hvnly (feat. JIHYO)",
-      "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1339,6 +1339,38 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 281766,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
         "name": "Gut Genug (with Omah Lay, Blumengarten & 255)",
         "url": "https://open.spotify.com/album/0gszF1GZYyI0D0qc4ez0r9"
       },
@@ -1367,34 +1399,18 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 281766,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+      "duration_ms": 165599,
+      "name": "My Muse",
+      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 165599,
-      "name": "My Muse",
-      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
         "name": "GBAD (Number_i Remix)",
         "url": "https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 187398,
       "name": "GBAD (Number_i Remix)",
       "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1499,22 +1515,6 @@
       "duration_ms": 246699,
       "name": "\u82b1",
       "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "BELOVED",
-        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 195869,
-      "name": "I CAN TELL",
-      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
-    },
-    {
-      "added_at": "2026-09-16 03:08:50",
-      "album": {
         "name": "Fiction",
         "url": "https://open.spotify.com/album/4FMGDzFSshY6ROMenOhwRe"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 202258,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX"
+    },
+    {
+      "added_at": "2026-09-16 03:08:50",
+      "album": {
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 195869,
+      "name": "I CAN TELL",
+      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
     },
     {
       "added_at": "2026-09-16 03:08:50",
@@ -1747,18 +1747,26 @@
     {
       "added_at": "2026-09-16 03:08:50",
       "album": {
-        "name": "Blue Island",
-        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+        "name": "Friends, Family & God (feat. G-k.i.d & KEIJU)",
+        "url": "https://open.spotify.com/album/0NFLbdYg7vCwWYSE7OiRpZ"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "G-k.i.d",
+          "url": "https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
         }
       ],
-      "duration_ms": 200400,
-      "name": "In & Out",
-      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
+      "duration_ms": 230645,
+      "name": "Friends, Family & God (feat. G-k.i.d & KEIJU)",
+      "url": "https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

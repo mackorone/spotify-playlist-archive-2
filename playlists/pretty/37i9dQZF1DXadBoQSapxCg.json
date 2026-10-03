@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319728,
+  "num_followers": 319736,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -723,30 +723,22 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "Irreal",
-        "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
+        "name": "De Manh\u00e3",
+        "url": "https://open.spotify.com/album/6WVfY0VWusgX3TqeNeVKhr"
       },
       "artists": [
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+          "name": "Tain\u00e1 Seabra",
+          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
         },
         {
-          "name": "LUCA",
-          "url": "https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
+          "name": "CASULO",
+          "url": "https://open.spotify.com/artist/1NHLTrZk6hOi5H6InEbztY"
         }
       ],
-      "duration_ms": 190758,
-      "name": "Irreal",
-      "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
+      "duration_ms": 155789,
+      "name": "De Manh\u00e3",
+      "url": "https://open.spotify.com/track/7qrObZooLB7H3QWYTLyvqG"
     },
     {
       "added_at": "2026-09-10 03:01:30",
@@ -771,22 +763,30 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "De Manh\u00e3",
-        "url": "https://open.spotify.com/album/6WVfY0VWusgX3TqeNeVKhr"
+        "name": "Irreal",
+        "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
       "artists": [
         {
-          "name": "Tain\u00e1 Seabra",
-          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "CASULO",
-          "url": "https://open.spotify.com/artist/1NHLTrZk6hOi5H6InEbztY"
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 155789,
-      "name": "De Manh\u00e3",
-      "url": "https://open.spotify.com/track/7qrObZooLB7H3QWYTLyvqG"
+      "duration_ms": 190758,
+      "name": "Irreal",
+      "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
     },
     {
       "added_at": "2026-09-10 03:01:30",

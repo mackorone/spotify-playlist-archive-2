@@ -1,13 +1,45 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Ashe",
-  "num_followers": 1765933,
+  "description": "Sit back and relax to the chillest pop.  Cover: Chelsea Jordan",
+  "num_followers": 1765924,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ1CKHgOQnlpC2v4Xw6FM04jq0iq",
+  "snapshot_id": "AAAAAOIq0LIq+KoZF/V/Q//ez1PoVg8f",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:00:41",
+      "album": {
+        "name": "worst case",
+        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 193301,
+      "name": "worst case",
+      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
+    },
+    {
+      "added_at": "2026-10-02 04:00:41",
+      "album": {
+        "name": "Tell Me I'm Beautiful",
+        "url": "https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 215246,
+      "name": "Tell Me I'm Beautiful",
+      "url": "https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi"
+    },
     {
       "added_at": "2026-09-04 04:02:38",
       "album": {
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq"
     },
     {
+      "added_at": "2026-10-02 04:00:41",
+      "album": {
+        "name": "Take It Off For You",
+        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 156540,
+      "name": "Take It Off For You",
+      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
+    },
+    {
       "added_at": "2026-09-27 02:59:07",
       "album": {
         "name": "Small Town",
@@ -97,6 +145,22 @@
       "url": "https://open.spotify.com/track/1bMBYi2vwf7zDhbakuH9KO"
     },
     {
+      "added_at": "2026-10-02 04:00:41",
+      "album": {
+        "name": "No one Owns the Sunrise",
+        "url": "https://open.spotify.com/album/56sSCWyNO0KzFFrx1f5h4E"
+      },
+      "artists": [
+        {
+          "name": "Kwamie Liv",
+          "url": "https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg"
+        }
+      ],
+      "duration_ms": 205321,
+      "name": "No one Owns the Sunrise",
+      "url": "https://open.spotify.com/track/5FqHPGV9kVjW9Hl09cVusE"
+    },
+    {
       "added_at": "2026-09-25 04:03:19",
       "album": {
         "name": "Mr. Peaked In High School",
@@ -111,6 +175,22 @@
       "duration_ms": 210683,
       "name": "summer of \u201916",
       "url": "https://open.spotify.com/track/48xY7Jn018AjLntqEaQCJB"
+    },
+    {
+      "added_at": "2026-10-02 04:00:41",
+      "album": {
+        "name": "Bottled Up",
+        "url": "https://open.spotify.com/album/4IBQjiATivHcsHVvtfVvnp"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "duration_ms": 194858,
+      "name": "Edgeways",
+      "url": "https://open.spotify.com/track/5xBEXsSyYCJRjLeCEXUKTZ"
     },
     {
       "added_at": "2026-09-25 04:03:19",
@@ -131,6 +211,22 @@
       "duration_ms": 166841,
       "name": "She\u2019s Gonna Break My Heart",
       "url": "https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3"
+    },
+    {
+      "added_at": "2026-10-02 04:00:41",
+      "album": {
+        "name": "Scissors",
+        "url": "https://open.spotify.com/album/6BmcAF9u1q45h58bzvqmlG"
+      },
+      "artists": [
+        {
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+        }
+      ],
+      "duration_ms": 147944,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/603Wr870XQdr4pXG0qyCe2"
     },
     {
       "added_at": "2026-09-18 04:25:37",
@@ -165,38 +261,6 @@
       "url": "https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut"
     },
     {
-      "added_at": "2026-08-28 04:02:54",
-      "album": {
-        "name": "Wild Woman",
-        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 179303,
-      "name": "Wild Woman",
-      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
-    },
-    {
-      "added_at": "2026-09-25 04:03:19",
-      "album": {
-        "name": "Always The Same",
-        "url": "https://open.spotify.com/album/1sSAdNWQUwMEBxT1bI0tka"
-      },
-      "artists": [
-        {
-          "name": "Ruby Plume",
-          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Always The Same",
-      "url": "https://open.spotify.com/track/5TicxkAav2rqGjxeucVh9B"
-    },
-    {
       "added_at": "2026-09-18 04:41:55",
       "album": {
         "name": "SHAPE OF WATER",
@@ -211,6 +275,22 @@
       "duration_ms": 217040,
       "name": "SHAPE OF WATER",
       "url": "https://open.spotify.com/track/4JYgRvYjEKv8LOhSnf2lQR"
+    },
+    {
+      "added_at": "2026-10-02 04:00:41",
+      "album": {
+        "name": "Clever",
+        "url": "https://open.spotify.com/album/0aLQLvlKBiD3Cwt2wd4maJ"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "duration_ms": 213635,
+      "name": "Clever",
+      "url": "https://open.spotify.com/track/7kAA4QQq89UalAJUb4J9bp"
     },
     {
       "added_at": "2026-07-03 04:02:27",
@@ -275,6 +355,22 @@
       "duration_ms": 247540,
       "name": "trees for the woods",
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
+    },
+    {
+      "added_at": "2026-09-25 04:03:19",
+      "album": {
+        "name": "Always The Same",
+        "url": "https://open.spotify.com/album/1sSAdNWQUwMEBxT1bI0tka"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Always The Same",
+      "url": "https://open.spotify.com/track/5TicxkAav2rqGjxeucVh9B"
     },
     {
       "added_at": "2026-09-18 04:25:37",
@@ -367,6 +463,22 @@
       "duration_ms": 159226,
       "name": "Our Year",
       "url": "https://open.spotify.com/track/4faHxt98lvOrv4InWwgR6U"
+    },
+    {
+      "added_at": "2026-08-28 04:02:54",
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
     },
     {
       "added_at": "2026-09-11 14:18:25",
@@ -801,22 +913,6 @@
       "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
     },
     {
-      "added_at": "2026-08-28 04:02:54",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/1j4woMGd04ZJv3tzhoNe3W"
-      },
-      "artists": [
-        {
-          "name": "Conor Burns",
-          "url": "https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J"
-        }
-      ],
-      "duration_ms": 240476,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0oiGdy7Zp6ZTbm2cdFnvRO"
-    },
-    {
       "added_at": "2026-08-07 05:13:34",
       "album": {
         "name": "Catch n' Release",
@@ -1011,26 +1107,6 @@
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
-    },
-    {
-      "added_at": "2026-08-07 05:11:51",
-      "album": {
-        "name": "Always on Your Side",
-        "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Always on Your Side",
-      "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
     },
     {
       "added_at": "2026-07-03 04:02:27",
@@ -1417,22 +1493,6 @@
       "url": "https://open.spotify.com/track/6YQNdvwDWVb1zi7CgkWCWc"
     },
     {
-      "added_at": "2026-05-08 04:01:35",
-      "album": {
-        "name": "Therapy at the Club",
-        "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Therapy at the Club",
-      "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
-    },
-    {
       "added_at": "2025-11-08 16:45:50",
       "album": {
         "name": "SWAG",
@@ -1481,22 +1541,6 @@
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
-      "added_at": "2026-03-27 04:00:28",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
       "added_at": "2026-04-10 04:01:32",
       "album": {
         "name": "You and I",
@@ -1511,22 +1555,6 @@
       "duration_ms": 169278,
       "name": "You and I",
       "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"
-    },
-    {
-      "added_at": "2026-03-13 04:00:45",
-      "album": {
-        "name": "The Fix",
-        "url": "https://open.spotify.com/album/1dKHQpelvSeobwcDxgxdmj"
-      },
-      "artists": [
-        {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "The Fix",
-      "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
     },
     {
       "added_at": "2026-04-10 18:41:28",

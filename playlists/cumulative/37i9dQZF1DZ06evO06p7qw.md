@@ -4,7 +4,7 @@
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 7 min
+75 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Mucho Más Que Ayer](https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mucho Más Que Ayer](https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS) | 3:42 | 2025-09-10 |  |
 | [Más Allá](https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 | 2023-09-25 |  |
 | [Nenita](https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:23 | 2023-09-25 |  |
+| [No Necesito](https://open.spotify.com/track/2qwtFxrZTHnLdZTV1aXjfd) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [No Necesito](https://open.spotify.com/album/1wcMrs2Co0NFMBTJ8Tn1rS) | 3:44 | 2026-10-03 |  |
 | [No Sé Si Salga El Sol \- Remix](https://open.spotify.com/track/0gw6orix5diJLOahicJhj6) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [No Sé Si Salga El Sol \(Remix\)](https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD) | 3:08 | 2023-09-25 |  |
 | [Perfecto](https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:08 | 2024-06-03 |  |
 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 | 2023-09-25 | 2025-09-26 |

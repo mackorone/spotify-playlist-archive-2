@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,281 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,283 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 40 | [LAST ONE STANDING \(feat\. Jim from Pennywise\)](https://open.spotify.com/track/3F9z5GtlvMuaAtiwLeTfB0) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [NINE LIVES](https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq) | 2:52 |
 | 41 | [The World](https://open.spotify.com/track/2WD64H3EBdbIisfP34X0ea) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:26 |
 | 42 | [Never Gonna Die](https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:40 |
-| 43 | [It's Up To Me \- 2005 Remaster](https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 3:16 |
-| 44 | [X Generation](https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:15 |
-| 45 | [No Reason Why \- 2005 Remaster](https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 2:38 |
-| 46 | [As Long As We Can \(Intro\)](https://open.spotify.com/track/7ml60qKvVgLpEf0uZ5EQBI) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Reason To Believe](https://open.spotify.com/album/6qWDJK2ECvWqb7Yuov8LZc) | 3:09 |
-| 47 | [Dying to Know \- 2005 Remaster](https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 3:05 |
-| 48 | [Yesterdays](https://open.spotify.com/track/3D2tbKnj07Xwm3FQj9kisq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [From The Ashes](https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg) | 3:34 |
-| 49 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
-| 50 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
+| 43 | [X Generation](https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:15 |
+| 44 | [It's Up To Me \- 2005 Remaster](https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 3:16 |
+| 45 | [As Long As We Can \(Intro\)](https://open.spotify.com/track/7ml60qKvVgLpEf0uZ5EQBI) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Reason To Believe](https://open.spotify.com/album/6qWDJK2ECvWqb7Yuov8LZc) | 3:09 |
+| 46 | [No Reason Why \- 2005 Remaster](https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 2:38 |
+| 47 | [Yesterdays](https://open.spotify.com/track/3D2tbKnj07Xwm3FQj9kisq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [From The Ashes](https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg) | 3:34 |
+| 48 | [Dying to Know \- 2005 Remaster](https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 3:05 |
+| 49 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
+| 50 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
 
-Snapshot ID: `arxRAAAAAACQAM5Vs+f06g7gi9G9r8FV`
+Snapshot ID: `ar2igAAAAADh5De1hNA4BUFUIQsQJjyN`

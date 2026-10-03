@@ -6071,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "Catholic Boy",
+        "url": "https://open.spotify.com/album/3cIz5GI6LqMhJyrxUY1GsP"
+      },
+      "artists": [
+        {
+          "name": "Vicla boi",
+          "url": "https://open.spotify.com/artist/0VupyRTwkYyNf9iooZcLFN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181513,
+      "name": "Catholic Boy",
+      "url": "https://open.spotify.com/track/1dWrrmOqCkMr0puVaMiVXI"
+    },
+    {
+      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB"
       },
@@ -31310,6 +31328,24 @@
       "duration_ms": 132205,
       "name": "Praise the Lord",
       "url": "https://open.spotify.com/track/1Pk9UFsZgHa2WLaLmnBPKM"
+    },
+    {
+      "album": {
+        "name": "Praise the Lord",
+        "url": "https://open.spotify.com/album/0CqdZh1JjqCM8GPKtAvR6m"
+      },
+      "artists": [
+        {
+          "name": "Samwell Areson",
+          "url": "https://open.spotify.com/artist/6JImh9OJIpeofUiJUEXyRE"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Praise the Lord",
+      "url": "https://open.spotify.com/track/7oLGYV4iVjoTTJAmCrsAFE"
     },
     {
       "album": {

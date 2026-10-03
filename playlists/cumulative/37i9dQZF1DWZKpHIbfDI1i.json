@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. EMJAY",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. ALMAS, NXNNI y Snow Tha Product",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 204849,
       "name": "50/50",
       "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
@@ -10385,6 +10385,32 @@
     },
     {
       "album": {
+        "name": "Dumb Boy (ojo de loca)",
+        "url": "https://open.spotify.com/album/4ABG1RkhspmJGHDPEFSQ4I"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184251,
+      "name": "Dumb Boy (ojo de loca)",
+      "url": "https://open.spotify.com/track/4TKBvVu4tHy7kX9ewht29n"
+    },
+    {
+      "album": {
         "name": "DURACELL",
         "url": "https://open.spotify.com/album/2HaKO4hbjCjwkExsp3gtDt"
       },
@@ -15781,6 +15807,24 @@
     },
     {
       "album": {
+        "name": "Leccion De Vuelo",
+        "url": "https://open.spotify.com/album/7LM15kMdKV1ZD0tg6HUOU4"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219715,
+      "name": "Intocable",
+      "url": "https://open.spotify.com/track/1AAjTcCp9v9g8bQM4fJDiF"
+    },
+    {
+      "album": {
         "name": "intro",
         "url": "https://open.spotify.com/album/6dGXItPd4MxGYeeib02KFx"
       },
@@ -17810,6 +17854,24 @@
       "duration_ms": 187500,
       "name": "LA PEDA",
       "url": "https://open.spotify.com/track/4toD3IqqcuHWGl6bnNkM4s"
+    },
+    {
+      "album": {
+        "name": "La Pelea De Mi Vida",
+        "url": "https://open.spotify.com/album/2F1giYx2i71R3AYOdVVZom"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183509,
+      "name": "La Pelea De Mi Vida",
+      "url": "https://open.spotify.com/track/4wFdorG5cMrkTAghmuFYH6"
     },
     {
       "album": {
@@ -22415,6 +22477,28 @@
     },
     {
       "album": {
+        "name": "MIS L\u00c1GRIMAS",
+        "url": "https://open.spotify.com/album/0h8ySx6u9eLkaW42GhVXvA"
+      },
+      "artists": [
+        {
+          "name": "Compa Steve",
+          "url": "https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266150,
+      "name": "MIS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/3nBTjrgTyKW7hQwBTfa63J"
+    },
+    {
+      "album": {
         "name": "misa",
         "url": "https://open.spotify.com/album/0CsMSgdBsn3V5Cz8qVQUfW"
       },
@@ -23788,7 +23872,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 193390,
       "name": "Necesito Un Amor",
       "url": "https://open.spotify.com/track/1PC2LIpR9aJdcYpxqGelTk"
@@ -25306,6 +25390,28 @@
       "duration_ms": 158400,
       "name": "Nostalgia .0002 L\u00e1grimas",
       "url": "https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz"
+    },
+    {
+      "album": {
+        "name": "Nostalgia .0017 Tu Vanidad",
+        "url": "https://open.spotify.com/album/5J5i2Lx9hgKVAyt5Sgummx"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Nostalgia .0017 Tu Vanidad",
+      "url": "https://open.spotify.com/track/3o6AV5LvXGR8ts05F8j4NY"
     },
     {
       "album": {
@@ -30308,7 +30414,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 163960,
       "name": "Respira y ya",
       "url": "https://open.spotify.com/track/27BWtWPohMX3xWtcq2tKok"
@@ -32792,7 +32898,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 189047,
       "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT"
@@ -37830,7 +37936,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 207186,
       "name": "Xtraparticular",
       "url": "https://open.spotify.com/track/1CINRQIxn9ZS7Z3kmxDaqp"

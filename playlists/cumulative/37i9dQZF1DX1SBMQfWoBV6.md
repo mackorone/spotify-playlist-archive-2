@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-128 songs - 8 hr 43 min
+134 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Beluga’s Song](https://open.spotify.com/track/1BHu8dmQWiwoh7p1vgJZKN) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 5:28 | 2023-01-31 |  |
 | [Berlin](https://open.spotify.com/track/2ydduzcA723lZ4K9DLq8io) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Entrainment, Pt\. 1](https://open.spotify.com/album/72HmKF1GsLmqCcGgCDFnOV) | 3:55 | 2023-01-31 |  |
 | [Blossom](https://open.spotify.com/track/5M8UxcPWHjSUAnL5P3ArhW) | [Blue Cliff](https://open.spotify.com/artist/0oOJXjzPzhvFU7kjSxpE5s) | [Blossom](https://open.spotify.com/album/1PsJVa3j0nHgQvZCqIBxeA) | 2:13 | 2025-11-21 |  |
+| [broken wilderness](https://open.spotify.com/track/5jOnLdZOhegy9yXNM9V4TW) | [emptyshape](https://open.spotify.com/artist/5uhXTVZhYVCspG4dSLRI9t) | [broken wilderness](https://open.spotify.com/album/1aTpU1vqd5vBbMUU3rtYzg) | 2:25 | 2026-10-02 |  |
 | [Caved Out](https://open.spotify.com/track/3lzBhoMOytPl2SJb76MKHS) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 4:09 | 2023-05-19 |  |
 | [Circular](https://open.spotify.com/track/1t4i03W2XqBB1utNwzxJu4) | [Silentro](https://open.spotify.com/artist/1nYzeNQ4ub0ut3Zq4V88Yl) | [Circular](https://open.spotify.com/album/20TgQ8xgWoHQKl8xbWWxt9) | 3:25 | 2024-03-04 |  |
 | [cognition](https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR) | [theta.wav](https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W), [Droner](https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl) | [cognition](https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG) | 2:21 | 2025-02-28 |  |
@@ -46,6 +47,7 @@
 | [Fields of Iris](https://open.spotify.com/track/7lM6rrQSb5gMNiGN4EOCIQ) | [Les Luke](https://open.spotify.com/artist/32CcGw6tNOp1TJRFKBIMjg) | [Fields of Iris](https://open.spotify.com/album/6tNDda7O8j4cqUGV1sWJiJ) | 2:24 | 2025-01-10 |  |
 | [Finding Determination](https://open.spotify.com/track/1IZ8OjFT6GAVAQ1wQCEIlv) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:56 | 2023-03-17 |  |
 | [Focus On](https://open.spotify.com/track/1ZPFtHW2s6uQc3KajMCP7l) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Focus On](https://open.spotify.com/album/0BZPrdDFhpgCD1mLYBhIan) | 3:13 | 2023-10-13 |  |
+| [Freeze](https://open.spotify.com/track/3TQQkJUq8DCgk2MA5EKBbz) | [Ophra](https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U) | [Freeze](https://open.spotify.com/album/43p8Rdk8Y4TLXVYtwpsqe9) | 3:05 | 2026-10-02 |  |
 | [Fyresvatn](https://open.spotify.com/track/3oXtuTObYRvhsShC7I96M5) | [Asle Bjørn](https://open.spotify.com/artist/5ktwEgR7MPFnz1QuYdUcmq) | [My Places](https://open.spotify.com/album/0hBJ0y5ms0sU5j2tK7X75J) | 4:37 | 2023-01-31 | 2023-10-05 |
 | [Harmony Journey EMDR](https://open.spotify.com/track/1DmwX0vuWIIdUm4uTcTChO) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Harmony Journey EMDR](https://open.spotify.com/album/4KZse6hL8yvuvCDxs3vN2H) | 3:14 | 2025-05-09 |  |
 | [Hollow Streams](https://open.spotify.com/track/0QKVXdZz1DbluflLmv9Jld) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 3:56 | 2023-05-19 |  |
@@ -65,10 +67,13 @@
 | [Mesa](https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mesa](https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30) | 4:48 | 2023-01-31 |  |
 | [Na](https://open.spotify.com/track/0igayHoCeYUH4KuZubiq4u) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/6Vco7xYNpXBhgHkANMHQXb) | 4:55 | 2023-01-31 |  |
 | [Night Hammer](https://open.spotify.com/track/661gdtPwxBK9pYp3nulHoS) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Golden Age of Dereliction](https://open.spotify.com/album/29gXtFxpaHQZIC3Ab13Q5s) | 5:24 | 2023-01-31 | 2026-04-02 |
+| [no sun, no moon](https://open.spotify.com/track/0vsXb5ggQjCF23QcDiffXA) | [eidra](https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM), [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7) | [no sun, no moon](https://open.spotify.com/album/4KMt3TsMmo7cLINvF2KntK) | 1:55 | 2026-10-02 |  |
 | [Opalescent](https://open.spotify.com/track/4Bpx1CO7TsoaLKxQ4anISr) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/04GI4HyiQkhccc95GVAaan) | 2:11 | 2023-01-31 |  |
 | [Orchid](https://open.spotify.com/track/4sOwnjnmJVbvODmibHP6NA) | [Silentro](https://open.spotify.com/artist/1nYzeNQ4ub0ut3Zq4V88Yl) | [Orchid](https://open.spotify.com/album/5gSmCor6UGPw8cKWg8utL7) | 4:12 | 2025-01-10 |  |
 | [Outer Space \- Remastered Meditation Lounge Mix](https://open.spotify.com/track/64F9fI3h6rA2fBcvQI5HGu) | [Airstream](https://open.spotify.com/artist/64ujeKTqpc294czhOH2Dcq) | [Weightless & Smooth \- The Chill Adventure](https://open.spotify.com/album/5X173nYYGZSQzFw4YD6lZH) | 6:33 | 2023-01-31 |  |
 | [P.S.R.](https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q) | [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [Ile De Reve](https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws) | 5:57 | 2023-01-31 |  |
+| [paris](https://open.spotify.com/track/3O1DUdg4xkeKI6z2u2xMRf) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [paris](https://open.spotify.com/album/4f2YTF6QL1LEKJfXklHBzg) | 4:36 | 2026-10-02 |  |
+| [Parlé dans la langue des paillettes](https://open.spotify.com/track/52vEbOajSxFD9vXwffFB64) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Parlé dans la langue des paillettes](https://open.spotify.com/album/2QmAgUTf42Lg5awMLslclN) | 2:34 | 2026-10-02 |  |
 | [Passwords](https://open.spotify.com/track/5y89qOReeAEvXtqkJjnUta) | [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Ambient Works for the Highways of Los Angeles](https://open.spotify.com/album/7HvVnJ130evxR2xhenEFiK) | 1:43 | 2025-02-28 |  |
 | [Police Bribe](https://open.spotify.com/track/1yklYLJIko5j4Xyl7lWyl4) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Eden](https://open.spotify.com/album/5OAhAX8l7bD69fqhgKuGoH) | 6:31 | 2023-01-31 |  |
 | [Polyrhythmic Focus and Studying Part 1](https://open.spotify.com/track/6vzlTcJBemMHOK6rNlW99C) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:56 | 2023-01-31 |  |
@@ -80,6 +85,7 @@
 | [Projection Phase 3](https://open.spotify.com/track/5D2Q2uDmAgXsILAZtq3UqF) | [Tamacto](https://open.spotify.com/artist/02EvIsE0XWi2HJmTXcK2QQ) | [Projection Phase](https://open.spotify.com/album/5bDTUrvpiVmkj1j1MjegBZ) | 4:03 | 2023-02-10 |  |
 | [Pulse of Energy](https://open.spotify.com/track/1iXrptWumZpCohHlTE1ct2) | [FocusPocus](https://open.spotify.com/artist/3PvDMOBR3e0OLBKbEU8V2k) | [Pulse of Energy](https://open.spotify.com/album/4c5VV5hL4mPGqtXgar92Lf) | 2:58 | 2023-01-31 |  |
 | [Pulso B](https://open.spotify.com/track/61Xb7G9uaMAXpBhvpWVm7M) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Pulso B](https://open.spotify.com/album/3bj9KhQEEOt2m4DMfMgp5x) | 3:29 | 2025-05-09 |  |
+| [rain](https://open.spotify.com/track/0D8dSL6BonNuXrEPrHGu1W) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [rain](https://open.spotify.com/album/28vCeoxxlwX3AQhEizA2mv) | 2:08 | 2026-10-02 |  |
 | [Rainbow Rituals](https://open.spotify.com/track/4th6rCEHEtmBiP3kFTsyTF) | [Constant Shapes](https://open.spotify.com/artist/4O81OJGfgxw7hD2lXowBNy) | [Rainbow Rituals](https://open.spotify.com/album/4hmdNKvi9gh5dJ9o6UpAuw) | 8:10 | 2023-01-31 |  |
 | [reflections\_](https://open.spotify.com/track/4ILaye6zO7KQ4jdfcsyZfp) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [dark\_2](https://open.spotify.com/album/5RaaBAphojbpJusuLNsOY9) | 4:07 | 2023-01-31 |  |
 | [Relaxation Mood Part 1](https://open.spotify.com/track/1ITXk2XtlXEEJIjPaYxeHC) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Relaxation Mood](https://open.spotify.com/album/4oLFR8aCQj1GECAdnFhuFY) | 5:06 | 2023-02-10 | 2026-04-02 |

@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 29914,
+  "num_followers": 29995,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Jogodo",
-        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188861,
-      "name": "Jogodo",
-      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 375535,
       "name": "MONEY CONSTANT",
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Jogodo",
+        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188861,
+      "name": "Jogodo",
+      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 148656,
-      "name": "Coco",
-      "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
         "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 559903,
       "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
       "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 148656,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/33okuzZlDmJYJtA7hM4hxK"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "BAD BOY LOVESTORY",
         "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 164234,
       "name": "KONGOLESE SOUS BBL",
       "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/33okuzZlDmJYJtA7hM4hxK"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Che Che (feat. Asake)",
+      "url": "https://open.spotify.com/track/6xYaf931EF3ZeurqrMxNCO"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Vuka (feat. Thukuthela)",
         "url": "https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 327451,
       "name": "Vuka (feat. Thukuthela)",
       "url": "https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Che Che (feat. Asake)",
-      "url": "https://open.spotify.com/track/6xYaf931EF3ZeurqrMxNCO"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "forever be mine (feat. Wizkid)",
         "url": "https://open.spotify.com/album/7tWxhICLUYrxpalqEqT4kT"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 173253,
       "name": "forever be mine (feat. Wizkid)",
       "url": "https://open.spotify.com/track/46yD4yZk5XdaLWM6WSN8cC"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc"
     },
     {
       "added_at": "2026-06-30 14:51:43",

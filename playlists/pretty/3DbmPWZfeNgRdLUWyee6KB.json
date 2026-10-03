@@ -1,28 +1,28 @@
 {
   "description": "The best new indie music, indie folk &amp; rock discoveries. Fresh songs for your daily chill, focus and road trips. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists. Updated daily with new releases \u2014 hit save to stay tuned!",
-  "num_followers": 1334,
+  "num_followers": 1335,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAYZtDzDoWllgkOSyBwXt/XG57OTklf",
+  "snapshot_id": "AAAYgbNtLPOAXTQlgpKT7dDFJ2fhtsZV",
   "tracks": [
     {
-      "added_at": "2026-09-19 10:08:42",
+      "added_at": "2026-09-19 10:09:33",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
     },
     {
       "added_at": "2026-09-24 09:39:56",
@@ -41,20 +41,20 @@
       "url": "https://open.spotify.com/track/2uBH8zKy6WmcdtGkEOJ0cV"
     },
     {
-      "added_at": "2026-09-19 10:09:33",
+      "added_at": "2026-09-19 10:08:42",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2026-09-22 07:22:15",
@@ -381,342 +381,6 @@
       "url": "https://open.spotify.com/track/0t2E3v2usQGCeWIo9uZI22"
     },
     {
-      "added_at": "2026-09-02 07:53:08",
-      "album": {
-        "name": "Silent Avenue, Vol. 2",
-        "url": "https://open.spotify.com/album/1KCCEOYrwg6lW8jRDFtm9z"
-      },
-      "artists": [
-        {
-          "name": "THE EM",
-          "url": "https://open.spotify.com/artist/32O0qJQQPS5AbEtweDpE3v"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Centered",
-      "url": "https://open.spotify.com/track/15DiUJAOfFXa4ry8TVCl4I"
-    },
-    {
-      "added_at": "2026-09-02 07:53:09",
-      "album": {
-        "name": "Fish & Chips",
-        "url": "https://open.spotify.com/album/6sGInEiyXDwzTwz5r4lSwx"
-      },
-      "artists": [
-        {
-          "name": "Eton Mess",
-          "url": "https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd"
-        }
-      ],
-      "duration_ms": 224888,
-      "name": "Fish & Chips",
-      "url": "https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA"
-    },
-    {
-      "added_at": "2026-09-02 07:53:20",
-      "album": {
-        "name": "Plinthe",
-        "url": "https://open.spotify.com/album/3QG2OmpwhZ3lCKsj27Xkqm"
-      },
-      "artists": [
-        {
-          "name": "UDU",
-          "url": "https://open.spotify.com/artist/55mFwxCAjmt3l6nmFtP6jp"
-        }
-      ],
-      "duration_ms": 104414,
-      "name": "Plinthe",
-      "url": "https://open.spotify.com/track/6GMYzLHqaYsuRe4BBwtDE3"
-    },
-    {
-      "added_at": "2026-09-03 06:33:19",
-      "album": {
-        "name": "Kopf aus",
-        "url": "https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1"
-      },
-      "artists": [
-        {
-          "name": "Mia Hermann",
-          "url": "https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K"
-        }
-      ],
-      "duration_ms": 202828,
-      "name": "Nicht nur heut",
-      "url": "https://open.spotify.com/track/7Kfb3DrhtIApy2CuTWwfs8"
-    },
-    {
-      "added_at": "2026-05-07 22:07:00",
-      "album": {
-        "name": "See You Soon",
-        "url": "https://open.spotify.com/album/0aKEb4gmgXCz5ITsextRK8"
-      },
-      "artists": [
-        {
-          "name": "David Monni",
-          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
-        },
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        }
-      ],
-      "duration_ms": 335040,
-      "name": "See You Soon",
-      "url": "https://open.spotify.com/track/5u7dSBPo1HMfb2bnufsUsn"
-    },
-    {
-      "added_at": "2026-09-04 07:41:19",
-      "album": {
-        "name": "Sunshine Mery",
-        "url": "https://open.spotify.com/album/5SCF6XJUAw8ypOX6JPhdjz"
-      },
-      "artists": [
-        {
-          "name": "Nakace7",
-          "url": "https://open.spotify.com/artist/79WqBie5aUELM4nIUaNqZs"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "Sunshine Mery",
-      "url": "https://open.spotify.com/track/6R8bdDF7LEmYfSFnuL8JPb"
-    },
-    {
-      "added_at": "2026-09-04 07:41:21",
-      "album": {
-        "name": "Telephone (Demo)",
-        "url": "https://open.spotify.com/album/2bwSulBGn57LB3ftljJgYb"
-      },
-      "artists": [
-        {
-          "name": "Trent Schmit",
-          "url": "https://open.spotify.com/artist/7xwUob9itrByfnnGyHEIGQ"
-        }
-      ],
-      "duration_ms": 247078,
-      "name": "Telephone (Demo)",
-      "url": "https://open.spotify.com/track/41xiEeepKURMhIFOtBahiM"
-    },
-    {
-      "added_at": "2026-09-04 13:27:36",
-      "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/5D15vHFZgrvUdLQWATteUQ"
-      },
-      "artists": [
-        {
-          "name": "Krio",
-          "url": "https://open.spotify.com/artist/6fP0UUQ2SsI2xvbqGhXDbN"
-        }
-      ],
-      "duration_ms": 165740,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/1i9G9QJk7VwyiEyPE9QRlb"
-    },
-    {
-      "added_at": "2026-07-09 22:05:00",
-      "album": {
-        "name": "Smoke in a Silver Line",
-        "url": "https://open.spotify.com/album/33XXPERdj3JIybLT91WdLg"
-      },
-      "artists": [
-        {
-          "name": "Consorcio Humano",
-          "url": "https://open.spotify.com/artist/6pzNibk8eE0etGvSTW8rjI"
-        }
-      ],
-      "duration_ms": 190354,
-      "name": "Smoke in a Silver Line",
-      "url": "https://open.spotify.com/track/5pJE5tr1BWeMHxlBoCSc73"
-    },
-    {
-      "added_at": "2026-09-04 13:27:39",
-      "album": {
-        "name": "Your Silence Is Deadly",
-        "url": "https://open.spotify.com/album/2XcJhbHfWGlAZDPxhNUTHZ"
-      },
-      "artists": [
-        {
-          "name": "Linda Imperial",
-          "url": "https://open.spotify.com/artist/0ulH2qWVGdDxSNcCzj4hgA"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Your Silence Is Deadly",
-      "url": "https://open.spotify.com/track/3ohK0x2FlMSCHSyepX4h0Q"
-    },
-    {
-      "added_at": "2026-09-04 13:27:43",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3QNg4LrouXljZ0u6SjyWIo"
-      },
-      "artists": [
-        {
-          "name": "Valeska Rautenberg",
-          "url": "https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG"
-        }
-      ],
-      "duration_ms": 211624,
-      "name": "The Forest Song - A Cappella Version",
-      "url": "https://open.spotify.com/track/2oEEGGspJgXus3vxjDWqxI"
-    },
-    {
-      "added_at": "2026-09-05 08:27:07",
-      "album": {
-        "name": "You Made Me Bad",
-        "url": "https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc"
-      },
-      "artists": [
-        {
-          "name": "Rayka Blake",
-          "url": "https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc"
-        }
-      ],
-      "duration_ms": 220137,
-      "name": "You Made Me Bad",
-      "url": "https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL"
-    },
-    {
-      "added_at": "2026-09-06 15:28:34",
-      "album": {
-        "name": "Music Set Her Free",
-        "url": "https://open.spotify.com/album/03kawM8TTVWppnhFwrQtFz"
-      },
-      "artists": [
-        {
-          "name": "A J Green UK",
-          "url": "https://open.spotify.com/artist/0ZXLZz84ItG70ThGRNJpcm"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "Music Set Her Free",
-      "url": "https://open.spotify.com/track/3e9wXMK634KnIwOgZUQ3eU"
-    },
-    {
-      "added_at": "2026-09-06 15:28:35",
-      "album": {
-        "name": "Your Eyes",
-        "url": "https://open.spotify.com/album/5t6Cpwz4c71H4f2NItFBCb"
-      },
-      "artists": [
-        {
-          "name": "DreamParia",
-          "url": "https://open.spotify.com/artist/1CwTMmr3Z8ydNGTnOw5VSI"
-        }
-      ],
-      "duration_ms": 170618,
-      "name": "Your Eyes",
-      "url": "https://open.spotify.com/track/5ydEmfU0qNFnrn8EhB0tb6"
-    },
-    {
-      "added_at": "2026-09-07 15:42:46",
-      "album": {
-        "name": "Keep the Fire Burning",
-        "url": "https://open.spotify.com/album/00mnbYhnjSqhJnagbfQMvu"
-      },
-      "artists": [
-        {
-          "name": "Muhammad Al Ansar",
-          "url": "https://open.spotify.com/artist/3HtyWRj2bx54q3FmqbvOnT"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Keep the Fire Burning",
-      "url": "https://open.spotify.com/track/56ng0MPvNTSK3mddL5FlrE"
-    },
-    {
-      "added_at": "2026-09-07 15:43:00",
-      "album": {
-        "name": "Partycrasher",
-        "url": "https://open.spotify.com/album/1ufv95qDeuiuwsEaiXTVBL"
-      },
-      "artists": [
-        {
-          "name": "Vegas No.8",
-          "url": "https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Partycrasher",
-      "url": "https://open.spotify.com/track/59JSdeSwOgjOVjDa8dGTlO"
-    },
-    {
-      "added_at": "2026-09-07 15:44:12",
-      "album": {
-        "name": "MBTAM",
-        "url": "https://open.spotify.com/album/17Zwo5lYl2P99qpC4Ff5l3"
-      },
-      "artists": [
-        {
-          "name": "Reject Madrigal",
-          "url": "https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu"
-        },
-        {
-          "name": "Midas Maximus",
-          "url": "https://open.spotify.com/artist/6gGYY4919eT5VnTW9glmW3"
-        }
-      ],
-      "duration_ms": 146796,
-      "name": "MBTAM",
-      "url": "https://open.spotify.com/track/1cnaFPJRxqXW5X0TccsoZp"
-    },
-    {
-      "added_at": "2026-09-07 15:44:23",
-      "album": {
-        "name": "Ready to fly",
-        "url": "https://open.spotify.com/album/0DJUFmcW18iQwGaWdtQnUs"
-      },
-      "artists": [
-        {
-          "name": "The Last North",
-          "url": "https://open.spotify.com/artist/32rZRpC22soXsW4tuNAzLs"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Ready to fly",
-      "url": "https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x"
-    },
-    {
-      "added_at": "2026-09-08 07:56:28",
-      "album": {
-        "name": "Arena y Sal (Remix)",
-        "url": "https://open.spotify.com/album/02AKTqCfz1hGUgu2bUlttT"
-      },
-      "artists": [
-        {
-          "name": "Amor y Mareas",
-          "url": "https://open.spotify.com/artist/5q5rt9n700qDxWk62QPGQh"
-        },
-        {
-          "name": "Ralf Nasdalla",
-          "url": "https://open.spotify.com/artist/5hDDlbZZWQFs8Z1eZkro7Q"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Arena y Sal - Remix",
-      "url": "https://open.spotify.com/track/4Y1RkPyZPjbJJvPOeXVgUH"
-    },
-    {
-      "added_at": "2026-04-09 22:06:38",
-      "album": {
-        "name": "Adesso che sei grande",
-        "url": "https://open.spotify.com/album/64fn51HyT7871aojCCPnnP"
-      },
-      "artists": [
-        {
-          "name": "David Monni",
-          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
-        },
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Adesso che sei grande",
-      "url": "https://open.spotify.com/track/2BlH6mIfTU4gvrbE1VhKt8"
-    },
-    {
       "added_at": "2026-09-08 07:56:48",
       "album": {
         "name": "Queen of the Night",
@@ -803,6 +467,42 @@
       "duration_ms": 163606,
       "name": "Outlaw Skirt",
       "url": "https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W"
+    },
+    {
+      "added_at": "2026-07-09 22:05:00",
+      "album": {
+        "name": "Smoke in a Silver Line",
+        "url": "https://open.spotify.com/album/33XXPERdj3JIybLT91WdLg"
+      },
+      "artists": [
+        {
+          "name": "Consorcio Humano",
+          "url": "https://open.spotify.com/artist/6pzNibk8eE0etGvSTW8rjI"
+        }
+      ],
+      "duration_ms": 190354,
+      "name": "Smoke in a Silver Line",
+      "url": "https://open.spotify.com/track/5pJE5tr1BWeMHxlBoCSc73"
+    },
+    {
+      "added_at": "2026-05-07 22:07:00",
+      "album": {
+        "name": "See You Soon",
+        "url": "https://open.spotify.com/album/0aKEb4gmgXCz5ITsextRK8"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        },
+        {
+          "name": "Kafiristan",
+          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
+        }
+      ],
+      "duration_ms": 335040,
+      "name": "See You Soon",
+      "url": "https://open.spotify.com/track/5u7dSBPo1HMfb2bnufsUsn"
     },
     {
       "added_at": "2026-09-09 08:37:05",
@@ -1111,6 +811,26 @@
       "duration_ms": 171484,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3NGqGe0rcYbvagYVH2zyIJ"
+    },
+    {
+      "added_at": "2026-04-09 22:06:38",
+      "album": {
+        "name": "Adesso che sei grande",
+        "url": "https://open.spotify.com/album/64fn51HyT7871aojCCPnnP"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        },
+        {
+          "name": "Kafiristan",
+          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Adesso che sei grande",
+      "url": "https://open.spotify.com/track/2BlH6mIfTU4gvrbE1VhKt8"
     },
     {
       "added_at": "2026-09-16 06:24:47",
@@ -1891,6 +1611,86 @@
       "duration_ms": 255961,
       "name": "All I'm Asking",
       "url": "https://open.spotify.com/track/31wDnO5bkTr89Rikz29fz8"
+    },
+    {
+      "added_at": "2026-10-02 06:54:22",
+      "album": {
+        "name": "Apna Bnane Ka",
+        "url": "https://open.spotify.com/album/1AyikZ4vGASriaASy3NNXh"
+      },
+      "artists": [
+        {
+          "name": "Vijay Shukla Garg",
+          "url": "https://open.spotify.com/artist/4FhrqnnTZSAZU9wWbSXIXW"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Apna Bnane Ka",
+      "url": "https://open.spotify.com/track/2xmP8DFP6KHnpG4XsnM4RJ"
+    },
+    {
+      "added_at": "2026-10-02 06:54:24",
+      "album": {
+        "name": "MAL DE AMORES",
+        "url": "https://open.spotify.com/album/6gMXLZc9mWTv56GS4kIigS"
+      },
+      "artists": [
+        {
+          "name": "Chicka Tikka Masala",
+          "url": "https://open.spotify.com/artist/1itNEUHvXnRTI9iCL5KGCt"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "MAL DE AMORES",
+      "url": "https://open.spotify.com/track/0uEhQSc6LrfTLJErbzfHK8"
+    },
+    {
+      "added_at": "2026-10-02 06:54:26",
+      "album": {
+        "name": "Passenger Hookr",
+        "url": "https://open.spotify.com/album/0uQIglkhMcFeJo2CbCNTnX"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 136935,
+      "name": "Passenger Hookr",
+      "url": "https://open.spotify.com/track/0OEqN4sr8rsroFnBGLysOc"
+    },
+    {
+      "added_at": "2026-10-02 06:54:31",
+      "album": {
+        "name": "Lunes",
+        "url": "https://open.spotify.com/album/3p1lsGdPkLGv6aSw9BS298"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Lunes, atardecer",
+      "url": "https://open.spotify.com/track/2EAm8MWjMfkJTDSMUViShv"
+    },
+    {
+      "added_at": "2026-10-02 06:54:33",
+      "album": {
+        "name": "Un'anima",
+        "url": "https://open.spotify.com/album/59B8gGE2lecht7tVqGJZKi"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Giusti",
+          "url": "https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Un'anima",
+      "url": "https://open.spotify.com/track/3QOtvgnwYDw7aM9tjJTO1v"
     }
   ],
   "unique_name": "New Indie Music",

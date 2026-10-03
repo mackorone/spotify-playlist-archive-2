@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Clutter
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,621 likes - 199 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,624 likes - 199 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pop Rock Sugar Rush](https://open.spotify.com/track/3j1ir4cK96ILIU5twTkD6B) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Sugar Rush](https://open.spotify.com/album/5VzKsz1G19SNoEqMAG0eJA) | 1:51 |
-| 2 | [Track 2](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 0:00 |
+| 2 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 3 | [Lime Green Jello](https://open.spotify.com/track/16adKkSJLx6sqUhuzjWGg9) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [How to Land a Plane](https://open.spotify.com/album/7L3PGXfmfRStA0xI8XG8YJ) | 3:03 |
 | 4 | [Down the River](https://open.spotify.com/track/5RbcXgY0pHBJfgSXU55JSr) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Down the River](https://open.spotify.com/album/5xXDE5uhAnIeXaYwM8Kgm6) | 6:23 |
 | 5 | [Me/You \(always and forever\)](https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Me/You \(always and forever\)](https://open.spotify.com/album/0ePJn0pCp0M5ETAbCaYZfg) | 3:36 |

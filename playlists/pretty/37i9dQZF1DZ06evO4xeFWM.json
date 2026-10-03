@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 221304,
+  "num_followers": 221305,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADvyBJ6aYP2t2hcqBIQ2pjI",
+  "snapshot_id": "ar2igAAAAABuvcMqHlnrrowHEGSr1OpM",
   "tracks": [
     {
       "added_at": null,
@@ -307,30 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
@@ -359,6 +335,30 @@
       "duration_ms": 138115,
       "name": "Doom Days",
       "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD"
     },
     {
       "added_at": null,
@@ -540,9 +540,29 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 189728,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
+      "duration_ms": 270254,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad in Scandinavia",
+        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 198074,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
     },
     {
       "added_at": null,
@@ -579,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad in Scandinavia",
-        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 198074,
-      "name": "Grip",
-      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 270254,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
+      "duration_ms": 189728,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
     },
     {
       "added_at": null,

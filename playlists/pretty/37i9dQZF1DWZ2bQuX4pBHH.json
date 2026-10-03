@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 340330,
+  "num_followers": 340434,
   "original_name": "Shah Rukh Khan Hits",
   "owner": {
     "name": "Spotify",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-08-31 07:19:17",
       "album": {
-        "name": "Darr",
-        "url": "https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 366573,
-      "name": "Tu Mere Samne",
-      "url": "https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq"
-    },
-    {
-      "added_at": "2026-08-31 07:19:17",
-      "album": {
         "name": "Veer - Zaara",
         "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 265926,
       "name": "Do Pal",
       "url": "https://open.spotify.com/track/7fyIuR4aaWb6iltlAoSkxF"
+    },
+    {
+      "added_at": "2026-08-31 07:19:17",
+      "album": {
+        "name": "Darr",
+        "url": "https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 366573,
+      "name": "Tu Mere Samne",
+      "url": "https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq"
     },
     {
       "added_at": "2026-08-31 07:19:17",

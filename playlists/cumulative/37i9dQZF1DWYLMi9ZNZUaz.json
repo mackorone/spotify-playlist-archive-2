@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 260073,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
@@ -7896,6 +7896,24 @@
       "duration_ms": 189111,
       "name": "Xu\u1ea5t Ph\u00e1t \u0110i\u1ec3m",
       "url": "https://open.spotify.com/track/6TOI8hhlfebwsTYRCVpRMn"
+    },
+    {
+      "album": {
+        "name": "WILD WEST",
+        "url": "https://open.spotify.com/album/1iVBHUg2oLEsQB0O9qSjGj"
+      },
+      "artists": [
+        {
+          "name": "Yung Ni99",
+          "url": "https://open.spotify.com/artist/0XJGo6xvJ24G9XXuT1A3NA"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/0qMIga6w9V9cOQeXsh6KgJ"
     },
     {
       "album": {

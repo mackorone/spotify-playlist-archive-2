@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: t\-low, Miksu / Macloud
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,352 likes - 99 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,318 likes - 99 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

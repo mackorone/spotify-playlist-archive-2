@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Baby 123",
+        "url": "https://open.spotify.com/album/6z2T61xva7VFBk7a2rUmrx"
+      },
+      "artists": [
+        {
+          "name": "RAPROJECT SIX",
+          "url": "https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59"
+        },
+        {
+          "name": "MADAM SAUCE",
+          "url": "https://open.spotify.com/artist/3yL6zbQBFZbBp2cUG38Eu2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176105,
+      "name": "Baby 123",
+      "url": "https://open.spotify.com/track/3chBLXLQgj1KB2h1KgQxmF"
+    },
+    {
+      "album": {
         "name": "Baggages",
         "url": "https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7"
       },
@@ -2612,7 +2634,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 323000,
       "name": "FeedxCortez",
       "url": "https://open.spotify.com/track/4dTovK6UrUCl1cCGUtL1FH"
@@ -3776,7 +3798,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 171093,
       "name": "hulog",
       "url": "https://open.spotify.com/track/3qIqMxhU45MJeXQ0mZVb7k"
@@ -3932,6 +3954,24 @@
       "duration_ms": 191500,
       "name": "IISA (feat. Jrldm)",
       "url": "https://open.spotify.com/track/1o4qTccTZLT2NVPhRfBVQ8"
+    },
+    {
+      "album": {
+        "name": "ikaw",
+        "url": "https://open.spotify.com/album/7i9liawBNYlGcRh1B1Ywsd"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1h5eRSFTxtcqvv04uKU2kz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148141,
+      "name": "ikaw",
+      "url": "https://open.spotify.com/track/58b443Cif2xysQK1WoH2RE"
     },
     {
       "album": {
@@ -4402,7 +4442,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 240000,
       "name": "Kailan Ka Uuwi (feat. Flow G)",
       "url": "https://open.spotify.com/track/5INJWPDC31rn7ebGRQ0rN9"
@@ -7815,6 +7855,28 @@
     },
     {
       "album": {
+        "name": "Saan Ba Pupunta?",
+        "url": "https://open.spotify.com/album/3Zch40hPayH1X01LvDwBF7"
+      },
+      "artists": [
+        {
+          "name": "Keanna Mag",
+          "url": "https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v"
+        },
+        {
+          "name": "12th Street",
+          "url": "https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237504,
+      "name": "Palaisipan",
+      "url": "https://open.spotify.com/track/4Z7hKDpGq5bMmQ98fdwDOt"
+    },
+    {
+      "album": {
         "name": "Palaisipan",
         "url": "https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0"
       },
@@ -8956,7 +9018,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 194400,
       "name": "Ride Slow",
       "url": "https://open.spotify.com/track/5JKb9yr5pvdphnWdn4KILp"
@@ -9720,7 +9782,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 331139,
       "name": "Sepanx",
       "url": "https://open.spotify.com/track/5xBFSrqLvNq2IXY97sG6Ux"
@@ -10090,6 +10152,28 @@
       "duration_ms": 228553,
       "name": "SITWASYONSHIP",
       "url": "https://open.spotify.com/track/0wNf0yIreg4A8C5ZUY6b6Q"
+    },
+    {
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/1uQpwZwVmvLSGccTfKvJs5"
+      },
+      "artists": [
+        {
+          "name": "GRA the Great",
+          "url": "https://open.spotify.com/artist/3w5kgMZkmUD997k44uHz9N"
+        },
+        {
+          "name": "Samsara 304",
+          "url": "https://open.spotify.com/artist/7iDnmQrHjOaihg0RLOp4RQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188271,
+      "name": "So Bad (feat. Samsara 304)",
+      "url": "https://open.spotify.com/track/4sBQ98I4jaBeuFh6aVJHzl"
     },
     {
       "album": {
@@ -10804,6 +10888,24 @@
       "duration_ms": 208384,
       "name": "tayo lang (may alam)",
       "url": "https://open.spotify.com/track/5SLbJ9NcVO8FaRKX5XImz8"
+    },
+    {
+      "album": {
+        "name": "tayo lang.",
+        "url": "https://open.spotify.com/album/6ngWf0tH5Hbrp4ugRfDqCW"
+      },
+      "artists": [
+        {
+          "name": "Angela Ken",
+          "url": "https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195633,
+      "name": "tayo lang.",
+      "url": "https://open.spotify.com/track/0kg1WyoI9K5KddghT3FrbW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 155344,
+  "num_followers": 155405,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Solo Monk (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 157026,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "The New Classic Trio",
         "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 408600,
       "name": "I'll Let You Know",
       "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Solo Monk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 157026,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The Duke Plays Ellington",
-        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 152886,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Solo Monk (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 148933,
       "name": "Dinah (Take 2)",
       "url": "https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "The Duke Plays Ellington",
+        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 152886,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The Shearing Piano",
-        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "All Kinds Of Weather",
         "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 254800,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "The Shearing Piano",
+        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
-      },
-      "artists": [
-        {
-          "name": "Michel Petrucciani",
-          "url": "https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Memories Of Paris",
-      "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Kenny Drew And His Progressive Piano",
         "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 204506,
       "name": "52nd Street Theme",
       "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
+      },
+      "artists": [
+        {
+          "name": "Michel Petrucciani",
+          "url": "https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Memories Of Paris",
+      "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Made Possible",
-        "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
-      },
-      "artists": [
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 370133,
-      "name": "Pound For Pound",
-      "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Fatha",
         "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 248600,
       "name": "St. James Infirmary Blues",
       "url": "https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Made Possible",
+        "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 370133,
+      "name": "Pound For Pound",
+      "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1403,22 +1403,22 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Crystal Silence",
-        "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
       },
       "artists": [
         {
-          "name": "Gary Burton",
-          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
+          "name": "Carla Bley",
+          "url": "https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO"
         },
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
         }
       ],
-      "duration_ms": 238800,
-      "name": "I'm Your Pal",
-      "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
+      "duration_ms": 278640,
+      "name": "\u00datviklingssang",
+      "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
+        "name": "Crystal Silence",
+        "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
       },
       "artists": [
         {
-          "name": "Carla Bley",
-          "url": "https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO"
+          "name": "Gary Burton",
+          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
         },
         {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 278640,
-      "name": "\u00datviklingssang",
-      "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
+      "duration_ms": 238800,
+      "name": "I'm Your Pal",
+      "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Some More Love Songs",
-        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
-      },
-      "artists": [
-        {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        }
-      ],
-      "duration_ms": 447813,
-      "name": "When I Fall in Love",
-      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Sonny's Crib",
         "url": "https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 449160,
       "name": "Come Rain Or Come Shine - Remastered 1998",
       "url": "https://open.spotify.com/track/60sUnEBfXTFQJ25htHi8ty"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Some More Love Songs",
+        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
+      },
+      "artists": [
+        {
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        }
+      ],
+      "duration_ms": 447813,
+      "name": "When I Fall in Love",
+      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
     },
     {
       "added_at": "2026-01-22 13:51:53",

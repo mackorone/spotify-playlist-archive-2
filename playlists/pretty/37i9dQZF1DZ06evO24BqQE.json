@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 54192,
+  "num_followers": 54257,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAD+tYMKiTD6LlhULdiTyyA5",
+  "snapshot_id": "ar2igAAAAABlfyta3VBq+ZcrGkMo+RmI",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 172631,
       "name": "Online",
       "url": "https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
     },
     {
       "added_at": null,
@@ -159,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Game Needs Us",
-        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 185429,
-      "name": "Rum & Soda",
-      "url": "https://open.spotify.com/track/70NDHUkE7tNOI6lCla0PpL"
+      "duration_ms": 191976,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
       "added_at": null,
@@ -195,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
+      "duration_ms": 185429,
+      "name": "Rum & Soda",
+      "url": "https://open.spotify.com/track/70NDHUkE7tNOI6lCla0PpL"
     },
     {
       "added_at": null,
@@ -311,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 203014,
+      "name": "16",
+      "url": "https://open.spotify.com/track/1pLS5FERQjEXlHho6THq1d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -351,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 154909,
-      "name": "Bae Bae",
-      "url": "https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
@@ -391,6 +403,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 161096,
+      "name": "Shamaya",
+      "url": "https://open.spotify.com/track/64fWvB32L1S5bopPA7edF7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 154909,
+      "name": "Bae Bae",
+      "url": "https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -407,6 +459,38 @@
       "duration_ms": 194954,
       "name": "Regret (feat. 2Baba)",
       "url": "https://open.spotify.com/track/4RkuFGsIae9AGdGnxIQTGx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 197575,
+      "name": "Totori",
+      "url": "https://open.spotify.com/track/32a4IaGEJUhfy45yV5JH84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 154210,
+      "name": "Deliberate Work",
+      "url": "https://open.spotify.com/track/0eZCDeswlheOHsgJtZE5BX"
     },
     {
       "added_at": null,
@@ -455,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 197575,
-      "name": "Totori",
-      "url": "https://open.spotify.com/track/32a4IaGEJUhfy45yV5JH84"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Days",
         "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
       },
@@ -483,26 +551,6 @@
       "duration_ms": 164557,
       "name": "For Days",
       "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Many Ways (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
       "added_at": null,
@@ -523,6 +571,26 @@
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Many Ways (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
       "added_at": null,
@@ -719,26 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "KING COAL",
-        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
       },
       "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 188803,
-      "name": "GBESUNMO",
-      "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
+      "duration_ms": 200708,
+      "name": "Never Stopped",
+      "url": "https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm"
     },
     {
       "added_at": null,
@@ -759,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 200708,
-      "name": "Never Stopped",
-      "url": "https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -791,6 +835,30 @@
       "duration_ms": 160000,
       "name": "Romeo Must Die (RMD)",
       "url": "https://open.spotify.com/track/4EoYs4KY7oHQpJPTuxD7mU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KING COAL",
+        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 188803,
+      "name": "GBESUNMO",
+      "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
     },
     {
       "added_at": null,
@@ -831,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 163042,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -867,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 163042,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Traboski",
         "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
       },
@@ -879,66 +947,6 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 214060,
-      "name": "Kenkele",
-      "url": "https://open.spotify.com/track/0mb1o4mFhrcPHivtlVNCGD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Calculate Love",
-      "url": "https://open.spotify.com/track/6SQNUYQB4FEMS3UfTDZ5kd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
     }
   ],
   "unique_name": "This Is BNXN",

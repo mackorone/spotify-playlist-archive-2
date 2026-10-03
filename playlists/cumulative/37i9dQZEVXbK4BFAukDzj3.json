@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "album": {
         "name": "BACK",
         "url": "https://open.spotify.com/album/2nyNHmw3iHCiPdtjVGo5uh"
       },
@@ -820,6 +838,24 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "album": {
+        "name": "BADDIES IN BELGICA",
+        "url": "https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k"
+      },
+      "artists": [
+        {
+          "name": "Issah",
+          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125536,
+      "name": "BADDIES IN BELGICA",
+      "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
     },
     {
       "album": {
@@ -1140,7 +1176,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -3888,7 +3924,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -4058,6 +4094,28 @@
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "album": {
+        "name": "HVB",
+        "url": "https://open.spotify.com/album/2J0nVKpUaEfK1HfH2mDST1"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150266,
+      "name": "HVB",
+      "url": "https://open.spotify.com/track/1rmyXcwRGKDpKG9EzjmlQQ"
     },
     {
       "album": {
@@ -4574,7 +4632,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
@@ -4596,7 +4654,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -4658,7 +4716,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 125586,
       "name": "Jij Hebt Mij",
       "url": "https://open.spotify.com/track/5AIvCO5v2mYxM3EtkxKz4T"
@@ -4960,7 +5018,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD"
@@ -6279,6 +6337,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "album": {
         "name": "Niemand",
         "url": "https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ"
       },
@@ -6808,7 +6884,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -6938,6 +7014,24 @@
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "album": {
@@ -8145,6 +8239,24 @@
     },
     {
       "album": {
+        "name": "Spot aan",
+        "url": "https://open.spotify.com/album/2PgBCsuKlPk2RIvQx72KYF"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160394,
+      "name": "Spot aan",
+      "url": "https://open.spotify.com/track/5AAfz7AVcO8BBwOknCKZ1Y"
+    },
+    {
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
       },
@@ -8612,7 +8724,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -10028,7 +10140,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 142965,
       "name": "Zandloopster",
       "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
@@ -10174,7 +10286,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 184656,
       "name": "Zonnebank",
       "url": "https://open.spotify.com/track/5MCBmUeV3b1Rmwzb99fjgK"

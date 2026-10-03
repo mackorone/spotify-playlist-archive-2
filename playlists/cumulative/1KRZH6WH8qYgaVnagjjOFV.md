@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-234 songs - 15 hr 17 min
+235 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Stories \- Break Open](https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO) | 6:38 | 2026-03-13 | 2026-06-02 |
 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 | 2024-05-24 |  |
 | [Suddenly](https://open.spotify.com/track/03g8sbVKjDg2o4GBVfI3xc) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Suddenly](https://open.spotify.com/album/1qeOCgKRH1TzpFwFf9ZXMX) | 2:57 | 2026-07-10 |  |
-| [Sunday Morning](https://open.spotify.com/track/2gyMKeLaMJnOCCoeTE9yae) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Sunday Morning](https://open.spotify.com/album/2az66l3p60stcXJh8u7iqk) | 3:04 | 2026-04-10 |  |
+| [Sunday Morning](https://open.spotify.com/track/2gyMKeLaMJnOCCoeTE9yae) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Sunday Morning](https://open.spotify.com/album/2az66l3p60stcXJh8u7iqk) | 3:04 | 2026-04-10 | 2026-10-03 |
+| [Sunday Morning \(with Pastor Mike Jr.\)](https://open.spotify.com/track/5MRpUCfaXeB55Sbbep7izS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Here Comes The Church](https://open.spotify.com/album/6FDsAiolMTmN88gZQs8qpB) | 3:07 | 2026-10-02 |  |
 | [sundays](https://open.spotify.com/track/7audgOVGbxdHuInGTq2FHP) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [sundays](https://open.spotify.com/album/3Y8zeULelcsv45zhoHRNLE) | 2:43 | 2026-08-14 | 2026-09-17 |
 | [Take It All Back](https://open.spotify.com/track/4AjyX21TX61oa8AFaKZmxc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 3:13 | 2024-08-07 |  |
 | [Take It All Back \- 🔥🔥 Version](https://open.spotify.com/track/1S10j0Pz34TyWvH8jEikbE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/7uzpfry2q3E9juC3X8uLIt) | 3:15 | 2024-05-24 | 2026-05-18 |

@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: AKRIILA",
-  "num_followers": 134324,
+  "num_followers": 134345,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "COMPA COLETO (uy_como)",
-        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 200653,
-      "name": "COMPA COLETO (uy_como)",
-      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "FX De La Rose",
-        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 118666,
-      "name": "Yo te conozco :):",
-      "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 118666,
+      "name": "Yo te conozco :):",
+      "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -611,38 +611,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "ALMA",
-      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
       },
@@ -659,6 +627,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
         "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 189223,
       "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
       "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "ALMA",
+      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "EQUILIBRIVM II",
-        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 202817,
-      "name": "Azul (Vers\u00e3o Espanhol)",
-      "url": "https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "QUIMERA",
         "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 160535,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/2dVpRl0lq9lUEdPPQ1Niec"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 202817,
+      "name": "Azul (Vers\u00e3o Espanhol)",
+      "url": "https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "si la ves",
-        "url": "https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R"
+        "name": "Fing\u00edas",
+        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
       "artists": [
         {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         }
       ],
-      "duration_ms": 177829,
-      "name": "si la ves",
-      "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
+      "duration_ms": 225373,
+      "name": "Fing\u00edas",
+      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Fing\u00edas",
-        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
+        "name": "si la ves",
+        "url": "https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R"
       },
       "artists": [
         {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
         }
       ],
-      "duration_ms": 225373,
-      "name": "Fing\u00edas",
-      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+      "duration_ms": 177829,
+      "name": "si la ves",
+      "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "ya no estoy",
+        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "ya no estoy",
+      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Quien Como T\u00fa",
         "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
       "url": "https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "ya no estoy",
-        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "ya no estoy",
-      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "LOS CISNES",
+        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        }
+      ],
+      "duration_ms": 177215,
+      "name": "CARI\u00d1O",
+      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Elsa y Elmar (Spotify Sessions)",
         "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 287328,
       "name": "Grecia - Spotify Sessions",
       "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "LOS CISNES",
-        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
-      },
-      "artists": [
-        {
-          "name": "Melanie Santiler",
-          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
-        }
-      ],
-      "duration_ms": 177215,
-      "name": "CARI\u00d1O",
-      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
     },
     {
       "added_at": "2026-10-02 04:02:33",

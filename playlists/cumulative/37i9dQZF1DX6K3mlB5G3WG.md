@@ -4,7 +4,7 @@
 
 > Giorgia in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,822 songs - 8 day 5 hr 26 min
+3,823 songs - 8 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3196,6 +3196,7 @@
 | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue) | 3:04 | 2025-07-10 | 2025-08-15 |
 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-24 | 2025-08-22 |
 | [Sugar Water Cyanide](https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Sugar Water Cyanide](https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm) | 2:54 | 2024-12-05 | 2025-01-10 |
+| [Sul Filo](https://open.spotify.com/track/1XoRJ6XYeIpfrRTm0t1Ple) | [PierC](https://open.spotify.com/artist/16FsbJXEa2nJ61pyIL3ch8) | [Sul Filo](https://open.spotify.com/album/130Xq8MNyG0Sp77qx37KP1) | 2:58 | 2026-10-02 |  |
 | [Sul filo \- parte II](https://open.spotify.com/track/2JKwn6MO60F9ODkZrXHNUw) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [L'ornamento delle cose secondarie](https://open.spotify.com/album/0e0j6aB2tN0Ulo0fAiJPYa) | 3:33 | 2026-05-15 | 2026-06-05 |
 | [Sul più bello](https://open.spotify.com/track/0LPXTnvvNYBa3sIjdCytcz) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Sul più bello](https://open.spotify.com/album/3yo8OZxRy2L9CMyzCK8jmx) | 2:56 | 2024-07-18 | 2024-08-30 |
 | [sulament’ cu tte](https://open.spotify.com/track/6spuyWkYknIpNSIG6n8fdm) | [ramé](https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw), [Sam Beats Baby](https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf) | [sulament’ cu tte](https://open.spotify.com/album/3woBfDGQJ2zazEMYcWKI0s) | 2:30 | 2026-05-15 | 2026-06-05 |

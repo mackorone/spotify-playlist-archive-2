@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADlA47yQ+4twgzApnHc8AG1",
+  "snapshot_id": "ar2igAAAAAA0pByvwp2dsb/71Pcnr5pw",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 360680,
+      "name": "My Joy",
+      "url": "https://open.spotify.com/track/00tk3yXvbdngvs5nuTysRJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fearless (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 505773,
       "name": "I Give You Glory",
       "url": "https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 360680,
-      "name": "My Joy",
-      "url": "https://open.spotify.com/track/00tk3yXvbdngvs5nuTysRJ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 139294,
+  "num_followers": 139307,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAtV6kUFcAmw9tdW+bpdaRr",
+  "snapshot_id": "ar2igAAAAAAccKQCI2ekqSsq3WvUhkms",
   "tracks": [
     {
       "added_at": null,
@@ -323,46 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 237814,
-      "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Come Thru (with Usher)",
-      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -387,6 +347,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Come Thru (with Usher)",
+      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 237814,
+      "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life On Earth - EP",
         "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
       },
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+      "duration_ms": 177542,
+      "name": "Switch A Nigga Out",
+      "url": "https://open.spotify.com/track/5Mv7yjian35AddlklJgg1v"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 177542,
-      "name": "Switch A Nigga Out",
-      "url": "https://open.spotify.com/track/5Mv7yjian35AddlklJgg1v"
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": null,
@@ -479,6 +479,26 @@
       "duration_ms": 281013,
       "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
       "url": "https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 207294,
+      "name": "Unloyal (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
       "added_at": null,
@@ -523,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 207294,
-      "name": "Unloyal (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 198429,
       "name": "Robbed You (with Mariah the Scientist)",
       "url": "https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 197094,
+      "name": "Constant Bullshit",
+      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 197094,
-      "name": "Constant Bullshit",
-      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On Earth - EP",
-        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 151714,
       "name": "Throw It Away",
       "url": "https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life On Earth - EP",
+        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 182037,
+      "name": "Reciprocate",
+      "url": "https://open.spotify.com/track/5xGqh5mjKgOhp9TOlFeCcJ"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 213933,
       "name": "My Affection (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 182037,
-      "name": "Reciprocate",
-      "url": "https://open.spotify.com/track/5xGqh5mjKgOhp9TOlFeCcJ"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 267440,
-      "name": "Dead (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/3gnBcl5KRYTzIQyCOQug6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lustropolis",
         "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 244000,
       "name": "You're Stuck",
       "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 267440,
+      "name": "Dead (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/3gnBcl5KRYTzIQyCOQug6F"
     },
     {
       "added_at": null,

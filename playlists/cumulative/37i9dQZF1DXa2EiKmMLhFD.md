@@ -2,14 +2,15 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari ROSÉ, Tulus, Taylor Swift, Olivia Rodrigo, serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari Gloria Jessica, Ade Govinda, Taylor Swift, ADÉLA, Olivia Rodrigo, serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-409 songs - 1 day 1 hr 17 min
+411 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-27 | 2024-01-26 |
 | [1000X](https://open.spotify.com/track/6xrP29JvvYP5ftteZ7nubf) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [1000X](https://open.spotify.com/album/1praH9t2dBOUP9IcLgjpVc) | 4:12 | 2026-04-10 |  |
+| [2001x](https://open.spotify.com/track/7EkTXoaED7peReoRytElSi) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [2001x](https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN) | 3:24 | 2026-10-02 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-29 | 2024-02-02 |
 | [A Little Piece of Heaven](https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 8:00 | 2024-06-11 | 2024-07-19 |
 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 | 2023-06-13 | 2024-02-09 |
@@ -74,7 +75,7 @@
 | [Cinderella](https://open.spotify.com/track/3nWlfhNCcDhAxlsHmcggEG) | [Radja](https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5) | [Langkah Baru](https://open.spotify.com/album/6wms9n1gWJVTXIzXL0SzIR) | 3:32 | 2024-01-25 | 2024-05-10 |
 | [Cintamu Sepahit Topi Miring](https://open.spotify.com/track/1ixNEKbIZTTZ5LIz3rr9jD) | [Jogja Hip Hop Foundation](https://open.spotify.com/artist/0Pk4JEXgC64RBmovnQDZ27) | [Semar Mesem Romo Mendem](https://open.spotify.com/album/7nC7NZkREbTAIWuknYkWlP) | 4:54 | 2023-03-23 | 2023-07-06 |
 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-05-25 | 2024-02-23 |
-| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-15 |  |
+| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-15 | 2026-10-03 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-06-28 | 2024-07-05 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 | 2025-03-01 |
 | [Cukup](https://open.spotify.com/track/5cWdD8mTwa7k3ZV6nV3DDM) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 3:40 | 2025-05-16 | 2026-01-30 |
@@ -191,7 +192,7 @@
 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2023-03-23 | 2025-04-11 |
 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 | 2026-07-24 | 2026-08-22 |
 | [Lesung Pipi](https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG) | 3:45 | 2025-05-09 |  |
-| [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 | 2025-10-06 |  |
+| [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 | 2025-10-06 | 2026-10-03 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-26 | 2025-05-31 |
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-03-23 | 2023-10-13 |
 | [Loneliness](https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Loneliness](https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc) | 3:01 | 2023-06-28 | 2023-12-09 |
@@ -263,6 +264,7 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-11 | 2024-12-06 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-02-28 | 2024-03-12 |
 | [Pura Pura Lupa](https://open.spotify.com/track/6Aw5k0jkFceYayaJoRupLT) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Pura Pura Lupa](https://open.spotify.com/album/5FlwUe1gVaypatWMbvnSfX) | 4:06 | 2025-02-28 | 2025-03-22 |
+| [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 | 2026-10-02 |  |
 | [Qalbi Fil Madinah](https://open.spotify.com/track/2A60yUGLjnvwvoCYDyAk8Y) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Qalbi Fil Madinah](https://open.spotify.com/album/36bGiADRQ7jBGthPyPU1Ly) | 3:24 | 2025-03-21 | 2025-04-21 |
 | [Rabun Jauh](https://open.spotify.com/track/670sqeIKIxTu0DweRjnjKt) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Rabun Jauh](https://open.spotify.com/album/0gD4VL7vdxZfeUkRfTpLRM) | 2:55 | 2026-04-24 |  |
 | [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 | 2024-02-08 | 2024-05-10 |

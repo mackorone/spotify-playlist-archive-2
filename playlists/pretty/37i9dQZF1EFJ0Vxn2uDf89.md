@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 189 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 371 likes - 189 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 16 | [Dirty](https://open.spotify.com/track/3pShTDa5E1bPBkrc1mxxGY) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:28 |
 | 17 | [Downfall](https://open.spotify.com/track/5tGnphp8D9Doa2ZULhJSMx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:15 |
 | 18 | [Halloween](https://open.spotify.com/track/5aeQMQDWe64gVnVYSOqW6A) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:55 |
-| 19 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 |
-| 20 | [Deny Deny Deny](https://open.spotify.com/track/6OICC2Us0JVbUgGXFJJOzZ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 |
+| 19 | [Deny Deny Deny](https://open.spotify.com/track/6OICC2Us0JVbUgGXFJJOzZ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 |
+| 20 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 |
 | 21 | [Blue Banisters](https://open.spotify.com/track/4U9ACZETPOqGuJkWtjkjLF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:53 |
 | 22 | [Son of a Bitch](https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:35 |
 | 23 | [Damn Near Normal](https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:44 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 37 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 |
 | 38 | [Bloodshot](https://open.spotify.com/track/72SQbtwyjWOsHQn0CCXrkh) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Warplanes](https://open.spotify.com/album/4gRHkiOgkz3whV2wvuNrPt) | 3:20 |
 | 39 | [Give Me The Reason](https://open.spotify.com/track/2Jda264qU8l4iquWEGRlJl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix) | 3:54 |
-| 40 | [About You](https://open.spotify.com/track/4M7nlEPdtK18kDy8q8Zwa7) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:40 |
-| 41 | [Funeral](https://open.spotify.com/track/22xDzh3lOucccBrm1BB8xf) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 4:03 |
+| 40 | [Funeral](https://open.spotify.com/track/22xDzh3lOucccBrm1BB8xf) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 4:03 |
+| 41 | [About You](https://open.spotify.com/track/4M7nlEPdtK18kDy8q8Zwa7) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:40 |
 | 42 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
 | 43 | [When I'm Not Around](https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [When I'm Not Around](https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz) | 3:21 |
 | 44 | [Surrounded](https://open.spotify.com/track/4EWMKfiqViuDfFFronSE2w) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:08 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 113 | [222](https://open.spotify.com/track/2n8sQRvylAvSM4bjE6yyw0) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:05 |
 | 114 | [Be My Yoko](https://open.spotify.com/track/2VxJ6xBdt83j9vSbMaZiKl) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Grizfolk](https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R) | 3:10 |
 | 115 | [I'll Lock Up](https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:11 |
-| 116 | [Spiritual](https://open.spotify.com/track/1XYCF26x4HITjEyxMxZ01U) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Prelude](https://open.spotify.com/album/7rLrvPpkdkDXtocOwOXbVS) | 3:26 |
-| 117 | [Meet You There](https://open.spotify.com/track/3xfpy8wDVGsb5pJkmGUXtR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:31 |
+| 116 | [Meet You There](https://open.spotify.com/track/3xfpy8wDVGsb5pJkmGUXtR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:31 |
+| 117 | [Spiritual](https://open.spotify.com/track/1XYCF26x4HITjEyxMxZ01U) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Prelude](https://open.spotify.com/album/7rLrvPpkdkDXtocOwOXbVS) | 3:26 |
 | 118 | [Denim & Diamonds](https://open.spotify.com/track/01Owqjp8oN43Hw0r7TfJlt) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 3:12 |
 | 119 | [She Got Me](https://open.spotify.com/track/1oLV7m7ZYg34oCNI1vp2sy) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 1:54 |
 | 120 | [When I Was](https://open.spotify.com/track/40qpt6DLPe4vXsRC2zKK3y) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:55 |
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 137 | [Born Tough](https://open.spotify.com/track/3g8vcfT5SKoBtA7SYf6147) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 3:51 |
 | 138 | [Known By None](https://open.spotify.com/track/4koDjFHualV1u6yndB5rhD) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 2:50 |
 | 139 | [Stick Around](https://open.spotify.com/track/7yG3zseFtpi7N8Y4rvgmzN) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:23 |
-| 140 | [MY MIRROR](https://open.spotify.com/track/3kwPnf0durIUtZ6Eks61SX) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [TZIA](https://open.spotify.com/album/7pEGbqxLbAXuDZRxIro0td) | 4:24 |
-| 141 | [Rolling & Smoking](https://open.spotify.com/track/5vRwHCMfdZoYEOL7jeZ3P6) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 2:57 |
+| 140 | [Rolling & Smoking](https://open.spotify.com/track/5vRwHCMfdZoYEOL7jeZ3P6) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 2:57 |
+| 141 | [MY MIRROR](https://open.spotify.com/track/3kwPnf0durIUtZ6Eks61SX) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [TZIA](https://open.spotify.com/album/7pEGbqxLbAXuDZRxIro0td) | 4:24 |
 | 142 | [Rainbow](https://open.spotify.com/track/5295DzrqA8A1zCgyESsDeD) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [four](https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP) | 3:44 |
 | 143 | [Stronger](https://open.spotify.com/track/6VBQlVhU5F5vGNRq5HWmzB) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Stronger](https://open.spotify.com/album/6eOQFV5Ahht3zbFARQbXA9) | 4:06 |
 | 144 | [Growing Song](https://open.spotify.com/track/1b3qzPiOsoGOJvNRSLWJ6u) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:27 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 188 | [Own The Night](https://open.spotify.com/track/0BorUElU7vFO51qKnAx8kM) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Own The Night](https://open.spotify.com/album/5Ph15urX6DYg3XRrw3Zw3X) | 3:34 |
 | 189 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 
-Snapshot ID: `Acdz8AAAAACMRozEgI09bk03ToQzH8+e`
+Snapshot ID: `Acd5kAAAAADNKanZtyKUcS1nrDUhur9W`

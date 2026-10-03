@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 571 likes - 75 songs - 4 hr 45 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 579 likes - 76 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 73 | [Mean Dog](https://open.spotify.com/track/3d8u5YQo5PQwt0cnZn2LfC) | [Sturgeon](https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF) | [Mean Dog](https://open.spotify.com/album/1l0iuJVPFyOhmYVJD5B2a8) | 3:04 |
 | 74 | [Rise](https://open.spotify.com/track/7mYCsCoJSehy39yICnduge) | [Teku Syndrom](https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB) | [Rise](https://open.spotify.com/album/4Zieo2ylQAwyEQv9jNp5hf) | 4:22 |
 | 75 | [My Last Song](https://open.spotify.com/track/1vA3Eckd0hUPGctLZsLSis) | [WakeUpCall](https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve) | [If Beethoven Was a Punk](https://open.spotify.com/album/1MZl3M08invYemenKtPv7T) | 3:23 |
+| 76 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
 
-Snapshot ID: `AAACPh/qsbiqLQHMMjs+FlS4iuJAoHQu`
+Snapshot ID: `AAACPzIg2OX3iYE1mAyjutlPBT3njPx/`

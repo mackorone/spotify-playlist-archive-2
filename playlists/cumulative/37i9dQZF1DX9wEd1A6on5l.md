@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-945 songs - 1 day 20 hr 29 min
+946 songs - 1 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,7 @@
 | [Intentions \- A COLORS SHOW](https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Intentions \- A COLORS SHOW](https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9) | 1:48 | 2025-07-11 | 2025-07-18 |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-14 | 2024-06-28 |
 | [Iskolodo](https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:36 | 2026-01-23 | 2026-03-17 |
-| [ITALAWA](https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [ITALAWA](https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W) | 2:53 | 2026-08-14 |  |
+| [ITALAWA](https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [ITALAWA](https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W) | 2:53 | 2026-08-14 | 2026-10-03 |
 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 | 2024-07-05 | 2025-03-05 |
 | [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 | 2023-05-11 | 2023-05-27 |
 | [Jamzy Vibe](https://open.spotify.com/track/3QsKvy5KtKrtx5QkkGTtVv) | [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Jamzy Vibe](https://open.spotify.com/album/4PFeRdNEbdUXgLeIRlRkMa) | 2:18 | 2025-11-07 | 2025-12-05 |
@@ -887,6 +887,7 @@
 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-03-20 | 2024-11-22 |
 | [Tsunami](https://open.spotify.com/track/5aQn07kU8bQFYTLX86jyyQ) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Semzi](https://open.spotify.com/artist/2aWCLZqio9v0uUZEATR1Rv) | [Issues\|Tsunami](https://open.spotify.com/album/04gBoHn7W8BhfcuQYWb8yS) | 2:23 | 2023-08-10 | 2023-09-28 |
 | [Tumo Weto](https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Ukanigbe](https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA) | 2:49 | 2025-09-05 |  |
+| [Turbulent Fellow](https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [IRON ORE II](https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy) | 2:30 | 2026-09-25 |  |
 | [Twe Twe](https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Twe Twe](https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2) | 2:25 | 2024-01-12 | 2024-02-23 |
 | [Twe Twe](https://open.spotify.com/track/2khv04F26pnJr4989Maowi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Twe Twe](https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7) | 2:23 | 2024-01-26 | 2024-06-28 |
 | [Uche Jumbo](https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Uche Jumbo](https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y) | 2:28 | 2026-06-25 | 2026-08-01 |

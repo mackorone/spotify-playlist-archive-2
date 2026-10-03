@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 328581,
       "name": "Alma de Lisbon - Radio Version",
       "url": "https://open.spotify.com/track/11CGam8X4wwtXBdu6D8jfk"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 316084,
       "name": "Brazilian Night",
       "url": "https://open.spotify.com/track/63up8vVjcjeY9A4EhP8V4T"
@@ -3094,6 +3094,28 @@
       "duration_ms": 212874,
       "name": "Everybody Groove",
       "url": "https://open.spotify.com/track/5Rml9CE4KJnj06zjRnLT8P"
+    },
+    {
+      "album": {
+        "name": "FaceTime",
+        "url": "https://open.spotify.com/album/61om1gZ99vIyd1rSKGEtw8"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229747,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/5cfSKHoXLA7F9eLGUgMrpg"
     },
     {
       "album": {
@@ -8932,7 +8954,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 240000,
       "name": "Storybook [Feat. Larry Carlton]",
       "url": "https://open.spotify.com/track/4P7S8NGNe7cqT5fIVs5Nkn"
@@ -10008,6 +10030,24 @@
       "duration_ms": 249500,
       "name": "There's Always Tomorrow",
       "url": "https://open.spotify.com/track/3NsKujm7IIHMpcjJ2Qtmo1"
+    },
+    {
+      "album": {
+        "name": "A Simple Man",
+        "url": "https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "Things Are Looking Up",
+      "url": "https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0"
     },
     {
       "album": {
@@ -11150,6 +11190,24 @@
       "duration_ms": 234600,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/2BbDq3jIwUvdVtdbnwH9pr"
+    },
+    {
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/6OwzNhcLXB8dIm9bpGVZQz"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272902,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/6TMdQwrtqoP7DdC29TSFMS"
     },
     {
       "album": {

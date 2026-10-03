@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/556oquvE8lpKicIKB8s7yw"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291121,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2QMY7asFUKBEXllZ7XsjB7"
+    },
+    {
+      "album": {
         "name": "Bendito Verano",
         "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
       },
@@ -9563,6 +9581,24 @@
     },
     {
       "album": {
+        "name": "Live From Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/7yAaOQSsXdjiRjvrtDCFc2"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219104,
+      "name": "Qui\u00e9n Contra M\u00ed - Live From Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/4B63O9ddDnEXNyAAkKBhTE"
+    },
+    {
+      "album": {
         "name": "Lo Que Queda En El Aire (Deluxe)",
         "url": "https://open.spotify.com/album/1MOfY5hvAmVzsUyAK7dHor"
       },
@@ -10472,6 +10508,24 @@
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "album": {
+        "name": "superpoder",
+        "url": "https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "superpoder",
+      "url": "https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL"
     },
     {
       "album": {
@@ -11636,6 +11690,28 @@
       "duration_ms": 186617,
       "name": "Verano En NY",
       "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+    },
+    {
+      "album": {
+        "name": "versAAce",
+        "url": "https://open.spotify.com/album/113KAUl3wYEgkNSaGAHBn5"
+      },
+      "artists": [
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        },
+        {
+          "name": "SVNTI",
+          "url": "https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "versAAce",
+      "url": "https://open.spotify.com/track/0sdwGJRJgAmNJK3fKUbod2"
     },
     {
       "album": {

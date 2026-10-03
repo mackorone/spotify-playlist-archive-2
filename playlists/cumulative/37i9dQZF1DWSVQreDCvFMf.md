@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: XONARA
 
-1,110 songs - 2 day 20 hr 42 min
+1,111 songs - 2 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [ako naman muna](https://open.spotify.com/track/5A8SptsfoUXm7VG9SKYq2c) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [ako naman muna](https://open.spotify.com/album/3IEwCyyO2u3pcyTgX4FKeQ) | 3:04 | 2025-11-07 | 2026-01-24 |
 | [Ako'y ako](https://open.spotify.com/track/727QxwtTQva7xPqBZuqoeZ) | [Patrick Kristoffer](https://open.spotify.com/artist/35WK3gcFIjOhmYF3AK6ZyL) | [Ako'y ako](https://open.spotify.com/album/7Kb2r7x1DOZUeiP5eipeeu) | 3:25 | 2026-07-17 | 2026-09-04 |
 | [akong ako](https://open.spotify.com/track/1Ci8ag9gmsiNhTgSAvQJo2) | [dana paulene](https://open.spotify.com/artist/7cYNDABWPazJakksQnbZFA) | [akong ako](https://open.spotify.com/album/4PP76TdEXfunxuGXh9MkL5) | 3:29 | 2025-11-13 | 2026-02-03 |
+| [Alam Ko Na](https://open.spotify.com/track/5sxzyd1SIx7COY68mfEO3y) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:00 | 2026-10-02 |  |
 | [Alanganin](https://open.spotify.com/track/10PRIQDXTzY4uK8X5UD348) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Alanganin](https://open.spotify.com/album/2FnFVTIOU8qDIMxyEvaWyp) | 3:57 | 2026-02-16 | 2026-04-04 |
 | [Alas Dose](https://open.spotify.com/track/6AsLsDlKx2NCLnBm2o2E4M) | [Leona Lane](https://open.spotify.com/artist/3ccJJ7fzqjF8RWztYQleua) | [Alas Dose](https://open.spotify.com/album/6ASYrR9GxwjFMRrGoiw2Zp) | 3:34 | 2026-08-26 |  |
 | [Ale](https://open.spotify.com/track/2jWcAQf0CYiZCxGfTGx1hd) | [The Bloomfields](https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96) | [The Bloomfields](https://open.spotify.com/album/17675v1WFduEKG9WV1iolH) | 3:50 | 2026-01-19 | 2026-03-18 |
@@ -756,7 +757,7 @@
 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 | 2025-03-21 | 2025-06-21 |
 | [PARA SAKIN](https://open.spotify.com/track/3YhZYAFOcKzZWuRV2gR1M9) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [PARA SAKIN](https://open.spotify.com/album/18yRGEbP6GSITMWFsaK6OV) | 3:29 | 2026-06-05 | 2026-08-15 |
 | [Para Tayo Sa Huli](https://open.spotify.com/track/3gqnvHHafyhMsDnwblMSKH) | [Onin Musika](https://open.spotify.com/artist/5N7aBJqsIbIYun4Le9zBq6) | [Para Tayo Sa Huli](https://open.spotify.com/album/3wTwQ5wLt0efk68seZnBqA) | 4:47 | 2025-06-20 | 2025-10-25 |
-| [Paradise](https://open.spotify.com/track/3SBDwo6VmwTr4oHedWgrFY) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Escape!](https://open.spotify.com/album/5eKxKnDrCOuaVyr0Vp3ld0) | 3:06 | 2026-08-14 |  |
+| [Paradise](https://open.spotify.com/track/3SBDwo6VmwTr4oHedWgrFY) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Escape!](https://open.spotify.com/album/5eKxKnDrCOuaVyr0Vp3ld0) | 3:06 | 2026-08-14 | 2026-10-03 |
 | [Paradise](https://open.spotify.com/track/6R8WzI0A00AWtX3vw6PNFM) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Paradise](https://open.spotify.com/album/1aFlqLnophxrohV3vbNAXe) | 3:06 | 2026-07-10 | 2026-08-22 |
 | [Paradise](https://open.spotify.com/track/19sHbXsObFK88fuwExVoWT) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [Paradise](https://open.spotify.com/album/2qIrswJEQtfCmgobWtsQ5X) | 2:25 | 2025-02-24 | 2025-05-03 |
 | [Paraiso](https://open.spotify.com/track/4WgKPgWj629H3bnTEQQuEH) | [JetNekko](https://open.spotify.com/artist/2Zz4iF0WqUSduXhnJFos5o) | [Paraiso](https://open.spotify.com/album/5nEVhJoyzg7K9S8DRwO3xy) | 5:01 | 2025-12-08 | 2026-02-28 |
@@ -936,7 +937,7 @@
 | [Space & Time](https://open.spotify.com/track/3azKk9HATst4jPYVlduMIa) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [PERSONA:2000](https://open.spotify.com/album/7Cyor4TuAVIk5EMlTUuxLN) | 2:48 | 2026-05-22 | 2026-08-01 |
 | [SPEECHLESS](https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G) | 2:42 | 2026-07-28 | 2026-09-18 |
 | [Spell It Out](https://open.spotify.com/track/0eeQJzdeppwBUhUphmH0V6) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Spell It Out](https://open.spotify.com/album/1TcPBkyRs4buC8NxiKIJ3s) | 2:40 | 2026-05-19 | 2026-07-29 |
-| [Star Song](https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Star Song](https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB) | 3:56 | 2026-01-30 | 2026-03-21 |
+| [Star Song](https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Star Song](https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB) | 3:56 | 2026-01-30 |  |
 | [Stay](https://open.spotify.com/track/1LMjDnxP6WCOPMokNDY7F0) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5) | [LOVER BOY: CHAPTER 1: Stay](https://open.spotify.com/album/1zfOjsCThMx5B7B7K6b4tU) | 3:17 | 2026-05-08 | 2026-06-27 |
 | [Stay Like This Forever](https://open.spotify.com/track/7hLOJR7SkleS537YK9ZcN4) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Stay Like This Forever](https://open.spotify.com/album/1lImHUD9pdog3bTROL6qEh) | 3:34 | 2025-06-27 | 2025-10-25 |
 | [STEP BY STEP](https://open.spotify.com/track/5f2KgF9dG9Cav63xjnvQ5p) | [Sam Benwick](https://open.spotify.com/artist/2Zsn09Mt6kHdipblDeVaF9) | [STEP BY STEP](https://open.spotify.com/album/1cUzXStqDQeEWdcX2bSHni) | 3:50 | 2026-04-24 | 2026-06-06 |
@@ -950,7 +951,7 @@
 | [SULFUR](https://open.spotify.com/track/57PX7Ks8AsC1vIoadnHUS3) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [SULFUR](https://open.spotify.com/album/5H9Iuf3McUmRNFSgjmrfEO) | 2:56 | 2026-05-22 | 2026-08-01 |
 | [Suliranin](https://open.spotify.com/track/5PlhD7lp4b2P5QFlobCTBF) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Suliranin](https://open.spotify.com/album/52k9oySBMGOJMPF8iW0Seq) | 4:05 | 2025-10-10 | 2025-12-09 |
 | [Sulyap](https://open.spotify.com/track/0k1bhzpUq3Ol9B2paSDEaK) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Sulyap](https://open.spotify.com/album/5yC33EFQQMM6oSUltuvBYp) | 2:59 | 2025-10-03 | 2025-12-09 |
-| [Sumabay Ka](https://open.spotify.com/track/3Y5B9gTr2TR9ZlSyZnmKnU) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Sumabay Ka](https://open.spotify.com/album/2Epk8eTVltDZ6mcnUwSuxV) | 2:58 | 2026-08-14 |  |
+| [Sumabay Ka](https://open.spotify.com/track/3Y5B9gTr2TR9ZlSyZnmKnU) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Sumabay Ka](https://open.spotify.com/album/2Epk8eTVltDZ6mcnUwSuxV) | 2:58 | 2026-08-14 | 2026-10-03 |
 | [Sumaya](https://open.spotify.com/track/2JID7g57i1AyVxX8C0fNlu) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Sumaya](https://open.spotify.com/album/6X6Fi3AhXGkxvHUoVgx7uh) | 3:12 | 2024-07-02 | 2024-08-10 |
 | [Sumayaw Tayo](https://open.spotify.com/track/4UH0gVeeAeH3OyVhHJwckC) | [The Agadiers](https://open.spotify.com/artist/03NCaJMtRELt29k3aSjxmS) | [Sumayaw Tayo](https://open.spotify.com/album/4MGDh5ZUCyAinmTOMaT4xU) | 3:56 | 2024-12-04 | 2025-03-01 |
 | [Summa Cum Laude](https://open.spotify.com/track/4xnPpy340UhTzo9JdwF5s0) | [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [Summa Cum Laude](https://open.spotify.com/album/5lHWVk8A2xtU2xgiG2KyP5) | 3:22 | 2026-01-26 | 2026-03-14 |

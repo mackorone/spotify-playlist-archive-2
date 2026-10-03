@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 11 min
+175 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Rain On Me](https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Rain On Me](https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy) | 3:00 | 2026-04-05 |  |
 | [Rascal](https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Sugar For Bugs](https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD) | 3:49 | 2025-08-02 | 2026-01-31 |
 | [Rascal](https://open.spotify.com/track/72O9rlIqPlEo40NTwMGz5g) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Sugar For Bugs](https://open.spotify.com/album/27x7Vgawgbd0KS6Mv0FJK0) | 3:49 | 2026-01-30 |  |
+| [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/2voFM8iCndPGWuYtHaOPTc) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:55 | 2026-10-02 |  |
 | [Right There](https://open.spotify.com/track/6ACABT7da0gny402DMm9vs) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:42 | 2025-08-02 |  |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2025-08-02 |  |
 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 | 2025-08-24 |  |

@@ -4,7 +4,7 @@
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-369 songs - 21 hr 25 min
+370 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Exit Sign](https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:21 | 2024-03-07 | 2024-04-19 |
 | [FASHION RAPPER](https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO) | [PRVCY Rockey](https://open.spotify.com/artist/5p9R1ybhn6OZx7o7KrQtBB), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Adam, The Litder](https://open.spotify.com/artist/0qP6hoW9mIcHEbZXd2xPPT) | [FASHION RAPPER](https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW) | 3:25 | 2024-09-29 | 2024-10-03 |
 | [Feel At Home](https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 2:43 | 2025-07-10 |  |
-| [FEVER](https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 4:20 | 2024-06-05 |  |
+| [FEVER](https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 4:20 | 2024-06-05 | 2026-10-03 |
 | [Flexin' Trên Circle K 2](https://open.spotify.com/track/6WzAV66bgiqyxHTBlznb37) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Flexin' Trên Circle K 2](https://open.spotify.com/album/7h25NZHg8TQJKAOzXPt2uC) | 4:34 | 2024-06-03 | 2024-07-31 |
 | [Free Flow Không Hút](https://open.spotify.com/track/06GrFsnzWmnS6rslXByfWf) | [Ricky Star](https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4) | [Free Flow Không Hút](https://open.spotify.com/album/3UkkOqsmKE8hO4zcGiBd3t) | 4:03 | 2023-12-24 | 2024-01-02 |
 | [FRIENDSHIP](https://open.spotify.com/track/1ZSwYD21wiQCx3VYrnQHMm) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL) | [FRIENDSHIP](https://open.spotify.com/album/44itOM9agplK3ycJcPgH9T) | 4:54 | 2024-07-11 | 2024-07-20 |
@@ -347,6 +347,7 @@
 | [Xin Đừng Nhấc Máy](https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Xin Đừng Nhấc Máy](https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8) | 3:07 | 2023-10-19 | 2024-09-30 |
 | [XTC \(Xích Thêm Chút\) \(Remix\)](https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 4:03 | 2023-10-19 | 2024-04-04 |
 | [Xuất Phát Điểm](https://open.spotify.com/track/6TOI8hhlfebwsTYRCVpRMn) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:09 | 2024-06-25 | 2024-06-29 |
+| [Young Money](https://open.spotify.com/track/0qMIga6w9V9cOQeXsh6KgJ) | [Yung Ni99](https://open.spotify.com/artist/0XJGo6xvJ24G9XXuT1A3NA) | [WILD WEST](https://open.spotify.com/album/1iVBHUg2oLEsQB0O9qSjGj) | 2:34 | 2026-10-01 |  |
 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 | 2023-10-19 |  |
 | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU) | 4:12 | 2023-10-19 | 2024-12-13 |
 | [Zai Phố \(Đống Đa\)](https://open.spotify.com/track/43fvkrizvocHYASUbUXfVo) | [gung0cay](https://open.spotify.com/artist/1Z3xp9Er70GeoUjeB77vJc), [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh) | [Zai Phố \(Đống Đa\)](https://open.spotify.com/album/0I1KD4gVRgGbk0Vho44NTI) | 2:37 | 2023-10-19 | 2023-11-03 |

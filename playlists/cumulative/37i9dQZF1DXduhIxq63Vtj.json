@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Ay\u00fadame",
+        "url": "https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161348,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W"
+    },
+    {
+      "album": {
         "name": "El Amor Que Nunca Fue",
         "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
@@ -722,7 +740,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 223843,
       "name": "Como Podr\u00e9 Olvidarte",
       "url": "https://open.spotify.com/track/4sUGdwo2YgAJR9QsyOaGue"
@@ -949,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "De Contrabando",
+      "url": "https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg"
+    },
+    {
+      "album": {
         "name": "Duele El Amor",
         "url": "https://open.spotify.com/album/5LrxTZA5PuIQETlxJuWdHy"
       },
@@ -1112,7 +1148,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 171826,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
@@ -1710,7 +1746,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 179903,
       "name": "Entre la Lluvia y Mi Llorar",
       "url": "https://open.spotify.com/track/005i6omZwpO504bisPJufa"
@@ -2270,7 +2306,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 219106,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
@@ -3016,7 +3052,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 166208,
       "name": "Morir\u00e9 Esperando",
       "url": "https://open.spotify.com/track/0ciBhbfICqJhlVr9EQFKz2"
@@ -3128,7 +3164,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 200177,
       "name": "No Logre Olvidarte (En Vivo)",
       "url": "https://open.spotify.com/track/6DJFym2WCg9C7ToueJR7SS"
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 169120,
       "name": "No Se Ha Dado Cuenta",
       "url": "https://open.spotify.com/track/35gg6c4waOFEQvhlQpHsEr"
@@ -3258,6 +3294,28 @@
       "duration_ms": 216040,
       "name": "Olvido Intencional",
       "url": "https://open.spotify.com/track/0JzYkEJXG3GhIHI6pJ32aS"
+    },
+    {
+      "album": {
+        "name": "OSAD\u00cdA",
+        "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "OSAD\u00cdA",
+      "url": "https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5"
     },
     {
       "album": {
@@ -3456,6 +3514,24 @@
       "duration_ms": 143426,
       "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
       "url": "https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd"
+    },
+    {
+      "album": {
+        "name": "De Noche En La Ciudad",
+        "url": "https://open.spotify.com/album/4nMfJZ2sAQzBTD4KAsIqwD"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "Por Volverte A Ver",
+      "url": "https://open.spotify.com/track/5mQAisM7QzOcAGwi9uSMIh"
     },
     {
       "album": {
@@ -3945,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/44u0YqrJSVXucB6qs5hdkP"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117136,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/4LPNlYouyfk0R2kvIiVWgB"
+    },
+    {
+      "album": {
         "name": "Solo Un Dia\u2026",
         "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
       },
@@ -4115,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/12SgOJuYwKoWE7LnxnhgYF"
       },
@@ -4162,7 +4274,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 197160,
       "name": "Todo Depende De Ti",
       "url": "https://open.spotify.com/track/1unwIlqSOvwZgB38pG0GlU"
@@ -4256,6 +4368,24 @@
       "duration_ms": 273266,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
+    },
+    {
+      "album": {
+        "name": "Tu \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262333,
+      "name": "Tu \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
     },
     {
       "album": {
@@ -4580,6 +4710,24 @@
       "duration_ms": 182480,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
     },
     {
       "album": {

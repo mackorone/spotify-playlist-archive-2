@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 741060,
+  "num_followers": 741585,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 251920,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "The Gospel Truth (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 225093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 251920,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -783,6 +783,38 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        }
+      ],
+      "duration_ms": 245148,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -811,38 +843,6 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        }
-      ],
-      "duration_ms": 245148,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Passion World",
-        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 492520,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "My Wonderland",
         "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 255000,
       "name": "A Man and a Woman",
       "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Passion World",
+        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 492520,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 344223,
       "name": "Calling You",
       "url": "https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Singin' In The Rain",
-        "url": "https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Singin\u2019 In The Rain",
-      "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
       },
@@ -1407,34 +1391,18 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
+        "name": "Singin' In The Rain",
+        "url": "https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ"
       },
       "artists": [
         {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
         }
       ],
-      "duration_ms": 160626,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+      "duration_ms": 229426,
+      "name": "Singin\u2019 In The Rain",
+      "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1455,6 +1423,38 @@
       "duration_ms": 406554,
       "name": "Autumn Serenade",
       "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "It's Oh So Quiet",
         "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 228174,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Dreamers Ball",
-        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Poole",
-          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "Dreamers Ball",
-      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 226656,
       "name": "Blue in Green",
       "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Dreamers Ball",
+        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Poole",
+          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
+        }
+      ],
+      "duration_ms": 283960,
+      "name": "Dreamers Ball",
+      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -2187,8 +2187,8 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Hilltop",
-        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
       },
       "artists": [
         {
@@ -2196,9 +2196,9 @@
           "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
         }
       ],
-      "duration_ms": 272768,
-      "name": "Hilltop",
-      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
+      "duration_ms": 228639,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "The Molly Johnson Songbook",
-        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Summer Wind",
         "url": "https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 161271,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "The Molly Johnson Songbook",
+        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -2279,8 +2279,8 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+        "name": "Hilltop",
+        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
       },
       "artists": [
         {
@@ -2288,9 +2288,9 @@
           "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
         }
       ],
-      "duration_ms": 228639,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
+      "duration_ms": 272768,
+      "name": "Hilltop",
+      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
     },
     {
       "added_at": "2026-09-21 13:07:00",

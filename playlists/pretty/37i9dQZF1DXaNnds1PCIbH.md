@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaNnds1PCIbH.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Jharrel Jerome
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,084 likes - 76 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,088 likes - 76 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Face2Face](https://open.spotify.com/track/5bUNu7YfOoE80F3GpZqoPw) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Chow Lee](https://open.spotify.com/artist/3Xxk2j1ubQsg72F0gxCmOx), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 |
+| 1 | [Face2Face](https://open.spotify.com/track/5bUNu7YfOoE80F3GpZqoPw) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 |
 | 2 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 |
 | 3 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 4 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |

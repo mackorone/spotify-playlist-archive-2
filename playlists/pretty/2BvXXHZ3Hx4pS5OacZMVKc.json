@@ -1,13 +1,37 @@
 {
   "description": "NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming",
-  "num_followers": 130098,
+  "num_followers": 130094,
   "original_name": "Gaming Music 2026",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAMqvaFmBoqKH0YIN7XkIsctj+eI+SL",
+  "snapshot_id": "AAAMqxRS5tkOTbhkg8gVGy10Z0roetC9",
   "tracks": [
+    {
+      "added_at": "2026-10-02 09:09:31",
+      "album": {
+        "name": "Fight In Me",
+        "url": "https://open.spotify.com/album/7JTp2khsUq9awc6jKMH8mV"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Lost Sky",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+        },
+        {
+          "name": "Alaina Cross",
+          "url": "https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Fight In Me",
+      "url": "https://open.spotify.com/track/0vFUxkeaKb4HxXIelQYGiN"
+    },
     {
       "added_at": "2026-09-16 09:08:24",
       "album": {

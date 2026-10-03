@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,979 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,092 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 47 | [Si Te Vas](https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Si Te Vas](https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b) | 4:00 |
 | 48 | [H.I.E.L.O.](https://open.spotify.com/track/6itjKRbqPMmx9fo4PDlLhm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [H.I.E.L.O.](https://open.spotify.com/album/2V5eHcsWILzjRzf9Z47tiX) | 3:16 |
 | 49 | [Tú No Amas](https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq) | [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Tú No Amas](https://open.spotify.com/album/3eFEGgySyFZSq66Mq43Jwh) | 4:33 |
-| 50 | [Crecia](https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Crecia](https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy) | 4:30 |
+| 50 | [Ready Pa Morir](https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Steve Lean](https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T) | [A.D.R.O.M.I.C.F.M.S\. 2](https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu) | 3:11 |
 | 51 | [KHEA: Bzrp Music Sessions, Vol\. 34/66](https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [KHEA: Bzrp Music Sessions, Vol\. 34/66](https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww) | 3:18 |
 | 52 | [Flexin'](https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Flexin'](https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u) | 2:59 |
-| 53 | [Ready Pa Morir](https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Steve Lean](https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T) | [A.D.R.O.M.I.C.F.M.S\. 2](https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu) | 3:11 |
+| 53 | [Crecia](https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Crecia](https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy) | 4:30 |
 | 54 | [Me Llueven](https://open.spotify.com/track/2Iv7PCElmi1dZfzHWzMczA) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Me Llueven](https://open.spotify.com/album/7pt7KWgOozxnMAZtHFd2sG) | 2:45 |
 | 55 | [Cuenta Conmigo](https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS) | [Cruzzi](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Maracucho Bueno Muere Chiquito](https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5) | 3:32 |
 | 56 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 |

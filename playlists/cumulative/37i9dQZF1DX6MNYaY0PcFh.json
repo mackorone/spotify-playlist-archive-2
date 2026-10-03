@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161299,
       "name": "Can I //",
       "url": "https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 238297,
       "name": "DARWIN",
       "url": "https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj"
@@ -3641,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "Holding Pattern",
+        "url": "https://open.spotify.com/album/3lhCjpw7oaEa7LIqaR9fZJ"
+      },
+      "artists": [
+        {
+          "name": "Bodhi",
+          "url": "https://open.spotify.com/artist/1C545778m57qWQwISWGAHD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Holding Pattern",
+      "url": "https://open.spotify.com/track/4aDscffrR993fPxNBHs41d"
+    },
+    {
+      "album": {
         "name": "Home To You (Champion Remix)",
         "url": "https://open.spotify.com/album/2fdWviFHYoSVi8QX8lHFgy"
       },
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 188809,
       "name": "Hyper",
       "url": "https://open.spotify.com/track/3iw1qP23Cvk3hGcpHLvoXR"
@@ -7230,7 +7248,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 253000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/3iu0u83LIYx3tv31MUAfd8"
@@ -9444,7 +9462,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 208695,
       "name": "Xylitol",
       "url": "https://open.spotify.com/track/0VOknYnxvrmzO2qyY26AGI"

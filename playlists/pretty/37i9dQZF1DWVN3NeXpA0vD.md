@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 
 > D vitaminin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,244 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,241 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 74 | [Fading](https://open.spotify.com/track/2RP8Svo0pMwZXnVcmOffDw) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Fading](https://open.spotify.com/album/6ZaQeprwD7KA1yLERV2OUW) | 3:25 |
 | 75 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 2:52 |
 | 76 | [I Found You \(with Calvin Harris\)](https://open.spotify.com/track/5sdb5pMhcK44SSLsj1moUh) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [I Found You \(with Calvin Harris\)](https://open.spotify.com/album/3jfSJj7tHJxk1a4i2KZt9F) | 3:11 |
-| 77 | [Polaroid](https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Polaroid](https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS) | 3:13 |
-| 78 | [Problems](https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 2:51 |
+| 77 | [Problems](https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 2:51 |
+| 78 | [Polaroid](https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Polaroid](https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS) | 3:13 |
 | 79 | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP) | 2:35 |
 | 80 | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm) | 3:12 |
 | 81 | [Sixteen](https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Sixteen](https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx) | 3:21 |

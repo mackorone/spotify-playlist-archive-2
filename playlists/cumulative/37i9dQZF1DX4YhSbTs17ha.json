@@ -5715,6 +5715,32 @@
     },
     {
       "album": {
+        "name": "Dumb Boy (ojo de loca)",
+        "url": "https://open.spotify.com/album/4ABG1RkhspmJGHDPEFSQ4I"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184251,
+      "name": "Dumb Boy (ojo de loca)",
+      "url": "https://open.spotify.com/track/4TKBvVu4tHy7kX9ewht29n"
+    },
+    {
+      "album": {
         "name": "DUMBAI (Live at NPR MUSIC's Tiny Desk)",
         "url": "https://open.spotify.com/album/3UA0ftXwo4zg0qPDrsQhrB"
       },
@@ -7925,6 +7951,24 @@
     },
     {
       "album": {
+        "name": "hIGhLIGhTS",
+        "url": "https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126374,
+      "name": "hIGhLIGhTS",
+      "url": "https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm"
+    },
+    {
+      "album": {
         "name": "Himno Nacional",
         "url": "https://open.spotify.com/album/6XIWWHP4vkWz0TFm2vekBp"
       },
@@ -8627,6 +8671,28 @@
     },
     {
       "album": {
+        "name": "SCL",
+        "url": "https://open.spotify.com/album/21TbbvXdmrymM9eopZihj2"
+      },
+      "artists": [
+        {
+          "name": "AQROSS",
+          "url": "https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Klich\u00e9",
+      "url": "https://open.spotify.com/track/0eblv6bud0Ae6SiCtWsSgW"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -8700,6 +8766,28 @@
       "duration_ms": 202992,
       "name": "La Buena Eras T\u00fa",
       "url": "https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s"
+    },
+    {
+      "album": {
+        "name": "EL ANGELITO",
+        "url": "https://open.spotify.com/album/5k44dxs3yejHzvzbm1x3dT"
+      },
+      "artists": [
+        {
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178836,
+      "name": "LA CADENA",
+      "url": "https://open.spotify.com/track/59zhHRIwdhPxagz1RMs7TA"
     },
     {
       "album": {
@@ -9608,7 +9696,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 138839,
       "name": "Las Cosas Que Solo Se Hacen En La Noche (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/0z59N9OGE9pCeN9c0yMZHq"
@@ -12638,7 +12726,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 142677,
       "name": "No es tu estilo",
       "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
@@ -13020,7 +13108,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 189101,
       "name": "No Tengo Remedio",
       "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
@@ -13854,6 +13942,24 @@
       "duration_ms": 180725,
       "name": "Palmeras en el jard\u00edn",
       "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
+    },
+    {
+      "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
     },
     {
       "album": {
@@ -17138,7 +17244,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 208465,
       "name": "Tal Vez Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
@@ -20134,7 +20240,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 196865,
       "name": "\u00bfQu\u00e9 Le Pongo?",
       "url": "https://open.spotify.com/track/0nLLlhcfUCAp1baUYDRO4E"

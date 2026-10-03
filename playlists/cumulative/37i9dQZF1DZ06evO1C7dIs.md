@@ -4,7 +4,7 @@
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-117 songs - 10 hr 26 min
+118 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [The Poet and the Pendulum](https://open.spotify.com/track/5sDDSdsBa15i2IDhJ7HsYV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 13:54 | 2022-09-08 | 2022-10-12 |
 | [The Siren](https://open.spotify.com/track/0OVMtCCfQvkO1oXigmM2d8) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:45 | 2022-10-12 |  |
 | [The Wayfarer](https://open.spotify.com/track/1fukuJN9P7T3mLK4DTzC4j) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/5af342Ze6aWIY6b48wK1Mk) | 3:22 | 2023-12-14 | 2023-12-25 |
-| [Tribal](https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 3:56 | 2022-10-14 |  |
+| [Tribal](https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 3:56 | 2022-10-14 | 2026-10-03 |
+| [Tribal \- Live In Amsterdam 2022](https://open.spotify.com/track/3qX5lW9TNKkuwZIw4QXwIL) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Tribal \(Live in Amsterdam 2022\)](https://open.spotify.com/album/5ZbzeABRTyMygoerH9GmRo) | 4:04 | 2026-10-03 |  |
 | [Turn Loose the Mermaids](https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 4:19 | 2022-09-08 |  |
 | [Two For Tragedy](https://open.spotify.com/track/4zce33RFRR2rZfAhOBFahg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 3:50 | 2022-09-09 | 2022-10-11 |
 | [Wanderlust](https://open.spotify.com/track/5ZL7XCYicDTmqXjS7MNEep) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:50 | 2022-09-08 | 2023-05-23 |

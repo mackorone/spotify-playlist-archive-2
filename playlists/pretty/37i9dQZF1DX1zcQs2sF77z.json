@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 301002,
+  "num_followers": 301091,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "GIGI D'AGOSTINO",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
         "name": "Sorry For Party Rocking",
         "url": "https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 262146,
       "name": "Party Rock Anthem",
       "url": "https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "GIGI D'AGOSTINO",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2025-12-19 16:17:24",

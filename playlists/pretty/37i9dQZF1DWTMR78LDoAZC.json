@@ -1,6 +1,6 @@
 {
   "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: Caroline Rose",
-  "num_followers": 186720,
+  "num_followers": 186729,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-09-30 04:01:06",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 210937,
-      "name": "Beautiful Again",
-      "url": "https://open.spotify.com/track/7MdErJQx8vaWAm3icl7Gu6"
-    },
-    {
-      "added_at": "2026-09-30 04:01:06",
-      "album": {
         "name": "Sexy to Someone",
         "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "added_at": "2026-09-30 04:01:06",
+      "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 210937,
+      "name": "Beautiful Again",
+      "url": "https://open.spotify.com/track/7MdErJQx8vaWAm3icl7Gu6"
     },
     {
       "added_at": "2026-09-30 04:01:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-09-30 04:01:06",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
-    },
-    {
-      "added_at": "2026-09-30 04:01:06",
-      "album": {
         "name": "Good at Falling",
         "url": "https://open.spotify.com/album/7qcAgj6CoV0VeRLo6ILiF2"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 218935,
       "name": "Maybe You're the Reason",
       "url": "https://open.spotify.com/track/22tD1L3AXFs1pYEygkQGAT"
+    },
+    {
+      "added_at": "2026-09-30 04:01:06",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2026-09-30 04:01:06",

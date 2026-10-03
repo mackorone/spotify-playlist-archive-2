@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Humbird
+> The best in folk & acoustic today featuring music from Bo Staloch
 
-892 songs - 2 day 7 hr 0 min
+896 songs - 2 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 | 2022-02-25 | 2022-08-18 |
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2021-12-10 | 2022-03-12 |
 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 | 2026-04-24 | 2026-06-20 |
+| [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-02 |  |
 | [Dreamer](https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Dreamer](https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb) | 4:54 | 2021-12-10 | 2022-04-23 |
 | [Dried Up River](https://open.spotify.com/track/6saTpYJv62gbFeRgC7VF82) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Dried Up River](https://open.spotify.com/album/5QveyiS7sznogAxujItLjZ) | 3:51 | 2021-12-10 | 2022-02-05 |
 | [Drive](https://open.spotify.com/track/3CMUT3yFtwmdSjv4gOj3yl) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Drive](https://open.spotify.com/album/1eAJcsrNvXzmm3OyKASvzk) | 3:27 | 2025-04-11 | 2026-02-21 |
@@ -320,6 +321,7 @@
 | [Happy Ever After You](https://open.spotify.com/track/3M5QdKS15Sa3qqwxzfzGzU) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Happy Ever After You](https://open.spotify.com/album/4kp2WLBDp9D8JGXUBsa8C6) | 3:17 | 2025-01-13 | 2025-09-21 |
 | [Hard To Tell](https://open.spotify.com/track/0bmnFx4iOmUVt4ghPSm3cc) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Hard To Tell](https://open.spotify.com/album/1b9EDZKgqNvvWuqOJCwPnE) | 3:06 | 2023-07-21 | 2024-06-29 |
 | [Hard To Tell](https://open.spotify.com/track/3SDWFdgZBLdy38zru1pueE) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 3:06 | 2025-08-22 |  |
+| [Harding Road](https://open.spotify.com/track/6STS7ZuuyojKWNqwqlQRfD) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Harding Road](https://open.spotify.com/album/7FhOfp0Qp65jK8AwyG7Q1S) | 3:51 | 2026-10-02 |  |
 | [Haunted Mountain](https://open.spotify.com/track/55PRwOkrZ5oQW9Qmi7Q2yo) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 5:11 | 2023-08-25 | 2024-06-29 |
 | [Haunted Mountain](https://open.spotify.com/track/2mw3Lp2sOvvTfZR6EqHuMk) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Haunted Mountain](https://open.spotify.com/album/1y3VrSoxUmqiiqqzJ9MuFY) | 4:19 | 2023-08-25 | 2023-09-02 |
 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 | 2021-12-10 | 2022-02-19 |
@@ -339,6 +341,7 @@
 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 | 2025-04-04 | 2026-02-07 |
 | [Heavy Tobacco](https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Heavy Tobacco](https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj) | 3:09 | 2026-07-31 |  |
 | [Help Me Remember](https://open.spotify.com/track/0u0MIKwM1AfCU8UAjnJ6aH) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Help Me Remember](https://open.spotify.com/album/70X4wmZSGoVBIxuFGfd7y4) | 4:55 | 2021-12-10 | 2022-06-04 |
+| [Hers](https://open.spotify.com/track/42leQt2fs7BBNkpntuMkAM) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Hers](https://open.spotify.com/album/5iHBBlDTtmCAFrSutAVwY2) | 4:30 | 2026-10-02 |  |
 | [Hey Honey](https://open.spotify.com/track/3b6wfWCEwHRRhtop1sWcci) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Hey Honey](https://open.spotify.com/album/4lXLBLgRaNcTKr62Zt67UZ) | 3:41 | 2023-05-19 | 2024-03-02 |
 | [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-24 | 2023-04-17 |
 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-04-14 | 2024-02-17 |
@@ -729,6 +732,7 @@
 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2024-06-28 | 2025-04-26 |
 | [Teeth Marks](https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE) | 3:37 | 2022-03-04 | 2022-04-29 |
 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 | 2025-07-11 | 2026-03-21 |
+| [Tell Me I'm Beautiful](https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Tell Me I'm Beautiful](https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs) | 3:35 | 2026-10-02 |  |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-01-19 | 2024-04-27 |
 | [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 | 2025-06-06 | 2025-11-22 |
 | [That's How I Got To Memphis](https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [That's How I Got To Memphis](https://open.spotify.com/album/2l1jCDzi1IHIykvqFyLJJI) | 3:41 | 2022-08-05 | 2023-05-06 |

@@ -3768,7 +3768,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 171130,
       "name": "Brisa Boa",
       "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
@@ -10659,6 +10659,36 @@
     },
     {
       "album": {
+        "name": "Hootie Frutti (PEDRO SAMPAIO Remix)",
+        "url": "https://open.spotify.com/album/4MzwQyp0LxL2Q27vBnq1Wg"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Hootie Frutti - PEDRO SAMPAIO Remix",
+      "url": "https://open.spotify.com/track/19rZJZMOK4c9CaocPSHqqC"
+    },
+    {
+      "album": {
         "name": "Hortel\u00e3",
         "url": "https://open.spotify.com/album/5oMHrDU6zuS6tHL4h5FMfg"
       },
@@ -12341,6 +12371,28 @@
     },
     {
       "album": {
+        "name": "GRAZI",
+        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "L\u00c1 DE CIMA (1999)",
+      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
+    },
+    {
+      "album": {
         "name": "L\u00cdNGUA AFIADA",
         "url": "https://open.spotify.com/album/7Asu4qiJrMQ9pwUF3X4L3b"
       },
@@ -13454,7 +13506,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 182608,
       "name": "Me Leva",
       "url": "https://open.spotify.com/track/5Miye4PcHeGyXzmbP6bvzL"

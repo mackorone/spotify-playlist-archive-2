@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/349318">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,586 likes - 98 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,636 likes - 98 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 41 | [Squad Shit](https://open.spotify.com/track/3rzTHP9LhHzr8shnhoXETY) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [Squad Shit](https://open.spotify.com/album/6fShhLQEKaR7ao5cCbtHsc) | 2:51 |
 | 42 | [DEMON'S SHOT](https://open.spotify.com/track/6NDdZaUIXJfto2riSCDQcQ) | [Aiobahn +81](https://open.spotify.com/artist/3Uyka21MjsQuDzxoOFgizr), [DEMONDICE](https://open.spotify.com/artist/4IUqCINWiy7WQ6LrkhBmdt) | [DEMON'S SHOT](https://open.spotify.com/album/2wdIBhWASWShjvCm9uzili) | 4:15 |
 | 43 | [Kyuujitsuno arekore](https://open.spotify.com/track/6RnQW0CkiybPk8LqibYP9t) | [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Rebreath](https://open.spotify.com/album/1f4JpaeEu3eO9fEiaKCqwI) | 3:38 |
-| 44 | [Japanese Dance Floor](https://open.spotify.com/track/6QRKSxoUDfEnlgu90pJ5Az) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD) | [Japanese Dance Floor](https://open.spotify.com/album/08tSMUL0h9A9a26bfm8x58) | 4:10 |
+| 44 | [Japanese Dance Floor](https://open.spotify.com/track/6QRKSxoUDfEnlgu90pJ5Az) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [Japanese Dance Floor](https://open.spotify.com/album/08tSMUL0h9A9a26bfm8x58) | 4:10 |
 | 45 | [Drop That!](https://open.spotify.com/track/0yIytxEHCvUcSCVRvwwXEi) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [256th Note](https://open.spotify.com/album/4gn5qA9UixpTwnP9Q0XKLW) | 3:02 |
 | 46 | [Calling](https://open.spotify.com/track/2VONvCrxajO4lCgKcgfgIK) | [MINZY](https://open.spotify.com/artist/1ql28OzmgulHG2ldXFrbWp) | [Calling](https://open.spotify.com/album/6PjLZ14CKLRbs19esnrOj4) | 3:37 |
 | 47 | [HIGH BEAM](https://open.spotify.com/track/3XyEDcpYCXz9x7IUqgfzbh) | [XngHan&Xoul](https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb) | [HIGH BEAM](https://open.spotify.com/album/0S1urD0pmgClhdTI7rXPVD) | 2:46 |

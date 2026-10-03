@@ -1,12 +1,12 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: AVE",
-  "num_followers": 31335,
+  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: David Guetta and Jast ",
+  "num_followers": 31337,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAxHexp/cj1hg1HMdK7qbbBKnNUIx0F",
+  "snapshot_id": "AAAxKKEdfqS34qdleSnPmF0nkzyv6pil",
   "tracks": [
     {
       "added_at": "2026-10-01 22:00:06",
@@ -29,26 +29,6 @@
       "url": "https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M"
     },
     {
-      "added_at": "2026-09-24 22:00:04",
-      "album": {
-        "name": "Meet Me In The Dark (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/0HerfMSZ4Yc60SXiXjnfEM"
-      },
-      "artists": [
-        {
-          "name": "AVE",
-          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Meet Me In The Dark - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5lxWnywnnSIhZ5C5n2m889"
-    },
-    {
       "added_at": "2026-10-01 22:00:03",
       "album": {
         "name": "Serotonin",
@@ -69,20 +49,24 @@
       "url": "https://open.spotify.com/track/0I90jklTm1yNB0FUak33Va"
     },
     {
-      "added_at": "2026-09-24 22:00:05",
+      "added_at": "2026-09-24 22:00:04",
       "album": {
-        "name": "FVCK BOYS",
-        "url": "https://open.spotify.com/album/7KISacicZzPCXQUGhQ43nt"
+        "name": "Meet Me In The Dark (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/0HerfMSZ4Yc60SXiXjnfEM"
       },
       "artists": [
         {
-          "name": "CVNTS",
-          "url": "https://open.spotify.com/artist/6OOF9nSZbNw4etK0InqtEZ"
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         }
       ],
-      "duration_ms": 180394,
-      "name": "FVCK BOYS",
-      "url": "https://open.spotify.com/track/3nh6ce6TEVIfgS1hbkNWIO"
+      "duration_ms": 176307,
+      "name": "Meet Me In The Dark - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5lxWnywnnSIhZ5C5n2m889"
     },
     {
       "added_at": "2026-10-01 22:00:04",
@@ -101,6 +85,22 @@
       "url": "https://open.spotify.com/track/0JOfGKa9pJE031SlQwLZx8"
     },
     {
+      "added_at": "2026-09-24 22:00:05",
+      "album": {
+        "name": "FVCK BOYS",
+        "url": "https://open.spotify.com/album/7KISacicZzPCXQUGhQ43nt"
+      },
+      "artists": [
+        {
+          "name": "CVNTS",
+          "url": "https://open.spotify.com/artist/6OOF9nSZbNw4etK0InqtEZ"
+        }
+      ],
+      "duration_ms": 180394,
+      "name": "FVCK BOYS",
+      "url": "https://open.spotify.com/track/3nh6ce6TEVIfgS1hbkNWIO"
+    },
+    {
       "added_at": "2026-10-01 22:00:05",
       "album": {
         "name": "Bonfire",
@@ -117,6 +117,22 @@
       "url": "https://open.spotify.com/track/6ldE1maDt5nGQ41Sh7BviE"
     },
     {
+      "added_at": "2026-10-02 08:44:51",
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/5wqCvgmEbRB32JdkQ5W9Hv"
+      },
+      "artists": [
+        {
+          "name": "CHARMUR",
+          "url": "https://open.spotify.com/artist/5p8l41jNLLIjW5nztrRvTu"
+        }
+      ],
+      "duration_ms": 186086,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/62SgVSKFyKAG9uNoi9dgxY"
+    },
+    {
       "added_at": "2026-09-24 22:00:05",
       "album": {
         "name": "This Ain't Just Music",
@@ -131,6 +147,30 @@
       "duration_ms": 165905,
       "name": "This Ain't Just Music",
       "url": "https://open.spotify.com/track/6OJDHvSnRjgcuE0DtAilgK"
+    },
+    {
+      "added_at": "2026-10-02 08:49:30",
+      "album": {
+        "name": "Hard To be Around",
+        "url": "https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        },
+        {
+          "name": "Cleopard2000",
+          "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        }
+      ],
+      "duration_ms": 176223,
+      "name": "Hard To be Around",
+      "url": "https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"
     },
     {
       "added_at": "2026-09-17 22:00:13",
@@ -155,6 +195,26 @@
       "duration_ms": 149538,
       "name": "Chase The Feeling (feat. ALEXX)",
       "url": "https://open.spotify.com/track/0e5Af4sM86p0CD3KpZAEY2"
+    },
+    {
+      "added_at": "2026-10-02 08:52:33",
+      "album": {
+        "name": "Bigger Than",
+        "url": "https://open.spotify.com/album/1pqLi5Fgxe3jVgTi6Uk1R5"
+      },
+      "artists": [
+        {
+          "name": "L\u00a5O",
+          "url": "https://open.spotify.com/artist/5ntG7VhN9iZ6Mg7K0x1EAr"
+        },
+        {
+          "name": "Dead Prez",
+          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "Bigger Than",
+      "url": "https://open.spotify.com/track/6WRng4KvxwgNbskldQiiR3"
     },
     {
       "added_at": "2026-09-24 22:00:06",

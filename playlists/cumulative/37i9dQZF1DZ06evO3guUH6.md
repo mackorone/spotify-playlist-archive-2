@@ -4,7 +4,7 @@
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 21 min
+93 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [El Vals Del Olvido](https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:29 | 2023-08-08 |  |
 | [El Zoológico](https://open.spotify.com/track/0BIpn82Dpo4EdCwHnwoapp) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:40 | 2023-08-08 | 2024-06-26 |
 | [En Definitiva](https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:36 | 2023-08-08 |  |
-| [Eres](https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Eres](https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr) | 3:15 | 2025-08-04 |  |
+| [Eres](https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Eres](https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr) | 3:15 | 2025-08-04 | 2026-10-03 |
+| [Esta Mi Pasión](https://open.spotify.com/track/4mGMdbgvHJHOeRpBe0bI5C) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Esta Mi Pasión](https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O) | 2:44 | 2026-10-03 |  |
 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 | 2023-08-08 | 2024-07-27 |
 | [Hoy Te Pierdo](https://open.spotify.com/track/1uNo4WxrVKwGnSzyexALea) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:54 | 2024-01-19 |  |
 | [Hoy Te Pierdo](https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Hoy Te Pierdo](https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg) | 3:54 | 2023-08-08 | 2024-01-06 |

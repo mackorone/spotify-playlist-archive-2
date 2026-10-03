@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Trippin\u2019 On Rhythms",
+        "url": "https://open.spotify.com/album/77GifKeFC0jXSle4Qa4sbC"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "Last XT",
+      "url": "https://open.spotify.com/track/7iM5aTN9DtZnIv0DzGjVgC"
+    },
+    {
+      "album": {
         "name": "Virgin Ubiquity II",
         "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 350293,
       "name": "Oh What A Lonely Feeling - Delfonic Rework",
       "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"

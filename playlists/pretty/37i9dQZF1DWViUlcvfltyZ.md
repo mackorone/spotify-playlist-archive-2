@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🥁 Lembrete in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,230 likes - 103 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,246 likes - 103 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

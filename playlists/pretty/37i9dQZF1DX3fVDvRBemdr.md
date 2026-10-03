@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Donnie & Justen de Wildt
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,764 likes - 105 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,767 likes - 105 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

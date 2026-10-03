@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 10 hr 29 min
+172 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [SORRY RACH!](https://open.spotify.com/track/581wx4eVMwnfHWqoGd90jn) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [SORRY RACH!](https://open.spotify.com/album/24HXbfPIjw7Yi8bpif4H79) | 3:54 | 2026-08-07 |  |
 | [Soul Glitch](https://open.spotify.com/track/4EabiixKs1IXXRyFha7ODG) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nightride](https://open.spotify.com/album/4oUQWJAcEtTuhYFR9AGfaC) | 4:11 | 2026-08-07 |  |
 | [Spirit](https://open.spotify.com/track/6XZANPD0UCJZsVdcczgl2V) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 1:59 | 2026-08-07 |  |
-| [Square Up](https://open.spotify.com/track/6z23ALs89TA5LEckkkFTTm) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Square Up](https://open.spotify.com/album/3kQLDzH2oF0sLcPUVdFgDn) | 3:02 | 2026-09-30 |  |
+| [Square Up](https://open.spotify.com/track/2vEVYGhlNKrLxL4dKeK6DV) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 3:02 | 2026-10-02 |  |
+| [Square Up](https://open.spotify.com/track/6z23ALs89TA5LEckkkFTTm) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Square Up](https://open.spotify.com/album/3kQLDzH2oF0sLcPUVdFgDn) | 3:02 | 2026-09-30 | 2026-10-03 |
 | [Stainless](https://open.spotify.com/track/5rwOE5J3Y1A2NiRa6y3Yph) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Dria](https://open.spotify.com/artist/6MDssQ4ZaMqsMTkF9EZFiG) | [The Incredible True Story](https://open.spotify.com/album/5dOpbgAmJeyoakKQ0QLWkR) | 3:19 | 2026-08-07 |  |
 | [Stand For](https://open.spotify.com/track/1f64Oqhxti0U4LDTMJV9jJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Stand For](https://open.spotify.com/album/0G3PaiziCtoCF26New6ILn) | 3:20 | 2026-08-07 |  |
 | [Stand For Something](https://open.spotify.com/track/5JEP7XDAwowpBEwEEyrs3I) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 4:47 | 2026-09-30 |  |

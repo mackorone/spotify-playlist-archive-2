@@ -2,9 +2,9 @@
 
 ### [Christian Hits](https://open.spotify.com/playlist/37i9dQZF1DX5SzTPIoCKiv)
 
-> Recent hits from your favorite Christian Contemporary artists\.  Cover: for KING & COUNTRY
+> Recent hits from your favorite Christian Contemporary artists\.  Cover: Brandon Lake
 
-305 songs - 19 hr 48 min
+306 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Hope Is Here \(Do Not Fear\)](https://open.spotify.com/track/6uJaKvuzBPNxGmKWj5sVqj) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Hope Is Here](https://open.spotify.com/album/4p855YH6nf6IJgfiy6oNw7) | 3:23 | 2021-10-15 | 2022-07-12 |
 | [House Of The Lord](https://open.spotify.com/track/1jLAfwuB7v9lBdwDcJF39G) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [House Of The Lord](https://open.spotify.com/album/27yT7bqRfljcGXc7KFHzgB) | 4:16 | 2021-10-15 | 2022-07-29 |
 | [House Of The Lord](https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:16 | 2021-10-15 | 2024-04-19 |
+| [How Good God Is](https://open.spotify.com/track/4fKoBrwsE44m3oMIzXSqhL) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [How Good God Is](https://open.spotify.com/album/2cAiFBk6nMBE7Bix8vGiDl) | 3:52 | 2026-10-02 |  |
 | [How Good It Is](https://open.spotify.com/track/0vd7dFgdILWR8nqXS6QIEi) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 3:51 | 2026-02-07 |  |
 | [Hurts For You](https://open.spotify.com/track/7btNwNEh5X0noAtcXKQ5rO) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Hurts For You](https://open.spotify.com/album/3iy5ol9eyYY6W6XglMdGme) | 4:08 | 2021-10-15 | 2022-07-17 |
 | [Hymn of Heaven](https://open.spotify.com/track/4nK7i4idbh4N3Nf6p9PSPa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn of Heaven](https://open.spotify.com/album/1dTtexFzU6mWBjAi391OO1) | 4:27 | 2021-10-15 | 2024-06-22 |
@@ -296,7 +297,7 @@
 | [Weary Traveler](https://open.spotify.com/track/4GvaupCSw4gKdfP0h9H9AB) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK) | 3:20 | 2021-10-15 | 2023-01-22 |
 | [What An Awesome God](https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [What An Awesome God](https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc) | 3:31 | 2025-10-06 |  |
 | [What I'm Here For](https://open.spotify.com/track/60TDbRgxNauv2waKkBZ58q) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [What I’m Here For](https://open.spotify.com/album/0ScpOqmsdJuXH59oV92NgN) | 3:47 | 2021-10-15 | 2022-07-27 |
-| [When A Cowboy Prays \- with Cody Johnson](https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [When A Cowboy Prays \(with Cody Johnson\)](https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn) | 3:57 | 2026-03-23 |  |
+| [When A Cowboy Prays \- with Cody Johnson](https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [When A Cowboy Prays \(with Cody Johnson\)](https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn) | 3:57 | 2026-03-23 | 2026-10-03 |
 | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/album/0LLTMDGcJwLdwN8SC3OLm7) | 4:26 | 2021-10-15 | 2022-07-29 |
 | [Where Would I Be](https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI) | 3:12 | 2026-05-29 |  |
 | [Who Else \(Single Mix\)](https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Who Else](https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO) | 3:28 | 2021-10-15 | 2022-03-12 |

@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Alpine Rain",
+        "url": "https://open.spotify.com/album/76txDiFmrnfevvse4yuyqa"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137552,
+      "name": "Alpine Rain",
+      "url": "https://open.spotify.com/track/3T5kK2GIVAVV6PHZLU9zHL"
+    },
+    {
+      "album": {
         "name": "Altitudes",
         "url": "https://open.spotify.com/album/2e8F67H4vPMGo5L3tJu0id"
       },

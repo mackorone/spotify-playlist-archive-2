@@ -6911,6 +6911,24 @@
     },
     {
       "album": {
+        "name": "MISS\u00c3O",
+        "url": "https://open.spotify.com/album/0jXBHPwZSZfbFAlfWHI93S"
+      },
+      "artists": [
+        {
+          "name": "Fac\u00e7\u00e3o Caipira",
+          "url": "https://open.spotify.com/artist/08aFPvLuNioTMnz2DcNMvg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "MISS\u00c3O",
+      "url": "https://open.spotify.com/track/7LNU3RnIjVkhRVFzuFx0U7"
+    },
+    {
+      "album": {
         "name": "Movimento",
         "url": "https://open.spotify.com/album/45HaFiQ0qJTgBba3oDTl5K"
       },

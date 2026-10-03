@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > to the people who look at the stars and wish 🧚‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,466 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,467 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 45 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 |
 | 46 | [Landscape With a Fairy](https://open.spotify.com/track/19doORzyzOFARW6I0Fydc8) | [aspidistrafly](https://open.spotify.com/artist/4ze7HHThfzYo15SuunBKhd) | [A Little Fable](https://open.spotify.com/album/7DqDOGXV5dAfYi85wrHkXN) | 4:25 |
 | 47 | [I Guess](https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:15 |
-| 48 | [Sodus](https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP) | [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV) | [Barrow](https://open.spotify.com/album/6IXODAifKEyJazakNSQB4V) | 6:38 |
-| 49 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 |
+| 48 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 |
+| 49 | [Sodus](https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP) | [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV) | [Barrow](https://open.spotify.com/album/6IXODAifKEyJazakNSQB4V) | 6:38 |
 | 50 | [I'd Like To Walk Around In Your Mind](https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:15 |
 
 Snapshot ID: `AAAAAA0zgaowv+iY9L+g52ue1AeSui47`

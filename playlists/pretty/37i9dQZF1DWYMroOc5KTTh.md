@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,496 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,632 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 26 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
 | 27 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 |
 | 28 | [Hold On, Let Go \(ft\. WAYNE SNOW & 3DDY\)](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go \(ft\. WAYNE SNOW & 3DDY\)](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 |
-| 29 | [4 us](https://open.spotify.com/track/5sCc7Jdb0REQRlo1qgtEeS) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [4 us](https://open.spotify.com/album/5DAhKKgBkWq1RPGrBDgSVB) | 3:17 |
-| 30 | [JOY \(Up The Street\)](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:57 |
+| 29 | [JOY \(Up The Street\)](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:57 |
+| 30 | [4 us](https://open.spotify.com/track/5sCc7Jdb0REQRlo1qgtEeS) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [4 us](https://open.spotify.com/album/5DAhKKgBkWq1RPGrBDgSVB) | 3:17 |
 | 31 | [Music is Life](https://open.spotify.com/track/4blPk8aWh2odUS0ENW2gfr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Music is Life](https://open.spotify.com/album/2w2CJpHGsCYFPjh6Ma6YuO) | 4:48 |
 | 32 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 | 33 | [Touch](https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Touch](https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm) | 3:41 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 46 | [Ultramoon](https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Ultramoon](https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW) | 4:16 |
 | 47 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
 | 48 | [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 |
-| 49 | [Return to Ojai](https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Return to Ojai](https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini) | 4:19 |
+| 49 | [mr useless](https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [mr useless](https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ) | 2:29 |
 | 50 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 |
 
 Snapshot ID: `AAAAAKxyae/CpKGEwaloeLC253wMVBx1`

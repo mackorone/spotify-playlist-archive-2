@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "The latest in world music. From the continent, to the islands with Tiakola & Rema.",
+  "description": "The latest in world music. From the continent, to the islands with BNXN.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 155773,
       "name": "Alaye",
       "url": "https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg"
@@ -4026,7 +4026,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 169655,
       "name": "BIG PERFORMER",
       "url": "https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0"
@@ -7199,6 +7199,28 @@
     },
     {
       "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "album": {
         "name": "For A Good Time...",
         "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
@@ -8521,6 +8543,28 @@
     },
     {
       "album": {
+        "name": "DIP",
+        "url": "https://open.spotify.com/album/7hogRmRSMRuGz63RqgqqBU"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sommer Ray",
+          "url": "https://open.spotify.com/artist/7EdXiDSXhpAzHmb2PWd2Kp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "DIP",
+      "url": "https://open.spotify.com/track/0cLQo9kMwh075LzY4vWit0"
+    },
+    {
+      "album": {
         "name": "Dirty Nights",
         "url": "https://open.spotify.com/album/10SEyQdy8aBLJ2ZowCR4HS"
       },
@@ -9644,7 +9688,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 158108,
       "name": "Eja Meja (feat. Asake)",
       "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
@@ -15273,6 +15317,24 @@
     },
     {
       "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+    },
+    {
+      "album": {
         "name": "IFA",
         "url": "https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol"
       },
@@ -15292,6 +15354,28 @@
       "duration_ms": 218055,
       "name": "IFA",
       "url": "https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ"
+    },
+    {
+      "album": {
+        "name": "IKEBE 3000",
+        "url": "https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "IKEBE 3000",
+      "url": "https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY"
     },
     {
       "album": {
@@ -17674,7 +17758,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 156734,
       "name": "Lambo",
       "url": "https://open.spotify.com/track/1rpShKnZmMlS1myDAtC0c8"
@@ -17834,6 +17918,24 @@
       "duration_ms": 141958,
       "name": "LEADER!",
       "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
+    },
+    {
+      "album": {
+        "name": "Vacancy: Late Checkout",
+        "url": "https://open.spotify.com/album/62NrsYBeDNa4r9FvGuwbVw"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155153,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5UWypDFke2swJxdSJ6mdkq"
     },
     {
       "album": {
@@ -20794,6 +20896,36 @@
       "duration_ms": 163539,
       "name": "Money Talk",
       "url": "https://open.spotify.com/track/4UhA8xltFVZOwa2KSEgEm1"
+    },
+    {
+      "album": {
+        "name": "MONEY TRICKY (Miss Kitty Remix)",
+        "url": "https://open.spotify.com/album/5sUA1QbPeTEGBu6x6hHKth"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Simon Howden",
+          "url": "https://open.spotify.com/artist/4jwpIe4xGSoXvQuizRebBl"
+        },
+        {
+          "name": "Wildcat",
+          "url": "https://open.spotify.com/artist/0dHxXWxunJUBmqezrnxe8p"
+        },
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/0pa7yKN25lWQtRiTKST8Mx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165294,
+      "name": "MONEY TRICKY - Miss Kitty Remix",
+      "url": "https://open.spotify.com/track/2gT0x3R4QYy1yc6SwYrgq2"
     },
     {
       "album": {
@@ -24482,7 +24614,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 147302,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/4v1WfWIwfplCJKNQmKx9FN"
@@ -26606,7 +26738,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 207789,
       "name": "Ready for the Ride",
       "url": "https://open.spotify.com/track/1mBlAPx3o1upduoTYXwgcZ"

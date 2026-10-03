@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267899,
+  "num_followers": 267903,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADudoBpFSgyiQoS8aN90bKK",
+  "snapshot_id": "ar2igAAAAAAabkFMI6kqvnwp9Em1+QNp",
   "tracks": [
     {
       "added_at": null,
@@ -279,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
       "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 241480,
-      "name": "Bury Me in Georgia",
-      "url": "https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH"
+      "duration_ms": 176800,
+      "name": "The one (Pero no como yo)",
+      "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
     },
     {
       "added_at": null,
@@ -311,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
       "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 176800,
-      "name": "The one (Pero no como yo)",
-      "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
+      "duration_ms": 241480,
+      "name": "Bury Me in Georgia",
+      "url": "https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH"
     },
     {
       "added_at": null,

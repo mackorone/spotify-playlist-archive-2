@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-27",
-  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Faiza, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Kerrington Gillespie, Artwork: Isu Kim",
   "name": "Fresh Finds Canada",
   "tracks": [
     {
@@ -2112,6 +2112,24 @@
       "duration_ms": 216619,
       "name": "all day, cowboy!",
       "url": "https://open.spotify.com/track/777HheiK9suLfhPtRVryIh"
+    },
+    {
+      "album": {
+        "name": "All dogs go to heaven",
+        "url": "https://open.spotify.com/album/5NWKlmyUqNen4ON0c0BXPy"
+      },
+      "artists": [
+        {
+          "name": "Deadin Dogyears",
+          "url": "https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142361,
+      "name": "All dogs go to heaven",
+      "url": "https://open.spotify.com/track/6wAEahV7CPHBNYFBgxQ20x"
     },
     {
       "album": {
@@ -6335,6 +6353,24 @@
     },
     {
       "album": {
+        "name": "BOO THANG!",
+        "url": "https://open.spotify.com/album/0LIkyMhzijBhsxz6id0MnK"
+      },
+      "artists": [
+        {
+          "name": "AL\u00d6W",
+          "url": "https://open.spotify.com/artist/0pbSMcnKWHnNgCxbJOnx1z"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "BOO THANG!",
+      "url": "https://open.spotify.com/track/5lxAOzITbsLobWt1bKmQtY"
+    },
+    {
+      "album": {
         "name": "Boogie",
         "url": "https://open.spotify.com/album/50IfjZZvZx0oUD9MmfOXof"
       },
@@ -10506,7 +10542,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 117624,
       "name": "copacabana",
       "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
@@ -16863,6 +16899,24 @@
     },
     {
       "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/1Bfd6RyPWGpDaheJqcjs7O"
+      },
+      "artists": [
+        {
+          "name": "Michaela Slinger",
+          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248452,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/63KfPwR7WOBjSPfO6iHm8i"
+    },
+    {
+      "album": {
         "name": "FLEX",
         "url": "https://open.spotify.com/album/233Tls33JGHwHIT53qjBs7"
       },
@@ -16986,7 +17040,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 180793,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5NCnNHJz7LmD9TpGvFGjj1"
@@ -33470,7 +33524,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 229481,
       "name": "M\u00eames habitudes",
       "url": "https://open.spotify.com/track/3cFVT6MhGbiaK89AcVKquo"
@@ -34180,6 +34234,24 @@
       "duration_ms": 213269,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud"
+    },
+    {
+      "album": {
+        "name": "Never Let You Know",
+        "url": "https://open.spotify.com/album/27AWvK2TQiPiHuSGmggIIO"
+      },
+      "artists": [
+        {
+          "name": "fangs",
+          "url": "https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171425,
+      "name": "Never Let You Know",
+      "url": "https://open.spotify.com/track/4ME2tEBxl7NC4E1m5JE1dP"
     },
     {
       "album": {
@@ -38186,7 +38258,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 184360,
       "name": "pas de vagues",
       "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
@@ -51158,7 +51230,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 170396,
       "name": "The Big Brother Heartbreak Swing",
       "url": "https://open.spotify.com/track/6hRmuHy1cF4UakLbpLituu"
@@ -52506,6 +52578,24 @@
       "duration_ms": 154434,
       "name": "THREATS",
       "url": "https://open.spotify.com/track/2lz22EPh8EpWfKMgh9k0Wl"
+    },
+    {
+      "album": {
+        "name": "Three Missed Calls",
+        "url": "https://open.spotify.com/album/1MK8GCuJq8JotZ7FIaP7h2"
+      },
+      "artists": [
+        {
+          "name": "Kerrington Gillespie",
+          "url": "https://open.spotify.com/artist/68xYQGUaaSPp2cKgWs0udv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Three Missed Calls",
+      "url": "https://open.spotify.com/track/1Hq7TWA7sz7F90RzfgtyXI"
     },
     {
       "album": {

@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 125849,
       "name": "androgynous",
       "url": "https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y"
@@ -3388,7 +3388,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 216311,
       "name": "BIG DOG",
       "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
@@ -4132,7 +4132,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 183788,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o"
@@ -7651,6 +7651,24 @@
     },
     {
       "album": {
+        "name": "crystallized & death rolL",
+        "url": "https://open.spotify.com/album/1dvP2ORk7syTl4Q72C7VIU"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159653,
+      "name": "crystallized",
+      "url": "https://open.spotify.com/track/5yUwlZ1IS6Yg1FqyAqK9Ro"
+    },
+    {
+      "album": {
         "name": "Crystals & Congas",
         "url": "https://open.spotify.com/album/7g3PLrwxjgEVvwGnVjmP44"
       },
@@ -8110,6 +8128,24 @@
       "duration_ms": 194222,
       "name": "Darkness Of The Night",
       "url": "https://open.spotify.com/track/7uewMG4oKBNpCeso1KiI1i"
+    },
+    {
+      "album": {
+        "name": "Darth Vapor",
+        "url": "https://open.spotify.com/album/4ITo43fKbywNwLHE6hEqBL"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255965,
+      "name": "Darth Vapor",
+      "url": "https://open.spotify.com/track/75u37R1IZGJ287WUWJmibo"
     },
     {
       "album": {
@@ -9500,7 +9536,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 254163,
       "name": "Driver Idle",
       "url": "https://open.spotify.com/track/4NDaB0Q9jOL0DnyfI346SA"
@@ -9986,6 +10022,24 @@
       "duration_ms": 166809,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6"
+    },
+    {
+      "album": {
+        "name": "enemies (in my head)",
+        "url": "https://open.spotify.com/album/0M36iEnixkCLfb4h0kUg2i"
+      },
+      "artists": [
+        {
+          "name": "l i l a",
+          "url": "https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161864,
+      "name": "enemies (in my head)",
+      "url": "https://open.spotify.com/track/72ejFVPcu60V5s9StGaWiV"
     },
     {
       "album": {
@@ -13156,7 +13210,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 167191,
       "name": "go!",
       "url": "https://open.spotify.com/track/7kqPf7xVPqpdi0mN3pWKym"
@@ -13898,6 +13952,24 @@
       "duration_ms": 187059,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
+    },
+    {
+      "album": {
+        "name": "Guns&Roses",
+        "url": "https://open.spotify.com/album/4V8ZGZICgzj3uRjIz7fJRd"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175136,
+      "name": "Guns&Roses",
+      "url": "https://open.spotify.com/track/2bCFw3pYqmB4lsGyyWaLmU"
     },
     {
       "album": {
@@ -15022,7 +15094,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 168110,
       "name": "higher! higher! (for Paul)",
       "url": "https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg"
@@ -16047,6 +16119,24 @@
     },
     {
       "album": {
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/41IH84UYCnyaH90efEom2S"
+      },
+      "artists": [
+        {
+          "name": "Heathers",
+          "url": "https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153779,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/4edmBZ5KvOETrP0OsAw8nS"
+    },
+    {
+      "album": {
         "name": "I BOUGHT YOU DAISIES",
         "url": "https://open.spotify.com/album/0f2iRP8RK2X9u5OlFMGwdD"
       },
@@ -16706,7 +16796,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 105501,
       "name": "I'll be fine",
       "url": "https://open.spotify.com/track/7GuokCJjuZrbal30hn9XsI"
@@ -18546,7 +18636,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 146788,
       "name": "Knifefish",
       "url": "https://open.spotify.com/track/1KiWQFbHX5VPg41EEErqXh"
@@ -23664,7 +23754,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 181090,
       "name": "OCTOBER",
       "url": "https://open.spotify.com/track/1uYO5Jhgf4S1752bUL2IiW"
@@ -24511,6 +24601,24 @@
     },
     {
       "album": {
+        "name": "P2 Overture",
+        "url": "https://open.spotify.com/album/0AZopCdIZTGuuIwSY9M3n6"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "P2 Overture",
+      "url": "https://open.spotify.com/track/52x5QCrvQdHjfX12DIx6RA"
+    },
+    {
+      "album": {
         "name": "BOY ANONYMOUS",
         "url": "https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w"
       },
@@ -24660,6 +24768,24 @@
       "duration_ms": 123428,
       "name": "Parade",
       "url": "https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181112,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX"
     },
     {
       "album": {
@@ -26827,6 +26953,24 @@
     },
     {
       "album": {
+        "name": "RAIN",
+        "url": "https://open.spotify.com/album/3lT5hVKfsN1EexA8KQi24P"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130063,
+      "name": "RAIN",
+      "url": "https://open.spotify.com/track/1CIlWzJdqhY6XLG3oOINmj"
+    },
+    {
+      "album": {
         "name": "Rainbow Bap",
         "url": "https://open.spotify.com/album/4uYYweXMMvr8K5OAkpquRG"
       },
@@ -28148,6 +28292,24 @@
       "duration_ms": 193146,
       "name": "Same Thing",
       "url": "https://open.spotify.com/track/1BpU6izP8aACEk8efy8KSp"
+    },
+    {
+      "album": {
+        "name": "San Antonio",
+        "url": "https://open.spotify.com/album/5Zf31aTNjCSiwOz3ahQVV5"
+      },
+      "artists": [
+        {
+          "name": "Natek",
+          "url": "https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166972,
+      "name": "San Antonio",
+      "url": "https://open.spotify.com/track/6q9h23X8y4PCpZJTCLy1cl"
     },
     {
       "album": {
@@ -34512,7 +34674,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 134444,
       "name": "Tilapia",
       "url": "https://open.spotify.com/track/6SkdgDwXuQlLPRyFKbmr1n"
@@ -34831,6 +34993,24 @@
     },
     {
       "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "album": {
         "name": "tongues",
         "url": "https://open.spotify.com/album/4We7nxOuoxs57oz6pbEFx2"
       },
@@ -35096,6 +35276,24 @@
       "duration_ms": 170023,
       "name": "Trigger Of Love",
       "url": "https://open.spotify.com/track/0CtfBQl582RRut2ccLtjBr"
+    },
+    {
+      "album": {
+        "name": "Trillions",
+        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180964,
+      "name": "Trillions",
+      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
     },
     {
       "album": {
@@ -36180,7 +36378,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 146732,
       "name": "veil",
       "url": "https://open.spotify.com/track/0TT5fYtMNU07WMrW9cbRpL"

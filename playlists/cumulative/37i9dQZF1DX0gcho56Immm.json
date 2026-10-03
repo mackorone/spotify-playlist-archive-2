@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Yangze",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: mikey",
   "name": "Cph+",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 117347,
       "name": "Affectionately",
       "url": "https://open.spotify.com/track/7CHwOqXYxWn7HGQl2OZq6H"
@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Better Than Mine",
+        "url": "https://open.spotify.com/album/6Am91CfOO7VHDHArlb7HMu"
+      },
+      "artists": [
+        {
+          "name": "Deer park",
+          "url": "https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy"
+        },
+        {
+          "name": "Valeria Litvakov",
+          "url": "https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216021,
+      "name": "Better Than Mine",
+      "url": "https://open.spotify.com/track/4YR5OvWsJ8GsXwkmubdMFF"
+    },
+    {
+      "album": {
         "name": "Big city life",
         "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
       },
@@ -583,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Black bear",
+        "url": "https://open.spotify.com/album/2az6UXQ2PLchS5UlSZWxyv"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "Black bear",
+      "url": "https://open.spotify.com/track/4vRzckhYru1wgfdTG2Fllu"
+    },
+    {
+      "album": {
         "name": "choke enough",
         "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
       },
@@ -598,6 +638,24 @@
       "duration_ms": 198587,
       "name": "blade bird",
       "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
+    },
+    {
+      "album": {
+        "name": "Bleeding Love",
+        "url": "https://open.spotify.com/album/32gUPqoTPUDDhU24umDtBG"
+      },
+      "artists": [
+        {
+          "name": "Lorien Well",
+          "url": "https://open.spotify.com/artist/3hiyw1zl4FPYlUTn3nMUae"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/7dp9Qx4m621G9Re70JfRQi"
     },
     {
       "album": {
@@ -1054,7 +1112,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 303124,
       "name": "CPH",
       "url": "https://open.spotify.com/track/71ut6WB7qCVH0wOiXGtzFt"
@@ -1076,6 +1134,24 @@
       "duration_ms": 201600,
       "name": "Crickets",
       "url": "https://open.spotify.com/track/6f069VM5bj00oF7f82NkqP"
+    },
+    {
+      "album": {
+        "name": "curbstone",
+        "url": "https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt"
+      },
+      "artists": [
+        {
+          "name": "mikey",
+          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199330,
+      "name": "curbstone",
+      "url": "https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS"
     },
     {
       "album": {
@@ -1306,7 +1382,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 230462,
       "name": "desire machine",
       "url": "https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny"
@@ -1324,7 +1400,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 203864,
       "name": "Digital Girl",
       "url": "https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1"
@@ -1910,7 +1986,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161813,
       "name": "Falter",
       "url": "https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa"
@@ -2016,6 +2092,24 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
+      "album": {
+        "name": "A Dream Like This",
+        "url": "https://open.spotify.com/album/6BAaLrkBWD3ZJzjfhDfRya"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Flood (Dream Edition)",
+      "url": "https://open.spotify.com/track/363HUqJ7iNbJvf9VJZ6Q8F"
     },
     {
       "album": {
@@ -2533,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "heiat,",
+        "url": "https://open.spotify.com/album/55tVEopLW5JoqD9aG4f4He"
+      },
+      "artists": [
+        {
+          "name": "Jespfur",
+          "url": "https://open.spotify.com/artist/7uPZzaOXKtwltRGEgeQN0r"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "heiat,",
+      "url": "https://open.spotify.com/track/6pZzd6iLU3csE3Xlr71url"
+    },
+    {
+      "album": {
         "name": "crown",
         "url": "https://open.spotify.com/album/4YBVLF2U6r5aKKi5so7Jah"
       },
@@ -2728,7 +2840,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 178800,
       "name": "Honey Scented Soul",
       "url": "https://open.spotify.com/track/4ssAszgrSRjF7MuWXGVEnD"
@@ -2772,6 +2884,32 @@
       "duration_ms": 446677,
       "name": "Human Siren",
       "url": "https://open.spotify.com/track/0m4w9f4a7JTTMNg16wu3fl"
+    },
+    {
+      "album": {
+        "name": "Routine",
+        "url": "https://open.spotify.com/album/3wAc5u3sZ5kxyguLeE8sZi"
+      },
+      "artists": [
+        {
+          "name": "Jason Dungan",
+          "url": "https://open.spotify.com/artist/3m0siFRqCZq1PeZ3iRmXnT"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
+        },
+        {
+          "name": "Blue Lake",
+          "url": "https://open.spotify.com/artist/6I1HySHVBxauGTpv00Gohc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/35brW4KnbdTa2wdM7VoBcz"
     },
     {
       "album": {
@@ -2830,6 +2968,24 @@
       "duration_ms": 156320,
       "name": "I could",
       "url": "https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ"
+    },
+    {
+      "album": {
+        "name": "Va Va Voom",
+        "url": "https://open.spotify.com/album/2vgsOwnFTQyJRbLLnt3xEJ"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5w0RPpt5MYEx931T1JzkpH"
     },
     {
       "album": {
@@ -3080,7 +3236,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 224264,
       "name": "it was then that i",
       "url": "https://open.spotify.com/track/72B17CydCsTvYGPUKas0Jb"
@@ -3250,7 +3406,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 146750,
       "name": "Letters",
       "url": "https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m"
@@ -4872,7 +5028,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 164307,
       "name": "sinking stone",
       "url": "https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W"
@@ -5054,6 +5210,24 @@
       "duration_ms": 255520,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/297G6WwahvL2zaRj4BGZio"
+    },
+    {
+      "album": {
+        "name": "Sometimes I rush",
+        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90867,
+      "name": "Sometimes I rush",
+      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
     },
     {
       "album": {
@@ -5314,6 +5488,24 @@
       "duration_ms": 141818,
       "name": "sunbleach",
       "url": "https://open.spotify.com/track/4HEjp4tBASgN57RUnzxN9Z"
+    },
+    {
+      "album": {
+        "name": "Greatest swamp hits",
+        "url": "https://open.spotify.com/album/34OVcIAlr75Cni7d4nvUKb"
+      },
+      "artists": [
+        {
+          "name": "lene 3000",
+          "url": "https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163242,
+      "name": "Swamp intro",
+      "url": "https://open.spotify.com/track/04FPGpsbAxXn6NJlwJAMdb"
     },
     {
       "album": {
@@ -6230,7 +6422,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 228643,
       "name": "X.U.Y.",
       "url": "https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT"

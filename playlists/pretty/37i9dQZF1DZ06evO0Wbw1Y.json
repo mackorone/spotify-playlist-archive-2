@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 28977,
+  "num_followers": 28976,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADWrNQws3va1ZLg+p7XzdSS",
+  "snapshot_id": "ar2igAAAAAB7CVe1+fQCM0hwd/sDmPO4",
   "tracks": [
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Rom\u00e1n Torres",
+          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
         }
       ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
+      "duration_ms": 195488,
+      "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
+      "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
     },
     {
       "added_at": null,
@@ -515,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Rom\u00e1n Torres",
-          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
         }
       ],
-      "duration_ms": 195488,
-      "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
-      "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
     },
     {
       "added_at": null,
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Jeon",
-          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
         }
       ],
-      "duration_ms": 192926,
-      "name": "Est\u00e1s",
-      "url": "https://open.spotify.com/track/190oPZ25kanU2CRpgi801e"
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
     },
     {
       "added_at": null,
@@ -851,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combustible",
-        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
         }
       ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+      "duration_ms": 192926,
+      "name": "Est\u00e1s",
+      "url": "https://open.spotify.com/track/190oPZ25kanU2CRpgi801e"
     },
     {
       "added_at": null,

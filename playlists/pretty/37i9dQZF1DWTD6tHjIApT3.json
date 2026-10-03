@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3055\u3068\u3046\u3082\u304b",
-  "num_followers": 139005,
+  "num_followers": 139049,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
+        "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/5W2VLS6CY3w8DWYQ7scpe3"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 284040,
+      "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5m9zC72yYWnW3Yhy7cBTtJ"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
         "name": "\u590f\u8749",
         "url": "https://open.spotify.com/album/7ilZipPln1gAgFYk7d2fbu"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 291808,
       "name": "\u590f\u8749",
       "url": "https://open.spotify.com/track/5SotpyBWM0DaYmGRLpwDiw"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
-        "name": "Kill or Kiss",
-        "url": "https://open.spotify.com/album/0oMQOKCOH1errI6cG7HVGn"
-      },
-      "artists": [
-        {
-          "name": "\u5e73\u624b\u53cb\u68a8\u5948",
-          "url": "https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k"
-        }
-      ],
-      "duration_ms": 185116,
-      "name": "Kill or Kiss",
-      "url": "https://open.spotify.com/track/2kLQYErt8QPd4cg2axB7in"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
+        "name": "Kill or Kiss",
+        "url": "https://open.spotify.com/album/0oMQOKCOH1errI6cG7HVGn"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u624b\u53cb\u68a8\u5948",
+          "url": "https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k"
+        }
+      ],
+      "duration_ms": 185116,
+      "name": "Kill or Kiss",
+      "url": "https://open.spotify.com/track/2kLQYErt8QPd4cg2axB7in"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/5PbF9PSkjUKeACBW4E8Csc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 158106,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/5BSMdIyRjgYKO6U6QuT9ro"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
-        "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
-        "url": "https://open.spotify.com/album/5W2VLS6CY3w8DWYQ7scpe3"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 284040,
-      "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5m9zC72yYWnW3Yhy7cBTtJ"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "\u3055\u3088\u306a\u3089\u30e9\u30e9",
-        "url": "https://open.spotify.com/album/4FaeqrMl7LloVlxdwCyKnc"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 294800,
-      "name": "\u3055\u3088\u306a\u3089\u30e9\u30e9",
-      "url": "https://open.spotify.com/track/5iLGuNVh2zfuQIam5ARoLX"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
         "url": "https://open.spotify.com/album/75ud6v5jZFdJdPXdoqyZwe"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 208520,
       "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
       "url": "https://open.spotify.com/track/4efmtclSeuqYXi6tuGRYtm"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "\u3055\u3088\u306a\u3089\u30e9\u30e9",
+        "url": "https://open.spotify.com/album/4FaeqrMl7LloVlxdwCyKnc"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "\u3055\u3088\u306a\u3089\u30e9\u30e9",
+      "url": "https://open.spotify.com/track/5iLGuNVh2zfuQIam5ARoLX"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
-        "url": "https://open.spotify.com/album/262lizNS5FxoWK1QFsGQGz"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
-      "url": "https://open.spotify.com/track/3eh3LNQK84ZkwINGLotAON"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "Diamonds in the Sky",
         "url": "https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 185031,
       "name": "Diamonds in the Sky",
       "url": "https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+        "url": "https://open.spotify.com/album/262lizNS5FxoWK1QFsGQGz"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+      "url": "https://open.spotify.com/track/3eh3LNQK84ZkwINGLotAON"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/21z1fNY6xXjnVRc9H35nDb"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "duration_ms": 146037,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/38Ly5TWg9E7B7inRwrcAbs"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/1EzoKpnHJrFqMv8yMYZ6Ej"
       },
@@ -1271,18 +1287,34 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/21z1fNY6xXjnVRc9H35nDb"
+        "name": "Twilight Twilight",
+        "url": "https://open.spotify.com/album/5xYb49Dtwuz5sAVKqtcpaO"
       },
       "artists": [
         {
-          "name": "Litty",
-          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+          "name": "PiKi",
+          "url": "https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T"
         }
       ],
-      "duration_ms": 146037,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/38Ly5TWg9E7B7inRwrcAbs"
+      "duration_ms": 202221,
+      "name": "Twilight Twilight",
+      "url": "https://open.spotify.com/track/2zDsbKzHDrxMeeDCasEHg6"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
+        "url": "https://open.spotify.com/album/3yMLvnj2odPbafzUUv9Ql9"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
+      "url": "https://open.spotify.com/track/0xkIeSkx5g5UwP8wnsw3f5"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1303,22 +1335,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "Twilight Twilight",
-        "url": "https://open.spotify.com/album/5xYb49Dtwuz5sAVKqtcpaO"
-      },
-      "artists": [
-        {
-          "name": "PiKi",
-          "url": "https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Twilight Twilight",
-      "url": "https://open.spotify.com/track/2zDsbKzHDrxMeeDCasEHg6"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "stay with me",
         "url": "https://open.spotify.com/album/4SWgA2dCYmu6shSGPmnh37"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 183636,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
-        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
-      },
-      "artists": [
-        {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
-        }
-      ],
-      "duration_ms": 193430,
-      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
-        "url": "https://open.spotify.com/album/3yMLvnj2odPbafzUUv9Ql9"
+        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
       },
       "artists": [
         {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
         }
       ],
-      "duration_ms": 215933,
-      "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
-      "url": "https://open.spotify.com/track/0xkIeSkx5g5UwP8wnsw3f5"
+      "duration_ms": 193430,
+      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "It\u2019s You",
-        "url": "https://open.spotify.com/album/4fyfMYVLwAQfZq6wtL0Yjs"
-      },
-      "artists": [
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        }
-      ],
-      "duration_ms": 242986,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/2Gomh0ZdLksrgHp5uTyYMP"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "\u767e\u65e5\u8349",
         "url": "https://open.spotify.com/album/0U3TaCiy5hLI2urzi74CDG"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 317812,
       "name": "\u767e\u65e5\u8349",
       "url": "https://open.spotify.com/track/2jPX3IZxD7y9gMKW7KhfAu"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "It\u2019s You",
+        "url": "https://open.spotify.com/album/4fyfMYVLwAQfZq6wtL0Yjs"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "duration_ms": 242986,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/2Gomh0ZdLksrgHp5uTyYMP"
     },
     {
       "added_at": "2026-09-29 15:00:23",

@@ -1,6 +1,6 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39390,
+  "num_followers": 39400,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "kickflip",
-        "url": "https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d"
+        "name": "Perfecto acuerdo para estar en desacuerdo",
+        "url": "https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm"
       },
       "artists": [
         {
-          "name": "Cuando el problema no existe",
-          "url": "https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn"
+          "name": "Almost Done",
+          "url": "https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9"
         }
       ],
-      "duration_ms": 258300,
-      "name": "kickflip",
-      "url": "https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX"
+      "duration_ms": 211184,
+      "name": "Perfecto acuerdo para estar en desacuerdo",
+      "url": "https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
+        "name": "kickflip",
+        "url": "https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d"
+      },
+      "artists": [
+        {
+          "name": "Cuando el problema no existe",
+          "url": "https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn"
+        }
+      ],
+      "duration_ms": 258300,
+      "name": "kickflip",
+      "url": "https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
         "name": "Gu\u00eda para Comprender los Sue\u00f1os",
         "url": "https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 149000,
       "name": "Todos Preguntaron por Ti",
       "url": "https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
-        "name": "Perfecto acuerdo para estar en desacuerdo",
-        "url": "https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm"
-      },
-      "artists": [
-        {
-          "name": "Almost Done",
-          "url": "https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9"
-        }
-      ],
-      "duration_ms": 211184,
-      "name": "Perfecto acuerdo para estar en desacuerdo",
-      "url": "https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Efecto Placebo",
-        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
-      },
-      "artists": [
-        {
-          "name": "DOSMILDOS",
-          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Efecto Placebo",
-      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
         "name": "Peter Brown",
         "url": "https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 200823,
       "name": "Mot Hulligan",
       "url": "https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Efecto Placebo",
+        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
+      },
+      "artists": [
+        {
+          "name": "DOSMILDOS",
+          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Efecto Placebo",
+      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Bronson EP",
-        "url": "https://open.spotify.com/album/4OdLFfpAjb9mUJ3yDRx7T4"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 246150,
-      "name": "Un Sue\u00f1o de Verano",
-      "url": "https://open.spotify.com/track/55L5TeONXEkfsMIovkKg7h"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
         "name": "lo que no tiene forma",
         "url": "https://open.spotify.com/album/3avJy5qJtoSHjiCndzhtGx"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 251894,
       "name": "lo que no tiene forma",
       "url": "https://open.spotify.com/track/5tcYqt8wdni44SB6vijp02"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Bronson EP",
+        "url": "https://open.spotify.com/album/4OdLFfpAjb9mUJ3yDRx7T4"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 246150,
+      "name": "Un Sue\u00f1o de Verano",
+      "url": "https://open.spotify.com/track/55L5TeONXEkfsMIovkKg7h"
     },
     {
       "added_at": "2026-09-25 06:00:16",

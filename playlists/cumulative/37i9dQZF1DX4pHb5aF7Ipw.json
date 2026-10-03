@@ -6762,7 +6762,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 160879,
       "name": "Charcha",
       "url": "https://open.spotify.com/track/7HfSWvjlz8arRWQGXG5USn"
@@ -6842,7 +6842,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 132134,
       "name": "Chaska",
       "url": "https://open.spotify.com/track/4fNgjRwAgb5tHX8N2KNlRY"
@@ -14124,6 +14124,32 @@
       "duration_ms": 396976,
       "name": "HHDD",
       "url": "https://open.spotify.com/track/4n7Skx0F93BmWSdYJGh1oh"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/10OPivJJHXNJYqdAYv2C9i"
+      },
+      "artists": [
+        {
+          "name": "Gursewak Likhari",
+          "url": "https://open.spotify.com/artist/2ZhKnLkTKQTSMqrDKEQtPr"
+        },
+        {
+          "name": "Prabh Bajwa",
+          "url": "https://open.spotify.com/artist/5uqDCH8xw3A2WfL5al45yd"
+        },
+        {
+          "name": "Devilo",
+          "url": "https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0wr77GC0FA8CXOIn0TJprK"
     },
     {
       "album": {
@@ -28050,6 +28076,28 @@
       "duration_ms": 151363,
       "name": "Selfmade",
       "url": "https://open.spotify.com/track/3k8bEDfJY5Hdu7d4UNGmzT"
+    },
+    {
+      "album": {
+        "name": "Selfmade",
+        "url": "https://open.spotify.com/album/4AZRz1iKxuIzCnuH3sJdPz"
+      },
+      "artists": [
+        {
+          "name": "Love Aujla",
+          "url": "https://open.spotify.com/artist/2cCpeyGYvznJTh834JPrmO"
+        },
+        {
+          "name": "Nyc Beat",
+          "url": "https://open.spotify.com/artist/2C7QZDt3WFMiWnrATWMpBy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Selfmade",
+      "url": "https://open.spotify.com/track/7nRm3qkjHvkEJuhe96KQ0r"
     },
     {
       "album": {

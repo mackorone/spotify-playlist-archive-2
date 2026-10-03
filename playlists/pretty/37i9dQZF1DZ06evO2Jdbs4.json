@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 32767,
+  "num_followers": 32774,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADFszN5Lh8smKwnqSyvzE2d",
+  "snapshot_id": "ar2igAAAAAAN1xFg0ODfH9YinBtbDm+6",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pharr Poet Laureate",
-        "url": "https://open.spotify.com/album/0bz8PXau09sDly1dqKVsYm"
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
       },
       "artists": [
-        {
-          "name": "Amanda Puryear El",
-          "url": "https://open.spotify.com/artist/5CBkKbKmXR8vcvqxWg4Sb3"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 127163,
-      "name": "Tejana",
-      "url": "https://open.spotify.com/track/1g6uVdR2YJ0wi9MnHG25w6"
+      "duration_ms": 212466,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+        "name": "Pharr Poet Laureate",
+        "url": "https://open.spotify.com/album/0bz8PXau09sDly1dqKVsYm"
       },
       "artists": [
+        {
+          "name": "Amanda Puryear El",
+          "url": "https://open.spotify.com/artist/5CBkKbKmXR8vcvqxWg4Sb3"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb"
+      "duration_ms": 127163,
+      "name": "Tejana",
+      "url": "https://open.spotify.com/track/1g6uVdR2YJ0wi9MnHG25w6"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00edas de Ayer",
+        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "D\u00edas de Ayer",
+      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
         "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 216345,
       "name": "Amor Se Escribe Con Llanto - En Vivo",
       "url": "https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00edas de Ayer",
-        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "D\u00edas de Ayer",
-      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
     },
     {
       "added_at": null,

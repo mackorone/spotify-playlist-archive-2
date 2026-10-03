@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring ARIA VEGA.",
+  "description": "Pop on the rise you should know, featuring Camilo & Evaluna.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -932,7 +932,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 140844,
       "name": "aiaiaiaiai",
       "url": "https://open.spotify.com/track/1OWeVALbBJNeVRn09ZKB53"
@@ -4949,6 +4949,28 @@
     },
     {
       "album": {
+        "name": "deditos cruzados",
+        "url": "https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205233,
+      "name": "deditos cruzados",
+      "url": "https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx"
+    },
+    {
+      "album": {
         "name": "Dej\u00e1ndolo Pasar",
         "url": "https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL"
       },
@@ -7809,6 +7831,24 @@
     },
     {
       "album": {
+        "name": "hIGhLIGhTS",
+        "url": "https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126374,
+      "name": "hIGhLIGhTS",
+      "url": "https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm"
+    },
+    {
+      "album": {
         "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
         "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
       },
@@ -8944,7 +8984,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 200307,
       "name": "LA GUARACHA (Oh Oh Oh)",
       "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
@@ -14617,6 +14657,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n Contra M\u00ed (Live From Los \u00c1ngeles)",
+        "url": "https://open.spotify.com/album/5tprz9NyjHKjJz8u2Pfg3n"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219104,
+      "name": "Qui\u00e9n Contra M\u00ed - Live From Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/03S2LrGw5dUtUitHOUWSLB"
+    },
+    {
+      "album": {
         "name": "qu\u00e9 le pasa conmigo?",
         "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
       },
@@ -14782,7 +14840,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 164515,
       "name": "REINA (KRIMINAL)",
       "url": "https://open.spotify.com/track/6YCdfQNDpfvY9D9JHc9VmR"
@@ -16339,6 +16397,24 @@
     },
     {
       "album": {
+        "name": "superpoder",
+        "url": "https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "superpoder",
+      "url": "https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL"
+    },
+    {
+      "album": {
         "name": "Superpoder",
         "url": "https://open.spotify.com/album/1NmYcgpj4L0xWLaoUd2phI"
       },
@@ -17796,7 +17872,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 196256,
       "name": "UNA NA MAS",
       "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
@@ -18160,7 +18236,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 212727,
       "name": "verano en la ciudad",
       "url": "https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo"

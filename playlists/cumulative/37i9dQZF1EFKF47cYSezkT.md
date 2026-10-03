@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-103 songs - 4 hr 59 min
+104 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 | 2024-01-29 |  |
 | [Blue Blood](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:47 | 2024-01-29 |  |
 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 | 2024-01-29 |  |
+| [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 | 2026-10-02 |  |
 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 | 2024-06-23 |  |
 | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/track/0cN4duukocBD5mYzZK4Upf) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/album/6cNuIGqrpbKD1fWKVITJJM) | 2:21 | 2024-01-29 |  |
 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 | 2024-01-29 |  |

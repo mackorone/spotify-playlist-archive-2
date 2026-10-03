@@ -100,7 +100,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 186000,
       "name": "2 GHADIAN",
       "url": "https://open.spotify.com/track/6tZACEJG0NUiv44Jad0Dyc"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 154970,
       "name": "Ahatein",
       "url": "https://open.spotify.com/track/2prpB1i1RfNEN2iqtMNzE2"
@@ -2048,6 +2048,28 @@
       "duration_ms": 215357,
       "name": "Arz e Dil",
       "url": "https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo"
+    },
+    {
+      "album": {
+        "name": "ARZI",
+        "url": "https://open.spotify.com/album/3XWl91FU5Jpj0gfI05ey9W"
+      },
+      "artists": [
+        {
+          "name": "Ashal Haider Khan",
+          "url": "https://open.spotify.com/artist/2COEn08mrNoQLfsRzjN9MR"
+        },
+        {
+          "name": "Turhan James",
+          "url": "https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "ARZI",
+      "url": "https://open.spotify.com/track/1QkfNg5mEv8QdDl6JmKqro"
     },
     {
       "album": {
@@ -4904,7 +4926,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 203773,
       "name": "Chune Ishq'en",
       "url": "https://open.spotify.com/track/4PeNxF94ppeUKQDkGtXRul"
@@ -6025,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "Dheemi Aanch",
+        "url": "https://open.spotify.com/album/4KXIyZgF8bEERcOhNgwqQA"
+      },
+      "artists": [
+        {
+          "name": "Saad Mazher",
+          "url": "https://open.spotify.com/artist/090ZjnRapPoPKa9gA2etv3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207446,
+      "name": "Dheemi Aanch",
+      "url": "https://open.spotify.com/track/5Ql35zf8NjYMwsrGWVAjfj"
+    },
+    {
+      "album": {
         "name": "Dholna",
         "url": "https://open.spotify.com/album/3nlbRKAOzDJXAV0URmw1au"
       },
@@ -6444,6 +6484,28 @@
       "duration_ms": 234166,
       "name": "Dil Meray",
       "url": "https://open.spotify.com/track/4CUoUbyhYYuITBTVr7vxfA"
+    },
+    {
+      "album": {
+        "name": "Dil Mere",
+        "url": "https://open.spotify.com/album/1Xg1NKQeFQwyCWAqqycWI8"
+      },
+      "artists": [
+        {
+          "name": "Sharmeen Javed",
+          "url": "https://open.spotify.com/artist/58BZTZbr9WYBP7EqIm5BaA"
+        },
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127294,
+      "name": "Dil Mere",
+      "url": "https://open.spotify.com/track/3Q9WAZLUYaQiL0UCRbCM5n"
     },
     {
       "album": {
@@ -9146,7 +9208,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 120055,
       "name": "Gulab",
       "url": "https://open.spotify.com/track/2Ne9KRmLI09nKkhrMBPMOZ"
@@ -10209,6 +10271,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/02cssIZ1sMY0TiDK5kpTHd"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0oXzMatNWG4nx0VvVLr29v"
+    },
+    {
+      "album": {
         "name": "Home To You",
         "url": "https://open.spotify.com/album/6vlkEcuH9XKREnSyXeU9WO"
       },
@@ -10872,6 +10952,24 @@
       "duration_ms": 165000,
       "name": "Intezar",
       "url": "https://open.spotify.com/track/66rUW6ArXuEWTxnJs8l2Ro"
+    },
+    {
+      "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/58SqA8dRpYZbYIer7sSPio"
+      },
+      "artists": [
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193005,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/3rVEZ0ClApXd0G3YbgOmTQ"
     },
     {
       "album": {
@@ -20662,7 +20760,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 155559,
       "name": "Redial",
       "url": "https://open.spotify.com/track/6RArxE00oUHvJu75dPReZO"
@@ -22392,6 +22490,32 @@
       "duration_ms": 156000,
       "name": "Seedhay Seedhay",
       "url": "https://open.spotify.com/track/56jYwpglLX83t9cNFHLI26"
+    },
+    {
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/5HlgK6DvJ76xUKt2OswdGC"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Mattie",
+          "url": "https://open.spotify.com/artist/1lK6FExMARpaUnlJkuhcCh"
+        },
+        {
+          "name": "Talon",
+          "url": "https://open.spotify.com/artist/6iivmgQQawNGbDRAt9c14W"
+        },
+        {
+          "name": "Hassan Asif",
+          "url": "https://open.spotify.com/artist/3OoCbabFJCzrY4qdvTejGC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233643,
+      "name": "September",
+      "url": "https://open.spotify.com/track/1m1oQaFMgeDK4ybPYCfwG3"
     },
     {
       "album": {
@@ -26483,6 +26607,24 @@
     },
     {
       "album": {
+        "name": "Unwaan (Sadness before winter)",
+        "url": "https://open.spotify.com/album/22VXXomGfeVPYIz66ziTJD"
+      },
+      "artists": [
+        {
+          "name": "Minhaj Uddin",
+          "url": "https://open.spotify.com/artist/0nHo4VyrmIB5X58JXGPuY1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200775,
+      "name": "Unwaan (Sadness before winter)",
+      "url": "https://open.spotify.com/track/2MPNaezJeqYJyOeo6pURnV"
+    },
+    {
+      "album": {
         "name": "Uraan",
         "url": "https://open.spotify.com/album/6aTkm2tiSEScayy84b0aqX"
       },
@@ -27704,7 +27846,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161518,
       "name": "Yaar",
       "url": "https://open.spotify.com/track/25QVWjKRrJs5rUPNbu5Osc"
@@ -28040,7 +28182,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 296000,
       "name": "Yeh Saza",
       "url": "https://open.spotify.com/track/0ULIHuZhqgDhyjN1v1pDN6"

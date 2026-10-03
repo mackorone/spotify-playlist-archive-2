@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Kameron Marlowe
+> Trending for a reason \- the home of country's future monster hits\. Cover: Riley Green
 
-716 songs - 1 day 14 hr 49 min
+718 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-04 | 2022-10-08 |
 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 | 2022-04-22 | 2023-04-01 |
 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 | 2022-05-27 | 2022-10-02 |
-| [Half The Man](https://open.spotify.com/track/0vvYTzRfvQJO5BGt7Em0yy) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half The Man](https://open.spotify.com/album/67x0OJEVWnsNZc7vtEGDoB) | 3:56 | 2026-06-12 |  |
+| [Half The Man](https://open.spotify.com/track/0vvYTzRfvQJO5BGt7Em0yy) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half The Man](https://open.spotify.com/album/67x0OJEVWnsNZc7vtEGDoB) | 3:56 | 2026-06-12 | 2026-10-03 |
 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 | 2024-02-09 | 2024-06-08 |
 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2022-09-02 | 2023-04-15 |
 | [Hands Of Time](https://open.spotify.com/track/2XZobkFLKJKBaH9yKpAB2B) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hands Of Time](https://open.spotify.com/album/6YPblznaikFmGivA9dOUac) | 3:32 | 2025-05-02 | 2025-06-21 |
@@ -534,6 +534,7 @@
 | [Sleepless in a Hotel Room](https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Sleepless in a Hotel Room](https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds) | 2:57 | 2026-02-13 | 2026-03-21 |
 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-07 | 2025-04-05 |
 | [Slow Down Summer](https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Slow Down Summer](https://open.spotify.com/album/6uWWkRv3qKdFcFyayL1Vw4) | 3:36 | 2021-12-17 | 2021-12-24 |
+| [Slow Down, Slow Down](https://open.spotify.com/track/6oivtFX28rYGXmritxchYv) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Leave On A Light](https://open.spotify.com/album/1FOgMp0gqpG3UGcFxxgyhG) | 2:36 | 2026-10-02 |  |
 | [Slowly](https://open.spotify.com/track/7JxTS8CQYhbGWyKQGlODRX) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Slowly](https://open.spotify.com/album/4SgZ5WAc9sh048NJmht81X) | 3:11 | 2026-04-10 | 2026-07-25 |
 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-05-09 | 2025-09-27 |
 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 | 2024-03-01 | 2024-10-05 |
@@ -547,7 +548,7 @@
 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 | 2024-11-22 | 2025-08-17 |
 | [Somewhere Cool With You](https://open.spotify.com/track/2F29A4pp7XDo9X4sunH4LZ) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Somewhere Cool With You](https://open.spotify.com/album/1aUS3qejwUaANXTHdJRiT0) | 2:48 | 2021-12-17 | 2022-03-18 |
 | [Son Of A](https://open.spotify.com/track/1rf3DRmwoWekv6iT30MXlR) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:13 | 2022-03-04 | 2022-06-18 |
-| [Songs About Us](https://open.spotify.com/track/7Mt9l5xWp9u5eP0KOfF7Ss) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Songs About Us](https://open.spotify.com/album/59lMZSEM0zreLqcLhhx8cE) | 2:52 | 2026-05-01 |  |
+| [Songs About Us](https://open.spotify.com/track/7Mt9l5xWp9u5eP0KOfF7Ss) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Songs About Us](https://open.spotify.com/album/59lMZSEM0zreLqcLhhx8cE) | 2:52 | 2026-05-01 | 2026-10-03 |
 | [Sorry Mom](https://open.spotify.com/track/3zftDSl1HdBPJek75cQwDE) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sorry Mom](https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo) | 3:35 | 2024-08-16 | 2024-11-02 |
 | [Soul](https://open.spotify.com/track/64U6K5ZCoHWsl1d8bL15BX) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Soul](https://open.spotify.com/album/3WaUbOeg5kXCqbjKJYhSzO) | 2:47 | 2022-02-18 | 2022-05-14 |
 | [Sounds Like Something I'd Do](https://open.spotify.com/track/30zqn4YASRhqyUymwMNzkI) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 2:26 | 2023-06-09 | 2023-11-04 |
@@ -664,6 +665,7 @@
 | [What A Song Can Do](https://open.spotify.com/track/2hRDjNbuoqxqHcXj29JJfZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Chapter One\)](https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb) | 3:41 | 2021-12-17 | 2022-02-19 |
 | [What Are You Drinking](https://open.spotify.com/track/6G2hBL1ttQuXbCvXV6c6F3) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:24 | 2021-12-17 | 2022-09-10 |
 | [What Could Go Right \(feat\. Lanie Gardner\)](https://open.spotify.com/track/2iMX5bHSf125ZHBIysZ9na) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [What Could Go Right \(feat\. Lanie Gardner\)](https://open.spotify.com/album/6SDYyML3WrQNUQVn6ds4If) | 3:31 | 2025-06-06 | 2025-10-25 |
+| [What Do I Do If You Don't](https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What Do I Do If You Don't](https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ) | 2:54 | 2026-10-02 |  |
 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 | 2021-12-17 | 2022-08-06 |
 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 | 2024-04-05 | 2024-08-24 |
 | [What If I Don't](https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [What If I Don't](https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC) | 3:21 | 2022-12-16 | 2023-08-05 |

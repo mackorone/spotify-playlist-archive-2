@@ -2,9 +2,9 @@
 
 ### [Lo + del Vallenato](https://open.spotify.com/playlist/37i9dQZF1DXdzp8aTdsnVq)
 
-> Novedades y clásicos del popular género colombiano\. Foto: Ana del Castillo
+> Novedades y clásicos del popular género colombiano\. Foto: Binomio de Oro de América
 
-215 songs - 14 hr 49 min
+217 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Difícil de Igualar](https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:03 | 2024-01-26 |  |
 | [Dios No Me Deja](https://open.spotify.com/track/6jvPlU4XWAAFukpJwDKMr9) | [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [Dios No Me Deja](https://open.spotify.com/album/36F3pG39ApiLimW06f9ssR) | 4:16 | 2026-02-20 | 2026-05-16 |
 | [Dos Horas](https://open.spotify.com/track/4lx3Sz9AXMNGfRTwMt6CbE) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Dos Horas](https://open.spotify.com/album/7GoM4womlWrvCIgiRVdTAq) | 3:37 | 2025-03-28 | 2025-11-22 |
+| [Dos Inviernos](https://open.spotify.com/track/6dxiz1eCk52U62Yo69G0YJ) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Vamos Que Vamos](https://open.spotify.com/album/3ZJFqdKzU6RJvqpRzR5CHf) | 3:34 | 2026-10-02 |  |
 | [Duele](https://open.spotify.com/track/1JXwK9X4c2hD4x52a7csqk) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Vía Libre](https://open.spotify.com/album/26hzx6GzNQQWqM4NbERu86) | 4:02 | 2024-05-22 | 2024-08-31 |
 | [Déjame Ir](https://open.spotify.com/track/1Nmmd2LhObZ1XMN9ZzAfWn) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Déjame Ir](https://open.spotify.com/album/6oPsiM8MxuyfO86jVClZHl) | 3:31 | 2022-09-02 | 2022-12-03 |
 | [El Altavoz](https://open.spotify.com/track/1h3zCW4S1sgUowclodpIIK) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Altavoz](https://open.spotify.com/album/4xLctyVjT2Syz5xCRZwazX) | 3:38 | 2025-09-26 |  |
@@ -207,7 +208,7 @@
 | [Tierra Mala](https://open.spotify.com/track/7iJ43W1RWMrNjU3Or15jxX) | [Julio Meza](https://open.spotify.com/artist/61KRv7WhZJ2erWoYnJYHvL) | [Julio Canta Vallenato](https://open.spotify.com/album/5Qxd7iZAeoYqYFBLc3rchd) | 4:34 | 2022-09-02 | 2023-08-26 |
 | [Tierra Mala](https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:48 | 2024-01-26 |  |
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2022-09-02 | 2024-04-19 |
-| [Tu Carita](https://open.spotify.com/track/3o2gUt04NbZwMv5uwKwbSy) | [El Meke](https://open.spotify.com/artist/4efeWM0inGKd3KGCyOyXGm), [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc) | [Tu Carita](https://open.spotify.com/album/3w67vYzRHo4TWmtkM31YFx) | 2:36 | 2026-07-10 |  |
+| [Tu Carita](https://open.spotify.com/track/3o2gUt04NbZwMv5uwKwbSy) | [El Meke](https://open.spotify.com/artist/4efeWM0inGKd3KGCyOyXGm), [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc) | [Tu Carita](https://open.spotify.com/album/3w67vYzRHo4TWmtkM31YFx) | 2:36 | 2026-07-10 | 2026-10-03 |
 | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/track/1zfs7wu5eDin6jDpIC662H) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/album/1AH2y3HEWgiSKSYkbrgBEn) | 3:43 | 2022-09-02 | 2025-03-29 |
 | [Tú Y Yo](https://open.spotify.com/track/3IVqpHiPnmKXUbM4YUYuL7) | [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [X AMOR A MI](https://open.spotify.com/album/6bE1rdpj4bKLOLK6rUlV9T) | 3:16 | 2026-05-15 |  |
 | [Un Beso Y Una Flor](https://open.spotify.com/track/5wVv9KObFL175Ng3Qlyd2i) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Un Beso Y Una Flor](https://open.spotify.com/album/37s4nHhHGs9wGOwxXwNdtR) | 4:16 | 2022-10-21 | 2023-04-06 |
@@ -223,5 +224,6 @@
 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 | 2022-12-02 |  |
 | [Yo Comprendo \- Merengue](https://open.spotify.com/track/6UCuzKNdK8BMYAZIKvvwLp) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG) | [Campesino Parrandero](https://open.spotify.com/album/1WivuSNJkMOOakpxNRGhDm) | 3:34 | 2025-04-04 | 2025-06-21 |
 | [Yo Soy Tu Cielo](https://open.spotify.com/track/5fECdk9R7Kd4wxVP1ok5hf) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Yo Soy Tu Cielo](https://open.spotify.com/album/3SsmDAT5gibexAkk7yLn0b) | 3:52 | 2022-09-02 | 2022-10-22 |
+| [¿Quién Dijo Miedo? \- Versión Vallenato](https://open.spotify.com/track/75ZGX7w9qgNcLVbZC94K37) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Alex Martinez](https://open.spotify.com/artist/1mI8LQvP73Y5IMXN0KstBZ), [Oscar Gamarra](https://open.spotify.com/artist/5ytyAQZRgrkqSeGiRgkSi1), [Samuel Morales](https://open.spotify.com/artist/3HCQ1p0JKOd8HS3O2UXtnS), [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [¿Quién Dijo Miedo? \(Versión Vallenato\)](https://open.spotify.com/album/1mgCKYWlbTNPusTyjelJ03) | 4:06 | 2026-10-02 |  |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

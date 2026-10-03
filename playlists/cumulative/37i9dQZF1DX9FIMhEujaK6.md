@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-247 songs - 18 hr 2 min
+248 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 | 2021-10-15 | 2025-05-31 |
 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 | 2026-04-23 |  |
 | [Beginner's Luck](https://open.spotify.com/track/6adjXENHRzh4uyVziFlVGm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:28 | 2022-07-20 | 2023-11-17 |
-| [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 | 2024-05-24 |  |
+| [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 | 2024-05-24 | 2026-10-03 |
 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 | 2023-11-17 |  |
 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 | 2023-09-01 |  |
 | [Bloom!](https://open.spotify.com/track/4kA6XkDyMdMJ3e9hxmbHP3) | [Pavlov](https://open.spotify.com/artist/1CaKIOAgM8I69kpfHrAUGu) | [Pink Bloom!](https://open.spotify.com/album/4Zto4AuUoDr5PFEMINg2Dc) | 8:26 | 2021-10-15 | 2022-07-29 |
@@ -209,6 +209,7 @@
 | [small talk](https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [small talk](https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh) | 5:25 | 2021-10-15 | 2022-03-04 |
 | [Smoke](https://open.spotify.com/track/5aEQCT6F0l7mxkwO5D8pr9) | [DYVR](https://open.spotify.com/artist/292LoDesUxUnxLysrHrajc) | [Smoke](https://open.spotify.com/album/6NxCwLZC6Mvw4VRnG8u7Vq) | 3:34 | 2021-10-15 | 2023-11-17 |
 | [So Easy](https://open.spotify.com/track/4MY8NLRDPXKn6CCsGLweLL) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 4:09 | 2022-07-20 | 2023-11-17 |
+| [Sol Alma](https://open.spotify.com/track/6VFBgZdl3NIDdsYWCWjs35) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Sol Alma](https://open.spotify.com/album/5s8ZvTkwZGTcuKx05iIK4o) | 4:07 | 2026-10-02 |  |
 | [Solo](https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [Solo](https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX) | 3:06 | 2025-08-22 | 2026-04-24 |
 | [Something Else \(feat\. Ruby Wood\)](https://open.spotify.com/track/3BKghOKZUX9SjpuYNmakoa) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Something Else \(feat\. Ruby Wood\)](https://open.spotify.com/album/5z86LgFvCwpGzF7wxPAj5j) | 4:39 | 2021-10-15 | 2022-07-27 |
 | [Something More \(Edit\)](https://open.spotify.com/track/4Gyar4tKonu5h1nBlczq7z) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2ySEmEE4ZIXGt6xiRIObIx) | 4:00 | 2023-11-17 | 2024-03-29 |

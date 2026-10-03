@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Soul Wun
 
-771 songs - 1 day 19 hr 11 min
+773 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Feel Again](https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [can we do it all again?](https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI) | 3:41 | 2026-06-11 |  |
 | [Feel So Good Around U](https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn) | [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Feel So Good Around U](https://open.spotify.com/album/5jQDO3r5tVB7t0H6ipp9vO) | 4:32 | 2026-01-29 | 2026-04-03 |
 | [Feels Like A Start](https://open.spotify.com/track/5GaHgswsxz8VrFmo3qA649) | [TUSHAR](https://open.spotify.com/artist/4Z4QSQuaIocs1CPUEM8shD) | [Feels Like A Start](https://open.spotify.com/album/1Eu8TnwYPsd2d53uBK9NNp) | 2:22 | 2025-09-01 | 2025-09-05 |
+| [fever dream](https://open.spotify.com/track/0RkGXPK7gU68W5buwhag6Y) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [fever dream](https://open.spotify.com/album/26oZIiwP7d2HTvhFfmBC4r) | 2:52 | 2026-10-01 |  |
 | [Fickle](https://open.spotify.com/track/0UryFuTgfEwvpM6A7jIOG7) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [Fickle](https://open.spotify.com/album/5wHazOcgweQjf3IoshDFzX) | 3:15 | 2026-08-27 |  |
 | [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2024-08-08 | 2024-09-25 |
 | [FIGHTBACK](https://open.spotify.com/track/1X2aoNty2dgNh2ACnD1pkr) | [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX) | [FIGHTBACK](https://open.spotify.com/album/2OmZI1BEgfXjZpcN8UXDTZ) | 2:29 | 2025-09-01 | 2025-09-05 |
@@ -364,7 +365,7 @@
 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-24 | 2026-03-30 |
 | [Jump](https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [Jump](https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor) | 2:33 | 2025-04-08 | 2025-09-05 |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-25 | 2025-04-25 |
-| [Just One](https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Just One](https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy) | 3:12 | 2026-09-03 |  |
+| [Just One](https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Just One](https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy) | 3:12 | 2026-09-03 | 2026-10-03 |
 | [Karaoke Bar](https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa) | 3:24 | 2026-05-07 | 2026-07-31 |
 | [Keep It Moving](https://open.spotify.com/track/1otNlqVX2CmlWyA98afSdr) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Keep It Moving](https://open.spotify.com/album/5KpuWvdMTjfysTeQQMHuYc) | 2:50 | 2025-06-05 | 2025-06-13 |
 | [Keith](https://open.spotify.com/track/3mwb8NjfPRCcNgYdJTACU3) | [Playlunch](https://open.spotify.com/artist/0KeXd4EkaUHseJoZQhNR4u) | [Keith](https://open.spotify.com/album/13Ro0ysFRQupwe8EiA9gzI) | 4:10 | 2026-01-22 | 2026-05-05 |
@@ -473,6 +474,7 @@
 | [New Day](https://open.spotify.com/track/29QapPHFOLLGqhHiXoLcMz) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [New Day / Beyond the River Bend](https://open.spotify.com/album/6KxLLpqmWn3M7NjUCgu4kw) | 3:42 | 2025-03-04 | 2025-03-21 |
 | [NEW WORLD](https://open.spotify.com/track/2z4h97jzhrbUuDmGuVGTpn) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [RUN IT BACK](https://open.spotify.com/album/0PSuvb9N4opuNDBsMOKcRN) | 3:43 | 2026-06-11 | 2026-06-19 |
 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 | 2024-05-31 | 2025-02-14 |
+| [NEXT2U](https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [NEXT2U](https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ) | 3:16 | 2026-10-01 |  |
 | [No Cure For Love](https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC), [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [No Cure For Love](https://open.spotify.com/album/3stGOTd46n9pCg1Lj3INZV) | 3:52 | 2025-03-04 | 2025-06-23 |
 | [No Love](https://open.spotify.com/track/54pSlokgcxJakkfBm10N3c) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [No Love](https://open.spotify.com/album/2gZS32bPZcfyBu0Cg8Colc) | 1:58 | 2025-06-19 | 2025-06-27 |
 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2025-04-08 | 2025-07-13 |
@@ -552,7 +554,7 @@
 | [Restart \(ft\. KLP\)](https://open.spotify.com/track/3jmxKFfaUa3kFXaldidkDd) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Restart \(ft\. KLP\)](https://open.spotify.com/album/1q1MrlDS7p0APneFaobN71) | 3:35 | 2025-09-01 | 2025-09-05 |
 | [Rita Wrote A Letter](https://open.spotify.com/track/0Lj0AoP6XiNWcahkcVt6xd) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Rita Wrote A Letter](https://open.spotify.com/album/5Ty10XaMVNa6FcUfnIuDcm) | 4:14 | 2025-08-14 | 2025-08-22 |
 | [Rocketship](https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Rocketship](https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj) | 1:56 | 2025-01-09 | 2025-01-27 |
-| [Romanticize](https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Romanticize](https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0) | 3:35 | 2026-07-16 |  |
+| [Romanticize](https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Romanticize](https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0) | 3:35 | 2026-07-16 | 2026-10-03 |
 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-25 | 2025-04-25 |
 | [Roses](https://open.spotify.com/track/0N56rSgJY59xhcDFv1utgS) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Roses / Lost Control](https://open.spotify.com/album/1g5copHaHThjgDm3KuQZ8g) | 2:50 | 2025-11-13 | 2025-11-21 |
 | [Rot](https://open.spotify.com/track/7kZzn2dgVaU0itU7CpIBYL) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [LIVE LAUGH COOL STAR](https://open.spotify.com/album/2cXKr33dR0o2MrbVKpV8C9) | 2:34 | 2025-11-28 | 2025-12-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Emma Nolde dopo la doppietta di concerti sold out a Milano, qui in cover di Indie Italia 🙂‍↕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,834 likes - 83 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,819 likes - 83 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

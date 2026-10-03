@@ -1,15 +1,35 @@
 {
-  "description": "Kumpulan lagu populer dari dalam negeri dan mancanegara. Cover: Djo",
-  "num_followers": 628493,
+  "description": "Kumpulan lagu populer dari dalam negeri dan mancanegara. Cover: The Weeknd",
+  "num_followers": 628519,
   "original_name": "Hits Banget",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJeG/XDp1Cqa8+tMb7Qv06CV6LkQ",
+  "snapshot_id": "AAAAAAR0NhUHorgSfQvJIsoGjYwy3myF",
   "tracks": [
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
+    },
+    {
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -25,27 +45,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
-      "album": {
-        "name": "Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
-    },
-    {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
@@ -61,23 +61,23 @@
       "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Komang",
         "url": "https://open.spotify.com/album/7F3BUHlrZdaKrtSQ0LEpLm"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "in all of my lonely nights",
         "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
@@ -109,27 +109,27 @@
       "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX"
       },
       "artists": [
         {
-          "name": "Ernie Zakri",
-          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Ade Govinda",
-          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 234589,
-      "name": "Masing Masing",
-      "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Perayaan Patah Hati - Babak 1",
         "url": "https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "A Portrait Of Yovie",
         "url": "https://open.spotify.com/album/3tqFD0rkjl4GNerGRfAA5q"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/2sjA4DTYveWwXo9aC62vWd"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Definitely Maybe (Remastered)",
         "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
@@ -181,39 +181,43 @@
       "url": "https://open.spotify.com/track/7rpUsVjQyitDQ27NRybgZl"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
-        "name": "Platinum Collection Rossa",
-        "url": "https://open.spotify.com/album/5qU82fNj884qgKrfk77oX6"
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
       "artists": [
         {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 249213,
-      "name": "Tak Sanggup Lagi",
-      "url": "https://open.spotify.com/track/1XYFuCKBnWOBapFnOhuD1N"
+      "duration_ms": 256000,
+      "name": "Timeless (feat Playboi Carti)",
+      "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
@@ -229,7 +233,7 @@
       "url": "https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
@@ -249,7 +253,7 @@
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -265,7 +269,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Lesung Pipi",
         "url": "https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG"
@@ -281,7 +285,7 @@
       "url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Memorandum",
         "url": "https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth"
@@ -297,7 +301,7 @@
       "url": "https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
@@ -313,7 +317,7 @@
       "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
@@ -333,7 +337,7 @@
       "url": "https://open.spotify.com/track/6mXdCcFnPKQznj4CmMRmHC"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
@@ -349,7 +353,7 @@
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Kembali Pulang",
         "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
@@ -369,7 +373,7 @@
       "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
@@ -385,7 +389,7 @@
       "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -405,23 +409,7 @@
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
@@ -437,7 +425,23 @@
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Bunga Abadi",
         "url": "https://open.spotify.com/album/3mfUQStqcygHEOJjI7nZm4"
@@ -453,7 +457,7 @@
       "url": "https://open.spotify.com/track/0hPIuo3qZgyjDKJTI7xu8A"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Pura Pura Lupa",
         "url": "https://open.spotify.com/album/5FlwUe1gVaypatWMbvnSfX"
@@ -469,7 +473,7 @@
       "url": "https://open.spotify.com/track/6Aw5k0jkFceYayaJoRupLT"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Nalar",
         "url": "https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h"
@@ -489,7 +493,7 @@
       "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Manusia",
         "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
@@ -505,7 +509,7 @@
       "url": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -529,23 +533,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
-    },
-    {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
@@ -561,7 +549,7 @@
       "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -581,7 +569,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
@@ -601,23 +589,7 @@
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
-    },
-    {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
@@ -637,7 +609,23 @@
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
@@ -653,7 +641,7 @@
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
@@ -669,7 +657,7 @@
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
@@ -685,7 +673,43 @@
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
+      "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+    },
+    {
+      "added_at": "2026-10-02 04:30:17",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
@@ -705,39 +729,7 @@
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2026-04-16 03:00:06",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
@@ -753,7 +745,23 @@
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -769,7 +777,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -785,7 +793,7 @@
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
@@ -801,7 +809,7 @@
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -817,7 +825,7 @@
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "lovely (with Khalid)",
         "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
@@ -837,27 +845,23 @@
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2026-04-16 03:00:06",
+      "added_at": "2026-10-02 04:30:17",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"

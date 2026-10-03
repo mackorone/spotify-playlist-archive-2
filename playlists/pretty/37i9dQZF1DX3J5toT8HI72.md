@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,450 likes - 95 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,480 likes - 95 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 51 | [Carinhoso](https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Carinhoso](https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0) | 1:46 |
 | 52 | [Canção pra Te Amar no Fim do Mundo](https://open.spotify.com/track/6JiZHun6ZdLLqAoSg5znG7) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [BIONE](https://open.spotify.com/artist/2rezeeC5zV7kCkdjqT1nGz) | [Era Uma Vez o Amanhã](https://open.spotify.com/album/3qK39wEZFlXd28eOMtj9Ox) | 3:48 |
 | 53 | [AMAReSÓ \- Ao Vivo Com Orquestra](https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [AMAReSÓ \(Ao Vivo Com Orquestra\)](https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i) | 3:00 |
-| 54 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
-| 55 | [O Leãozinho \- Live](https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Multishow Ao Vivo Caetano e Maria Gadú](https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH) | 2:34 |
+| 54 | [O Leãozinho \- Live](https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Multishow Ao Vivo Caetano e Maria Gadú](https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH) | 2:34 |
+| 55 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 56 | [Proibida Pra Mim](https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 3:15 |
 | 57 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 |
 | 58 | [Um Amor Puro](https://open.spotify.com/track/3SdbQJS2ZS5Dc1K2Bx02bq) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 4:03 |

@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-413 songs - 1 day 3 hr 23 min
+414 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Lose Your Love](https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Lose Your Love](https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi) | 3:12 | 2024-03-29 | 2024-09-27 |
 | [Losing Game](https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Enter](https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk) | 4:00 | 2024-04-05 | 2024-08-31 |
 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2022-01-14 | 2024-06-30 |
-| [Lost in translation...](https://open.spotify.com/track/07GnVJ5t7lk8zckrY5zOUZ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Lost in translation...](https://open.spotify.com/album/5xeZbPlJA518IqmiziGjxN) | 3:30 | 2026-05-29 |  |
+| [Lost in translation...](https://open.spotify.com/track/07GnVJ5t7lk8zckrY5zOUZ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Lost in translation...](https://open.spotify.com/album/5xeZbPlJA518IqmiziGjxN) | 3:30 | 2026-05-29 | 2026-10-03 |
 | [Lost In You](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Lost In You EP](https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl) | 3:30 | 2022-01-14 | 2024-07-05 |
 | [Love Again](https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Love Again](https://open.spotify.com/album/61cJV13UL9K8JL5dOcqS9o) | 4:32 | 2024-08-09 | 2025-02-14 |
 | [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 | 2024-09-27 | 2024-11-06 |
@@ -338,6 +338,7 @@
 | [Starz](https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9) | 5:00 | 2022-11-25 | 2023-03-23 |
 | [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 | 2022-11-25 | 2024-03-08 |
 | [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 | 2025-04-03 | 2026-08-14 |
+| [Stay Now](https://open.spotify.com/track/0JG0XzJeONILCRHgKDJX1s) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Stay Now](https://open.spotify.com/album/0EZ6dMa4OWDZdrcm5MLesY) | 3:28 | 2026-10-02 |  |
 | [Stay Still](https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Stay Still](https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX) | 4:33 | 2024-04-12 | 2025-06-27 |
 | [Stay With Me](https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Stay With Me](https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e) | 3:21 | 2026-02-27 |  |
 | [Still Feel \(Home Edit\)](https://open.spotify.com/track/0mBdNrpS6UkxDusXE4actk) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Home](https://open.spotify.com/album/3PxjuDDfOWcW3oQITgX1Ru) | 3:56 | 2022-01-14 | 2022-11-26 |

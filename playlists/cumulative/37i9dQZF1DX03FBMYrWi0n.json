@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: NOBRO",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: \u00c9l\u00e9gie",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "C'est fine",
+        "url": "https://open.spotify.com/album/5xH3MyHyKOiIGEo5HmZcsd"
+      },
+      "artists": [
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "C'est fine",
+      "url": "https://open.spotify.com/track/0xG2WhZcuafpT5Cn9vZKa2"
+    },
+    {
+      "album": {
         "name": "Quoi-ce y'a pour souper?",
         "url": "https://open.spotify.com/album/7xI5Vn3wJ1LGK5cHI52XdW"
       },
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 247821,
       "name": "CAPS LOCK",
       "url": "https://open.spotify.com/track/50Xj9ygdLzT6jsSkMqBwfM"
@@ -2739,6 +2757,24 @@
     },
     {
       "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/6WrUFUEwbqmsfG6YLUHWww"
+      },
+      "artists": [
+        {
+          "name": "Fleeting Colours",
+          "url": "https://open.spotify.com/artist/2PCSx52krNo1ngn9H1tdBB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148306,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/3ISM1I1EBOpxY9HOWU4Yjn"
+    },
+    {
+      "album": {
         "name": "EMBRACE CHAOS",
         "url": "https://open.spotify.com/album/3zLHGel8t7u5cqKWccAvgX"
       },
@@ -2862,6 +2898,24 @@
       "duration_ms": 243859,
       "name": "Dans tes r\u00eaves",
       "url": "https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo"
+    },
+    {
+      "album": {
+        "name": "Darth Vapor",
+        "url": "https://open.spotify.com/album/4ITo43fKbywNwLHE6hEqBL"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255965,
+      "name": "Darth Vapor",
+      "url": "https://open.spotify.com/track/75u37R1IZGJ287WUWJmibo"
     },
     {
       "album": {
@@ -3729,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "enemies (in my head)",
+        "url": "https://open.spotify.com/album/0M36iEnixkCLfb4h0kUg2i"
+      },
+      "artists": [
+        {
+          "name": "l i l a",
+          "url": "https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161864,
+      "name": "enemies (in my head)",
+      "url": "https://open.spotify.com/track/72ejFVPcu60V5s9StGaWiV"
+    },
+    {
+      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -3996,7 +4068,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 191882,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0rN69yHaCkPKCPAC1B7oy4"
@@ -5695,6 +5767,24 @@
     },
     {
       "album": {
+        "name": "J\u2019arrive \u00e0 la ville",
+        "url": "https://open.spotify.com/album/2lIpDsxuhuze0KH1a0Sech"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380670,
+      "name": "J\u2019arrive \u00e0 la ville",
+      "url": "https://open.spotify.com/track/5Sz7VCAOiYPhW1OGMJxQTq"
+    },
+    {
+      "album": {
         "name": "Stay Safe!",
         "url": "https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1"
       },
@@ -5912,7 +6002,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 205303,
       "name": "L'amour ici",
       "url": "https://open.spotify.com/track/11vTk0GPbXFT5lOVbFh9pN"
@@ -7184,7 +7274,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 214490,
       "name": "Magouilleux",
       "url": "https://open.spotify.com/track/7dTQnmlNNPo50QZW05MsKH"
@@ -7386,7 +7476,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 175793,
       "name": "merci la vie",
       "url": "https://open.spotify.com/track/10cdEg6FXk3Ncj1YRCLjAS"
@@ -9044,7 +9134,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 216146,
       "name": "Polymorphe",
       "url": "https://open.spotify.com/track/1UfDzEfCPcfuZ5lLYKXwIm"
@@ -9262,6 +9352,24 @@
       "duration_ms": 258053,
       "name": "Prey to Me",
       "url": "https://open.spotify.com/track/5T8kEPvWkB0d8vREyJPJNr"
+    },
+    {
+      "album": {
+        "name": "Promesse",
+        "url": "https://open.spotify.com/album/6kk0JtmBDiYgA0ubPf5wU6"
+      },
+      "artists": [
+        {
+          "name": "\u00c9l\u00e9gie",
+          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214741,
+      "name": "Promesse",
+      "url": "https://open.spotify.com/track/2vt6l1dsKhKchk0AxMjHiX"
     },
     {
       "album": {
@@ -9589,6 +9697,24 @@
     },
     {
       "album": {
+        "name": "RIP",
+        "url": "https://open.spotify.com/album/3Y8q4i4ueSLZMJW0oeKOEn"
+      },
+      "artists": [
+        {
+          "name": "Chiens Dog",
+          "url": "https://open.spotify.com/artist/6g4hY3Vrvjh6u92Fy4EYgA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217039,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/5tuA261eX4cyeWeSygEff8"
+    },
+    {
+      "album": {
         "name": "Rivi\u00e8res",
         "url": "https://open.spotify.com/album/6HsvXvPB9Effcti0YX9MEh"
       },
@@ -9820,7 +9946,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 183000,
       "name": "Saint Loreto",
       "url": "https://open.spotify.com/track/0v5558IQMhOWIInaVeb9wI"
@@ -9845,7 +9971,7 @@
     },
     {
       "album": {
-        "name": "Grosses cernes",
+        "name": "GROSSES CERNES",
         "url": "https://open.spotify.com/album/2suHpX4rYYresYV5j7T0yH"
       },
       "artists": [
@@ -9858,7 +9984,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172500,
-      "name": "Sale gueule",
+      "name": "SALE GUEULE",
       "url": "https://open.spotify.com/track/49qmk2SJ9177CmMM5yyZs7"
     },
     {

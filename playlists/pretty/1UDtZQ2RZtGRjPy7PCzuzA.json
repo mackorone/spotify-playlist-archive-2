@@ -6,7 +6,7 @@
     "name": "\ud835\udcbf\ud835\udcca\ud835\udcc1\ud835\udcbe",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAANwNf8ErsXAUxLy0GzxkEYQhUTcA+w",
+  "snapshot_id": "AAAN0giWUJs3oMDNq8XqfKplrJfUOLmO",
   "tracks": [
     {
       "added_at": "2026-08-15 08:53:39",
@@ -3651,22 +3651,6 @@
       "duration_ms": 242017,
       "name": "Say No to This",
       "url": "https://open.spotify.com/track/3s9itRgJYcKhem01P17865"
-    },
-    {
-      "added_at": "2026-05-01 09:44:50",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2026-05-01 09:44:50",
@@ -9171,22 +9155,6 @@
     {
       "added_at": "2026-05-01 09:44:53",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 135878,
-      "name": "I think about it all the time",
-      "url": "https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx"
-    },
-    {
-      "added_at": "2026-05-01 09:44:53",
-      "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
@@ -9975,22 +9943,6 @@
       "duration_ms": 166916,
       "name": "Spinnin",
       "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
-    },
-    {
-      "added_at": "2026-05-01 09:44:53",
-      "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 163278,
-      "name": "true story",
-      "url": "https://open.spotify.com/track/48bbrovqXOEgBAmcaoKe9h"
     },
     {
       "added_at": "2026-05-01 09:44:53",
@@ -26320,8 +26272,8 @@
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Drifters",
+          "url": "https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ"
         }
       ],
       "duration_ms": 140533,
@@ -30487,6 +30439,266 @@
       "duration_ms": 404480,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/0AHJWgA2mLYz2iFVwbCeod"
+    },
+    {
+      "added_at": "2026-10-02 06:58:03",
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Despot",
+          "url": "https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Clipped On",
+      "url": "https://open.spotify.com/track/3YCoVXFnaF5cct0hOxFeQO"
+    },
+    {
+      "added_at": "2026-10-02 07:12:09",
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Samantha Urbani",
+          "url": "https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7"
+        }
+      ],
+      "duration_ms": 313546,
+      "name": "Always Let U Down",
+      "url": "https://open.spotify.com/track/79GPR5DxNCHs5dpKpcYBDO"
+    },
+    {
+      "added_at": "2026-10-02 07:12:37",
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Kindness",
+          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
+        }
+      ],
+      "duration_ms": 307280,
+      "name": "On the Line",
+      "url": "https://open.spotify.com/track/0geNERhyAP47qUaTaRz2o0"
+    },
+    {
+      "added_at": "2026-10-02 07:12:53",
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "High Street",
+      "url": "https://open.spotify.com/track/2NewVZgMr1DLTMJlIsAVDv"
+    },
+    {
+      "added_at": "2026-10-02 07:16:45",
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Samantha Urbani",
+          "url": "https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/70tw9q994ypHb16M4Thnod"
+    },
+    {
+      "added_at": "2026-10-02 09:56:23",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 224034,
+      "name": "Womanizer",
+      "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"
+    },
+    {
+      "added_at": "2026-10-02 10:01:08",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 192359,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW"
+    },
+    {
+      "added_at": "2026-10-02 10:05:15",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 233967,
+      "name": "Out from Under",
+      "url": "https://open.spotify.com/track/4vygSZytjx3cETrlbKgNoL"
+    },
+    {
+      "added_at": "2026-10-02 10:30:52",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 239072,
+      "name": "Kill the Lights",
+      "url": "https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5"
+    },
+    {
+      "added_at": "2026-10-02 10:34:15",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Shattered Glass",
+      "url": "https://open.spotify.com/track/3sJx8qerYrs92oqVAa9S0Z"
+    },
+    {
+      "added_at": "2026-10-02 10:38:51",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 216519,
+      "name": "If U Seek Amy",
+      "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
+    },
+    {
+      "added_at": "2026-10-02 10:43:28",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 261238,
+      "name": "Unusual You",
+      "url": "https://open.spotify.com/track/5yFDS6dDzjjmGFVaYcwPAB"
+    },
+    {
+      "added_at": "2026-10-02 10:47:28",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 188725,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/0Y7exe8Yu2nbuIvGDRGXcz"
+    },
+    {
+      "added_at": "2026-10-02 10:55:07",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 246277,
+      "name": "Mannequin",
+      "url": "https://open.spotify.com/track/3buxlp1m5TLONPem13GSpt"
+    },
+    {
+      "added_at": "2026-10-03 00:28:54",
+      "album": {
+        "name": "Dinner",
+        "url": "https://open.spotify.com/album/4pytTxyqxFZOuIgjcBVGzp"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/11SB3yglKUxKMidlcb5vmz"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

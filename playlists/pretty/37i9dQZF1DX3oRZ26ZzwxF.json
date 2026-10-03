@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rap africain francophone. Photo : Suspect 95",
-  "num_followers": 77735,
+  "num_followers": 77805,
   "original_name": "Afro Rap",
   "owner": {
     "name": "Spotify",
@@ -280,12 +280,12 @@
       },
       "artists": [
         {
-          "name": "Shapat",
-          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
-        },
-        {
           "name": "La Diktatur",
           "url": "https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF"
+        },
+        {
+          "name": "Shapat",
+          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
         }
       ],
       "duration_ms": 163558,

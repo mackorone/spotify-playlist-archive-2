@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Keith Urban
 
-473 songs - 1 day 5 hr 33 min
+474 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Faithfully \- feat\. Willie Nelson](https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Faithfully \(feat\. Willie Nelson\)](https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX) | 4:22 | 2025-05-16 | 2025-08-30 |
 | [Fall For You](https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Fall For You](https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0) | 2:56 | 2024-01-19 | 2024-05-18 |
 | [Falling \- Spotify Singles](https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 3:44 | 2023-03-17 | 2023-06-19 |
-| [Fame Is A Gun](https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Fame Is A Gun](https://open.spotify.com/album/2tVIPtGNg9l31BI3DcLVtb) | 4:00 | 2026-02-12 |  |
+| [Fame Is A Gun](https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Fame Is A Gun](https://open.spotify.com/album/2tVIPtGNg9l31BI3DcLVtb) | 4:00 | 2026-02-12 | 2026-10-03 |
 | [Farewell Party](https://open.spotify.com/track/06OO9hB9riQOLRGNCsZiQl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:08 | 2021-12-10 | 2022-07-26 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-24 |  |
 | [Feathered Indians](https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Feathered Indians](https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL) | 3:10 | 2022-07-29 | 2025-05-24 |
@@ -235,6 +235,7 @@
 | [Just a Girl](https://open.spotify.com/track/7d5TsfUb4ZTIwso4mGfPpz) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [Just a Girl](https://open.spotify.com/album/1Qufhr4hAi2pr7D8e4L0UD) | 3:23 | 2022-07-08 | 2023-01-06 |
 | [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 | 2021-12-10 | 2026-02-11 |
 | [Landslide](https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Landslide](https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n) | 3:38 | 2024-06-07 |  |
+| [Landslide](https://open.spotify.com/track/6t41Zo3voOIx1XFYvpx3Fe) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Landslide](https://open.spotify.com/album/3TEhxm5CCYJMAVrI6e4Zy7) | 3:23 | 2026-10-02 |  |
 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 | 2021-12-10 |  |
 | [Lesson In Leavin'](https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:40 | 2021-12-10 | 2024-08-03 |
 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 | 2023-08-18 | 2024-08-03 |

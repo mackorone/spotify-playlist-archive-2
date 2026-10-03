@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-21",
-  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Helen Ochoa",
+  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Jorge Duran C",
   "name": "Tumbado Rom\u00e1ntico",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 183637,
       "name": "130",
       "url": "https://open.spotify.com/track/3gs77UQQa4ucIxoCQkY08K"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 180688,
       "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 195194,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/0mfemgLsr0ucLSOBOc4xJ0"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "HERIDAS",
+        "url": "https://open.spotify.com/album/79ondJPQgbvcDTIxpPfrhH"
+      },
+      "artists": [
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191520,
+      "name": "HERIDAS",
+      "url": "https://open.spotify.com/track/4Z43MJl7gpv8jAo1DFPqyT"
+    },
+    {
+      "album": {
         "name": "Hija de Papi",
         "url": "https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj"
       },
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 162886,
       "name": "Me Dice Que No",
       "url": "https://open.spotify.com/track/0cOZRjX6uhOBZxjlEGFTx6"
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 209724,
       "name": "PLANETA",
       "url": "https://open.spotify.com/track/2OUOsr0nL8AlpkTybFu6RB"
@@ -3690,6 +3708,28 @@
       "duration_ms": 202790,
       "name": "Por Amarte As\u00ed",
       "url": "https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8"
+    },
+    {
+      "album": {
+        "name": "Por Esos Ojitos",
+        "url": "https://open.spotify.com/album/4v0vLoOguAsrh6Sq5Q6a32"
+      },
+      "artists": [
+        {
+          "name": "Jorge Duran C",
+          "url": "https://open.spotify.com/artist/3g3A0QVWCfSiby8NxjuZ1N"
+        },
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Por Esos Ojitos",
+      "url": "https://open.spotify.com/track/3Sk29mMFgPa6lrsSM5QqIy"
     },
     {
       "album": {
@@ -4002,7 +4042,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 196323,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/4qRJi0Y4E8bkuIRZB0N59j"
@@ -4808,7 +4848,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 154506,
       "name": "Una Vez Y Ya",
       "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"

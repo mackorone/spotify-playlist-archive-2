@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dexter and the Moonrocks, Noah Kahan, Drake, Victoria Monét,  Quavo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,636,224 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,640,284 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 62 | [Man Ain't Me](https://open.spotify.com/track/7FsaprUAMWDYV6V0fdMSze) | [Soulidified](https://open.spotify.com/artist/3nE9FhhwfDdyuObjky2v55) | [Man Ain't Me](https://open.spotify.com/album/12nbHzk4sOY7vaPIybMuMQ) | 2:48 |
 | 63 | [Orange Soda](https://open.spotify.com/track/7zMB3GxMuDfunEHjv6nnpw) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [INNANETAPE](https://open.spotify.com/album/2U6KMmA26Koq3X6X9tHEjs) | 3:40 |
 | 64 | [No Fool](https://open.spotify.com/track/39SiHwLHq2k3SxC1EnVnoL) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Ghosts in the Static](https://open.spotify.com/album/2ohC4XrHClJHBY9ayNjLpW) | 2:22 |
-| 65 | [Body](https://open.spotify.com/track/6Rk1jPjhqQRTlNcszPYk0A) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl) | [Body](https://open.spotify.com/album/1SIi90GYB9w3QwHkKY4jgJ) | 2:37 |
+| 65 | [BODY](https://open.spotify.com/track/6Rk1jPjhqQRTlNcszPYk0A) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl) | [BODY](https://open.spotify.com/album/1SIi90GYB9w3QwHkKY4jgJ) | 2:37 |
 | 66 | [Loser's Prize](https://open.spotify.com/track/4D0rf55hqEL8PjxHJuDCo2) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Loser's Prize](https://open.spotify.com/album/6fqTyj0rpCM3oUd7IafzZl) | 4:42 |
 | 67 | [Changing My Mind](https://open.spotify.com/track/7eWOv1xjEbNkVZVmjMs0Ys) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Halfway Home](https://open.spotify.com/album/1jWwjSOPby4XtOqAG4PZQ9) | 2:46 |
 | 68 | [The Rage](https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [The Rage](https://open.spotify.com/album/3rATpXb10GsrrKV2Gzfavk) | 3:40 |

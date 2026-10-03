@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-332 songs - 14 hr 12 min
+334 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Porchside Wheat](https://open.spotify.com/track/3OdREuHZmpOwvxR4JTABhs) | [Pastall](https://open.spotify.com/artist/4xWbSW8Fkjt8DVkJ5QDIvV) | [Back to Pompiko](https://open.spotify.com/album/5Iir2VRVIrPf09KEW7ONMH) | 3:05 | 2021-12-09 | 2023-04-29 |
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-28 | 2025-11-13 |
 | [Quiet State](https://open.spotify.com/track/6ImUVu7qQW4O6t2EhdT7A9) | [Cindy Woon](https://open.spotify.com/artist/312AU52NUfI9iTdzynazpN) | [Quiet State](https://open.spotify.com/album/6pMPbS5MOWvNJD2swGQYmQ) | 2:46 | 2022-10-14 | 2024-04-05 |
+| [Quiet Tide](https://open.spotify.com/track/3jM8Mg1QN4Us0L34kC9cbZ) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Quiet Tide](https://open.spotify.com/album/3s05pXnm6yPKKFo2AUuc3u) | 2:35 | 2026-10-02 |  |
 | [Raconteur](https://open.spotify.com/track/7qzfZetxTQEZlFi3QB7zHx) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Raconteur](https://open.spotify.com/album/6zJrL7ptspQXKC1CaBkVBV) | 2:15 | 2022-12-16 | 2025-11-13 |
 | [Rain Notes](https://open.spotify.com/track/3Rs8zMQp6b6hOWulZRpXlW) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Rain Notes](https://open.spotify.com/album/6HPXCwrU8DuwqIjfAfDuvw) | 2:28 | 2025-08-18 |  |
 | [Remember Yesterday](https://open.spotify.com/track/7IMwaA8RH2Rkmz8B8DhIf3) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Remember Yesterday](https://open.spotify.com/album/2QwaFDwr9RmEiAeDKBEUP5) | 2:16 | 2025-03-25 |  |
@@ -318,6 +319,7 @@
 | [Unelaul Mina Ei Taha Veel Magama Jääda](https://open.spotify.com/track/76L57RAbQpGIva8HavRLwn) | [Boris Björn Bagger](https://open.spotify.com/artist/7p2K7MlnXg0k9v9yxxuf06), [Valdo Preema](https://open.spotify.com/artist/5dEsSEyudgCCppMdKmMyh5) | [German And Estonian Lullaby With Guitar](https://open.spotify.com/album/5UqSD5ONEAZTBdRoQhefJo) | 2:00 | 2021-12-09 | 2022-09-17 |
 | [Unread Dreams](https://open.spotify.com/track/0nqnsldXoqUzjLFuQpx08n) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Unread Dreams](https://open.spotify.com/album/7oRtsaHjug8swcdv4GOqMo) | 2:35 | 2025-10-01 |  |
 | [Unspoken](https://open.spotify.com/track/5W3wbuaJXsYrO9VfcKiHH4) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Unspoken](https://open.spotify.com/album/4DHUitOJqpemgWNBgAe1Ve) | 2:28 | 2025-02-19 |  |
+| [Unspoken](https://open.spotify.com/track/3ABTzF0wnIe8yozhT0lxuN) | [Jorge Huksos](https://open.spotify.com/artist/5DEfxYlPLz7yZMw0AJF5G7) | [Unspoken](https://open.spotify.com/album/1za1Pee8XkKyWflmUyqXoq) | 2:10 | 2026-10-02 |  |
 | [Unsung Heroes](https://open.spotify.com/track/79J4D5bHUepJ7MS7Tz3RH5) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:29 | 2022-01-06 |  |
 | [Vacilando](https://open.spotify.com/track/3OL9Y9QbBE1WZPI5ft3yzz) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Vacilando](https://open.spotify.com/album/1rTJlbruy1qEqYah6GYCJp) | 2:15 | 2022-06-10 | 2024-05-24 |
 | [Verlust und Gewinn](https://open.spotify.com/track/5yH9OVYpFnHoMrSWJEdFUP) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Verlust und Gewinn](https://open.spotify.com/album/6piwS957ZAnONyTajWSPdB) | 2:25 | 2021-12-09 | 2026-05-23 |

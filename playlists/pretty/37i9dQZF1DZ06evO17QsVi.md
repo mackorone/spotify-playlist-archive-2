@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239,168 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,244 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 21 | [Until The End Of Time](https://open.spotify.com/track/5avQSAKB1dOEeIQBqV4jgW) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [R.L\. Hugger](https://open.spotify.com/artist/6tUtWRGkgU68o7EblHWxgM), [Samuel J\. "Tone" Barnes](https://open.spotify.com/artist/4huJyydJJ5UeK2tSuZ70gc) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:26 |
 | 22 | [Only God Can Judge Me \(ft\. Rappin' 4\-Tay\)](https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:56 |
 | 23 | [Troublesome '96](https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:37 |
-| 24 | [Runnin' \(Dying To Live\)](https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Resurrection \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO) | 3:50 |
-| 25 | [Better Dayz](https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mr\. Biggs](https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:17 |
+| 24 | [Better Dayz](https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mr\. Biggs](https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:17 |
+| 25 | [Runnin' \(Dying To Live\)](https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Resurrection \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO) | 3:50 |
 | 26 | [Soon As I Get Home](https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Yaki Kadafi](https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m) | [Pac's Life](https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT) | 3:40 |
 | 27 | [Deadly Combination \(feat\. 2Pac\)](https://open.spotify.com/track/3FWTGnS0F6wm2HhIkI8rVW) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Big Picture](https://open.spotify.com/album/36zI393OZQaRFC8dTi2XII) | 2:32 |
 | 28 | [Letter 2 My Unborn](https://open.spotify.com/track/1MruDoJ6IXqy9ar20xfKVx) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Living in Pain \(feat\. 2Pac, Mary J\. Blige & Nas\)](https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:01 |
 | 50 | [Unconditional Love](https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 3:58 |
 
-Snapshot ID: `arxRAAAAAAA2VxkhH0oHhhxD/MauJFwO`
+Snapshot ID: `ar2igAAAAAAbQWkF5asqk+3CTae26Hb3`

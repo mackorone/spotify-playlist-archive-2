@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: Kweku Smoke
 
-457 songs - 23 hr 23 min
+458 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Endless](https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Endless](https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU) | 3:00 | 2023-09-14 | 2025-03-07 |
 | [ENFANTS DE LA PATRIE \(feat\. Naps\)](https://open.spotify.com/track/5QZFdEwqd97XcqQnrLgMcr) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [L'EMPIRE DE MÉROÉ](https://open.spotify.com/album/3xguQ5iKIFjG2z3GjfG8We) | 2:43 | 2021-12-02 | 2022-02-04 |
 | [Ethiopia](https://open.spotify.com/track/6lx4aUEcnR7sojpxEQu4mV) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:05 | 2021-11-18 | 2022-03-25 |
-| [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 | 2025-08-22 |  |
+| [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 | 2025-08-22 | 2026-10-03 |
 | [Everything](https://open.spotify.com/track/3v1o4wJ9lHcN1n2eztLJxg) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Everything](https://open.spotify.com/album/6sA74tgIX4A7qmcBTyYeV7) | 3:13 | 2022-09-30 | 2022-10-29 |
 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 | 2026-05-29 |  |
 | [EXTRACURRICULAR ACTIVITIES](https://open.spotify.com/track/0fbRxfy1QPpAMz8DLDgiLV) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Thrill Max](https://open.spotify.com/artist/4aAwLZhHII5PgS4YhjrsRv), [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Marv OTM](https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq) | [EXTRACURRICULAR ACTIVITIES](https://open.spotify.com/album/2CvlJE9N3tzI2cbZxMNe5B) | 2:53 | 2025-02-12 | 2025-05-09 |
@@ -205,6 +205,7 @@
 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 | 2025-03-21 | 2026-05-14 |
 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 | 2025-11-28 |  |
 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 | 2026-06-12 |  |
+| [IKEBE 3000](https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [IKEBE 3000](https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL) | 3:17 | 2026-10-02 |  |
 | [Impossible](https://open.spotify.com/track/6ILVxE20PUooTyoSK0mHat) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Aeph](https://open.spotify.com/artist/0lzSrFGE3CoEg8dtn1PS6i), [KoKo ](https://open.spotify.com/artist/1A4NyrcivdiIQ0INQm6ICx) | [Impossible](https://open.spotify.com/album/6OMZajVz7Gr0mv737s2CVK) | 2:58 | 2022-03-24 | 2022-04-22 |
 | [In My Head](https://open.spotify.com/track/6P8ePyea7qMtpepDXBNkIO) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Tujiangalie \- EP](https://open.spotify.com/album/0L6Djo1F3h7l0UPtLdwAJu) | 3:38 | 2023-04-20 | 2023-11-11 |
 | [Inaweza Haiwezi](https://open.spotify.com/track/6GbZgCtkDVQnuavXk6T3LG) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Inaweza Haiwezi](https://open.spotify.com/album/4XtK3cyU5InSf6792CqTjM) | 3:14 | 2022-11-04 | 2023-02-10 |

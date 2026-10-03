@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 257113,
+  "num_followers": 257163,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,6 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
-        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
-        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 155888,
-      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
-      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
         "name": "Triple Lavada (feat. Victor Mendivil) [Remix]",
         "url": "https://open.spotify.com/album/7y4nm8LYH9XRYAbdMh5SWH"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 287679,
       "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
       "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "added_at": "2026-09-18 06:00:27",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
+        "name": "Voy Enfierrado",
+        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Voy Enfierrado",
+      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
         "name": "Mi Vida Mi Muerte",
         "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 171322,
       "name": "CDN",
       "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
-        "name": "Voy Enfierrado",
-        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Voy Enfierrado",
-      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
     },
     {
       "added_at": "2026-09-18 06:00:27",
@@ -679,6 +679,50 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
+        "name": "No Son Doritos",
+        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "NO SON DORITOS",
+      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
+        "name": "TOMORROWLAND",
+        "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 185511,
+      "name": "TOMORROWLAND",
+      "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
       },
@@ -727,50 +771,6 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
-        "name": "No Son Doritos",
-        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "NO SON DORITOS",
-      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
-        "name": "TOMORROWLAND",
-        "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 185511,
-      "name": "TOMORROWLAND",
-      "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
         "name": "Delivery",
         "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
       },
@@ -811,42 +811,6 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
-        "name": "Vaya Vaya",
-        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 185236,
-      "name": "Vaya Vaya",
-      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
-        "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54/66",
-        "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 223019,
-      "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54/66",
-      "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -875,6 +839,42 @@
       "duration_ms": 240000,
       "name": "Grandes Ligas",
       "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
+        "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54/66",
+        "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 223019,
+      "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54/66",
+      "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
+        "name": "Vaya Vaya",
+        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 185236,
+      "name": "Vaya Vaya",
+      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
     },
     {
       "added_at": "2026-09-18 06:00:27",
@@ -1171,26 +1171,18 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
-        "name": "S\u00edndrome Estocolmo",
-        "url": "https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg"
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
       },
       "artists": [
         {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Amilkar Galaviz",
-          "url": "https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 223602,
-      "name": "La Bataca",
-      "url": "https://open.spotify.com/track/71M0QTH5Gz4JKn9DwwEuSO"
+      "duration_ms": 212666,
+      "name": "Estilo Malandro",
+      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
     },
     {
       "added_at": "2026-09-18 06:00:27",
@@ -1215,18 +1207,26 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+        "name": "S\u00edndrome Estocolmo",
+        "url": "https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg"
       },
       "artists": [
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Amilkar Galaviz",
+          "url": "https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Estilo Malandro",
-      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
+      "duration_ms": 223602,
+      "name": "La Bataca",
+      "url": "https://open.spotify.com/track/71M0QTH5Gz4JKn9DwwEuSO"
     },
     {
       "added_at": "2026-09-18 06:00:27",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
-        "name": "Gallos Y Caballos",
-        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 158543,
-      "name": "Gallos Y Caballos",
-      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 407179,
       "name": "A2P",
       "url": "https://open.spotify.com/track/0IPD4hNAGIjVDBTHfVdv8o"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
+        "name": "Gallos Y Caballos",
+        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 158543,
+      "name": "Gallos Y Caballos",
+      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
     },
     {
       "added_at": "2026-09-18 06:00:27",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Fermin IV Caballero",
+          "url": "https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
+      "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
         "name": "Por Si Se Les Olvidaba (Remix)",
         "url": "https://open.spotify.com/album/4NjdyzK1R6zz6XDjHUtuKT"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 166293,
       "name": "Pow Wow Wow",
       "url": "https://open.spotify.com/track/6mmhluGpoTV7m49MG5krOY"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "Fermin IV Caballero",
-          "url": "https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
-      "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
     },
     {
       "added_at": "2026-09-18 06:00:27",
@@ -1523,30 +1523,6 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
-        "name": "El Buenas Tardes",
-        "url": "https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 211051,
-      "name": "El Buenas Tardes",
-      "url": "https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
         "name": "El Gabacho",
         "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
       },
@@ -1567,6 +1543,30 @@
       "duration_ms": 162617,
       "name": "El Gabacho",
       "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
+        "name": "El Buenas Tardes",
+        "url": "https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 211051,
+      "name": "El Buenas Tardes",
+      "url": "https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6"
     },
     {
       "added_at": "2026-09-18 06:00:27",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
-        "name": "Estilo R'S Vol. 4",
-        "url": "https://open.spotify.com/album/6CUjEk5E7YGQbfob4X1Z2u"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        }
-      ],
-      "duration_ms": 124764,
-      "name": "Pajuelazo",
-      "url": "https://open.spotify.com/track/7v9L3VNQjmRKZ4DjGd7OLT"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
       },
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
+        "name": "Estilo R'S Vol. 4",
+        "url": "https://open.spotify.com/album/6CUjEk5E7YGQbfob4X1Z2u"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 124764,
+      "name": "Pajuelazo",
+      "url": "https://open.spotify.com/track/7v9L3VNQjmRKZ4DjGd7OLT"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2026-09-18 06:00:27",
       "album": {
+        "name": "Se Rumora",
+        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 252923,
+      "name": "Se Rumora",
+      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
+    },
+    {
+      "added_at": "2026-09-18 06:00:27",
+      "album": {
         "name": "La Caravana",
         "url": "https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 143250,
       "name": "La Caravana",
       "url": "https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow"
-    },
-    {
-      "added_at": "2026-09-18 06:00:27",
-      "album": {
-        "name": "Se Rumora",
-        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 252923,
-      "name": "Se Rumora",
-      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
     },
     {
       "added_at": "2026-09-18 06:00:27",

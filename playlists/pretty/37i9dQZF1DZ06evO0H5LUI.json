@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABdpPv3Y0N6gw9VffP847S9",
+  "snapshot_id": "ar2igAAAAAAKuYxQKkULhLKCS8vUyL2a",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "teodiotequiero",
-        "url": "https://open.spotify.com/album/4SZ9YcxGI6u8asjc3kmtRs"
-      },
-      "artists": [
-        {
-          "name": "Riosse",
-          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "teodiotequiero",
-      "url": "https://open.spotify.com/track/5B1HE5AGQ2xHIyGPYgiZMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VETIVER",
         "url": "https://open.spotify.com/album/0aXJxuR6pi8125yq41O4MK"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 167640,
       "name": "Una Chica Como T\u00fa",
       "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "teodiotequiero",
+        "url": "https://open.spotify.com/album/4SZ9YcxGI6u8asjc3kmtRs"
+      },
+      "artists": [
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "teodiotequiero",
+      "url": "https://open.spotify.com/track/5B1HE5AGQ2xHIyGPYgiZMO"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 166535,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOUSE Y DESAMOR",
         "url": "https://open.spotify.com/album/1ApTPwHsWrPoEIlMrCQW77"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 149758,
       "name": "PUNTO FINAL",
       "url": "https://open.spotify.com/track/7pfr0WwMdn3oIU6QGu2YNh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 166535,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqu\u00ed Estoy",
-        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 211702,
-      "name": "Scirocco",
-      "url": "https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Morro Que Hace M\u00fasica",
         "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 183000,
       "name": "Coraz\u00f3n De Papel",
       "url": "https://open.spotify.com/track/5SNqzauoA3ZZwZWaEi62aG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 211702,
+      "name": "Scirocco",
+      "url": "https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35"
     },
     {
       "added_at": null,
@@ -519,6 +519,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "LuisOn",
+          "url": "https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs"
+        },
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 166036,
+      "name": "Marea (feat. legallyrxx)",
+      "url": "https://open.spotify.com/track/3ktUAegiXV0Gte7Qgs7gi3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
         "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
       },
@@ -551,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Morro Que Hace M\u00fasica",
-        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
       },
       "artists": [
         {
@@ -560,21 +588,13 @@
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         },
         {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        },
-        {
-          "name": "LuisOn",
-          "url": "https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs"
-        },
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 166036,
-      "name": "Marea (feat. legallyrxx)",
-      "url": "https://open.spotify.com/track/3ktUAegiXV0Gte7Qgs7gi3"
+      "duration_ms": 229013,
+      "name": "awitado :(",
+      "url": "https://open.spotify.com/track/7p16KfEzAQ5orhR5hYf9Rp"
     },
     {
       "added_at": null,
@@ -599,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqu\u00ed Estoy",
-        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+        "name": "Alberca / ILY <3",
+        "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
       },
       "artists": [
         {
           "name": "Leon Leiden",
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 229013,
-      "name": "awitado :(",
-      "url": "https://open.spotify.com/track/7p16KfEzAQ5orhR5hYf9Rp"
+      "duration_ms": 124437,
+      "name": "Alberca",
+      "url": "https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
       "duration_ms": 147906,
       "name": "Az\u00facar",
       "url": "https://open.spotify.com/track/5W4HN5rnSphY6nG5cD9elB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alberca / ILY <3",
-        "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 124437,
-      "name": "Alberca",
-      "url": "https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mereces Menos",
-        "url": "https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Mereces Menos",
-      "url": "https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NODEBER\u00cdA",
         "url": "https://open.spotify.com/album/08cqokEicsyqvV0OAOB7nU"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 142523,
       "name": "PERSONAL",
       "url": "https://open.spotify.com/track/2HcaXo5MnxlGFgnbxgUOix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mereces Menos",
+        "url": "https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Mereces Menos",
+      "url": "https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq"
     },
     {
       "added_at": null,

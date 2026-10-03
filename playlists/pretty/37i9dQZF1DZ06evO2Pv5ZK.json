@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 112123,
+  "num_followers": 112125,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABIZ60AIBKBf3+ijAuRIqPr",
+  "snapshot_id": "ar2igAAAAACDCBC7EBdFRQ9tC/DjbOu0",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+      "duration_ms": 200466,
+      "name": "Abraham's Theme",
+      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
-        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 200466,
-      "name": "Abraham's Theme",
-      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 300773,
-      "name": "L'enfant - Remastered",
-      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
+      "duration_ms": 164133,
+      "name": "Hymne - Remastered",
+      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Dreams of Surf",
-      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Dreams of Surf",
+      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Opera sauvage (Remastered)",
         "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
       },
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 164133,
-      "name": "Hymne - Remastered",
-      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
+      "duration_ms": 300773,
+      "name": "L'enfant - Remastered",
+      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 340426,
-      "name": "Memories of Blue",
-      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 126093,
       "name": "P.S.",
       "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 340426,
+      "name": "Memories of Blue",
+      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 164066,
       "name": "The Tao Of Love",
       "url": "https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
     },
     {
       "added_at": null,

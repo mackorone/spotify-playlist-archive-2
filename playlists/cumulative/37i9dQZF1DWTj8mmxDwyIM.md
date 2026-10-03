@@ -2,7 +2,7 @@
 
 ### [Hazbin Hotel Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTj8mmxDwyIM)
 
-> Listen to the music from Hazbin Hotel, season 2 coming to Prime Video soon.
+> Listen to the music from Hazbin Hotel, streaming only on Prime Video
 
 50 songs - 1 hr 59 min
 

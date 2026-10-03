@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 863226,
+  "num_followers": 863335,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAUwcADfEaB88/MrzP2ZcDF",
+  "snapshot_id": "ar2igAAAAADtlJ4G0Iy0pAn86P8hUrYF",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Noche - Clasicos A Mi Manera",
-        "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "No",
-      "url": "https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 211116,
       "name": "Un Bendito D\u00eda",
       "url": "https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Noche - Clasicos A Mi Manera",
+        "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "No",
+      "url": "https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1a Amada Mia",
-        "url": "https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Ni\u00f1a Amada M\u00eda",
-      "url": "https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noche De Cuatro Lunas",
         "url": "https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni\u00f1a Amada Mia",
+        "url": "https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Ni\u00f1a Amada M\u00eda",
+      "url": "https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dos Mundos Revoluci\u00f3n En Vivo (Live At El Lunario En La Ciudad De M\u00e9xico/2010)",
         "url": "https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "La Mitad Que Me Faltaba",
-      "url": "https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 157200,
       "name": "Quiero Que Vuelvas",
       "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "La Mitad Que Me Faltaba",
+      "url": "https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Qu\u00e9 Bueno",
-      "url": "https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Decepciones",
         "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 223706,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Qu\u00e9 Bueno",
+      "url": "https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw"
     },
     {
       "added_at": null,

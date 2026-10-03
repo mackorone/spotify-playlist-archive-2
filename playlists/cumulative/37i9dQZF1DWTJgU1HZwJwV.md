@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-626 songs - 1 day 2 hr 28 min
+627 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Ordinary Days](https://open.spotify.com/track/4wn74zfJ3RERTMPmHRg0EE) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Ordinary Days](https://open.spotify.com/album/6c4EHvVROvc2GaGOGw0pCh) | 2:25 | 2026-03-30 |  |
 | [Ordinary Sunday](https://open.spotify.com/track/0bdtCy7wrMYa7gc8mCo955) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Ordinary Sunday](https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7) | 2:44 | 2024-05-10 |  |
 | [Origen](https://open.spotify.com/track/2UtJpKi98wfLk6ERrmXpEC) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Origen](https://open.spotify.com/album/7KWJU3ICNaArmjYfM3N7Oq) | 1:47 | 2022-09-02 | 2023-09-14 |
+| [oslagbara](https://open.spotify.com/track/1FgxTqN5CQM9uBScBSB6YP) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [oslagbara](https://open.spotify.com/album/0dxh2KM8LuMXiGomXbfpe0) | 2:01 | 2026-10-02 |  |
 | [Ouarzazate](https://open.spotify.com/track/4KLHM8BsHxjA74q1H1wvnx) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Ouarzazate](https://open.spotify.com/album/1RJxkHUhvj6k3a7WGoIaX3) | 2:17 | 2022-12-23 | 2023-10-13 |
 | [Outerinho](https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 3:05 | 2022-06-17 | 2024-07-30 |
 | [Outono](https://open.spotify.com/track/5yo0kYmqHkg7tMPJv3GKKR) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Outono](https://open.spotify.com/album/1ZMGYAg9qKw7q1ScwxuVlZ) | 3:15 | 2025-11-24 |  |

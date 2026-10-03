@@ -2113,6 +2113,28 @@
     },
     {
       "album": {
+        "name": "Heavenbound",
+        "url": "https://open.spotify.com/album/2390ZFxnBvQC1HTnItMdil"
+      },
+      "artists": [
+        {
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Heavenbound",
+      "url": "https://open.spotify.com/track/65TZ3FJKohRKiVp0x42NRQ"
+    },
+    {
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/0Q4FZ1rx5FSM1bfyEN3BE8"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 474619,
+  "num_followers": 474610,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAA9gI4+HK1jTFOwhvJwblv4",
+  "snapshot_id": "ar2igAAAAABfDinUAI4Y9P3Ua6+GhYUp",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
+        "name": "MY FACE HURTS FROM SMILING",
+        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 129170,
-      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
+      "duration_ms": 175480,
+      "name": "CRASHOUT",
+      "url": "https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA"
     },
     {
       "added_at": null,
@@ -631,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MY FACE HURTS FROM SMILING",
-        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
+        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 175480,
-      "name": "CRASHOUT",
-      "url": "https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA"
+      "duration_ms": 129170,
+      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
     },
     {
       "added_at": null,

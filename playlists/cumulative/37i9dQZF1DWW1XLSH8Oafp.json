@@ -9515,6 +9515,24 @@
     },
     {
       "album": {
+        "name": "Beach Gothic",
+        "url": "https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Girl's Girl",
+      "url": "https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi"
+    },
+    {
+      "album": {
         "name": "girls just wanna have fun",
         "url": "https://open.spotify.com/album/4ggpeldcot5lj39pHKZUrh"
       },
@@ -13090,6 +13108,24 @@
       "duration_ms": 97965,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/5ov235IWNsLM2vuDeSx25W"
+    },
+    {
+      "album": {
+        "name": "JEZEBEL",
+        "url": "https://open.spotify.com/album/7HvRG2niZJweT6uJ0HtJ73"
+      },
+      "artists": [
+        {
+          "name": "Cydnee with a C",
+          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136423,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/6IDvtVV7hstph3DnXpBTL0"
     },
     {
       "album": {
@@ -24122,42 +24158,6 @@
       "duration_ms": 182068,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/1PMBwFGTdsJQzXrBJs03ry"
-    },
-    {
-      "album": {
-        "name": "Beach Gothic",
-        "url": "https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d"
-      },
-      "artists": [
-        {
-          "name": "Orchid",
-          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
-        }
-      ],
-      "date_added": "2026-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi"
-    },
-    {
-      "album": {
-        "name": "JEZEBEL",
-        "url": "https://open.spotify.com/album/7HvRG2niZJweT6uJ0HtJ73"
-      },
-      "artists": [
-        {
-          "name": "Cydnee with a C",
-          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
-        }
-      ],
-      "date_added": "2026-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/6IDvtVV7hstph3DnXpBTL0"
     },
     {
       "album": {

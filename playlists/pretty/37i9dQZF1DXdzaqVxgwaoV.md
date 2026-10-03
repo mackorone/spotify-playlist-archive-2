@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Desde septiembre se siente que viene diciembre 🧊 🎄 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,110 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,104 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 28 | [Se Me Perdio La Cadenita](https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 2:37 |
 | 29 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |
 | 30 | [Quiero Ser Feliz](https://open.spotify.com/track/2vyiAiog5grnWpiHXfrX5n) | [Los Black Star](https://open.spotify.com/artist/1Sj1R6x4FGlNFfdGG2fpnL) | [A Mover el Esqueleto Con 3 Grandes](https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy) | 4:21 |
-| 31 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
-| 32 | [Farolito \(Little Star\)](https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG) | 4:39 |
+| 31 | [Farolito \(Little Star\)](https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG) | 4:39 |
+| 32 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
 | 33 | [Mensaje De Navidad](https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj) | [Para Mi Fanaticada](https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa) | 4:15 |
 | 34 | [El Cuartetazo](https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6) | [50 Años De Fiesta](https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF) | 2:52 |
 | 35 | [Mosaico de Merengues \- Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamoró de Manuel / El Pájaro Amarillo / El Gavilán](https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Para Bailar y Bailar con El Cuarteto Imperial](https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd) | 7:59 |

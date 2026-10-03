@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 74746,
+  "num_followers": 74753,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
-      },
-      "artists": [
-        {
-          "name": "Alicia Myers",
-          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Want To Thank You",
-      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
+      },
+      "artists": [
+        {
+          "name": "Alicia Myers",
+          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "I Want To Thank You",
+      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
+        "name": "Stand on the Word",
+        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
+      },
+      "artists": [
+        {
+          "name": "The Joubert Singers",
+          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
+        }
+      ],
+      "duration_ms": 303692,
+      "name": "Stand on the Word - Studio Version",
+      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
         "name": "Deep Grooves",
         "url": "https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 313906,
       "name": "Love Is the Message (feat. The Three Degrees) - Love Groove Bonus",
       "url": "https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
-        "name": "Stand on the Word",
-        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
-      },
-      "artists": [
-        {
-          "name": "The Joubert Singers",
-          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
-        }
-      ],
-      "duration_ms": 303692,
-      "name": "Stand on the Word - Studio Version",
-      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
-      },
-      "artists": [
-        {
-          "name": "Sarah Dash",
-          "url": "https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH"
-        }
-      ],
-      "duration_ms": 338973,
-      "name": "Sinner Man",
-      "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Jean Carn",
         "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 255400,
       "name": "Time Waits for No One",
       "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Sarah Dash",
+          "url": "https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH"
+        }
+      ],
+      "duration_ms": 338973,
+      "name": "Sinner Man",
+      "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/0y1GuBD52TFARX9e4EOJeD"
+        "name": "Tommy Stewart",
+        "url": "https://open.spotify.com/album/46fNP3GBxPcKJnbUXydeuG"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Tommy Stewart",
+          "url": "https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h"
         }
       ],
-      "duration_ms": 405293,
-      "name": "Haven't You Heard",
-      "url": "https://open.spotify.com/track/3Kf0nJpV3AMRWRTL1SEqUl"
+      "duration_ms": 289266,
+      "name": "Fulton County Line",
+      "url": "https://open.spotify.com/track/6DNGubEO3jpZE1osALeEkn"
     }
   ],
   "unique_name": "Disco Decadence",

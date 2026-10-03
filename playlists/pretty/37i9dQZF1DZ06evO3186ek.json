@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 166596,
+  "num_followers": 166602,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAZXB/vgyyhq3dIfVIFNE+e",
+  "snapshot_id": "ar2igAAAAADg+SiyphgXUECaRDprZJAF",
   "tracks": [
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 732553,
-      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
-      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 564423,
       "name": "Wait On You (feat. Dante Bowe & Chandler Moore)",
       "url": "https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
         }
       ],
-      "duration_ms": 262304,
-      "name": "I Speak Jesus - Instrumental Worship",
-      "url": "https://open.spotify.com/track/1SC5WvC4xqYGKQTgRusjq9"
+      "duration_ms": 136000,
+      "name": "Sacred Quiet - Instrumental Worship",
+      "url": "https://open.spotify.com/track/5rRcERV6CJhFY2dLspCqcB"
     },
     {
       "added_at": null,
@@ -619,26 +619,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
         },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
         }
       ],
-      "duration_ms": 509977,
-      "name": "Talking To Jesus (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
+      "duration_ms": 469125,
+      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
     },
     {
       "added_at": null,
@@ -664,37 +668,33 @@
           "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Sacred Quiet - Instrumental Worship",
-      "url": "https://open.spotify.com/track/5rRcERV6CJhFY2dLspCqcB"
+      "duration_ms": 262304,
+      "name": "I Speak Jesus - Instrumental Worship",
+      "url": "https://open.spotify.com/track/1SC5WvC4xqYGKQTgRusjq9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
       "artists": [
         {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Karen Espinosa",
-          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
-        },
-        {
-          "name": "Johnny Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 469125,
-      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
-      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
+      "duration_ms": 509977,
+      "name": "Talking To Jesus (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
     },
     {
       "added_at": null,

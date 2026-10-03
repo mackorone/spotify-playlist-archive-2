@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,753 likes - 43 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,754 likes - 43 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 25 | [Beyond the Smoke Screen](https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 1:59 |
 | 26 | [Lullaby](https://open.spotify.com/track/7g4891487QfCuRrENM8vUs) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 3:52 |
 | 27 | [Shadow Forces](https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 14:04 |
-| 28 | [Insaaf](https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Talvar](https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT) | 3:20 |
+| 28 | [Island No\. 2](https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ) | 7:57 |
 | 29 | [There Go the Clouds](https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 2:46 |
 | 30 | [Na Ja Balam](https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 5:27 |
 | 31 | [To Remain/To Return](https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 9:16 |
-| 32 | [Island No\. 2](https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ) | 7:57 |
+| 32 | [Insaaf](https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Talvar](https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT) | 3:20 |
 | 33 | [Seawall](https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 0:56 |
 | 34 | [Baghon Main Pade Jhoole](https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 7:23 |
 | 35 | [Eyes Of The Endless](https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 14:39 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 42 | [Island No\. 3](https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ) | 17:44 |
 | 43 | [The Warmth of Parents' Hands](https://open.spotify.com/track/4vzzXwWj4z2CObySCtDV4h) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:41 |
 
-Snapshot ID: `arxRAAAAAAD6IcNwU0BXzoNdsBlJNMGP`
+Snapshot ID: `ar2igAAAAACWVEMSDQEANLF+MLH6d3CU`

@@ -2,7 +2,7 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: BAHA
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Gerald Situmorang
 
 310 songs - 21 hr 34 min
 

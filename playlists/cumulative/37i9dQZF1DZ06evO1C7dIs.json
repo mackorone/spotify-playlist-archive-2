@@ -1870,10 +1870,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 236764,
       "name": "Tribal",
       "url": "https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1"
+    },
+    {
+      "album": {
+        "name": "Tribal (Live in Amsterdam 2022)",
+        "url": "https://open.spotify.com/album/5ZbzeABRTyMygoerH9GmRo"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244946,
+      "name": "Tribal - Live In Amsterdam 2022",
+      "url": "https://open.spotify.com/track/3qX5lW9TNKkuwZIw4QXwIL"
     },
     {
       "album": {

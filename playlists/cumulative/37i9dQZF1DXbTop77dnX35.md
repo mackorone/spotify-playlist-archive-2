@@ -4,7 +4,7 @@
 
 > New Music from BNXN, Blaqbonez, TML Vibes, Lojay, Mr Eazi, DJ Tunez and more
 
-6,970 songs - 14 day 15 hr 48 min
+6,971 songs - 14 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2291,7 +2291,7 @@
 | [Genie Baby](https://open.spotify.com/track/3uI4pCvoglYfqg0kmlSaOb) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Diamond Baby](https://open.spotify.com/album/0G9kMkpwJPvgSBHmiHTFdh) | 2:28 | 2026-05-01 | 2026-05-08 |
 | [Gentle Baby](https://open.spotify.com/track/2WsP9OSJYPttgj0Zptt0rk) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Gentle Baby](https://open.spotify.com/album/6ftxNFksrLfwHymv4jsSiZ) | 2:29 | 2025-08-01 | 2025-08-08 |
 | [Gentleman](https://open.spotify.com/track/7N19Zf0ynOJTCEWbAQIgiw) | [Krista](https://open.spotify.com/artist/7bzt2DfxmIpsQfojRyswo8) | [Gentleman](https://open.spotify.com/album/1BjC7VYSrkx6Xzx5Nk6nzF) | 2:54 | 2024-09-20 | 2024-09-27 |
-| [Gentleman](https://open.spotify.com/track/3q7X6eqrpved0b0EQYV6Mo) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:27 | 2026-10-02 |  |
+| [Gentleman](https://open.spotify.com/track/3q7X6eqrpved0b0EQYV6Mo) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:23 | 2026-10-02 |  |
 | [Gentlewoman](https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 4:00 | 2026-08-21 | 2026-08-28 |
 | [GenZ Baddies](https://open.spotify.com/track/1hmHHRagPl6p7mwHVJ2mlm) | [CallMeTBM](https://open.spotify.com/artist/3azpFNLqYZHIQj2nTtHxka) | [Just Do It](https://open.spotify.com/album/6a578dHsBM74JeEAtL7W3P) | 2:19 | 2026-01-16 | 2026-01-23 |
 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-06 | 2024-12-13 |
@@ -5734,6 +5734,7 @@
 | [Solace](https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Solace](https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA) | 3:16 | 2026-01-23 | 2026-01-30 |
 | [Solace II](https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Solace II](https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa) | 2:34 | 2026-02-27 | 2026-03-06 |
 | [Solar](https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Solar](https://open.spotify.com/album/0LOkMEsbdcrGRlisTDMFBl) | 2:21 | 2026-03-27 | 2026-04-03 |
+| [Solar Eclipse \(feat\. Don Toliver\)](https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 3:38 | 2026-10-02 |  |
 | [Soldier](https://open.spotify.com/track/0EVSkel9WGuCaF3T18rVf6) | [Risky Victory](https://open.spotify.com/artist/4GsW2wxvfngcKK1XlR19Ht), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Soldier](https://open.spotify.com/album/7tUdf1KQo3LboLs77YZ2A4) | 2:05 | 2024-10-18 | 2024-10-25 |
 | [Solitude](https://open.spotify.com/track/4kqwxW58OqiPMAAu29dyw9) | [Yugoszn](https://open.spotify.com/artist/7yWR3RApVuDFsZ6MqOHyFn) | [Solitude](https://open.spotify.com/album/48ZYjgFURaDSwGRjBRXsBf) | 2:49 | 2024-12-13 | 2024-12-20 |
 | [Solo](https://open.spotify.com/track/7BBKju6IcwXe0id4FXXBBX) | [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Solo](https://open.spotify.com/album/4eyZr5zZwI7Pxnq4pficBI) | 3:17 | 2024-06-07 | 2024-06-14 |

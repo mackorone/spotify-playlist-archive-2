@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Dominique Fils\-Aimé, Angèle, Olivier Couture, SDM, Ino Casablanca, Natasha St\-Pier, Blynk et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,247 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,262 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 63 | [UNEXPECTED VODKA JOURNEY](https://open.spotify.com/track/4WX6h2Ha0TH3wIiTSEI1ZN) | [Offstat](https://open.spotify.com/artist/3BiSqDhCtfmnu2S4zqvTJb), [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW), [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [UNEXPECTED VODKA JOURNEY](https://open.spotify.com/album/5iLPxUtrh64ayqsqRJ57xN) | 2:24 |
 | 64 | [BITCHBOYJCONNAISLECODE](https://open.spotify.com/track/076bEvi8q0TxZYXwOgnoI3) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm), [Nicky Savage](https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq) | [BLUE ARC](https://open.spotify.com/album/332nR6lTzS0hybmOMq1UCA) | 1:47 |
 | 65 | [TRACAS](https://open.spotify.com/track/7AMELJ6olqoYjERd6pGpIU) | [Eaubad](https://open.spotify.com/artist/462pDEWX9S9AleYYpieZWq) | [TRACAS](https://open.spotify.com/album/6D2DhtLNsMP7aqd1exYrAU) | 2:33 |
-| 66 | [Sale gueule](https://open.spotify.com/track/49qmk2SJ9177CmMM5yyZs7) | [Antoine Vitesse](https://open.spotify.com/artist/7sDCcEZBfKF5BgC5qap8E4) | [Grosses cernes](https://open.spotify.com/album/2suHpX4rYYresYV5j7T0yH) | 2:52 |
+| 66 | [SALE GUEULE](https://open.spotify.com/track/49qmk2SJ9177CmMM5yyZs7) | [Antoine Vitesse](https://open.spotify.com/artist/7sDCcEZBfKF5BgC5qap8E4) | [GROSSES CERNES](https://open.spotify.com/album/2suHpX4rYYresYV5j7T0yH) | 2:52 |
 | 67 | [goodgoodgood](https://open.spotify.com/track/0RSQJWFSsQ3pYUsucDEVG4) | [goodgoodgood.](https://open.spotify.com/artist/3p2HrkRlvsC11lP71qq62Q), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [goodgoodgood](https://open.spotify.com/album/5L9Q6twaEtbecLhJHu4Xh9) | 2:03 |
 | 68 | [What it is](https://open.spotify.com/track/4ndF3bioygqvtqy3RoxLoU) | [Vago](https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe), [TRAPMAT SAVIOR](https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV) | [What it is](https://open.spotify.com/album/35RGKZ9l3Bumsz7V0jmRtr) | 2:45 |
 | 69 | [L'empire](https://open.spotify.com/track/5UOTnqeoCkIVBAo8jxOkma) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [L'empire](https://open.spotify.com/album/5CqBu7hPa9060XL0rGgG2X) | 3:25 |

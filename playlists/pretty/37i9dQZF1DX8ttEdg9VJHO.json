@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 367566,
+  "num_followers": 367571,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-10-01 22:01:07",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
-    },
-    {
-      "added_at": "2026-10-01 22:01:07",
-      "album": {
         "name": "Thank You (Deluxe Version)",
         "url": "https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 213506,
       "name": "NO",
       "url": "https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc"
+    },
+    {
+      "added_at": "2026-10-01 22:01:07",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-10-01 22:01:07",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-10-01 22:01:07",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 163472,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
-    },
-    {
-      "added_at": "2026-10-01 22:01:07",
-      "album": {
         "name": "WHY DON'T YOU STAY",
         "url": "https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 141204,
       "name": "WHY DON'T YOU STAY",
       "url": "https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z"
+    },
+    {
+      "added_at": "2026-10-01 22:01:07",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
     },
     {
       "added_at": "2026-10-01 22:01:07",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-10-01 22:01:07",
       "album": {
-        "name": "breaking news",
-        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 161075,
-      "name": "breaking news",
-      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
     },
     {
       "added_at": "2026-10-01 22:01:07",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-10-01 22:01:07",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
+        "name": "breaking news",
+        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 198221,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
+      "duration_ms": 161075,
+      "name": "breaking news",
+      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
       "added_at": "2026-10-01 22:01:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,802 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,801 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 48 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
 | 49 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
 | 50 | [Boom!](https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Boom!](https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC) | 3:02 |
-| 51 | [O Começo, o Fim e o Meio](https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [O Começo, o Fim e o Meio](https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ) | 4:07 |
-| 52 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
+| 51 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
+| 52 | [O Começo, o Fim e o Meio](https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [O Começo, o Fim e o Meio](https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ) | 4:07 |
 | 53 | [Leva\-Me Além \(One ao Vivo\)](https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw), [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Leva\-Me Além \(One ao Vivo\)](https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L) | 3:00 |
 | 54 | [Quebre as Correntes](https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Quebre as Correntes](https://open.spotify.com/album/1fto84wZULJvDxB44FccKm) | 4:08 |
 | 55 | [Só na Sua Graça](https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Só na Sua Graça](https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0) | 4:18 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 63 | [Que o Cordeiro Receba \(feat\. Alessandro Vilas Boas\) \- Ao Vivo](https://open.spotify.com/track/5BSwIem2uF7yyKNF8h9n37) | [Flavio Vasques](https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Que o Cordeiro Receba \(feat\. Alessandro Vilas Boas\) \[Ao Vivo\]](https://open.spotify.com/album/3o5ypx5amOeFcUF7F2xsYe) | 9:22 |
 | 64 | [Êxodo \- ao vivo em São Paulo](https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Homem Litúrgico, Ao Vivo](https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5) | 3:54 |
 | 65 | [Eu Tô no Culto \- Ao Vivo](https://open.spotify.com/track/0JEdfnPZka9zL7GRWAzqvK) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Tô no Culto \(Ao Vivo\)](https://open.spotify.com/album/5wX58MxHM3hqNi3iGyFkbO) | 5:17 |
-| 66 | [Sobre as Águas](https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Exílio](https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed) | 4:39 |
-| 67 | [Espelhos Mágicos / Naves Imperiais \- Ao Vivo](https://open.spotify.com/track/6iqjwjQhW9YbfwsTKHX9Iq) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Espelhos Mágicos / Naves Imperiais \(Ao Vivo\)](https://open.spotify.com/album/5Hh5x7bBLA0qbijaTI9Gky) | 4:25 |
+| 66 | [Espelhos Mágicos / Naves Imperiais \- Ao Vivo](https://open.spotify.com/track/6iqjwjQhW9YbfwsTKHX9Iq) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Espelhos Mágicos / Naves Imperiais \(Ao Vivo\)](https://open.spotify.com/album/5Hh5x7bBLA0qbijaTI9Gky) | 4:25 |
+| 67 | [Sobre as Águas](https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Exílio](https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed) | 4:39 |
 | 68 | [Te Seguirei](https://open.spotify.com/track/0szN6cDZWAFBeilX3d06Zj) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/3jsYtCFMSPUFjJ8qoknREt) | 4:50 |
 | 69 | [Fui Encontrado](https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Fui Encontrado](https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu) | 3:13 |
 | 70 | [Eu Quero é Deus / Celebrai a Cristo / Aquele Que Está Feliz \- Ao Vivo](https://open.spotify.com/track/2pUNI9iRqs8ssumEV80N0k) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Eu Quero É Deus / Celebrai a Cristo / Aquele Que Está Feliz \(Ao Vivo\)](https://open.spotify.com/album/27G71rRH7SWUCLz4Kg7Xc0) | 4:43 |

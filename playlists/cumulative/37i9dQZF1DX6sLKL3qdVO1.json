@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow.  ROA y Anuel AA en portada",
+  "description": "Shawty lo que necesitas es darle flow.  Julianno Sosa y Pablo Chill-E en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 122750,
       "name": "3AM",
       "url": "https://open.spotify.com/track/4YP5WAVcTr21Ahrpb57D5l"
@@ -13191,6 +13191,28 @@
     },
     {
       "album": {
+        "name": "MOET",
+        "url": "https://open.spotify.com/album/24pmwuh2osiEFE48U3ueFD"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171016,
+      "name": "MOET",
+      "url": "https://open.spotify.com/track/0nc2ZD3vQqFVz1ERYP4Lfl"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -14036,6 +14058,28 @@
       "duration_ms": 216115,
       "name": "NO QUIERE FLORES (feat. Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/2QgALMalFs4GMsQFqtFPkY"
+    },
+    {
+      "album": {
+        "name": "No Quiere Salir",
+        "url": "https://open.spotify.com/album/2uqpfbEYw8AMnLxGtqMjUg"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Asmed",
+          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "No Quiere Salir",
+      "url": "https://open.spotify.com/track/4D7e8opeFSkFhXQXXZey3a"
     },
     {
       "album": {
@@ -15506,7 +15550,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 208370,
       "name": "Pastillitas De Color",
       "url": "https://open.spotify.com/track/4UuQQZByT87tFl5k7BMBcZ"
@@ -16148,6 +16192,28 @@
       "duration_ms": 158894,
       "name": "Piketona (with Kim Loaiza)",
       "url": "https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7"
+    },
+    {
+      "album": {
+        "name": "pikito pikito",
+        "url": "https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180259,
+      "name": "pikito pikito",
+      "url": "https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3"
     },
     {
       "album": {
@@ -18876,7 +18942,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 218633,
       "name": "Sexxo",
       "url": "https://open.spotify.com/track/3oqIWPMwGYRaQDowdVcjR8"

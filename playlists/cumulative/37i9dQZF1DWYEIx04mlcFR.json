@@ -3549,6 +3549,28 @@
     },
     {
       "album": {
+        "name": "Cuando La Besas",
+        "url": "https://open.spotify.com/album/4aRG8e7FvSWelTvmE7I3Gq"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Cuando La Besas",
+      "url": "https://open.spotify.com/track/3qQmHrQQlAXd9UqqOfH09R"
+    },
+    {
+      "album": {
         "name": "Cuando Me Vaya",
         "url": "https://open.spotify.com/album/1PbqKAwMUiyQ4rJjTo4Kb2"
       },
@@ -3596,7 +3618,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 138485,
       "name": "CUANTAS VECES",
       "url": "https://open.spotify.com/track/4riLOnDVSgH1Dy4LqqVKxQ"
@@ -4718,6 +4740,32 @@
       "duration_ms": 168642,
       "name": "Dueles Tan Bien (Donovan's Playground Remix)",
       "url": "https://open.spotify.com/track/62MO58gO3RjXkydHvn8UnS"
+    },
+    {
+      "album": {
+        "name": "Dumb Boy (ojo de loca)",
+        "url": "https://open.spotify.com/album/4ABG1RkhspmJGHDPEFSQ4I"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184251,
+      "name": "Dumb Boy (ojo de loca)",
+      "url": "https://open.spotify.com/track/4TKBvVu4tHy7kX9ewht29n"
     },
     {
       "album": {
@@ -10070,7 +10118,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 158000,
       "name": "Mu\u00f1eco de alambre",
       "url": "https://open.spotify.com/track/3RgxAfdUDE9wgYguGOga0P"

@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Lennon Stella",
-  "num_followers": 2761,
+  "num_followers": 2766,
   "original_name": "Editors' Picks: Best Canadian Songs of September",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Everything's the same",
-        "url": "https://open.spotify.com/album/0c3fqqv3MGSb0vN8ckYHp0"
+        "name": "Drink Things Through",
+        "url": "https://open.spotify.com/album/5c99X6OCf482Ltytfiz6tj"
       },
       "artists": [
         {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 172363,
-      "name": "Everything's the same",
-      "url": "https://open.spotify.com/track/0JR7Pjg8QzNbZ4b4FEYxtX"
+      "duration_ms": 193242,
+      "name": "Drink Things Through",
+      "url": "https://open.spotify.com/track/12GA1vVDSCMEZ1MmpeeMeu"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -179,18 +179,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Drink Things Through",
-        "url": "https://open.spotify.com/album/5c99X6OCf482Ltytfiz6tj"
+        "name": "Everything's the same",
+        "url": "https://open.spotify.com/album/0c3fqqv3MGSb0vN8ckYHp0"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
         }
       ],
-      "duration_ms": 193242,
-      "name": "Drink Things Through",
-      "url": "https://open.spotify.com/track/12GA1vVDSCMEZ1MmpeeMeu"
+      "duration_ms": 172363,
+      "name": "Everything's the same",
+      "url": "https://open.spotify.com/track/0JR7Pjg8QzNbZ4b4FEYxtX"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -251,18 +251,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Sad Porn",
-        "url": "https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P"
+        "name": "Why Why",
+        "url": "https://open.spotify.com/album/2oTmIJ3msSnvWWWwAqOvb5"
       },
       "artists": [
         {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 192174,
-      "name": "Sad Porn",
-      "url": "https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX"
+      "duration_ms": 185332,
+      "name": "Why Why",
+      "url": "https://open.spotify.com/track/7JuZuYCMq9RK4LgnJ3xnJS"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
+        "name": "Sad Porn",
+        "url": "https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 192174,
+      "name": "Sad Porn",
+      "url": "https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
         "name": "Day and Night",
         "url": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 194444,
       "name": "Versailles",
       "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
-        "name": "Why Why",
-        "url": "https://open.spotify.com/album/2oTmIJ3msSnvWWWwAqOvb5"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 185332,
-      "name": "Why Why",
-      "url": "https://open.spotify.com/track/7JuZuYCMq9RK4LgnJ3xnJS"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 162911,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
         "name": "Wilson Silverstar 402 Blues",
         "url": "https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC"
+        "name": "Just Us In The Room",
+        "url": "https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT"
       },
       "artists": [
         {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
         }
       ],
-      "duration_ms": 162911,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
+      "duration_ms": 168046,
+      "name": "Just Us In The Room",
+      "url": "https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -403,38 +419,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Cry When I'm Alone",
-        "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 167226,
-      "name": "Cry When I'm Alone",
-      "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
-        "name": "Just Us In The Room",
-        "url": "https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 168046,
-      "name": "Just Us In The Room",
-      "url": "https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "How Do You Like Me Now",
         "url": "https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 146000,
       "name": "How Do You Like Me Now",
       "url": "https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Cry When I'm Alone",
+        "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 167226,
+      "name": "Cry When I'm Alone",
+      "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "SIRENS",
-        "url": "https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm"
-      },
-      "artists": [
-        {
-          "name": "OAKK",
-          "url": "https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "SIRENS",
-      "url": "https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "ON THE SCHEDULE",
         "url": "https://open.spotify.com/album/7vHO368QppzJL9g1jnozna"
       },
@@ -531,6 +515,38 @@
       "duration_ms": 196566,
       "name": "ON THE SCHEDULE",
       "url": "https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "SIRENS",
+        "url": "https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm"
+      },
+      "artists": [
+        {
+          "name": "OAKK",
+          "url": "https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "SIRENS",
+      "url": "https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -555,22 +571,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1"
-      },
-      "artists": [
-        {
-          "name": "CARV",
-          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Wondering Why",
-      "url": "https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
       },
@@ -583,38 +583,6 @@
       "duration_ms": 198549,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
-        "name": "ON THE ROCKS",
-        "url": "https://open.spotify.com/album/6ZeIAeFaKbRrtTCVSusibO"
-      },
-      "artists": [
-        {
-          "name": "RUSSELL!",
-          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "ON THE ROCKS",
-      "url": "https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
-        "name": "cool",
-        "url": "https://open.spotify.com/album/6NdrJfXmCBgolsEN8KzNdf"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "cool",
-      "url": "https://open.spotify.com/track/2JcMAbURj7oQ9krdqPMW3z"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -635,6 +603,38 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/6NdrJfXmCBgolsEN8KzNdf"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/2JcMAbURj7oQ9krdqPMW3z"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "ON THE ROCKS",
+        "url": "https://open.spotify.com/album/6ZeIAeFaKbRrtTCVSusibO"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "ON THE ROCKS",
+      "url": "https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
         "name": "Girls Like Us",
         "url": "https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Hurt You",
-        "url": "https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "duration_ms": 214336,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Touch Down",
         "url": "https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 133369,
       "name": "Touch Down",
       "url": "https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 214336,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "J'en sais rien",
-        "url": "https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "J'en sais rien",
-      "url": "https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "I Want It Easy",
         "url": "https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 241159,
       "name": "I Want It Easy",
       "url": "https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "J'en sais rien",
+        "url": "https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "J'en sais rien",
+      "url": "https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp"
     },
     {
       "added_at": "2026-10-01 04:01:04",

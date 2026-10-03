@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 66883,
+  "num_followers": 66887,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Duo Cejas Solis",
-          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
-        }
-      ],
-      "duration_ms": 99333,
-      "name": "Laguna Totora",
-      "url": "https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Yo Te Entiendo Mejor",
         "url": "https://open.spotify.com/album/5Vx6x2f68bw9T1xqrgM7RG"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 184521,
       "name": "Yo Te Entiendo Mejor",
       "url": "https://open.spotify.com/track/1auj5iyTVPB4xyln9rTp6M"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+        }
+      ],
+      "duration_ms": 99333,
+      "name": "Laguna Totora",
+      "url": "https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 146600,
-      "name": "Mi \u00daltima Flor",
-      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Colgando en tus Manos",
         "url": "https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 204360,
       "name": "Colgando en tus Manos",
       "url": "https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Mi \u00daltima Flor",
+      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Taipero Poriahu",
-        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
-      },
-      "artists": [
-        {
-          "name": "Antonio Tarrag\u00f3 Ros",
-          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Taipero Poriahu",
-      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Las Nuevas Estrellas del Chamam\u00e9",
         "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 167592,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Taipero Poriahu",
+        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Taipero Poriahu",
+      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -743,6 +743,22 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
+      },
+      "artists": [
+        {
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
+        }
+      ],
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -775,22 +791,6 @@
       "duration_ms": 142320,
       "name": "Sargento Sapo",
       "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
-        "name": "Con Estilo Mbaret\u00e9",
-        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
-      },
-      "artists": [
-        {
-          "name": "Los Criollitos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
-        }
-      ],
-      "duration_ms": 474053,
-      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
-      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "El Legado Continua",
-        "url": "https://open.spotify.com/album/4UYhTHjigibnhwwVJVRf2h"
-      },
-      "artists": [
-        {
-          "name": "Los Majestuosos Del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
-        }
-      ],
-      "duration_ms": 183159,
-      "name": "La yerra",
-      "url": "https://open.spotify.com/track/50J0SkPv1fmGKhdgei7083"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "El Legado Continua",
+        "url": "https://open.spotify.com/album/4UYhTHjigibnhwwVJVRf2h"
+      },
+      "artists": [
+        {
+          "name": "Los Majestuosos Del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
+        }
+      ],
+      "duration_ms": 183159,
+      "name": "La yerra",
+      "url": "https://open.spotify.com/track/50J0SkPv1fmGKhdgei7083"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Mario Mill\u00e1n Medina",
-          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Mi ponchillo colorado",
-      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "21 Grandes Exitos",
         "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 206573,
       "name": "Al Gaucho Gil",
       "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Mill\u00e1n Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1412,13 +1412,13 @@
       },
       "artists": [
         {
-          "name": "Juancito el Peregrino",
-          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Temple guarani",
-      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
+      "duration_ms": 139586,
+      "name": "Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1428,13 +1428,13 @@
       },
       "artists": [
         {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+          "name": "Juancito el Peregrino",
+          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
         }
       ],
-      "duration_ms": 139586,
-      "name": "Compa\u00f1era",
-      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
+      "duration_ms": 148733,
+      "name": "Temple guarani",
+      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Los hermanos Cena",
-          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
-        }
-      ],
-      "duration_ms": 110706,
-      "name": "Camino a las cuchillas",
-      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Por Siempre Chamam\u00e9",
         "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
       },
@@ -1508,13 +1492,13 @@
       },
       "artists": [
         {
-          "name": "Palomita y Teresita base",
-          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+          "name": "Los hermanos Cena",
+          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
         }
       ],
-      "duration_ms": 110253,
-      "name": "Adios palomita ingrata",
-      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
+      "duration_ms": 110706,
+      "name": "Camino a las cuchillas",
+      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1531,6 +1515,22 @@
       "duration_ms": 134240,
       "name": "La dama misteriosa",
       "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Palomita y Teresita base",
+          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+        }
+      ],
+      "duration_ms": 110253,
+      "name": "Adios palomita ingrata",
+      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

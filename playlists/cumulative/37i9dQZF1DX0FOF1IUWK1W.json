@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Z\u00e9 Neto & Cristiano e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Netto Brito, Luan Pereira e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 147456,
       "name": "Champanhe - Ao Vivo",
       "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
@@ -9451,6 +9451,48 @@
     },
     {
       "album": {
+        "name": "Menor Neurose",
+        "url": "https://open.spotify.com/album/10ufD0gNklYmWpT9vZO25U"
+      },
+      "artists": [
+        {
+          "name": "DJ Gu",
+          "url": "https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        },
+        {
+          "name": "Mc Dkziin",
+          "url": "https://open.spotify.com/artist/06CW6ZcdRZc14gC6wr3bt6"
+        },
+        {
+          "name": "MC Jottak",
+          "url": "https://open.spotify.com/artist/2XCQiXMMDmHe3sPx50q4NY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324923,
+      "name": "Menor Neurose",
+      "url": "https://open.spotify.com/track/1UD90xfJvPlRe4mRryjQCc"
+    },
+    {
+      "album": {
         "name": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
         "url": "https://open.spotify.com/album/0w8Phtwh4NyFUApTSAQQDL"
       },
@@ -9592,6 +9634,40 @@
       "duration_ms": 173206,
       "name": "Mentira Estampada",
       "url": "https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p"
+    },
+    {
+      "album": {
+        "name": "Mentira ou Verdade",
+        "url": "https://open.spotify.com/album/1GMrZpzfl1pReQkPYPuNX1"
+      },
+      "artists": [
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "$CAM",
+          "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        },
+        {
+          "name": "Ian Durso",
+          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103759,
+      "name": "Mentira ou Verdade",
+      "url": "https://open.spotify.com/track/71LFe32b7ne58NiL1jvwmp"
     },
     {
       "album": {
@@ -14406,7 +14482,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 151596,
       "name": "Sal Grosso",
       "url": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL"
@@ -14722,7 +14798,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 197533,
       "name": "Se Saudade Sentir (Se Prepara 3)",
       "url": "https://open.spotify.com/track/3lJMJl6alsAqw5OiXOOdVi"
@@ -16660,6 +16736,28 @@
       "duration_ms": 202678,
       "name": "Torre Eiffel - Ao Vivo",
       "url": "https://open.spotify.com/track/54UGdW621lBINbfMWJmmSO"
+    },
+    {
+      "album": {
+        "name": "Traidor",
+        "url": "https://open.spotify.com/album/5S4YtBmGC3LGBIYKMZJCEN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        },
+        {
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199387,
+      "name": "Traidor",
+      "url": "https://open.spotify.com/track/6gjqPHut0PC4OS2VJWgDtB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating Tems' debut " For Broken Ears"
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,627 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,696 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 13 | [Sor Mi Mu](https://open.spotify.com/track/0AzAaHxrFAP9x0LXWDDfkp) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Sor Mi Mu](https://open.spotify.com/album/6NPRJryzky3jIts1OXxtpK) | 3:21 |
 | 14 | [Damn](https://open.spotify.com/track/3gWJLrgLgZfsel2ls9Dc90) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/3wzSqNDc2jNNV42XLkkDMA) | 2:39 |
 | 15 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
-| 16 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
+| 16 | [Bounce](https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bounce](https://open.spotify.com/album/06BuTuvcjHPGvonxRap8AN) | 3:07 |
 | 17 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 |
-| 18 | [Bounce](https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bounce](https://open.spotify.com/album/06BuTuvcjHPGvonxRap8AN) | 3:07 |
+| 18 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
 | 19 | [Bad Influence](https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy) | 2:18 |
 | 20 | [The Key](https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:46 |
 | 21 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 |

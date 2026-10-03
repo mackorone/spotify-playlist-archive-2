@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-205 songs - 10 hr 2 min
+207 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Anyone's Guess](https://open.spotify.com/track/45zyM4NTpaYTp58OJzmaMI) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Anyone's Guess](https://open.spotify.com/album/4EZSr1NCFEc4yzD2NlPTZa) | 3:54 | 2026-02-01 |  |
 | [Apologies](https://open.spotify.com/track/7KvJup9EIS0K5Tsunt2p4r) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [PARTYLAND](https://open.spotify.com/album/1Fj0KeuWt1GTTMDm6ZtmBY) | 2:21 | 2025-04-18 | 2025-04-26 |
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2023-08-07 |  |
-| [are they disappointed?](https://open.spotify.com/track/5aZ0QKnfS383m0HknaKSX3) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [I’ll Cry Tomorrow](https://open.spotify.com/album/0Tz4WhNCTBiDB0zPnrCkFe) | 1:48 | 2026-07-24 |  |
+| [are they disappointed?](https://open.spotify.com/track/5aZ0QKnfS383m0HknaKSX3) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [I’ll Cry Tomorrow](https://open.spotify.com/album/0Tz4WhNCTBiDB0zPnrCkFe) | 1:48 | 2026-07-24 | 2026-10-03 |
 | [Away you bleed](https://open.spotify.com/track/4FHp3T2CC92SV7JFLE8Q5j) | [Sway Burr](https://open.spotify.com/artist/57bMN7QDsEnxCtPXDo56Ok), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Away you bleed](https://open.spotify.com/album/7L34snu4jsWI5A5el0o27Z) | 2:00 | 2025-07-04 | 2025-08-02 |
 | [backwoods](https://open.spotify.com/track/3LXtxniYptzZC88Jh21KYi) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [backwoods](https://open.spotify.com/album/5G6TgTgH6PF7grNV2mcmwn) | 4:07 | 2024-03-29 |  |
 | [bad vibes forever \(feat\. PnB Rock & Trippie Redd\)](https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:30 | 2024-02-23 |  |
@@ -44,6 +44,7 @@
 | [Chosen 1](https://open.spotify.com/track/40QrLHWdsxyXLAdjJG4Rxs) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 2:07 | 2023-08-07 |  |
 | [Close Friends \(Lil Baby & Gunna\)](https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:23 | 2023-08-18 |  |
 | [Codeine Crazy](https://open.spotify.com/track/0joQFwiBKmi6X1Iq5R1ubH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:46 | 2024-02-23 |  |
+| [Come Back To Me](https://open.spotify.com/track/0hi1Ih9flyXlfBxv9fwtSq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Come Back To Me](https://open.spotify.com/album/3NwVixCirzTrl8ovF5zSxZ) | 3:06 | 2026-10-02 |  |
 | [Confessions](https://open.spotify.com/track/0t5Jg0F8pp7r5TUy6KW6Aa) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Confessions](https://open.spotify.com/album/3x269q50OnduXRbyEHPxU5) | 2:33 | 2026-01-16 |  |
 | [control](https://open.spotify.com/track/08Dzq5yOCVQzGcsGp5egm5) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [all my bad feelings](https://open.spotify.com/album/2bEwaSsN7sejL5mHncKsBH) | 3:15 | 2024-02-23 |  |
 | [Cruel](https://open.spotify.com/track/4vMaUYpkdmOKPzqLnQsBx6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [PISCES](https://open.spotify.com/album/7nktQKQFOMkh40iOTOzzBS) | 3:00 | 2025-04-25 | 2025-05-10 |
@@ -104,6 +105,7 @@
 | [I](https://open.spotify.com/track/4ZT9FnbFu1PaBfV3itxiqT) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Shelby](https://open.spotify.com/album/47FalEKu0of8GExDtZBkxT) | 3:01 | 2024-02-23 |  |
 | [I can't navigate without you](https://open.spotify.com/track/2wVjVDuoWd4Xuda5TUE7jN) | [The Lofi Library Club](https://open.spotify.com/artist/6UTvHt9BMpap2a9g5A6QQM), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [I can't navigate without you](https://open.spotify.com/album/1iAD69HBtxscuwNMBpoXmH) | 3:05 | 2026-04-10 |  |
 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 | 2023-08-07 |  |
+| [I Hope You're Happy](https://open.spotify.com/track/6UBPNTJH3lUsY9vdCkdzVm) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I Hope You're Happy](https://open.spotify.com/album/2dbsE63trsie76oI8TD1WE) | 2:53 | 2026-10-02 |  |
 | [i won't live forever](https://open.spotify.com/track/7BOTAsFUDxqriXuhoddUm7) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [i won't live forever](https://open.spotify.com/album/031A1BdfESmR6Yimo5YwOt) | 1:40 | 2025-11-14 |  |
 | [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 4:05 | 2024-02-23 |  |
 | [If You Want Love](https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:19 | 2024-02-23 | 2026-01-15 |
@@ -188,7 +190,7 @@
 | [Taking A Walk](https://open.spotify.com/track/4mHgYpuGHu99Mw69E83CP2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk) | 2:01 | 2023-08-07 |  |
 | [Taking A Walk](https://open.spotify.com/track/6vSRW8utiYAdoCfJG2v86r) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 2:01 | 2023-08-18 | 2024-04-11 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-08-07 | 2024-04-19 |
-| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-02-23 |  |
+| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-02-23 | 2026-10-03 |
 | [The Way Life Goes \(feat\. Oh Wonder\)](https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:41 | 2023-08-07 |  |
 | [Therapy](https://open.spotify.com/track/0XABI8auwTM81wyVovqNBK) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Therapy](https://open.spotify.com/album/2F9CbCdyMJ7vjEJyXtxi1z) | 2:56 | 2024-12-13 | 2026-02-07 |
 | [They Ain't You](https://open.spotify.com/track/3tfxO1TvXXQ7HymM15lGt1) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Heart Full of Rage](https://open.spotify.com/album/37m9KwQ4yNWbsThepwDvAK) | 2:47 | 2024-02-23 |  |

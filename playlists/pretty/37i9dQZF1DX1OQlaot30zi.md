@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Geolier, Tony Boy, Rkomi con Khodi, Battista, Westcross, Salmo, Fresh Mula e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,208 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,225 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 53 | [BRUCIARE IL MONDO](https://open.spotify.com/track/6E1STxyFTLABAnoPQYdTI2) | [Giovane Drago](https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg) | [BRUCIARE IL MONDO](https://open.spotify.com/album/4vf22vIkdyt50dVn9pVsmK) | 2:13 |
 | 54 | [per te io sarò vivido](https://open.spotify.com/track/0tkvYxbjH4pQdcbXTECef9) | [10k watt](https://open.spotify.com/artist/5lyfVXXAUVOAf9rBhMwxZw) | [per te io sarò vivido](https://open.spotify.com/album/4cptUKZ4zzuWeQ0tQpGaj1) | 2:17 |
 | 55 | [NINNA NANNA](https://open.spotify.com/track/524O7G4Gess1VTQo5FzJr2) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI) | [NINNA NANNA](https://open.spotify.com/album/6kqbg7t9sSjxgyjYI1FYFX) | 2:21 |
-| 56 | [PERSONE SOLE](https://open.spotify.com/track/5wzKc5YbzkTiA03EA8iE93) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [lowlow](https://open.spotify.com/artist/5tBnK7LvBMgvkXuePtfywp) | [PERSONE SOLE](https://open.spotify.com/album/6rfzwOKsT05Jw90tCtcw9E) | 3:11 |
+| 56 | [PERSONE SOLE \- feat\. lowlow](https://open.spotify.com/track/5wzKc5YbzkTiA03EA8iE93) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [lowlow](https://open.spotify.com/artist/5tBnK7LvBMgvkXuePtfywp) | [PERSONE SOLE \(feat\. lowlow\)](https://open.spotify.com/album/6rfzwOKsT05Jw90tCtcw9E) | 3:11 |
 | 57 | [TI RICORDI](https://open.spotify.com/track/5L4sZUVdzypmbD1NhFK3mh) | [Aske](https://open.spotify.com/artist/4iE1YKxP7jqkyNRQN98dVo), [Dr\. Cream](https://open.spotify.com/artist/1Infwqx3BhCS1iVbJxWdKw) | [TI RICORDI](https://open.spotify.com/album/7cXVsjHvgWqXeHFS6VsEV4) | 3:16 |
 | 58 | [FUC\* THE POLICE](https://open.spotify.com/track/65RR3oq77KWpi52OCLrp7X) | [Kevin Mopao](https://open.spotify.com/artist/0zULI7OmUXFUvWHpJ1czrK) | [FUC\* THE POLICE](https://open.spotify.com/album/6xuVRudhbxiUBfj1uHRPEI) | 2:45 |
 | 59 | [FIORITI MALE](https://open.spotify.com/track/1AJsOdzEwVa5KYKhVY0bjd) | [Zizzu](https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v) | [FIORITI MALE](https://open.spotify.com/album/1ACkx2Afdll3pDL5ESuR2G) | 2:58 |

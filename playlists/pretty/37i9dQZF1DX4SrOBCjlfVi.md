@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, Drake, Yung Miami and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,158 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,354 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 18 | [Leaning](https://open.spotify.com/track/1FXpFpqem5hUWui83BqZCy) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Leaning](https://open.spotify.com/album/4Zn4El33ukaLhtB2rPhJpI) | 2:05 |
 | 19 | [Spoke To A Devil](https://open.spotify.com/track/5X9fIhBKirJcL6jMQF8jfZ) | [AZIEDOESNTEXIST](https://open.spotify.com/artist/13BgU01okousPOFvmiwecU) | [Spoke To A Devil](https://open.spotify.com/album/0W89yR33MT5LBRHugZ2Lty) | 1:41 |
 | 20 | [Walls Closin Inn](https://open.spotify.com/track/73eUpI2ybYFhfAy9zVtsgW) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Walls Closin Inn](https://open.spotify.com/album/0Fqb14D6NeRDaWJvgAdQq8) | 1:58 |
-| 21 | [Body](https://open.spotify.com/track/6Rk1jPjhqQRTlNcszPYk0A) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl) | [Body](https://open.spotify.com/album/1SIi90GYB9w3QwHkKY4jgJ) | 2:37 |
+| 21 | [BODY](https://open.spotify.com/track/6Rk1jPjhqQRTlNcszPYk0A) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl) | [BODY](https://open.spotify.com/album/1SIi90GYB9w3QwHkKY4jgJ) | 2:37 |
 | 22 | [GOT D 4 YA](https://open.spotify.com/track/59TeuRvpYgt6Wrk4K9yEi7) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [GOT D 4 YA](https://open.spotify.com/album/3qzYBH8lWCc6orKx4mzlBm) | 2:15 |
 | 23 | [Turnin Your Back](https://open.spotify.com/track/6kffIE2gTlXcZbnFCuCVSH) | [Melly Mike](https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M) | [Turnin Your Back](https://open.spotify.com/album/1C6PBIrExmGF35eFCdAeEY) | 1:51 |
-| 24 | [5 Minutes](https://open.spotify.com/track/2Rv1QFh2n63joUl4MXM1QH) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [44 Mike Deezy](https://open.spotify.com/artist/3vdNjxIPV7xFfVvscKhOuG), [Montana of 700](https://open.spotify.com/artist/5i7XvO3v9J6LtbYbzzk8D9), [Uno Loso](https://open.spotify.com/artist/4vk67PcuAjDbjetzq8jnuR) | [5 Minutes](https://open.spotify.com/album/2FmJip4CUsGktMebQ1zOcB) | 3:39 |
+| 24 | [5 Minutes](https://open.spotify.com/track/2Rv1QFh2n63joUl4MXM1QH) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [44 Mike Deezy](https://open.spotify.com/artist/3vdNjxIPV7xFfVvscKhOuG), [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw), [Uno Loso](https://open.spotify.com/artist/4vk67PcuAjDbjetzq8jnuR) | [5 Minutes](https://open.spotify.com/album/2FmJip4CUsGktMebQ1zOcB) | 3:39 |
 | 25 | [Slow Drip](https://open.spotify.com/track/7tSlAxCvsR8yuIOMW6IsFY) | [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Slow Drip](https://open.spotify.com/album/4nOwInAmSTld5LX8AsM1ZA) | 3:46 |
 | 26 | [SHAKE BACK](https://open.spotify.com/track/3d3V5bGLvEzf7HbvZVzCpr) | [Sadity Rackz](https://open.spotify.com/artist/4PptwjJL0HT6APn0kOptK3), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [SHAKE BACK](https://open.spotify.com/album/5mqgeZ3UYapqsxIDaIeDZ4) | 2:12 |
 | 27 | [Earn Ya Rank \- Remix](https://open.spotify.com/track/4zTnfYNLBdrazWNiPNzaLH) | [Spazz Vet](https://open.spotify.com/artist/2Zdj2daLM2RL7VJtg9tBsf), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [Surf7](https://open.spotify.com/artist/1GqOAHeo3iMrmaisKTANNj) | [Earn Ya Rank \(Remix\)](https://open.spotify.com/album/3Z40sPGGWxZNj5pNOqDkTn) | 3:03 |

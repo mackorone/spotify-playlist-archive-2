@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "100% ska en espa\u00f1ol. La Tremenda Korte en portada.",
+  "description": "100% ska en espa\u00f1ol. Los Estramb\u00f3ticos en portada.",
   "name": "Ska Latino ",
   "tracks": [
     {
@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Botella de Merlot",
+        "url": "https://open.spotify.com/album/1GvebAPY5P5xGfZKuhyo7t"
+      },
+      "artists": [
+        {
+          "name": "Itaca Band",
+          "url": "https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160836,
+      "name": "Botella de Merlot",
+      "url": "https://open.spotify.com/track/0MhyN8pMl3iHkU8snasiLl"
+    },
+    {
+      "album": {
         "name": "Inspecci\u00f3n Retroac\u00fastica",
         "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 194315,
       "name": "Combativo",
       "url": "https://open.spotify.com/track/4M35ty1GY7heFrHhgMqXzP"
@@ -1785,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "Dulces Mentiras",
+        "url": "https://open.spotify.com/album/7jRUAaBU9KoMPQ0qnIoIBG"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "Nelly Burguette",
+          "url": "https://open.spotify.com/artist/3VkoLSdf5ug53oZQwVYbBg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206790,
+      "name": "Dulces Mentiras",
+      "url": "https://open.spotify.com/track/1p1Qi5hQvKO6x3acZmO0JP"
+    },
+    {
+      "album": {
         "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
         "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
@@ -1825,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/1jpC73VTuuzGQoZtKLq2Ep"
+      },
+      "artists": [
+        {
+          "name": "RU-2",
+          "url": "https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "El Camino de la Verdad",
+      "url": "https://open.spotify.com/track/463wt19fJK6tFKV2MSilzX"
+    },
+    {
+      "album": {
         "name": "El Camino de la Verdad",
         "url": "https://open.spotify.com/album/6vtxPKIwa2Lqk4Wenh4OWU"
       },
@@ -1858,6 +1916,24 @@
       "duration_ms": 198823,
       "name": "El Color de tus Ojos",
       "url": "https://open.spotify.com/track/6Cx6IG27uQ0pb4HryzN3VV"
+    },
+    {
+      "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/3X48oyGndz1LUh9Usk0okO"
+      },
+      "artists": [
+        {
+          "name": "EXILIOS",
+          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212627,
+      "name": "El Concierto",
+      "url": "https://open.spotify.com/track/5yyzzNNnJCTH8LpjHllzFA"
     },
     {
       "album": {
@@ -2208,7 +2284,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
@@ -4782,7 +4858,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192949,
       "name": "No Eres Para Mi",
       "url": "https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa"
@@ -5820,7 +5896,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 151500,
       "name": "Que Se Joda el Amor",
       "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
@@ -6787,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "Ska Fever",
+        "url": "https://open.spotify.com/album/3pOcX9XW8dlE4AZmeQV6yB"
+      },
+      "artists": [
+        {
+          "name": "Salvar Do\u00f1ana",
+          "url": "https://open.spotify.com/artist/526ywrSIP4dMcygQven5RL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154354,
+      "name": "Ska Fever",
+      "url": "https://open.spotify.com/track/2p7Lllw7r8Dq8XxPMA4m70"
+    },
+    {
+      "album": {
         "name": "Bailando Sobre las Ruinas",
         "url": "https://open.spotify.com/album/3EsVEnV2QwDau8JowS2kPh"
       },
@@ -6992,6 +7086,24 @@
       "duration_ms": 250066,
       "name": "Sol de Medianoche",
       "url": "https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB"
+    },
+    {
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS"
+      },
+      "artists": [
+        {
+          "name": "Matamoska!",
+          "url": "https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY"
     },
     {
       "album": {
@@ -7732,7 +7844,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 175434,
       "name": "Todo Crazy",
       "url": "https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw"
@@ -8720,7 +8832,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192262,
       "name": "\u00a1Hey T\u00fa!",
       "url": "https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba"

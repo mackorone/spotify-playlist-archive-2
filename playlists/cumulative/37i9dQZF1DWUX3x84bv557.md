@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Suzan & Freek
 
-1,470 songs - 2 day 22 hr 10 min
+1,472 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Figurant](https://open.spotify.com/track/2YZ5fbsAwWSNCBaAYywtmG) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Figurant](https://open.spotify.com/album/3NgiDitJqtdn0oBiTV1dKB) | 2:56 | 2024-11-14 | 2025-01-31 |
 | [Fijn Om Hier Te Zijn](https://open.spotify.com/track/5ikNvI5hBCQOxW0Y5H4yHs) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Fijn Om Hier Te Zijn](https://open.spotify.com/album/1mrl4a8GSm6T60yWt5GV0e) | 3:04 | 2023-08-31 | 2023-10-06 |
 | [Fikkie](https://open.spotify.com/track/0lLdt9dyVwcLlxr9eSEnrg) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Fikkie](https://open.spotify.com/album/1b143sQ0p9yvz31lZe0KwZ) | 2:47 | 2025-02-27 | 2025-03-28 |
+| [File Lied](https://open.spotify.com/track/1Pzpr4nl7apUt2pXMSQr3E) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Niets Doen](https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S) | 3:03 | 2026-10-02 |  |
 | [FIX](https://open.spotify.com/track/1ziebtAwv4jhMWQ3nQcmEh) | [MITS Mitchell](https://open.spotify.com/artist/7I3OymbsF2iClalnkUwPYi) | [FIX](https://open.spotify.com/album/6dIe07FUPAEGdkRZolvGWY) | 2:52 | 2023-08-10 | 2023-09-01 |
 | [Flirt](https://open.spotify.com/track/5uRhJZJdp4B6uqHlAhMtYn) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Flirt](https://open.spotify.com/album/19YmqAf1IM6MivwpqamrQi) | 2:24 | 2023-02-23 | 2023-03-10 |
 | [Fotoboek](https://open.spotify.com/track/3x8R2uLVCOgB7DgH558G1w) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Fotoboek](https://open.spotify.com/album/2di2M30D0NIAUoJ6CyvpQE) | 3:44 | 2023-02-23 | 2023-05-12 |
@@ -857,7 +858,7 @@
 | [Met de tijd](https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Met de tijd](https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW) | 3:31 | 2026-03-26 | 2026-06-13 |
 | [Met Een Reden](https://open.spotify.com/track/0XbGwHymFSaSSR1YTfMazd) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Met Een Reden](https://open.spotify.com/album/4Vzj0KkxkpkIIeWSkl4tLr) | 2:26 | 2023-02-23 | 2023-03-25 |
 | [Met Jou Kan Ik Het Aan](https://open.spotify.com/track/6Zdqcxtwx0TwkXhs7LwIru) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Met Jou Kan Ik Het Aan](https://open.spotify.com/album/1h0e3xS9fYiZ3v1zx2HLU2) | 4:03 | 2023-02-23 | 2023-03-18 |
-| [Met Mij Zijn](https://open.spotify.com/track/1EOSFJC2w4LvFaInJr9G4T) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Met Mij Zijn](https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt) | 2:33 | 2026-07-09 |  |
+| [Met Mij Zijn](https://open.spotify.com/track/1EOSFJC2w4LvFaInJr9G4T) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Met Mij Zijn](https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt) | 2:33 | 2026-07-09 | 2026-10-03 |
 | [Met Of Zonder Jou](https://open.spotify.com/track/3xRjrioxJQIjfJmGYxtyKR) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Met Of Zonder Jou](https://open.spotify.com/album/6z9xi38DbqJntYApAwfhM5) | 2:54 | 2025-06-12 | 2025-10-29 |
 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 | 2025-05-29 | 2025-10-10 |
 | [Meteoriet](https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:47 | 2023-02-23 | 2023-03-18 |
@@ -936,6 +937,7 @@
 | [Niet Nodig](https://open.spotify.com/track/0OVYhtxxWQn2pcs3XR095M) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Niet Nodig](https://open.spotify.com/album/4bo2xHn60vQOvWphKHzt7u) | 2:43 | 2025-12-04 | 2026-03-20 |
 | [Niet Perfect](https://open.spotify.com/track/5r5DltN0XoFobMQaeeenPJ) | [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7), [Obey](https://open.spotify.com/artist/5xQy1PEn9Fqbk29VJQVKjA) | [Niet Perfect](https://open.spotify.com/album/7hgDFCkFzvctUBgqdHmCpL) | 2:37 | 2025-07-17 | 2025-11-07 |
 | [Niet Sneller Als Ik Ren](https://open.spotify.com/track/2ykxJ4mlAvbDkufnTBlxCW) | [Emmy Eve](https://open.spotify.com/artist/0eA3GIgzZiKukkzphXJbu5) | [Niet Sneller Als Ik Ren](https://open.spotify.com/album/3D9B2g7P9EPqcVz1b6PYHT) | 3:15 | 2023-07-13 | 2023-09-01 |
+| [Niets Doen](https://open.spotify.com/track/1mEV7KSc5jqIBjRTXFU5D7) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Niets Doen](https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S) | 3:54 | 2026-10-02 |  |
 | [Niets Is Alleen](https://open.spotify.com/track/538pOIiSvDAARtTnJmyL9H) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Niets Is Alleen](https://open.spotify.com/album/6EZGkBGbz37IvUKcNsufDy) | 2:16 | 2026-08-13 |  |
 | [Niets Is Zeker](https://open.spotify.com/track/3JfXGMY2g9LXv6zne7Ovvs) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Vinden in Dwalen](https://open.spotify.com/album/4NUCTFVHlu6aFPXkFtKSPC) | 2:26 | 2025-07-10 | 2025-08-15 |
 | [Niets Meer](https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Leven In De Leegte](https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe) | 3:31 | 2025-03-13 | 2025-06-20 |

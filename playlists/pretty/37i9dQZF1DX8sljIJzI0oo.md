@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Feid is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and subscribe to our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,903,110 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,903,241 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 30 | [Lady Night](https://open.spotify.com/track/0a1zVbAhcSXby7OoSHJGBo) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [Lady Night](https://open.spotify.com/album/4T3wmpExsKWR36ysYh3hvL) | 3:14 |
 | 31 | [Gati](https://open.spotify.com/track/7nQzmlFBLW64QVoH2QhVs8) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 3:39 |
 | 32 | [Estoy Pa' Ti](https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Estoy Pa' Ti](https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu) | 3:10 |
-| 33 | [glock en el sobaco](https://open.spotify.com/track/1iZbhCq4qFLxXCu61Q3tZP) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN) | [glock en el sobaco](https://open.spotify.com/album/0pTqeUSA2oGBf3dYJrXP5c) | 2:44 |
+| 33 | [glock en el sobaco](https://open.spotify.com/track/1iZbhCq4qFLxXCu61Q3tZP) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN) | [glock en el sobaco](https://open.spotify.com/album/0pTqeUSA2oGBf3dYJrXP5c) | 2:17 |
 | 34 | [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 |
 | 35 | [Cri\-Card](https://open.spotify.com/track/4wtQ8HL2UCfHFYF9DA9874) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [TRAPPii 2](https://open.spotify.com/album/6edg9wy9YoB6Hr27gHmSCQ) | 3:08 |
 | 36 | [DND](https://open.spotify.com/track/5ElxGhNnASWKlD2Kh0Abu8) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DND](https://open.spotify.com/album/3tTtdg5mUvMFUqQbcivNK7) | 1:46 |

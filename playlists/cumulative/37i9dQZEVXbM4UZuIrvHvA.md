@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- UAE.
 
-2,348 songs - 5 day 12 hr 52 min
+2,349 songs - 5 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,7 +794,7 @@
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2021-03-27\* | 2021-08-21 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-28 |
 | [GRAVITY \(FEAT\. TYLER, THE CREATOR\)](https://open.spotify.com/track/3zakx7RAwdkUQlOoQ7SJRt) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:34 | 2022-07-09 | 2022-07-11 |
-| [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-10-01 |  |
+| [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-10-01 | 2026-10-03 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 | 2024-09-07 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-03 | 2024-09-24 |
@@ -1397,6 +1397,7 @@
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-13 | 2024-01-19 |
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-06-07 | 2022-11-22 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-06-08 |
+| [Na Para Bang](https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ) | [Mariah Deborah](https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv) | [Na Para Bang](https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x) | 3:48 | 2026-10-02 |  |
 | [Naa Ready](https://open.spotify.com/track/13ZISM2bmrMBCRlMzl669x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Leo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh) | 4:08 | 2023-10-21 | 2023-10-31 |
 | [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 | 2023-06-24 | 2023-10-22 |
 | [Naal Nachna \(From "Dhurandhar"\)](https://open.spotify.com/track/0KHOIkAcSHTH9S0H0wZV7Q) | [Afsana Khan](https://open.spotify.com/artist/2dCS8oFU3rCWq0AhkZV1Sr), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Naal Nachna \(From "Dhurandhar"\)](https://open.spotify.com/album/70rE3JRdyIo7TmCjSTT15z) | 2:35 | 2026-02-10 | 2026-02-12 |

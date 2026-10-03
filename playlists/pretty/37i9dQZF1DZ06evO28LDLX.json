@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACXAXqNax1PYOC5OPKs3rIL",
+  "snapshot_id": "ar2igAAAAACyNH17RLaO7Lyz7nwSHlh9",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin: Complete Waltzes",
-        "url": "https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 52000,
-      "name": "Waltz in A Minor \"Morgan Library & Museum MS\"",
-      "url": "https://open.spotify.com/track/6ePVmtpGtLvUDGgHptSX8m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stephen Hough's Dream Album: Piano Bonbons",
         "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 199040,
       "name": "By the Sleepy Lagoon",
       "url": "https://open.spotify.com/track/6eS4gKP0uj3oE3DoB26gUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chopin: Complete Waltzes",
+        "url": "https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 52000,
+      "name": "Waltz in A Minor \"Morgan Library & Museum MS\"",
+      "url": "https://open.spotify.com/track/6ePVmtpGtLvUDGgHptSX8m"
     },
     {
       "added_at": null,
@@ -783,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Landscapes\": A Classical Soundtrack",
-        "url": "https://open.spotify.com/album/1LLVYFlUXDBEv1hXdKlwrz"
+        "name": "\"'Beneath the Last September Sun: Classical Works\"",
+        "url": "https://open.spotify.com/album/1GPvgviGJAbtvYocoPjEAp"
       },
       "artists": [
         {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 82381,
-      "name": "Lyric Pieces, Op. 65: From Early Years - Excerpt",
-      "url": "https://open.spotify.com/track/3cfxcwgovcXYyttAJ27OXy"
+      "duration_ms": 77666,
+      "name": "8 Improvisations, FP 63: No. 8 in A Minor",
+      "url": "https://open.spotify.com/track/3VIEYJA0ZPLeXqEKTm842d"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"Landscapes\": A Classical Soundtrack",
+        "url": "https://open.spotify.com/album/1LLVYFlUXDBEv1hXdKlwrz"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 82381,
+      "name": "Lyric Pieces, Op. 65: From Early Years - Excerpt",
+      "url": "https://open.spotify.com/track/3cfxcwgovcXYyttAJ27OXy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\"Classical on Canvas: Bach, Mozart & more\"",
         "url": "https://open.spotify.com/album/33qHHZO9pNtcIErDQ1uzWi"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 96440,
       "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
       "url": "https://open.spotify.com/track/3dfA3Cy8G5nRali9FqoQU9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
-        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 129946,
-      "name": "Solitude, Op. 73 No. 6 (Arr. Hough for Piano)",
-      "url": "https://open.spotify.com/track/6jtmWw9m9AQU8vVQLyycaz"
     },
     {
       "added_at": null,
@@ -995,30 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
-        "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
+        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        },
-        {
-          "name": "Bryden Thomson",
-          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 56933,
-      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
-      "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
+      "duration_ms": 129946,
+      "name": "Solitude, Op. 73 No. 6 (Arr. Hough for Piano)",
+      "url": "https://open.spotify.com/track/6jtmWw9m9AQU8vVQLyycaz"
     },
     {
       "added_at": null,
@@ -1043,22 +1035,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"'Beneath the Last September Sun: Classical Works\"",
-        "url": "https://open.spotify.com/album/1GPvgviGJAbtvYocoPjEAp"
+        "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
+        "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
       },
       "artists": [
         {
-          "name": "Francis Poulenc",
-          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        },
+        {
+          "name": "Bryden Thomson",
+          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 77666,
-      "name": "8 Improvisations, FP 63: No. 8 in A Minor",
-      "url": "https://open.spotify.com/track/3VIEYJA0ZPLeXqEKTm842d"
+      "duration_ms": 56933,
+      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
+      "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
     },
     {
       "added_at": null,

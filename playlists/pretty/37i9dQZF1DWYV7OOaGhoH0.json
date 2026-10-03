@@ -1,13 +1,45 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Humbird",
+  "description": "The best in folk & acoustic today featuring music from Bo Staloch",
   "num_followers": 1682243,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACeA2jnVD1hczo+OcbPlgxna9WzC",
+  "snapshot_id": "AAAAAFGID/fliTmDVLYZ20PknUEigp17",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:02:22",
+      "album": {
+        "name": "Hers",
+        "url": "https://open.spotify.com/album/5iHBBlDTtmCAFrSutAVwY2"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 270220,
+      "name": "Hers",
+      "url": "https://open.spotify.com/track/42leQt2fs7BBNkpntuMkAM"
+    },
+    {
+      "added_at": "2026-10-02 04:02:22",
+      "album": {
+        "name": "Tell Me I'm Beautiful",
+        "url": "https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 215246,
+      "name": "Tell Me I'm Beautiful",
+      "url": "https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi"
+    },
     {
       "added_at": "2026-09-25 04:02:38",
       "album": {
@@ -23,6 +55,26 @@
       "duration_ms": 206600,
       "name": "Moonlight and Tobacco",
       "url": "https://open.spotify.com/track/3VH6jBni83e1mYwRM3RKep"
+    },
+    {
+      "added_at": "2026-10-02 04:02:22",
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "added_at": "2026-09-25 04:02:38",
@@ -41,6 +93,22 @@
       "url": "https://open.spotify.com/track/554YpKFKPvWERNpy1Fn5iz"
     },
     {
+      "added_at": "2026-09-18 04:21:50",
+      "album": {
+        "name": "Pair of Dice",
+        "url": "https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 269833,
+      "name": "Pair of Dice",
+      "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
+    },
+    {
       "added_at": "2026-09-25 04:02:38",
       "album": {
         "name": "If I Had The Hand Of God",
@@ -55,6 +123,22 @@
       "duration_ms": 161816,
       "name": "If I Had The Hand Of God",
       "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "added_at": "2026-10-02 04:02:22",
+      "album": {
+        "name": "Harding Road",
+        "url": "https://open.spotify.com/album/7FhOfp0Qp65jK8AwyG7Q1S"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 231844,
+      "name": "Harding Road",
+      "url": "https://open.spotify.com/track/6STS7ZuuyojKWNqwqlQRfD"
     },
     {
       "added_at": "2026-09-25 04:02:38",
@@ -139,22 +223,6 @@
       "duration_ms": 197013,
       "name": "I Will Eat My Heart in the Morning Light",
       "url": "https://open.spotify.com/track/7ia5upp9rLB4rQEyhAWknc"
-    },
-    {
-      "added_at": "2026-09-18 04:21:50",
-      "album": {
-        "name": "Pair of Dice",
-        "url": "https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 269833,
-      "name": "Pair of Dice",
-      "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
     },
     {
       "added_at": "2026-09-18 04:21:50",

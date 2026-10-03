@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 84989,
+  "num_followers": 85022,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Cumpliendo Sue\u00f1os",
-        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
-      },
-      "artists": [
-        {
-          "name": "Amor Sure\u00f1o",
-          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
-        }
-      ],
-      "duration_ms": 268031,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Ni\u00e9game",
         "url": "https://open.spotify.com/album/15xRNUgyWm1hvDcYGT7mJB"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 163576,
       "name": "Ni\u00e9game",
       "url": "https://open.spotify.com/track/4stFQZDW8THC9osyyTCDwX"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Cumpliendo Sue\u00f1os",
+        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
+      },
+      "artists": [
+        {
+          "name": "Amor Sure\u00f1o",
+          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
+        }
+      ],
+      "duration_ms": 268031,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Bil\u00fa Bil\u00fa",
-        "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Bil\u00fa Bil\u00fa",
-      "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Mataste el Amor",
         "url": "https://open.spotify.com/album/4e5PGukYUPsQ0xyevSv9yN"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 204750,
       "name": "Mataste el Amor",
       "url": "https://open.spotify.com/track/4IdXuWenT9CuwQJZVqH1Uy"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Bil\u00fa Bil\u00fa",
+        "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Bil\u00fa Bil\u00fa",
+      "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "La Carta N\u00b0 3",
-        "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Bustos",
-          "url": "https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "La Carta N\u00b03 - 1986 Digital Remaster",
-      "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "El Intruso",
         "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 205746,
       "name": "El Intruso",
       "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "La Carta N\u00b0 3",
+        "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Bustos",
+          "url": "https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "La Carta N\u00b03 - 1986 Digital Remaster",
+      "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Sin Coronas Ni Reinas",
+      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "A Trav\u00e9s del Vaso (Remix)",
         "url": "https://open.spotify.com/album/34BUoxHKkDIPjrfjJWLS84"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 256874,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/10JXQH7W7OzK5kqeLTnpmV"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Sin Coronas Ni Reinas",
-      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Tornado Ranchero",
         "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 267859,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2026-09-11 21:07:48",

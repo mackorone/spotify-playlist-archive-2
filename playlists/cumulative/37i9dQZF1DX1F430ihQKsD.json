@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "100 % chill, 100 % Montr\u00e9al w/ Robert Robert",
+  "description": "100 % chill, 100 % Montr\u00e9al w/ Joseph Lorange",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -882,7 +882,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 159296,
       "name": "Angeline",
       "url": "https://open.spotify.com/track/6CYSIYse8zoxrO8Wa0H2ya"
@@ -1114,6 +1114,24 @@
       "duration_ms": 185034,
       "name": "Ar\u00e8ne",
       "url": "https://open.spotify.com/track/5AgWg6qG7Q0tEPpoHfyUFJ"
+    },
+    {
+      "album": {
+        "name": "Marathon 2 (Mont-Royal)",
+        "url": "https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384040,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ"
     },
     {
       "album": {
@@ -2717,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Sous-bois",
+        "url": "https://open.spotify.com/album/53kSoH8auDnrL91XJsWXiC"
+      },
+      "artists": [
+        {
+          "name": "Nicolas G\u00e9mus",
+          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242053,
+      "name": "Cendres",
+      "url": "https://open.spotify.com/track/4yLkTYwLbvvqm6p4stPKz1"
+    },
+    {
+      "album": {
         "name": "Central Park La Fontaine",
         "url": "https://open.spotify.com/album/1ivGuq5opyNFHIrm3cv7gl"
       },
@@ -3686,7 +3722,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 118309,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
@@ -11957,6 +11993,24 @@
     },
     {
       "album": {
+        "name": "Si on est la somme des gens qu'on aime",
+        "url": "https://open.spotify.com/album/7sPhstcx803KTkiZ9C1UBY"
+      },
+      "artists": [
+        {
+          "name": "Jonquille",
+          "url": "https://open.spotify.com/artist/6EkhmsOgViVac1WMKcFeoz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202767,
+      "name": "Offrande",
+      "url": "https://open.spotify.com/track/33SSA9jZu45ttDWNEYlyBL"
+    },
+    {
+      "album": {
         "name": "Oh Really? (feat. Kiefer)",
         "url": "https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI"
       },
@@ -14571,6 +14625,24 @@
     },
     {
       "album": {
+        "name": "Fek l\u00e0?",
+        "url": "https://open.spotify.com/album/0heQVzMcGhF9LCWJooKCC7"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lorange",
+          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128333,
+      "name": "R\u00e9ponse",
+      "url": "https://open.spotify.com/track/0ST5Q5Iriex4aM9Xhi3HQm"
+    },
+    {
+      "album": {
         "name": "R\u00eave am\u00e9ricain",
         "url": "https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0"
       },
@@ -15076,7 +15148,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 186571,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/3FR6I74FRcFyT3DQqOzA6a"
@@ -15308,6 +15380,24 @@
       "duration_ms": 142384,
       "name": "Sinc\u00e8re",
       "url": "https://open.spotify.com/track/2l5rVv4dgTK8tMfAmVUAA5"
+    },
+    {
+      "album": {
+        "name": "Sinnatuumakka (Dreams)",
+        "url": "https://open.spotify.com/album/04Rry2QpYeSmdRt50ZIuLX"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Sinnatuumakka (Dreams)",
+      "url": "https://open.spotify.com/track/2bZeUpwhBk8skDqgHMWpqi"
     },
     {
       "album": {
@@ -15824,6 +15914,28 @@
       "duration_ms": 237600,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV"
+    },
+    {
+      "album": {
+        "name": "babysteps",
+        "url": "https://open.spotify.com/album/0OG2X6dxPxfZn1aLV7f4h3"
+      },
+      "artists": [
+        {
+          "name": "em & I",
+          "url": "https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160516,
+      "name": "step one",
+      "url": "https://open.spotify.com/track/6ixO5cBS6SnYqjAdurVyjr"
     },
     {
       "album": {
@@ -18660,7 +18772,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192746,
       "name": "Your Name",
       "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"

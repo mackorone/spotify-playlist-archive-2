@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAe0SsHZSv4ofIG9zXIc0gS",
+  "snapshot_id": "ar2igAAAAADyb6566Lsh+19u8gMwX/0U",
   "tracks": [
     {
       "added_at": null,
@@ -63,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miniatures 2 Edited By Morgan Fisher",
-        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
+        "name": "Donnie & Laurie",
+        "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
       },
       "artists": [
         {
           "name": "Laurie Spiegel",
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        },
+        {
+          "name": "Don Christensen",
+          "url": "https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm"
         }
       ],
-      "duration_ms": 81040,
-      "name": "Soundtrack For Sandin",
-      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+      "duration_ms": 324222,
+      "name": "Donnie and Laurie",
+      "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
     },
     {
       "added_at": null,
@@ -111,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donnie & Laurie",
-        "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
+        "name": "Miniatures 2 Edited By Morgan Fisher",
+        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
       },
       "artists": [
         {
           "name": "Laurie Spiegel",
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        },
-        {
-          "name": "Don Christensen",
-          "url": "https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm"
         }
       ],
-      "duration_ms": 324222,
-      "name": "Donnie and Laurie",
-      "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
+      "duration_ms": 81040,
+      "name": "Soundtrack For Sandin",
+      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
     },
     {
       "added_at": null,

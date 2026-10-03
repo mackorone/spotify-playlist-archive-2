@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "A delicious mix of new songs in high rotation. Cover: This is Lorlelei",
+  "description": "A delicious mix of new songs in high rotation. Cover: Steve Lacy",
   "name": "Indie's Top 50",
   "tracks": [
     {
@@ -5540,7 +5540,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 302800,
       "name": "BedHead",
       "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
@@ -6710,7 +6710,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 200608,
       "name": "Blister Sunrise",
       "url": "https://open.spotify.com/track/6KmnrYGLTStjxonyQYRPbU"
@@ -6768,6 +6768,24 @@
       "duration_ms": 267500,
       "name": "Blood And Butter",
       "url": "https://open.spotify.com/track/1QmWunl2nbV9o9lujiLIDn"
+    },
+    {
+      "album": {
+        "name": "Blood Bank (Spotify Singles)",
+        "url": "https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305210,
+      "name": "Blood Bank - Spotify Singles",
+      "url": "https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w"
     },
     {
       "album": {
@@ -7418,6 +7436,24 @@
       "duration_ms": 181506,
       "name": "Borrowed Time (From Rick and Morty: Season 5)",
       "url": "https://open.spotify.com/track/2TDeIENQbavBr4qfDNIn3l"
+    },
+    {
+      "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/46qTAm0OtOb9xhXoftlyCT"
     },
     {
       "album": {
@@ -16570,7 +16606,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 216750,
       "name": "Everything in the shade",
       "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
@@ -19192,7 +19228,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 299042,
       "name": "Garden",
       "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
@@ -20807,6 +20843,24 @@
     },
     {
       "album": {
+        "name": "Grandma Song",
+        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Grandma Song",
+      "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
+    },
+    {
+      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -21150,7 +21204,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 145266,
       "name": "Gut",
       "url": "https://open.spotify.com/track/1KJUdGbJILllYPBOsM4z9m"
@@ -25869,6 +25923,24 @@
     },
     {
       "album": {
+        "name": "If I Had The Hand Of God",
+        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161816,
+      "name": "If I Had The Hand Of God",
+      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "album": {
         "name": "If I Were You",
         "url": "https://open.spotify.com/album/0IO9FwH0QyryujvzhLQeYT"
       },
@@ -26610,7 +26682,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 186000,
       "name": "Indecision (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
@@ -27024,7 +27096,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 217000,
       "name": "It Didn't Matter",
       "url": "https://open.spotify.com/track/10kxTiNUTo4nlEbH1EzoX1"
@@ -28538,7 +28610,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 220295,
       "name": "Kid",
       "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
@@ -30694,7 +30766,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 200186,
       "name": "Lonely in the Future",
       "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
@@ -36560,6 +36632,24 @@
       "duration_ms": 186300,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
+    },
+    {
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149663,
+      "name": "nothing",
+      "url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i"
     },
     {
       "album": {
@@ -46779,6 +46869,24 @@
     },
     {
       "album": {
+        "name": "Sometimes I rush",
+        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90867,
+      "name": "Sometimes I rush",
+      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
+    },
+    {
+      "album": {
         "name": "Song for the Messenger",
         "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
       },
@@ -47924,6 +48032,28 @@
       "duration_ms": 362973,
       "name": "Stop Waiting",
       "url": "https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy"
+    },
+    {
+      "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173433,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "album": {
@@ -51300,7 +51430,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 196453,
       "name": "The Rot",
       "url": "https://open.spotify.com/track/0BXd8OZonjsjn6VelekrpD"
@@ -53611,6 +53741,24 @@
     },
     {
       "album": {
+        "name": "Trillions",
+        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180964,
+      "name": "Trillions",
+      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
+    },
+    {
+      "album": {
         "name": "More Photographs (A Continuum)",
         "url": "https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl"
       },
@@ -54316,7 +54464,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 209258,
       "name": "Twiggy",
       "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 
 > The sound of spring.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,514 likes - 110 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,512 likes - 110 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Spring Around the Corner](https://open.spotify.com/track/5iQj8xPir1hT976PWF5Bea) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Spring Around the Corner](https://open.spotify.com/album/0Ry7qze8hAUuCLyT2aMqD1) | 2:10 |
-| 2 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 |
-| 3 | [Root Flower](https://open.spotify.com/track/2zzO7vk8Z8SuguCHydFnkg) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Root Flower](https://open.spotify.com/album/488shae3ei66l5yQvTP0Fz) | 2:10 |
-| 4 | [Fiesso d’Artico](https://open.spotify.com/track/5GbvPWxgru1Pxx7vLuyZmO) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Fiesso d’Artico](https://open.spotify.com/album/1v7IPSwcdq7wcIFDfcFJSs) | 2:39 |
-| 5 | [Warm Spring](https://open.spotify.com/track/0DHfnVVuIcJSSSpiuJEB2v) | [Rosenkalla](https://open.spotify.com/artist/0MbWSSyQVHyA2HNPHcc1Kz) | [Warm Spring](https://open.spotify.com/album/5JfmlVScLrJcr2SqmVZXby) | 2:44 |
-| 6 | [Time Passed](https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Time Passed](https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN) | 3:05 |
-| 7 | [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 |
-| 8 | [Overthinking](https://open.spotify.com/track/7iZUYJmbGmKvoQtsrEqLtG) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Overthinking](https://open.spotify.com/album/1Vq5TtquMxnDCwdlkqG5KL) | 2:16 |
-| 9 | [Just As I Imagined](https://open.spotify.com/track/5oJJGbEDS8kWwr92m3GREr) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Just As I Imagined](https://open.spotify.com/album/5HhNV0gvi5FILnL562n1Rv) | 2:17 |
-| 10 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 |
-| 11 | [Better Days](https://open.spotify.com/track/2PYywbKzaAsAo8EmNFOM4T) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [Better Days](https://open.spotify.com/album/6TSlY3RFS8jbuKY2Fhovbo) | 2:16 |
+| 1 | [Warm Spring](https://open.spotify.com/track/0DHfnVVuIcJSSSpiuJEB2v) | [Rosenkalla](https://open.spotify.com/artist/0MbWSSyQVHyA2HNPHcc1Kz) | [Warm Spring](https://open.spotify.com/album/5JfmlVScLrJcr2SqmVZXby) | 2:44 |
+| 2 | [Spring Around the Corner](https://open.spotify.com/track/5iQj8xPir1hT976PWF5Bea) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Spring Around the Corner](https://open.spotify.com/album/0Ry7qze8hAUuCLyT2aMqD1) | 2:10 |
+| 3 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 |
+| 4 | [Root Flower](https://open.spotify.com/track/2zzO7vk8Z8SuguCHydFnkg) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Root Flower](https://open.spotify.com/album/488shae3ei66l5yQvTP0Fz) | 2:10 |
+| 5 | [Better Days](https://open.spotify.com/track/2PYywbKzaAsAo8EmNFOM4T) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [Better Days](https://open.spotify.com/album/6TSlY3RFS8jbuKY2Fhovbo) | 2:16 |
+| 6 | [Fiesso d’Artico](https://open.spotify.com/track/5GbvPWxgru1Pxx7vLuyZmO) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Fiesso d’Artico](https://open.spotify.com/album/1v7IPSwcdq7wcIFDfcFJSs) | 2:39 |
+| 7 | [Time Passed](https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Time Passed](https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN) | 3:05 |
+| 8 | [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 |
+| 9 | [Overthinking](https://open.spotify.com/track/7iZUYJmbGmKvoQtsrEqLtG) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Overthinking](https://open.spotify.com/album/1Vq5TtquMxnDCwdlkqG5KL) | 2:16 |
+| 10 | [Just As I Imagined](https://open.spotify.com/track/5oJJGbEDS8kWwr92m3GREr) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Just As I Imagined](https://open.spotify.com/album/5HhNV0gvi5FILnL562n1Rv) | 2:17 |
+| 11 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 |
 | 12 | [Falling Into You](https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Falling Into You](https://open.spotify.com/album/4gPCAoHao4O8zYd25H0ERh) | 3:13 |
 | 13 | [Lavender Skies](https://open.spotify.com/track/22yEmRR2DDKKD9CLUZP3xh) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Lavender Skies](https://open.spotify.com/album/1hseo3B4fwrN9GmKhvw7gC) | 2:34 |
 | 14 | [Freeflow](https://open.spotify.com/track/2NF8i4s59sMUb0sMcYllop) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Freeflow](https://open.spotify.com/album/5BN6SNSck7lwjmoMd5FlOL) | 2:05 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 | 109 | [Hymn](https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Hymn](https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89) | 2:57 |
 | 110 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 |
 
-Snapshot ID: `AAAAAMIu14I79jX34KRTVaIPm33OCEQL`
+Snapshot ID: `AAAAAPs++jb2Fyt3NQUQQaDP2yYOjpbs`

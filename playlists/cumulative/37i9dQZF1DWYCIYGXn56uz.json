@@ -20861,6 +20861,24 @@
     },
     {
       "album": {
+        "name": "Sul Filo",
+        "url": "https://open.spotify.com/album/130Xq8MNyG0Sp77qx37KP1"
+      },
+      "artists": [
+        {
+          "name": "PierC",
+          "url": "https://open.spotify.com/artist/16FsbJXEa2nJ61pyIL3ch8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178102,
+      "name": "Sul Filo",
+      "url": "https://open.spotify.com/track/1XoRJ6XYeIpfrRTm0t1Ple"
+    },
+    {
+      "album": {
         "name": "sull'orlo di fallire",
         "url": "https://open.spotify.com/album/30yNTzilcF8l9NCGtMtDU2"
       },

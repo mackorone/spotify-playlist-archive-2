@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 14285,
+  "num_followers": 14287,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADUGtTAqNutsCnWzY2uRb84",
+  "snapshot_id": "ar2igAAAAAAmG7TcYfJXZF83SQTrVMuC",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 352666,
-      "name": "Tell the World How I Feel About 'Cha Baby (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8"
+      "duration_ms": 308333,
+      "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 308333,
-      "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"
+      "duration_ms": 352666,
+      "name": "Tell the World How I Feel About 'Cha Baby (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
-        "url": "https://open.spotify.com/album/12yI3cMMv8UNjyFzA5HoUG"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/16gkC288NMzIlhEp1YxXjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Melvin & The Blue Notes",
         "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 249760,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
+        "url": "https://open.spotify.com/album/12yI3cMMv8UNjyFzA5HoUG"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/16gkC288NMzIlhEp1YxXjl"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "Reaching For The World",
-      "url": "https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blue Album",
         "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "Reaching For The World",
+      "url": "https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Philadelphia Soul",
         "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 221506,
       "name": "Keep On Loving You",
       "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "After You Love Me, Why Do You Leave Me",
-      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "After You Love Me, Why Do You Leave Me",
+      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Philadelphia Soul",
         "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 352786,
       "name": "Your Love Is Taking Me On A Journey",
       "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Back With Love",
-        "url": "https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "Get Ready",
-      "url": "https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "80's Love Songs",
+        "url": "https://open.spotify.com/album/6B1HPZ1E0Cc9fLUUaDeuFA"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "This Is The Love",
+      "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Retro Swag: Soulful Sounds and Funky Favorites",
         "url": "https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA"
       },
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Love Songs",
-        "url": "https://open.spotify.com/album/6B1HPZ1E0Cc9fLUUaDeuFA"
+        "name": "Back To Back With Love",
+        "url": "https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 263360,
-      "name": "This Is The Love",
-      "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
+      "duration_ms": 158360,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm"
     },
     {
       "added_at": null,

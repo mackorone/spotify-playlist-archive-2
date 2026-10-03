@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 292988,
+  "num_followers": 293012,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADzV9FyymNkHb1wv1StWwvi",
+  "snapshot_id": "ar2igAAAAAD/14kieDBQIJ3nAcvil7DE",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bon Iver, Bon Iver (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 286661,
-      "name": "I Can't Make You Love Me - AIR Studios \u2013 4AD/Jagjaguwar Session",
-      "url": "https://open.spotify.com/track/2rCFBMdyuqqoO1LAuYggw6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/0AlgkqrQnGTXJ0Onk2Ok95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bon Iver, Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 286661,
+      "name": "I Can't Make You Love Me - AIR Studios \u2013 4AD/Jagjaguwar Session",
+      "url": "https://open.spotify.com/track/2rCFBMdyuqqoO1LAuYggw6"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
       "duration_ms": 233982,
       "name": "00000 Million",
       "url": "https://open.spotify.com/track/2lJNtl3CiHlGlW9OJHftZo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200030,
-      "name": "I think about it all the time featuring bon iver",
-      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
     },
     {
       "added_at": null,

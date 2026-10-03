@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203014,
+      "name": "16",
+      "url": "https://open.spotify.com/track/1pLS5FERQjEXlHho6THq1d"
+    },
+    {
+      "album": {
         "name": "MRS Gold (My Real Self)",
         "url": "https://open.spotify.com/album/7w5RxBwixoaVGJXzUj5qxP"
       },
@@ -802,7 +820,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 178775,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/6nTQY7MENn4JietjaoOjhj"

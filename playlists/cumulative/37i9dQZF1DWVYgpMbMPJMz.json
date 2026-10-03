@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Mitch Wong & Jon Reddick",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Karen Espinosa & Tiffany Hudson",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2303,6 +2303,28 @@
     },
     {
       "album": {
+        "name": "Here Comes The Church - Second Service",
+        "url": "https://open.spotify.com/album/2Jm86EHV5qpI88soXUABuZ"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315565,
+      "name": "Bless Your Name (with Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/5pCMG86XKpAoriBRyV8ulc"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0UhDdx4FunkOEOMDbp0jBY"
       },
@@ -4383,6 +4405,28 @@
     },
     {
       "album": {
+        "name": "Desperate for Jesus",
+        "url": "https://open.spotify.com/album/0QcmTFn9Ps3ZYkGWZZUQz8"
+      },
+      "artists": [
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596845,
+      "name": "Desperate for Jesus",
+      "url": "https://open.spotify.com/track/67XISn3LHSTEyKd87Q0gWR"
+    },
+    {
+      "album": {
         "name": "Doesn't He (Deserve It All)",
         "url": "https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y"
       },
@@ -4800,7 +4844,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 249233,
       "name": "Even Death On A Cross!",
       "url": "https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ"
@@ -5208,6 +5252,32 @@
       "duration_ms": 465257,
       "name": "Fear Not (Never Stop Praying) - Live",
       "url": "https://open.spotify.com/track/2vxgT6nsitXF5J0mDXp2Ij"
+    },
+    {
+      "album": {
+        "name": "FEAR THE LORD",
+        "url": "https://open.spotify.com/album/0JTH8W3JBM5miKj4KlRJVp"
+      },
+      "artists": [
+        {
+          "name": "Engedi Music",
+          "url": "https://open.spotify.com/artist/4Mc68ttSCK8Gdfef5eQM1V"
+        },
+        {
+          "name": "Ava Rose Hyatt",
+          "url": "https://open.spotify.com/artist/4LYyPuAFKbL6tFOYIycKgL"
+        },
+        {
+          "name": "Tyana Reynolds",
+          "url": "https://open.spotify.com/artist/0MhfR4Gm96tgI7qfEdN8sa"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390720,
+      "name": "FEAR THE LORD",
+      "url": "https://open.spotify.com/track/62gmYwJoqkiToryhmf7syi"
     },
     {
       "album": {
@@ -6705,6 +6775,24 @@
     },
     {
       "album": {
+        "name": "GREATNESS",
+        "url": "https://open.spotify.com/album/6smwnbu2bbkeofhIAvZ7xl"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "GREATNESS",
+      "url": "https://open.spotify.com/track/0oGLqmZ6444crY4vt3Kjru"
+    },
+    {
+      "album": {
         "name": "Halfway Empty (Live)",
         "url": "https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw"
       },
@@ -7316,7 +7404,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 361200,
       "name": "Heart Like Heaven - in lieu of me",
       "url": "https://open.spotify.com/track/1VUaj16xDwJ6Jox7SOqJOL"
@@ -7476,7 +7564,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 432839,
       "name": "Here Comes The Church (with Tiffany Hudson)",
       "url": "https://open.spotify.com/track/0iYugCuyeWGor2kqJ13GtE"
@@ -12194,7 +12282,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 563991,
       "name": "Love Of My Life - Live",
       "url": "https://open.spotify.com/track/7bLxvZFk8wQ0TsNzjyfUr0"
@@ -12554,6 +12642,24 @@
       "duration_ms": 585000,
       "name": "Memory",
       "url": "https://open.spotify.com/track/1EDdsfw8FVk6Zdn35yOWmg"
+    },
+    {
+      "album": {
+        "name": "Mercy Mercy (in lieu of me)",
+        "url": "https://open.spotify.com/album/1E3mbNmZS9gvyc1JWvTeGs"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Mercy Mercy - in lieu of me",
+      "url": "https://open.spotify.com/track/3Medwggjkn8BSlShaNMnYa"
     },
     {
       "album": {
@@ -14900,7 +15006,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 233088,
       "name": "OUTPOURING",
       "url": "https://open.spotify.com/track/1ySe0jm37neV13jSxdI3A7"
@@ -15486,6 +15592,24 @@
       "duration_ms": 244664,
       "name": "Praise Upon Praise",
       "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
+    },
+    {
+      "album": {
+        "name": "Praise Upon Praise (Live at The River)",
+        "url": "https://open.spotify.com/album/3KiyUYsfBs3SNT3hDh6dND"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378578,
+      "name": "Praise Upon Praise (Live at The River)",
+      "url": "https://open.spotify.com/track/3JguJhYBHNBUTGxIMJBthz"
     },
     {
       "album": {
@@ -17612,7 +17736,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 346841,
       "name": "Still The King - Live",
       "url": "https://open.spotify.com/track/7iPhwbA9mqSMqsSuao3OJI"
@@ -18302,6 +18426,28 @@
       "duration_ms": 304584,
       "name": "THANK GOD I'M FREE",
       "url": "https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5"
+    },
+    {
+      "album": {
+        "name": "House Of Worship (Deluxe)",
+        "url": "https://open.spotify.com/album/5lkkzGifyKChKzHZkafoNr"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Jami Garcia",
+          "url": "https://open.spotify.com/artist/45GgPUXRzUxrIxNFh9T6hz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252460,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/4hvR3kSiV3opZ9v7lffVEu"
     },
     {
       "album": {
@@ -21222,7 +21368,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 538235,
       "name": "Walk On Water - Live",
       "url": "https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX"

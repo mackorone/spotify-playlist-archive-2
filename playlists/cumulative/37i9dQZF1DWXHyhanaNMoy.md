@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Veertien, Elf & RResstante
 
-1,877 songs - 3 day 10 hr 51 min
+1,877 songs - 3 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 | 2025-09-04 | 2025-09-12 |
 | [Catch a Fire](https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i) | [Giv Dem Wha Dey Wan](https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf) | 2:26 | 2026-08-20 |  |
 | [Caya Ta Papia](https://open.spotify.com/track/0Iw9WabkO1ILSfY8DnOks9) | [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Caya Ta Papia](https://open.spotify.com/album/69v0dVm0kOM8cr6VDmTBP2) | 3:58 | 2024-07-05 | 2024-09-20 |
+| [CC](https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 2:00 | 2026-10-01 |  |
 | [Celebrate life](https://open.spotify.com/track/0vNfTAirPF0M1hmGQoomoo) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6) | [Celebrate life](https://open.spotify.com/album/6ObkxETtSitsiLHqQIBCVh) | 3:20 | 2024-02-29 | 2024-03-22 |
 | [Chamo](https://open.spotify.com/track/3A3Wzv53cuG2bk75R5NDkF) | [Eli Demillion](https://open.spotify.com/artist/2rBaw5BHvM2ZNTydsl5vsc), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Marver](https://open.spotify.com/artist/7niJWSs6JBoxU1TYnZr9Uk) | [Chamo](https://open.spotify.com/album/7Gw0OLF8UEJ194o00QNFTd) | 2:12 | 2023-09-07 | 2023-09-29 |
 | [Champagnepapi](https://open.spotify.com/track/6CxRNe0C4QW18wzvAcOxkM) | [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg) | [Champagnepapi](https://open.spotify.com/album/544LI0WlNrtjbeOqYJuCiT) | 2:29 | 2023-03-09 | 2023-03-25 |
@@ -1663,7 +1664,6 @@
 | [Toxic Love \(feat\. DYSTINCT\)](https://open.spotify.com/track/30oXsnwOMmvpzzEErBvr1B) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Love Stories](https://open.spotify.com/album/00wQC7GhtjQjSMuPQWEJsw) | 2:35 | 2023-05-11 | 2023-07-21 |
 | [Toy a Mil](https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Toy a Mil](https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k) | 2:28 | 2023-01-23 | 2023-03-03 |
 | [Tra](https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo) | [Robin Roxette](https://open.spotify.com/artist/1brrW50XBilcXfvh02W8jV), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Tra](https://open.spotify.com/album/0fnL0cfnJ47uSvKDFHTx9F) | 3:14 | 2025-06-05 | 2025-08-15 |
-| [Track 2](https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 0:00 | 2026-10-01 |  |
 | [Trainingspak](https://open.spotify.com/track/30oluvvpUwQaMm56F9lHBz) | [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Trainingspak](https://open.spotify.com/album/67N1h7Y59KjDS3xafg7gLc) | 2:25 | 2023-06-08 | 2023-06-30 |
 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 | 2025-12-04 | 2026-03-13 |
 | [Tranquilo](https://open.spotify.com/track/31BsqR4z06NKoMnsvsMt5z) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Tranquilo](https://open.spotify.com/album/1fhhzc1jjmeK0n4Nb5I7wL) | 2:56 | 2023-08-17 | 2023-12-15 |

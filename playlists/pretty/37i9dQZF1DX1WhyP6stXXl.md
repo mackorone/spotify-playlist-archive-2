@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,694 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,794 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 30 | [BOLD](https://open.spotify.com/track/1k8aQ07489ZfJVMvdGoLRJ) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [BOLD](https://open.spotify.com/album/7xvLYCSsLI9fR3mEjmMqqm) | 2:51 |
 | 31 | [Collide](https://open.spotify.com/track/59lrjocxqKQiPbTyHiD9Oo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Collide](https://open.spotify.com/album/3c8ps31q7g5MBu8RsWQ7FJ) | 3:28 |
 | 32 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
-| 33 | [The Inbetween](https://open.spotify.com/track/2HMYGDLJOksIhNozKHpsXA) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Being Human](https://open.spotify.com/album/728tihnQ6RprIydFGLPgQl) | 3:07 |
+| 33 | [The Inbetween](https://open.spotify.com/track/2HMYGDLJOksIhNozKHpsXA) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Being Human](https://open.spotify.com/album/728tihnQ6RprIydFGLPgQl) | 3:26 |
 | 34 | [Snakeskin Boots](https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Crisco](https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng) | 4:09 |
 | 35 | [Cover You](https://open.spotify.com/track/092mKEeAJyiE7ioROsKJof) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Cover You](https://open.spotify.com/album/6wxapwo9Eu3RUnCz4DqQSG) | 2:33 |
 | 36 | [Mercy](https://open.spotify.com/track/5x0Uf6AMZTAKqvtzncu0ZH) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Mercy](https://open.spotify.com/album/32ESWuEYA0d8c74Xium24Z) | 3:10 |

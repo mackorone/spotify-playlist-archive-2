@@ -4,7 +4,7 @@
 
 > The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Camilo
 
-1,041 songs - 2 day 7 hr 21 min
+1,043 songs - 2 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [intoxicao](https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [intoxicao](https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye) | 2:48 | 2022-05-31 | 2023-05-26 |
 | [ITA :\)](https://open.spotify.com/track/47i903DULtuCdNST7sprvg) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [ITA :\)](https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt) | 2:40 | 2022-08-26 | 2023-05-26 |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-03-31 | 2023-06-01 |
+| [Jangadero \- La Jangada](https://open.spotify.com/track/7s7RSoKV2DcNxpu1OhSFBB) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Jangada](https://open.spotify.com/album/4eOTZGLOLYa8L4OFKdrXGr) | 5:15 | 2026-10-02 |  |
 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 | 2023-04-28 | 2023-05-31 |
 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 | 2024-01-12 | 2024-07-03 |
 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 | 2022-07-01 | 2023-05-26 |
@@ -749,6 +750,7 @@
 | [Pesadilla](https://open.spotify.com/track/3CzgTXrAROSCB6bd1bm5mJ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:09 | 2023-06-02 | 2023-06-08 |
 | [Philliecito](https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Philliecito](https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D) | 4:11 | 2022-02-02 | 2023-05-26 |
 | [Pies Descalzos, Sueños Blancos \- Spotify Anniversary Version](https://open.spotify.com/track/6ehebXUTI8jx1kodxfE11a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:04 | 2025-10-22 | 2026-04-25 |
+| [pikito pikito](https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [pikito pikito](https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB) | 3:00 | 2026-10-02 |  |
 | [Platicamos](https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Platicamos](https://open.spotify.com/album/45SnjkMBBSQ01TNzU7H9Mx) | 2:56 | 2022-08-26 | 2023-05-26 |
 | [PLAYA FRÍA](https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [PLAYA FRÍA](https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2) | 2:08 | 2026-09-25 |  |
 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 | 2024-02-08 | 2025-09-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1463865,
+  "num_followers": 1463861,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Ripples",
-        "url": "https://open.spotify.com/album/5ztlKFULn1KS4rGKd2YJWo"
-      },
-      "artists": [
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 154320,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u"
-    },
-    {
-      "added_at": "2026-09-22 16:51:51",
-      "album": {
         "name": "On My Way Home (Blue Lab Beats Remix)",
         "url": "https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 228485,
       "name": "On My Way Home - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc"
+    },
+    {
+      "added_at": "2026-09-22 16:51:51",
+      "album": {
+        "name": "Ripples",
+        "url": "https://open.spotify.com/album/5ztlKFULn1KS4rGKd2YJWo"
+      },
+      "artists": [
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 154320,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Kingyo",
-        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 168559,
-      "name": "Kingyo",
-      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
-    },
-    {
-      "added_at": "2026-09-22 16:51:51",
-      "album": {
         "name": "Light Breeze EP",
         "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 120000,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+    },
+    {
+      "added_at": "2026-09-22 16:51:51",
+      "album": {
+        "name": "Kingyo",
+        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 168559,
+      "name": "Kingyo",
+      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 184372,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
-    },
-    {
-      "added_at": "2026-09-22 16:51:51",
-      "album": {
         "name": "Night Step",
         "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 150857,
       "name": "Night Step",
       "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "added_at": "2026-09-22 16:51:51",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 184372,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1371,22 +1371,18 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "White Tea",
-        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
       },
       "artists": [
         {
-          "name": "Bertholet",
-          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
-        },
-        {
-          "name": "dr. nibbles",
-          "url": "https://open.spotify.com/artist/0NAtU3NLFUmAHbEgdZqP1G"
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
         }
       ],
-      "duration_ms": 88279,
-      "name": "White Tea",
-      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1411,42 +1407,38 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "GeGe E.P.",
-        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
+        "name": "White Tea",
+        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
       "artists": [
         {
-          "name": "MANTIS",
-          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
+          "name": "Bertholet",
+          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
+        },
+        {
+          "name": "dr. nibbles",
+          "url": "https://open.spotify.com/artist/0NAtU3NLFUmAHbEgdZqP1G"
         }
       ],
-      "duration_ms": 212307,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+      "duration_ms": 88279,
+      "name": "White Tea",
+      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
     },
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Scintillate",
-        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
       },
       "artists": [
         {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
         }
       ],
-      "duration_ms": 173367,
-      "name": "Scintillate",
-      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2026-09-22 16:51:51",
@@ -1471,18 +1463,26 @@
     {
       "added_at": "2026-09-22 16:51:51",
       "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
+        "name": "Scintillate",
+        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
       },
       "artists": [
         {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
         }
       ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
+      "duration_ms": 173367,
+      "name": "Scintillate",
+      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
     },
     {
       "added_at": "2026-09-22 16:51:51",

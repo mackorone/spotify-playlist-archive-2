@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 39057,
+  "num_followers": 39061,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABggm5eajbFc2ptdi0mGo7V",
+  "snapshot_id": "ar2igAAAAABBNCdx4pktJJEnUcV7e85D",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Praise Upon Praise",
+        "url": "https://open.spotify.com/album/5yE1Rgtnic38wVRaHbiFnp"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 244664,
+      "name": "Praise Upon Praise",
+      "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
         "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
       },
@@ -443,26 +459,6 @@
       "duration_ms": 322753,
       "name": "Psalm 8 (How Majestic Is Your Name)",
       "url": "https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worship Initiative, Vol. 3",
-        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 342625,
-      "name": "Before the Throne of God Above",
-      "url": "https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Praise Upon Praise",
-        "url": "https://open.spotify.com/album/5yE1Rgtnic38wVRaHbiFnp"
+        "name": "The Worship Initiative, Vol. 3",
+        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
       },
       "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 244664,
-      "name": "Praise Upon Praise",
-      "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
+      "duration_ms": 342625,
+      "name": "Before the Throne of God Above",
+      "url": "https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 444314,
+      "name": "Holy, Holy, Holy (We Bow Before Thee)",
+      "url": "https://open.spotify.com/track/1e58fEprNEGwk1Btxmfaac"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship Initiative, Vol. 7",
         "url": "https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 337954,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns, Vol. 1",
-        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 444314,
-      "name": "Holy, Holy, Holy (We Bow Before Thee)",
-      "url": "https://open.spotify.com/track/1e58fEprNEGwk1Btxmfaac"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 312592,
-      "name": "Psalm 139 (Far Too Wonderful)",
-      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 11",
         "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Sufficient Merit (Live)",
-        "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
       },
       "artists": [
         {
@@ -696,25 +680,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 330502,
-      "name": "All Sufficient Merit - Live",
-      "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
-        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 225506,
-      "name": "Living Water",
-      "url": "https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE"
+      "duration_ms": 312592,
+      "name": "Psalm 139 (Far Too Wonderful)",
+      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
     },
     {
       "added_at": null,
@@ -739,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns, Vol. 2",
-        "url": "https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4"
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
       },
       "artists": [
         {
@@ -748,9 +716,25 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 259013,
-      "name": "Praise to the Lord (Joyful, Joyful)",
-      "url": "https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E"
+      "duration_ms": 225506,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Sufficient Merit (Live)",
+        "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 330502,
+      "name": "All Sufficient Merit - Live",
+      "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 290566,
       "name": "Turn Your Eyes Upon Jesus (Acoustic)",
       "url": "https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 259013,
+      "name": "Praise to the Lord (Joyful, Joyful)",
+      "url": "https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E"
     },
     {
       "added_at": null,

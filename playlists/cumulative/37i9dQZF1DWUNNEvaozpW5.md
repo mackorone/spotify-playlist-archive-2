@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Arde Bogotá.
 
-836 songs - 2 day 5 hr 12 min
+837 songs - 2 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO), [Víctor Cabezuelo](https://open.spotify.com/artist/2Ba0v7AY4kqOmlHSCdEm2M) | [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/album/5rUQe1NWnm6Aw1TcUfoJQY) | 3:58 | 2022-05-26 |  |
 | [En Blanco Y Negro](https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Por Instinto](https://open.spotify.com/album/3b2ODyXT2nMGONCMhUAWA9) | 4:05 | 2023-03-16 | 2024-04-19 |
 | [En Blanco Y Negro](https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Los Singles](https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG) | 4:05 | 2022-05-19 |  |
+| [En la orilla](https://open.spotify.com/track/58aSiRffH5Z2a06TntQFMy) | [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN) | [Anandamida](https://open.spotify.com/album/5nTVHbQroBaP3cjBbry7PE) | 5:13 | 2026-10-02 |  |
 | [En la Rampa de Salida](https://open.spotify.com/track/3jWbGQQ080QrmBqZ8Fs4VW) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [En la Rampa de Salida](https://open.spotify.com/album/0tnoetHAxbjN5w8BUFOjXa) | 3:55 | 2025-05-23 | 2025-05-31 |
 | [En Otra Peli](https://open.spotify.com/track/26Mb3yVMCSiZYbEiwbpRWQ) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [En Otra Peli](https://open.spotify.com/album/7G3VK3uOUu07Tv4UHTFsIk) | 3:18 | 2025-07-03 | 2025-07-31 |
 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 | 2022-07-21 |  |
@@ -473,7 +474,7 @@
 | [Los martes](https://open.spotify.com/track/6JZQPZ7YzTdUcM1nzz6Qzs) | [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ) | [Los martes](https://open.spotify.com/album/1cORdWyJqJxN8UbQIvEz9t) | 3:29 | 2025-09-25 | 2025-10-04 |
 | [Los Perros](https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 3:49 | 2024-04-11 |  |
 | [Los Santos Elegidos](https://open.spotify.com/track/1zvauqyEjOjeY7fTMlTd1C) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Los Santos Elegidos](https://open.spotify.com/album/7yituGcgcZZFcpYIybSyBd) | 2:53 | 2024-09-26 | 2024-10-04 |
-| [Luces blancas](https://open.spotify.com/track/4rsG3MmzIZKAjxVFvhzGmP) | [Sarria](https://open.spotify.com/artist/6vLjZKs3kZtOdbWFF4Kz68), [Ángel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY) | [Luces blancas](https://open.spotify.com/album/1TUoUFEHeV5AwaAA2I2Zbg) | 3:26 | 2026-09-24 |  |
+| [Luces blancas](https://open.spotify.com/track/4rsG3MmzIZKAjxVFvhzGmP) | [Sarria](https://open.spotify.com/artist/6vLjZKs3kZtOdbWFF4Kz68), [Ángel Stanich](https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY) | [Luces blancas](https://open.spotify.com/album/1TUoUFEHeV5AwaAA2I2Zbg) | 3:26 | 2026-09-24 | 2026-10-03 |
 | [Lucha de Gigantes](https://open.spotify.com/track/5afAcSipBblWpFBxU93khB) | [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA), [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN) | [Lucha de Gigantes](https://open.spotify.com/album/2oKzQjw4cKGz43E2URP5Sk) | 3:19 | 2023-06-15 | 2023-06-23 |
 | [Lucía \(Bonus Track\)](https://open.spotify.com/track/18dbkA5rz0bM6AS3A9QCj3) | [Belarte](https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM) | [Después del Baile](https://open.spotify.com/album/0YGHWVzGtyT2tkR6k5KZBZ) | 4:41 | 2024-07-19 | 2024-08-20 |
 | [Lugar perfecto](https://open.spotify.com/track/2nUwZKuTz2vXh0qSqbPiEp) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Lugar perfecto](https://open.spotify.com/album/7ldxxbdzLICFxziYr0SuLb) | 3:11 | 2023-12-08 | 2023-12-15 |

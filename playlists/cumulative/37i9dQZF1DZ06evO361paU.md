@@ -4,7 +4,7 @@
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-105 songs - 7 hr 33 min
+106 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 | 2023-07-28 |  |
 | [It's Enough](https://open.spotify.com/track/0vQ5L7OZlAqyTupWIIi1IG) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 7:54 | 2023-12-13 |  |
 | [It's Enough](https://open.spotify.com/track/6ONzEVdRtesXdjM9hEah2r) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 7:54 | 2023-07-28 | 2023-11-11 |
-| [It’s Just Another Fine Day \(In This Universe of Love\)](https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 6:19 | 2024-05-26 |  |
+| [It’s Just Another Fine Day \(In This Universe of Love\)](https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 6:19 | 2024-05-26 | 2026-10-03 |
 | [Johnny Cash](https://open.spotify.com/track/2KB62sZq0v8PQUlMSb3kBR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 6:18 | 2024-04-24 | 2024-07-23 |
 | [Johnny Cash](https://open.spotify.com/track/3OrWg1VRhAjy2n27ixedud) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 6:18 | 2023-08-09 | 2023-08-11 |
 | [Lady](https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 4:15 | 2023-07-28 |  |
@@ -81,6 +81,7 @@
 | [More Than Anything In This World](https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:28 | 2024-04-22 | 2026-08-27 |
 | [Mr\. Cab Driver](https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 3:50 | 2024-07-25 |  |
 | [Mr\. Cab Driver](https://open.spotify.com/track/29SkFrotMPQH88drC646sy) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 3:50 | 2023-07-28 | 2024-07-25 |
+| [New York City](https://open.spotify.com/track/3QBG916O8I3D2kvAyctz7R) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/3evSJzi5ghhXuPdmttKHNq) | 6:22 | 2026-10-03 |  |
 | [New York City](https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 6:22 | 2023-07-28 | 2026-09-20 |
 | [Paralyzed](https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:28 | 2024-05-25 |  |
 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 | 2024-05-24 | 2026-03-27 |

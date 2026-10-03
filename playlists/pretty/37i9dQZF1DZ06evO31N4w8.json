@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 69635,
+  "num_followers": 69657,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACA3rZlBbDn6xQonZprlSYI",
+  "snapshot_id": "ar2igAAAAAAbNvimFVBRhbOvQ+fj0VlD",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Historicos, Vol. 2",
-        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Renunciacion",
-      "url": "https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 254706,
       "name": "Sim\u00f3n Blanco",
       "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos Historicos, Vol. 2",
+        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Renunciacion",
+      "url": "https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Lo Contaron Ayer",
-        "url": "https://open.spotify.com/album/6gu5C4B82H9RWekehc9qIm"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "No Le Digas a Nadie",
-      "url": "https://open.spotify.com/track/2rr1XSaaUV9y1iRsJ16ZwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 202840,
       "name": "Para Qu\u00e9 Quieres Que Vuelva",
       "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/6gu5C4B82H9RWekehc9qIm"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "No Le Digas a Nadie",
+      "url": "https://open.spotify.com/track/2rr1XSaaUV9y1iRsJ16ZwY"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni El Diablo Te Va A Querer",
-        "url": "https://open.spotify.com/album/14ukGrCsnpYZcooY1fBfxY"
+        "name": "Sobre Los Rieles",
+        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 174053,
-      "name": "Ni El Diablo Te Va A Querer",
-      "url": "https://open.spotify.com/track/65mruN5u6IQMRIXubbhMQK"
+      "duration_ms": 162560,
+      "name": "Estabas Tan Linda",
+      "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Los Rieles",
-        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
+        "name": "Ni El Diablo Te Va A Querer",
+        "url": "https://open.spotify.com/album/14ukGrCsnpYZcooY1fBfxY"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Estabas Tan Linda",
-      "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
+      "duration_ms": 174053,
+      "name": "Ni El Diablo Te Va A Querer",
+      "url": "https://open.spotify.com/track/65mruN5u6IQMRIXubbhMQK"
     },
     {
       "added_at": null,

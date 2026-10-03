@@ -1,13 +1,33 @@
 {
-  "description": "Everyone hungers for something. Listen to the music from and inspired by The Hunger Games and Ballad of Songbirds and Snakes.",
-  "num_followers": 173692,
-  "original_name": "The Hunger Games Official Playlist",
+  "description": "These Games are going to be different. Noah Kahan's \"Draw You Out\" is here, the first song from The Hunger Games: Sunrise on the Reaping. In theaters soon.",
+  "num_followers": 174862,
+  "original_name": "The Hunger Games: Sunrise on the Reaping Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAHmF4xjgYeKzvJntEUGIpBe9W2r",
+  "snapshot_id": "AAAAAOqkHFhBw5wPQqgGJBQAMYK6SzV7",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:02:24",
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
@@ -1105,6 +1125,6 @@
       "url": "https://open.spotify.com/track/0ysh1Bix0wTyzQWUYqVhrh"
     }
   ],
-  "unique_name": "The Hunger Games Official Playlist",
+  "unique_name": "The Hunger Games: Sunrise on the Reaping Official Playlist",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT3BGkpbwZZs"
 }

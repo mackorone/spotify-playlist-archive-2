@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Chell en portada.
 
-315 songs - 17 hr 22 min
+316 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 | 2026-03-18 | 2026-03-27 |
 | [La Catalana](https://open.spotify.com/track/6lgcR5isFaGD5XnRsogEWm) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9) | [La Catalana](https://open.spotify.com/album/5UtScnT5cdTaoBzURObazB) | 2:50 | 2023-12-01 | 2024-03-30 |
 | [La Fiesta](https://open.spotify.com/track/2bxNIOvVPSaC57at7jfCsm) | [Estamos Perdidos](https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP) | [La Fiesta/María](https://open.spotify.com/album/6oORAsVxrnT86Gk07zVIFr) | 2:35 | 2025-11-21 | 2026-02-14 |
+| [La Fábula](https://open.spotify.com/track/6AJpmsldHFaBUkjKV0DX9j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [La Fábula](https://open.spotify.com/album/49zomDfCjLkMlgvVXEzswY) | 2:41 | 2026-10-02 |  |
 | [la terminal](https://open.spotify.com/track/4HdsSVEogcoSeVkyH9HqTl) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:35 | 2025-08-01 | 2026-01-31 |
 | [la terminal](https://open.spotify.com/track/1UnU60jPROOjM5WVS9CE7m) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [la terminal](https://open.spotify.com/album/774LNZX5sX4BvtRMuO3lQE) | 3:36 | 2024-04-12 | 2025-08-02 |
 | [La Teta Pirata](https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [La Teta Pirata](https://open.spotify.com/album/2XQGhwnv89NMhhZH6Yckxe) | 4:31 | 2026-03-06 | 2026-04-25 |
@@ -202,7 +203,7 @@
 | [Museo](https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Museo](https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB) | 2:45 | 2024-10-25 | 2025-04-05 |
 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 | 2026-03-18 | 2026-03-27 |
 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 | 2023-09-29 | 2026-02-14 |
-| [Nada Nada](https://open.spotify.com/track/18bxrfWPsBRotKXZp5iIk7) | [Verde 70](https://open.spotify.com/artist/3Of13uTPqUVwBPz8gpz5kN) | [FULGOR](https://open.spotify.com/album/71boWDrC3NxlItXqFFz42R) | 3:55 | 2026-04-24 |  |
+| [Nada Nada](https://open.spotify.com/track/18bxrfWPsBRotKXZp5iIk7) | [Verde 70](https://open.spotify.com/artist/3Of13uTPqUVwBPz8gpz5kN) | [FULGOR](https://open.spotify.com/album/71boWDrC3NxlItXqFFz42R) | 3:55 | 2026-04-24 | 2026-10-03 |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2026-03-18 | 2026-03-27 |
 | [NASSY](https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp) | [NASSY](https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo) | 2:22 | 2024-08-30 | 2025-03-29 |
 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 | 2026-03-18 | 2026-03-27 |

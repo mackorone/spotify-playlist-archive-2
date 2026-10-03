@@ -2863,6 +2863,28 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/2J1Lj5iKbB9FlUf7BmRhA4"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152721,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/6qxP7LvY9lkn6xtYn5VHNe"
+    },
+    {
+      "album": {
         "name": "Are You Real?",
         "url": "https://open.spotify.com/album/1iPFzT2uinjvbAYWm9HwA4"
       },

@@ -9553,6 +9553,28 @@
     },
     {
       "album": {
+        "name": "Hot Girl Walk",
+        "url": "https://open.spotify.com/album/5GUlkDaeCQeSCr2JUcp9yp"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        },
+        {
+          "name": "NO STATIC",
+          "url": "https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Hot Girl Walk",
+      "url": "https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25"
+    },
+    {
+      "album": {
         "name": "Hours and Hours (Remixes)",
         "url": "https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU"
       },
@@ -12252,6 +12274,24 @@
       "duration_ms": 158145,
       "name": "Let's Go - Alok Remix",
       "url": "https://open.spotify.com/track/6FyWLxwCe1d1Fik2PZ3bGp"
+    },
+    {
+      "album": {
+        "name": "Lets Go Down",
+        "url": "https://open.spotify.com/album/3PdQAOzlsY96sAbXcLmay7"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180073,
+      "name": "Lets Go Down",
+      "url": "https://open.spotify.com/track/3Fzb6ZBiRag6b4lQasZXDc"
     },
     {
       "album": {

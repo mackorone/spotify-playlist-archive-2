@@ -4,7 +4,7 @@
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 57 min
+73 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Forever Alone](https://open.spotify.com/track/4b2V2ZuTYELubat4l5qZaE) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:34 | 2024-01-12 | 2024-06-09 |
 | [GLAMPING](https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:21 | 2025-03-09 |  |
 | [GRACIAS](https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 1:59 | 2025-03-10 |  |
+| [hIGhLIGhTS](https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [hIGhLIGhTS](https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK) | 2:06 | 2026-10-03 |  |
 | [Homerun \(Intro\)](https://open.spotify.com/track/7kh95COsNZjnTmc6aF76n7) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:29 | 2024-07-14 |  |
 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 | 2025-01-12 |  |
 | [Julieta](https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Julieta](https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1) | 3:05 | 2023-11-10 |  |
@@ -55,7 +56,7 @@
 | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV) | 3:30 | 2023-11-10 |  |
 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2023-11-10 |  |
 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23/66](https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23/66](https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14) | 4:18 | 2023-11-10 |  |
-| [PERREITO PA LLORAR](https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [PERREITO PA LLORAR](https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv) | 3:33 | 2024-12-01 |  |
+| [PERREITO PA LLORAR](https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [PERREITO PA LLORAR](https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv) | 3:33 | 2024-12-01 | 2026-10-03 |
 | [Plan A](https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:58 | 2024-08-14 |  |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2023-11-10 | 2025-02-19 |
 | [Por Deporte](https://open.spotify.com/track/7EyGZtJuOckQfMDJL1PPrH) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:49 | 2023-11-10 | 2025-02-19 |

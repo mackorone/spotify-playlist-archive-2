@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 680937,
+  "num_followers": 680933,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,18 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
         }
       ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
+      "duration_ms": 191669,
+      "name": "Viva La Victoria",
+      "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -863,18 +859,22 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Paradigm",
-        "url": "https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ"
+        "name": "Hot Space (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
       "artists": [
         {
-          "name": "Eclipse",
-          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 191669,
-      "name": "Viva La Victoria",
-      "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
     },
     {
       "added_at": "2024-11-12 16:18:09",

@@ -1,15 +1,79 @@
 {
-  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Faiza, Artwork: Isu Kim",
-  "num_followers": 28186,
+  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Kerrington Gillespie, Artwork: Isu Kim",
+  "num_followers": 28197,
   "original_name": "Fresh Finds Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFkswO931nYwQrXExCna2RmJNdAP",
+  "snapshot_id": "AAAAAMxNNUD63cnPu8mWMt68sWcODXeH",
   "tracks": [
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
+      "album": {
+        "name": "Three Missed Calls",
+        "url": "https://open.spotify.com/album/1MK8GCuJq8JotZ7FIaP7h2"
+      },
+      "artists": [
+        {
+          "name": "Kerrington Gillespie",
+          "url": "https://open.spotify.com/artist/68xYQGUaaSPp2cKgWs0udv"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Three Missed Calls",
+      "url": "https://open.spotify.com/track/1Hq7TWA7sz7F90RzfgtyXI"
+    },
+    {
+      "added_at": "2026-10-02 16:50:21",
+      "album": {
+        "name": "Never Let You Know",
+        "url": "https://open.spotify.com/album/27AWvK2TQiPiHuSGmggIIO"
+      },
+      "artists": [
+        {
+          "name": "fangs",
+          "url": "https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW"
+        }
+      ],
+      "duration_ms": 171425,
+      "name": "Never Let You Know",
+      "url": "https://open.spotify.com/track/4ME2tEBxl7NC4E1m5JE1dP"
+    },
+    {
+      "added_at": "2026-10-02 16:50:21",
+      "album": {
+        "name": "BOO THANG!",
+        "url": "https://open.spotify.com/album/0LIkyMhzijBhsxz6id0MnK"
+      },
+      "artists": [
+        {
+          "name": "AL\u00d6W",
+          "url": "https://open.spotify.com/artist/0pbSMcnKWHnNgCxbJOnx1z"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "BOO THANG!",
+      "url": "https://open.spotify.com/track/5lxAOzITbsLobWt1bKmQtY"
+    },
+    {
+      "added_at": "2026-10-02 16:50:21",
+      "album": {
+        "name": "All dogs go to heaven",
+        "url": "https://open.spotify.com/album/5NWKlmyUqNen4ON0c0BXPy"
+      },
+      "artists": [
+        {
+          "name": "Deadin Dogyears",
+          "url": "https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "All dogs go to heaven",
+      "url": "https://open.spotify.com/track/6wAEahV7CPHBNYFBgxQ20x"
+    },
+    {
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/2ok0t0EGlpNAdnSrDuQt1j"
@@ -25,7 +89,23 @@
       "url": "https://open.spotify.com/track/3SRlVBEKrbZ2eV7281uH7q"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/1Bfd6RyPWGpDaheJqcjs7O"
+      },
+      "artists": [
+        {
+          "name": "Michaela Slinger",
+          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
+        }
+      ],
+      "duration_ms": 248452,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/63KfPwR7WOBjSPfO6iHm8i"
+    },
+    {
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Alright, alright",
         "url": "https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo"
@@ -45,7 +125,7 @@
       "url": "https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Angelic Crashout",
         "url": "https://open.spotify.com/album/4AMTgSoYEkWhOon0wm0cuI"
@@ -61,7 +141,7 @@
       "url": "https://open.spotify.com/track/6Q928SBQDBDYkv1snqXGVv"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "R\u00eave un peu",
         "url": "https://open.spotify.com/album/1pDVsUQc9tW45FdhGvkyyu"
@@ -81,7 +161,7 @@
       "url": "https://open.spotify.com/track/47uVshCuGbjYhlpNnaNPce"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Mind Candy",
         "url": "https://open.spotify.com/album/0HwoUHdQDPBtzDlszSRG6L"
@@ -97,7 +177,7 @@
       "url": "https://open.spotify.com/track/4dsxwfeFcXPFE4ya2QlrjM"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Sure",
         "url": "https://open.spotify.com/album/2tZwEVe50RwkveKMqOOojy"
@@ -113,7 +193,7 @@
       "url": "https://open.spotify.com/track/2rZb8DjFhZzaxEwEDSk6Oe"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "the end is a wave",
         "url": "https://open.spotify.com/album/0tZsKXaiaYxB6SPJvpprzC"
@@ -133,7 +213,7 @@
       "url": "https://open.spotify.com/track/3ZabZrDhpdrgcmC3KA7PXn"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "LMHYS",
         "url": "https://open.spotify.com/album/5yVSoJ9iBbHH5ABJ6Tf662"
@@ -153,7 +233,7 @@
       "url": "https://open.spotify.com/track/3mhYYznfOD7yqcHZFLwKeW"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Singing In The Rain",
         "url": "https://open.spotify.com/album/2tjcXPlwCuL4qIoTzOOiCo"
@@ -169,23 +249,7 @@
       "url": "https://open.spotify.com/track/2KX14YA4yhfptax26Bh1pU"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
-      "album": {
-        "name": "The Big Brother Heartbreak Swing",
-        "url": "https://open.spotify.com/album/5fmS4sol4NesVWCFIIm3kx"
-      },
-      "artists": [
-        {
-          "name": "The Martin Boys",
-          "url": "https://open.spotify.com/artist/0Jjl71AwTHhQlvhSeugY8k"
-        }
-      ],
-      "duration_ms": 170396,
-      "name": "The Big Brother Heartbreak Swing",
-      "url": "https://open.spotify.com/track/6hRmuHy1cF4UakLbpLituu"
-    },
-    {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "NO MORE...",
         "url": "https://open.spotify.com/album/7dWPdPghUlPD5HAUrbn6bV"
@@ -201,7 +265,7 @@
       "url": "https://open.spotify.com/track/1H0l9OnQctgStbROzai4Ag"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/3i9zyTUsS6hVPeKDgVnCAA"
@@ -217,7 +281,7 @@
       "url": "https://open.spotify.com/track/0Q9MblQEJYsux6U1Q3r4bb"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Don't Eat Don't Sleep",
         "url": "https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn"
@@ -233,39 +297,7 @@
       "url": "https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
-      "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
-      },
-      "artists": [
-        {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "pas de vagues",
-      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
-    },
-    {
-      "added_at": "2026-09-23 16:56:40",
-      "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/1NpaK8pfVfZIOBgfRaa3dc"
-      },
-      "artists": [
-        {
-          "name": "Rosabell",
-          "url": "https://open.spotify.com/artist/1SSAEa5fgaRNDtI6tm6xwM"
-        }
-      ],
-      "duration_ms": 180793,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5NCnNHJz7LmD9TpGvFGjj1"
-    },
-    {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "SEXES",
         "url": "https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T"
@@ -281,39 +313,7 @@
       "url": "https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
-      "album": {
-        "name": "copacabana",
-        "url": "https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE"
-      },
-      "artists": [
-        {
-          "name": "ZEHD",
-          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
-        }
-      ],
-      "duration_ms": 117624,
-      "name": "copacabana",
-      "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
-    },
-    {
-      "added_at": "2026-09-23 16:56:40",
-      "album": {
-        "name": "M\u00eames habitudes",
-        "url": "https://open.spotify.com/album/7EygLRx5y2tVfilyuhYOuJ"
-      },
-      "artists": [
-        {
-          "name": "Colin L\u00e9o",
-          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
-        }
-      ],
-      "duration_ms": 229481,
-      "name": "M\u00eames habitudes",
-      "url": "https://open.spotify.com/track/3cFVT6MhGbiaK89AcVKquo"
-    },
-    {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "YUL//LGA",
         "url": "https://open.spotify.com/album/2HDS7toG9kR4IjPeNBZdDv"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4xiIXXnCgenNIesVT9UJeT"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Cameraman",
         "url": "https://open.spotify.com/album/1ocZA0TfY2KEu7DM6NrjjJ"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/5GiuClsahQXP2u97P9RpZY"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "road trip",
         "url": "https://open.spotify.com/album/73Hl2gxqhpIaBFYfOEvW4T"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/7Ddnyh4De7eo7IBm55DyHG"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "srx",
         "url": "https://open.spotify.com/album/12U8IxHr7Kzhg5FpbWLutI"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/2LS8wvVo4AjL1Kuz3r90gR"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "your biggest fan",
         "url": "https://open.spotify.com/album/4HPkkUECkmoiCKgyRlPTlW"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/6qW8C1SBZqgl9fzyBbVqeg"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "HOSTAGE",
         "url": "https://open.spotify.com/album/3VpznISYQ3O59FGGxVKAX5"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/2hvPPMUyeDhHlChmyXV3z8"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "SENSUAL KOFI",
         "url": "https://open.spotify.com/album/6YrBOZBOsEfFGmW1NchQsX"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/3JaiAFC8ak8umCntk25on2"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "SO NICE",
         "url": "https://open.spotify.com/album/1PnvmMkZvd4dqidHYM2xEu"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/3cQrfgbFE3Zvk7bkFzKAAw"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "MR MONEY",
         "url": "https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/5MtyII7nE1VnlonBtsKAso"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/2aqDuoaSnWJkKzrib6BgcO"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/3ck2ziXg7uIlJ8apM1neJ0"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/6NAKKTBWoebtUTmym2RagB"
     },
     {
-      "added_at": "2026-09-23 16:56:40",
+      "added_at": "2026-10-02 16:50:21",
       "album": {
         "name": "Same Old Games",
         "url": "https://open.spotify.com/album/0Kzgi4E78BmvmNgI10JcIa"

@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 2136,
+  "num_followers": 2138,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADXOvQltTBr7+XjyDGwpSdi",
+  "snapshot_id": "ar2igAAAAAC0ePvDDH/D2xskkgItqlx4",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "autonomy+",
-        "url": "https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
       },
       "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        },
         {
           "name": "Aidan Bissett",
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 189538,
-      "name": "Hands On (feat. Aidan Bissett)",
-      "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
+      "duration_ms": 200541,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
     },
     {
       "added_at": null,
@@ -255,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
+        "name": "autonomy+",
+        "url": "https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA"
       },
       "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        },
         {
           "name": "Aidan Bissett",
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 200541,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
+      "duration_ms": 189538,
+      "name": "Hands On (feat. Aidan Bissett)",
+      "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dumped",
-        "url": "https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Dumped",
-      "url": "https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Alright If You're Ok",
         "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 171938,
       "name": "I Can't Be Your Friend",
       "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dumped",
+        "url": "https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Dumped",
+      "url": "https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL"
     },
     {
       "added_at": null,

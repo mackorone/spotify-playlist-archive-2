@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17104,
+  "num_followers": 17105,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,18 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "Without Anyone Knowing",
-        "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
       "artists": [
         {
-          "name": "Jeon Jin Hee",
-          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
         }
       ],
-      "duration_ms": 212000,
-      "name": "A Trivial Story",
-      "url": "https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf"
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -563,6 +563,22 @@
       "duration_ms": 255808,
       "name": "overdose",
       "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
+        "name": "Without Anyone Knowing",
+        "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "A Trivial Story",
+      "url": "https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -587,22 +603,6 @@
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
+        "name": "long to be the garden",
+        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
         "name": "HAPPEN",
         "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 164893,
       "name": "From the Rain (Feat. Ahn Ye Eun)",
       "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
-        "name": "long to be the garden",
-        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
     },
     {
       "added_at": "2026-07-03 07:30:31",

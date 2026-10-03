@@ -892,7 +892,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 227513,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
@@ -1532,6 +1532,32 @@
       "duration_ms": 148965,
       "name": "BBY BOO",
       "url": "https://open.spotify.com/track/5i4CFtKhvJYECSnRKlmkK8"
+    },
+    {
+      "album": {
+        "name": "Bby Girl",
+        "url": "https://open.spotify.com/album/5g8qOGkGvUNxXozm9dDk3A"
+      },
+      "artists": [
+        {
+          "name": "Kobi Cantillo",
+          "url": "https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187198,
+      "name": "Bby Girl",
+      "url": "https://open.spotify.com/track/1npPkv3P1OWlnmkeEPSSi0"
     },
     {
       "album": {
@@ -5304,7 +5330,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 172459,
       "name": "INEVITABLE",
       "url": "https://open.spotify.com/track/6RKPxsMCp2yeJgPxTJxqxU"
@@ -8071,6 +8097,36 @@
     },
     {
       "album": {
+        "name": "NI TAN SANTX",
+        "url": "https://open.spotify.com/album/2B53ZI8IljOo0wycM0Ai4i"
+      },
+      "artists": [
+        {
+          "name": "EON",
+          "url": "https://open.spotify.com/artist/1Bt6FvbEO0j0bYOqZTabUd"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "L Prince",
+          "url": "https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "NI TAN SANTX",
+      "url": "https://open.spotify.com/track/2TCy4SdgjE8SEdP0UQfPGs"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1o Eterno",
         "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
       },
@@ -8626,7 +8682,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 163200,
       "name": "Oro Puro",
       "url": "https://open.spotify.com/track/59bKgGrvcgDBkedGCSeoki"
@@ -9726,7 +9782,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 186990,
       "name": "P\u00e1sala bien sin m\u00ed",
       "url": "https://open.spotify.com/track/7kO4MG8PwgLKBXYyPQNnMV"
@@ -10246,7 +10302,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 163960,
       "name": "Respira y ya",
       "url": "https://open.spotify.com/track/27BWtWPohMX3xWtcq2tKok"
@@ -12602,6 +12658,24 @@
       "duration_ms": 204000,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW"
+    },
+    {
+      "album": {
+        "name": "Vida Nueva",
+        "url": "https://open.spotify.com/album/1sEPfsRoFz1K6pIlbQKn0M"
+      },
+      "artists": [
+        {
+          "name": "Aleckk",
+          "url": "https://open.spotify.com/artist/11cuSfmToQxhHIGZhMTlYy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Vida Nueva",
+      "url": "https://open.spotify.com/track/52Ad11OpNQoiG5E2eRw93c"
     },
     {
       "album": {

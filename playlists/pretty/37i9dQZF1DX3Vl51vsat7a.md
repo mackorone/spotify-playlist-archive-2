@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,105 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,107 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 49 | [belly of the beast](https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [bullfight](https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD) | 3:36 |
 | 50 | [Dienstag](https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dienstag](https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH) | 2:41 |
 
-Snapshot ID: `AAAAAO3pp2dITTY88ERl/DHc/d20/CFU`
+Snapshot ID: `AAAAAAZU87QbwrT6mayQAQkN8YWsOTA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,478 likes - 49 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,479 likes - 49 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 32 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
 | 33 | [L.T.W.Y.H.M.](https://open.spotify.com/track/503lQzTuf0tF8cAcilXZkz) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:29 |
 | 34 | [Lonely as It Gets](https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:16 |
-| 35 | [FGA](https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 4:20 |
-| 36 | [College](https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 2:26 |
+| 35 | [College](https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 2:26 |
+| 36 | [FGA](https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 4:20 |
 | 37 | [Depression & Obsession](https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:29 |
 | 38 | [Nothing Left to Say](https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:00 |
 | 39 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 2:35 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 48 | [Never Leave](https://open.spotify.com/track/60BIPuGD04bcqHPV1qSja0) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 3:59 |
 | 49 | [Better Without You](https://open.spotify.com/track/12lagnH3LHPUHTXkQhAGph) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:21 |
 
-Snapshot ID: `arxRAAAAAADCsUUX160DH7KH6L9ZnAxw`
+Snapshot ID: `ar2igAAAAAC/dO5B5smFXTF7RhUl+8IG`

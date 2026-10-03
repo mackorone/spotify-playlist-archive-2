@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De bekendste hits in NL \ud83d\udcfb. Cover: Douwe Bob",
+  "description": "De bekendste hits in NL \ud83d\udcfb. Cover: STELLA LEFTY",
   "name": "Hit Radio (2)",
   "tracks": [
+    {
+      "album": {
+        "name": "Stray Dogs",
+        "url": "https://open.spotify.com/album/4N31AIbwVZbbfDe48xbGnY"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246023,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/4RPgsLbTlrpoLwXqEpkhQD"
+    },
     {
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
@@ -170,7 +188,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 157556,
       "name": "20 Seconds",
       "url": "https://open.spotify.com/track/26LQZvz3LIOkJzxha3Kgyi"
@@ -576,7 +594,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
@@ -979,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
@@ -1096,10 +1132,28 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 202460,
       "name": "Bass Persuades",
       "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
+    },
+    {
+      "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202460,
+      "name": "Bass Persuades",
+      "url": "https://open.spotify.com/track/3LzQnKyOaYOfmroOwIvKUS"
     },
     {
       "album": {
@@ -1872,7 +1926,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
@@ -2256,7 +2310,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 215584,
       "name": "Dark Before The Dawn",
       "url": "https://open.spotify.com/track/69WK5gvcO8MFNNgii1lUgH"
@@ -2412,6 +2466,24 @@
       "duration_ms": 175712,
       "name": "Deze Avond!",
       "url": "https://open.spotify.com/track/1JaI4md1z1GSClwSM8nx59"
+    },
+    {
+      "album": {
+        "name": "Dicht Bij Het Vuur",
+        "url": "https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224610,
+      "name": "Dicht Bij Het Vuur",
+      "url": "https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t"
     },
     {
       "album": {
@@ -3284,7 +3356,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 263767,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
@@ -4482,7 +4554,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -4540,7 +4612,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 156190,
       "name": "I Love Life (feat. RANI)",
       "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
@@ -5834,7 +5906,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 225645,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
@@ -5989,6 +6061,32 @@
     },
     {
       "album": {
+        "name": "Mi Chico (Official - Jason Derulo x Melody)",
+        "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
+      },
+      "artists": [
+        {
+          "name": "DJ Goja",
+          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125357,
+      "name": "Mi Chico - Official - Jason Derulo x Melody",
+      "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
+    },
+    {
+      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -6036,7 +6134,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV"
@@ -6950,7 +7048,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -7147,6 +7245,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "Pauze",
         "url": "https://open.spotify.com/album/74NVfvXROXqctvQhXYpLdI"
       },
@@ -7224,6 +7340,24 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "album": {
+        "name": "AFTERPART1",
+        "url": "https://open.spotify.com/album/0KzqnvgP2lhKHKLLIxGNct"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229151,
+      "name": "Pinky Swear",
+      "url": "https://open.spotify.com/track/0BAbeScfU1HaFwHUxkr8G6"
     },
     {
       "album": {
@@ -8097,6 +8231,24 @@
     },
     {
       "album": {
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198932,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv"
+    },
+    {
+      "album": {
         "name": "Somebody Without U",
         "url": "https://open.spotify.com/album/5z5K7GmykSvshtSYlyqLVR"
       },
@@ -8362,7 +8514,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 220600,
       "name": "Still",
       "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
@@ -10131,6 +10283,24 @@
     },
     {
       "album": {
+        "name": "Who's That",
+        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314733,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
+    },
+    {
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/42tGduNh3nIT5NGsUDqcKY"
       },
@@ -10292,7 +10462,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"

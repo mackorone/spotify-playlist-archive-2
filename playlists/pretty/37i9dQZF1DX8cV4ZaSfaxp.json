@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 65416,
+  "num_followers": 65409,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "tellusboutyourself",
-        "url": "https://open.spotify.com/album/2amJH3TGEMVxSQktJNmHkj"
+        "name": "love you more,",
+        "url": "https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Lovegame",
-      "url": "https://open.spotify.com/track/6XGIDzMGmKCPKujmEoHYEx"
+      "duration_ms": 221373,
+      "name": "We",
+      "url": "https://open.spotify.com/track/0vuM2H3oow8eATaF2lXNMN"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -463,38 +463,18 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "love you more,",
-        "url": "https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC"
+        "name": "tellusboutyourself",
+        "url": "https://open.spotify.com/album/2amJH3TGEMVxSQktJNmHkj"
       },
       "artists": [
         {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 221373,
-      "name": "We",
-      "url": "https://open.spotify.com/track/0vuM2H3oow8eATaF2lXNMN"
-    },
-    {
-      "added_at": "2026-09-22 13:54:46",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/1ERqcew3rdwwhaLQUPpOfp"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Hash Swan",
-          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "City Lights (Feat. Hash Swan)",
-      "url": "https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk"
+      "duration_ms": 213466,
+      "name": "Lovegame",
+      "url": "https://open.spotify.com/track/6XGIDzMGmKCPKujmEoHYEx"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -515,18 +495,22 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "Our love is great",
-        "url": "https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ"
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/1ERqcew3rdwwhaLQUPpOfp"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
         }
       ],
-      "duration_ms": 224726,
-      "name": "\uc9c0\ucf1c\uc904\uac8c",
-      "url": "https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL"
+      "duration_ms": 229173,
+      "name": "City Lights (Feat. Hash Swan)",
+      "url": "https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -563,6 +547,22 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
+        "name": "Our love is great",
+        "url": "https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 224726,
+      "name": "\uc9c0\ucf1c\uc904\uac8c",
+      "url": "https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL"
+    },
+    {
+      "added_at": "2026-09-22 13:54:46",
+      "album": {
         "name": "nokdu ep vol.1",
         "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "Soul Tricycle",
-        "url": "https://open.spotify.com/album/2gynWgXZ5cqwvL0S0J4naU"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 283306,
-      "name": "Moments Like This",
-      "url": "https://open.spotify.com/track/4HjWscTNLKHkeoV3YopC3m"
-    },
-    {
-      "added_at": "2026-09-22 13:54:46",
-      "album": {
         "name": "timeabout,",
         "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 207125,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
+    },
+    {
+      "added_at": "2026-09-22 13:54:46",
+      "album": {
+        "name": "Soul Tricycle",
+        "url": "https://open.spotify.com/album/2gynWgXZ5cqwvL0S0J4naU"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 283306,
+      "name": "Moments Like This",
+      "url": "https://open.spotify.com/track/4HjWscTNLKHkeoV3YopC3m"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "dosii",
-        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 233804,
-      "name": "Orbit of yours",
-      "url": "https://open.spotify.com/track/5EMlw2z81mdTHa5tBLazQ6"
-    },
-    {
-      "added_at": "2026-09-22 13:54:46",
-      "album": {
         "name": "Love in TV World",
         "url": "https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 243022,
       "name": "Love in TV World",
       "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
+    },
+    {
+      "added_at": "2026-09-22 13:54:46",
+      "album": {
+        "name": "dosii",
+        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 233804,
+      "name": "Orbit of yours",
+      "url": "https://open.spotify.com/track/5EMlw2z81mdTHa5tBLazQ6"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "Onstage Digging Club Seoul Part.05",
-        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
-      },
-      "artists": [
-        {
-          "name": "DAYBREAK",
-          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
-        }
-      ],
-      "duration_ms": 294308,
-      "name": "You always - Digging Club Seoul Ver.",
-      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
-    },
-    {
-      "added_at": "2026-09-22 13:54:46",
-      "album": {
         "name": "Love visible",
         "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "Typhoon Family, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3t10HzKUKgOls7N5MRKgv0"
+        "name": "Onstage Digging Club Seoul Part.05",
+        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
       },
       "artists": [
         {
-          "name": "Lee WonSeok",
-          "url": "https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z"
+          "name": "DAYBREAK",
+          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Once again, With you",
-      "url": "https://open.spotify.com/track/31zBA8IjlBAcO261hgEtcV"
+      "duration_ms": 294308,
+      "name": "You always - Digging Club Seoul Ver.",
+      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -1183,6 +1167,22 @@
       "duration_ms": 235293,
       "name": "A song from the past",
       "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
+    },
+    {
+      "added_at": "2026-09-22 13:54:46",
+      "album": {
+        "name": "Typhoon Family, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3t10HzKUKgOls7N5MRKgv0"
+      },
+      "artists": [
+        {
+          "name": "Lee WonSeok",
+          "url": "https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Once again, With you",
+      "url": "https://open.spotify.com/track/31zBA8IjlBAcO261hgEtcV"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
+        "name": "WJ STAY?",
+        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 214847,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
+    },
+    {
+      "added_at": "2026-09-22 13:54:46",
+      "album": {
         "name": "The Story Of The Year (feat. Wonwoo)",
         "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "WJ STAY?",
-        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 214847,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
-    },
-    {
-      "added_at": "2026-09-22 13:54:46",
-      "album": {
         "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
         "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 250000,
       "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
       "url": "https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX"
+    },
+    {
+      "added_at": "2026-09-22 13:54:46",
+      "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -1319,22 +1335,6 @@
       "duration_ms": 176333,
       "name": "The Paradise",
       "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2026-09-22 13:54:46",
-      "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
+        "name": "Dance with me",
+        "url": "https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68"
+      },
+      "artists": [
+        {
+          "name": "Yein",
+          "url": "https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ"
+        }
+      ],
+      "duration_ms": 210789,
+      "name": "Dance with me",
+      "url": "https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2"
+    },
+    {
+      "added_at": "2026-09-22 13:54:46",
+      "album": {
         "name": "Do Worry Be Happy",
         "url": "https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "Dance with me",
-        "url": "https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68"
-      },
-      "artists": [
-        {
-          "name": "Yein",
-          "url": "https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ"
-        }
-      ],
-      "duration_ms": 210789,
-      "name": "Dance with me",
-      "url": "https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2"
-    },
-    {
-      "added_at": "2026-09-22 13:54:46",
-      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
+        "name": "Scent",
+        "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Get up",
+      "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
+    },
+    {
+      "added_at": "2026-09-22 13:54:46",
+      "album": {
         "name": "AQUA CITY",
         "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 299500,
       "name": "Aqua (feat. Muzie)",
       "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
-    },
-    {
-      "added_at": "2026-09-22 13:54:46",
-      "album": {
-        "name": "Scent",
-        "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
-      },
-      "artists": [
-        {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Get up",
-      "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
     },
     {
       "added_at": "2026-09-22 13:54:46",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-09-22 13:54:46",
       "album": {
-        "name": "Pink Funky",
-        "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 197240,
-      "name": "Self Camera",
-      "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
-    },
-    {
-      "added_at": "2026-09-22 13:54:46",
-      "album": {
         "name": "TALK",
         "url": "https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 203927,
       "name": "TALK",
       "url": "https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv"
+    },
+    {
+      "added_at": "2026-09-22 13:54:46",
+      "album": {
+        "name": "Pink Funky",
+        "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Self Camera",
+      "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
     },
     {
       "added_at": "2026-09-22 13:54:46",

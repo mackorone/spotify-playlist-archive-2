@@ -4,7 +4,7 @@
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-146 songs - 7 hr 11 min
+147 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Prometiste](https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:29 | 2024-01-29 | 2025-05-31 |
 | [Préstamela a Mi](https://open.spotify.com/track/05ZVJRpH2rS1tsoB4gNYof) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:39 | 2024-08-31 | 2025-06-04 |
 | [Querido Rey](https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY) | 2:48 | 2025-04-06 | 2025-11-11 |
+| [Quiéreme mientras se pueda](https://open.spotify.com/track/2kW085yDJfESoXGRFUsULZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin Castro](https://open.spotify.com/artist/3ypcczL3pVuYHO4MfQzVNh), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Quiéreme mientras se pueda](https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE) | 3:00 | 2026-10-03 |  |
 | [Qué Belleza De Mujer](https://open.spotify.com/track/1wP4GYTm4E2J7WkVRbwTeR) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mis Compas El Final](https://open.spotify.com/album/1vTFwkahBUhneC1fmz3bRy) | 2:47 | 2026-07-26 |  |
 | [Qué Belleza De Mujer](https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Qué Belleza De Mujer](https://open.spotify.com/album/2yoNgWrbxrxtoR85pzuacm) | 2:47 | 2025-08-03 | 2026-07-26 |
 | [Recuérdame](https://open.spotify.com/track/5vF6b7gpsRYNLiGfgxmYTf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Recuérdame](https://open.spotify.com/album/5VqX6ku8XE7CVA2COJ9kxu) | 2:14 | 2024-01-29 | 2024-04-16 |
@@ -135,7 +136,7 @@
 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/0aojeycz0KDO1ZHW2s2zP5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/71tQtGC4f82VbhikchHliX) | 2:14 | 2026-06-18 |  |
 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/4PnvnDk0Cg2SFRglbTv8jn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:14 | 2024-01-29 | 2026-06-18 |
 | [Se Te Olvidó](https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Se Te Olvidó](https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c) | 2:50 | 2024-01-29 | 2024-03-11 |
-| [Según Yo](https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Según Yo](https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6) | 2:54 | 2026-02-15 |  |
+| [Según Yo](https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Según Yo](https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6) | 2:54 | 2026-02-15 | 2026-10-03 |
 | [Serafin Zambada](https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt) | 2:08 | 2025-06-01 |  |
 | [Serafín Zambada](https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA) | 2:08 | 2024-01-29 | 2025-06-01 |
 | [Seremos](https://open.spotify.com/track/7b1WTbklioT0ScQUHGjS2f) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:28 | 2024-09-01 |  |

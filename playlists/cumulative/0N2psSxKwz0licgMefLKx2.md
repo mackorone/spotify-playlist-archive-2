@@ -4,7 +4,7 @@
 
 > The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Josh Ross
 
-489 songs - 1 day 2 hr 44 min
+490 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,5 +497,6 @@
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2023-11-03 | 2023-11-11 |
 | [You, Me, And Whiskey](https://open.spotify.com/track/3mkE4LX6ozOcvKEC7chB2q) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Stray Dog](https://open.spotify.com/album/1S4RLMaMM74SVgNYaBP5d2) | 3:07 | 2023-11-03 | 2024-01-27 |
 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 | 2023-11-03 | 2024-05-11 |
+| [Your Side Of The Bar](https://open.spotify.com/track/1RBAAvXYioQEegEkK1Q4M9) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Your Side Of The Bar](https://open.spotify.com/album/1ve3AFIPZ1Xi8pYvIxJadY) | 3:03 | 2026-10-02 |  |
 
 \*This playlist was first scraped on 2023-11-08. Prior content cannot be recovered.

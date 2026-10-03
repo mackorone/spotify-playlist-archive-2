@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
+      },
+      "artists": [
+        {
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279412,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
+    },
+    {
+      "album": {
         "name": "Apetite",
         "url": "https://open.spotify.com/album/7En7KqiCwS09bCfvBaPwMG"
       },
@@ -578,6 +596,24 @@
       "duration_ms": 220096,
       "name": "Arengueiro",
       "url": "https://open.spotify.com/track/1eqCDSXJWFfJubteuPmBoa"
+    },
+    {
+      "album": {
+        "name": "PEDAGIOS Y CARONAS",
+        "url": "https://open.spotify.com/album/1ADyzZnYO53coeiJT79BtK"
+      },
+      "artists": [
+        {
+          "name": "Tangolo Mangos",
+          "url": "https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142682,
+      "name": "ARMADURA ARMADILHA",
+      "url": "https://open.spotify.com/track/2qtSDKYyQVr1ef0XgIfPcw"
     },
     {
       "album": {
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 138000,
       "name": "Calma, Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
@@ -1602,6 +1638,24 @@
       "duration_ms": 225920,
       "name": "Corro Atr\u00e1s",
       "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
+    },
+    {
+      "album": {
+        "name": "Cuidando de Mim",
+        "url": "https://open.spotify.com/album/1Fj3NwX3B91AprZA9ICp4I"
+      },
+      "artists": [
+        {
+          "name": "Jona Poeta",
+          "url": "https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161633,
+      "name": "Cuidando de Mim",
+      "url": "https://open.spotify.com/track/4AhU5omIw00XmjaRRXZ0RX"
     },
     {
       "album": {
@@ -2186,7 +2240,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 130639,
       "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
       "url": "https://open.spotify.com/track/790OWdmOK2eLr9qBWEbuj4"
@@ -2544,7 +2598,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161412,
       "name": "Fica por isso",
       "url": "https://open.spotify.com/track/5NcYInBnP55eDKFglnqcWC"
@@ -3063,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "Imersa em Mim",
+        "url": "https://open.spotify.com/album/4TAjePSxC4wonO5HMWtLAO"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122470,
+      "name": "Imersa em Mim",
+      "url": "https://open.spotify.com/track/5p2r1DHUpRS3JiwyapHn9J"
+    },
+    {
+      "album": {
         "name": "Quantas Vezes a Gente Nasce?",
         "url": "https://open.spotify.com/album/1fuKrMfIn0bVrTyMZHPr3D"
       },
@@ -3328,7 +3400,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 63239,
       "name": "livre",
       "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
@@ -3582,7 +3654,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 216716,
       "name": "Marfim",
       "url": "https://open.spotify.com/track/32xPKgpBUKsGhS6wkiCJxj"
@@ -3658,7 +3730,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 231978,
       "name": "Mau Contato",
       "url": "https://open.spotify.com/track/3t3Ris8Le34GdkYN8pkuRT"
@@ -4400,7 +4472,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 155205,
       "name": "N\u00e3o Presta",
       "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
@@ -4556,6 +4628,24 @@
       "duration_ms": 169388,
       "name": "O Fim do Mundo",
       "url": "https://open.spotify.com/track/1dAALJDlnurBapUJxCGPWQ"
+    },
+    {
+      "album": {
+        "name": "O Fim do Planeta Azul",
+        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206739,
+      "name": "O Fim do Planeta Azul",
+      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
     },
     {
       "album": {
@@ -5067,6 +5157,24 @@
     },
     {
       "album": {
+        "name": "Pode falar, mas fale baixo",
+        "url": "https://open.spotify.com/album/3tqY3p9a00JiSiLj1sxRFQ"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133483,
+      "name": "Pode falar, mas fale baixo",
+      "url": "https://open.spotify.com/track/3FcgWx2THYwrOXfHWzCQVS"
+    },
+    {
+      "album": {
         "name": "Ponta da L\u00edngua",
         "url": "https://open.spotify.com/album/3OrPZPPPMiAg0D98rQScmi"
       },
@@ -5547,6 +5655,28 @@
     },
     {
       "album": {
+        "name": "Quem Sabe Outro Dia",
+        "url": "https://open.spotify.com/album/5NwvtKOhEYYFRmeRpQeenx"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        },
+        {
+          "name": "Gira Sol Music",
+          "url": "https://open.spotify.com/artist/3wnOl6o5fADg3MXsiGRNuI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Quem Sabe Outro Dia",
+      "url": "https://open.spotify.com/track/6VbSNP0eezXnA2xl99G6j4"
+    },
+    {
+      "album": {
         "name": "Raciocina",
         "url": "https://open.spotify.com/album/0pLEDluJXAROdZRUQmbHkp"
       },
@@ -5904,7 +6034,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 194407,
       "name": "Sem foto, sem v\u00eddeo",
       "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
@@ -6452,6 +6582,24 @@
       "duration_ms": 192030,
       "name": "Tempero",
       "url": "https://open.spotify.com/track/0vNbioi4jKWXBgLKbKvL0I"
+    },
+    {
+      "album": {
+        "name": "Pitiko Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1oeU3KCAFE8M6nEGtEcWAv"
+      },
+      "artists": [
+        {
+          "name": "Pitiko",
+          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185949,
+      "name": "Tempo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6WrB7JSWK2xEMSLDjRy3W0"
     },
     {
       "album": {

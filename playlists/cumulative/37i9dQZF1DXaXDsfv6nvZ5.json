@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Tank",
+  "description": "The soulful tunes to ease you into your day. Cover: Lalah Hathaway",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Made In Chicago",
+        "url": "https://open.spotify.com/album/3vbq0insUQLxjiFWTcAuce"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239750,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/3lfuwcgdKaN7qbmcSl5e6O"
+    },
+    {
+      "album": {
         "name": "Can't Stay Mad",
         "url": "https://open.spotify.com/album/0eB1N3Fd9jy79f2Ub94x07"
       },
@@ -4443,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "Eugene / Save The World",
+        "url": "https://open.spotify.com/album/6Dusr0zMg57KbTwHFapiQj"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165511,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/7qmkXF08ElAFoN7Wrn3FW1"
+    },
+    {
+      "album": {
         "name": "Eve Gene",
         "url": "https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X"
       },
@@ -5056,7 +5092,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 177688,
       "name": "Float",
       "url": "https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO"
@@ -5298,6 +5334,24 @@
       "duration_ms": 174000,
       "name": "For Life",
       "url": "https://open.spotify.com/track/6i3JecAQTANf4N1ihMo5pe"
+    },
+    {
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225191,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4KzNeDsdmsksbKdhdKMTge"
     },
     {
       "album": {
@@ -6128,7 +6182,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 250434,
       "name": "Good Bye",
       "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
@@ -11262,7 +11316,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 172933,
       "name": "Move (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/5veteY8wVcUCecyMHnjUvo"
@@ -11554,6 +11608,24 @@
       "duration_ms": 163813,
       "name": "My Heart is Drowning",
       "url": "https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5"
+    },
+    {
+      "album": {
+        "name": "Songs In The Key Of Life - The EP",
+        "url": "https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238930,
+      "name": "My Life Story Of Love",
+      "url": "https://open.spotify.com/track/3fcek9ONujbKm7piCwDBMN"
     },
     {
       "album": {
@@ -14956,7 +15028,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 193333,
       "name": "Silent Treatment",
       "url": "https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2"

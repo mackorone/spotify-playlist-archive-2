@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 19340,
+  "num_followers": 19351,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACflchSO8H812E5rnUkMmqO",
+  "snapshot_id": "ar2igAAAAABUp7IwzeDtiyyS026HBbVO",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 177318,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 190819,
       "name": "Cough Syrup",
       "url": "https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 177318,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skido (with Olamide)",
+        "url": "https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 166375,
+      "name": "Skido (with Olamide)",
+      "url": "https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 206821,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skido (with Olamide)",
-        "url": "https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 166375,
-      "name": "Skido (with Olamide)",
-      "url": "https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy"
     },
     {
       "added_at": null,

@@ -1501,6 +1501,32 @@
     },
     {
       "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224206,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
+    },
+    {
+      "album": {
         "name": "mabel",
         "url": "https://open.spotify.com/album/4DM84WwvmsLNt9jxXhE5JG"
       },
@@ -2078,7 +2104,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 195215,
       "name": "PopStar",
       "url": "https://open.spotify.com/track/4JcWkJc4RH7FgQfmyK2J3p"
@@ -2534,7 +2560,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 245606,
       "name": "Une seule vie",
       "url": "https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL"
@@ -2658,6 +2684,24 @@
       "duration_ms": 207500,
       "name": "Worst Of Me",
       "url": "https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF"
+    },
+    {
+      "album": {
+        "name": "Bonsoir Paris",
+        "url": "https://open.spotify.com/album/52cbJmAsRC76J3E0Fa2M7z"
+      },
+      "artists": [
+        {
+          "name": "Bilal Hassani",
+          "url": "https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144683,
+      "name": "XMEN",
+      "url": "https://open.spotify.com/track/4ccnIgicxHsyWOrCf82bOo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2D4YSkCZ0rP"

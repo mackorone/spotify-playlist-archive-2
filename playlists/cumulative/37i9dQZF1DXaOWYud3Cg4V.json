@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Bip Bam",
+        "url": "https://open.spotify.com/album/0DFd3Ibq9jxsbf6IErbbSh"
+      },
+      "artists": [
+        {
+          "name": "Drifters",
+          "url": "https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ"
+        },
+        {
+          "name": "Clyde McPhatter",
+          "url": "https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167785,
+      "name": "Bip Bam",
+      "url": "https://open.spotify.com/track/3sWg8GcNZw9Fpl8hTZZnMk"
+    },
+    {
+      "album": {
         "name": "Hits and Rarities",
         "url": "https://open.spotify.com/album/2bV0PFcxYOfBKqwWczSL5c"
       },
@@ -96,28 +118,6 @@
       "duration_ms": 165533,
       "name": "Bip Bam",
       "url": "https://open.spotify.com/track/7LTvkR7okLosNpWMcrV6Hf"
-    },
-    {
-      "album": {
-        "name": "Bip Bam",
-        "url": "https://open.spotify.com/album/0DFd3Ibq9jxsbf6IErbbSh"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        },
-        {
-          "name": "Clyde McPhatter",
-          "url": "https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS"
-        }
-      ],
-      "date_added": "2019-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167785,
-      "name": "Bip Bam",
-      "url": "https://open.spotify.com/track/3sWg8GcNZw9Fpl8hTZZnMk"
     },
     {
       "album": {

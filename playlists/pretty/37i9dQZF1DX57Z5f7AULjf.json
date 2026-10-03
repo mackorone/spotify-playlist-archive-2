@@ -1,6 +1,6 @@
 {
   "description": "we outside all summer 2026!",
-  "num_followers": 11066,
+  "num_followers": 11068,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
     },
     {
+      "added_at": "2025-07-11 07:49:15",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    {
       "added_at": "2025-06-13 16:58:02",
       "album": {
         "name": "SHAKE IT TO THE MAX (FLY) (REMIX)",
@@ -291,22 +307,6 @@
       "duration_ms": 178775,
       "name": "SHAKE IT TO THE MAX (FLY) - REMIX",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-    },
-    {
-      "added_at": "2025-07-11 07:49:15",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 157992,
-      "name": "squabble up",
-      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
       "added_at": "2024-05-16 21:55:50",

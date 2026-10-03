@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : 35 Chinna katha kadu!",
-  "num_followers": 468774,
+  "num_followers": 468873,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -1237,30 +1237,6 @@
       "url": "https://open.spotify.com/track/5c22snIfXnckNXV4FkLVfs"
     },
     {
-      "added_at": "2024-01-04 06:17:05",
-      "album": {
-        "name": "Ammaadi (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs"
-      },
-      "artists": [
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 219018,
-      "name": "Ammaadi (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN"
-    },
-    {
       "added_at": "2023-05-04 06:50:45",
       "album": {
         "name": "Chitralahari (Original Motion Picture Soundtrack)",
@@ -1283,6 +1259,30 @@
       "duration_ms": 217875,
       "name": "Prema Vennela",
       "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
+    },
+    {
+      "added_at": "2024-01-04 06:17:05",
+      "album": {
+        "name": "Ammaadi (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs"
+      },
+      "artists": [
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 219018,
+      "name": "Ammaadi (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN"
     },
     {
       "added_at": "2025-06-17 05:15:49",
@@ -1329,26 +1329,6 @@
       "url": "https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Shyam Singha Roy - Telugu",
-        "url": "https://open.spotify.com/album/1GfJGg83IGM5TQz400PF3P"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 253595,
-      "name": "Sirivennela",
-      "url": "https://open.spotify.com/track/2WNkeWfXnpCbYtTG1ko0C3"
-    },
-    {
       "added_at": "2023-12-12 05:49:47",
       "album": {
         "name": "Kushi (Telugu)",
@@ -1371,6 +1351,26 @@
       "duration_ms": 282222,
       "name": "Aradhya",
       "url": "https://open.spotify.com/track/3nCqpSpwxuO4gYF1wGS6WM"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Shyam Singha Roy - Telugu",
+        "url": "https://open.spotify.com/album/1GfJGg83IGM5TQz400PF3P"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 253595,
+      "name": "Sirivennela",
+      "url": "https://open.spotify.com/track/2WNkeWfXnpCbYtTG1ko0C3"
     },
     {
       "added_at": "2022-04-20 12:49:50",
@@ -1449,6 +1449,22 @@
       "url": "https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit"
     },
     {
+      "added_at": "2023-12-12 05:49:47",
+      "album": {
+        "name": "Kushi (Telugu)",
+        "url": "https://open.spotify.com/album/78bohc0Dzw7AoPpqVn9rsl"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Na Roja Nuvve",
+      "url": "https://open.spotify.com/track/5ReOjb2X6TCkMfYoHuVW1b"
+    },
+    {
       "added_at": "2025-12-16 12:04:49",
       "album": {
         "name": "Sammohanam",
@@ -1467,22 +1483,6 @@
       "duration_ms": 287500,
       "name": "O Cheli Thaara",
       "url": "https://open.spotify.com/track/6bPRGizJcgvsREfNI76hbm"
-    },
-    {
-      "added_at": "2023-12-12 05:49:47",
-      "album": {
-        "name": "Kushi (Telugu)",
-        "url": "https://open.spotify.com/album/78bohc0Dzw7AoPpqVn9rsl"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Na Roja Nuvve",
-      "url": "https://open.spotify.com/track/5ReOjb2X6TCkMfYoHuVW1b"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-07-24 04:40:57",
       "album": {
+        "name": "Agnyaathavaasi",
+        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Gaali Vaaluga",
+      "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
         "name": "Tholi Prema",
         "url": "https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 262488,
       "name": "Seethakaalam",
       "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Agnyaathavaasi",
-        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Gaali Vaaluga",
-      "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1891,6 +1891,30 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Aa Aaa",
+        "url": "https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY"
+      },
+      "artists": [
+        {
+          "name": "Ramya",
+          "url": "https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU"
+        },
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        },
+        {
+          "name": "Shivani",
+          "url": "https://open.spotify.com/artist/1YgwDFQvwbprfD17tGUjje"
+        }
+      ],
+      "duration_ms": 241301,
+      "name": "Rang de",
+      "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Son Of Satyamurthy",
         "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
       },
@@ -1955,30 +1979,6 @@
       "duration_ms": 278188,
       "name": "Super Machi",
       "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Aa Aaa",
-        "url": "https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY"
-      },
-      "artists": [
-        {
-          "name": "Ramya",
-          "url": "https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU"
-        },
-        {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
-        },
-        {
-          "name": "Shivani",
-          "url": "https://open.spotify.com/artist/1YgwDFQvwbprfD17tGUjje"
-        }
-      ],
-      "duration_ms": 241301,
-      "name": "Rang de",
-      "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
     },
     {
       "added_at": "2023-05-04 06:50:45",

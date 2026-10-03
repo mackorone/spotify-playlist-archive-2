@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 328134,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/0uqew5SZsE86I2iJxJZ2qN"
@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 193032,
       "name": "Salve",
       "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
@@ -4428,6 +4428,28 @@
       "duration_ms": 274267,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/6K33NwGklMpJcuGJV4x2QP"
+    },
+    {
+      "album": {
+        "name": "Shark Island (Catching Flies Remix)",
+        "url": "https://open.spotify.com/album/3miwvvAWjdknw8HsLzI5ob"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        },
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Shark Island - Catching Flies Remix",
+      "url": "https://open.spotify.com/track/57AirOkRR9ZhvhqLJzYR8q"
     },
     {
       "album": {
@@ -5001,6 +5023,28 @@
     },
     {
       "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nicole Miglis",
+          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222768,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
+    },
+    {
+      "album": {
         "name": "Talk to me.",
         "url": "https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb"
       },
@@ -5180,6 +5224,24 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "album": {
+        "name": "Tiger J",
+        "url": "https://open.spotify.com/album/75kClBh4BxMYW2vDLRQZPv"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142374,
+      "name": "Tiger J",
+      "url": "https://open.spotify.com/track/6flDEslugdakU3TXKKFfaP"
     },
     {
       "album": {

@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/415NFtondfQxw7jbDnluXA"
+      },
+      "artists": [
+        {
+          "name": "Eldur H\u00e6ttu",
+          "url": "https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153703,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/5KtTIe5YwHG4X3Bh8oyWgg"
+    },
+    {
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc"
       },
@@ -6802,6 +6820,24 @@
       "duration_ms": 165625,
       "name": "The Breeze and The Wildflower",
       "url": "https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd"
+    },
+    {
+      "album": {
+        "name": "The Lake",
+        "url": "https://open.spotify.com/album/0bcStTczSPZXhoQb9WRcEF"
+      },
+      "artists": [
+        {
+          "name": "Andrei Mizi",
+          "url": "https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "The Lake",
+      "url": "https://open.spotify.com/track/2sSPfSdiA7jBbAss6JMkZQ"
     },
     {
       "album": {

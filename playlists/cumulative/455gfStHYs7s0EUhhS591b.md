@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-291 songs - 17 hr 2 min
+291 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Moments \- Ben Böhmer & Nils Hoffmann Remix](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Grow \(The Remixes\)](https://open.spotify.com/album/3dOltzM79aOC0iyFpxoZ9B) | 4:10 | 2025-07-18 | 2026-04-18 |
 | [More \- Alternative Version](https://open.spotify.com/track/6GMoGhXyoL5EeP2VBgMGzJ) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Elena Pitoulis](https://open.spotify.com/artist/0Zw91yH74OemLqD4rHn96K) | [More \(Alternative Version\)](https://open.spotify.com/album/1PkTPHpAEoiEL5EuY3F5QG) | 3:25 | 2026-02-06 |  |
 | [Most Precious Love](https://open.spotify.com/track/0ggvWBJsXvs2eHuPbuIwPK) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/1ZOKEIxWal7useozipXnXf) | 3:23 | 2025-09-10 | 2025-09-12 |
-| [Most Precious Love](https://open.spotify.com/track/1Ldw6s3GxtPbnpWrcTiNNy) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/2okApCQGjBq76SInGD7tbP) | 4:40 | 2026-10-02 |  |
+| [Most Precious Love](https://open.spotify.com/track/1Ldw6s3GxtPbnpWrcTiNNy) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/2okApCQGjBq76SInGD7tbP) | 3:44 | 2026-10-02 |  |
 | [Music In You](https://open.spotify.com/track/0t3uSTVVYGVYVKJUlOMqfk) | [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS), [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Music In You](https://open.spotify.com/album/2XvXKXxsvh1OKl2KPkf1r8) | 3:05 | 2025-07-18 | 2025-10-10 |
 | [My Lexicon](https://open.spotify.com/track/78oK40shzFPg5GEJUzoKrn) | [Sander Kleinenberg](https://open.spotify.com/artist/3CfH3WZPzbk5mNDWXpGIy6), [T\_Mo](https://open.spotify.com/artist/0LT7oynRzMKoEEW9HU5qM6) | [My Lexicon](https://open.spotify.com/album/4c41gX4blJgHciAfEcea1E) | 3:37 | 2025-12-19 |  |
 | [Mystic Lands](https://open.spotify.com/track/3ASVcJLNtTfTEHeqOny2tf) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Mystic Lands](https://open.spotify.com/album/10DeLctLwEdDTZG8sO0te3) | 2:50 | 2025-09-05 |  |

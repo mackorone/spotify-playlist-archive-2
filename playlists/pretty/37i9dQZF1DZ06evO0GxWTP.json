@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 25938,
+  "num_followers": 25946,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABZbQ7meF3vA9PsHWZomdoi",
+  "snapshot_id": "ar2igAAAAABKc77MNiO7DZ9K5QeZ2OeN",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In De Olie",
-        "url": "https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 134364,
-      "name": "In De Olie",
-      "url": "https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ben Je Morgen Vrij?",
         "url": "https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 153750,
       "name": "Ben Je Morgen Vrij?",
       "url": "https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In De Olie",
+        "url": "https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 134364,
+      "name": "In De Olie",
+      "url": "https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy"
     },
     {
       "added_at": null,

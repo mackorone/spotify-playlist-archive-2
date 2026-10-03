@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Apna Bnane Ka",
+        "url": "https://open.spotify.com/album/1AyikZ4vGASriaASy3NNXh"
+      },
+      "artists": [
+        {
+          "name": "Vijay Shukla Garg",
+          "url": "https://open.spotify.com/artist/4FhrqnnTZSAZU9wWbSXIXW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Apna Bnane Ka",
+      "url": "https://open.spotify.com/track/2xmP8DFP6KHnpG4XsnM4RJ"
+    },
+    {
+      "album": {
         "name": "Applaus",
         "url": "https://open.spotify.com/album/69c1pbEbXnsALDaoYmnnZO"
       },
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 224400,
       "name": "Arena y Sal - Remix",
       "url": "https://open.spotify.com/track/4Y1RkPyZPjbJJvPOeXVgUH"
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 174857,
       "name": "Centered",
       "url": "https://open.spotify.com/track/15DiUJAOfFXa4ry8TVCl4I"
@@ -8226,7 +8244,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 224888,
       "name": "Fish & Chips",
       "url": "https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA"
@@ -12550,7 +12568,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 302760,
       "name": "Keep the Fire Burning",
       "url": "https://open.spotify.com/track/56ng0MPvNTSK3mddL5FlrE"
@@ -14675,6 +14693,24 @@
     },
     {
       "album": {
+        "name": "Lunes",
+        "url": "https://open.spotify.com/album/3p1lsGdPkLGv6aSw9BS298"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192080,
+      "name": "Lunes, atardecer",
+      "url": "https://open.spotify.com/track/2EAm8MWjMfkJTDSMUViShv"
+    },
+    {
+      "album": {
         "name": "L\u00edrica Abstracta",
         "url": "https://open.spotify.com/album/30WhxZiuRNq9vUf35QPp2M"
       },
@@ -15020,6 +15056,24 @@
       "duration_ms": 176000,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/2RBYsVnwR6QKhv6BONCggI"
+    },
+    {
+      "album": {
+        "name": "MAL DE AMORES",
+        "url": "https://open.spotify.com/album/6gMXLZc9mWTv56GS4kIigS"
+      },
+      "artists": [
+        {
+          "name": "Chicka Tikka Masala",
+          "url": "https://open.spotify.com/artist/1itNEUHvXnRTI9iCL5KGCt"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244412,
+      "name": "MAL DE AMORES",
+      "url": "https://open.spotify.com/track/0uEhQSc6LrfTLJErbzfHK8"
     },
     {
       "album": {
@@ -15408,7 +15462,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 146796,
       "name": "MBTAM",
       "url": "https://open.spotify.com/track/1cnaFPJRxqXW5X0TccsoZp"
@@ -16344,7 +16398,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 254626,
       "name": "Music Set Her Free",
       "url": "https://open.spotify.com/track/3e9wXMK634KnIwOgZUQ3eU"
@@ -16930,7 +16984,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 202828,
       "name": "Nicht nur heut",
       "url": "https://open.spotify.com/track/7Kfb3DrhtIApy2CuTWwfs8"
@@ -18730,7 +18784,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 236571,
       "name": "Partycrasher",
       "url": "https://open.spotify.com/track/59JSdeSwOgjOVjDa8dGTlO"
@@ -18770,6 +18824,24 @@
       "duration_ms": 161500,
       "name": "Passagem",
       "url": "https://open.spotify.com/track/0n56biI1rHRnpgdcl9QvVl"
+    },
+    {
+      "album": {
+        "name": "Passenger Hookr",
+        "url": "https://open.spotify.com/album/0uQIglkhMcFeJo2CbCNTnX"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136935,
+      "name": "Passenger Hookr",
+      "url": "https://open.spotify.com/track/0OEqN4sr8rsroFnBGLysOc"
     },
     {
       "album": {
@@ -19178,7 +19250,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 104414,
       "name": "Plinthe",
       "url": "https://open.spotify.com/track/6GMYzLHqaYsuRe4BBwtDE3"
@@ -19972,7 +20044,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 208080,
       "name": "Ready to fly",
       "url": "https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x"
@@ -22734,7 +22806,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 165740,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/1i9G9QJk7VwyiEyPE9QRlb"
@@ -23482,7 +23554,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 204840,
       "name": "Sunshine Mery",
       "url": "https://open.spotify.com/track/6R8bdDF7LEmYfSFnuL8JPb"
@@ -23918,7 +23990,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 247078,
       "name": "Telephone (Demo)",
       "url": "https://open.spotify.com/track/41xiEeepKURMhIFOtBahiM"
@@ -24640,7 +24712,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 211624,
       "name": "The Forest Song - A Cappella Version",
       "url": "https://open.spotify.com/track/2oEEGGspJgXus3vxjDWqxI"
@@ -26598,6 +26670,24 @@
       "duration_ms": 183204,
       "name": "Un'altra lacrima",
       "url": "https://open.spotify.com/track/7Dhz8HBG6kELvHBxrvrIvB"
+    },
+    {
+      "album": {
+        "name": "Un'anima",
+        "url": "https://open.spotify.com/album/59B8gGE2lecht7tVqGJZKi"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Giusti",
+          "url": "https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203120,
+      "name": "Un'anima",
+      "url": "https://open.spotify.com/track/3QOtvgnwYDw7aM9tjJTO1v"
     },
     {
       "album": {
@@ -28924,7 +29014,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 220137,
       "name": "You Made Me Bad",
       "url": "https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL"
@@ -29102,7 +29192,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 170618,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/5ydEmfU0qNFnrn8EhB0tb6"
@@ -29142,7 +29232,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 208680,
       "name": "Your Silence Is Deadly",
       "url": "https://open.spotify.com/track/3ohK0x2FlMSCHSyepX4h0Q"

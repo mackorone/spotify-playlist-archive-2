@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-545 songs - 1 day 10 hr 30 min
+546 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [スーパー愛したい \- fantastic ver.](https://open.spotify.com/track/314Q8YaLGYZg6bZCx9dbje) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ファンタジーな祝日を!!!](https://open.spotify.com/album/2DgoQE2Qb3e990SJER3TIG) | 4:00 | 2024-02-13 | 2024-03-20 |
 | [タイムマシンにのって](https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [タイムマシンにのって](https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7) | 3:56 | 2023-09-26 | 2024-02-14 |
 | [タペストリー](https://open.spotify.com/track/0lqAOs9poxlM8FE5j40URh) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:58 | 2025-04-22 | 2025-05-21 |
+| [ダイヤモンド](https://open.spotify.com/track/5rJPYbYFfXfj3lcA9ol8p3) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [cats](https://open.spotify.com/album/143f7cJ4Q5Wq5FzUtFLJW2) | 4:56 | 2026-09-22 |  |
 | [ダーリン](https://open.spotify.com/track/010Xsoma6PVCxHbCESayQX) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [ダーリン](https://open.spotify.com/album/6hgcwuQOeRXhEj52Zr1CUK) | 3:04 | 2023-07-02 | 2023-07-05 |
 | [チェリー](https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [インディゴ地平線](https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N) | 4:19 | 2023-02-09 |  |
 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 | 2023-11-01 |  |
@@ -378,7 +379,7 @@
 | [一目惚れ](https://open.spotify.com/track/08xsN4IJlXiJOc3C7jWNaZ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [一目惚れ](https://open.spotify.com/album/6HTYjgKJEQdvrOIB8WGeGN) | 3:21 | 2024-07-04 | 2026-07-22 |
 | [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 | 2024-11-05 | 2024-12-04 |
 | [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/track/4PrieVZcLYKhv90hNGt9i9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/album/0vbubUchyOq3wbOG0MZIQK) | 4:32 | 2023-04-27 | 2023-04-29 |
-| [世界が終わりました](https://open.spotify.com/track/5XyD56RYaj2XGxfyc34jQD) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [世界が終わりました](https://open.spotify.com/album/1Ztds5OynOrMcfkPLi47Ps) | 4:14 | 2026-01-21 |  |
+| [世界が終わりました](https://open.spotify.com/track/5XyD56RYaj2XGxfyc34jQD) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [世界が終わりました](https://open.spotify.com/album/1Ztds5OynOrMcfkPLi47Ps) | 4:14 | 2026-01-21 | 2026-10-03 |
 | [世界中の誰よりきっと](https://open.spotify.com/track/5DEb6u4nukTgZh4fF9JNNx) | [中山美穂 & WANDS](https://open.spotify.com/artist/5fgs0MDos9tQllg7fV27Ug) | [世界中の誰よりきっと](https://open.spotify.com/album/65kZbjt416lwJLcyaX4b5b) | 4:07 | 2024-12-10 | 2025-01-13 |
 | [今 \-明日 世界が終わっても\-](https://open.spotify.com/track/2dThVzsCkB0L8tWFvQH53N) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [ALWAYS YOURS](https://open.spotify.com/album/5Qae32LmUnMlJRqZv2BWvY) | 3:11 | 2023-08-24 | 2023-11-16 |
 | [今夜2人だけのダンスを](https://open.spotify.com/track/6ljAfGfbmkBnhEwREQQsAY) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 4:11 | 2023-08-10 | 2023-08-16 |

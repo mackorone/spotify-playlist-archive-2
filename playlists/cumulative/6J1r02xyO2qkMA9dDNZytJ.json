@@ -7005,6 +7005,28 @@
     },
     {
       "album": {
+        "name": "What's Up Man",
+        "url": "https://open.spotify.com/album/4IRi9QOKNsIN0a3e8ptueZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
+        },
+        {
+          "name": "Danny Rhys",
+          "url": "https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "What's Up Man",
+      "url": "https://open.spotify.com/track/0QjUi7OgEddMwqR79bZeDz"
+    },
+    {
+      "album": {
         "name": "WHAT?!",
         "url": "https://open.spotify.com/album/3UjpGkt987CyttBrXfKy4U"
       },

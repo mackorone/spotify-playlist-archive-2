@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 218788,
       "name": "A GoodStart",
       "url": "https://open.spotify.com/track/6jFk5NOvKpZSihrpr3Ph4Z"
@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Dreams Of Glory",
+        "url": "https://open.spotify.com/album/1LsOTDYFTAycBI7A13uN6O"
+      },
+      "artists": [
+        {
+          "name": "Tahiti 80",
+          "url": "https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156608,
+      "name": "Dreams Of Glory",
+      "url": "https://open.spotify.com/track/3TqGsoyxdNceNjtxnpZYUj"
+    },
+    {
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 201766,
       "name": "how do you dance?",
       "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
@@ -4928,6 +4946,24 @@
       "duration_ms": 203916,
       "name": "Love It When I Need It",
       "url": "https://open.spotify.com/track/0ssfMVEA0x8ARvoXb8krym"
+    },
+    {
+      "album": {
+        "name": "Love Ruins Everything",
+        "url": "https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Love Ruins Everything",
+      "url": "https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm"
     },
     {
       "album": {
@@ -7140,6 +7176,24 @@
       "duration_ms": 149736,
       "name": "Rio Lua",
       "url": "https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW"
+    },
+    {
+      "album": {
+        "name": "Rip Out Your Eyes",
+        "url": "https://open.spotify.com/album/0YjloWsPRMejK5paUu0UoE"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110172,
+      "name": "Rip Out Your Eyes",
+      "url": "https://open.spotify.com/track/1VPXCaMRqLuL6WH7vRtHKw"
     },
     {
       "album": {
@@ -9390,7 +9444,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 224957,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/4zuis8Tg4TrhoQfRaKtCJ0"
@@ -9516,7 +9570,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 242460,
       "name": "Whether I Win or Lose",
       "url": "https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d"
@@ -9788,6 +9842,24 @@
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
+    },
+    {
+      "album": {
+        "name": "You Love Me",
+        "url": "https://open.spotify.com/album/0svkRLuuzbdyZIs1yVUl4R"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229647,
+      "name": "You Love Me",
+      "url": "https://open.spotify.com/track/48HVMmDbJuZDZY8wwSii4l"
     },
     {
       "album": {

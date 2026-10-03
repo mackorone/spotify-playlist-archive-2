@@ -5403,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Anandamida",
+        "url": "https://open.spotify.com/album/5nTVHbQroBaP3cjBbry7PE"
+      },
+      "artists": [
+        {
+          "name": "S\u00f4ber",
+          "url": "https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313911,
+      "name": "En la orilla",
+      "url": "https://open.spotify.com/track/58aSiRffH5Z2a06TntQFMy"
+    },
+    {
+      "album": {
         "name": "En la Rampa de Salida",
         "url": "https://open.spotify.com/album/0tnoetHAxbjN5w8BUFOjXa"
       },
@@ -9038,7 +9056,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 206077,
       "name": "Luces blancas",
       "url": "https://open.spotify.com/track/4rsG3MmzIZKAjxVFvhzGmP"

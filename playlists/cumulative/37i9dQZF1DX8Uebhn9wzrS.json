@@ -4084,7 +4084,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 149138,
       "name": "before & above",
       "url": "https://open.spotify.com/track/6TcQBtHJPSMGZz7XwRfEay"
@@ -34572,6 +34572,24 @@
       "duration_ms": 126727,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2Fc4CqCia3MvJeWULkzW9o"
+    },
+    {
+      "album": {
+        "name": "Roosevelt Hotel",
+        "url": "https://open.spotify.com/album/4tmbiEVsGPSUCnPjePHVAQ"
+      },
+      "artists": [
+        {
+          "name": "Mr Clyde",
+          "url": "https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140541,
+      "name": "Roosevelt Hotel",
+      "url": "https://open.spotify.com/track/2BhVxXIkQ5mAZ5yewY62MY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,534 songs - 4 day 0 hr 23 min
+2,535 songs - 4 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Beckwith Park](https://open.spotify.com/track/3EdnY6AU6Au7tGWcJVPbFs) | [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Beckwith Park](https://open.spotify.com/album/4NLEjUzqoXJJe9LV33KwQo) | 1:33 | 2024-07-26 |  |
 | [Bedroom Blues](https://open.spotify.com/track/4t3Z814iGT0URcS0ngMEFk) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Bedroom Blues](https://open.spotify.com/album/1LQtGwotUfxdGcvaUckfhx) | 2:07 | 2022-05-13 | 2023-08-18 |
 | [Beer](https://open.spotify.com/track/3YlrqoKFUbIynPo4Bj2sxy) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beer](https://open.spotify.com/album/06WnLOraloov43vf1NVS01) | 3:01 | 2022-12-02 | 2023-02-07 |
-| [before & above](https://open.spotify.com/track/6TcQBtHJPSMGZz7XwRfEay) | [Dean Bowser](https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90) | [before & above](https://open.spotify.com/album/6RVQJSARyEU3Cgwbhqqd1i) | 2:29 | 2026-09-25 |  |
+| [before & above](https://open.spotify.com/track/6TcQBtHJPSMGZz7XwRfEay) | [Dean Bowser](https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90) | [before & above](https://open.spotify.com/album/6RVQJSARyEU3Cgwbhqqd1i) | 2:29 | 2026-09-25 | 2026-10-03 |
 | [Before the sea](https://open.spotify.com/track/4JkukV5QYxyUq4cwgn9BVI) | [Keith Hamasaki](https://open.spotify.com/artist/6nv23J7HXGspwrnU3M3O2i) | [Before the sea](https://open.spotify.com/album/76MYd834C4kMxG3oh5djnd) | 2:33 | 2024-02-09 | 2025-11-26 |
 | [Behind the stars](https://open.spotify.com/track/2Qu8fz0Ae2tNvBefZoZIJF) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Behind the stars](https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9) | 2:22 | 2023-11-17 |  |
 | [Being Free](https://open.spotify.com/track/4cmezsZ5LAp5p62KwiWS48) | [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Gamba De Bass](https://open.spotify.com/artist/2AIGmNxlOQEgrznr0gVGdW), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Being Free](https://open.spotify.com/album/4fT3gjhAX0JpAHUQy5qBgY) | 2:52 | 2023-02-06 | 2023-09-14 |
@@ -1847,6 +1847,7 @@
 | [rollups](https://open.spotify.com/track/0egGEXJbXSsahzn67PQmPr) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [rollups](https://open.spotify.com/album/464Q2A9SCCQRi6RxIVm8ub) | 1:46 | 2023-01-20 | 2023-10-27 |
 | [Romance](https://open.spotify.com/track/7Im1vmqr67pYDEVGg5C8JO) | [Jazza Mazza](https://open.spotify.com/artist/2rd4NH7tA06zYwgkRsbjqM) | [Romance](https://open.spotify.com/album/07BnZeGBwpCJ53CwUsKNj6) | 2:06 | 2025-01-10 | 2025-07-18 |
 | [Rooftop](https://open.spotify.com/track/2Fc4CqCia3MvJeWULkzW9o) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Notes & Notes](https://open.spotify.com/album/4FMg0ovfJvNeNNoYs8Rn5N) | 2:06 | 2022-04-15 | 2022-11-12 |
+| [Roosevelt Hotel](https://open.spotify.com/track/2BhVxXIkQ5mAZ5yewY62MY) | [Mr Clyde](https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby) | [Roosevelt Hotel](https://open.spotify.com/album/4tmbiEVsGPSUCnPjePHVAQ) | 2:20 | 2026-09-25 |  |
 | [Roots of the Green](https://open.spotify.com/track/1b8U66FM9AsyPEc3fX7sai) | [Variantations](https://open.spotify.com/artist/0T9rN6QQTpCjTgS0lnxjp4) | [Nothing Nothing Nothing](https://open.spotify.com/album/1G8bOuwfnLfVelPOCCz2Mv) | 3:13 | 2022-04-15 | 2022-08-19 |
 | [rose quartz](https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [rose quartz](https://open.spotify.com/album/6Vzlg6lBDOAUBXUARsv4ky) | 2:04 | 2024-01-12 |  |
 | [Roses](https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Roses](https://open.spotify.com/album/55goHQ2i5lKMDGiC7IDCLr) | 2:57 | 2023-07-13 | 2025-11-21 |

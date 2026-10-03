@@ -3123,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "distant",
+        "url": "https://open.spotify.com/album/76BI0NDhFtSMymvLTbNrFc"
+      },
+      "artists": [
+        {
+          "name": "\u00e9mil caron",
+          "url": "https://open.spotify.com/artist/3CIclunycRScwkcMOLYh2d"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156354,
+      "name": "distant",
+      "url": "https://open.spotify.com/track/6a0SGQZhpoMEdNJFLQRl4A"
+    },
+    {
+      "album": {
         "name": "Dolce",
         "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
       },
@@ -10596,6 +10614,24 @@
       "duration_ms": 163804,
       "name": "Quieta",
       "url": "https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY"
+    },
+    {
+      "album": {
+        "name": "Quietly Passing by",
+        "url": "https://open.spotify.com/album/7rTBofqPnRM33AMX56ha86"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "Quietly Passing by",
+      "url": "https://open.spotify.com/track/4Jnm2KH4hvLWeopJtn7Dd1"
     },
     {
       "album": {

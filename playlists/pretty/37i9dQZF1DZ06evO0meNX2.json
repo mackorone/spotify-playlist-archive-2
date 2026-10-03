@@ -1,29 +1,13 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 46758,
+  "num_followers": 46776,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABjza2jdCySqKHEX/DG3FZO",
+  "snapshot_id": "ar2igAAAAAAyfMb1ZxbKbSPdqITrpoi5",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Ve\u00edas Mejor Conmigo",
-        "url": "https://open.spotify.com/album/5WoBsZJH0PQam9KHuqySsy"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 246917,
-      "name": "Te Ve\u00edas Mejor Conmigo",
-      "url": "https://open.spotify.com/track/1BK4xoiUrKWdxim5GI1EM8"
-    },
     {
       "added_at": null,
       "album": {
@@ -127,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Ve\u00edas Mejor Conmigo",
+        "url": "https://open.spotify.com/album/5WoBsZJH0PQam9KHuqySsy"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 246917,
+      "name": "Te Ve\u00edas Mejor Conmigo",
+      "url": "https://open.spotify.com/track/1BK4xoiUrKWdxim5GI1EM8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olv\u00eddame T\u00fa",
         "url": "https://open.spotify.com/album/2tSsIQp0KZgCOl99gCC5Is"
       },
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Es Lo Mismo (En Vivo)",
         "url": "https://open.spotify.com/album/12YLbfNadk45nGSpM7RDK1"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 193375,
       "name": "Ya No Es Lo Mismo - En Vivo",
       "url": "https://open.spotify.com/track/05RPPZBbDNRkVsVKFIncI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 171676,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni\u00f1o De Oro",
         "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
       },
@@ -535,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 225818,
+      "name": "Cinco Celulares",
+      "url": "https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Habemus Conciliaci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
       },
@@ -551,22 +587,6 @@
       "duration_ms": 223743,
       "name": "Habemus Conciliaci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 200357,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
     },
     {
       "added_at": null,
@@ -607,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
       },
@@ -619,22 +655,6 @@
       "duration_ms": 163293,
       "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 225818,
-      "name": "Cinco Celulares",
-      "url": "https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
       "duration_ms": 184192,
       "name": "Flotando En El Aire",
       "url": "https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Formula",
-        "url": "https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 171676,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn"
     },
     {
       "added_at": null,

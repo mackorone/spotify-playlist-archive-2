@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16461,
+  "num_followers": 16468,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABdHeiEQBalW3SfAQtFl53U",
+  "snapshot_id": "ar2igAAAAABYf5qXLk6L0DbcNTfu3iIe",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 190529,
+      "name": "FOILS",
+      "url": "https://open.spotify.com/track/4ZT5vcmGejiaDvIH9AAIME"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 304560,
       "name": "Runnin (From \"Creed II\" Soundtrack) (feat. A$AP Rocky & Jacob Banks)",
       "url": "https://open.spotify.com/track/7ckSHKZnX72c6IQnKGJNpi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 190529,
-      "name": "FOILS",
-      "url": "https://open.spotify.com/track/4ZT5vcmGejiaDvIH9AAIME"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything, Everything (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 114600,
-      "name": "Truths (From \"Everything, Everything\" Score)",
-      "url": "https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CREED: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 294925,
       "name": "Lord Knows / Fighting Stronger",
       "url": "https://open.spotify.com/track/767T5vqvDToZ8LtqT8iZx9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything, Everything (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 114600,
+      "name": "Truths (From \"Everything, Everything\" Score)",
+      "url": "https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creed (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 80818,
+      "name": "Caught in the Shadow",
+      "url": "https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
       },
@@ -523,6 +539,22 @@
       "duration_ms": 135646,
       "name": "MEETING NEIL",
       "url": "https://open.spotify.com/track/4GZnjZKMYhG1CCBfjI3nN4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 480945,
+      "name": "RAINY NIGHT IN TALLINN",
+      "url": "https://open.spotify.com/track/5r6l0sPvfeAPjQ67fCgOwG"
     }
   ],
   "unique_name": "This Is Ludwig G\u00f6ransson",

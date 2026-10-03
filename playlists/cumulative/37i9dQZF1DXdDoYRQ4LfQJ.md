@@ -2,7 +2,7 @@
 
 ### [Bien Chaka](https://open.spotify.com/playlist/37i9dQZF1DXdDoYRQ4LfQJ)
 
-> Bien Chaka con Grupo Ajedrez & the hottest Corridos in the U.S.
+> Bien Chaka con Eley Romero, Kane Rodriguez & the hottest Corridos in the U.S.
 
 583 songs - 1 day 5 hr 2 min
 
@@ -302,7 +302,7 @@
 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 | 2022-05-20 | 2024-03-16 |
 | [Joaquín](https://open.spotify.com/track/1CwE10Ey9FKqyojI6v3Dfe) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Joaquín](https://open.spotify.com/album/5jbWMaT81ek6ZkLFFhwon8) | 3:39 | 2024-03-01 | 2024-03-23 |
 | [Joven De La Sierra](https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [Joven De La Sierra](https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K) | 3:16 | 2025-01-29 | 2026-04-21 |
-| [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 | 2024-01-18 |  |
+| [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 | 2024-01-18 | 2026-10-03 |
 | [KOREANAS](https://open.spotify.com/track/1NfIx5rTGzx57BA8cRSE3W) | [Grupo Ajedrez](https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor) | [KOREANAS](https://open.spotify.com/album/0KG5Zhk6ZMrouSnVKjFaro) | 2:26 | 2026-06-19 | 2026-08-01 |
 | [La 701](https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:59 | 2024-03-01 | 2026-09-08 |
 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 | 2023-09-08 | 2025-08-27 |
@@ -426,7 +426,7 @@
 | [No Es Pa Presumir](https://open.spotify.com/track/5acrMqriX3SFJzQ8Y2RD1Z) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Es Pa Presumir](https://open.spotify.com/album/44yO6XmYiE1CdOHYqjRyYu) | 3:37 | 2022-05-20 | 2022-07-29 |
 | [No Falta Mas Tiempo](https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Falta Mas Tiempo](https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY) | 2:46 | 2022-05-20 | 2022-08-06 |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-05-20 | 2023-09-09 |
-| [NO PASA NADA](https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NO PASA NADA](https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau) | 2:16 | 2024-10-18 | 2026-04-30 |
+| [NO PASA NADA](https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NO PASA NADA](https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau) | 2:16 | 2024-10-18 |  |
 | [NO SON DORITOS](https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Son Doritos](https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc) | 2:40 | 2024-08-30 |  |
 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 | 2023-01-09 | 2024-03-23 |
 | [OBC](https://open.spotify.com/track/0H6ZvvBboSzN0WJm9bWm8s) | [Grupo Ajedrez](https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor) | [OBC](https://open.spotify.com/album/17nSmV55TQWhHhZJ1sPcGZ) | 2:58 | 2026-08-14 | 2026-08-28 |

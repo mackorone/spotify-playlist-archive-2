@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,382 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,387 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 60 | [Change](https://open.spotify.com/track/2uv3a1ldsRDax1xAldu0Tw) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Kismet](https://open.spotify.com/album/49H3UEmVZXpJwCIEg7eq48) | 3:08 |
 | 61 | [How We Next Evolve?](https://open.spotify.com/track/2ItTNwQ690Lcxj98SEhsAM) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Yelfris Valdés](https://open.spotify.com/artist/5maB2WqB6U2Mi7DKZQYmcS) | [How We Next Evolve?](https://open.spotify.com/album/5IvSI41DOuaDkxfzpSEShH) | 3:59 |
 | 62 | [Smiley](https://open.spotify.com/track/3bVzCiIlDQHRj6AceYv5IQ) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [birty](https://open.spotify.com/artist/4p81Kbhx0mkop7JXpKoqlA) | [Smiley](https://open.spotify.com/album/4qrWD7B7c7y3sUACC1VPwD) | 2:34 |
-| 63 | [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 |
-| 64 | [Acid Jazz Revenge](https://open.spotify.com/track/6Pxz8ReFmfZS8V7nr4KxJp) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [Unreliable Memories of Contested Conversations](https://open.spotify.com/album/6TvgsdZeKxKFUTTeGrZmct) | 4:33 |
+| 63 | [Acid Jazz Revenge](https://open.spotify.com/track/6Pxz8ReFmfZS8V7nr4KxJp) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [Unreliable Memories of Contested Conversations](https://open.spotify.com/album/6TvgsdZeKxKFUTTeGrZmct) | 4:33 |
+| 64 | [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 |
 | 65 | [A Future Untold](https://open.spotify.com/track/6gthXQDyhf3OaWw3QvuYtA) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [A Future Untold / Marwa The Mountain](https://open.spotify.com/album/7shmmsOvUVpzmxPiipmxAv) | 3:22 |
 | 66 | [The Leopard](https://open.spotify.com/track/13ZlexU7MfJDpOe9MsaEOR) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [The Leopard](https://open.spotify.com/album/4wDM8A678qr8cwtmT8Y357) | 5:10 |
 | 67 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
-| 68 | [Moonlight](https://open.spotify.com/track/5NLxA4kDzcKlKgYLpQ3DSZ) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [Where We're Calling From](https://open.spotify.com/album/1qoedtHskQaRmtVLswk7N7) | 4:08 |
-| 69 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
-| 70 | [balance](https://open.spotify.com/track/1UbFmeNiUpZUvVuLq2j8nu) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [balance](https://open.spotify.com/album/5JXZK9UfkbChAMN0zyKmtk) | 2:54 |
-| 71 | [Ron Song](https://open.spotify.com/track/4MqRMWWM518FViRvEbo0Gl) | [Don Glori](https://open.spotify.com/artist/1CAzM4msiLBgUGxFkIroYo) | [Ron Song](https://open.spotify.com/album/41ECcT8MhzFKxFX0Q18LAu) | 5:36 |
+| 68 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
+| 69 | [Moonlight](https://open.spotify.com/track/5NLxA4kDzcKlKgYLpQ3DSZ) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [Where We're Calling From](https://open.spotify.com/album/1qoedtHskQaRmtVLswk7N7) | 4:08 |
+| 70 | [Ron Song](https://open.spotify.com/track/4MqRMWWM518FViRvEbo0Gl) | [Don Glori](https://open.spotify.com/artist/1CAzM4msiLBgUGxFkIroYo) | [Ron Song](https://open.spotify.com/album/41ECcT8MhzFKxFX0Q18LAu) | 5:36 |
+| 71 | [balance](https://open.spotify.com/track/1UbFmeNiUpZUvVuLq2j8nu) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [balance](https://open.spotify.com/album/5JXZK9UfkbChAMN0zyKmtk) | 2:54 |
 | 72 | [Deep Space](https://open.spotify.com/track/1xZztngs1PHjcqWVo2ftiQ) | [Matt Bianco](https://open.spotify.com/artist/1WQky50vkzSvSCUl0ejWqb), [Betty Black](https://open.spotify.com/artist/3GSCvQZEac06Dh0xMhH9Yt) | [Deep Space](https://open.spotify.com/album/6qlSWJoA3dVocFKm9AyLp3) | 4:46 |
 | 73 | [Pinch](https://open.spotify.com/track/2oBc2lx30NnvvNmRsm8J2f) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Pinch](https://open.spotify.com/album/4dcQ7NEJlOUFp5mkYnP8QD) | 4:37 |
 | 74 | [Circa 2019](https://open.spotify.com/track/33VHDPVMX4zjiv0zYFl3cT) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Circa 2019](https://open.spotify.com/album/1GiNqVTjpSb5WrQiiRszHU) | 3:21 |

@@ -2,9 +2,9 @@
 
 ### [Christian Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DX06wYNNUR5t6)
 
-> Recent hits from all your favorite Christian Rock artists!  Cover: Skillet
+> Recent hits from all your favorite Christian Rock artists!  Cover: Grace Garber
 
-109 songs - 6 hr 55 min
+110 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Deep Waters](https://open.spotify.com/track/2qEla8ZQF3FN5l5ay89J9m) | [Adelaide](https://open.spotify.com/artist/69GrMdd7iMIjeRJxxJJ1nl) | [Strong and Brave](https://open.spotify.com/album/2qqoxqSsHfSYeKf3VzYdWM) | 3:24 | 2021-04-10 |  |
 | [Driftwood](https://open.spotify.com/track/2qLPxnOjFHilVIrZXZtMWQ) | [The Classic Crime](https://open.spotify.com/artist/4Y2ImQoh83EyhkbaJXmJr1) | [How to Be Human](https://open.spotify.com/album/6J9gRf2PpJL4pDsV5XwANi) | 4:21 | 2021-04-10 | 2024-11-30 |
 | [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 | 2021-04-10 | 2026-05-02 |
-| [Drown](https://open.spotify.com/track/7gZyVkRZKKmouF54ccQ5Pi) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Red For War](https://open.spotify.com/album/4N8Wt08zGOXDRC9wyoTm1Z) | 3:27 | 2021-04-10 |  |
+| [Drown](https://open.spotify.com/track/7gZyVkRZKKmouF54ccQ5Pi) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Red For War](https://open.spotify.com/album/4N8Wt08zGOXDRC9wyoTm1Z) | 3:27 | 2021-04-10 | 2026-10-03 |
 | [Echoes](https://open.spotify.com/track/0iQa0axJxOqA5vlCSV3app) | [Ignite the Fire](https://open.spotify.com/artist/4xqGhP2gUWyaMMHqPU3UHj) | [Between Shadow and Solace](https://open.spotify.com/album/2IF2CZ13oq1wK51AXr0Lt6) | 4:24 | 2021-04-10 | 2025-04-05 |
 | [End of Days](https://open.spotify.com/track/40H69bQi9Mdu6TMGPXYreU) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [End of Days](https://open.spotify.com/album/4K5N1UTXyYcrFPmRwM9wqc) | 4:20 | 2024-07-04 | 2024-11-30 |
 | [Flicker](https://open.spotify.com/track/3VUpcKoeWMDn4SjgE0RiWA) | [Theocracy](https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T) | [Mosaic](https://open.spotify.com/album/5EL0L9rYE8pc1ZHpK0Vsem) | 3:58 | 2024-07-04 | 2026-03-24 |
@@ -46,6 +46,7 @@
 | [Give Me a Sign](https://open.spotify.com/track/6o8AG9ldTnpwhsBsZXaXHn) | [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [Oh, The Horror!](https://open.spotify.com/album/7foyRe5OQor8UMGpVquZsP) | 3:36 | 2021-04-10 | 2025-08-05 |
 | [Glitch In The Matrix](https://open.spotify.com/track/4bxBCX9Iw9IMeQe1vsujqt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Learning How To Be Human](https://open.spotify.com/album/3VeyUPjz688xgL01XFUSjt) | 2:42 | 2024-07-04 |  |
 | [Gone](https://open.spotify.com/track/49a2Kg7MPuycZqREq8IHzP) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Gone \(Extended Single\)](https://open.spotify.com/album/4qiDcPBb7Fa6errKhDocSP) | 3:39 | 2021-04-10 | 2024-07-04 |
+| [GRATITUDE \(PUNK VERSION\)](https://open.spotify.com/track/624YC83QIECcwXCZmpzSb3) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [GRATITUDE \(PUNK VERSION\)](https://open.spotify.com/album/66KECyamPisaXZX8homxpF) | 4:16 | 2026-10-02 |  |
 | [Great & Glorious](https://open.spotify.com/track/4mSVcERkW5b0xTXw0TXTiR) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Great & Glorious](https://open.spotify.com/album/2vTv7MptGPseAOXVpH9z8J) | 5:34 | 2021-04-10 |  |
 | [Great & Glorious](https://open.spotify.com/track/6EfWQ6yGH0eR8LaBWjgsoy) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Iron Lung](https://open.spotify.com/album/0aWcnFRgnB0HDMgCB7pr2t) | 5:34 | 2021-04-10 | 2024-04-19 |
 | [Holding Me Up](https://open.spotify.com/track/5hWtMn99mB2ckaLubacTuZ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 2:57 | 2024-07-04 | 2024-11-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > новинки українського андерґраунду\. обкладинка: Aniel Arin
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,634 likes - 133 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,641 likes - 133 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

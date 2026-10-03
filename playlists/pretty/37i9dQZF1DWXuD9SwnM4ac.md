@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Vacations
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,242 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,257 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 8 | [Covergirl](https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Nature's Pill](https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM) | 4:17 |
 | 9 | [⁠Wildfire](https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Nocturne](https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC) | 4:56 |
 | 10 | [Dwell](https://open.spotify.com/track/7qwApTSPhW04EnRwcdGEur) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy), [Olive Kimoto](https://open.spotify.com/artist/2mtgDA3i2MqqAeRw8AGVY6) | [Coalesce](https://open.spotify.com/album/4uNfL1imCBzXVcYpTtN9vC) | 4:34 |
-| 11 | [Track 10](https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Look Up](https://open.spotify.com/album/3IItemvs6diBqETll5pINP) | 0:00 |
+| 11 | [Tell Me When You're Home](https://open.spotify.com/track/1KrEwrOmCELF6Wi8BYdN7Q) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Look Up](https://open.spotify.com/album/3IItemvs6diBqETll5pINP) | 3:00 |
 | 12 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
 | 13 | [If I Had The Hand Of God](https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [If I Had The Hand Of God](https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b) | 2:41 |
 | 14 | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/track/0lJ3nlVIpRiLqo3rlS4nw1) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj), [thanks for coming](https://open.spotify.com/artist/0lmgJn9n4lXS6Mc1kFGEyf), [Rachel Brown](https://open.spotify.com/artist/3fgc27q3kZRtfyZpmJrSad) | [Big Ideas \(feat\. Rachel Brown\)](https://open.spotify.com/album/1Q4bb6zNWcyZFMo0uz30jJ) | 4:14 |

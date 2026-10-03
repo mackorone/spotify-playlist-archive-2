@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Mariana Soane y Majo Aguilar en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,578 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,598 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 68 | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q) | 2:46 |
 | 69 | [ADN](https://open.spotify.com/track/5oNsLQSQZllwUkJJm1hjwq) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp), [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [ADN](https://open.spotify.com/album/1Fa5QSbxfTYsn5wXUhFpiJ) | 2:53 |
 | 70 | [¿Por Qué No Vienes?](https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [¿Por Qué No Vienes?](https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm) | 3:35 |
-| 71 | [De Beso En Cuando](https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [De Beso En Cuando](https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq) | 2:36 |
-| 72 | [De Lo Que Me Salvé](https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [De Lo Que Me Salvé](https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0) | 3:31 |
+| 71 | [De Lo Que Me Salvé](https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [De Lo Que Me Salvé](https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0) | 3:31 |
+| 72 | [De Beso En Cuando](https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [De Beso En Cuando](https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq) | 2:36 |
 | 73 | [Te pareces a mi ex](https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Te pareces a mi ex](https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW) | 2:30 |
 | 74 | [Mucha Mujer](https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2) | [Herly RG](https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt) | [Mucha Mujer](https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz) | 2:36 |
 | 75 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 |

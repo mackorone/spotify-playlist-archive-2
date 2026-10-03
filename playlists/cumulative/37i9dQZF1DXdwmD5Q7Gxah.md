@@ -4,7 +4,7 @@
 
 > sometimes i rush\. cover: daine <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-4,016 songs - 9 day 4 hr 12 min
+4,017 songs - 9 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3517,6 +3517,7 @@
 | [the prom](https://open.spotify.com/track/2WFNSeBczMYbMnGkDW7LyR) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:11 | 2025-02-25 | 2025-04-05 |
 | [The Promise](https://open.spotify.com/track/4VWtDv7ASGkNGfPjTI8fPw) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Scout](https://open.spotify.com/album/6gZWk2mfNHb7jxZhlGTBnQ) | 3:45 | 2022-02-11 | 2022-03-18 |
 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 | 2022-10-28 | 2023-03-22 |
+| [The Rage](https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [The Rage](https://open.spotify.com/album/3rATpXb10GsrrKV2Gzfavk) | 3:40 | 2026-10-02 |  |
 | [The Recorded Message \- A Message](https://open.spotify.com/track/0TgX2xB8t0aXZeRCAcs4TZ) | [Sacred holes](https://open.spotify.com/artist/3ArVB9NfEWxfdbDmYdGWdK), [wackoes](https://open.spotify.com/artist/39WfM43xs5qbVCrSkBeOFW) | [From There To There...](https://open.spotify.com/album/3R16VwJkbU8M5NWncfdDtf) | 2:13 | 2026-09-04 |  |
 | [The Scientist \- Spotify Singles](https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Spotify Singles](https://open.spotify.com/album/0G9aTAmGvg1q1ZWELfLwSQ) | 4:46 | 2024-06-28 | 2024-08-15 |
 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-05 | 2026-03-21 |

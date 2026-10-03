@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-824 songs - 2 day 22 hr 37 min
+825 songs - 2 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Calvary](https://open.spotify.com/track/4OCtJ6Jm4TATGTU6tnMKHi) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [METANOIA](https://open.spotify.com/album/6DZgMfVrDgyAKdvTHsMEUH) | 2:53 | 2025-04-18 | 2025-07-12 |
 | [Canopy](https://open.spotify.com/track/4QJrfpom9tgm5D3HavVYzK) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Canopy](https://open.spotify.com/album/1at7LjqRsusfeqI7NbfVHv) | 2:26 | 2025-08-15 | 2025-09-12 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-07-16 |
+| [Catholic Boy](https://open.spotify.com/track/1dWrrmOqCkMr0puVaMiVXI) | [Vicla boi](https://open.spotify.com/artist/0VupyRTwkYyNf9iooZcLFN) | [Catholic Boy](https://open.spotify.com/album/3cIz5GI6LqMhJyrxUY1GsP) | 3:01 | 2026-10-02 |  |
 | [Changes](https://open.spotify.com/track/164shfHNWZWrtvi3dvVzUX) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [Changes](https://open.spotify.com/album/6Sx0kUchJIpm5eh5J1HXu7) | 2:11 | 2025-04-04 | 2025-04-11 |
 | [Chante](https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Chante](https://open.spotify.com/album/4p7agkJ4UNNfmA9AGpx7y9) | 3:43 | 2025-06-13 | 2025-08-01 |
 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 | 2025-10-17 | 2025-10-31 |

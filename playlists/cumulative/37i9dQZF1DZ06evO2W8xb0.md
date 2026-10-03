@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-122 songs - 20 hr 29 min
+124 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Austerity Measure](https://open.spotify.com/track/4xHAk3d35NjPe5zb9WJ9CD) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 32](https://open.spotify.com/album/3SLsmP1ydaSxN39MLRXGYx) | 17:32 | 2022-07-16 |  |
 | [Awon Alhaji](https://open.spotify.com/track/1M0DIMkMAJ6BVMFGxeIE8q) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 4:27 | 2025-08-14 | 2026-05-01 |
 | [Baba Fona Han Wa](https://open.spotify.com/track/2u2K81Cdw0SueqpsS3Euyo) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Ajo Yio](https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR) | 18:48 | 2023-12-26 |  |
+| [Baba Lo Ran Mi Wa](https://open.spotify.com/track/7lVYephysT9YMzCQEv9oH2) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Pegan Pegan](https://open.spotify.com/album/4bRoZI3vPHpmqO4Xx8dinH) | 6:11 | 2026-10-03 |  |
 | [Baba Loran Mi Wa](https://open.spotify.com/track/6GgoZhtXqEvZnhBG4ik7wS) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 6:01 | 2024-10-19 | 2026-08-13 |
-| [Baba Loran Mi Wa](https://open.spotify.com/track/5VqnkZkXZ06LuXoa35raMP) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Pegan Pegan](https://open.spotify.com/album/5HijvhTxbIJCBHkWekbGYX) | 6:04 | 2026-08-14 |  |
+| [Baba Loran Mi Wa](https://open.spotify.com/track/5VqnkZkXZ06LuXoa35raMP) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Pegan Pegan](https://open.spotify.com/album/5HijvhTxbIJCBHkWekbGYX) | 6:04 | 2026-08-14 | 2026-10-03 |
 | [Board Members](https://open.spotify.com/track/414geRl06sq9YvNaOozReX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 6](https://open.spotify.com/album/30jDRu2udWrunytzkcUjCO) | 19:34 | 2024-03-31 |  |
 | [Bonus Track](https://open.spotify.com/track/5aabOGm40vt2ibeVN0SLr9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 50](https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6) | 2:57 | 2021-12-28 | 2024-05-26 |
 | [Bonus Track1](https://open.spotify.com/track/2taVMmndMmnT6dwF0RUh8F) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 32](https://open.spotify.com/album/3SLsmP1ydaSxN39MLRXGYx) | 4:22 | 2021-12-28 | 2023-12-14 |
@@ -120,8 +121,9 @@
 | [Palongo](https://open.spotify.com/track/6QNSD7ydhQvs0HIEIMHzVt) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 2:51 | 2021-12-28 | 2024-03-28 |
 | [Paulina](https://open.spotify.com/track/0hWU5u4RnVCso4EjW9KGmY) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:50 | 2024-06-02 |  |
 | [Pegan Pegan](https://open.spotify.com/track/1VyVHhCCkzroAkK0rPreWP) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 2:55 | 2024-05-26 | 2025-12-22 |
-| [Pegan Pegan](https://open.spotify.com/track/2DCgQO8euhN98EE6tklh7C) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Pegan Pegan](https://open.spotify.com/album/5HijvhTxbIJCBHkWekbGYX) | 2:58 | 2026-08-26 |  |
+| [Pegan Pegan](https://open.spotify.com/track/2DCgQO8euhN98EE6tklh7C) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Pegan Pegan](https://open.spotify.com/album/5HijvhTxbIJCBHkWekbGYX) | 2:58 | 2026-08-26 | 2026-10-03 |
 | [Pegan Pegan](https://open.spotify.com/track/6dh3gfKqz5QIbJlotxIXVY) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 3](https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR) | 2:58 | 2021-12-28 | 2024-02-05 |
+| [Pegan Pegan](https://open.spotify.com/track/5bRmj7MgoKcllTq6mZlSpr) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Pegan Pegan](https://open.spotify.com/album/4bRoZI3vPHpmqO4Xx8dinH) | 3:05 | 2026-10-03 |  |
 | [Precious Gift \(Ebun Pataki\)](https://open.spotify.com/track/2HSPcU5afdfX3oDsMgr60E) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Ore Oluwa Akari](https://open.spotify.com/album/28qC6iw0bcZqvsUMFAV5AW) | 16:51 | 2024-03-06 |  |
 | [Sanu Olu](https://open.spotify.com/track/76dQXmWk18oZ5bc8lu8YZe) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:51 | 2022-03-22 |  |
 | [Singing For The People Medley \(Part 2\)](https://open.spotify.com/track/4Vfh5r4XDiIEWcMbj59u5i) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Singing For The People](https://open.spotify.com/album/0DZnqgEzcAuvf16fFeNeaG) | 18:00 | 2024-03-29 | 2025-03-25 |

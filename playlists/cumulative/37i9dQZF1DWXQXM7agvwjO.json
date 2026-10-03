@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: \u6eab\u8482\u6f2b\u6b65 Wendy Wander (Taiwan)",
+  "description": "Hottest indie sounds from Asia. Cover: Dabda (South Korea)",
   "name": ".ORG",
   "tracks": [
     {
@@ -749,6 +749,28 @@
     },
     {
       "album": {
+        "name": "A Dream That Felt So Real",
+        "url": "https://open.spotify.com/album/2mf1cn4a24EmLlGEu58i6Y"
+      },
+      "artists": [
+        {
+          "name": "Magnolian",
+          "url": "https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp"
+        },
+        {
+          "name": "Karen Aoki",
+          "url": "https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219892,
+      "name": "A Dream That Felt So Real",
+      "url": "https://open.spotify.com/track/1C1QP6LxVmK42sVCLgKKjg"
+    },
+    {
+      "album": {
         "name": "A Friend Like You",
         "url": "https://open.spotify.com/album/6Wus2ML1XGxQkDXUkMKDMv"
       },
@@ -1434,7 +1456,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 226035,
       "name": "Againandagainandagain",
       "url": "https://open.spotify.com/track/50PvWiUWNIcSVTJvrQaivv"
@@ -1722,7 +1744,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 226000,
       "name": "all in",
       "url": "https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf"
@@ -13107,6 +13129,24 @@
     },
     {
       "album": {
+        "name": "Falling Leaves",
+        "url": "https://open.spotify.com/album/5V9kcxM6RxfyeLqNnsbs42"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228650,
+      "name": "Falling Leaves",
+      "url": "https://open.spotify.com/track/4XKGr6TLphQxIsoeDRdBYU"
+    },
+    {
+      "album": {
         "name": "False Expectation",
         "url": "https://open.spotify.com/album/7d5F0itIUXgdUJgujviwzV"
       },
@@ -15352,7 +15392,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Gimme A Rest",
       "url": "https://open.spotify.com/track/2jiPL8Mw9m3n3jAdkCB00Q"
@@ -21314,7 +21354,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 230070,
       "name": "It's Not the Same as It Used to Be",
       "url": "https://open.spotify.com/track/0REgMRNq5N9LcepxTXQnlG"
@@ -21658,7 +21698,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 281804,
       "name": "Julia",
       "url": "https://open.spotify.com/track/5oQvHX42iAE8Sqd9mkCCBq"
@@ -24407,6 +24447,24 @@
     },
     {
       "album": {
+        "name": "loser",
+        "url": "https://open.spotify.com/album/0TEipdEWfi3EOhxY6WtASj"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "loser",
+      "url": "https://open.spotify.com/track/0Jlu1QY7Q3X84dHAzjYt2Y"
+    },
+    {
+      "album": {
         "name": "Kuroi Echoes",
         "url": "https://open.spotify.com/album/6YQ5zvaQ8gsB076SoL9ZhS"
       },
@@ -25835,6 +25893,28 @@
     },
     {
       "album": {
+        "name": "marshmallow kisses",
+        "url": "https://open.spotify.com/album/2G6Wrh0AV7YBIdyb1kINAe"
+      },
+      "artists": [
+        {
+          "name": "wadfah",
+          "url": "https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo"
+        },
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182771,
+      "name": "marshmallow kisses",
+      "url": "https://open.spotify.com/track/2r7qfubJKAMyPMF6NFxp1y"
+    },
+    {
+      "album": {
         "name": "Masalah Masa Depan",
         "url": "https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ"
       },
@@ -27156,7 +27236,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192972,
       "name": "Molecular Gastronomy",
       "url": "https://open.spotify.com/track/1kUjCvdUa5mBFadANm6FOS"
@@ -28294,7 +28374,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192015,
       "name": "My Spirit Is Reggie",
       "url": "https://open.spotify.com/track/66RqXP3FkVSoDS9m6w8bjV"
@@ -33331,6 +33411,24 @@
     },
     {
       "album": {
+        "name": "quiet games",
+        "url": "https://open.spotify.com/album/0eEU0hRhtJqcE2zCvo3kKW"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273946,
+      "name": "quiet games",
+      "url": "https://open.spotify.com/track/3Q2xzeRelIZr3U4ErkVTUw"
+    },
+    {
+      "album": {
         "name": "quite like u",
         "url": "https://open.spotify.com/album/5TQ9dOAu9zJw2gg7kRCCs1"
       },
@@ -33664,6 +33762,24 @@
       "duration_ms": 229000,
       "name": "real love",
       "url": "https://open.spotify.com/track/0WuMGn0d7SRWBJi7CQ6HIO"
+    },
+    {
+      "album": {
+        "name": "Realidad",
+        "url": "https://open.spotify.com/album/3UCxh0e8g1aEXjW1wEBWGg"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185046,
+      "name": "Realidad",
+      "url": "https://open.spotify.com/track/2Q3TmKXe3bAw1uF5GlSv6u"
     },
     {
       "album": {
@@ -35074,7 +35190,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 258122,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/2YAhGrQnWduKC9JGHR8BFj"
@@ -43022,7 +43138,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 208106,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/0gJeSKLwRezMIswuZph5Ms"
@@ -46888,7 +47004,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 208943,
       "name": "Witchkeeper",
       "url": "https://open.spotify.com/track/3X1WfYjI8Q3FDlO67bR2ax"
@@ -50193,6 +50309,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u60f3\u60f3\u592a\u591a",
+        "url": "https://open.spotify.com/album/7j1jEdYtmXnTbnhM9sOnfW"
+      },
+      "artists": [
+        {
+          "name": "Fang Wu",
+          "url": "https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211629,
+      "name": "\u4e0d\u60f3\u60f3\u592a\u591a",
+      "url": "https://open.spotify.com/track/5cOarsrfx4xW275cEimj4J"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u66fe\u5be7\u975c\u7684\u591c",
         "url": "https://open.spotify.com/album/1khd7zTbv9mhmQOqmTzB5i"
       },
@@ -50892,6 +51026,24 @@
       "duration_ms": 349875,
       "name": "\u547d\u76e4",
       "url": "https://open.spotify.com/track/7pj3Y9AthzXugrA4aLSqsH"
+    },
+    {
+      "album": {
+        "name": "\u885d\u7a81\u7684\u610f\u7fa9",
+        "url": "https://open.spotify.com/album/5bpFtxEeF9VKMkjkEX3OqH"
+      },
+      "artists": [
+        {
+          "name": "\u6eab\u5ba4\u96dc\u8349",
+          "url": "https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350480,
+      "name": "\u547d\u76e4",
+      "url": "https://open.spotify.com/track/1R9hgmDKx7HcvNCdKRq6ms"
     },
     {
       "album": {
@@ -52245,6 +52397,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u6d6a\u6f2b\u7684\u6216\u8a31\u662f",
+        "url": "https://open.spotify.com/album/1K3CPiBawUC47p1IiA1Gct"
+      },
+      "artists": [
+        {
+          "name": "\u8389\u8389\u5468\u5979\u8aaa Lily Chou-Chou Lied",
+          "url": "https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "\u6700\u6d6a\u6f2b\u7684\u6216\u8a31\u662f",
+      "url": "https://open.spotify.com/track/3rXRWmdBQbBaGxZRrqkZnh"
+    },
+    {
+      "album": {
         "name": "yolk on rice",
         "url": "https://open.spotify.com/album/0jnjGWmIJYFxCXmyFM9reQ"
       },
@@ -53094,7 +53264,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 261000,
       "name": "\u8070\u660e",
       "url": "https://open.spotify.com/track/02fAnBiiFKhBjpPVswbdQv"

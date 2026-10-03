@@ -1,13 +1,29 @@
 {
-  "description": "50% techno, 50% house \ud83d\udd25 Tech house operators, featuring Mesto",
-  "num_followers": 717180,
+  "description": "50% techno, 50% house \ud83c\udfe1 Tech house operators, featuring Patrick Topping",
+  "num_followers": 717251,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyJ8fTe19szKItd/lIP0fz1KKUO",
+  "snapshot_id": "AAAAAKSNRyVvIrSGSprkdFnokrMJJrlk",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:03:08",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "duration_ms": 229174,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
+    },
     {
       "added_at": "2026-09-18 04:02:10",
       "album": {
@@ -27,6 +43,54 @@
       "duration_ms": 138750,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1pJQFno9DA8ghYWMecImct"
+    },
+    {
+      "added_at": "2026-08-28 04:01:43",
+      "album": {
+        "name": "So Good (feat. Kuuda) [Remixes]",
+        "url": "https://open.spotify.com/album/57YlHYZJTg89XwBMKNv6l7"
+      },
+      "artists": [
+        {
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+        },
+        {
+          "name": "CAMELPHAT",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        },
+        {
+          "name": "Kuuda",
+          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+        }
+      ],
+      "duration_ms": 185988,
+      "name": "So Good (feat. Kuuda) - Sapian Remix",
+      "url": "https://open.spotify.com/track/0oiur5z4PFIgRfFcHcn6VG"
+    },
+    {
+      "added_at": "2026-10-02 04:03:08",
+      "album": {
+        "name": "Work With Me",
+        "url": "https://open.spotify.com/album/6kg0BEzaA54IF254NH4Km8"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        }
+      ],
+      "duration_ms": 151841,
+      "name": "Work With Me",
+      "url": "https://open.spotify.com/track/7eSwXy2etUZ9aqeZ0b3sfl"
     },
     {
       "added_at": "2026-09-25 04:01:59",
@@ -77,32 +141,20 @@
       "url": "https://open.spotify.com/track/1S6zM3qxtd1OFNXwvWLFdq"
     },
     {
-      "added_at": "2026-08-28 04:01:43",
+      "added_at": "2026-10-02 04:03:08",
       "album": {
-        "name": "So Good (feat. Kuuda) [Remixes]",
-        "url": "https://open.spotify.com/album/57YlHYZJTg89XwBMKNv6l7"
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/2IC6PX6OaKMyPSHLqz9FSx"
       },
       "artists": [
         {
-          "name": "Sapian",
-          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
-        },
-        {
-          "name": "CAMELPHAT",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Josh Gigante",
-          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
-        },
-        {
-          "name": "Kuuda",
-          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+          "name": "RIPPY",
+          "url": "https://open.spotify.com/artist/3SLwm5V5RYbVSOeAs3aNc2"
         }
       ],
-      "duration_ms": 185988,
-      "name": "So Good (feat. Kuuda) - Sapian Remix",
-      "url": "https://open.spotify.com/track/0oiur5z4PFIgRfFcHcn6VG"
+      "duration_ms": 210697,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1TrDNbA3XlB8tC0epo2vGq"
     },
     {
       "added_at": "2026-07-24 04:02:18",
@@ -125,20 +177,24 @@
       "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
     },
     {
-      "added_at": "2026-09-25 04:01:59",
+      "added_at": "2026-10-02 04:03:08",
       "album": {
-        "name": "Act Up",
-        "url": "https://open.spotify.com/album/0YkhuH7cAhNG6DXmprL4DO"
+        "name": "Hot Girl Walk",
+        "url": "https://open.spotify.com/album/5GUlkDaeCQeSCr2JUcp9yp"
       },
       "artists": [
         {
-          "name": "SEBS",
-          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        },
+        {
+          "name": "NO STATIC",
+          "url": "https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/6T6OV77EDClmN0SJHqAwR5"
+      "duration_ms": 167441,
+      "name": "Hot Girl Walk",
+      "url": "https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25"
     },
     {
       "added_at": "2026-09-11 04:01:23",
@@ -163,6 +219,22 @@
     {
       "added_at": "2026-09-25 04:01:59",
       "album": {
+        "name": "Act Up",
+        "url": "https://open.spotify.com/album/0YkhuH7cAhNG6DXmprL4DO"
+      },
+      "artists": [
+        {
+          "name": "SEBS",
+          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/6T6OV77EDClmN0SJHqAwR5"
+    },
+    {
+      "added_at": "2026-09-25 04:01:59",
+      "album": {
         "name": "I Let You Go",
         "url": "https://open.spotify.com/album/7zQEZJH7aVDKa9wgWTFOuq"
       },
@@ -179,6 +251,22 @@
       "duration_ms": 213333,
       "name": "I Let You Go",
       "url": "https://open.spotify.com/track/4444uuNgCACeA81SRfOTxy"
+    },
+    {
+      "added_at": "2026-10-02 04:03:08",
+      "album": {
+        "name": "Lets Go Down",
+        "url": "https://open.spotify.com/album/3PdQAOzlsY96sAbXcLmay7"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        }
+      ],
+      "duration_ms": 180073,
+      "name": "Lets Go Down",
+      "url": "https://open.spotify.com/track/3Fzb6ZBiRag6b4lQasZXDc"
     },
     {
       "added_at": "2026-09-18 04:02:10",
@@ -199,6 +287,42 @@
       "duration_ms": 201230,
       "name": "No Phone Party",
       "url": "https://open.spotify.com/track/6m32mRhSnHe5NuQLmNwbv9"
+    },
+    {
+      "added_at": "2026-10-02 04:03:08",
+      "album": {
+        "name": "Time To Move",
+        "url": "https://open.spotify.com/album/15AD6vEGZNQRrpIBhdNoDY"
+      },
+      "artists": [
+        {
+          "name": "Pinco",
+          "url": "https://open.spotify.com/artist/1P3mW4QxxLzCl3wljOtMrH"
+        },
+        {
+          "name": "Roiko (RH)",
+          "url": "https://open.spotify.com/artist/3PFlUF5p3ykeQLr21hSxfg"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "Time To Move",
+      "url": "https://open.spotify.com/track/01n5pPQ3rjahlpijn5SQfJ"
+    },
+    {
+      "added_at": "2026-09-04 04:01:18",
+      "album": {
+        "name": "THE MOB / Seamless",
+        "url": "https://open.spotify.com/album/4ZplKVemkCr0b7Hh2aujSo"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "THE MOB",
+      "url": "https://open.spotify.com/track/6F2ckzsOmaog4Ho3S928X4"
     },
     {
       "added_at": "2026-09-11 04:01:23",
@@ -233,6 +357,26 @@
       "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
     },
     {
+      "added_at": "2026-10-02 04:03:08",
+      "album": {
+        "name": "Can I Ride",
+        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "95 South",
+          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
+        }
+      ],
+      "duration_ms": 163888,
+      "name": "Can I Ride",
+      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
+    },
+    {
       "added_at": "2026-09-25 04:01:59",
       "album": {
         "name": "Dirty Dancing (feat. LexBlaze)",
@@ -251,6 +395,42 @@
       "duration_ms": 203333,
       "name": "Dirty Dancing (feat. LexBlaze)",
       "url": "https://open.spotify.com/track/3Z171IH0jNBMZCZg4i99I0"
+    },
+    {
+      "added_at": "2026-10-02 04:03:08",
+      "album": {
+        "name": "Voltage EP",
+        "url": "https://open.spotify.com/album/4YYbIuH07Ojzsmf7pscsl9"
+      },
+      "artists": [
+        {
+          "name": "Who Else",
+          "url": "https://open.spotify.com/artist/3KR5hAxS7nD4VijT1EKOrK"
+        },
+        {
+          "name": "Zagitar",
+          "url": "https://open.spotify.com/artist/1sLDL9ECqXb7hLQVsykf8d"
+        }
+      ],
+      "duration_ms": 242812,
+      "name": "Voltage",
+      "url": "https://open.spotify.com/track/0onnxQCUN3Kr2D8fMSpfq5"
+    },
+    {
+      "added_at": "2026-10-02 04:03:08",
+      "album": {
+        "name": "Groove Rosarino EP",
+        "url": "https://open.spotify.com/album/74xOcP8fjAnR6j0FN6VCqA"
+      },
+      "artists": [
+        {
+          "name": "Nacho Scoppa",
+          "url": "https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA"
+        }
+      ],
+      "duration_ms": 216183,
+      "name": "Groove Rosarino",
+      "url": "https://open.spotify.com/track/1n6Ek6tHSiso1saHXdnqpx"
     },
     {
       "added_at": "2026-09-25 04:01:59",
@@ -273,20 +453,20 @@
       "url": "https://open.spotify.com/track/5NJe4tTqytnpRDEZAEzZzw"
     },
     {
-      "added_at": "2026-09-04 04:01:18",
+      "added_at": "2026-10-02 04:03:08",
       "album": {
-        "name": "THE MOB / Seamless",
-        "url": "https://open.spotify.com/album/4ZplKVemkCr0b7Hh2aujSo"
+        "name": "Peachy",
+        "url": "https://open.spotify.com/album/5HTTB3uNhuLagYCKclEAtc"
       },
       "artists": [
         {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+          "name": "La Renzo",
+          "url": "https://open.spotify.com/artist/5fqBnxj5Y8gmR7wiYkGtnW"
         }
       ],
-      "duration_ms": 151384,
-      "name": "THE MOB",
-      "url": "https://open.spotify.com/track/6F2ckzsOmaog4Ho3S928X4"
+      "duration_ms": 139534,
+      "name": "Peachy",
+      "url": "https://open.spotify.com/track/2frGn6iToECFZex0Kmgp9Z"
     },
     {
       "added_at": "2026-09-18 04:02:10",
@@ -341,6 +521,26 @@
       "url": "https://open.spotify.com/track/1rpdapoYtP0nk1zK01FZT9"
     },
     {
+      "added_at": "2026-10-02 04:03:08",
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/04pRqUd0kiXCx5RjElfah8"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/6ep0hLz1DJS78kdWDWtgLT"
+    },
+    {
       "added_at": "2026-08-28 04:01:43",
       "album": {
         "name": "Pressure (feat. Tommy Genesis)",
@@ -361,20 +561,24 @@
       "url": "https://open.spotify.com/track/3qilJf4x402WUjcBJA060n"
     },
     {
-      "added_at": "2026-09-18 17:05:42",
+      "added_at": "2026-10-02 04:03:08",
       "album": {
-        "name": "Back Of The Club",
-        "url": "https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M"
+        "name": "Watch Your Back",
+        "url": "https://open.spotify.com/album/0dGfVDMm3ra7jamStz7PnQ"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Micah Simmons",
+          "url": "https://open.spotify.com/artist/0buF28K0OKSmkb7jvfr8MA"
+        },
+        {
+          "name": "Bear Weigle",
+          "url": "https://open.spotify.com/artist/0BEvRPz2CsrrAFOiGCm7q9"
         }
       ],
-      "duration_ms": 171350,
-      "name": "Back Of The Club",
-      "url": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
+      "duration_ms": 207022,
+      "name": "Watch Your Back",
+      "url": "https://open.spotify.com/track/6MCQSL5biAbcvX0ZL7Kypt"
     },
     {
       "added_at": "2026-09-18 04:02:10",
@@ -411,6 +615,38 @@
       "duration_ms": 179076,
       "name": "Pop This",
       "url": "https://open.spotify.com/track/0S9kUWMb4SoO1lnjvcRD7d"
+    },
+    {
+      "added_at": "2026-09-18 17:05:42",
+      "album": {
+        "name": "Back Of The Club",
+        "url": "https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 171350,
+      "name": "Back Of The Club",
+      "url": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
+    },
+    {
+      "added_at": "2026-10-02 04:03:08",
+      "album": {
+        "name": "automatic ep",
+        "url": "https://open.spotify.com/album/4Hjis6WFnyNf2QMFpNjYoc"
+      },
+      "artists": [
+        {
+          "name": "Max Mash",
+          "url": "https://open.spotify.com/artist/6YZwz1LYtGq7IbKZ15qivD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "u love me",
+      "url": "https://open.spotify.com/track/6Rzuv63XeGB35jI0VjtA4W"
     },
     {
       "added_at": "2026-08-28 04:01:43",
@@ -685,38 +921,6 @@
       "url": "https://open.spotify.com/track/0GTVlZ9gl6gbC5jDIYM6ck"
     },
     {
-      "added_at": "2026-09-11 04:01:23",
-      "album": {
-        "name": "There's A Party Goin' On",
-        "url": "https://open.spotify.com/album/1IIpY7C5tFlsZjYa4ZPThd"
-      },
-      "artists": [
-        {
-          "name": "HARTY (UK)",
-          "url": "https://open.spotify.com/artist/6RpGhZyyoQEi4sNrXRNzag"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "There's A Party Goin' On",
-      "url": "https://open.spotify.com/track/4jo0xE7A4ZNZrYEvSaEVfQ"
-    },
-    {
-      "added_at": "2026-09-11 04:01:23",
-      "album": {
-        "name": "Get Up And Dance",
-        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 155081,
-      "name": "Get Up And Dance",
-      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
-    },
-    {
       "added_at": "2026-08-21 04:01:23",
       "album": {
         "name": "Baby Do You Wanna Bump",
@@ -865,26 +1069,6 @@
       "url": "https://open.spotify.com/track/0egImvgRaARTJbQTs3tO24"
     },
     {
-      "added_at": "2026-08-21 04:01:23",
-      "album": {
-        "name": "Sensational",
-        "url": "https://open.spotify.com/album/6dOREWoU097XApt4Dwe18x"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "Sensational",
-      "url": "https://open.spotify.com/track/0ckYQwxryH6ahhOYuzCoiF"
-    },
-    {
       "added_at": "2026-09-18 04:02:10",
       "album": {
         "name": "Dangerous Cuisine",
@@ -1009,26 +1193,6 @@
       "url": "https://open.spotify.com/track/2Bio5yxecGH76lx77vCkFt"
     },
     {
-      "added_at": "2026-09-04 04:01:18",
-      "album": {
-        "name": "Lose Your Mind",
-        "url": "https://open.spotify.com/album/3Q0lb1M974yuC7dFaxvkhb"
-      },
-      "artists": [
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        },
-        {
-          "name": "Sorry Not Jomari",
-          "url": "https://open.spotify.com/artist/68j4bAKZIedRa7MVIeeAyz"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "Lose Your Mind",
-      "url": "https://open.spotify.com/track/227IICPII4mKTat2r2cPsG"
-    },
-    {
       "added_at": "2026-08-18 18:40:32",
       "album": {
         "name": "Reason Why",
@@ -1099,22 +1263,6 @@
       "duration_ms": 131076,
       "name": "4 UR SOUL",
       "url": "https://open.spotify.com/track/0diCZ8ZsO4feipBk5zONGf"
-    },
-    {
-      "added_at": "2026-08-28 04:01:43",
-      "album": {
-        "name": "Bring That Beat Back EP",
-        "url": "https://open.spotify.com/album/5BBoOvEVtKqaHkTDAJnx8N"
-      },
-      "artists": [
-        {
-          "name": "AMMIL",
-          "url": "https://open.spotify.com/artist/3XwQvXkDOp65KYlqbluet9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Bring That Beat Back",
-      "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
     },
     {
       "added_at": "2026-07-31 04:37:32",
@@ -1221,34 +1369,6 @@
       "url": "https://open.spotify.com/track/2weibCrIRBDPColZHhL88Y"
     },
     {
-      "added_at": "2026-08-14 04:01:17",
-      "album": {
-        "name": "Party Time (feat. Aatig) [AYYBO Remix]",
-        "url": "https://open.spotify.com/album/6tnwDlHHjj5Y6ogU9DDn0K"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 200964,
-      "name": "Party Time (feat. Aatig) - AYYBO Remix",
-      "url": "https://open.spotify.com/track/6BIQafyCt58ODsf9yBS2Cy"
-    },
-    {
       "added_at": "2026-07-24 04:02:18",
       "album": {
         "name": "Take You There",
@@ -1295,26 +1415,6 @@
       "duration_ms": 189090,
       "name": "Slinging Dope",
       "url": "https://open.spotify.com/track/05AjPD1RN8llBnQCEOlD92"
-    },
-    {
-      "added_at": "2026-08-28 04:01:43",
-      "album": {
-        "name": "My Gang",
-        "url": "https://open.spotify.com/album/6Awsw5HoA5FBfqUO7UsoTN"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        },
-        {
-          "name": "Wolves (Arg)",
-          "url": "https://open.spotify.com/artist/4RqJM2ZvL3UBP1emeVdfwA"
-        }
-      ],
-      "duration_ms": 235709,
-      "name": "My Gang",
-      "url": "https://open.spotify.com/track/45bflksNIges7mhBVvYi47"
     },
     {
       "added_at": "2026-08-25 20:18:13",
@@ -1511,26 +1611,6 @@
       "duration_ms": 229862,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/1tEAqzXNcrYD3fQUWtXcSS"
-    },
-    {
-      "added_at": "2026-08-14 04:01:17",
-      "album": {
-        "name": "Bottles",
-        "url": "https://open.spotify.com/album/3Qoou2U3OToa0k58xQqZUF"
-      },
-      "artists": [
-        {
-          "name": "Gabss",
-          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
-        },
-        {
-          "name": "Balanka",
-          "url": "https://open.spotify.com/artist/4F47V8rO8pOERTLQNXCo3v"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Bottles",
-      "url": "https://open.spotify.com/track/5iX0VDC8l5Vl0Ae4XN6Tiz"
     },
     {
       "added_at": "2026-08-21 04:01:23",
@@ -1929,22 +2009,6 @@
       "url": "https://open.spotify.com/track/1XJ8aKhIHPwJdsV3PB1wMh"
     },
     {
-      "added_at": "2026-07-24 04:02:18",
-      "album": {
-        "name": "Bipolar EP",
-        "url": "https://open.spotify.com/album/5odNEnwE9kYUUhyIkKWVKK"
-      },
-      "artists": [
-        {
-          "name": "Ammo Avenue",
-          "url": "https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Retro Dance",
-      "url": "https://open.spotify.com/track/5bUNDjp6keNuG1ejQLLlet"
-    },
-    {
       "added_at": "2026-07-31 04:37:32",
       "album": {
         "name": "Let It Drop",
@@ -2085,22 +2149,6 @@
       "url": "https://open.spotify.com/track/3UOiBz3A6VkTz13kDeNQdF"
     },
     {
-      "added_at": "2026-07-17 04:00:51",
-      "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/2O53NDol30Js5X2hXocK7P"
-      },
-      "artists": [
-        {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
-        }
-      ],
-      "duration_ms": 182115,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/0fzlUpU4C3HjC0BZonYGWT"
-    },
-    {
       "added_at": "2026-07-03 04:01:51",
       "album": {
         "name": "Digital Detox",
@@ -2153,22 +2201,6 @@
       "url": "https://open.spotify.com/track/5T0TTNKmX17mlNkSc6F6T4"
     },
     {
-      "added_at": "2026-06-12 04:01:19",
-      "album": {
-        "name": "Thanks for Dancing",
-        "url": "https://open.spotify.com/album/06ZHwJAVw71ROqjgxaNLeT"
-      },
-      "artists": [
-        {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Thanks for Dancing",
-      "url": "https://open.spotify.com/track/45v6WFpKDVRtuKRnhlalKw"
-    },
-    {
       "added_at": "2026-07-03 04:01:51",
       "album": {
         "name": "TCFS",
@@ -2217,30 +2249,6 @@
       "url": "https://open.spotify.com/track/18V768rb4wOOamf39v1603"
     },
     {
-      "added_at": "2026-06-05 04:01:31",
-      "album": {
-        "name": "u up?",
-        "url": "https://open.spotify.com/album/68Ii8cbl0yUWv7Bt2BbqV4"
-      },
-      "artists": [
-        {
-          "name": "Nariman",
-          "url": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
-        },
-        {
-          "name": "charmy",
-          "url": "https://open.spotify.com/artist/5dcPJcXUrWmo0h6UaRBRta"
-        }
-      ],
-      "duration_ms": 210250,
-      "name": "u up?",
-      "url": "https://open.spotify.com/track/2ZZvnh85DP30XvSLjd0qDD"
-    },
-    {
       "added_at": "2026-05-01 04:01:01",
       "album": {
         "name": "Godzilla",
@@ -2279,22 +2287,6 @@
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw"
-    },
-    {
-      "added_at": "2026-05-01 04:01:01",
-      "album": {
-        "name": "Nexus 002",
-        "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
-      },
-      "artists": [
-        {
-          "name": "Greggio",
-          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
-        }
-      ],
-      "duration_ms": 213769,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/44vqflfNrPLnAW1Y5B1e4c"
     },
     {
       "added_at": "2026-02-06 05:00:30",

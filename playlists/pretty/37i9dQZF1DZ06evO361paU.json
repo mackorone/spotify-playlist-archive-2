@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 299778,
+  "num_followers": 299794,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADg4i5FkKExckglLnRalG6U",
+  "snapshot_id": "ar2igAAAAAAxfzP+B1KylA7S2SeLWUt4",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "highway robbery (feat. Lenny Kravitz)",
-        "url": "https://open.spotify.com/album/5x9833iDvciVUJZ9ml5HZv"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "highway robbery (feat. Lenny Kravitz)",
-      "url": "https://open.spotify.com/track/4iuyHLFblqYFi3REOrMkMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backatown",
         "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 221360,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "highway robbery (feat. Lenny Kravitz)",
+        "url": "https://open.spotify.com/album/5x9833iDvciVUJZ9ml5HZv"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "highway robbery (feat. Lenny Kravitz)",
+      "url": "https://open.spotify.com/track/4iuyHLFblqYFi3REOrMkMP"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 268421,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
       },
@@ -779,22 +763,6 @@
       "duration_ms": 290826,
       "name": "Black Velveteen",
       "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ride (Edit)",
-        "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Ride (Edit)",
-      "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
     },
     {
       "added_at": null,
@@ -815,6 +783,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 268421,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride (Edit)",
+        "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "Ride (Edit)",
+      "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
       },
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/3evSJzi5ghhXuPdmttKHNq"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 379513,
-      "name": "It\u2019s Just Another Fine Day (In This Universe of Love)",
-      "url": "https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P"
+      "duration_ms": 382722,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/3QBG916O8I3D2kvAyctz7R"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

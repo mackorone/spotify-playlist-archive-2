@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 269139,
       "name": "How Far Can You Fly? (Ladder) - Original Version",
       "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
@@ -5270,7 +5270,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 194638,
       "name": "Inizi\u00f2",
       "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
@@ -8911,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "Elegua",
+        "url": "https://open.spotify.com/album/741pAlkIxOLTSowiOPxAuS"
+      },
+      "artists": [
+        {
+          "name": "Parbleu",
+          "url": "https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Peut-\u00eatre fous",
+      "url": "https://open.spotify.com/track/3QL9OCmOOglA7t9Y9Vpyf6"
+    },
+    {
+      "album": {
         "name": "Planisfero",
         "url": "https://open.spotify.com/album/7Mqlor2B60Fqi79kmj072f"
       },
@@ -11538,7 +11556,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
@@ -11796,6 +11814,24 @@
       "duration_ms": 413826,
       "name": "Utopia I",
       "url": "https://open.spotify.com/track/4AfJTaxPS3wca8vn7arI5x"
+    },
+    {
+      "album": {
+        "name": "Vacation and Probation",
+        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154480,
+      "name": "Vacation and Probation",
+      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
     },
     {
       "album": {
@@ -12058,6 +12094,24 @@
       "duration_ms": 298500,
       "name": "Vuoto Testamento",
       "url": "https://open.spotify.com/track/6ExH19W4bKJjEBm8hJKfPM"
+    },
+    {
+      "album": {
+        "name": "We Out Here",
+        "url": "https://open.spotify.com/album/3lgHo8lFcZv4DPOrcK9EAS"
+      },
+      "artists": [
+        {
+          "name": "Daykoda",
+          "url": "https://open.spotify.com/artist/7ileF8v8C9pqci1fqJOkf0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122593,
+      "name": "We Out Here",
+      "url": "https://open.spotify.com/track/6gs6S5YwQRhujsgSBDjgF6"
     },
     {
       "album": {

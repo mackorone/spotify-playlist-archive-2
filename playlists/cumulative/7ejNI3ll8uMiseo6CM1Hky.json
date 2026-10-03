@@ -3097,6 +3097,28 @@
     },
     {
       "album": {
+        "name": "Scream & Shout",
+        "url": "https://open.spotify.com/album/3iCMDqrSHzLdgaDUvN0DLo"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Ghost",
+          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+        },
+        {
+          "name": "Courtney Paige Nelson",
+          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160384,
+      "name": "Scream & Shout",
+      "url": "https://open.spotify.com/track/4P3rzr8MvR6ezwvbRBFyJs"
+    },
+    {
+      "album": {
         "name": "She Wants Me Dead (CAZZETTE vs. AronChupa ft. The High)",
         "url": "https://open.spotify.com/album/0dhE5GuW7A1LLOfni0cO64"
       },

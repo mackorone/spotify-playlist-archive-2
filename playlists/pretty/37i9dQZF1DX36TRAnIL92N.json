@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 510068,
+  "num_followers": 510267,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-10-02 04:01:28",
       "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
+    },
+    {
+      "added_at": "2026-10-02 04:01:28",
+      "album": {
         "name": "One Mind EP",
         "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
@@ -627,26 +643,6 @@
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
-    },
-    {
-      "added_at": "2026-10-02 04:01:28",
-      "album": {
-        "name": "No Mercy",
-        "url": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "No Mercy",
-      "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
     },
     {
       "added_at": "2026-10-02 04:01:28",
@@ -671,18 +667,22 @@
     {
       "added_at": "2026-10-02 04:01:28",
       "album": {
-        "name": "La Vida Loca",
-        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu"
       },
       "artists": [
         {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         }
       ],
-      "duration_ms": 182608,
-      "name": "La Vida Loca",
-      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
+      "duration_ms": 155666,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
     },
     {
       "added_at": "2026-10-02 04:01:28",

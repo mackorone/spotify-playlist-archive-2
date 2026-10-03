@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 107639,
+  "num_followers": 107651,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAC0XXCVgTfLCtK2n/cOvar",
+  "snapshot_id": "ar2igAAAAABBV2awm5VrICfR5z4DXhQc",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dada (feat. Davido) [Remix]",
+        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Dada (feat. Davido) [Remix]",
+      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Galorizzy",
         "url": "https://open.spotify.com/album/4TBzgF3ahYn5haqaa4MPKF"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 253924,
       "name": "Galorizzy",
       "url": "https://open.spotify.com/track/3wmz5VjvJRTolge228JHYe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dada (feat. Davido) [Remix]",
-        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Dada (feat. Davido) [Remix]",
-      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 136755,
-      "name": "10 Kilo",
-      "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 176470,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 136755,
+      "name": "10 Kilo",
+      "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nwa Baby",
         "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 222327,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WONDALAND",
-        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4c7UBMrX7NC9QHtZQCQKBn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6erurkBpnedevTPib23gid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WONDALAND",
+        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4c7UBMrX7NC9QHtZQCQKBn"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "1 Milli",
-      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twe Twe",
         "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
       },
@@ -843,30 +827,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
-        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
       "artists": [
         {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "1 Milli",
+      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/61bwWoC9LQ92OuqrtWZcUd"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Aisha",
-          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
-      "duration_ms": 206069,
-      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
-      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
+      "duration_ms": 208427,
+      "name": "One Ticket",
+      "url": "https://open.spotify.com/track/6KadF9HHpJ4kShkt1nqTzw"
     },
     {
       "added_at": null,
@@ -899,6 +891,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
+        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
+      },
+      "artists": [
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "duration_ms": 206069,
+      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 237714,
       "name": "If",
       "url": "https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Bad Songz",
-        "url": "https://open.spotify.com/album/61bwWoC9LQ92OuqrtWZcUd"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 208427,
-      "name": "One Ticket",
-      "url": "https://open.spotify.com/track/6KadF9HHpJ4kShkt1nqTzw"
     },
     {
       "added_at": null,

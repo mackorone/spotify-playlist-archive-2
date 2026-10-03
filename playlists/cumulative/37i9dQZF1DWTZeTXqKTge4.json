@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: K!RA OJI, Nicky Savage",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Tel Kel",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 96842,
       "name": "Big Wop",
       "url": "https://open.spotify.com/track/1b31hRNoQogOJSKqQxhfjv"
@@ -5071,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "EPILOG",
+        "url": "https://open.spotify.com/album/0zRvsOfRygvH0uXxxMP7Qe"
+      },
+      "artists": [
+        {
+          "name": "Lunaire",
+          "url": "https://open.spotify.com/artist/2utqlnLLPdrTcaohqgDLCS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Cendrier",
+      "url": "https://open.spotify.com/track/3DwAs5StBJ9Ec33MuuM8Fz"
+    },
+    {
+      "album": {
         "name": "Cercle Vicieux",
         "url": "https://open.spotify.com/album/4uKG6vs1F0Y84CZOyP2CZm"
       },
@@ -5878,7 +5896,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 173533,
       "name": "COLLIMATEUR",
       "url": "https://open.spotify.com/track/4yGqDjNNSjd92grWAtTCnA"
@@ -7595,6 +7613,36 @@
     },
     {
       "album": {
+        "name": "Distortions",
+        "url": "https://open.spotify.com/album/28a9GPs4Hg7QdS6zzmYJGs"
+      },
+      "artists": [
+        {
+          "name": "Les Bas-Vilains",
+          "url": "https://open.spotify.com/artist/0wCcO5UW9RQ0hJD3EJ5tNc"
+        },
+        {
+          "name": "12 Singes",
+          "url": "https://open.spotify.com/artist/4kPW0zHoOBb5OyV9NbSsNj"
+        },
+        {
+          "name": "Beeyoudee",
+          "url": "https://open.spotify.com/artist/7qcAhbe6oHNxkDX9MQT3HR"
+        },
+        {
+          "name": "L'incroyable Seif",
+          "url": "https://open.spotify.com/artist/4yE0I8e3BnpzafViqdyEce"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205769,
+      "name": "Distortions",
+      "url": "https://open.spotify.com/track/0MwjWDAmrj4CKw70d5vM9t"
+    },
+    {
+      "album": {
         "name": "dla marde (avec Mike Shabb)",
         "url": "https://open.spotify.com/album/35VArS9UTQUGnDt7HnNVln"
       },
@@ -7974,7 +8022,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 175228,
       "name": "DREAM",
       "url": "https://open.spotify.com/track/1thqTIQzbnGZAaNFqqpIIy"
@@ -9317,6 +9365,24 @@
     },
     {
       "album": {
+        "name": "Fayolle",
+        "url": "https://open.spotify.com/album/1nJoBQO5cHuHbaCKd1qB7B"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129464,
+      "name": "Fayolle",
+      "url": "https://open.spotify.com/track/1uo4Vz6dhHeiz7jNQLkIMW"
+    },
+    {
+      "album": {
         "name": "Femme fatale",
         "url": "https://open.spotify.com/album/4LDjPHAkPDhLA03A5apqJo"
       },
@@ -10408,7 +10474,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 152187,
       "name": "GENS DU PAYS",
       "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
@@ -13926,7 +13992,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 168000,
       "name": "Laisse nous",
       "url": "https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63"
@@ -22709,6 +22775,28 @@
     },
     {
       "album": {
+        "name": "STAFF MEAL",
+        "url": "https://open.spotify.com/album/7AN1bIeyDydPiD4IOsKOwj"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy"
+        },
+        {
+          "name": "Lova",
+          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "SALTO",
+      "url": "https://open.spotify.com/track/31muJWHYJD8MKayMFSoVAz"
+    },
+    {
+      "album": {
         "name": "SAME DRUGS",
         "url": "https://open.spotify.com/album/17tOMWUWdQibQNu8NPVkoR"
       },
@@ -23084,6 +23172,28 @@
       "duration_ms": 172500,
       "name": "SDLM",
       "url": "https://open.spotify.com/track/2AYQeUndgdNhBYb4UzOhXc"
+    },
+    {
+      "album": {
+        "name": "Selfmade",
+        "url": "https://open.spotify.com/album/1XthALtZaBnY8eXdnSOgAz"
+      },
+      "artists": [
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Criminls",
+          "url": "https://open.spotify.com/artist/0Evc7jeAHK1LQk3Oi6IdQ8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "Selfmade",
+      "url": "https://open.spotify.com/track/3eu4MfnSGNgSY5kY0DUFHP"
     },
     {
       "album": {

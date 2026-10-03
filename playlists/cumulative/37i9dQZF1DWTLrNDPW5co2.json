@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of dance music culture. Featuring Hercules & Love Affair. ",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of dance music culture. Featuring Pabllo Vittar. ",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "LOST IN LUST",
+        "url": "https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177382,
+      "name": "BAD GOOD",
+      "url": "https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl"
+    },
+    {
+      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 159706,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik"
@@ -9830,7 +9848,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 244713,
       "name": "Violent Thoughts",
       "url": "https://open.spotify.com/track/1N0TsyGpNhyErrvJyKFQHq"
@@ -9976,6 +9994,28 @@
       "duration_ms": 141818,
       "name": "WHATEVER GETS YOU THROUGH THE NIGHT - duet in the dark",
       "url": "https://open.spotify.com/track/3q4UCwieqed99JzO1pwFnW"
+    },
+    {
+      "album": {
+        "name": "Where the Light Shines",
+        "url": "https://open.spotify.com/album/3VOq8Lsvll2jxLLquzVWIo"
+      },
+      "artists": [
+        {
+          "name": "Baby Weight",
+          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
+        },
+        {
+          "name": "ellie d.",
+          "url": "https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204179,
+      "name": "Where the Light Shines",
+      "url": "https://open.spotify.com/track/1iHSIpNWzGRUWpGBxuCORE"
     },
     {
       "album": {

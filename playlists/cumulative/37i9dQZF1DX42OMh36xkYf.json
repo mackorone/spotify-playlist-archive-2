@@ -2833,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "La F\u00e1bula",
+        "url": "https://open.spotify.com/album/49zomDfCjLkMlgvVXEzswY"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161605,
+      "name": "La F\u00e1bula",
+      "url": "https://open.spotify.com/track/6AJpmsldHFaBUkjKV0DX9j"
+    },
+    {
+      "album": {
         "name": "Quiz\u00e1 no es para tanto",
         "url": "https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB"
       },
@@ -3828,7 +3846,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 235265,
       "name": "Nada Nada",
       "url": "https://open.spotify.com/track/18bxrfWPsBRotKXZp5iIk7"

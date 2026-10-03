@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Parc Jae Jung \(박재정\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,801 songs - 4 day 20 hr 59 min
+1,802 songs - 4 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Hangang Gongwon](https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:58 | 2023-08-31 | 2023-10-03 |
 | [Hangover](https://open.spotify.com/track/0vMg57uWWcnv4T3qjoXP68) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hangover](https://open.spotify.com/album/2bil4uyovEkVkPVpEAWRBp) | 3:44 | 2021-12-20 | 2022-06-14 |
 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2021-12-20 | 2022-07-06 |
+| [HAPPINESS](https://open.spotify.com/track/761XLO9SpfryhloLqAG3DX) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [HAPPINESS](https://open.spotify.com/album/48mrsRLW5yivdjfjMj5Qc4) | 3:04 | 2026-10-02 |  |
 | [Happiness](https://open.spotify.com/track/1rguO7AsN5jYbXr5POizxK) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [Happiness](https://open.spotify.com/album/2qobgmbXd3qd7RVFMFWsvU) | 4:16 | 2023-08-24 | 2023-11-03 |
 | [Happiness \(feat\. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun\)](https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Ban Gwang Ok](https://open.spotify.com/artist/0xLSqFBJp63NWp5CKTZ2aS), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Happy Ending](https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p) | 4:20 | 2021-12-20 | 2022-07-02 |
 | [Happy Ending](https://open.spotify.com/track/1Ik7tOkpdPNBArJuvbc7Rz) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Happy Ending](https://open.spotify.com/album/3gIgM2702guh1dn8taB5k3) | 3:55 | 2022-07-22 | 2022-10-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 45841,
+  "num_followers": 45892,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "Deewani",
-        "url": "https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy"
-      },
-      "artists": [
-        {
-          "name": "Sudhir Yaduvanshi",
-          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
-        },
-        {
-          "name": "Aniket Sharma",
-          "url": "https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx"
-        }
-      ],
-      "duration_ms": 184701,
-      "name": "Deewani",
-      "url": "https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
         "name": "Flowers Of the Same Tree",
         "url": "https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 868387,
       "name": "Tu Mane Ya Na Mane - Edit Version",
       "url": "https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
+        "name": "Deewani",
+        "url": "https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy"
+      },
+      "artists": [
+        {
+          "name": "Sudhir Yaduvanshi",
+          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
+        },
+        {
+          "name": "Aniket Sharma",
+          "url": "https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx"
+        }
+      ],
+      "duration_ms": 184701,
+      "name": "Deewani",
+      "url": "https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX"
     },
     {
       "added_at": "2026-10-01 13:03:08",

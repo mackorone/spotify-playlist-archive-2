@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > The world's most iconic and relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,806 likes - 129 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,874 likes - 129 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

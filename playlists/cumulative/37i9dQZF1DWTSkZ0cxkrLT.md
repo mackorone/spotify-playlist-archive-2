@@ -4,7 +4,7 @@
 
 > Música ideal para tomar el té y relajar.
 
-231 songs - 13 hr 33 min
+232 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 | 2023-08-18 |  |
 | [configuracionesonduladas\_17.11.23\_nicetoclub\_bsas](https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Las Luces Que Estaban Ocultas \[en vivo\]](https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo) | 5:24 | 2024-04-25 | 2024-06-01 |
 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2023-08-18 | 2024-04-19 |
-| [cuando pase la tormenta \- Spotify Sessions](https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:49 | 2026-02-04 |  |
+| [cuando pase la tormenta \- Spotify Sessions](https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:49 | 2026-02-04 | 2026-10-03 |
 | [Cure For Me \(feat\. Silvana Estrada\) \- Live](https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cure For Me \(feat\. Silvana Estrada\) \[Live\]](https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI) | 3:51 | 2023-08-18 | 2024-04-19 |
 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 | 2023-10-20 |  |
 | [De Haber Sabido](https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:08 | 2025-04-15 | 2026-01-18 |
@@ -179,6 +179,7 @@
 | [Puente](https://open.spotify.com/track/5ZSxLDgPAclH5IqYWYXyYD) | [Ceci Mendez](https://open.spotify.com/artist/1BXbbnZe7M9bYBAHyqEn9g), [Ernesto Snajer](https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao) | [Puente](https://open.spotify.com/album/5salltxm1Mde42pNmg2uDY) | 3:47 | 2025-10-02 | 2025-10-25 |
 | [Puntos Equidistantes \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 | 2023-12-01 | 2025-01-10 |
 | [Pétalo de sal](https://open.spotify.com/track/4v60Go3RguqbsNxZbag2mK) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Pétalo de sal](https://open.spotify.com/album/47rjAhbKvYLWneD4xLp6c5) | 3:22 | 2024-05-31 | 2024-09-07 |
+| [Pétalos](https://open.spotify.com/track/7jsGNSXlpWfnMYywpttLv8) | [Carolina Sena](https://open.spotify.com/artist/6zwwa1NfikK39NipdT3XLX) | [Pétalos](https://open.spotify.com/album/0T6gvsXT9tWRNAfsUsDvs6) | 3:18 | 2026-10-02 |  |
 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 | 2023-10-20 |  |
 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 | 2024-03-01 |  |
 | [Ra](https://open.spotify.com/track/4vQckAY3tUvQ1SyemklbZ5) | [Seba Lyon](https://open.spotify.com/artist/1YXGENljYCyF087tuDlGvj) | [Ra](https://open.spotify.com/album/1j08kXvriBIn3woXfadz7N) | 4:10 | 2026-09-28 |  |

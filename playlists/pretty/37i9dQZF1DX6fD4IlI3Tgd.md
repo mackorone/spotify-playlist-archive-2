@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 
 > Guaracha, dame guaracha\. <br/>Aquí puro brainrot criollo\. Foto: PETERBLUE
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,237 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,257 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 2 | [EL RITMO CHANCLETA](https://open.spotify.com/track/5SBIwdQmFaMJUU1JophV41) | [Aleroj](https://open.spotify.com/artist/54m3plxbB6d8a0oIADRAgh) | [XOXO](https://open.spotify.com/album/7wn92jI9a19UFekP9Sa9oU) | 3:21 |
 | 3 | [TEKETEKE](https://open.spotify.com/track/57DVPc2raEhdYqNmEHuClm) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf) | [XOXO](https://open.spotify.com/album/7wn92jI9a19UFekP9Sa9oU) | 5:49 |
 | 4 | [TODO ROTO \- CRRDR REMIX](https://open.spotify.com/track/4ZsmneZtI8VhwdVks8V8sE) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [CLUB GRASA](https://open.spotify.com/album/4VWYv2QkykYT9EBfydrwIJ) | 2:56 |
-| 5 | [BREATHE MY SATISFACTION](https://open.spotify.com/track/14yar0dftaBXRI3x1FKtwm) | [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL), [João Lágrima de Ouro](https://open.spotify.com/artist/5bmcpwBSIz0TdjLVafaaWJ) | [BREATHE MY SATISFACTION](https://open.spotify.com/album/3yqrvjfQuPj4pzMBlLjMBD) | 3:16 |
-| 6 | [Pa que la pases bien](https://open.spotify.com/track/2kvoVJGPLUZ9maPRWGepxl) | [Noro$t](https://open.spotify.com/artist/2GR0zwyO8NyrSyGmueuG35) | [Pa que la pases bien](https://open.spotify.com/album/4jGyyrWUEs9pFNBxTvyLUN) | 3:17 |
-| 7 | [BENDECIO](https://open.spotify.com/track/6GQLzrq2qr3hgAwlUODJ9k) | [PETERBLUE](https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz) | [BENDECIO](https://open.spotify.com/album/3fUw8rAFhm1QqFSThyQamr) | 3:50 |
+| 5 | [Pa que la pases bien](https://open.spotify.com/track/2kvoVJGPLUZ9maPRWGepxl) | [Noro$t](https://open.spotify.com/artist/2GR0zwyO8NyrSyGmueuG35) | [Pa que la pases bien](https://open.spotify.com/album/4jGyyrWUEs9pFNBxTvyLUN) | 3:17 |
+| 6 | [BENDECIO](https://open.spotify.com/track/6GQLzrq2qr3hgAwlUODJ9k) | [PETERBLUE](https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz) | [BENDECIO](https://open.spotify.com/album/3fUw8rAFhm1QqFSThyQamr) | 3:50 |
+| 7 | [Bloody Paradise x VELOCIDADE \- PETERBLUE Remix](https://open.spotify.com/track/5B3nptWG8LWufK401wzzrj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G), [PETERBLUE](https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz) | [Bloody Paradise x VELOCIDADE \(PETERBLUE Remix\)](https://open.spotify.com/album/2zImnNLEHn96NQPh5cc7FZ) | 3:12 |
 | 8 | [LA XOXA MIA](https://open.spotify.com/track/66h8UgTnePZ9j0Ld8n0Z65) | [Noro$t](https://open.spotify.com/artist/2GR0zwyO8NyrSyGmueuG35), [SAI](https://open.spotify.com/artist/1BuXqhQRPSilIQnIGdlKY6), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [LA XOXA MIA](https://open.spotify.com/album/2feYK2Gxr7se0xprzRmyRe) | 2:38 |
 | 9 | [Tatara Tatara Tatara](https://open.spotify.com/track/14L0j1Kke8HZKStLfHgg8k) | [Nico Parga](https://open.spotify.com/artist/1ah3rkTMCdKDGtshxvCUyo), [Fercho Pargas](https://open.spotify.com/artist/1G0dGR1jzIc18grfeYTX90) | [PAPUX](https://open.spotify.com/album/5G7T6miMR7L6f8w1ZBXZCz) | 4:17 |
 | 10 | [Nuevayol](https://open.spotify.com/track/56rYexqaHKojW0uaruCi8z) | [Paralich](https://open.spotify.com/artist/16vu24n9aWVAB8yLzweuxe) | [Nuevayol](https://open.spotify.com/album/3Mfh76TNqFbYxz78WPRFs2) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 49 | [Alicia en el Páramo](https://open.spotify.com/track/5ezpgguxLAFjD1jh9eS0xS) | [Isablu](https://open.spotify.com/artist/0o5LchLFAlD8pgc6Alwicv) | [Alicia en el Páramo](https://open.spotify.com/album/76iKHoNzNglCK9hGBhOUFD) | 4:32 |
 | 50 | [IVY BOUNCE](https://open.spotify.com/track/2jHt80z4boqIY7KEp0mts1) | [SAI](https://open.spotify.com/artist/1BuXqhQRPSilIQnIGdlKY6) | [IVY BOUNCE](https://open.spotify.com/album/5varNiT6l8ZiRUp3VSmYoe) | 4:54 |
 
-Snapshot ID: `AAAAABDr8iyWqotd86lR3imJqw0wP0DP`
+Snapshot ID: `AAAAAJY7qYv66HbFlHxT5Pvg6B7g3/aF`

@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310935,
+  "num_followers": 1310951,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Shook Ones, PT. III",
-        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
-      },
-      "artists": [
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 218398,
-      "name": "Shook Ones, PT. III",
-      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Better Place",
         "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 200353,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Shook Ones, PT. III",
+        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 218398,
+      "name": "Shook Ones, PT. III",
+      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
     },
     {
       "added_at": "2026-05-09 18:40:49",
@@ -1525,6 +1525,26 @@
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
     },
     {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
+        "name": "Astronaught",
+        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "duration_ms": 181868,
+      "name": "Astronaught",
+      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Work",
@@ -1547,26 +1567,6 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
-    },
-    {
-      "added_at": "2026-09-18 04:02:27",
-      "album": {
-        "name": "Astronaught",
-        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Astronaught",
-      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1657,6 +1657,26 @@
       "url": "https://open.spotify.com/track/6eTWVeUjiHH9BeWZI5oyyq"
     },
     {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "Step To The Floor",
+        "url": "https://open.spotify.com/album/1Vwum4cCMOAyYonYofPF7I"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Step To The Floor",
+      "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
+    },
+    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "Rich & Handsome",
@@ -1699,26 +1719,6 @@
       "duration_ms": 183998,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "Step To The Floor",
-        "url": "https://open.spotify.com/album/1Vwum4cCMOAyYonYofPF7I"
-      },
-      "artists": [
-        {
-          "name": "Dansyn",
-          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Step To The Floor",
-      "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Let Me Clear My Throat",
         "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
       },
@@ -1949,20 +1933,20 @@
       "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
-      "added_at": "2026-07-17 04:01:08",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "No Bite",
-        "url": "https://open.spotify.com/album/5erPjmJ7ZdhvpuFtta4me2"
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
       },
       "artists": [
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
         }
       ],
-      "duration_ms": 181417,
-      "name": "No Bite",
-      "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2026-08-21 04:01:29",
@@ -1983,6 +1967,22 @@
       "duration_ms": 179076,
       "name": "Rhythm Has Control",
       "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
+    },
+    {
+      "added_at": "2026-07-17 04:01:08",
+      "album": {
+        "name": "No Bite",
+        "url": "https://open.spotify.com/album/5erPjmJ7ZdhvpuFtta4me2"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "No Bite",
+      "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2009,22 +2009,6 @@
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
     },
     {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/5NyCvm5NgnBuWnW6pEth7k"
-      },
-      "artists": [
-        {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Deeper Underground",
@@ -2045,28 +2029,20 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-08-07 04:01:21",
       "album": {
-        "name": "SPEND IT",
-        "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/5NyCvm5NgnBuWnW6pEth7k"
       },
       "artists": [
         {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "LEIJON",
-          "url": "https://open.spotify.com/artist/5I0DEhBfWK76pttt1P8tCs"
-        },
-        {
-          "name": "nobodyknowsjones",
-          "url": "https://open.spotify.com/artist/4CymeX9LBix0SigmOw4xkE"
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
         }
       ],
-      "duration_ms": 144023,
-      "name": "SPEND IT",
-      "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
+      "duration_ms": 196363,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2105,24 +2081,48 @@
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
-      "added_at": "2026-08-21 04:01:29",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Take It Higher",
-        "url": "https://open.spotify.com/album/6N4CdLsearJv1Aa5j7nXwu"
+        "name": "SPEND IT",
+        "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
         },
         {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+          "name": "LEIJON",
+          "url": "https://open.spotify.com/artist/5I0DEhBfWK76pttt1P8tCs"
+        },
+        {
+          "name": "nobodyknowsjones",
+          "url": "https://open.spotify.com/artist/4CymeX9LBix0SigmOw4xkE"
         }
       ],
-      "duration_ms": 193982,
-      "name": "Take It Higher",
-      "url": "https://open.spotify.com/track/4TcDLZ64D57GAVfLUGBrr4"
+      "duration_ms": 144023,
+      "name": "SPEND IT",
+      "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
+    },
+    {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "WIN WIN",
+          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2149,24 +2149,24 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
-      "added_at": "2026-01-23 05:00:24",
+      "added_at": "2026-08-21 04:01:29",
       "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
+        "name": "Take It Higher",
+        "url": "https://open.spotify.com/album/6N4CdLsearJv1Aa5j7nXwu"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "WIN WIN",
-          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
         }
       ],
-      "duration_ms": 212307,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
+      "duration_ms": 193982,
+      "name": "Take It Higher",
+      "url": "https://open.spotify.com/track/4TcDLZ64D57GAVfLUGBrr4"
     },
     {
       "added_at": "2026-03-20 04:00:50",
@@ -2193,6 +2193,42 @@
       "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
     },
     {
+      "added_at": "2026-04-24 04:01:50",
+      "album": {
+        "name": "Somn Like Dis",
+        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Somn Like Dis",
+      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
+    },
+    {
+      "added_at": "2026-08-28 04:01:56",
+      "album": {
+        "name": "Thirsty (feat. Datti)",
+        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
+    },
+    {
       "added_at": "2026-08-07 04:01:21",
       "album": {
         "name": "Move It 2 The Drum",
@@ -2217,22 +2253,6 @@
       "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
     },
     {
-      "added_at": "2026-04-24 04:01:50",
-      "album": {
-        "name": "Somn Like Dis",
-        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
-      },
-      "artists": [
-        {
-          "name": "Bessey",
-          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Somn Like Dis",
-      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Animal",
@@ -2251,26 +2271,6 @@
       "duration_ms": 193655,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
-      "added_at": "2026-08-28 04:01:56",
-      "album": {
-        "name": "Thirsty (feat. Datti)",
-        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
     },
     {
       "added_at": "2026-09-04 04:01:29",
@@ -2389,6 +2389,22 @@
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 129461,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
       "added_at": "2026-07-31 04:01:22",
       "album": {
         "name": "SO HYPE",
@@ -2405,36 +2421,24 @@
       "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
     },
     {
-      "added_at": "2026-08-21 04:01:29",
-      "album": {
-        "name": "Baddies Going Out",
-        "url": "https://open.spotify.com/album/09jniR1EzBnPcOdLAxBWVK"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Baddies Going Out",
-      "url": "https://open.spotify.com/track/22rOiUEbwIIWM4KCAodbZD"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+        "name": "Grind It",
+        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
       },
       "artists": [
         {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
         }
       ],
-      "duration_ms": 129461,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+      "duration_ms": 185033,
+      "name": "Grind It",
+      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     }
   ],
   "unique_name": "Nasty Bits",

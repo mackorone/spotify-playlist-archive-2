@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,270 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,275 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 36 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 37 | [You Were There](https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [You Were There](https://open.spotify.com/album/4bcFP1yBd7q2OhN3k6HXZh) | 4:15 |
 | 38 | [Only You](https://open.spotify.com/track/0YDoQ37EPG6m68HiA90FvX) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Only You](https://open.spotify.com/album/2AVdr27lgQpAz5iiKxw6zV) | 3:22 |
-| 39 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
-| 40 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
+| 39 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
+| 40 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
 | 41 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |
 | 42 | [saturday](https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j) | [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [saturday](https://open.spotify.com/album/0UaGwKMT19eb7ai6Y1KAZs) | 3:30 |
 | 43 | [Where the Living is Deep](https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Where the Living is Deep](https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU) | 3:32 |

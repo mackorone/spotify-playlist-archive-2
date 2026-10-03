@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-23",
-  "description": "Chasing that runner's high!",
+  "description": "Chasing that runner's high! Countdown to the New York Marathon.",
   "name": "Running Club",
   "tracks": [
     {
@@ -236,6 +236,28 @@
       "duration_ms": 163384,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "album": {
+        "name": "Ain't In LA (Coachella 2016 Remix)",
+        "url": "https://open.spotify.com/album/6V4OIUUSIuf6Hfx9lbYVMG"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170278,
+      "name": "Ain't In LA - Coachella 2016 Remix",
+      "url": "https://open.spotify.com/track/4Ev2R78P8cMZcdmv3RCUlI"
     },
     {
       "album": {
@@ -1228,7 +1250,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 169426,
       "name": "Call On Me - Radio Edit",
       "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
@@ -1939,6 +1961,32 @@
     },
     {
       "album": {
+        "name": "DANGER DANGER (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180150,
+      "name": "DANGER DANGER (feat. Skepta)",
+      "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
+    },
+    {
+      "album": {
         "name": "Darkness In Me",
         "url": "https://open.spotify.com/album/6CnT7uYn3gnhz83AaC9Gx9"
       },
@@ -2564,6 +2612,28 @@
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
+    },
+    {
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2G5BCVsZJjwGIp8OXBa2w0"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206218,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/4i9ay73aSChB8q4KeGDBIl"
     },
     {
       "album": {
@@ -4774,7 +4844,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 204150,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/5ubwXXOsH9bUhZsQ0Cybha"
@@ -5590,7 +5660,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 165517,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7A2K6UcyFSt7wBuv4B6kXi"
@@ -8782,7 +8852,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 251904,
       "name": "Sweet Disposition - John Summit & Silver Panda Remix",
       "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
@@ -9718,6 +9788,32 @@
       "duration_ms": 172615,
       "name": "Turn Up The Dose",
       "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Speakers (Julian Jordan Remix)",
+        "url": "https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156489,
+      "name": "Turn Up The Speakers - Julian Jordan Remix",
+      "url": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
     },
     {
       "album": {

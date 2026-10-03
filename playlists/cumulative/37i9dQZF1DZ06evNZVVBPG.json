@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 238718,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX"
@@ -1326,6 +1326,28 @@
       "duration_ms": 259466,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Sean Ono Lennon",
+          "url": "https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307540,
+      "name": "Tomorrow Never Came (feat. Sean Ono Lennon)",
+      "url": "https://open.spotify.com/track/6VZwnDUMkAZs36g6v9MVQX"
     },
     {
       "album": {

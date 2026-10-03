@@ -9057,6 +9057,28 @@
     },
     {
       "album": {
+        "name": "La Jangada",
+        "url": "https://open.spotify.com/album/4eOTZGLOLYa8L4OFKdrXGr"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315780,
+      "name": "Jangadero - La Jangada",
+      "url": "https://open.spotify.com/track/7s7RSoKV2DcNxpu1OhSFBB"
+    },
+    {
+      "album": {
         "name": "Jaula de Oro",
         "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
       },
@@ -15276,6 +15298,28 @@
       "duration_ms": 184527,
       "name": "Pies Descalzos, Sue\u00f1os Blancos - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/6ehebXUTI8jx1kodxfE11a"
+    },
+    {
+      "album": {
+        "name": "pikito pikito",
+        "url": "https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180259,
+      "name": "pikito pikito",
+      "url": "https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3"
     },
     {
       "album": {

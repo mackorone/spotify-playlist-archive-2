@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63384,
+  "num_followers": 63388,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-09-25 14:49:25",
       "album": {
-        "name": "\u6d41\u661f\u968a\u300cOVERFLOW LIGHT UP!!!!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
-        "url": "https://open.spotify.com/album/01dNmR1qY5jKpsvNKqh322"
-      },
-      "artists": [
-        {
-          "name": "\u6d41\u661f\u968a",
-          "url": "https://open.spotify.com/artist/67XI85b3PsLJyqfAqJe1Yp"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 227477,
-      "name": "OVERFLOW LIGHT UP!!!!!",
-      "url": "https://open.spotify.com/track/2w9L5XKjmscu51QsSmimOb"
-    },
-    {
-      "added_at": "2026-09-25 14:49:25",
-      "album": {
         "name": "\u7d05\u6708 with \u6edd \u7dad\u5439\u300c\u5929\u7fd4KAGETSU\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/6l6hNNK95i6rVQkCmbi20R"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 244805,
       "name": "\u5929\u7fd4KAGETSU",
       "url": "https://open.spotify.com/track/30oVnFACmUWY6T0p4bpIIv"
+    },
+    {
+      "added_at": "2026-09-25 14:49:25",
+      "album": {
+        "name": "\u6d41\u661f\u968a\u300cOVERFLOW LIGHT UP!!!!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
+        "url": "https://open.spotify.com/album/01dNmR1qY5jKpsvNKqh322"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u661f\u968a",
+          "url": "https://open.spotify.com/artist/67XI85b3PsLJyqfAqJe1Yp"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 227477,
+      "name": "OVERFLOW LIGHT UP!!!!!",
+      "url": "https://open.spotify.com/track/2w9L5XKjmscu51QsSmimOb"
     },
     {
       "added_at": "2026-09-25 14:49:25",

@@ -27138,7 +27138,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 188750,
       "name": "Kalinka",
       "url": "https://open.spotify.com/track/3P2qFkM8UwAXSzvylWQuXn"
@@ -29338,7 +29338,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 190909,
       "name": "KOSZT BYCIA BOSS",
       "url": "https://open.spotify.com/track/3otQrfJgd2ncNj3s36XzTX"
@@ -37719,6 +37719,28 @@
     },
     {
       "album": {
+        "name": "NAJWI\u0118KSZA RANA",
+        "url": "https://open.spotify.com/album/38trbeSdqzwOzZN5cFCRel"
+      },
+      "artists": [
+        {
+          "name": "spazma",
+          "url": "https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115370,
+      "name": "NAJWI\u0118KSZA RANA",
+      "url": "https://open.spotify.com/track/6WzpBUrOVOvq6UtbcTTqCA"
+    },
+    {
+      "album": {
         "name": "Najwy\u017cej zostaniemy najwy\u017cej",
         "url": "https://open.spotify.com/album/1DSOIz0LCzysf9cBaLwHzL"
       },
@@ -39764,6 +39786,36 @@
       "duration_ms": 205328,
       "name": "Niedziela",
       "url": "https://open.spotify.com/track/4mFhy52M8GY8N2h5tlqdhW"
+    },
+    {
+      "album": {
+        "name": "Niegrzeczna Studentka",
+        "url": "https://open.spotify.com/album/65rCCvokTF0dt49P314rXK"
+      },
+      "artists": [
+        {
+          "name": "Cypis",
+          "url": "https://open.spotify.com/artist/20akE7sZUTpZSC78lPhqvt"
+        },
+        {
+          "name": "Diho",
+          "url": "https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY"
+        },
+        {
+          "name": "Majki",
+          "url": "https://open.spotify.com/artist/3e8V8NqZf6jsUjDEI6rwst"
+        },
+        {
+          "name": "Funky Beatz",
+          "url": "https://open.spotify.com/artist/7mqX0sJOYDEc8aXlTV3f2r"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138206,
+      "name": "Niegrzeczna Studentka",
+      "url": "https://open.spotify.com/track/4kKSU1WMsBcmg8ZM6S5HDf"
     },
     {
       "album": {

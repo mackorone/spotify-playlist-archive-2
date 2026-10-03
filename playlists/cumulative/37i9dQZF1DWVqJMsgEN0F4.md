@@ -2,9 +2,9 @@
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> Noah Kahan along with the hottest alternative songs right now.
+> The Paradox along with the hottest alternative songs right now.
 
-1,204 songs - 2 day 20 hr 59 min
+1,205 songs - 2 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,8 @@
 | [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 | 2026-07-17 |  |
 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 | 2026-03-13 | 2026-04-25 |
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2021-10-29 | 2022-02-12 |
-| [I Kinda Like That](https://open.spotify.com/track/0d1VAPSDzDRZMNIndiC2x2) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [I Kinda Like That](https://open.spotify.com/album/1JAdAgj3z46aOZl5KHk56x) | 2:39 | 2026-08-21 |  |
+| [I Kinda Like That](https://open.spotify.com/track/0PRUObTnEluxW0lgkykCDw) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Proceed With Caution](https://open.spotify.com/album/468Onsk0BAN3KorH6PrBfR) | 2:39 | 2026-10-02 |  |
+| [I Kinda Like That](https://open.spotify.com/track/0d1VAPSDzDRZMNIndiC2x2) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [I Kinda Like That](https://open.spotify.com/album/1JAdAgj3z46aOZl5KHk56x) | 2:39 | 2026-08-21 | 2026-10-03 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-05-03 | 2024-08-24 |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2026-01-14 | 2026-04-11 |
 | [I Want A Dog](https://open.spotify.com/track/0uYYTsx565AvNkQJMzGzmK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [I Want A Dog](https://open.spotify.com/album/4Ttms3JPJD2QEczSv7lyUt) | 2:48 | 2022-12-09 | 2022-12-24 |

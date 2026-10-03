@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,663 likes - 75 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,704 likes - 75 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 60 | [Only Time Will Tell \- Live](https://open.spotify.com/track/7DuletNSrxPBTmtZda7NkX) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Only Time Will Tell \(Live\)](https://open.spotify.com/album/4slQOB0rCtVKgzDDEKAk7s) | 5:06 |
 | 61 | [Build And Destroy](https://open.spotify.com/track/37lctHJGpnrzHPluCe48S8) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Build And Destroy](https://open.spotify.com/album/5pftDdyVIpfChLLsaGpJ8N) | 3:52 |
 | 62 | [Tear It Down](https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Tear It Down](https://open.spotify.com/album/5tTVErPEf0dIdLB5kI8oqA) | 4:23 |
-| 63 | [What Lies Ahead \(Dark\-Side Mix\)](https://open.spotify.com/track/5CFVGEPgzCYmBahFQJmbHO) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [What Lies Ahead \(Dark\-Side Mix\)](https://open.spotify.com/album/3rDf22HsCKMuttMHDmZXDm) | 2:54 |
+| 63 | [What Lies Ahead \- Dark\-Side Mix](https://open.spotify.com/track/5CFVGEPgzCYmBahFQJmbHO) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [What Lies Ahead \(Dark\-Side Mix\)](https://open.spotify.com/album/3rDf22HsCKMuttMHDmZXDm) | 2:54 |
 | 64 | [Kaleidoscope](https://open.spotify.com/track/1BubFQ5eSq00uhfgVwztxN) | [Bioscope](https://open.spotify.com/artist/19bDPhXhRA80y2TODx2sgE), [Steve Rothery](https://open.spotify.com/artist/6kbARQcqwoyi5CHsrRoxqb), [Thorsten Quaeschning](https://open.spotify.com/artist/6m30SHWcbXdvehkhZkgla5) | [Gentō](https://open.spotify.com/album/5ov1TW2liRti5KefILtn5H) | 4:55 |
 | 65 | [Colder and Colder](https://open.spotify.com/track/0F0SmPtc6alMVn7UVLLYig) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Colder and Colder](https://open.spotify.com/album/3gaT7kWBLwgJNKGsKP41Ar) | 4:56 |
 | 66 | [We are Strangers](https://open.spotify.com/track/0NKfti0d1HCO51viIBU705) | [Gazpacho](https://open.spotify.com/artist/1Joel9mDWSEZfHPE2KooW3) | [Magic 8\-Ball](https://open.spotify.com/album/73KceRCbGBc1RdmYCQy4uv) | 4:46 |

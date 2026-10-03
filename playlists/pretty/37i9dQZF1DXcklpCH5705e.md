@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Hebe 田馥甄
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,830 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,881 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

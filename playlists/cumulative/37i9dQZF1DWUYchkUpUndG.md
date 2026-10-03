@@ -2,9 +2,9 @@
 
 ### [Fresh Gospel Africa](https://open.spotify.com/playlist/37i9dQZF1DWUYchkUpUndG)
 
-> Discover new christian and gospel music\. Cover: Theresa Phondo
+> Discover new christian and gospel music\. Cover: Gabriel Eziashi
 
-9,183 songs - 28 day 19 hr 45 min
+9,185 songs - 28 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Attention](https://open.spotify.com/track/70hTGmzthTjZAkNk3u00We) | [Delight Munachy](https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Attention](https://open.spotify.com/album/5avBaOONeKnymdj5YseoC1) | 3:33 | 2024-03-15 | 2024-03-29 |
 | [Attention](https://open.spotify.com/track/5PaoHqrYFACerGO14wd2Vf) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6) | [Attention](https://open.spotify.com/album/1sqzyfXVhGppNdVapPd0Ey) | 3:17 | 2024-01-19 | 2024-02-02 |
 | [Attiéké Goumain](https://open.spotify.com/track/5JxVrZ4zVqkrCfIYmQP5cI) | [Slyve Chanel](https://open.spotify.com/artist/7vrirwsh9hmUADj9EkWMJr) | [Attiéké Goumain](https://open.spotify.com/album/0BkSMTP011rnx4FkDfI0e4) | 2:48 | 2025-06-27 | 2025-07-04 |
+| [Attributes](https://open.spotify.com/track/1dSWQxV3zravd96vFAbcPp) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [The Promise](https://open.spotify.com/album/01RkSrTKnYuFjcm6Kla4qP) | 7:55 | 2026-10-02 |  |
 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 | 2024-10-18 | 2024-11-01 |
 | [Audience Of One](https://open.spotify.com/track/4UUvxQNrzywEQdlTHyUJbG) | [Minister Tayo](https://open.spotify.com/artist/33gfrnZPioLe02iTOCbBLT) | [Audience Of One](https://open.spotify.com/album/21WZcenn3VuGOH3VjcC1zd) | 4:32 | 2025-03-14 | 2025-03-28 |
 | [Authority](https://open.spotify.com/track/2BvhzAhQ2hWQKts94ZpC3p) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Authority](https://open.spotify.com/album/5IJHA62ju1GQBeqG0k4KzQ) | 3:24 | 2025-10-24 | 2025-11-07 |
@@ -1184,6 +1185,7 @@
 | [CAST YOUR CARES](https://open.spotify.com/track/1NEPGUc3ioGELwzxIUp4At) | [OGmusic](https://open.spotify.com/artist/7bkAd1Exm8lAv2ZoiIhxZl) | [CAST YOUR CARES](https://open.spotify.com/album/7jP82RcjCkATskj6lH5T4k) | 2:38 | 2026-05-29 | 2026-06-12 |
 | [Catapult](https://open.spotify.com/track/2lM86aKtryhryetDt1fhYB) | [GodsNation](https://open.spotify.com/artist/2BSGdWUQycRUSvwojCsymt) | [Catapult](https://open.spotify.com/album/3zvzvISRTz2gBbNS1OjIUB) | 2:52 | 2023-07-07 | 2023-07-21 |
 | [Catapult Speedup](https://open.spotify.com/track/1AUfWAHVGuZfADdnL07cDw) | [GodsNation](https://open.spotify.com/artist/2BSGdWUQycRUSvwojCsymt) | [Catapult Speedup](https://open.spotify.com/album/3Dw4LflSDkIsP5yyc7sbF6) | 2:35 | 2023-09-08 | 2023-09-22 |
+| [Catholic Boy](https://open.spotify.com/track/1dWrrmOqCkMr0puVaMiVXI) | [Vicla boi](https://open.spotify.com/artist/0VupyRTwkYyNf9iooZcLFN) | [Catholic Boy](https://open.spotify.com/album/3cIz5GI6LqMhJyrxUY1GsP) | 3:01 | 2026-10-02 |  |
 | [CBS \(Come Back Strong\)](https://open.spotify.com/track/6yN5fk9IC544r8QGreiFPY) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [CBS \(Come Back Strong\)](https://open.spotify.com/album/0rTr9xHE1oNBsTaY8VDgB5) | 2:29 | 2024-09-27 | 2024-10-11 |
 | [CE CHEMIN](https://open.spotify.com/track/68O8biQpEb7B3Fi1NFjpbP) | [Thethe MAKABI.M](https://open.spotify.com/artist/1LKW4ix9wcurZFh4i3O43J) | [BAKOYEBA NDENGE NINI ?](https://open.spotify.com/album/09Y7WWb9U5EpCYXHfRC6Gf) | 7:58 | 2024-03-29 | 2024-04-05 |
 | [Celebrant](https://open.spotify.com/track/2GtkJhtDXK2Khs0FfsWb0r) | [Richrok](https://open.spotify.com/artist/2u1nZOO16DH6500HiJYXyZ) | [Celebrant](https://open.spotify.com/album/6ihvwqKO1tvFFkddc6qRq2) | 2:03 | 2024-01-05 | 2024-01-19 |
@@ -6502,6 +6504,7 @@
 | [Praise The Lord](https://open.spotify.com/track/1ZGI4Iu1c6ZvGjtj6PkXPg) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Praise The Lord](https://open.spotify.com/album/35i62Q3sZforWSBuZgDaWU) | 3:09 | 2024-09-06 | 2024-09-20 |
 | [PRAISE THE LORD](https://open.spotify.com/track/3vHXhskvyvmzwpw3fjVepL) | [Nonso CityRock Eze](https://open.spotify.com/artist/0d2YB6AVKPp2cFjitoVrl1) | [PRAISE THE LORD](https://open.spotify.com/album/05nKcyBn2uGsciYOKYuRAZ) | 4:00 | 2024-07-12 | 2024-07-27 |
 | [Praise the Lord](https://open.spotify.com/track/12QUQcnFlK3jF6PENkqBM1) | [Samuel Refined](https://open.spotify.com/artist/1z0d3n2UOWQtU5P3QyU2PM), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Praise the Lord](https://open.spotify.com/album/1bEipLxzk7HVq9zFmIadoU) | 4:19 | 2024-03-01 | 2024-03-16 |
+| [Praise the Lord](https://open.spotify.com/track/7oLGYV4iVjoTTJAmCrsAFE) | [Samwell Areson](https://open.spotify.com/artist/6JImh9OJIpeofUiJUEXyRE) | [Praise the Lord](https://open.spotify.com/album/0CqdZh1JjqCM8GPKtAvR6m) | 2:47 | 2026-10-02 |  |
 | [Praise The Lord](https://open.spotify.com/track/5APwmucVFdiD71vniIvihw) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Praise The Lord](https://open.spotify.com/album/6Y6ASzdPqY7GNO3GWADUux) | 3:58 | 2025-10-03 | 2025-10-17 |
 | [Praise The Lord](https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson Qozan](https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN) | [Praise The Lord](https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt) | 2:56 | 2024-11-22 | 2024-12-06 |
 | [Praise The Lord](https://open.spotify.com/track/3UfoqCnnv3aj0wCKcvnipd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Praise The Lord](https://open.spotify.com/album/3fOLCuBWDwLKruyWFaG5Qu) | 4:53 | 2025-03-28 | 2025-04-11 |
@@ -7012,6 +7015,7 @@
 | [SEE ME THROUGH \(RECOVERY\)](https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Surgery](https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg) | 4:19 | 2025-11-28 | 2025-12-12 |
 | [See My Face](https://open.spotify.com/track/1HJrtZYqdpqsn8lUSHV5Mo) | [Chuks Paschal](https://open.spotify.com/artist/3pUYC0FslPFdR87XdMggxE), [Somval](https://open.spotify.com/artist/18NkRnDYbIHcy6SXt4UmzD) | [See My Face](https://open.spotify.com/album/2XgjBOPD354AdNrDg4QF8O) | 3:02 | 2026-01-23 | 2026-02-06 |
 | [See My God](https://open.spotify.com/track/7gIR3vcK786ZAGSZ3TqaSm) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [SEYHGA](https://open.spotify.com/artist/6nDYfLpJkJKMVjn9M12Zws) | [See My God](https://open.spotify.com/album/32vQTAl7BAswQnYSQpNkwl) | 2:23 | 2026-03-27 | 2026-04-10 |
+| [see the truth](https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [blinded](https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc) | 2:22 | 2026-10-02 |  |
 | [See What the Lord Has Done](https://open.spotify.com/track/3IVWpAuUmAzyDueByHuEgB) | [T\-Brain](https://open.spotify.com/artist/5stCKxG4rQpk4H1t9rchcO) | [See What the Lord Has Done](https://open.spotify.com/album/4EWiPHiIQLsUQgxbZ58LxQ) | 2:55 | 2025-11-07 | 2025-11-14 |
 | [See You](https://open.spotify.com/track/3GV4OfoWXdRDXtykKH1qr0) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [See You](https://open.spotify.com/album/3J2vog5b9htRQpCMNxvVZm) | 2:22 | 2025-01-31 | 2025-02-15 |
 | [Seed of Abraham \- Live](https://open.spotify.com/track/0BIK4pLSkI2uX7Iy5giEfZ) | [Rev\. Ifueko Charmien](https://open.spotify.com/artist/4L0XXOkFK4XRX7mJ2tBn0p) | [Seed of Abraham \(Live\)](https://open.spotify.com/album/6lahOZMOVr1er22ExFlAmd) | 6:55 | 2025-04-11 | 2025-04-18 |
@@ -8025,8 +8029,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 2](https://open.spotify.com/track/1dSWQxV3zravd96vFAbcPp) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [The Promise](https://open.spotify.com/album/01RkSrTKnYuFjcm6Kla4qP) | 0:00 | 2026-10-02 |  |
-| [Track 5](https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [blinded](https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc) | 0:00 | 2026-10-02 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |

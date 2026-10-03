@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Mark Stam
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,094 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,114 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 15 | [Miss Cali \(Hallelujah\)](https://open.spotify.com/track/48jQWwzGdUPfz3uov5L3uK) | [Morandi](https://open.spotify.com/artist/1oiZoULxUJDYGOKMgVefP4) | [Miss Cali \(Hallelujah\)](https://open.spotify.com/album/72iakJEQjDmbuDDealVMYk) | 2:57 |
 | 16 | [Toreador](https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Toreador](https://open.spotify.com/album/5KWbS4tCJzQtk4Fg8yPVtC) | 3:14 |
 | 17 | [Nebun](https://open.spotify.com/track/417i3felnUsd1voZ7yOh04) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Nebun](https://open.spotify.com/album/4s4mRoaX04tEzhRYHywQTW) | 2:55 |
-| 18 | [Trenul](https://open.spotify.com/track/0tkYAGQjYLqTnZSF17X7qy) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Trenul](https://open.spotify.com/album/7oRBj3hViUmgyV0EvNTO5R) | 2:54 |
+| 18 | [Beau cu timpul](https://open.spotify.com/track/0TzeBdbYYYSCQI6Gd7EhL7) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Cântece de Inimă, Vol\. III](https://open.spotify.com/album/0kBVtBhtn4gnJUCbuYX61m) | 2:40 |
 | 19 | [Cachalma](https://open.spotify.com/track/0ydOsWKVvjJnfUcEMmJLma) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [EFRA](https://open.spotify.com/artist/0XgqZLH6hcDOTlOt6v4v3w) | [Cachalma](https://open.spotify.com/album/6473NMlkjLNAGnXLgM0WtY) | 2:45 |
 | 20 | [Apus de soare](https://open.spotify.com/track/6Xy52ktg6FlcuLueKHUNzf) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Apus de soare](https://open.spotify.com/album/5yCUtIrrw70tgDcubK8nys) | 2:57 |
 | 21 | [No No No](https://open.spotify.com/track/0vZuecwzTTKc9ZiiWK0srD) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [No No No](https://open.spotify.com/album/6E1oypLnQvHvRbaJW2uOoc) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Beluga](https://open.spotify.com/track/18dQBc9UPscYIqRqSepWF8) | [Florin Ristei](https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW) | [Beluga](https://open.spotify.com/album/3DTsjoUMCLAnBp4iGhVvSJ) | 2:47 |
 | 50 | [Mor după tine](https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Mor după tine](https://open.spotify.com/album/5j7cc5gjif5RQ46G0Cfp3K) | 2:17 |
 
-Snapshot ID: `AAAAAAXcI6vIxBmcp7+onao11EqoCARV`
+Snapshot ID: `AAAAACdpGECtAijuVA888o3Nmbi0xnEf`

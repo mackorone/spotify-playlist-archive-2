@@ -4,7 +4,7 @@
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 54 min
+91 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Happy Together](https://open.spotify.com/track/3KxOYNt66Hj42HzO7ao0CV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 2:25 | 2024-05-11 |  |
 | [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 | 2024-05-11 |  |
 | [Hero](https://open.spotify.com/track/4Fj6KslSYYQ1kAbafiKoz0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hero](https://open.spotify.com/album/4FrRRR86MYCjoLFV8dgnm5) | 3:56 | 2024-05-11 | 2024-07-21 |
-| [Hoops](https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 2:35 | 2026-08-23 |  |
+| [Hoops](https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 2:35 | 2026-08-23 | 2026-10-03 |
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:37 | 2024-05-11 |  |
 | [I've Had It Up To Here](https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 2:49 | 2026-02-22 |  |
 | [In The Garage](https://open.spotify.com/track/3If9Idk1rglOqubIsJcpmv) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:55 | 2024-05-11 |  |
@@ -73,6 +73,7 @@
 | [Say It Ain't So \- Original Mix](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2024-05-11 |  |
 | [Say Yes](https://open.spotify.com/track/1bopIBCYnfkvWuMXVaaugp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:04 | 2026-08-23 |  |
 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 | 2026-04-04 | 2026-08-25 |
+| [Shine Again](https://open.spotify.com/track/2dxTgb1knMXCt0AzRnFR0C) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 4:05 | 2026-10-03 |  |
 | [Smart Girls](https://open.spotify.com/track/7lDLVDz8419lF5jkcMcYpS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hurley \(Deluxe Edition\)](https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ) | 3:10 | 2024-11-27 | 2024-12-06 |
 | [Smile](https://open.spotify.com/track/3dYi32XQ9mVplNKDcWp59K) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:38 | 2024-06-03 | 2024-07-08 |
 | [Space Rock](https://open.spotify.com/track/6Ll77dvhVyzCNYb1CdDbqM) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 1:53 | 2024-08-23 | 2024-09-12 |

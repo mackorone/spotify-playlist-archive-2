@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 ### [Rap Champaña](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Unión Fatal en portada.
+> Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Victor Mendivil, Lefty Gunplay e Ivana  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,721 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,722 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vida de Malandrín](https://open.spotify.com/track/3DDeZukdURaJSzg3icQOh4) | [Union Fatal](https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj) | [Vida de Malandrín](https://open.spotify.com/album/7dlHpsEhoDJq4UNDp3MyVw) | 3:46 |
-| 2 | [Empareje Remix](https://open.spotify.com/track/2AJ8ltGJsScmIlc0aiM3pK) | [Russo](https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Empareje Remix](https://open.spotify.com/album/6BsJF6zbBIRYSh2qisBMEm) | 3:18 |
-| 3 | [La Vaina](https://open.spotify.com/track/5qpWF8UEjvd1VbKJWxSx68) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Jeison el Mono](https://open.spotify.com/artist/7ghOdPaeyjiZcekB2NwBSm), [OG La Torre](https://open.spotify.com/artist/249ms0sKMoCkUMjaap22qm) | [La Vaina](https://open.spotify.com/album/2rKGcZLYLrQFFCnwyDelfF) | 2:38 |
-| 4 | [King of Watches](https://open.spotify.com/track/47ovAtI7DPTKTPbyRsqHmc) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 2:27 |
+| 1 | [Hit Me](https://open.spotify.com/track/7Gv2fmKZSXez2miYjE0bp2) | [Somos Frijoleros](https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Somos Frijoleros](https://open.spotify.com/album/6ott6QVlag4lTg2rBoWgIW) | 2:50 |
+| 2 | [Vida de Malandrín](https://open.spotify.com/track/3DDeZukdURaJSzg3icQOh4) | [Union Fatal](https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj) | [Vida de Malandrín](https://open.spotify.com/album/7dlHpsEhoDJq4UNDp3MyVw) | 3:46 |
+| 3 | [King of Watches](https://open.spotify.com/track/47ovAtI7DPTKTPbyRsqHmc) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 2:27 |
+| 4 | [La Via Del Tren](https://open.spotify.com/track/39BvXMotxDZEC3HbncRpEN) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Inter](https://open.spotify.com/album/0yR1qd06IkTYHpu2qhLMl0) | 4:36 |
 | 5 | [Remember](https://open.spotify.com/track/1Gxe0IZ7fIbS8dnP4ZnZnU) | [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Faker](https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL), [HC BEATS](https://open.spotify.com/artist/0MYsH9rqsZ1R0viHoiQOBk) | [Remember](https://open.spotify.com/album/4hPPhLwmwcOIrSGkUn8fpZ) | 2:58 |
-| 6 | [La Plaga](https://open.spotify.com/track/02xzoQPfC916XJroG6wBPU) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Faker](https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL) | [La Plaga](https://open.spotify.com/album/4K51YCIbdZ1CxKyD6QbGb1) | 2:44 |
+| 6 | [OLIVIA LA FLAKA](https://open.spotify.com/track/6756nr1dYiw5aNLSgIHNOI) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [OLIVIA LA FLAKA](https://open.spotify.com/album/76WozPiPKgbo1IS52geqP2) | 5:36 |
 | 7 | [Pez K.O.](https://open.spotify.com/track/1ZWUB4mhzTCCsbq0d4T0Hd) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [El Shaaki](https://open.spotify.com/artist/2ZCkSpm5VDWVqcO0DZJ7mu) | [Pez K.O.](https://open.spotify.com/album/22W9t21atxuB1dXx2mlaxz) | 3:36 |
 | 8 | [VIENE](https://open.spotify.com/track/5bX6Bj3leO2XST6H3ewkLB) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Damper Vergara](https://open.spotify.com/artist/1ZmLxr38M9tFCXcxuP98IP) | [VIENE](https://open.spotify.com/album/1Wu1zQBTXvhRqXjfIshuVg) | 3:34 |
 | 9 | [Out On The Streets](https://open.spotify.com/track/5MUMaekhk7ijhLCKzFo0YR) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Dj Akrylik](https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p) | [Out On The Streets](https://open.spotify.com/album/0OXmC5bgkH92SWdLeq3SWl) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 49 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 |
 | 50 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 
-Snapshot ID: `AAAAAPSXTLWk4wu6MCJj0IdsE02gEW4Z`
+Snapshot ID: `AAAAAENiK0eg37kqENH2ssqBjPfu+067`

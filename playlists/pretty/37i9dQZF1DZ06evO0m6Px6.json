@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABHVwipSlxAaCl/LgG8GM3a",
+  "snapshot_id": "ar2igAAAAAC89YOt7yN6dWlPu3/0Ru38",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 171743,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 167215,
       "name": "Celica Supra",
       "url": "https://open.spotify.com/track/3SUTdj0nv34Br6rMDeLicG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,

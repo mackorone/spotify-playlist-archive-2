@@ -2,9 +2,9 @@
 
 ### [GRAVEL](https://open.spotify.com/playlist/37i9dQZF1DWYUZoI8VzsU6)
 
-> back roads up loud with Treaty Oak Revival
+> back roads up loud with Dexter and The Moonrocks and Avery Anna
 
-94 songs - 5 hr 15 min
+96 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,10 +94,12 @@
 | [Thoughts of You](https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Songs About You](https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n) | 2:52 | 2025-09-05 | 2026-09-19 |
 | [Throw Away \(feat\. Treaty Oak Revival\)](https://open.spotify.com/track/4xg4fJM6FvgED2Md80sNKo) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0), [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Simpler Days](https://open.spotify.com/album/1RNkTsTneXFwzZkiAKRnnN) | 4:05 | 2025-09-05 |  |
 | [Time Goes On](https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Time Goes On](https://open.spotify.com/album/2NA1s4MQIteXh70JmP8VS4) | 2:55 | 2026-02-18 |  |
+| [Us Again](https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y), [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [The Day I Hang It Up](https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi) | 3:54 | 2026-10-02 |  |
 | [Waiting](https://open.spotify.com/track/3Nr32Wn39hGkFy1ISAlc1h) | [Fox N' Vead](https://open.spotify.com/artist/6b2SGANlOJdvJ9imgsVrSm) | [Waiting](https://open.spotify.com/album/4R0A4nVSxIVtVFKFjilhWb) | 3:26 | 2026-05-08 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2025-09-05 |  |
 | [We're About To Break Up](https://open.spotify.com/track/7wTiCVNU7EH8gm9pLByjF3) | [Bottomland](https://open.spotify.com/artist/3EKcCd93FzyKhPBqgdzAH4) | [We're About To Break Up](https://open.spotify.com/album/5GigUdBhT18MS5mGhOLsGG) | 3:17 | 2026-07-31 | 2026-09-19 |
 | [West Texas Wind](https://open.spotify.com/track/4UGBo7iybOWD057IEQWcQl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [West Texas Wind](https://open.spotify.com/album/41uWZG9EhkDsha25x9fCG7) | 2:57 | 2026-04-24 |  |
+| [Why Don’t You Say So \(feat\. Avery Anna\)](https://open.spotify.com/track/0JTvM3WnB7C2X8LxOcnCS5) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Friends That I Don't Like](https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF) | 3:26 | 2026-10-02 |  |
 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 | 2025-09-05 | 2026-09-19 |
 | [With or Without Me](https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy) | [Gannon Fremin & CCREV](https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8) | [With or Without Me](https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D) | 3:42 | 2025-09-05 |  |
 | [Wolves Cry](https://open.spotify.com/track/39SzkM3x0JGY6b7HV0wi4E) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Wolves Cry](https://open.spotify.com/album/6C6MV8pVQJLMtXGIjSlRtC) | 2:43 | 2025-09-05 |  |

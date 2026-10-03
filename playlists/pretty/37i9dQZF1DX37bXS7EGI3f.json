@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beast In Black \n",
-  "num_followers": 824934,
+  "num_followers": 824976,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Freedom Concept",
-        "url": "https://open.spotify.com/album/3a67wBiTMAQbtz4MtJTqqX"
-      },
-      "artists": [
-        {
-          "name": "Sonata Arctica",
-          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
-        }
-      ],
-      "duration_ms": 253565,
-      "name": "Freedom Concept",
-      "url": "https://open.spotify.com/track/3g8dRL2mQOgqUZVdK4Ba6O"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Catalyst",
         "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 184546,
       "name": "Re-Vision",
       "url": "https://open.spotify.com/track/450nTCIFJLFG6M9bxDohJP"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Freedom Concept",
+        "url": "https://open.spotify.com/album/3a67wBiTMAQbtz4MtJTqqX"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "duration_ms": 253565,
+      "name": "Freedom Concept",
+      "url": "https://open.spotify.com/track/3g8dRL2mQOgqUZVdK4Ba6O"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Metal Elite",
-        "url": "https://open.spotify.com/album/6rpnp1mt0hWUhQqGA56ihS"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "The Metal Elite",
-      "url": "https://open.spotify.com/track/47MyaRcg8DtZJiE4EdBDHJ"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The North Will Rise (feat. Sonata Arctica)",
         "url": "https://open.spotify.com/album/3wRtTAFcvgYBo8JGLX7eAU"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 202706,
       "name": "The North Will Rise (feat. Sonata Arctica)",
       "url": "https://open.spotify.com/track/3NfKh2juPFmKxdNeDJSzAX"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "The Metal Elite",
+        "url": "https://open.spotify.com/album/6rpnp1mt0hWUhQqGA56ihS"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "The Metal Elite",
+      "url": "https://open.spotify.com/track/47MyaRcg8DtZJiE4EdBDHJ"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Our Long Cursed Sleep",
-        "url": "https://open.spotify.com/album/6u41SbykBZcOT0YvyEKjxj"
+        "name": "Light And Shadow",
+        "url": "https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp"
       },
       "artists": [
         {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+          "name": "Amorphis",
+          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
         }
       ],
-      "duration_ms": 223798,
-      "name": "Apollo Never Stopped Chasing Daphne",
-      "url": "https://open.spotify.com/track/0jp5NEjtIbpMyrb2cIK6Kb"
+      "duration_ms": 258146,
+      "name": "Light And Shadow",
+      "url": "https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Light And Shadow",
-        "url": "https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp"
+        "name": "Our Long Cursed Sleep",
+        "url": "https://open.spotify.com/album/6u41SbykBZcOT0YvyEKjxj"
       },
       "artists": [
         {
-          "name": "Amorphis",
-          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Light And Shadow",
-      "url": "https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL"
+      "duration_ms": 223798,
+      "name": "Apollo Never Stopped Chasing Daphne",
+      "url": "https://open.spotify.com/track/0jp5NEjtIbpMyrb2cIK6Kb"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "A Thousand Anemones",
-        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 253860,
-      "name": "A Thousand Anemones",
-      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "A Thousand Anemones",
+        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 253860,
+      "name": "A Thousand Anemones",
+      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "Deified",
+        "url": "https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "Deified",
+      "url": "https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "Pro Xristou",
         "url": "https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB"
       },
@@ -1107,6 +1123,22 @@
       "duration_ms": 301533,
       "name": "The Apostate",
       "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Tyrants Serenade",
+        "url": "https://open.spotify.com/album/6d0gOnYNbE4rFNOrSVYnCD"
+      },
+      "artists": [
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "duration_ms": 260972,
+      "name": "Tyrants Serenade",
+      "url": "https://open.spotify.com/track/6TdTD8R3iWculjW9k2HWJP"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1143,34 +1175,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Tyrants Serenade",
-        "url": "https://open.spotify.com/album/6d0gOnYNbE4rFNOrSVYnCD"
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
       "artists": [
         {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
         }
       ],
-      "duration_ms": 260972,
-      "name": "Tyrants Serenade",
-      "url": "https://open.spotify.com/track/6TdTD8R3iWculjW9k2HWJP"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Deified",
-        "url": "https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn"
-      },
-      "artists": [
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "Deified",
-      "url": "https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C"
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1187,22 +1203,6 @@
       "duration_ms": 281973,
       "name": "Shorelines",
       "url": "https://open.spotify.com/track/0sez9ahsBLUMI3VNXtUJgq"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Rune (2025)",
         "url": "https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 406269,
       "name": "The Rune (2025)",
       "url": "https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Field of Swords",
-        "url": "https://open.spotify.com/album/7Emw3aKs6NFzesCtjH4qbr"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Field of Swords",
-      "url": "https://open.spotify.com/track/2ULATnbyvbvqH1IZey2xb3"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 247273,
       "name": "Nexus",
       "url": "https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Field of Swords",
+        "url": "https://open.spotify.com/album/7Emw3aKs6NFzesCtjH4qbr"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Field of Swords",
+      "url": "https://open.spotify.com/track/2ULATnbyvbvqH1IZey2xb3"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Steel And Gold",
-        "url": "https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv"
-      },
-      "artists": [
-        {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
-        }
-      ],
-      "duration_ms": 247978,
-      "name": "Steel And Gold",
-      "url": "https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Pop Metal",
         "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Steel And Gold",
+        "url": "https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv"
+      },
+      "artists": [
+        {
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+        }
+      ],
+      "duration_ms": 247978,
+      "name": "Steel And Gold",
+      "url": "https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Take My Hand (Bonus Track)",
-        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Take My Hand - Bonus Track",
-      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Thunderfist Chronicles (Deluxe Version)",
         "url": "https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 263121,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Take My Hand (Bonus Track)",
+        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Take My Hand - Bonus Track",
+      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
     },
     {
       "added_at": "2026-09-22 01:57:25",

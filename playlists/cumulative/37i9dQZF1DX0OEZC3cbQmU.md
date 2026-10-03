@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-220 songs - 22 hr 53 min
+221 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Ovelha Em Treinamento](https://open.spotify.com/track/2enOwKM3juIzJQS9pkrSo5) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelha Em Treinamento](https://open.spotify.com/album/6kUI9W1yLD53e0oBIabItL) | 4:15 | 2026-08-17 |  |
 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 | 2024-06-28 |  |
 | [Palavras](https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Palavras](https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625) | 5:17 | 2026-07-24 |  |
-| [Paz Sem Fim \(Nada Quebrado\) \- Ao Vivo](https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Fogo Que Consome \(Ao Vivo\)](https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj) | 5:48 | 2025-05-23 |  |
+| [Paz Sem Fim \(Nada Quebrado\) \- Ao Vivo](https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Fogo Que Consome \(Ao Vivo\)](https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj) | 5:48 | 2025-05-23 | 2026-10-03 |
 | [Pertinho \- Live](https://open.spotify.com/track/1Y5QN2S9gOZpDBkbOeA6fB) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Pertinho \(Live\)](https://open.spotify.com/album/5FgS1rPdfvF2i3Dox9moXO) | 3:54 | 2022-09-02 | 2023-03-18 |
 | [Pode Morar Aqui](https://open.spotify.com/track/3SSb1jUojmZLbml3S3f9bN) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui](https://open.spotify.com/album/4DZvXBLQeG6YTNggyOQGDI) | 9:26 | 2023-06-23 | 2026-02-14 |
 | [Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Por Causa Dele](https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4) | 5:52 | 2023-01-20 | 2026-04-23 |
@@ -203,6 +203,7 @@
 | [Tudo É Perda \- Ao Vivo](https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Tudo É Perda \(Ao Vivo\)](https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd) | 8:38 | 2025-05-23 |  |
 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 | 2022-09-02 | 2025-02-22 |
 | [Tá Chorando Por Quê?](https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tá Chorando Por Quê?](https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5) | 3:34 | 2022-09-02 | 2025-02-22 |
+| [Um Coração Que Te Agrada](https://open.spotify.com/track/0qOH9IoqPrmwiwxDGGXtFt) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Um Coração Que Te Agrada](https://open.spotify.com/album/0ZO3ulPEgaFZ9MHKQ9AK2c) | 4:56 | 2026-10-02 |  |
 | [Um Novo Dia \- Ao Vivo](https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67), [Melk Villar](https://open.spotify.com/artist/2aE9MDAGfmKUGmTTKWjKCn), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V) | [Um Novo Dia \(Ao Vivo\)](https://open.spotify.com/album/2PgHfrGTk7oyN7XscjbFrE) | 6:00 | 2025-09-29 |  |
 | [Um Refrão Pra Sua Alma](https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Um Refrão Pra Sua Alma](https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI) | 4:16 | 2022-09-02 | 2024-04-20 |
 | [Uma Carta Viva \- Ao Vivo](https://open.spotify.com/track/6CxtFCLyCaDbi0iSO83aHr) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Uma Carta Viva \(Ao Vivo\)](https://open.spotify.com/album/6spnacimvh1AKK0QA9ZJ09) | 4:59 | 2026-03-13 |  |

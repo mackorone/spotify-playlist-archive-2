@@ -1,13 +1,197 @@
 {
   "description": "Check out the best new music videos from around the world. Music videos only available on Premium.",
-  "num_followers": 8123,
+  "num_followers": 8197,
   "original_name": "Best New Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/A9DtVQdXBAV9JBz4HVQyC8OCK",
+  "snapshot_id": "AAAAAHi9Y2AHjaiEONy0P/IyLazLFDGE",
   "tracks": [
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "Pursuit of Anything",
+        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Lucky, Forever",
+      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "Tell Me I'm Beautiful",
+        "url": "https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 215246,
+      "name": "Tell Me I'm Beautiful",
+      "url": "https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 181112,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/1jX87XzSqfV3GJVA2v8csw"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 193716,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "The Day I Hang It Up",
+        "url": "https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 234010,
+      "name": "Us Again",
+      "url": "https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "Friends That I Don't Like",
+        "url": "https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Why Don\u2019t You Say So (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/0JTvM3WnB7C2X8LxOcnCS5"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "options",
+        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 212131,
+      "name": "options",
+      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "Kiss The Ring",
+        "url": "https://open.spotify.com/album/3jhhlghXYx4hPeWRaptUXm"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 191904,
+      "name": "Kiss The Ring",
+      "url": "https://open.spotify.com/track/3uiUQodPW2SoJkzg7J6Bfd"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "Summer Clothes",
+        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 265505,
+      "name": "Summer Clothes",
+      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
+    },
     {
       "added_at": "2026-09-30 19:01:05",
       "album": {
@@ -45,6 +229,22 @@
       "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
+    },
+    {
       "added_at": "2026-09-28 01:27:44",
       "album": {
         "name": "Patient Zero",
@@ -59,6 +259,26 @@
       "duration_ms": 312320,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
+    },
+    {
+      "added_at": "2026-10-02 21:52:13",
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "added_at": "2026-09-25 19:54:05",
@@ -443,54 +663,6 @@
       "duration_ms": 201202,
       "name": "gloria!",
       "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
-    },
-    {
-      "added_at": "2026-09-11 20:18:03",
-      "album": {
-        "name": "The Kid With the Crown",
-        "url": "https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 254961,
-      "name": "The Kid With the Crown",
-      "url": "https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA"
-    },
-    {
-      "added_at": "2026-09-11 20:18:03",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 195285,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
-    },
-    {
-      "added_at": "2026-09-11 20:18:03",
-      "album": {
-        "name": "Pillow Fight / I\u2019d Rather Be Alone",
-        "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 141315,
-      "name": "Pillow Fight",
-      "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
     },
     {
       "added_at": "2026-09-11 20:18:03",

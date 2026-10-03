@@ -4,13 +4,13 @@
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 47 min
+84 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain’t Like I Can Hide It](https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:00 | 2024-12-21 | 2026-09-22 |
 | [Atlantic City](https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:15 | 2024-12-21 |  |
-| [Bartender In Destin](https://open.spotify.com/track/5vAz9QoGktsyN6DqAJOe5Y) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 3:14 | 2026-09-21 |  |
+| [Bartender In Destin](https://open.spotify.com/track/5vAz9QoGktsyN6DqAJOe5Y) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 3:14 | 2026-09-21 | 2026-10-03 |
 | [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 | 2025-07-13 | 2026-09-21 |
 | [Beach Happy](https://open.spotify.com/track/3vgs3abtstVPfIEHG2cyUd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 3:06 | 2026-09-21 | 2026-09-27 |
 | [Behind The Bar](https://open.spotify.com/track/5Tlb8IJOAfpKF1yKujzO1w) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:02 | 2024-12-21 | 2025-09-03 |
@@ -55,7 +55,8 @@
 | [Make It Rain](https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 4:12 | 2025-08-31 |  |
 | [Miles On Main](https://open.spotify.com/track/3f8UChU4rRcFLMP4r8Fhi6) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Miles On Main / Wild Woman](https://open.spotify.com/album/1wwjlUmksFWlxgMiQrc4Gp) | 3:22 | 2024-12-21 | 2025-09-01 |
 | [Mississippi Or Me](https://open.spotify.com/track/3FqMZ5dQ4fOCfNhYJQ62oR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 | 2024-12-21 |  |
-| [My Way](https://open.spotify.com/track/0e5adFzW2uzQQ8M0cjiQqX) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [My Way](https://open.spotify.com/album/1wPZ5lvt250QMwi6d0lqDA) | 4:02 | 2026-04-19 |  |
+| [My Way](https://open.spotify.com/track/0e5adFzW2uzQQ8M0cjiQqX) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [My Way](https://open.spotify.com/album/1wPZ5lvt250QMwi6d0lqDA) | 4:02 | 2026-04-19 | 2026-10-03 |
+| [My Way](https://open.spotify.com/track/6lAzalfQMfuyLJK2KpPor9) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 4:02 | 2026-10-03 |  |
 | [North On 21](https://open.spotify.com/track/0wQCiHAgUJdlBdRtdrnLFK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Riley Green EP](https://open.spotify.com/album/1m6Vdvu3ttbD1rq0P6Ylvn) | 3:27 | 2024-12-21 | 2025-09-02 |
 | [Outlaws Like Us](https://open.spotify.com/track/6vdkRkomwx3z7BR1W0AcO7) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Outlaws Like Us](https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS) | 3:15 | 2024-12-21 | 2026-08-29 |
 | [P.O.S.](https://open.spotify.com/track/3ubf03T0emJnEYZIhP7ScI) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 4:16 | 2026-09-20 |  |

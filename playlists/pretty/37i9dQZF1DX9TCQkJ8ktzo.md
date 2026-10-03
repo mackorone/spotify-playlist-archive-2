@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > The Latin soundtrack of the 60s! Cover: Armando Manzanero
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,795 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,805 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 14 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [Los Éxitos de Mayte Gaos](https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3) | 2:53 |
 | 15 | [Vas a Llorar](https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 3:00 |
 | 16 | [El Ladrón](https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
-| 17 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
-| 18 | [Tu Seras Mi Baby](https://open.spotify.com/track/4tko6GvGRI2Ege56DN9QNa) | [Les Surfs](https://open.spotify.com/artist/5ZKI9KiIkT1VRgDOfawSjx) | [Los Éxitos en Español y Francés](https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn) | 2:26 |
+| 17 | [Tu Seras Mi Baby](https://open.spotify.com/track/4tko6GvGRI2Ege56DN9QNa) | [Les Surfs](https://open.spotify.com/artist/5ZKI9KiIkT1VRgDOfawSjx) | [Los Éxitos en Español y Francés](https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn) | 2:26 |
+| 18 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
 | 19 | [Agua Con Sal](https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 4:04 |
 | 20 | [Palabra de Rey](https://open.spotify.com/track/0PNEOLOyCdZLTfbvajXJIa) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:28 |
 | 21 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Herencia Gitana](https://open.spotify.com/track/71OaY7celWpuQh00OlDrls) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 3:11 |
 | 50 | [Eres Diferente](https://open.spotify.com/track/5kdj2yC3I0uqohVuTAvrkf) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [22 Grandes Exitos](https://open.spotify.com/album/245rgwEnRg54XD7xQSCLOM) | 2:03 |
 
-Snapshot ID: `AAAAAPIOWJMm9BIxJX32uSvmqWaRxBgc`
+Snapshot ID: `AAAAAMIqItChg//cs+wRaOjHBaNTENOZ`

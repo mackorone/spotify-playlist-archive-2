@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122583,
+  "num_followers": 122586,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVy+H3qu5bAuyZJP53akGhUOuqzKdU",
+  "snapshot_id": "AAAVzAgMCJtHcKVvgpXSuq73liW56L/c",
   "tracks": [
+    {
+      "added_at": "2026-10-02 15:06:24",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/3zbBA8vdwChCma3CB36bVz"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 228206,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/5gKnbJH2bfDdvSZNK0I3Qe"
+    },
     {
       "added_at": "2026-10-01 14:08:59",
       "album": {

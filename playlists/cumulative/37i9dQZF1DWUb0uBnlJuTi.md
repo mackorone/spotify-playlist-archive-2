@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-464 songs - 1 day 11 hr 16 min
+465 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Coming to You Live](https://open.spotify.com/track/0fe8ABoiVGgW0OUxzJWmNb) | [Charles Earland](https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi) | [Coming to You Live](https://open.spotify.com/album/39DrtAI2ObXRGtqUNb9bkC) | 6:15 | 2020-10-09 | 2023-04-01 |
 | [Concave](https://open.spotify.com/track/2GNMDlyuOMNoQKt6GlTXx0) | [Nick Andre](https://open.spotify.com/artist/30pvn9DTpeyOxTAtOwKNiV), [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved) | [Concave](https://open.spotify.com/album/7jqyaGXeBvphIlr6Idcox5) | 2:45 | 2024-05-10 |  |
 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [Shinya”MONKY”Ienaga](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 | 2022-07-29 |  |
+| [Cows](https://open.spotify.com/track/12DEfsc5TBgfMyWcrvU5CT) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Ursa Major](https://open.spotify.com/artist/1t96Tk4yaINGyLVLVxmmC3) | [Cows](https://open.spotify.com/album/0udG01fgscq1AhnQLkZlTg) | 6:24 | 2026-10-02 |  |
 | [Crab Walk](https://open.spotify.com/track/6KHTtnDZan8yXUAvACUadI) | [Funkboy](https://open.spotify.com/artist/2n8PO916hz8G25cWsbyOYn) | [Crab Walk](https://open.spotify.com/album/0qxpksppZ6ns45kuy31rlh) | 4:16 | 2021-04-09 | 2024-04-19 |
 | [Crab Walk](https://open.spotify.com/track/1jZFZBWG6ZPtJdflNoLUVX) | [Funkboy](https://open.spotify.com/artist/2n8PO916hz8G25cWsbyOYn), [James Dower](https://open.spotify.com/artist/2flfaaJZVJJDSDRl1NH5TL), [Doug Hinrichs](https://open.spotify.com/artist/2Oqnj7JiVN9pyWrF4AWhPi) | [Crab Walk](https://open.spotify.com/album/4QlqqwgOnGPzhKRhBGnGO8) | 4:16 | 2021-03-05 |  |
 | [Cream Puff War](https://open.spotify.com/track/3iaNLl7wvZ13qEUHfaR1PP) | [Grateful Brass](https://open.spotify.com/artist/1cSXMjY8e1lg44bA5usiFp), [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Rich Armstrong](https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs) | [Cream Puff War](https://open.spotify.com/album/7JsqgqNXvBtnlMdAY4EXKp) | 3:42 | 2022-09-23 | 2024-03-16 |
@@ -188,7 +189,7 @@
 | [Jimmy's Groove](https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2) | 6:17 | 2021-04-02 | 2024-04-19 |
 | [Jimmy's Groove](https://open.spotify.com/track/79eytkCk1dMaHhGr8fcY3P) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/4ke86aiMO3AVhBTM3vmdcE) | 6:17 | 2021-04-02 |  |
 | [Joyous \- Remastered 2023](https://open.spotify.com/track/1PLbAq2vbYJTAP9pbEoGmY) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [Joyous](https://open.spotify.com/album/2Cwbiyc7pUytYiWP7AtcND) | 6:29 | 2021-06-04 |  |
-| [Juice Box](https://open.spotify.com/track/5ZJrwkNAswWr1rHZCrEkfs) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63) | [Juice Box](https://open.spotify.com/album/7DF6OjSJwgaXr9GpPdlXHs) | 4:51 | 2021-07-09 |  |
+| [Juice Box](https://open.spotify.com/track/5ZJrwkNAswWr1rHZCrEkfs) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63) | [Juice Box](https://open.spotify.com/album/7DF6OjSJwgaXr9GpPdlXHs) | 4:51 | 2021-07-09 | 2026-10-03 |
 | [Just Because](https://open.spotify.com/track/1wuhNYSe53MYrtFsS50bLP) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Just Because](https://open.spotify.com/album/5d0zEJ2MORokDYWa9uvq9t) | 3:12 | 2021-07-02 | 2022-07-27 |
 | [Just Got Back](https://open.spotify.com/track/7DcRRa4zXzzjKtV0p5PZa0) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Just Got Back](https://open.spotify.com/album/7kNX8SS2X4WvcFCLaO9c6k) | 3:01 | 2021-05-21 | 2022-07-29 |
 | [Kaleidoscopic Universe](https://open.spotify.com/track/5jzdsyf6pIIQHdBGFZ3eFQ) | [Mausiki Scales](https://open.spotify.com/artist/2YmibRHpqYtAHiaZodYL1N) | [Kaleidoscopic Universe](https://open.spotify.com/album/15maHD7fqNGtADY5vibczi) | 4:39 | 2020-10-09 |  |

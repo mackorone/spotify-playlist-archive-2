@@ -3853,6 +3853,36 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o Vagabundo",
+        "url": "https://open.spotify.com/album/6GpKJYmPs6RNLpixHnXIyc"
+      },
+      "artists": [
+        {
+          "name": "Yngrid",
+          "url": "https://open.spotify.com/artist/1roou0xmMLUFtBvVUxwb0U"
+        },
+        {
+          "name": "Felipe Phyre",
+          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176210,
+      "name": "Cora\u00e7\u00e3o Vagabundo",
+      "url": "https://open.spotify.com/track/2OLm3rvtutwjoiMZ6PB3fw"
+    },
+    {
+      "album": {
         "name": "Culpa Sua",
         "url": "https://open.spotify.com/album/2iV5hX39oohCAe2FPsO21z"
       },
@@ -18680,7 +18710,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 222692,
       "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
       "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"

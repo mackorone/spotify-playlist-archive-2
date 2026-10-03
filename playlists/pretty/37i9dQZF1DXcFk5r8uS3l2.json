@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1068729,
+  "num_followers": 1068724,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Honky Tonk Hell",
-        "url": "https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        },
-        {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
-        }
-      ],
-      "duration_ms": 195732,
-      "name": "Honky Tonk Hell",
-      "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Act I",
         "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 242174,
       "name": "Southern Man",
       "url": "https://open.spotify.com/track/2kcnL45FePWWwqSifGzxMm"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Honky Tonk Hell",
+        "url": "https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "duration_ms": 195732,
+      "name": "Honky Tonk Hell",
+      "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "House On Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 201733,
       "name": "Saviour - Unplugged",
       "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "pretty baby",
-        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lundy",
-          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
-        }
-      ],
-      "duration_ms": 150688,
-      "name": "pretty baby",
-      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Sweet Southern Sounds",
         "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Watch Me Gone",
-        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
+        "name": "pretty baby",
+        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
       },
       "artists": [
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "Jackson Lundy",
+          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
         }
       ],
-      "duration_ms": 302346,
-      "name": "Watch Me Gone",
-      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+      "duration_ms": 150688,
+      "name": "pretty baby",
+      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1131,6 +1115,22 @@
       "duration_ms": 218746,
       "name": "99 Ways",
       "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Watch Me Gone",
+        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Watch Me Gone",
+      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
-      },
-      "artists": [
-        {
-          "name": "Kam Franklin",
-          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
-        }
-      ],
-      "duration_ms": 192877,
-      "name": "A Heathen's Hymn",
-      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Slow Lightning (Deluxe)",
         "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 180150,
       "name": "The Mule",
       "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
+      },
+      "artists": [
+        {
+          "name": "Kam Franklin",
+          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
+        }
+      ],
+      "duration_ms": 192877,
+      "name": "A Heathen's Hymn",
+      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Days Of Unrest",
         "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "The Hammer & The Rose",
-        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
       },
       "artists": [
         {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 247720,
-      "name": "Tonight Belongs to You",
-      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1519,6 +1503,22 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "The Hammer & The Rose",
+        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Tonight Belongs to You",
+      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1555,34 +1555,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Roots & Wings",
-        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
       "artists": [
         {
-          "name": "Amani Burnham",
-          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Roots & Wings",
-      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Love On My Brain",
-        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
-      },
-      "artists": [
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
         {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
         }
       ],
-      "duration_ms": 273121,
-      "name": "Love On My Brain",
-      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+      "duration_ms": 159007,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1603,22 +1591,34 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Deathwish",
-        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
         }
       ],
-      "duration_ms": 159007,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Roots & Wings",
+      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
     },
     {
       "added_at": "2026-09-18 04:01:42",

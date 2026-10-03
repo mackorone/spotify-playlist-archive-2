@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289 likes - 78 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 288 likes - 78 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 25 | [If This Ain't Love](https://open.spotify.com/track/7oBIOtw4TmPPEHB9mxnfoS) | [LOFLY](https://open.spotify.com/artist/6Nq0fa6pYLroAcMDPenPsk), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [If This Ain't Love](https://open.spotify.com/album/54f7eAbmDVQTMCv7XMikTL) | 2:18 |
 | 26 | [Patience](https://open.spotify.com/track/6KOUe5ChPxS3CCXhwfdcAc) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ) | [Change](https://open.spotify.com/album/3eVo6FsmJqf8yooeCUiJFC) | 2:49 |
 | 27 | [Moonlight](https://open.spotify.com/track/5KrBTqQJlYtKyn3JU3MXOA) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Moonlight](https://open.spotify.com/album/44RntYU90KXg2eCH9zj9Lq) | 2:20 |
-| 28 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
-| 29 | [Follow You](https://open.spotify.com/track/1tqMgJIDWQoH2t1gRom9gd) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Follow You](https://open.spotify.com/album/0Hea35mbEy8Wdp0jzIGc1O) | 2:09 |
+| 28 | [Follow You](https://open.spotify.com/track/1tqMgJIDWQoH2t1gRom9gd) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Follow You](https://open.spotify.com/album/0Hea35mbEy8Wdp0jzIGc1O) | 2:09 |
+| 29 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
 | 30 | [Normal Fühlen](https://open.spotify.com/track/6iCHAxZFmGJu2bsGVUFhh8) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:10 |
 | 31 | [Not There Yet](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Not There Yet](https://open.spotify.com/album/6xBMreivdSXzUr2Mbotv7E) | 2:14 |
 | 32 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 77 | [My Almost Forever](https://open.spotify.com/track/57VDBMxzvYq9jhuD2ISTrR) | [Jonathan Fischer](https://open.spotify.com/artist/7CVRHQND8mur2yRUG8st4m) | [My Almost Forever](https://open.spotify.com/album/41tFrGMv7y47SiR6VvxBmU) | 2:52 |
 | 78 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Acdz8AAAAABM4hew6+q+4gUN6lrjSDq4`
+Snapshot ID: `Acd5kAAAAABkUPPJP2baQOT8eeSeP1S0`

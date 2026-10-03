@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? ",
-  "num_followers": 572577,
+  "num_followers": 572584,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
-    },
-    {
-      "added_at": "2026-09-11 21:27:17",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 196360,
       "name": "Nada Valgo Sin Tu Amor",
       "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
+    },
+    {
+      "added_at": "2026-09-11 21:27:17",
+      "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2026-09-11 21:27:17",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
-    },
-    {
-      "added_at": "2026-09-11 21:27:17",
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 263600,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
     },
     {
       "added_at": "2026-09-11 21:27:17",
@@ -663,50 +647,18 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
-        "name": "Desde Andalucia",
-        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
       },
       "artists": [
         {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 325466,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
-    },
-    {
-      "added_at": "2026-09-11 21:27:17",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
-      "added_at": "2026-09-11 21:27:17",
-      "album": {
-        "name": "Silueta",
-        "url": "https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
+      "duration_ms": 263600,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
     },
     {
       "added_at": "2026-09-11 21:27:17",
@@ -727,18 +679,34 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+        "name": "Silueta",
+        "url": "https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 285520,
-      "name": "Aquello que me diste",
-      "url": "https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU"
+      "duration_ms": 256706,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
+    },
+    {
+      "added_at": "2026-09-11 21:27:17",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
     },
     {
       "added_at": "2026-09-11 21:27:17",
@@ -755,6 +723,38 @@
       "duration_ms": 272693,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
+    },
+    {
+      "added_at": "2026-09-11 21:27:17",
+      "album": {
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 325466,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
+    },
+    {
+      "added_at": "2026-09-11 21:27:17",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 285520,
+      "name": "Aquello que me diste",
+      "url": "https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU"
     },
     {
       "added_at": "2026-09-11 21:27:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 300093,
-      "name": "Aprendiz - Unplugged",
-      "url": "https://open.spotify.com/track/7efXKi4jjGrXMvO6N7U2N4"
-    },
-    {
-      "added_at": "2026-09-11 21:27:17",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 182520,
       "name": "S\u00f3lo para Ti",
       "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+    },
+    {
+      "added_at": "2026-09-11 21:27:17",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 300093,
+      "name": "Aprendiz - Unplugged",
+      "url": "https://open.spotify.com/track/7efXKi4jjGrXMvO6N7U2N4"
     },
     {
       "added_at": "2026-09-11 21:27:17",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
+    },
+    {
+      "added_at": "2026-09-11 21:27:17",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
-    },
-    {
-      "added_at": "2026-09-11 21:27:17",
-      "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
     },
     {
       "added_at": "2026-09-11 21:27:17",

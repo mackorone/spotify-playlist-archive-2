@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39373,
+  "num_followers": 39394,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,26 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Chadhavila Patta Kamarevari (From \"Phulrani\")",
+        "url": "https://open.spotify.com/album/0vUwktZamgrFlxUVvxp8Jz"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Barve",
+          "url": "https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P"
+        },
+        {
+          "name": "Sharayu Date",
+          "url": "https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC"
+        }
+      ],
+      "duration_ms": 248852,
+      "name": "Chadhavila Patta Kamarevari - From \"Phulrani\"",
+      "url": "https://open.spotify.com/track/5hYJX3JydlQlZu87Tcgmug"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Jaal Jaal (From \"Chowk\")",
         "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 214357,
       "name": "Govyachya Kinaryav",
       "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Chadhavila Patta Kamarevari (From \"Phulrani\")",
-        "url": "https://open.spotify.com/album/0vUwktZamgrFlxUVvxp8Jz"
-      },
-      "artists": [
-        {
-          "name": "Priyanka Barve",
-          "url": "https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P"
-        },
-        {
-          "name": "Sharayu Date",
-          "url": "https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC"
-        }
-      ],
-      "duration_ms": 248852,
-      "name": "Chadhavila Patta Kamarevari - From \"Phulrani\"",
-      "url": "https://open.spotify.com/track/5hYJX3JydlQlZu87Tcgmug"
     },
     {
       "added_at": "2026-09-24 07:16:44",

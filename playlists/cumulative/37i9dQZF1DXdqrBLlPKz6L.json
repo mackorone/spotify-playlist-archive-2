@@ -432,7 +432,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 93834,
       "name": "Borsi",
       "url": "https://open.spotify.com/track/3oG3YqPb83iIkKXnz8hko6"
@@ -2159,6 +2159,32 @@
     },
     {
       "album": {
+        "name": "Mas Bonito",
+        "url": "https://open.spotify.com/album/3IMcYQMVQbWKPAV7OpRVSN"
+      },
+      "artists": [
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191760,
+      "name": "Mas Bonito",
+      "url": "https://open.spotify.com/track/2aoHBiCCpsO54BPFmd2drO"
+    },
+    {
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e"
       },
@@ -2218,7 +2244,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 138225,
       "name": "Me Vuelvo Del DIM",
       "url": "https://open.spotify.com/track/4D4QeJRcuThO84Yg1Yu4Tf"
@@ -2481,6 +2507,28 @@
     },
     {
       "album": {
+        "name": "No Le Digas a Mi Novio",
+        "url": "https://open.spotify.com/album/1Q6BaIiZREdJEO1acfF73l"
+      },
+      "artists": [
+        {
+          "name": "Lil Brayann",
+          "url": "https://open.spotify.com/artist/3nOOsvC14zVsSIousLsnri"
+        },
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "No Le Digas a Mi Novio",
+      "url": "https://open.spotify.com/track/50KexZ4gua7Wqfv0yDCYuu"
+    },
+    {
+      "album": {
         "name": "Humo en la Trampa 2",
         "url": "https://open.spotify.com/album/48081X2ns6kHKFS84IowXl"
       },
@@ -2588,7 +2636,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 113465,
       "name": "OTRO TRAP",
       "url": "https://open.spotify.com/track/0j7oCtgjmn1qu48Q7xEgfS"
@@ -2796,6 +2844,28 @@
       "duration_ms": 330196,
       "name": "Patr\u00f3n",
       "url": "https://open.spotify.com/track/2bE5ZNbhykDaIYqOCH3rQk"
+    },
+    {
+      "album": {
+        "name": "Peli De Terror",
+        "url": "https://open.spotify.com/album/5cTvoMY9dAjNe6GuGQfdNJ"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Peli De Terror",
+      "url": "https://open.spotify.com/track/0JJHZJCLquYTulx3unxiUH"
     },
     {
       "album": {

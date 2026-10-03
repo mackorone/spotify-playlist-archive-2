@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 
 > Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,549 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,582 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 | 5 | [Amigos? No.](https://open.spotify.com/track/7hNgSEQ4Ho7kWBA2rKpDd9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Amigos? No.](https://open.spotify.com/album/4b2QIGSCXrUQSURm2PnbUT) | 3:46 |
 | 6 | [TU SANCHO](https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:57 |
 | 7 | [RARI](https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [RARI](https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z) | 2:33 |
-| 8 | [SE VOLVIERON LOCOS](https://open.spotify.com/track/365KxSOgQJD88CPvnKZSUn) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [LA BATUTA](https://open.spotify.com/album/1E87bPdkmorxfpyA2QrrIb) | 2:55 |
+| 8 | [Se Volvieron Locos](https://open.spotify.com/track/365KxSOgQJD88CPvnKZSUn) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [LA BATUTA](https://open.spotify.com/album/1E87bPdkmorxfpyA2QrrIb) | 2:55 |
 | 9 | [7 DIAS](https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [7 DIAS](https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4) | 3:00 |
 | 10 | [El Mayor De Los Ranas](https://open.spotify.com/track/6v5qt5KPQHJt5ckWuhDGtM) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Con Tokio](https://open.spotify.com/album/7rnKX7At3vWHV0MZAGzihw) | 2:52 |
 | 11 | [Morena](https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:13 |

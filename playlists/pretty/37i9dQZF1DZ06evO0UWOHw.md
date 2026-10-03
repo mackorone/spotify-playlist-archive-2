@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,340 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,351 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 12 | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/track/7ts6aJpWYYtzUjhcTsK1Q7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/album/5wcDmzuswQ31gyhCgTC7hH) | 3:25 |
 | 13 | [Everything](https://open.spotify.com/track/1hbnlGCWNVbRUmN5qBTnTN) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:46 |
 | 14 | [TYPO](https://open.spotify.com/track/4BkRYui4PKN8GY7ieFEP5F) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 1:42 |
-| 15 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
-| 16 | [Cough Syrup](https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:10 |
+| 15 | [Cough Syrup](https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:10 |
+| 16 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
 | 17 | [Risk](https://open.spotify.com/track/7ElIoXjT2p1bcDzsUL3X89) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:22 |
 | 18 | [TOO LIT](https://open.spotify.com/track/2yirN2SCfxotgZi6xwipv4) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:04 |
 | 19 | [Rosemary](https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Utopia](https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut) | 3:08 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 28 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/7vCTeLGRwAkLqZr1fphHg1) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/6ceb9dx3TsqZBcBrt3es8n) | 3:46 |
 | 29 | [Ludo](https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:32 |
 | 30 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 |
-| 31 | [Hypnotize](https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ) | [S high](https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypnotize](https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl) | 3:26 |
-| 32 | [Skido \(with Olamide\)](https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skido \(with Olamide\)](https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6) | 2:46 |
+| 31 | [Skido \(with Olamide\)](https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skido \(with Olamide\)](https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6) | 2:46 |
+| 32 | [Hypnotize](https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ) | [S high](https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypnotize](https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl) | 3:26 |
 | 33 | [Sunday School](https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:03 |
 | 34 | [V.S\. Freestyle](https://open.spotify.com/track/0WEjE529QbSQsEGrPr686Q) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:16 |
 | 35 | [Pray](https://open.spotify.com/track/5GNDZaBc7yHUp7003hPPDw) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/6bCbQPwKbD0NRVlN22s7Kt) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [Chop & Slide](https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:48 |
 | 50 | [Like2 \- Part II \(with Skillibeng & Victony\)](https://open.spotify.com/track/2nNenfkc5uv1b9zkLZ5rOl) | [CallMeTheKidd](https://open.spotify.com/artist/1q3rVmTrPa51ofrwEfC6Kc), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Like2 \- Part II \(with Skillibeng & Victony\)](https://open.spotify.com/album/1dXuMmtv9aE9H5FbpxGzPa) | 3:13 |
 
-Snapshot ID: `arxRAAAAAACflchSO8H812E5rnUkMmqO`
+Snapshot ID: `ar2igAAAAABUp7IwzeDtiyyS026HBbVO`

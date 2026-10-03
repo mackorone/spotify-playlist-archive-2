@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 455927,
+  "num_followers": 455974,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+        "name": "The Afterparty",
+        "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
       },
       "artists": [
         {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "The Flints",
-          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 207373,
-      "name": "Mannequin Love",
-      "url": "https://open.spotify.com/track/4csm3bIilOko37LEVW1v8P"
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "The Afterparty",
-        "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "The Flints",
+          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
         }
       ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
+      "duration_ms": 207373,
+      "name": "Mannequin Love",
+      "url": "https://open.spotify.com/track/4csm3bIilOko37LEVW1v8P"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 239377,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
-    },
-    {
       "added_at": "2026-06-18 20:32:33",
       "album": {
         "name": ":)",
@@ -1439,6 +1423,22 @@
       "duration_ms": 180568,
       "name": ":)",
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 239377,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "XY",
-        "url": "https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV"
-      },
-      "artists": [
-        {
-          "name": "PIXY",
-          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "LEGACY",
-      "url": "https://open.spotify.com/track/4ZjAfdKKRfibE5gVDkDCWs"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Can we talk about Isaac?",
         "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 243203,
       "name": "Can we talk about Isaac?",
       "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "XY",
+        "url": "https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/4ZjAfdKKRfibE5gVDkDCWs"
     },
     {
       "added_at": "2026-06-18 20:32:33",

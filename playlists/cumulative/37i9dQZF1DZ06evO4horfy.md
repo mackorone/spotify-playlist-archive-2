@@ -4,14 +4,14 @@
 
 > This is Kinderen voor Kinderen\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 34 min
+75 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 dagen weekend](https://open.spotify.com/track/6NDzmMrUG5gUBAnmP1R0KU) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:28 | 2025-10-13 |  |
 | [Achtbaan](https://open.spotify.com/track/7p3slO869Q0TbfG0tG7zGf) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 2:43 | 2025-08-19 |  |
 | [Als een vis in het water](https://open.spotify.com/track/1HhtfeduR8K8QymbPVgSkt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Als een vis in het water](https://open.spotify.com/album/7GL6nTbVkC8jajJYPaxzKW) | 2:34 | 2026-06-10 |  |
-| [Avond4daagse](https://open.spotify.com/track/5imoXApElqf4AO2qII2154) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Avond4daagse](https://open.spotify.com/album/7MqclfatuiMarKIn6L5LBG) | 2:47 | 2025-08-19 |  |
+| [Avond4daagse](https://open.spotify.com/track/5imoXApElqf4AO2qII2154) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Avond4daagse](https://open.spotify.com/album/7MqclfatuiMarKIn6L5LBG) | 2:47 | 2025-08-19 | 2026-10-03 |
 | [Baila bailalaa](https://open.spotify.com/track/3giTSv6iUSgwRxS7Op9Liv) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Baila bailalaa](https://open.spotify.com/album/3zMc3qEDZNtlrqlrZ9jKuH) | 2:56 | 2025-08-19 | 2026-09-14 |
 | [Baila bailalaa](https://open.spotify.com/track/0s0GNwEFTBE1cXezAyrmUi) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:57 | 2026-09-14 |  |
 | [Ben Zo Benieuwd](https://open.spotify.com/track/5lVP8Z9izLG1uXPpeGluT2) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [26 \- Kinderen voor Kinderen](https://open.spotify.com/album/0xY0nHxNiC5103Jlavdv5q) | 3:08 | 2025-12-25 | 2026-01-05 |
@@ -22,6 +22,7 @@
 | [Daba Die Daba Daa](https://open.spotify.com/track/4to9kWICO3BiSYrD4a3zyX) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 3:02 | 2026-01-15 |  |
 | [Dansen in de regen](https://open.spotify.com/track/5zh0gHpGzmzZEtsQRL4xPG) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:50 | 2025-08-19 |  |
 | [Dierenfreak](https://open.spotify.com/track/2Me97ssmNwYNWv3pmG9udm) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Dierenfreak](https://open.spotify.com/album/7stY2T5LaZrgYSbviajtyb) | 2:27 | 2025-08-19 |  |
+| [Doe mee! warming\-up](https://open.spotify.com/track/6PxuoFoxBSOwX9k00JzD6u) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Doe mee! warming\-up](https://open.spotify.com/album/6E4xBt8xyVqunxfh69mtxP) | 4:47 | 2026-10-03 |  |
 | [Eigen Tempo](https://open.spotify.com/track/6Ae0Kc5HBKRCh7RU919aB5) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [40 \- Reis mee!](https://open.spotify.com/album/3s1UkvqVNjeDkoH3VGMqmW) | 3:06 | 2025-08-19 | 2025-10-14 |
 | [En toen?](https://open.spotify.com/track/0xISITZcc7YpCwkcxRcW3G) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [En toen?](https://open.spotify.com/album/2SvWduNB5ax7RYt4I6TyEm) | 2:43 | 2025-08-19 | 2026-01-20 |
 | [Energie!](https://open.spotify.com/track/1WhCbSlN6NAmDH30OFMqPI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [36 \- Raar maar waar](https://open.spotify.com/album/1Fp3h5LG2zXGRb7UP9Xi6S) | 2:54 | 2025-08-19 |  |

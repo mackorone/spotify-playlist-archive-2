@@ -9235,6 +9235,24 @@
     },
     {
       "album": {
+        "name": "HAPPINESS",
+        "url": "https://open.spotify.com/album/48mrsRLW5yivdjfjMj5Qc4"
+      },
+      "artists": [
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184090,
+      "name": "HAPPINESS",
+      "url": "https://open.spotify.com/track/761XLO9SpfryhloLqAG3DX"
+    },
+    {
+      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/2qobgmbXd3qd7RVFMFWsvU"
       },

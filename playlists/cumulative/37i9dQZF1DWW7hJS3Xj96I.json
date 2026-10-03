@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295280,
+      "name": "A Pedir Su Mano",
+      "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
+    },
+    {
+      "album": {
         "name": "Viento A Favor",
         "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
       },
@@ -131,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "album": {
         "name": "20 Exitos Originales",
         "url": "https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI"
       },
@@ -146,6 +182,46 @@
       "duration_ms": 281173,
       "name": "Bella Se\u00f1ora",
       "url": "https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "album": {
@@ -311,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186373,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/0X0BfLqYvgp8SHUlRPoWts"
       },
@@ -322,7 +416,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 246266,
       "name": "Como Un Trueno",
       "url": "https://open.spotify.com/track/6HCUC1WENuTneci2DskHwR"
@@ -491,6 +585,24 @@
     },
     {
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/6Qb0f1j9fnfpraiPN509RI"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274093,
+      "name": "El Matador",
+      "url": "https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8"
+    },
+    {
+      "album": {
         "name": "The Best Of - Ultimate Collection",
         "url": "https://open.spotify.com/album/1OghmT4vm7lb2yYQhvvH91"
       },
@@ -520,7 +632,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 249400,
       "name": "Enloqu\u00e9ceme",
       "url": "https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS"
@@ -628,7 +740,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 219146,
       "name": "Explota Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2fRynroc69YxU3c4w9RCPI"
@@ -754,7 +866,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 242840,
       "name": "Gracias A Dios",
       "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
@@ -851,6 +963,42 @@
     },
     {
       "album": {
+        "name": "Los Due\u00f1os del Swing",
+        "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260600,
+      "name": "La Due\u00f1a del Swing",
+      "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
+    },
+    {
+      "album": {
+        "name": "Clasicos de la Provincia",
+        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215493,
+      "name": "La Gota Fria",
+      "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
+    },
+    {
+      "album": {
         "name": "Lo Mejor de Vilma Palma",
         "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
@@ -866,6 +1014,78 @@
       "duration_ms": 281933,
       "name": "La pachanga",
       "url": "https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O"
+    },
+    {
+      "album": {
+        "name": "La Tierra del Olvido",
+        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "La Tierra del Olvido",
+      "url": "https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss"
+    },
+    {
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u"
     },
     {
       "album": {
@@ -1132,7 +1352,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 244293,
       "name": "Mirala Miralo",
       "url": "https://open.spotify.com/track/7xSvBMiquYNDfg1Vt2W9Rv"
@@ -1266,7 +1486,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 262546,
       "name": "M\u00edrame a los Ojos",
       "url": "https://open.spotify.com/track/0q3P0vjpqqswJSukITnfZA"
@@ -1284,7 +1504,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 359173,
       "name": "No es lo mismo",
       "url": "https://open.spotify.com/track/6p7KLIvLhnACzXHuUi00zs"
@@ -1356,7 +1576,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/2VDBHPv9uXrBS50WnwrERY"
@@ -1493,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "album": {
         "name": "Llego La Salsa",
         "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
       },
@@ -1504,7 +1742,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 216421,
       "name": "Que Bueno Baila Usted",
       "url": "https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS"
@@ -1526,10 +1764,32 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 260533,
       "name": "Rica y Apretadita (feat. Anayka)",
       "url": "https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ"
+    },
+    {
+      "album": {
+        "name": "Originales",
+        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        },
+        {
+          "name": "Anayka",
+          "url": "https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261866,
+      "name": "Rica y Apretadita (feat. Anayka)",
+      "url": "https://open.spotify.com/track/2XRqhe4lmCQVaUWawR5wRo"
     },
     {
       "album": {
@@ -1634,7 +1894,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 210866,
       "name": "S\u00f3lo Se Vive una Vez",
       "url": "https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI"
@@ -1688,7 +1948,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 205000,
       "name": "Te Ves Buena",
       "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
@@ -1778,7 +2038,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 236666,
       "name": "The Summer Is Magic - Radio Mix",
       "url": "https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc"
@@ -2048,7 +2308,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 267320,
       "name": "\u00bfDonde Est\u00e1n?",
       "url": "https://open.spotify.com/track/3LIOqIGge9NmgXuzbkOmIf"

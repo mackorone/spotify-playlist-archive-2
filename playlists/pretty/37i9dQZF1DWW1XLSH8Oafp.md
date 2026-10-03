@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring DJ HEARTSTRING
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,592 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,604 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 8 | [Creamy](https://open.spotify.com/track/5PQ9eOhnSsOCja5yymUAmW) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [Creamy](https://open.spotify.com/album/6kgJhA3eCnG3BQ7ilhRHmb) | 2:30 |
 | 9 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
 | 10 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 |
-| 11 | [Track 4](https://open.spotify.com/track/6IDvtVV7hstph3DnXpBTL0) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [JEZEBEL](https://open.spotify.com/album/7HvRG2niZJweT6uJ0HtJ73) | 0:00 |
+| 11 | [Jezebel](https://open.spotify.com/track/6IDvtVV7hstph3DnXpBTL0) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [JEZEBEL](https://open.spotify.com/album/7HvRG2niZJweT6uJ0HtJ73) | 2:16 |
 | 12 | [Light](https://open.spotify.com/track/5M6VYDe6QSy8MWNYBrCXA0) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Light](https://open.spotify.com/album/0QNeMEkCJvaRFDBqIfgmzE) | 2:06 |
 | 13 | [seeing stars](https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |
 | 14 | [CSIRAC \- Dylan Brady Remix](https://open.spotify.com/track/0HlP3ZtuhEhTMYoEEQkuML) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [CSIRAC \(Dylan Brady Remix\)](https://open.spotify.com/album/4aPDJrAGd2zVBC2vEVDvHD) | 2:24 |
 | 15 | [eye2eye](https://open.spotify.com/track/4nKxTKPJSkzXXMejtKX5AZ) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [eye2eye](https://open.spotify.com/album/1fzpbonK64lzqOqHhl5RZi) | 3:18 |
 | 16 | [On The Run](https://open.spotify.com/track/3Ax5ZZjLuxf1TfcU7Cvp7E) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [On The Run](https://open.spotify.com/album/2DDbQqojMm8bpmjRBUzpuF) | 1:41 |
-| 17 | [Track 3](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 0:00 |
+| 17 | [Girl's Girl](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 2:41 |
 | 18 | [why you mad](https://open.spotify.com/track/5Al81noc3ibJ4JlsyvN9yi) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [why you mad](https://open.spotify.com/album/2ztb2i6jAgPvGNENqyntmL) | 1:38 |
 | 19 | [So Many Things To Say](https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [So Many Things To Say](https://open.spotify.com/album/23S1agUOLX1Hq6kyWJkgLn) | 2:59 |
 | 20 | [.com](https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [.com](https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt) | 3:07 |

@@ -4,7 +4,7 @@
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 17 min
+59 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Hurts](https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 3:22 | 2023-05-02 |  |
 | [I Don't Mind](https://open.spotify.com/track/0nwMeAQyuUTfL47jVINLok) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 2:54 | 2023-05-02 | 2023-11-11 |
 | [I Know You'd Kill](https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [I Know You'd Kill](https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD) | 2:54 | 2025-03-23 | 2025-10-02 |
+| [I Know You'd Kill](https://open.spotify.com/track/5Ke7X457DQP91cqKKyH6f0) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:54 | 2026-10-03 |  |
 | [Kingdom](https://open.spotify.com/track/0RVEAF3XFF2dZFhI8O58JF) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:08 | 2023-05-02 |  |
 | [London Mine](https://open.spotify.com/track/6vUIyI8EelA0GVKcwXOoai) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [London Mine](https://open.spotify.com/album/75Rq7SgoaIrr1CFQzUR7Nt) | 3:43 | 2023-05-02 |  |
 | [Lover Don't](https://open.spotify.com/track/4cbumWU9TeBFWkeqK7i8hy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:37 | 2023-05-02 |  |
@@ -51,7 +52,7 @@
 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/0KNlcGzjtCGqpqVEdcDeWc) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:47 | 2025-09-24 | 2025-09-28 |
 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 | 2025-01-12 |  |
 | [Perfect Crime](https://open.spotify.com/track/5HavXKjua26Sg0OB8LY7YD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perfect Crime](https://open.spotify.com/album/6m8aWBP7ptNMPyt7W3NvRa) | 2:32 | 2025-06-21 | 2025-09-28 |
-| [Perfect Crime](https://open.spotify.com/track/6AiKuKk65VfgMUR9DpW9xG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:32 | 2025-09-28 |  |
+| [Perfect Crime](https://open.spotify.com/track/6AiKuKk65VfgMUR9DpW9xG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:32 | 2025-09-28 | 2026-10-03 |
 | [Poison](https://open.spotify.com/track/3yNLAcsyowTQ1GZUJUAXbH) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:31 | 2023-05-02 |  |
 | [Sinatra](https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:03 | 2023-05-02 |  |
 | [Since I Left You \- Demo](https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Since I Left You \(Demo\)](https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv) | 3:27 | 2023-05-02 |  |

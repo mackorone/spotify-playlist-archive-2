@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 54,917 likes - 218 songs - 12 hr 44 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 54,917 likes - 218 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Most Precious Love](https://open.spotify.com/track/1Ldw6s3GxtPbnpWrcTiNNy) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/2okApCQGjBq76SInGD7tbP) | 4:40 |
+| 1 | [Most Precious Love](https://open.spotify.com/track/1Ldw6s3GxtPbnpWrcTiNNy) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/2okApCQGjBq76SInGD7tbP) | 3:44 |
 | 2 | [Never Let Go](https://open.spotify.com/track/5HHDd5lMr4eE7J54cFTuZR) | [Hyper Go Go](https://open.spotify.com/artist/0qmNfpBqNTC0gldJ4B48Ir), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [Never Let Go](https://open.spotify.com/album/7dpfWeXUTzL6JKDGQismsI) | 2:40 |
 | 3 | [Shed My Skin](https://open.spotify.com/track/1r1YI0vAu4QocqjsxinvHe) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Therese](https://open.spotify.com/artist/4wfoAaFRdaZdrn782iDlCD) | [Shed My Skin](https://open.spotify.com/album/1f4OrlXMf9hGdITiunDMgw) | 3:53 |
 | 4 | [Love's Been Right Here](https://open.spotify.com/track/4yNioM58jjociyeM8LvLmU) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Stephanie Cooke](https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2), [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [Love's Been Right Here](https://open.spotify.com/album/5tVBQxGLVHC0RCe6ZFSu8V) | 2:30 |

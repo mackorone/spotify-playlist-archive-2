@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 201694,
       "name": "Al Mismo Kbrn (De Siempre)",
       "url": "https://open.spotify.com/track/5CmRpdPwcN9BK4KXNYAr0Z"
@@ -2867,6 +2867,28 @@
     },
     {
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0flBtapIUqgzI4huY8BE5J"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194511,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0fXICWku7upbu92G3KUURp"
+    },
+    {
+      "album": {
         "name": "Cruda",
         "url": "https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH"
       },
@@ -3078,6 +3100,24 @@
       "duration_ms": 156800,
       "name": "Dame Tu Amor",
       "url": "https://open.spotify.com/track/2aMzvik8mqYmjD0CB6mAix"
+    },
+    {
+      "album": {
+        "name": "Caminante",
+        "url": "https://open.spotify.com/album/4IO4wUaIK4cLXWdFtA204W"
+      },
+      "artists": [
+        {
+          "name": "Querido Erick",
+          "url": "https://open.spotify.com/artist/5LHD6YYVDxYixAaP7V5Q15"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191943,
+      "name": "Dame un besito",
+      "url": "https://open.spotify.com/track/0aAuTTkAXh4n7Nux7GBetm"
     },
     {
       "album": {
@@ -3302,7 +3342,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 166104,
       "name": "Desde Antes De Nacer",
       "url": "https://open.spotify.com/track/36aZuiCE3UhgUJXrSeVDKf"
@@ -6349,6 +6389,28 @@
     },
     {
       "album": {
+        "name": "La Vida Que Debo",
+        "url": "https://open.spotify.com/album/62aR6OG8jETM5rP3qpvB3G"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        },
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282017,
+      "name": "La Vida Que Debo",
+      "url": "https://open.spotify.com/track/7hgVraGyJVFKLhlVxyKf41"
+    },
+    {
+      "album": {
         "name": "La_Playlist.mpeg",
         "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
       },
@@ -9181,6 +9243,24 @@
     },
     {
       "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+    },
+    {
+      "album": {
         "name": "Paola",
         "url": "https://open.spotify.com/album/0m8gzmhdofRAFgo6c5TtD8"
       },
@@ -11619,6 +11699,24 @@
     },
     {
       "album": {
+        "name": "superpoder",
+        "url": "https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "superpoder",
+      "url": "https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL"
+    },
+    {
+      "album": {
         "name": "S\u00e1lvame (7:07 PM)",
         "url": "https://open.spotify.com/album/6gX2yjOyDyamyvIUi44bQp"
       },
@@ -12798,7 +12896,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 184449,
       "name": "T\u00fa y Yo X Siempre",
       "url": "https://open.spotify.com/track/4RJMnTu2ZiQupxcooMWGEZ"
@@ -13534,7 +13632,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 189693,
       "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
       "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 131649,
       "name": "1980",
       "url": "https://open.spotify.com/track/3Zb7m33gZLm0pkKXydpcbV"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 156294,
       "name": "A Stillness Within",
       "url": "https://open.spotify.com/track/2I58ajetaUKB6nl7963Tm7"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 177824,
       "name": "Cinnamon Tea",
       "url": "https://open.spotify.com/track/1vqaLCzOyXRyKtFtiz0s5S"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 154000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/5kOxesFGGikTXsRnBp9iUL"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 159486,
       "name": "Dog Walk",
       "url": "https://open.spotify.com/track/6kAQ5Mj2LNkxmVoptd9278"
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 88833,
       "name": "Echoes of the Moors",
       "url": "https://open.spotify.com/track/6rpr8KD0tJmnfH8jKjS3OG"
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 155352,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/3LOMvUdTielO6KgtvNOuHJ"
@@ -2932,7 +2932,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 163961,
       "name": "Footsteps (Song for my Father)",
       "url": "https://open.spotify.com/track/4cdqF5Vv92RZCv9ijMd5vs"
@@ -3624,7 +3624,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 132250,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/42jM8RDgvY8vCGrskMuFkc"
@@ -4258,7 +4258,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 146263,
       "name": "Just your way",
       "url": "https://open.spotify.com/track/2kIklXSaeBcXf9Y26MhX6s"
@@ -4798,7 +4798,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 136922,
       "name": "Made of Light",
       "url": "https://open.spotify.com/track/4WOobB1W4EvtqT13NLrcs9"
@@ -4942,7 +4942,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 151719,
       "name": "Miles To Go",
       "url": "https://open.spotify.com/track/0fWnljaUhTwR6U1tFFjgX6"
@@ -5198,6 +5198,24 @@
       "duration_ms": 128733,
       "name": "My Mother",
       "url": "https://open.spotify.com/track/7DUrp9pce5qnRMtCKAIFRx"
+    },
+    {
+      "album": {
+        "name": "My new path",
+        "url": "https://open.spotify.com/album/4f2d1txg9vq7Ry0QUy019x"
+      },
+      "artists": [
+        {
+          "name": "Jonka Ebony",
+          "url": "https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134166,
+      "name": "My new path",
+      "url": "https://open.spotify.com/track/1lgYofzt0l0VryOMYxoZR0"
     },
     {
       "album": {
@@ -5842,7 +5860,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 147625,
       "name": "Quiet Moments",
       "url": "https://open.spotify.com/track/7HXv68WRGm9KUKrkcNCwj3"
@@ -6418,7 +6436,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 160500,
       "name": "Silent Creek Meadow",
       "url": "https://open.spotify.com/track/0xFqWO0c32qvy5MVxdlX2b"
@@ -6796,7 +6814,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 237690,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/1Z8JqBsV8F4wepNo2YxZeW"
@@ -6814,7 +6832,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 138324,
       "name": "Stretch Through",
       "url": "https://open.spotify.com/track/5lwzLUn70mmFyHmX28Lfte"
@@ -7253,6 +7271,24 @@
     },
     {
       "album": {
+        "name": "The Edge of Spring",
+        "url": "https://open.spotify.com/album/2l9yUjkZhuBiDueh7GDIZw"
+      },
+      "artists": [
+        {
+          "name": "Adrian Cove",
+          "url": "https://open.spotify.com/artist/0KjrNob5QYjE0gay87Z9vO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136481,
+      "name": "The Edge of Spring",
+      "url": "https://open.spotify.com/track/3AvLzbjoGGSSevdcOgP2Wp"
+    },
+    {
+      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/02jWyD3cYpzVPCVCEBYRb4"
       },
@@ -7588,7 +7624,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 147874,
       "name": "Throughout the Day",
       "url": "https://open.spotify.com/track/6MbX45spiOMOmLHQgHfzO6"
@@ -7822,7 +7858,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 112944,
       "name": "Un Momento Lento",
       "url": "https://open.spotify.com/track/2AADaEIRyEPLSpc7CQZRud"
@@ -7930,7 +7966,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 151161,
       "name": "Until Morning Comes",
       "url": "https://open.spotify.com/track/6dnOVqajFHBanR3I1ijkFe"
@@ -8074,7 +8110,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 132657,
       "name": "Velvet Pines",
       "url": "https://open.spotify.com/track/38OBwb2pYYMg1tVCSOh4IM"
@@ -8506,7 +8542,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 113934,
       "name": "While The Starling Sang",
       "url": "https://open.spotify.com/track/6puwTvaD7N7Mzz40fVIntW"

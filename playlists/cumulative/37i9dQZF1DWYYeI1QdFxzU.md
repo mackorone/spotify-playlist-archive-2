@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-214 songs - 14 hr 37 min
+215 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Grown Into You](https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/6vSDLoq9qgSoEHKJm9tSLF) | 3:42 | 2021-10-15 | 2023-10-22 |
 | [haloes](https://open.spotify.com/track/54zbMMBTlxVurjPEWe4hUs) | [førget.](https://open.spotify.com/artist/5wHfi1y1q2QxxRGa4XBUwi) | [haloes](https://open.spotify.com/album/3ToJV3r9dqHtwYPLlsoCMf) | 2:08 | 2024-03-01 | 2026-03-13 |
 | [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-03-01 | 2026-05-08 |
+| [Heart Motion Foto](https://open.spotify.com/track/4zA1ijz7NszMWMAs1fVEmF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [I Wrote You A Letter](https://open.spotify.com/album/1EHDAMMjP2UCAEdmqf7704) | 2:54 | 2026-10-02 |  |
 | [Here](https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta) | [Jonas Munk](https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O), [Nicklas Sørensen](https://open.spotify.com/artist/3OXCO3AZeHHNudXu8Mftd7) | [Always Already Here](https://open.spotify.com/album/6Cly90UXXW9Hz851yq7mtM) | 3:28 | 2021-10-15 | 2023-03-05 |
 | [Home](https://open.spotify.com/track/20nMaS9F08WxA3FU9P0UG3) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Hyperphantasia](https://open.spotify.com/album/1vgXBRPMUybozJ8zD4TrZ0) | 4:10 | 2026-05-07 | 2026-05-30 |
 | [home \(feat\. Kehina\)](https://open.spotify.com/track/6zNlb6YYsRHjIHBTNzoQ4X) | [ones](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx) | [far too long](https://open.spotify.com/album/1fB7b72MXdkf1mT0ZZKCvd) | 2:53 | 2024-03-29 | 2024-09-20 |
@@ -185,7 +186,7 @@
 | [Tell Me \- Pt\. 1 / Endel Chill Soundscape](https://open.spotify.com/track/1dQEuPyUXdo0UnXXk098DU) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven \(Endel Chillout Soundscape\)](https://open.spotify.com/album/1aNEVZZJsa4nFR9D3N6WXm) | 3:07 | 2023-11-17 | 2024-01-13 |
 | [Temple Deadbeat](https://open.spotify.com/track/4HayGBr8v4oLrS4bd22iWW) | [Bit Cloudy](https://open.spotify.com/artist/7hNjsQs0YPZVgdjkFRGCJX) | [Temple Deadbeat](https://open.spotify.com/album/2Bn0eO0ziBsiQsRcUCnW1s) | 4:45 | 2021-10-15 | 2022-07-29 |
 | [The End](https://open.spotify.com/track/1CfCme9SvYiCwegwOS6rKH) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/0no9vd20lVRbHZooRhqUHb) | 4:35 | 2021-10-15 | 2023-11-17 |
-| [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 | 2024-12-13 |  |
+| [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 | 2024-12-13 | 2026-10-03 |
 | [The Power](https://open.spotify.com/track/3dbRz4RjoPFpJP2mKsNdSN) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [The Power](https://open.spotify.com/album/6EFIdOL19pRkRyCjG8O9Pz) | 4:14 | 2021-10-15 | 2022-07-15 |
 | [The Shape Of Memory](https://open.spotify.com/track/2ZpFFr4Sgch7Gd1Z8MCtcB) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Feeling Is Structure](https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps) | 4:38 | 2026-05-07 |  |
 | [Think About What You Love](https://open.spotify.com/track/6pSzOFRKPabWwBq0B3NgJ7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Song For Alpha \(B\-Sides & Remixes\)](https://open.spotify.com/album/3TmEZZRORnWbgpeFKRO6QU) | 4:56 | 2021-10-15 | 2022-07-29 |

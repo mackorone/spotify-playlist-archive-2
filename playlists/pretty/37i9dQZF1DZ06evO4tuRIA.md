@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,075 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,097 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 14 | [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 |
 | 15 | [Fácil no Fue](https://open.spotify.com/track/4biS410o7EfGBrKc5eTmVM) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 2:24 |
 | 16 | [Por Clave Caiman](https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Por Clave El Caiman](https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g) | 2:38 |
-| 17 | [ME MIRAN](https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [ME MIRAN](https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G) | 2:43 |
-| 18 | [7 BESOS](https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [7 BESOS](https://open.spotify.com/album/63CiGFfHN0bfwDNWJB4CGE) | 3:21 |
-| 19 | [Plata](https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:54 |
+| 17 | [7 BESOS](https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [7 BESOS](https://open.spotify.com/album/63CiGFfHN0bfwDNWJB4CGE) | 3:21 |
+| 18 | [Plata](https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:54 |
+| 19 | [ME MIRAN](https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [ME MIRAN](https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G) | 2:43 |
 | 20 | [Vida Peligrosa El Solecito \(En Vivo\)](https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:01 |
 | 21 | [RANCHO MC](https://open.spotify.com/track/1zK8d2a9L8pBQ8dgvarae1) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:10 |
 | 22 | [Chevrolet 4X4](https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 3:14 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 41 | [Soy de Michoacan](https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Soy de Michoacan](https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A) | 2:42 |
 | 42 | [MOTA CHERRY](https://open.spotify.com/track/68jkcpiDPPd5zdmE5VLlfq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:45 |
 | 43 | [Un Chamaco Sin Futuro](https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
-| 44 | [Bravo 57](https://open.spotify.com/track/3DB3UnoTiVpV18ZTb8VgzL) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [MALA FAMA](https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7) | 2:52 |
-| 45 | [El Sapo](https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4) | 3:10 |
+| 44 | [El Sapo](https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4) | 3:10 |
+| 45 | [Bravo 57](https://open.spotify.com/track/3DB3UnoTiVpV18ZTb8VgzL) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [MALA FAMA](https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7) | 2:52 |
 | 46 | [El Disney](https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El Disney](https://open.spotify.com/album/71pONzODuum62WjG779fN1) | 2:29 |
 | 47 | [El 7 De Fontana](https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El 7 De Fontana](https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe) | 2:27 |
 | 48 | [Pateando Latas](https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2) | 3:11 |
 | 49 | [La Pantera \(En Vivo\)](https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:11 |
 | 50 | [UN WOODCITO](https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:55 |
 
-Snapshot ID: `arxRAAAAAAA2DyFMfN7srSUYp/GXotaN`
+Snapshot ID: `ar2igAAAAABuJ9jf0HuQwrpSXuaShb7K`

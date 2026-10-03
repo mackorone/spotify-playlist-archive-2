@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: Terrian",
+  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: Kim Walker-Smith",
   "name": "Women of Faith",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 170057,
       "name": "6:12",
       "url": "https://open.spotify.com/track/63r3KVVPQQqiYyogfKilWF"
+    },
+    {
+      "album": {
+        "name": "70x7",
+        "url": "https://open.spotify.com/album/3f17kwaZgscUcvgOxAyaws"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198194,
+      "name": "70x7",
+      "url": "https://open.spotify.com/track/4aXun4cIQR8mLweXAJ0Sf5"
     },
     {
       "album": {
@@ -193,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Abandon",
+        "url": "https://open.spotify.com/album/2RhaEbEROmsFyQHrMmI0si"
+      },
+      "artists": [
+        {
+          "name": "Selah Vox",
+          "url": "https://open.spotify.com/artist/5RimIdiCUJukn9qPN8mm4x"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Abandon",
+      "url": "https://open.spotify.com/track/13ACQR3EG58WIWL211Y5a3"
+    },
+    {
+      "album": {
         "name": "Abide",
         "url": "https://open.spotify.com/album/3OuuZ5bYvEE3w3SdtSVj3c"
       },
@@ -258,7 +294,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 298723,
       "name": "AFFECTION",
       "url": "https://open.spotify.com/track/7EGIld5V9caHT69pMyN9Mq"
@@ -860,7 +896,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 164106,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/42svR3QErydGM6Un0qcBSI"
@@ -1650,7 +1686,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 177630,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0QwwgQsHd4rugwYUkKM8nx"
@@ -1936,7 +1972,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 260985,
       "name": "Come Meet The Man",
       "url": "https://open.spotify.com/track/0kJa4Un5ssXckfhNew1mNK"
@@ -1990,7 +2026,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 151909,
       "name": "CONTAGIOUS",
       "url": "https://open.spotify.com/track/3R7VE3XT5UKbvppwN1jKqp"
@@ -2200,7 +2236,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 220020,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/4an386UgTjS2kQ8ujsyP83"
@@ -2244,6 +2280,28 @@
       "duration_ms": 210785,
       "name": "Desperate (with Lauren Daigle)",
       "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
+    },
+    {
+      "album": {
+        "name": "Desperate for Jesus",
+        "url": "https://open.spotify.com/album/0QcmTFn9Ps3ZYkGWZZUQz8"
+      },
+      "artists": [
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596845,
+      "name": "Desperate for Jesus",
+      "url": "https://open.spotify.com/track/67XISn3LHSTEyKd87Q0gWR"
     },
     {
       "album": {
@@ -2544,6 +2602,24 @@
       "duration_ms": 206326,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4IrBZI6Vhcg9NZoTPQuV4a"
+    },
+    {
+      "album": {
+        "name": "enough",
+        "url": "https://open.spotify.com/album/2nptBY3GiYkOvwbv3vbQRL"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/1ajvWQ22Iu420eQkFix6ge"
     },
     {
       "album": {
@@ -2934,7 +3010,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 169591,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
@@ -3356,6 +3432,24 @@
       "duration_ms": 197142,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/22QMlcNudMo9KGMM6navCB"
+    },
+    {
+      "album": {
+        "name": "GIRL DAD",
+        "url": "https://open.spotify.com/album/3nkZZmNG69oVCxC6Ss63ii"
+      },
+      "artists": [
+        {
+          "name": "Zoe Levert",
+          "url": "https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "GIRL DAD",
+      "url": "https://open.spotify.com/track/2FN7ROUeVo94PKrcDzNGSN"
     },
     {
       "album": {
@@ -3894,7 +3988,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 195413,
       "name": "He Will",
       "url": "https://open.spotify.com/track/45pN6CMSl2gbb2dstsIJNR"
@@ -4078,6 +4172,24 @@
       "duration_ms": 173655,
       "name": "Her",
       "url": "https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft"
+    },
+    {
+      "album": {
+        "name": "here + now",
+        "url": "https://open.spotify.com/album/62MsKe1U4p4R9cN2p7Bolt"
+      },
+      "artists": [
+        {
+          "name": "Bella Santander",
+          "url": "https://open.spotify.com/artist/0bfrEX3n3YcThb70c84Kgm"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203719,
+      "name": "here + now",
+      "url": "https://open.spotify.com/track/4Cxs9ghVQu7NtUw4uyVSG7"
     },
     {
       "album": {
@@ -4330,6 +4442,24 @@
       "duration_ms": 227647,
       "name": "home",
       "url": "https://open.spotify.com/track/0H7IfCWPYgWZ80V8Qf2kwJ"
+    },
+    {
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/1S1zGSiS0XAXTdZ9BfYbVW"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261916,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/4AaKQPE8FGiFx6oJbRLeos"
     },
     {
       "album": {
@@ -4893,6 +5023,24 @@
     },
     {
       "album": {
+        "name": "I See What You're Saying",
+        "url": "https://open.spotify.com/album/7DaF7sNtD0Nt1kUklt9iLX"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173232,
+      "name": "I See What You're Saying",
+      "url": "https://open.spotify.com/track/1fSkJe0fkPkkZTh7eFGqbN"
+    },
+    {
+      "album": {
         "name": "I Still Choose You",
         "url": "https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5"
       },
@@ -4976,7 +5124,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 239311,
       "name": "I'm Going",
       "url": "https://open.spotify.com/track/1x7ymQpO53Ln9wiTDTTbmM"
@@ -5142,6 +5290,24 @@
       "duration_ms": 222039,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/7JEDvPv2Sikct7pyTyb2fx"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5sXXFmNMK4KvvNHIzRwJnb"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/7LTHvtt8bBuyWRqJP2kJ0k"
     },
     {
       "album": {
@@ -5423,6 +5589,24 @@
     },
     {
       "album": {
+        "name": "it's an art",
+        "url": "https://open.spotify.com/album/0IIiOoVyBgAFqwmjJ6lhIC"
+      },
+      "artists": [
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200967,
+      "name": "it's an art",
+      "url": "https://open.spotify.com/track/4qy9er4izbT08F1gmps3lJ"
+    },
+    {
+      "album": {
         "name": "It's So Good to Need You",
         "url": "https://open.spotify.com/album/24uTX01x4LqhTnb9YlX6Ly"
       },
@@ -5687,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "Known and Loved (Oliver's Song)",
+        "url": "https://open.spotify.com/album/4mqoOg50bFEASN19qpXyU2"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229835,
+      "name": "Known and Loved (Oliver's Song)",
+      "url": "https://open.spotify.com/track/2a4CBfsjgda40IcEJ4yCQG"
+    },
+    {
+      "album": {
         "name": "Koolaid",
         "url": "https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr"
       },
@@ -5878,7 +6080,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 174939,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/7FldEvHuCMOEsiRjn0lGzZ"
@@ -5968,7 +6170,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 233961,
       "name": "listening",
       "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
@@ -6058,7 +6260,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 224426,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
@@ -6402,7 +6604,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 183775,
       "name": "Messy",
       "url": "https://open.spotify.com/track/2KDuAmTLmw3dIpIqJSncMP"
@@ -7087,6 +7289,24 @@
     },
     {
       "album": {
+        "name": "All Roads Lead To Adonai",
+        "url": "https://open.spotify.com/album/2xj6lrZ5xamj8ZlpduIF5e"
+      },
+      "artists": [
+        {
+          "name": "Ellie Scotte",
+          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268965,
+      "name": "P139",
+      "url": "https://open.spotify.com/track/4fqp3iEbiBtxbaqwQPCk7p"
+    },
+    {
+      "album": {
         "name": "Paint The Skies",
         "url": "https://open.spotify.com/album/2Kgroemwdf75gQbrGOaxsw"
       },
@@ -7272,6 +7492,24 @@
       "duration_ms": 204263,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3fxejBCZDRMhp1Er5B7gtm"
+    },
+    {
+      "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/0v4EbTvx8AjdlPvocowDNK"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/2XzXxt4OpyZHIZz8vgo7PP"
     },
     {
       "album": {
@@ -7567,6 +7805,24 @@
     },
     {
       "album": {
+        "name": "Push and Pull",
+        "url": "https://open.spotify.com/album/0or98X3WPz0fh0Yv9ngFU6"
+      },
+      "artists": [
+        {
+          "name": "Lily Hooten",
+          "url": "https://open.spotify.com/artist/5pgwHZ02bNDJPgPw6neVim"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198540,
+      "name": "Push and Pull",
+      "url": "https://open.spotify.com/track/4pX1JCAnT10ShIE36WEV8l"
+    },
+    {
+      "album": {
         "name": "Questions",
         "url": "https://open.spotify.com/album/5pnwdDVdh7EABESXfKdZoQ"
       },
@@ -7836,7 +8092,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192710,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4PDQlJW9xltAaMQ2i93kNf"
@@ -7962,7 +8218,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 210684,
       "name": "saturday",
       "url": "https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j"
@@ -8052,7 +8308,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 160000,
       "name": "Second Choice",
       "url": "https://open.spotify.com/track/0DGE97K3VL2EBbPoM7n2yk"
@@ -8172,7 +8428,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 160858,
       "name": "Shed A Little Light",
       "url": "https://open.spotify.com/track/0buYt4WUS7LbKHycFU16SO"
@@ -8978,7 +9234,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 247688,
       "name": "Terms & Conditions",
       "url": "https://open.spotify.com/track/3z2KaIHWp94IgAhbbxMxqz"
@@ -9351,6 +9607,24 @@
     },
     {
       "album": {
+        "name": "The Same (Forever + Ever)",
+        "url": "https://open.spotify.com/album/2viP4dIjmfz8IPcGzLsrnT"
+      },
+      "artists": [
+        {
+          "name": "Carlina",
+          "url": "https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131870,
+      "name": "The Same (Forever + Ever)",
+      "url": "https://open.spotify.com/track/5ik8BTwhHl8FL1p79QoIjQ"
+    },
+    {
+      "album": {
         "name": "The Table",
         "url": "https://open.spotify.com/album/1PEf5sXES0sPMFxiUNypEX"
       },
@@ -9643,6 +9917,24 @@
     },
     {
       "album": {
+        "name": "for ordinary life",
+        "url": "https://open.spotify.com/album/3ANgbrOsS13CsrEyqVU4VZ"
+      },
+      "artists": [
+        {
+          "name": "Destiny Barber",
+          "url": "https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159114,
+      "name": "time",
+      "url": "https://open.spotify.com/track/1DG2t1GISCkpTrgj0imoYk"
+    },
+    {
+      "album": {
         "name": "Tis So Sweet To Trust In Jesus",
         "url": "https://open.spotify.com/album/5BbJwTLrWf1dPYHzMYpt9N"
       },
@@ -9926,6 +10218,24 @@
       "duration_ms": 187428,
       "name": "upper hand",
       "url": "https://open.spotify.com/track/1L8Ai5Dt8q4QQrWakXupKZ"
+    },
+    {
+      "album": {
+        "name": "Used To Be",
+        "url": "https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181806,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2"
     },
     {
       "album": {
@@ -10811,6 +11121,24 @@
     },
     {
       "album": {
+        "name": "Won't Miss A Moment",
+        "url": "https://open.spotify.com/album/6kfa2x0oYe2tWEEiGW97c1"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191503,
+      "name": "Won't Miss A Moment",
+      "url": "https://open.spotify.com/track/0EIDUbt5A03HtbRDpUBMgP"
+    },
+    {
+      "album": {
         "name": "Greatest Hymns, Vol. 2",
         "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
       },
@@ -10988,7 +11316,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 126316,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/167dOeoPac1tywNPZvIAlt"
@@ -11032,6 +11360,24 @@
       "duration_ms": 177911,
       "name": "You Remain",
       "url": "https://open.spotify.com/track/3266gTer0klnum066VVwlB"
+    },
+    {
+      "album": {
+        "name": "You Remain (Radio Version)",
+        "url": "https://open.spotify.com/album/6RInGhVSjMBm3yOwJJlRpt"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175374,
+      "name": "You Remain - Radio Version",
+      "url": "https://open.spotify.com/track/5aaGxmiGi7O69fgaXFXGok"
     },
     {
       "album": {

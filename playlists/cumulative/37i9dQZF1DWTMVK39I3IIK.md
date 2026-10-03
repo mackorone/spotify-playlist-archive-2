@@ -4,7 +4,7 @@
 
 > unge kniv 🔪 @Fine
 
-471 songs - 1 day 0 hr 8 min
+472 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 | 2024-06-27 | 2025-02-23 |
 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-21 |  |
 | [Last Time](https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Last Time](https://open.spotify.com/album/76zoFSv7yICfy6aHAqw3a5) | 2:42 | 2025-06-05 | 2025-06-13 |
-| [LEGIONÆR](https://open.spotify.com/track/2cvraZQylZ5xdmkZX6lniA) | [AFSKUM](https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [LEGIONÆR](https://open.spotify.com/album/35fuAHyVFJjsO4jrUsZQ2M) | 3:37 | 2026-09-11 |  |
+| [LEGIONÆR](https://open.spotify.com/track/2cvraZQylZ5xdmkZX6lniA) | [AFSKUM](https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [LEGIONÆR](https://open.spotify.com/album/35fuAHyVFJjsO4jrUsZQ2M) | 3:37 | 2026-09-11 | 2026-10-03 |
 | [Let It Ripe](https://open.spotify.com/track/0xE6EgmDrk46jpPvUwzTY1) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn) | [Let It Ripe](https://open.spotify.com/album/3WnOw1wygEU7BRmG9trnRC) | 2:22 | 2026-04-16 | 2026-04-24 |
 | [Let Love In](https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR) | [Jaleesa](https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4) | [Sodalite](https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S) | 4:08 | 2025-10-09 | 2025-10-30 |
 | [Levende Billeder](https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx) | [Carl Emil Petersen](https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW) | [Amager Forbrænding](https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H) | 3:04 | 2024-07-11 | 2024-08-18 |
@@ -302,6 +302,7 @@
 | [Når Du Rører Ved Mig](https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Når Du Rører Ved Mig](https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg) | 3:37 | 2024-06-27 | 2024-11-20 |
 | [Nærmest en ven](https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Regnvåde sale](https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h) | 3:16 | 2025-01-30 | 2025-09-12 |
 | [NØGEN \(feat\. Lord Siva\)](https://open.spotify.com/track/79WivSc02fx7ocg2Enl0ED) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [ALTERDETSAMME](https://open.spotify.com/album/0l7YdPNKdK5cKwqrfb7ovI) | 2:26 | 2025-06-19 | 2025-06-28 |
+| [Ocean Breeze](https://open.spotify.com/track/6z6uFihig7U0BUwXO4mnf9) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Ocean Breeze](https://open.spotify.com/album/6RPxy6llvzcHPr2DTluJtI) | 2:20 | 2026-10-01 |  |
 | [Okay](https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Okay](https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT) | 2:52 | 2026-09-25 |  |
 | [Oktobernat](https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Oktobernat](https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV) | 2:55 | 2024-10-18 | 2025-08-01 |
 | [OLIVER!](https://open.spotify.com/track/2LneG51NHSyyGtHHz9mQ7S) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP), [Vilma Crow](https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww) | [OLIVER!](https://open.spotify.com/album/4ytPA0zpbAip5PphgdRIZ5) | 2:43 | 2025-11-27 | 2025-12-14 |

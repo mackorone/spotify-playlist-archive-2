@@ -2845,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "After Summer",
+        "url": "https://open.spotify.com/album/5oObnSfrkcEvzLnjTx6hL7"
+      },
+      "artists": [
+        {
+          "name": "Bark",
+          "url": "https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd"
+        },
+        {
+          "name": "Rashel",
+          "url": "https://open.spotify.com/artist/7asBfEyd6XdZfC3agkULGl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208882,
+      "name": "After Summer",
+      "url": "https://open.spotify.com/track/2R9BkDcdVgzsUhDa063sXW"
+    },
+    {
+      "album": {
         "name": "AGA",
         "url": "https://open.spotify.com/album/0aF1FxcAnVb5f3PX7Zaxbj"
       },
@@ -53369,6 +53391,24 @@
     },
     {
       "album": {
+        "name": "UKA",
+        "url": "https://open.spotify.com/album/4s5mnzjydizzCy9kFZ6XgH"
+      },
+      "artists": [
+        {
+          "name": "SPIRITUS",
+          "url": "https://open.spotify.com/artist/6iMUoA0O1Vswpqq7xLxzXN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211731,
+      "name": "UKA",
+      "url": "https://open.spotify.com/track/22OHKf7daq7aGjHTho0nnm"
+    },
+    {
+      "album": {
         "name": "UMINOMUKOU (feat. XF MENEW & Vanity.K)",
         "url": "https://open.spotify.com/album/1T4tMOGHDozKZ2J8dXJpQw"
       },
@@ -61146,6 +61186,24 @@
       "duration_ms": 174381,
       "name": "\u30d0\u30c0\u30fb\u30cf\u30ea",
       "url": "https://open.spotify.com/track/08Vql2OHmrBilC7TXWoE38"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6d41\u884c\u3063\u3066\u306a\u3044",
+        "url": "https://open.spotify.com/album/4n5RqiTwVayPbBNI6syNs6"
+      },
+      "artists": [
+        {
+          "name": "Filix\u738b",
+          "url": "https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6d41\u884c\u3063\u3066\u306a\u3044",
+      "url": "https://open.spotify.com/track/7qAXzZURaoJDRmjX3OgKyF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 
 > Las más perronas y plakosonas del 2025 con Tito Double P en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,340 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,439 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 23 | [Como Duele El Amor](https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 3:42 |
 | 24 | [Loco](https://open.spotify.com/track/4eLDmhsJW3JoZTXCAozHor) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:06 |
 | 25 | [Atención](https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 4:13 |
-| 26 | [SE VOLVIERON LOCOS](https://open.spotify.com/track/365KxSOgQJD88CPvnKZSUn) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [LA BATUTA](https://open.spotify.com/album/1E87bPdkmorxfpyA2QrrIb) | 2:55 |
+| 26 | [Se Volvieron Locos](https://open.spotify.com/track/365KxSOgQJD88CPvnKZSUn) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [LA BATUTA](https://open.spotify.com/album/1E87bPdkmorxfpyA2QrrIb) | 2:55 |
 | 27 | [La Nena](https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:55 |
 | 28 | [PRESIDENTE](https://open.spotify.com/track/0f8hhO8wNwo2jji5SRV1Hg) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 3:01 |
 | 29 | [SUIZA](https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 1:54 |

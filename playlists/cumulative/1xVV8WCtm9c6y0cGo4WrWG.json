@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The newest and best Hip-Hop updated weekly! Cover: Casper TNG",
+  "description": "The newest and best Hip-Hop updated weekly! Cover: Quavo",
   "name": "Hip-Hop Pulse",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 179141,
       "name": "2'CY",
       "url": "https://open.spotify.com/track/3R0SI46gC5a9BfFKXtbtSo"
+    },
+    {
+      "album": {
+        "name": "2008",
+        "url": "https://open.spotify.com/album/053G7DllNKe9rlc01DaKiQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/211K8IAEPeVhuPxA1CWHCF"
     },
     {
       "album": {
@@ -760,6 +778,28 @@
       "duration_ms": 137647,
       "name": "B's On The Table (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
+    },
+    {
+      "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149159,
+      "name": "BA (feat. Future)",
+      "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
     },
     {
       "album": {
@@ -8253,6 +8293,24 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -9222,6 +9280,24 @@
       "duration_ms": 131947,
       "name": "Something Ether",
       "url": "https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz"
+    },
+    {
+      "album": {
+        "name": "Something I Need",
+        "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145754,
+      "name": "Something I Need",
+      "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
     },
     {
       "album": {

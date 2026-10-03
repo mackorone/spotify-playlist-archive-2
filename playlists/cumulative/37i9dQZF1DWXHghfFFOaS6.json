@@ -3370,7 +3370,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
@@ -3410,6 +3410,28 @@
       "duration_ms": 272733,
       "name": "We Have Love",
       "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
+    },
+    {
+      "album": {
+        "name": "Snap, Crackle & Bop!",
+        "url": "https://open.spotify.com/album/2gXL9kq6ifBTe28DoSM5f4"
+      },
+      "artists": [
+        {
+          "name": "Us3",
+          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
+        },
+        {
+          "name": "Akil Dasan",
+          "url": "https://open.spotify.com/artist/7gLvXbtTIJRXCpDQcmCRmf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278752,
+      "name": "We Like That",
+      "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
     },
     {
       "album": {

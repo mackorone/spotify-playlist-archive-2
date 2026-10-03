@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Uni\u00f3n Fatal en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Victor Mendivil, Lefty Gunplay e Ivana  en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -4958,7 +4958,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 198733,
       "name": "Empareje Remix",
       "url": "https://open.spotify.com/track/2AJ8ltGJsScmIlc0aiM3pK"
@@ -6677,6 +6677,36 @@
     },
     {
       "album": {
+        "name": "Somos Frijoleros",
+        "url": "https://open.spotify.com/album/6ott6QVlag4lTg2rBoWgIW"
+      },
+      "artists": [
+        {
+          "name": "Somos Frijoleros",
+          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170842,
+      "name": "Hit Me",
+      "url": "https://open.spotify.com/track/7Gv2fmKZSXez2miYjE0bp2"
+    },
+    {
+      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/0iAHXOTShRozLG7IeZnmm5"
       },
@@ -7930,7 +7960,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 164640,
       "name": "La Plaga",
       "url": "https://open.spotify.com/track/02xzoQPfC916XJroG6wBPU"
@@ -8030,10 +8060,32 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 158400,
       "name": "La Vaina",
       "url": "https://open.spotify.com/track/5qpWF8UEjvd1VbKJWxSx68"
+    },
+    {
+      "album": {
+        "name": "Inter",
+        "url": "https://open.spotify.com/album/0yR1qd06IkTYHpu2qhLMl0"
+      },
+      "artists": [
+        {
+          "name": "Tres Coronas",
+          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276874,
+      "name": "La Via Del Tren",
+      "url": "https://open.spotify.com/track/39BvXMotxDZEC3HbncRpEN"
     },
     {
       "album": {
@@ -11240,6 +11292,36 @@
       "duration_ms": 123000,
       "name": "ODIOSOTORIUS",
       "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
+    },
+    {
+      "album": {
+        "name": "OLIVIA LA FLAKA",
+        "url": "https://open.spotify.com/album/76WozPiPKgbo1IS52geqP2"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "OLIVIA LA FLAKA",
+      "url": "https://open.spotify.com/track/6756nr1dYiw5aNLSgIHNOI"
     },
     {
       "album": {

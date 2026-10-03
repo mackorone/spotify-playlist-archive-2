@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,565 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,568 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 12 | [Op Een Mooie Pinksterdag](https://open.spotify.com/track/7JQszt5pkJe43vlr0MUtLJ) | [Andre Van Den Heuvel](https://open.spotify.com/artist/761xE3Wn7hz2BXKeKxccx2), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:25 |
 | 13 | [Mijn Vlakke Land](https://open.spotify.com/track/1UlztlUKod6mibYwJEWbsp) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [De Vertedering \- De 60 Mooiste Luisterliedjes](https://open.spotify.com/album/7wychIhuEA1yc9YClKzR17) | 2:52 |
 | 14 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
-| 15 | [Kom van dat dak af](https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B) | [Peter Koelewijn en Zijn Rockets](https://open.spotify.com/artist/4inB4rmxwWnwbszg23w4yj) | [Favorieten van Toen](https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1) | 2:39 |
+| 15 | [Kom Uit De Bedstee M'n Liefste](https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:21 |
 | 16 | [Verdronken Vlinder](https://open.spotify.com/track/7IEaiB0xfLdXzwHCG39cj5) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:24 |
-| 17 | [Kom Uit De Bedstee M'n Liefste](https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:21 |
+| 17 | [Kom van dat dak af](https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B) | [Peter Koelewijn en Zijn Rockets](https://open.spotify.com/artist/4inB4rmxwWnwbszg23w4yj) | [Favorieten van Toen](https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1) | 2:39 |
 | 18 | [Je Bent Niet Hip](https://open.spotify.com/track/0658jhE6xvdROR3mYKvn7P) | [Patricia Paay](https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:41 |
 | 19 | [Dans Je De Hele Nacht Met Mij?](https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG) | [Karin Kent](https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:39 |
 | 20 | [De Kat Van Ome Willem](https://open.spotify.com/track/4BZCJXgKSg7UudaRiWfmt7) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10), [Hetty Blok](https://open.spotify.com/artist/0VwzejS59E7wzdAEomSwoU) | [Het Mooiste Van Wim Sonneveld](https://open.spotify.com/album/3WGx6ms5LvfGuJ52eDT3tB) | 2:09 |

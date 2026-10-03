@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Portola is back! For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the <a href="https://portolamusicfestival.com/">Portola Festival</a> Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,144 likes - 82 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,193 likes - 82 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

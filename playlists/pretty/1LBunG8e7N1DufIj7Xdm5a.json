@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKXHH/MbzQvmUKpdouTkCK87/EPtFb",
+  "snapshot_id": "AAAKYI0WNN3xm3wQ359jCZ8oOX469lMs",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -11357,7 +11357,7 @@
         },
         {
           "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3Xxk2j1ubQsg72F0gxCmOx"
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
         },
         {
           "name": "R2R MOE",
@@ -79923,6 +79923,70 @@
       "duration_ms": 102562,
       "name": "1 Am Vibes",
       "url": "https://open.spotify.com/track/4bXVGRSQQVFvXf36Hxy5U6"
+    },
+    {
+      "added_at": "2026-10-02 11:15:15",
+      "album": {
+        "name": "Engines",
+        "url": "https://open.spotify.com/album/3c0v7FCB4vnmrVNjzvEmUR"
+      },
+      "artists": [
+        {
+          "name": "Fickle Hill",
+          "url": "https://open.spotify.com/artist/7K7Uyq9xCc8uxlHQgQnUHx"
+        }
+      ],
+      "duration_ms": 188393,
+      "name": "Engines",
+      "url": "https://open.spotify.com/track/7g96sPYXnr6RTKTspYbEJF"
+    },
+    {
+      "added_at": "2026-10-02 12:06:07",
+      "album": {
+        "name": "Rhythm of Today",
+        "url": "https://open.spotify.com/album/0uQj0af0UNC5mCFteBvxNE"
+      },
+      "artists": [
+        {
+          "name": "Pure Queen",
+          "url": "https://open.spotify.com/artist/4tDTJCLg5Z7TRuNPt2zN5o"
+        }
+      ],
+      "duration_ms": 276319,
+      "name": "Rhythm of Today",
+      "url": "https://open.spotify.com/track/0Ambv3LtpfWr5wKH1dZ5RX"
+    },
+    {
+      "added_at": "2026-10-02 12:40:39",
+      "album": {
+        "name": "Tuuli kuljettaa",
+        "url": "https://open.spotify.com/album/7J7xevI9cqKAEVoH4Zb3qn"
+      },
+      "artists": [
+        {
+          "name": "Presidenttikuningas",
+          "url": "https://open.spotify.com/artist/09CvbZF0xb31mQGO44VOSo"
+        }
+      ],
+      "duration_ms": 458270,
+      "name": "Tuuli kuljettaa",
+      "url": "https://open.spotify.com/track/6GdzkADsuQVmdxVv2YZEcO"
+    },
+    {
+      "added_at": "2026-10-02 18:28:04",
+      "album": {
+        "name": "Antarctica (Chillout)",
+        "url": "https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj"
+      },
+      "artists": [
+        {
+          "name": "DJAR3K",
+          "url": "https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8"
+        }
+      ],
+      "duration_ms": 231552,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/7mpk8wnLKaNgd0XJ5ldgrF"
     }
   ],
   "unique_name": "playlist spotify free",

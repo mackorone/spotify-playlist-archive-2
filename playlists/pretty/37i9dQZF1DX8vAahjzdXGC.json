@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari Gloria Jessica, Ade Govinda, Stevan Pasaribu, Victoria Mon\u00e9t, Bruno Mars, Winky Wiryawan, Afgan, Maxime Bouttier dan masih banyak lagi dari dalam dan mancanegara.",
-  "num_followers": 250808,
+  "num_followers": 251133,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMg+mBGeJaf2FtPTDTFmXtw4jkvN",
+  "snapshot_id": "AAAAAM1yERvMutL2d3HtfjfYyvOnKb4J",
   "tracks": [
     {
       "added_at": "2026-10-01 17:00:32",
@@ -306,18 +306,6 @@
         {
           "name": "dbatlayar",
           "url": "https://open.spotify.com/artist/6Cl2MkL95uTSdGnkT0epnG"
-        },
-        {
-          "name": "Dave Batlayar",
-          "url": "https://open.spotify.com/artist/3LqD0bTIFukroWGpYngW4c"
-        },
-        {
-          "name": "Joy Batlayar",
-          "url": "https://open.spotify.com/artist/4UwKy7K11sFaDyzNtLbx0X"
-        },
-        {
-          "name": "Agatha Chelsea",
-          "url": "https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX"
         }
       ],
       "duration_ms": 212857,
@@ -435,6 +423,26 @@
       "duration_ms": 230359,
       "name": "Bad Luck Hideaway",
       "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
+    },
+    {
+      "added_at": "2026-10-02 14:22:26",
+      "album": {
+        "name": "Dime Girl (Feat. NOWIMYOUNG)",
+        "url": "https://open.spotify.com/album/0xpzZIaGVh8d2NtXfBrKJH"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Dime Girl (Feat. NOWIMYOUNG)",
+      "url": "https://open.spotify.com/track/71QaFkKKm3tbsWdwwuX9pI"
     },
     {
       "added_at": "2026-10-01 17:00:32",
@@ -602,10 +610,14 @@
         {
           "name": "Silampukau",
           "url": "https://open.spotify.com/artist/40ucFk6nwFWYZ4gvL9DNm8"
+        },
+        {
+          "name": "Cholil Mahmud",
+          "url": "https://open.spotify.com/artist/0xuJCV7Ce4Pp6eU4k5TAxQ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 242125,
+      "name": "Lagu Umum",
       "url": "https://open.spotify.com/track/3dOU03zMMPqRHOP0rLyPW8"
     },
     {
@@ -1161,6 +1173,22 @@
       "url": "https://open.spotify.com/track/2j0mQg77Ivev2aIksyiiqc"
     },
     {
+      "added_at": "2026-10-02 14:22:26",
+      "album": {
+        "name": "Yochi! (TV TOKYO \"MAME\uff06MUGI\" OP Theme)",
+        "url": "https://open.spotify.com/album/7fnFhMfQchOgAK3s7ZS3NR"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Yochi! (TV TOKYO \"MAME\uff06MUGI\" OP Theme)",
+      "url": "https://open.spotify.com/track/2oR3ILOvxFaYBNUhFVaS8J"
+    },
+    {
       "added_at": "2026-10-01 17:00:32",
       "album": {
         "name": "\u306f\u3066\u306a",
@@ -1424,12 +1452,12 @@
           "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
           "name": "Solomun",
           "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
       "duration_ms": 180150,

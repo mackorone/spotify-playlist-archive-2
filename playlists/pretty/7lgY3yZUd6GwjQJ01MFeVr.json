@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson",
-  "num_followers": 35350,
+  "num_followers": 35348,
   "original_name": "Top Country Hits",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAf2iUut1qoE0JFpuN/z/vlleSH9O+1",
+  "snapshot_id": "AAAf36euJYN1h6zGM6OEhGD45rlBubO3",
   "tracks": [
     {
       "added_at": "2026-09-17 17:20:29",
@@ -161,6 +161,58 @@
       "url": "https://open.spotify.com/track/1XKHTxAHMDmJBpDWgRSk2c"
     },
     {
+      "added_at": "2026-10-02 20:07:46",
+      "album": {
+        "name": "Bar Stars & Beauty Queens",
+        "url": "https://open.spotify.com/album/3bSZ6lbiElpGT18lu6OUI0"
+      },
+      "artists": [
+        {
+          "name": "Jimi",
+          "url": "https://open.spotify.com/artist/2hKyRk37dnpcAPIqU0Fghj"
+        }
+      ],
+      "duration_ms": 171896,
+      "name": "Bar Stars & Beauty Queens",
+      "url": "https://open.spotify.com/track/3PDP1qaABCp2ovbpkRBZ2p"
+    },
+    {
+      "added_at": "2026-10-02 20:08:09",
+      "album": {
+        "name": "The Day I Hang It Up",
+        "url": "https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 234010,
+      "name": "Us Again",
+      "url": "https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM"
+    },
+    {
+      "added_at": "2026-10-02 20:08:24",
+      "album": {
+        "name": "I'll Know",
+        "url": "https://open.spotify.com/album/72eVF75otNO1jux20nhkEz"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 145557,
+      "name": "I'll Know",
+      "url": "https://open.spotify.com/track/3Cs9MnaZMUYK7KA3ePjwIQ"
+    },
+    {
       "added_at": "2026-09-21 14:26:52",
       "album": {
         "name": "Mule",
@@ -223,22 +275,6 @@
       "duration_ms": 213805,
       "name": "Been By Now",
       "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
-    },
-    {
-      "added_at": "2026-08-21 17:13:10",
-      "album": {
-        "name": "Ride The River",
-        "url": "https://open.spotify.com/album/4sy5R6NhnHxH5rVFHKAyod"
-      },
-      "artists": [
-        {
-          "name": "Shawnee Kish",
-          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
-        }
-      ],
-      "duration_ms": 189085,
-      "name": "Ride The River",
-      "url": "https://open.spotify.com/track/2EsMBsv3uFaUEF8fCOLMoA"
     },
     {
       "added_at": "2026-08-04 15:55:13",
@@ -335,6 +371,22 @@
       "duration_ms": 189224,
       "name": "TAKES ME BACK",
       "url": "https://open.spotify.com/track/5ayb2novvCrkXxzDImS8GJ"
+    },
+    {
+      "added_at": "2026-08-21 17:13:10",
+      "album": {
+        "name": "Ride The River",
+        "url": "https://open.spotify.com/album/4sy5R6NhnHxH5rVFHKAyod"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 189085,
+      "name": "Ride The River",
+      "url": "https://open.spotify.com/track/2EsMBsv3uFaUEF8fCOLMoA"
     },
     {
       "added_at": "2026-08-14 14:43:07",

@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring DJ HEARTSTRING
 
-1,383 songs - 3 day 3 hr 11 min
+1,383 songs - 3 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [gimme gimme](https://open.spotify.com/track/0LWrBENo9TbgKc8hmIn1Ec) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [summer in the rain](https://open.spotify.com/album/5ZDHGnmqfZRdgsjDmw6xZz) | 2:38 | 2023-11-10 | 2024-08-02 |
 | [gimme gimme](https://open.spotify.com/track/1gfID56ITv50NOl2OJjWYr) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [apple juice](https://open.spotify.com/album/6LfyurnoMknxDGX50Yfo4e) | 2:38 | 2023-12-15 | 2024-04-19 |
 | [gimme gimme](https://open.spotify.com/track/4MMmuV5pqfBNeN80xWO48y) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [gimme gimme](https://open.spotify.com/album/42jhYLMuchMM04kVE1hWHY) | 2:38 | 2023-07-27 | 2023-10-14 |
+| [Girl's Girl](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 2:41 | 2026-10-01 |  |
 | [girls just wanna have fun](https://open.spotify.com/track/2E6akA4GVkpu5jDDzbYH7d) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [girls just wanna have fun](https://open.spotify.com/album/4ggpeldcot5lj39pHKZUrh) | 2:31 | 2024-07-11 | 2025-03-29 |
 | [Girls Just Want Breaks \(yion\-flip\)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [Girls Just Want Breaks \(yion\-flip\)](https://open.spotify.com/album/1QYo6YHo7NPrVcHRiVybmo) | 1:46 | 2022-04-08 | 2022-06-18 |
 | [Girls just want to have fun](https://open.spotify.com/track/16aNHWdWoO9zobj4lqAoWV) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Girls just want to have fun](https://open.spotify.com/album/7jhAHwxV5NennB3lL6fva4) | 2:14 | 2022-03-23 | 2022-04-09 |
@@ -680,6 +681,7 @@
 | [Jaws](https://open.spotify.com/track/17TCTYGxieVPS1TBTUdQkc) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Jaws](https://open.spotify.com/album/0rdaz3LaQsaibiVA6iGtkn) | 3:20 | 2022-09-30 | 2023-05-26 |
 | [Jennifer](https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/4IluqHZGQUxXellf1ycOYt) | 2:34 | 2021-07-23 | 2022-02-05 |
 | [Jenny](https://open.spotify.com/track/5ov235IWNsLM2vuDeSx25W) | [Kiss Protocol](https://open.spotify.com/artist/2t4pAVH5GhTsJEPdgonxr3), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Jenny](https://open.spotify.com/album/45LjJbvIYb8wPx0AH6lHUF) | 1:37 | 2026-06-11 |  |
+| [Jezebel](https://open.spotify.com/track/6IDvtVV7hstph3DnXpBTL0) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [JEZEBEL](https://open.spotify.com/album/7HvRG2niZJweT6uJ0HtJ73) | 2:16 | 2026-10-01 |  |
 | [JOY \(Take To The Light\) \- niina Remix](https://open.spotify.com/track/6rVaF8lDvKlW0Jt5FNVmzI) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [JOY \(Take To The Light\) \[niina Remix\]](https://open.spotify.com/album/2VWbBgHJPlTrUyjtfKS7JD) | 3:30 | 2022-02-04 | 2022-02-26 |
 | [Joy Squad \- VTSS Remix](https://open.spotify.com/track/4YWa2U6mDcZgKjDG8bqZ6Q) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Joy Squad / Shellshock \(VTSS & Dubyshkin Remixes\)](https://open.spotify.com/album/3o8z9yU8EHtoQgzgdFR0Cp) | 2:45 | 2022-06-17 | 2022-08-17 |
 | [Jungle](https://open.spotify.com/track/64n7L4Cz4aAChRXME2nqxc) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [Jungle](https://open.spotify.com/album/6hllbnCE9pVfztzBwrBiRt) | 2:27 | 2024-05-24 | 2025-02-21 |
@@ -1238,8 +1240,6 @@
 | [top floor](https://open.spotify.com/track/0XzsTexMODit0IRdnocWMq) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [top floor](https://open.spotify.com/album/0sJc1FzEfvl9ErgXEUpig3) | 3:10 | 2023-11-24 | 2024-01-13 |
 | [TOUCH](https://open.spotify.com/track/7guJDb91UHeVH2keqLE3jP) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [TOUCH](https://open.spotify.com/album/7E9Pv3aT6vzq6DXj96O55S) | 2:27 | 2024-08-01 | 2025-04-18 |
 | [Toxic](https://open.spotify.com/track/1PMBwFGTdsJQzXrBJs03ry) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [Toxic](https://open.spotify.com/album/2nK4Tg7kq2QVt6sDA5OGxE) | 3:02 | 2023-03-17 | 2023-09-15 |
-| [Track 3](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 0:00 | 2026-10-01 |  |
-| [Track 4](https://open.spotify.com/track/6IDvtVV7hstph3DnXpBTL0) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [JEZEBEL](https://open.spotify.com/album/7HvRG2niZJweT6uJ0HtJ73) | 0:00 | 2026-10-01 |  |
 | [Trailblaze ☆](https://open.spotify.com/track/2VZHXVkuxqiaTCNROyWa7L) | [Cowgirl Clue](https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4) | [Trailblaze ☆](https://open.spotify.com/album/6BmJEh1NR4XZdnCxh6GY9D) | 3:12 | 2022-06-24 | 2022-08-27 |
 | [Trancendence](https://open.spotify.com/track/4hkJ9k6TYJE5Y0CsOlGL5G) | [Nedaj](https://open.spotify.com/artist/56huNdCA3s7tthaMNhIXLU), [Young Mooski](https://open.spotify.com/artist/3Zoc4cR3DJ9YJX92YfjWyt) | [Trancendence](https://open.spotify.com/album/01I7XQK5STddzTwho9fsmf) | 3:44 | 2022-12-23 | 2023-06-08 |
 | [Triangles](https://open.spotify.com/track/5b4tC4KxbtMGLFI1louazN) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Dopamine Online](https://open.spotify.com/album/313di0KFyglKen0XHisgI0) | 3:00 | 2022-07-22 | 2023-01-21 |

@@ -1,29 +1,13 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162096,
+  "num_followers": 162093,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAMFB1yN0GvFPG1p3y1UTQi",
+  "snapshot_id": "ar2igAAAAADKdarU3R/O56jS0l6rkfV0",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Livro do Cordeiro",
-        "url": "https://open.spotify.com/album/43gT6m3XyqjHQ4kW9ouAGl"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 358281,
-      "name": "Livro do Cordeiro",
-      "url": "https://open.spotify.com/track/0U1nD45MDlon0Qnyr4xlQJ"
-    },
     {
       "added_at": null,
       "album": {
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Livro do Cordeiro",
+        "url": "https://open.spotify.com/album/43gT6m3XyqjHQ4kW9ouAGl"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 358281,
+      "name": "Livro do Cordeiro",
+      "url": "https://open.spotify.com/track/0U1nD45MDlon0Qnyr4xlQJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pai Presente",
         "url": "https://open.spotify.com/album/682eYG75UszY1zmE0yHhys"
       },
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simples Assim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 281272,
-      "name": "N\u00e3o h\u00e1 Deus maior - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caminho de Milagres",
         "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 308268,
       "name": "Vento do Esp\u00edrito",
       "url": "https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simples Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 281272,
+      "name": "N\u00e3o h\u00e1 Deus maior - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+        "name": "Acenda a Sua Luz",
+        "url": "https://open.spotify.com/album/4KNkeq0ZhLKLIiCKWrL66f"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 153205,
-      "name": "Crian\u00e7a de Jesus",
-      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
+      "duration_ms": 292432,
+      "name": "Depois da Cruz",
+      "url": "https://open.spotify.com/track/2JNPUQuPvwlur4xz2giXVs"
     },
     {
       "added_at": null,
@@ -875,38 +875,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acenda a Sua Luz",
-        "url": "https://open.spotify.com/album/4KNkeq0ZhLKLIiCKWrL66f"
+        "name": "Rey De Gloria",
+        "url": "https://open.spotify.com/album/1HQxC9wHwxHTqOTtQoGIlc"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 292432,
-      "name": "Depois da Cruz",
-      "url": "https://open.spotify.com/track/2JNPUQuPvwlur4xz2giXVs"
+      "duration_ms": 268416,
+      "name": "Rey De Gloria",
+      "url": "https://open.spotify.com/track/3NjPKX1NUbTgpJ89Fks4LF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "COMUNH\u00c3O - Fernandinho Em Casa, vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5"
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
       },
       "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 398532,
-      "name": "Vinho e P\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3cQhO3PiL8GYlfmqqmZC4I"
+      "duration_ms": 153205,
+      "name": "Crian\u00e7a de Jesus",
+      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
     }
   ],
   "unique_name": "This Is Aline Barros",

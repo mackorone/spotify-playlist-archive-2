@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover:  paloalto\)
+> New & Hottest K\-Hip Hop is here\. \(Cover:  CHANGMO\)
 
-1,961 songs - 4 day 8 hr 35 min
+1,962 songs - 4 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1744,6 +1744,7 @@
 | [Ugly \- Spotify Singles](https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Spotify Singles](https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S) | 2:23 | 2024-04-19 | 2026-04-02 |
 | [Ugly duckling \(Feat\. sunwoojunga, BOBBY\) \(Prod\. R.Tee\)](https://open.spotify.com/track/4CtEpNW39gY6bHWFDfoXKG) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 3:28 | 2022-12-25 | 2023-06-14 |
 | [UGRS \(Feat\. Paul Blanco, CHANGMO\)](https://open.spotify.com/track/5GzMUEamWs47HNPivuXk5W) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Luxury Flow](https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh) | 3:05 | 2024-07-01 | 2026-02-12 |
+| [UGRS RIGHT HERE!](https://open.spotify.com/track/6UH7SnRSS8NkopwZiowol5) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [MONOLITH](https://open.spotify.com/album/3d5fZhrTMffq3V9q8jxw4q) | 3:10 | 2026-10-02 |  |
 | [uh\-uh \(Feat\. Kid Milli, Gaeko\)](https://open.spotify.com/track/0EyQKhavlxSzHdxvBWZqNC) | [Huh!](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [uh\-uh](https://open.spotify.com/album/4sllKWDRbXLTzfKvQNeby3) | 3:54 | 2021-12-29 | 2022-06-24 |
 | [Underdogma](https://open.spotify.com/track/63tzfVTMuXxqX73uZtBWPR) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Underdogma](https://open.spotify.com/album/3bygdZMJkMwguE7EpvVF5c) | 10:14 | 2025-01-02 | 2025-05-03 |
 | [Understand](https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [MELOH](https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1) | 2:40 | 2024-04-05 | 2024-04-12 |

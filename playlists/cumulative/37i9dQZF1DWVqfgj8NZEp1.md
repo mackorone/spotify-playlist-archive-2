@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-361 songs - 1 day 8 hr 22 min
+362 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 6:13 | 2022-06-30 | 2023-01-18 |
 | [Isadora](https://open.spotify.com/track/03KmUnGK5okNrMU2hmUwF2) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Smooth Summer Jazz](https://open.spotify.com/album/2V1jWBewwIKXWAQJAm37qd) | 6:14 | 2022-11-10 | 2022-11-13 |
 | [Isadora](https://open.spotify.com/track/5bF6crgJa5Q58IWgbdUbuO) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Introducing Christian Scott](https://open.spotify.com/album/5dFfrmCWp4rYbggmhYhakl) | 6:16 | 2020-10-09 | 2022-07-29 |
+| [Isfahan](https://open.spotify.com/track/4b58VZ1BNiveCt80fHMmto) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD) | [Isfahan](https://open.spotify.com/album/5ZpEwTPYZfe6PjTfJc0Gmh) | 5:23 | 2026-10-02 |  |
 | [It Never Entered my Mind](https://open.spotify.com/track/58VcgWixvxnMdt4bj29PdQ) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Richie Goods](https://open.spotify.com/artist/3vIV7TBZyCi5dGGaaFB6G6), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Sequel](https://open.spotify.com/album/387kMuzWWMPFsmvxpemQbA) | 6:31 | 2020-10-09 | 2025-05-24 |
 | [It Never Entered My Mind](https://open.spotify.com/track/1vP5Ceh1SrfOalU8Yc3XE9) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Wingspan](https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd) | [The Sequel](https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum) | 6:32 | 2022-06-30 | 2024-04-19 |
 | [It's Alright](https://open.spotify.com/track/0ZTtlX60nlwD0PPyjDjoN7) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o) | [It's Alright](https://open.spotify.com/album/438X1imZU8hafUX3S3XE4K) | 3:18 | 2025-12-05 |  |
@@ -301,7 +302,7 @@
 | [Sweetness](https://open.spotify.com/track/3MU1qPFFyJQy1RbmpLH0mb) | [Roger Kellaway](https://open.spotify.com/artist/1NueKSreiFLxEJ1ml6nT8Q), [Jay Leonhart](https://open.spotify.com/artist/5qIlfIzgiSefp5rj8CtYK1), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [New Jazz Standards Vol 3](https://open.spotify.com/album/7gUF7bwjWoEvG8ycUOxPxz) | 6:59 | 2020-10-09 | 2024-06-29 |
 | [Taplow](https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS) | [Return to Mind](https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr) | 4:44 | 2020-10-09 | 2022-02-18 |
 | [Tell Him I Said Hello](https://open.spotify.com/track/2Lgi3cSv27mb2JkvGAdEX8) | [Nicole Glover](https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT) | [Tell Him I Said Hello](https://open.spotify.com/album/5igLwfMr78OI5MXHbvXksZ) | 5:37 | 2025-05-23 | 2025-09-06 |
-| [That's All](https://open.spotify.com/track/79MOPpvNSagTPcwnx4Ct2b) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Pick Yourself Up](https://open.spotify.com/album/5kdCmgqTuAvaIcjh46usah) | 4:53 | 2020-10-09 |  |
+| [That's All](https://open.spotify.com/track/79MOPpvNSagTPcwnx4Ct2b) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Pick Yourself Up](https://open.spotify.com/album/5kdCmgqTuAvaIcjh46usah) | 4:53 | 2020-10-09 | 2026-10-03 |
 | [That's All](https://open.spotify.com/track/0d43eTmA0tQP9ortsZQ9hN) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:53 | 2022-06-30 | 2024-04-19 |
 | [The Autumn Gate](https://open.spotify.com/track/0vMPNdJjZqOpj5yhcSGXgT) | [Tim Garland](https://open.spotify.com/artist/7atdKYaPCT9zvJW2OTedhz) | [The Autumn Gate](https://open.spotify.com/album/4iifCLubKvL05e8HTCl8v1) | 4:21 | 2020-10-09 | 2022-03-11 |
 | [The Folks Who Live on the Hill](https://open.spotify.com/track/2sZ1zWeLaquu9tx8IUMuh7) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Walking Shadows](https://open.spotify.com/album/08xTgvpiNHqGDdCEAagA4B) | 4:00 | 2020-10-09 | 2022-02-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 673612,
+  "num_followers": 673617,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANmxpu7vGKWMPNNiRL6WVFy9m0EB",
+  "snapshot_id": "AAAAANO/rs2OJfd/aH5JM0PglhMu3fUq",
   "tracks": [
     {
       "added_at": "2026-09-24 22:02:37",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
+    },
+    {
+      "added_at": "2026-09-24 22:02:37",
+      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -771,38 +787,6 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2026-09-24 22:02:37",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-09-24 22:02:37",
-      "album": {
         "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
         "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 178355,
       "name": "Ain't Nobody (Loves Me Better) - Acoustic",
       "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
+    },
+    {
+      "added_at": "2026-09-24 22:02:37",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 222181,
+      "name": "September",
+      "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
     },
     {
       "added_at": "2026-09-24 22:02:37",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
         }
       ],
-      "duration_ms": 222181,
-      "name": "September",
-      "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-09-24 22:02:37",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 203002,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
+    },
+    {
+      "added_at": "2026-09-24 22:02:37",
+      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
-    },
-    {
-      "added_at": "2026-09-24 22:02:37",
-      "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 203002,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
     },
     {
       "added_at": "2026-09-24 22:02:37",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-09-24 22:02:37",
       "album": {
+        "name": "Can I Be Him (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Can I Be Him - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
+    },
+    {
+      "added_at": "2026-09-24 22:02:37",
+      "album": {
         "name": "brent ii",
         "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 233746,
       "name": "emily",
       "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
-    },
-    {
-      "added_at": "2026-09-24 22:02:37",
-      "album": {
-        "name": "Can I Be Him (Acoustic Live Version)",
-        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Can I Be Him - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
     },
     {
       "added_at": "2026-09-24 22:02:37",

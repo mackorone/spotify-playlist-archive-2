@@ -3847,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Quiet Tide",
+        "url": "https://open.spotify.com/album/3s05pXnm6yPKKFo2AUuc3u"
+      },
+      "artists": [
+        {
+          "name": "Adrian Edblad",
+          "url": "https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155062,
+      "name": "Quiet Tide",
+      "url": "https://open.spotify.com/track/3jM8Mg1QN4Us0L34kC9cbZ"
+    },
+    {
+      "album": {
         "name": "Raconteur",
         "url": "https://open.spotify.com/album/6zJrL7ptspQXKC1CaBkVBV"
       },
@@ -5594,6 +5612,24 @@
       "duration_ms": 148500,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/5W3wbuaJXsYrO9VfcKiHH4"
+    },
+    {
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/1za1Pee8XkKyWflmUyqXoq"
+      },
+      "artists": [
+        {
+          "name": "Jorge Huksos",
+          "url": "https://open.spotify.com/artist/5DEfxYlPLz7yZMw0AJF5G7"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/3ABTzF0wnIe8yozhT0lxuN"
     },
     {
       "album": {

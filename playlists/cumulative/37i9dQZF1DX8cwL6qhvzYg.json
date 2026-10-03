@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe DENNA LA PORRI y 8Uno en portada",
+  "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe Carit BR en portada.",
   "name": "Fiesta de Barrio",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 206250,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/4K7aJc4N6Ju2YE21e2YX5e"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 201360,
       "name": "Claudia",
       "url": "https://open.spotify.com/track/72V24MGd2YS7eyjMakPpHA"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 278506,
       "name": "Cumbia de la Paz",
       "url": "https://open.spotify.com/track/5qvQItn386BmQV6BBtlfIE"
@@ -3329,6 +3329,28 @@
     },
     {
       "album": {
+        "name": "Llorar y Llorar",
+        "url": "https://open.spotify.com/album/6fMSrRKNCmnqYgxjO2d2th"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macao de Alex y Jhonny",
+          "url": "https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322063,
+      "name": "Llorar y Llorar",
+      "url": "https://open.spotify.com/track/1imBpQKlf965zaMpw2u7q1"
+    },
+    {
+      "album": {
         "name": "Lujos y Secretos",
         "url": "https://open.spotify.com/album/3cbhqcAnhdzrBYjrehJ3Hx"
       },
@@ -3704,7 +3726,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 226600,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/13xVmEV4G5jh8zDIFTZeIy"
@@ -3875,6 +3897,36 @@
     },
     {
       "album": {
+        "name": "NI TAN SANTX",
+        "url": "https://open.spotify.com/album/2B53ZI8IljOo0wycM0Ai4i"
+      },
+      "artists": [
+        {
+          "name": "EON",
+          "url": "https://open.spotify.com/artist/1Bt6FvbEO0j0bYOqZTabUd"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "L Prince",
+          "url": "https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "NI TAN SANTX",
+      "url": "https://open.spotify.com/track/2TCy4SdgjE8SEdP0UQfPGs"
+    },
+    {
+      "album": {
         "name": "A Bailar... De Caballito!!",
         "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
@@ -3980,6 +4032,24 @@
       "duration_ms": 156520,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+    },
+    {
+      "album": {
+        "name": "Noches Oscuras",
+        "url": "https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yeah!",
+          "url": "https://open.spotify.com/artist/4kssNc4REeCjtcorA7rxt7"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350511,
+      "name": "Noches Oscuras",
+      "url": "https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9"
     },
     {
       "album": {
@@ -5876,6 +5946,36 @@
       "duration_ms": 300000,
       "name": "Vuelve Mi Amor",
       "url": "https://open.spotify.com/track/1hWEJsHFWRHHrTYh4q0AQS"
+    },
+    {
+      "album": {
+        "name": "Watekeo",
+        "url": "https://open.spotify.com/album/1rPyf3yzlXud5XrDp9cUfs"
+      },
+      "artists": [
+        {
+          "name": "Carit Br",
+          "url": "https://open.spotify.com/artist/7n1ph39OlZ6pVHVmal0bkD"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        },
+        {
+          "name": "DimeloooLexx",
+          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
+        },
+        {
+          "name": "Aivan Beatz",
+          "url": "https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154281,
+      "name": "Watekeo",
+      "url": "https://open.spotify.com/track/50eVUKPFpPVz0DEhWc0RaR"
     },
     {
       "album": {

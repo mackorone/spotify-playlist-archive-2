@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 672003,
+  "num_followers": 672061,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACLT0CNX7mbVD1AZ2Ur/+i/",
+  "snapshot_id": "ar2igAAAAACQygMfQar8mHdMCzrG0gDD",
   "tracks": [
     {
       "added_at": null,
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 406637,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/79MOydAvZYm8nyyzd6fiVi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 219133,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/72o9sWkvAIJAtOs1WoVhNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 406637,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/79MOydAvZYm8nyyzd6fiVi"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 287938,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/4CfYxSs4Dr8KWORCmN3hom"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -1091,8 +1107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+        "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
       },
       "artists": [
         {
@@ -1100,25 +1116,9 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 287938,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/4CfYxSs4Dr8KWORCmN3hom"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 208028,
-      "name": "No Angels",
-      "url": "https://open.spotify.com/track/3Llg6UrxeStZxQJNjEQrlM"
+      "duration_ms": 331133,
+      "name": "Drink You Away",
+      "url": "https://open.spotify.com/track/4pEaGoTSSU7YKu4hqor9Na"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

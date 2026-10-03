@@ -15588,7 +15588,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 158868,
       "name": "POT\u00caNCIA",
       "url": "https://open.spotify.com/track/4rezds0Va7LDCDH3gvlf2b"
@@ -17098,7 +17098,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 137125,
       "name": "Santo",
       "url": "https://open.spotify.com/track/3LHuL8QHNLs5xJYLha2sxd"
@@ -20323,6 +20323,24 @@
     },
     {
       "album": {
+        "name": "Vibra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5yNQz4Zf4SYwygZk7hTE7c"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161401,
+      "name": "Vibra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7FmrORHUYaNlBF1lS0HayP"
+    },
+    {
+      "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
       },
@@ -20432,7 +20450,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "VILA MENCK, OSASCO",
       "url": "https://open.spotify.com/track/3IZxVLDlrt6Dj3VLxtKVtF"

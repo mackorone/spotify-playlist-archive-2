@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "broken wilderness",
+        "url": "https://open.spotify.com/album/1aTpU1vqd5vBbMUU3rtYzg"
+      },
+      "artists": [
+        {
+          "name": "emptyshape",
+          "url": "https://open.spotify.com/artist/5uhXTVZhYVCspG4dSLRI9t"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145657,
+      "name": "broken wilderness",
+      "url": "https://open.spotify.com/track/5jOnLdZOhegy9yXNM9V4TW"
+    },
+    {
+      "album": {
         "name": "Journey To Neptune",
         "url": "https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf"
       },
@@ -697,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/43p8Rdk8Y4TLXVYtwpsqe9"
+      },
+      "artists": [
+        {
+          "name": "Ophra",
+          "url": "https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185647,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/3TQQkJUq8DCgk2MA5EKBbz"
+    },
+    {
+      "album": {
         "name": "My Places",
         "url": "https://open.spotify.com/album/0hBJ0y5ms0sU5j2tK7X75J"
       },
@@ -1043,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "no sun, no moon",
+        "url": "https://open.spotify.com/album/4KMt3TsMmo7cLINvF2KntK"
+      },
+      "artists": [
+        {
+          "name": "eidra",
+          "url": "https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM"
+        },
+        {
+          "name": "Blocktane",
+          "url": "https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115008,
+      "name": "no sun, no moon",
+      "url": "https://open.spotify.com/track/0vsXb5ggQjCF23QcDiffXA"
+    },
+    {
+      "album": {
         "name": "Opalescent",
         "url": "https://open.spotify.com/album/04GI4HyiQkhccc95GVAaan"
       },
@@ -1112,6 +1170,42 @@
       "duration_ms": 357293,
       "name": "P.S.R.",
       "url": "https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q"
+    },
+    {
+      "album": {
+        "name": "paris",
+        "url": "https://open.spotify.com/album/4f2YTF6QL1LEKJfXklHBzg"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "paris",
+      "url": "https://open.spotify.com/track/3O1DUdg4xkeKI6z2u2xMRf"
+    },
+    {
+      "album": {
+        "name": "Parl\u00e9 dans la langue des paillettes",
+        "url": "https://open.spotify.com/album/2QmAgUTf42Lg5awMLslclN"
+      },
+      "artists": [
+        {
+          "name": "Huma",
+          "url": "https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Parl\u00e9 dans la langue des paillettes",
+      "url": "https://open.spotify.com/track/52vEbOajSxFD9vXwffFB64"
     },
     {
       "album": {
@@ -1318,6 +1412,24 @@
       "duration_ms": 209443,
       "name": "Pulso B",
       "url": "https://open.spotify.com/track/61Xb7G9uaMAXpBhvpWVm7M"
+    },
+    {
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/28vCeoxxlwX3AQhEizA2mv"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/0D8dSL6BonNuXrEPrHGu1W"
     },
     {
       "album": {

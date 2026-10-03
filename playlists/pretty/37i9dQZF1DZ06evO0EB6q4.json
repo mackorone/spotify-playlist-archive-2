@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 269079,
+  "num_followers": 269109,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADWLd2wRTh7dJ6j11Qyw2I1",
+  "snapshot_id": "ar2igAAAAABsQLdIwYVokkEb2qoDbeMd",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 188193,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi amor",
-        "url": "https://open.spotify.com/album/1W1xb28Qsjn4PEzfF5TWyE"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 178619,
-      "name": "Mi amor",
-      "url": "https://open.spotify.com/track/4MSfzsuYdlcvNH1jogSjb2"
     },
     {
       "added_at": null,
@@ -315,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 135998,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/7lkoSBTAVsOAZFko4ONiCo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Ti Estoy Bien",
         "url": "https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw"
       },
@@ -331,22 +327,6 @@
       "duration_ms": 221696,
       "name": "Sin Ti Estoy Bien",
       "url": "https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 135998,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/7lkoSBTAVsOAZFko4ONiCo"
     },
     {
       "added_at": null,
@@ -411,6 +391,26 @@
       "duration_ms": 246000,
       "name": "Los No Tan Tristes",
       "url": "https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No me mor\u00ed",
+        "url": "https://open.spotify.com/album/4fFDp5fJdBehUTf374Pkbo"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "No me mor\u00ed",
+      "url": "https://open.spotify.com/track/7bu697MG4wJI3NRapdAkv0"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 155198,
-      "name": "Parece un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
       },
@@ -523,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No me mor\u00ed",
-        "url": "https://open.spotify.com/album/4fFDp5fJdBehUTf374Pkbo"
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 161052,
-      "name": "No me mor\u00ed",
-      "url": "https://open.spotify.com/track/7bu697MG4wJI3NRapdAkv0"
+      "duration_ms": 155198,
+      "name": "Parece un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
     },
     {
       "added_at": null,
@@ -619,6 +599,26 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi amor",
+        "url": "https://open.spotify.com/album/1W1xb28Qsjn4PEzfF5TWyE"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 178619,
+      "name": "Mi amor",
+      "url": "https://open.spotify.com/track/4MSfzsuYdlcvNH1jogSjb2"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pienses Que Me Fui",
+        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "No Pienses Que Me Fui",
+      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -799,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pienses Que Me Fui",
-        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
+        "name": "LQRA Session #7",
+        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
       },
       "artists": [
         {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
         },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 150186,
-      "name": "No Pienses Que Me Fui",
-      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+      "duration_ms": 169642,
+      "name": "LQRA Session #7",
+      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
     },
     {
       "added_at": null,
@@ -835,26 +855,6 @@
       "duration_ms": 203456,
       "name": "Me Gustas M\u00e1s Que Salir a Fumar",
       "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LQRA Session #7",
-        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 169642,
-      "name": "LQRA Session #7",
-      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
     },
     {
       "added_at": null,

@@ -3893,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Polvo Marginal",
+        "url": "https://open.spotify.com/album/6VCbYaDfssI0AgRfkiQXO5"
+      },
+      "artists": [
+        {
+          "name": "Gast\u00f3n Lipszyc",
+          "url": "https://open.spotify.com/artist/11TEkvEglT7eI6gP8uscKf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199750,
+      "name": "La Felicidad no es una Pastilla Rosa",
+      "url": "https://open.spotify.com/track/0s8m63thmLDfNIfCa8Qqaf"
+    },
+    {
+      "album": {
         "name": "Angelo Pierattini",
         "url": "https://open.spotify.com/album/6Jih4HahNERdZIurZA14V7"
       },
@@ -6843,6 +6861,24 @@
     },
     {
       "album": {
+        "name": "QUEMA",
+        "url": "https://open.spotify.com/album/04JYymHaBH7cIfCnVkJ9f1"
+      },
+      "artists": [
+        {
+          "name": "Orne Gio",
+          "url": "https://open.spotify.com/artist/2ziNlzrVwDdzNu1Cwbl5Ox"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/7CfcA6vcLPa0hIcQHW3CnQ"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Tal Si",
         "url": "https://open.spotify.com/album/4XHpR6MehJc55fHzZ9jzre"
       },
@@ -8360,7 +8396,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
@@ -9112,7 +9148,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 223532,
       "name": "Ya No Mires Atr\u00e1s",
       "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"

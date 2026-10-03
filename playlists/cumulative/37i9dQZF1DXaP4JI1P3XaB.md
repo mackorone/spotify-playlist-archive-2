@@ -4,7 +4,7 @@
 
 > A warm glittering glow of ambient jazz.
 
-92 songs - 7 hr 42 min
+93 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,10 @@
 | [Ancient Love](https://open.spotify.com/track/4WMvTTx4VcBVERFHrawIUx) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK), [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs), [Nat Birchall](https://open.spotify.com/artist/2W5gU4Vi0nwisoXPARdvIy), [Sharananda](https://open.spotify.com/artist/0izbcAVzO6nug55gQKTL0S) | [Crescendo](https://open.spotify.com/album/3Qp69sEkyySqYARGu6xMcX) | 4:01 | 2026-02-27 | 2026-04-18 |
 | [Anechoic Sunset](https://open.spotify.com/track/1MdgzASNcQNh4qBQ07EvUq) | [Luke Stewart](https://open.spotify.com/artist/47Hm7AeE0GmaiZExP1Y6L4), [Jarvis Earnshaw](https://open.spotify.com/artist/50d6mRSAlfiEKpjLlqPTxH) | [Luke Stewart & Jarvis Earnshaw Quartet](https://open.spotify.com/album/1UN3U6lY1qutuaX1x4UpEe) | 7:41 | 2026-02-27 | 2026-04-18 |
 | [Ants To You, Gods To Who ?](https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 6:42 | 2026-05-29 | 2026-06-19 |
-| [Aurora](https://open.spotify.com/track/1h8mF0iwlMSf9BCoUP9sX6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 5:22 | 2026-02-27 |  |
+| [Aurora](https://open.spotify.com/track/1h8mF0iwlMSf9BCoUP9sX6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 5:22 | 2026-02-27 | 2026-10-03 |
 | [Azimuth \(John Taylor\)](https://open.spotify.com/track/6lxxvqCJT0Bbd7i919biu1) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Movement](https://open.spotify.com/album/7r8WcFH2Vgxb5cNNOgb6o3) | 5:15 | 2026-06-19 |  |
 | [Becalmed](https://open.spotify.com/track/0uBV9lnl1s9k8OGKx1ccmu) | [Food](https://open.spotify.com/artist/5UH0MJYNrZoaqu9P0A3SII), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Quiet Inlet](https://open.spotify.com/album/51x1ZT69ErNwKqRb9FBo38) | 7:51 | 2026-02-27 | 2026-03-28 |
+| [Blue Ba\-Ya](https://open.spotify.com/track/5dStEB8lv0IYravjnzfMWS) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Music Is Invisible \(Pentimento Volume Three\)](https://open.spotify.com/album/7y6nrogjpYO43Z0V1Gdlq8) | 11:23 | 2026-10-02 |  |
 | [Calico Corners](https://open.spotify.com/track/6P7a7yqbOpoOXWqwZY0QFr) | [G.S\. Schray](https://open.spotify.com/artist/4PQMNbMO9wHRTui4lIi57z) | [Whispered Something Good](https://open.spotify.com/album/1YwJgHCzIdJ5s1zAdvCHiD) | 4:42 | 2026-02-27 |  |
 | [Chimes in the Garden](https://open.spotify.com/track/4532RaXEys5YCZQDl4Z7tr) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Openness Trio](https://open.spotify.com/album/3DCn9TV1eddK9j4EKqWo84) | 9:58 | 2026-02-27 | 2026-07-04 |
 | [Cloud Prints](https://open.spotify.com/track/4u6B2B9byWcAHAyqmEnRlY) | [Walt McClements](https://open.spotify.com/artist/4WXIlTVz6YDyV1iVQHU3IE), [Aurora Nealand](https://open.spotify.com/artist/4LGOQLuOw8fgTxJEB8wngD) | [On a Painted Ocean](https://open.spotify.com/album/3mJclw320fiBWuQxpzL843) | 4:12 | 2026-02-27 | 2026-03-13 |

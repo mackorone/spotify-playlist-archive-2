@@ -1137,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "No Necesito",
+        "url": "https://open.spotify.com/album/1wcMrs2Co0NFMBTJ8Tn1rS"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224630,
+      "name": "No Necesito",
+      "url": "https://open.spotify.com/track/2qwtFxrZTHnLdZTV1aXjfd"
+    },
+    {
+      "album": {
         "name": "No S\u00e9 Si Salga El Sol (Remix)",
         "url": "https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD"
       },

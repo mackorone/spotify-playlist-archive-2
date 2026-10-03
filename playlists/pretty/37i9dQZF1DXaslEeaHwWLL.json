@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 93178,
+  "num_followers": 93212,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "El Amante",
+      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
         "name": "Pa Ti",
         "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 191294,
       "name": "Pa Ti",
       "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "El Amante",
-      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Si T\u00fa La Ves (feat. Wisin)",
+      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
         "name": "Me Mata",
         "url": "https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI"
       },
@@ -603,26 +623,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Si T\u00fa La Ves (feat. Wisin)",
-      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "La Rompe Corazones",
         "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 204520,
       "name": "La Rompe Corazones",
       "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232549,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -711,6 +691,26 @@
       "duration_ms": 238160,
       "name": "Que Va",
       "url": "https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 195999,
-      "name": "Perro Fiel (feat. Nicky Jam)",
-      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "3 A.M.",
         "url": "https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 183573,
       "name": "3 A.M.",
       "url": "https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Perro Fiel (feat. Nicky Jam)",
+      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "Tu No Metes Cabra",
         "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 170762,
       "name": "Tu No Metes Cabra",
       "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 218306,
       "name": "Por el Momento (feat. Plan B)",
       "url": "https://open.spotify.com/track/1GZZELGFwWsi2oLE1v1eyQ"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
     },
     {
       "added_at": "2024-07-13 01:15:47",

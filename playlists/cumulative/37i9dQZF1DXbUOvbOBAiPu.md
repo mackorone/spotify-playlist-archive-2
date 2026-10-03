@@ -4,7 +4,7 @@
 
 > New music from Judith, La Mano 1.9, Suzan & Freek, Angèle, x Caroline Polachek, SebastiAn and more...
 
-12,045 songs - 26 day 5 hr 40 min
+12,046 songs - 26 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7286,6 +7286,7 @@
 | [Niet Nodig](https://open.spotify.com/track/0OVYhtxxWQn2pcs3XR095M) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Niet Nodig](https://open.spotify.com/album/4bo2xHn60vQOvWphKHzt7u) | 2:43 | 2025-12-04 | 2025-12-12 |
 | [Niet Voor Altijd](https://open.spotify.com/track/2nPyVwCxbuW2XGBjBxCKLU) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Niet Voor Altijd](https://open.spotify.com/album/5IB2iReR0SLq5F5zKDSZ2H) | 3:13 | 2026-01-29 | 2026-02-06 |
 | [Niet Zo](https://open.spotify.com/track/6z3OAI3sNI3TguCplTEfmN) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Niet Zo](https://open.spotify.com/album/6GiB5mZT5uDEdmwD02JJNu) | 2:42 | 2025-05-22 | 2025-05-30 |
+| [Niets Doen](https://open.spotify.com/track/1mEV7KSc5jqIBjRTXFU5D7) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Niets Doen](https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S) | 3:54 | 2026-10-02 |  |
 | [Niets Nog Wat Het Was](https://open.spotify.com/track/6zUPsSlOCMZcXIFj4BZflN) | [Kommil Foo](https://open.spotify.com/artist/68X7EQtVYHuUAYoFilK3wE) | [Niets Nog Wat Het Was](https://open.spotify.com/album/2evSlLN0mQsEqmthycCV7s) | 3:43 | 2024-09-26 | 2024-10-04 |
 | [Nieuport Beach Ft\. BEN PLG](https://open.spotify.com/track/4rqBGwPRAMjxMb6XMKRjFd) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Champagne en canette](https://open.spotify.com/album/1us9LOlrL2I6jySgwAJ21N) | 2:19 | 2026-04-23 | 2026-05-01 |
 | [NIEUWE LEVELS](https://open.spotify.com/track/7j196RHBWUJengogAIhzh7) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [LE MASQUE](https://open.spotify.com/album/7iSBhomDNkbQ9r0bJAa2Jm) | 2:04 | 2026-04-02 | 2026-04-10 |
@@ -8765,7 +8766,7 @@
 | [Rihanna](https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Rihanna](https://open.spotify.com/album/7jvhFuArohMk5JOGfhH84L) | 3:28 | 2026-04-23 | 2026-05-01 |
 | [Rihanna](https://open.spotify.com/track/49w3f0FJLmHw0YSzAevGkT) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Dans Ma Bulle](https://open.spotify.com/album/0HHSgD1xD3dhOkYwZwtRRc) | 2:57 | 2025-12-18 | 2026-01-02 |
 | [Ring By Spring](https://open.spotify.com/track/2GX51QSc11hVgtltNPUINv) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Ring By Spring](https://open.spotify.com/album/50rGdsJG018ecukWIkjUJ6) | 3:07 | 2024-09-05 | 2024-09-13 |
-| [Ring d’Anvers](https://open.spotify.com/track/7dONsabhDrIQGJsZ9ZpmYO) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Ring d’Anvers](https://open.spotify.com/album/42wDka1eRqo4MlXiMnaGR1) | 2:16 | 2026-10-01 |  |
+| [Ring d’Anvers](https://open.spotify.com/track/7dONsabhDrIQGJsZ9ZpmYO) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [Ring d’Anvers](https://open.spotify.com/album/42wDka1eRqo4MlXiMnaGR1) | 2:16 | 2026-10-01 |  |
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-24 | 2025-08-01 |
 | [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 | 2025-12-04 | 2025-12-12 |
 | [RINGTONE](https://open.spotify.com/track/3hwF82gqPyi3GdQLVcxVpp) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [BEAUTIFUL DAY](https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa) | 2:38 | 2026-04-23 | 2026-05-01 |

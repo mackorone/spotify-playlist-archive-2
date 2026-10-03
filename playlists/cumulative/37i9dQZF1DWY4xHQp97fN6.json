@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "Mood: Turnt Cover: Lil Baby",
+  "description": "Mood: Turnt Cover: Future",
   "name": "Get Turnt",
   "tracks": [
     {
@@ -1537,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149159,
+      "name": "BA (feat. Future)",
+      "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
+    },
+    {
+      "album": {
         "name": "Baby Shark",
         "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
       },
@@ -2666,7 +2688,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 160346,
       "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
       "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
@@ -3310,7 +3332,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 170277,
       "name": "BLITZED",
       "url": "https://open.spotify.com/track/1TstrfxAQvSPaBB8gDKzq7"
@@ -6802,7 +6824,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 151593,
       "name": "EARN\u00cbD IT",
       "url": "https://open.spotify.com/track/0F0uSTQGmuF1JxmEtbZFxw"
@@ -7190,6 +7212,24 @@
       "duration_ms": 144840,
       "name": "Eye To Eye",
       "url": "https://open.spotify.com/track/5DZC0qdqkeUC3H5yoyRW43"
+    },
+    {
+      "album": {
+        "name": "F You",
+        "url": "https://open.spotify.com/album/4TPOzSWHrWZb8hhrr3z7n2"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128566,
+      "name": "F You",
+      "url": "https://open.spotify.com/track/5GJNSOZzuQ6mFYu4a2E54O"
     },
     {
       "album": {
@@ -8733,6 +8773,28 @@
     },
     {
       "album": {
+        "name": "LOCKED IN",
+        "url": "https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "GASS (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y"
+    },
+    {
+      "album": {
         "name": "GBG (feat. Marshmello)",
         "url": "https://open.spotify.com/album/6Dnz4ttJCfBT9ZgsswTa1E"
       },
@@ -9540,7 +9602,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 149640,
       "name": "GOMF (feat. GloRilla)",
       "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
@@ -23072,6 +23134,28 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+    },
+    {
+      "album": {
+        "name": "Too Bad",
+        "url": "https://open.spotify.com/album/1pViF08uTEe946q9mJKLxb"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162377,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/3VoUVDtqurOSmVB9W49l4Q"
     },
     {
       "album": {

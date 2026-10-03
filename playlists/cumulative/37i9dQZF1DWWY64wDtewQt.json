@@ -11129,6 +11129,28 @@
     },
     {
       "album": {
+        "name": "MONTAGEM ROYAL",
+        "url": "https://open.spotify.com/album/3sL1xjPFSx0hPXqKeQATkp"
+      },
+      "artists": [
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165825,
+      "name": "MONTAGEM ROYAL - SLOWED",
+      "url": "https://open.spotify.com/track/2cyeUeqXKN6alqJQxbzQpw"
+    },
+    {
+      "album": {
         "name": "MONTAGEM RUGADA",
         "url": "https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n"
       },
@@ -11838,7 +11860,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 68312,
       "name": "NADA DE NADA",
       "url": "https://open.spotify.com/track/397jCX8wRPKsSZTDcAUccg"
@@ -13622,6 +13644,24 @@
       "duration_ms": 155471,
       "name": "Priviet Priviet Funk",
       "url": "https://open.spotify.com/track/3iyWPAOj05R88SIkFjBTdj"
+    },
+    {
+      "album": {
+        "name": "PROS BANDIDO",
+        "url": "https://open.spotify.com/album/69r1iymHW8P8HcTxmM1py3"
+      },
+      "artists": [
+        {
+          "name": "MATORO",
+          "url": "https://open.spotify.com/artist/1L1T6dVeD1s1OMwCLdxGuu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118807,
+      "name": "PROS BANDIDO - ULTRA SLOWED",
+      "url": "https://open.spotify.com/track/6jjCBwlpwDPaL3WZa8ZpwK"
     },
     {
       "album": {
@@ -18526,7 +18566,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 83995,
       "name": "YOSHO HAI MONTAGEM",
       "url": "https://open.spotify.com/track/0AVvy2eRQas5xX2EOk3G9h"

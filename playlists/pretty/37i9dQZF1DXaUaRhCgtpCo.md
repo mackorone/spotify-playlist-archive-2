@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,034 likes - 89 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,080 likes - 90 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 87 | [Meet Han](https://open.spotify.com/track/7BVvVmczBoVmVeWr8KMafb) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 2:20 |
 | 88 | [Jabba Flow \- From "Star Wars: The Force Awakens"](https://open.spotify.com/track/0UO2Vjeo0H3LB9eVeOUmOf) | [Shag Kava](https://open.spotify.com/artist/6FaemkK7TGHziDP6UGijh3) | [Jabba Flow \(From "Star Wars: The Force Awakens"\)](https://open.spotify.com/album/0InGiWEfdNJP4YP4Axrvna) | 1:38 |
 | 89 | [Star Wars Main Title and the Arrival at Naboo](https://open.spotify.com/track/3UqSTlEwO5spY8YL3GfQGv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 2:55 |
+| 90 | [The Soul of Racing \(Main Theme\) \- From "Star Wars: Galactic Racer"](https://open.spotify.com/track/7DdAeRJWmIVMzES3he1Zvz) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [The Soul of Racing \(Main Theme\) \[From "Star Wars: Galactic Racer"\]](https://open.spotify.com/album/38NOnClJATSTssK1XcWHxi) | 2:14 |
 
-Snapshot ID: `AAAAALPIiw51rnWu6OhkD1T0lyxTgj3j`
+Snapshot ID: `AAAAALkBs3MfaO9I+xjgkKJWm1/UR9iJ`

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-481 songs - 1 day 0 hr 41 min
+482 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-08-11 |
 | [Feelings Fade](https://open.spotify.com/track/0waYUrVgNfMbrIpImHgKg9) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Wwings](https://open.spotify.com/artist/3tqTQFEyGKpdsDZjlxjyqS) | [Feelings Fade](https://open.spotify.com/album/3Rmh9O67BIF8Y86djdKFSa) | 3:02 | 2025-01-31 |  |
 | [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 | 2024-03-15 |  |
+| [Fight In Me](https://open.spotify.com/track/0vFUxkeaKb4HxXIelQYGiN) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [Fight In Me](https://open.spotify.com/album/7JTp2khsUq9awc6jKMH8mV) | 3:12 | 2026-10-02 |  |
 | [Fighting Fire](https://open.spotify.com/track/3Rc7nlZh9tRkvUExvAOFtO) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0), [Linn Sandin](https://open.spotify.com/artist/3zr3aDseqNYhcqexvcS5ir) | [Fighting Fire](https://open.spotify.com/album/6Gfa4UrB7ufXMCEjcESdWP) | 2:47 | 2022-02-03 | 2023-08-11 |
 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 | 2023-08-11 |
 | [Find You There](https://open.spotify.com/track/2WxmjSYBgaswXqyWI0HPfE) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Find You There](https://open.spotify.com/album/2xpDatXqJ7n62gtGutnhOP) | 4:02 | 2022-02-03 | 2023-08-11 |

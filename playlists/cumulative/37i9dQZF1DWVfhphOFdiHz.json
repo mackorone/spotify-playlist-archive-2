@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'Till Death Do Us Part",
+        "url": "https://open.spotify.com/album/4fBuBX7E1oV8IoXvYLgY3I"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229563,
+      "name": "'Till Death Do Us Part",
+      "url": "https://open.spotify.com/track/6hs6ijvryIrc3E881sDw3f"
+    },
+    {
+      "album": {
         "name": "(You Drive Me) Crazy",
         "url": "https://open.spotify.com/album/0Z9coRNd9nc3lK8FAFGwRx"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 129206,
       "name": "2 GIRLS",
       "url": "https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60"
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 217536,
       "name": "COME2ME",
       "url": "https://open.spotify.com/track/2ynasQ0XWUQbY6SXB4YGLa"
@@ -2834,7 +2852,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 168883,
       "name": "EAT U ALIVE",
       "url": "https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK"
@@ -3643,6 +3661,28 @@
     },
     {
       "album": {
+        "name": "Fuck the Pain Away (Clive Barker\u2019s Hellraiser: Revival Rework)",
+        "url": "https://open.spotify.com/album/6M0EyUr9w5Dr393iZ9We9f"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        },
+        {
+          "name": "Steve Molitz",
+          "url": "https://open.spotify.com/artist/3WGaJLPVLhVu2ZuQpnKNtx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Fuck the Pain Away - Clive Barker\u2019s Hellraiser: Revival Rework",
+      "url": "https://open.spotify.com/track/0m361jk1BRsU73Zv2EwOez"
+    },
+    {
+      "album": {
         "name": "Fuetazo (feat. Villano Antillano)",
         "url": "https://open.spotify.com/album/14GJrju93uE5fZCslmD2UR"
       },
@@ -4140,7 +4180,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 229911,
       "name": "God Has A Hitman",
       "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
@@ -4284,7 +4324,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 160146,
       "name": "Good Luck and Don\u2019t F%k It Up (Matt Pop Remix)",
       "url": "https://open.spotify.com/track/4AGBnT96qI3DlTheMSfWI8"
@@ -5592,7 +5632,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 169500,
       "name": "INFRARED",
       "url": "https://open.spotify.com/track/0XZQ69bAYRgJawPiMNBTMI"
@@ -6330,7 +6370,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 282949,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
@@ -6598,6 +6638,28 @@
       "duration_ms": 211666,
       "name": "Live For Me",
       "url": "https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n"
+    },
+    {
+      "album": {
+        "name": "LOLLIPOP",
+        "url": "https://open.spotify.com/album/5jFlusJ45Ma9q9yXfunAUT"
+      },
+      "artists": [
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        },
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "LOLLIPOP",
+      "url": "https://open.spotify.com/track/7E3UP6YUTplvpnBfaSjEiG"
     },
     {
       "album": {
@@ -7693,6 +7755,24 @@
     },
     {
       "album": {
+        "name": "Returning To Myself (Sad Gay Version)",
+        "url": "https://open.spotify.com/album/0XxNrO1OVqVBQdPoXz8pdz"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259799,
+      "name": "No One Knows Us - Sad Gay Version",
+      "url": "https://open.spotify.com/track/0eR1kKRLkbqxXSHYqEynfq"
+    },
+    {
+      "album": {
         "name": "no one's son",
         "url": "https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q"
       },
@@ -7960,6 +8040,24 @@
       "duration_ms": 159198,
       "name": "OLD TECHNOLOGY",
       "url": "https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v"
+    },
+    {
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/1TKZ9Nq2LkC1FueWEETwaK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Andryk",
+          "url": "https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187860,
+      "name": "Once Upon An Aquarian Moon",
+      "url": "https://open.spotify.com/track/7ro1kMf0qPd38qePNM2pkz"
     },
     {
       "album": {
@@ -8762,6 +8860,24 @@
       "duration_ms": 189933,
       "name": "Queen of Texas",
       "url": "https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s"
+    },
+    {
+      "album": {
+        "name": "Queens",
+        "url": "https://open.spotify.com/album/58mb074KdbNxpLKrkvDZej"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387646,
+      "name": "Queens",
+      "url": "https://open.spotify.com/track/38BxonKtYegINzHKASHfty"
     },
     {
       "album": {
@@ -10360,7 +10476,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 176461,
       "name": "Take It Or Leave It",
       "url": "https://open.spotify.com/track/6I3OyVYDu01VYVdTT7lkyS"

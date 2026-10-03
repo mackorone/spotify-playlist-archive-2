@@ -858,7 +858,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 252413,
       "name": "Beneath The Silence",
       "url": "https://open.spotify.com/track/6pjoDOlQKTrkTIDocNfO87"
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 212568,
       "name": "Home",
       "url": "https://open.spotify.com/track/4OsCyMfQCcj8ul3ZdkekL2"
@@ -4922,7 +4922,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 224886,
       "name": "Love Is The Cure",
       "url": "https://open.spotify.com/track/5tG9JP0rl2bIASUdQvGYZv"
@@ -5732,7 +5732,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 236222,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/7GNTGBFeaB4GyMRSx2bObF"
@@ -7347,6 +7347,28 @@
     },
     {
       "album": {
+        "name": "Sky Falls Down (Downtempo Version)",
+        "url": "https://open.spotify.com/album/4XZ5NfeerRmse1C1W4htEc"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "OceanLab",
+          "url": "https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233606,
+      "name": "Sky Falls Down - Downtempo Edit",
+      "url": "https://open.spotify.com/track/26wbKLOTWmwaJmCW3tq0TX"
+    },
+    {
+      "album": {
         "name": "Sleep Is Sacrament",
         "url": "https://open.spotify.com/album/7ySRbBRPt31mah1cwD29g0"
       },
@@ -7600,6 +7622,32 @@
       "duration_ms": 193531,
       "name": "Solace",
       "url": "https://open.spotify.com/track/27DozBowhDYuHNExnzbipt"
+    },
+    {
+      "album": {
+        "name": "Solitude (V\u00e1r Sofandi Rework)",
+        "url": "https://open.spotify.com/album/0FiDWbJ3kAUpnNUmzuEw8W"
+      },
+      "artists": [
+        {
+          "name": "Tontario",
+          "url": "https://open.spotify.com/artist/3xsaixRLT6xSUDjtLehSyj"
+        },
+        {
+          "name": "Lake Jons",
+          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
+        },
+        {
+          "name": "V\u00e1r Sofandi",
+          "url": "https://open.spotify.com/artist/0dFlJeGDHPxcno8Arrvdbz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Solitude - V\u00e1r Sofandi Rework",
+      "url": "https://open.spotify.com/track/6Me9BVgGolSbyrSvbloPwX"
     },
     {
       "album": {
@@ -8002,7 +8050,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 272975,
       "name": "Sweet Mistake - Mark Novas Revisit",
       "url": "https://open.spotify.com/track/22K4LxC5HmgxOVBZQmFQXn"
@@ -8832,7 +8880,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 233933,
       "name": "Vlor\u00eb - Carbon Based Lifeforms Remix",
       "url": "https://open.spotify.com/track/40dbBTlXlEd0h2bywj6iQz"

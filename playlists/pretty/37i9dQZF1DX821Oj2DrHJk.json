@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 32634,
+  "num_followers": 32636,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
-      "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Who",
         "url": "https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 264440,
       "name": "Join Together",
       "url": "https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "A Night At The Opera (2011 Remaster)",
-        "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "You're My Best Friend - Remastered 2011",
-      "url": "https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Made In The Shade",
         "url": "https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 229626,
       "name": "Brown Sugar - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/7bdBuquSmLkOR81YMSuRV5"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "A Night At The Opera (2011 Remaster)",
+        "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "You're My Best Friend - Remastered 2011",
+      "url": "https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 261773,
-      "name": "D'yer Mak'er - 1990 Remaster",
-      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
+      "duration_ms": 289360,
+      "name": "Over the Hills and Far Away - 1990 Remaster",
+      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 289360,
-      "name": "Over the Hills and Far Away - 1990 Remaster",
-      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
+      "duration_ms": 261773,
+      "name": "D'yer Mak'er - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
     },
     {
       "added_at": "2024-07-12 14:53:15",

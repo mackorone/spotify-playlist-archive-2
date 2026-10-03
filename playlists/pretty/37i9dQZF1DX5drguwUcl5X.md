@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5drguwUcl5X.md) - [plain]
 
 ### [Teen Spirit](https://open.spotify.com/playlist/37i9dQZF1DX5drguwUcl5X)
 
-> beats for teens\. Beabadoobee on cover.
+> beats for teens\. Holly Humberstone on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,850 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,836 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Write Me A Letter](https://open.spotify.com/track/36QI2eDCeH9SJQ8g7oTSoj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/5CUNbeziis6Q3LWXoqxkDf) | 3:14 |
-| 2 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 |
-| 3 | [Love Love](https://open.spotify.com/track/0s85l92YEFHiOH6rpFVUOj) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Reborn](https://open.spotify.com/album/3hGRELct290WGa6yiJCsb5) | 2:19 |
-| 4 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 |
-| 5 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
-| 6 | [Faded Eyes](https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Faded Eyes](https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE) | 2:57 |
-| 7 | [ROLLIN \- Remix](https://open.spotify.com/track/67wx36cWIXy1dC9oWDEzxF) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/0kle10LGeUeFCCEVyRZrrm) | 2:57 |
+| 1 | [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 |
+| 2 | [I Won’t Cry](https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:20 |
+| 3 | [LOLLIPOP](https://open.spotify.com/track/7E3UP6YUTplvpnBfaSjEiG) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [LOLLIPOP](https://open.spotify.com/album/5jFlusJ45Ma9q9yXfunAUT) | 3:05 |
+| 4 | [Write Me A Letter](https://open.spotify.com/track/36QI2eDCeH9SJQ8g7oTSoj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/5CUNbeziis6Q3LWXoqxkDf) | 3:14 |
+| 5 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 |
+| 6 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
+| 7 | [Faded Eyes](https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Faded Eyes](https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE) | 2:57 |
 | 8 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
 | 9 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 10 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5drguwUcl5X.md) - [plain]
 | 49 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
 | 50 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 
-Snapshot ID: `AAAAAPehqviWm86UoqT84zylR3IJu/KV`
+Snapshot ID: `AAAAAH3qULEiEzxw/kM6jnq0Nqokqbl8`

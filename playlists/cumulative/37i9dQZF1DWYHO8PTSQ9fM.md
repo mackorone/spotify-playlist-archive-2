@@ -2,9 +2,9 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> The hottest hits right now\. Cover: Tchubi
+> The hottest hits right now.
 
-580 songs - 1 day 6 hr 38 min
+581 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Ayay](https://open.spotify.com/track/44DBAjWwzFlUY2361xh6BW) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [R&B KINGZ](https://open.spotify.com/album/3568mNTIRB9KzRLFBYWCBh) | 3:05 | 2022-05-12 | 2022-06-07 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-05-22 | 2025-08-23 |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-06-16 | 2025-08-23 |
-| [B.M.S \(by my side\)](https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3) | 2:05 | 2026-02-23 |  |
+| [B.M.S \(by my side\)](https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3) | 2:05 | 2026-02-23 | 2026-10-03 |
 | [BABOUR LOU7](https://open.spotify.com/track/72h1HdEtR4XzLPvOigW8u8) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 3:39 | 2025-04-24 | 2025-06-03 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-04-16 | 2026-08-13 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-10 | 2025-08-06 |
@@ -60,6 +60,7 @@
 | [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2023-04-17 | 2023-04-22 |
 | [Batmana Ansak بتمنى أنساك](https://open.spotify.com/track/3kKLhAZs5khYrLKYudBlZk) | [Asma Nour](https://open.spotify.com/artist/124XssaocuYccXwQzZpIXE) | [Batmana Ansak بتمنى أنساك](https://open.spotify.com/album/1EiBvvVrzS8UieHjV2RUU8) | 2:58 | 2025-06-19 | 2025-07-08 |
 | [BAYNA](https://open.spotify.com/track/1tZDQqGmN6A6wOWPHkJoC1) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:05 | 2024-02-24 | 2024-04-16 |
+| [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 | 2026-10-02 |  |
 | [BEKHER](https://open.spotify.com/track/3pltTHpNDf2McNqokcSehx) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 3:04 | 2026-05-29 |  |
 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 | 2025-05-27 | 2026-04-21 |
 | [BERRANI](https://open.spotify.com/track/5fRt5UJxP854arL5XEgL5l) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [BERRANI](https://open.spotify.com/album/1E6ZveeUUKohVOqgple86P) | 3:54 | 2025-02-14 | 2025-06-20 |

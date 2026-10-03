@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 51892,
+  "num_followers": 51898,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACfeBiGxfUFe7Wxomogup26",
+  "snapshot_id": "ar2igAAAAAAT9jV+UUh6icemT/dWxssv",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 362800,
-      "name": "92\u00b0",
-      "url": "https://open.spotify.com/track/6is813aEOH9u4BzdpzLuQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rapture (Remastered / Expanded)",
         "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 362800,
+      "name": "92\u00b0",
+      "url": "https://open.spotify.com/track/6is813aEOH9u4BzdpzLuQu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 302266,
       "name": "Hall Of Mirrors",
       "url": "https://open.spotify.com/track/5LISRpPG4mWNNQA4XXMDtO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Cannons",
-      "url": "https://open.spotify.com/track/1sO7AFRF0DG9TFsjGL0Zmt"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kiss In The Dreamhouse",
-        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 219906,
-      "name": "She's A Carnival",
-      "url": "https://open.spotify.com/track/4LZsBU2b1qVAJGpX7kXkkL"
+      "duration_ms": 194466,
+      "name": "Cannons",
+      "url": "https://open.spotify.com/track/1sO7AFRF0DG9TFsjGL0Zmt"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 245146,
       "name": "The Killing Jar",
       "url": "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Kiss In The Dreamhouse",
+        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "She's A Carnival",
+      "url": "https://open.spotify.com/track/4LZsBU2b1qVAJGpX7kXkkL"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kiss In The Dreamhouse",
-        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Painted Bird",
-      "url": "https://open.spotify.com/track/7HilLn7wds2U0jUJGBBVXw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peepshow (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 229146,
       "name": "Ornaments Of Gold",
       "url": "https://open.spotify.com/track/7tomZBMWdeFHTIitQ5Eyar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Kiss In The Dreamhouse",
+        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Painted Bird",
+      "url": "https://open.spotify.com/track/7HilLn7wds2U0jUJGBBVXw"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superstition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 268133,
-      "name": "Shadowtime",
-      "url": "https://open.spotify.com/track/1tf394pxbmBkyJ37AUVWXi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peepshow (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 270946,
       "name": "The Last Beat Of My Heart",
       "url": "https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superstition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "Shadowtime",
+      "url": "https://open.spotify.com/track/1tf394pxbmBkyJ37AUVWXi"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "This Town Ain't Big Enough For Both Of Us",
-      "url": "https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Join Hands",
         "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 277173,
       "name": "Placebo Effect",
       "url": "https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "This Town Ain't Big Enough For Both Of Us",
+      "url": "https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ"
     },
     {
       "added_at": null,

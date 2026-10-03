@@ -1,12 +1,12 @@
 {
   "description": "sometimes i rush. cover: daine <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
-  "num_followers": 1184791,
+  "num_followers": 1184779,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANq+1pxI+MazUnDxDNV6Mw4IqsFg",
+  "snapshot_id": "AAAAACgx8eyOGN0cLliRAC7oiE/zn7ZQ",
   "tracks": [
     {
       "added_at": "2026-09-30 16:59:22",
@@ -179,6 +179,22 @@
       "duration_ms": 190176,
       "name": "kitchen",
       "url": "https://open.spotify.com/track/0WF786uDPhd2bp1z0Vnhml"
+    },
+    {
+      "added_at": "2026-10-02 16:27:35",
+      "album": {
+        "name": "The Rage",
+        "url": "https://open.spotify.com/album/3rATpXb10GsrrKV2Gzfavk"
+      },
+      "artists": [
+        {
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+        }
+      ],
+      "duration_ms": 220198,
+      "name": "The Rage",
+      "url": "https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc"
     },
     {
       "added_at": "2026-10-02 04:03:13",

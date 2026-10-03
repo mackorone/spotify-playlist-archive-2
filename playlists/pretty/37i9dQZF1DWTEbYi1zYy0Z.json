@@ -1,13 +1,65 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 91952,
+  "num_followers": 91985,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADcs0yfbRqhn85OhrQOm0c5wA2Ru",
+  "snapshot_id": "AAAAABZ+oY/qyxhu7O0n8MgqqF4AmNq9",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:00:34",
+      "album": {
+        "name": "A Simple Man",
+        "url": "https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Things Are Looking Up",
+      "url": "https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0"
+    },
+    {
+      "added_at": "2026-10-02 04:00:34",
+      "album": {
+        "name": "FaceTime",
+        "url": "https://open.spotify.com/album/61om1gZ99vIyd1rSKGEtw8"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 229747,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/5cfSKHoXLA7F9eLGUgMrpg"
+    },
+    {
+      "added_at": "2026-10-02 04:00:34",
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/6OwzNhcLXB8dIm9bpGVZQz"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 272902,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/6TMdQwrtqoP7DdC29TSFMS"
+    },
     {
       "added_at": "2026-09-25 04:00:34",
       "album": {
@@ -91,26 +143,6 @@
       "duration_ms": 269240,
       "name": "Apparently Not!",
       "url": "https://open.spotify.com/track/0w4A0ufbo7ZEvZ0ELrwtp1"
-    },
-    {
-      "added_at": "2026-08-28 04:00:54",
-      "album": {
-        "name": "Storybook [Feat. Larry Carlton]",
-        "url": "https://open.spotify.com/album/6ZSRQ2ZdhjCwkQENwIWLN1"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        },
-        {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Storybook [Feat. Larry Carlton]",
-      "url": "https://open.spotify.com/track/4P7S8NGNe7cqT5fIVs5Nkn"
     },
     {
       "added_at": "2026-09-12 03:59:08",
@@ -363,22 +395,6 @@
       "duration_ms": 227470,
       "name": "Ventura",
       "url": "https://open.spotify.com/track/7yN2EpncCSUH8bUdXcHep7"
-    },
-    {
-      "added_at": "2026-05-01 04:00:53",
-      "album": {
-        "name": "Brazilian Night",
-        "url": "https://open.spotify.com/album/0KQerobBYAAMshXm3iucPY"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 316084,
-      "name": "Brazilian Night",
-      "url": "https://open.spotify.com/track/63up8vVjcjeY9A4EhP8V4T"
     },
     {
       "added_at": "2026-04-24 04:03:16",
@@ -783,26 +799,6 @@
       "duration_ms": 261930,
       "name": "Too Good 2 Let Go",
       "url": "https://open.spotify.com/track/0apPen3CrIuhaYscmJIxRj"
-    },
-    {
-      "added_at": "2025-04-04 04:00:09",
-      "album": {
-        "name": "Alma de Lisbon (Radio Version)",
-        "url": "https://open.spotify.com/album/1VTGJ0VAPefmivnxtb59U9"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Kelvin Wooten",
-          "url": "https://open.spotify.com/artist/40zNVI046o2WME1SsGI9ih"
-        }
-      ],
-      "duration_ms": 328581,
-      "name": "Alma de Lisbon - Radio Version",
-      "url": "https://open.spotify.com/track/11CGam8X4wwtXBdu6D8jfk"
     },
     {
       "added_at": "2025-04-04 04:00:09",

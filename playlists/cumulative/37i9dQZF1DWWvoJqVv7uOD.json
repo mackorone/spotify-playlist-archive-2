@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: ROLE MODEL",
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Noah Kahan",
   "name": "Everyday Favorites ",
   "tracks": [
     {
@@ -3765,6 +3765,28 @@
     },
     {
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "album": {
         "name": "Songs of Sonder",
         "url": "https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow"
       },
@@ -7250,7 +7272,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 195869,
       "name": "I CAN TELL",
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
@@ -8768,7 +8790,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 223080,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C"
@@ -10008,7 +10030,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -13063,6 +13085,28 @@
     },
     {
       "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158026,
+      "name": "See You In My Dreams (feat. SZA)",
+      "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
+    },
+    {
+      "album": {
         "name": "WHO HURT YOU? (Deluxe)",
         "url": "https://open.spotify.com/album/0Y5fofxLKT5mqVsprWjbn5"
       },
@@ -14298,6 +14342,24 @@
       "duration_ms": 161811,
       "name": "Summer Baby",
       "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
+    },
+    {
+      "album": {
+        "name": "Summer Clothes",
+        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265505,
+      "name": "Summer Clothes",
+      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
     },
     {
       "album": {
@@ -16091,6 +16153,24 @@
     },
     {
       "album": {
+        "name": "Watch You Dance",
+        "url": "https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147720,
+      "name": "Watch You Dance",
+      "url": "https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg"
+    },
+    {
+      "album": {
         "name": "WDIA (Would Do It Again)",
         "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
       },
@@ -16628,7 +16708,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 173426,
       "name": "who\u2019s your boyfriend",
       "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"

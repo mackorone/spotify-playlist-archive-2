@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173988,
+  "num_followers": 173993,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAA8SCtT5ZDzxlAHmxcfw3hF",
+  "snapshot_id": "ar2igAAAAAAv4cxhLYUa1MMlw4+tFayb",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Four The Record",
-        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 259281,
       "name": "Tin Man",
       "url": "https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Four The Record",
+        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunset Marquis",
+        "url": "https://open.spotify.com/album/1Yt6FuJk4P5bR3PmqClGcb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "Sunset Marquis",
+      "url": "https://open.spotify.com/track/5PWgbO4uM1p0QGiIF0F6O3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fuse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 191746,
       "name": "We Were Us",
       "url": "https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunset Marquis",
-        "url": "https://open.spotify.com/album/1Yt6FuJk4P5bR3PmqClGcb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "Sunset Marquis",
-      "url": "https://open.spotify.com/track/5PWgbO4uM1p0QGiIF0F6O3"
     },
     {
       "added_at": null,

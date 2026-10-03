@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Desierto Drive en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Ervin River en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 221058,
       "name": "A Ciegas",
       "url": "https://open.spotify.com/track/1ObQCTqo42fBTjyFJTPWkO"
@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Antifiesta",
+        "url": "https://open.spotify.com/album/3JqKMLp1ykirxAukz2AgLy"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283386,
+      "name": "Antifiesta",
+      "url": "https://open.spotify.com/track/0NaXSXAAukAvEkzLiNB3Ax"
+    },
+    {
+      "album": {
         "name": "antonio banderas",
         "url": "https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh"
       },
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 146865,
       "name": "Bang!",
       "url": "https://open.spotify.com/track/3xVDqIG1dhl6bfbxsKODkZ"
@@ -4662,7 +4680,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 173800,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl"
@@ -5002,6 +5020,24 @@
       "duration_ms": 137341,
       "name": "El Lago Del Alma",
       "url": "https://open.spotify.com/track/59kj2ypafaGxDX0yDZrNqW"
+    },
+    {
+      "album": {
+        "name": "el mismo SHOW!",
+        "url": "https://open.spotify.com/album/1qLr8YuVe892UtAXAIMREr"
+      },
+      "artists": [
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179997,
+      "name": "el mismo SHOW!",
+      "url": "https://open.spotify.com/track/742ykdDoTvH6kamZDUy7Ar"
     },
     {
       "album": {
@@ -6945,6 +6981,24 @@
     },
     {
       "album": {
+        "name": "No Se Puede Negar",
+        "url": "https://open.spotify.com/album/5xyIO2pm4o8eThCS68MDbE"
+      },
+      "artists": [
+        {
+          "name": "Zyanya",
+          "url": "https://open.spotify.com/artist/10Q8hJxeiEUVGm5MoFTqeB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Incierto",
+      "url": "https://open.spotify.com/track/5jxZhZiYaRBr7h2ovPgJxV"
+    },
+    {
+      "album": {
         "name": "Inclemencia del tiempo",
         "url": "https://open.spotify.com/album/4rqFMWfqiugSGApLfNozEj"
       },
@@ -7032,7 +7086,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 206520,
       "name": "Instrucciones",
       "url": "https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR"
@@ -9941,6 +9995,28 @@
     },
     {
       "album": {
+        "name": "MIS L\u00c1GRIMAS",
+        "url": "https://open.spotify.com/album/0h8ySx6u9eLkaW42GhVXvA"
+      },
+      "artists": [
+        {
+          "name": "Compa Steve",
+          "url": "https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266150,
+      "name": "MIS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/3nBTjrgTyKW7hQwBTfa63J"
+    },
+    {
+      "album": {
         "name": "Misil",
         "url": "https://open.spotify.com/album/31dexdfSL262BCQPRBZrMq"
       },
@@ -12551,6 +12627,24 @@
     },
     {
       "album": {
+        "name": "Puto invierno",
+        "url": "https://open.spotify.com/album/6ZniuDkRHXa80LvcPUbhnA"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Puto invierno",
+      "url": "https://open.spotify.com/track/1O3TIQ3ewqjdzhiy9M7gwV"
+    },
+    {
+      "album": {
         "name": "P\u00f3lvora",
         "url": "https://open.spotify.com/album/3JqGrzsy5ogAHAshKRv7Ef"
       },
@@ -12824,7 +12918,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 289033,
       "name": "Rabia del Coraz\u00f3n - Spotify Sessions",
       "url": "https://open.spotify.com/track/09bdneL61K2znTspwtQYeG"

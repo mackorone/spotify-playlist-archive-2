@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-712 songs - 2 day 1 hr 3 min
+713 songs - 2 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [I Promise](https://open.spotify.com/track/0EhqdgtayZ43jlzYTpHLdi) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 4:17 | 2023-12-30 |  |
 | [I Save Me](https://open.spotify.com/track/7sMtseW2KLVFqUkvukU1Y2) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:12 | 2026-05-19 |  |
 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 | 2023-12-30 |  |
-| [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 | 2023-12-30 |  |
+| [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 | 2023-12-30 | 2026-10-03 |
+| [I Tried](https://open.spotify.com/track/4NENjLSkyFUqS0yCVcvWOn) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Get Me Some](https://open.spotify.com/album/5fC36HdxOtKwY40jlFbTrP) | 4:06 | 2026-10-02 |  |
 | [I Turn to You](https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 4:33 | 2023-12-30 |  |
 | [I Wanna Be The Rain](https://open.spotify.com/track/7wJ7sAORSN759zEj9WFRZf) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebels](https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA) | 4:09 | 2023-12-30 |  |
 | [I Wanna Get Back With You](https://open.spotify.com/track/1nvVkERyrtBdV8mDj1bcdU) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [The Lead And How To Swing It](https://open.spotify.com/album/45QU97Z1TooErTjggqMadG) | 5:00 | 2023-12-30 |  |

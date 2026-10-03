@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,918 likes - 110 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,933 likes - 110 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 18 | [Ọ̀ránmọníṣẹ́ fàyàtí](https://open.spotify.com/track/22cqS8goF7fniCFchDok6o) | [Chinedu Ndubueze](https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr) | [Ọ̀ránmọníṣẹ́ fàyàtí](https://open.spotify.com/album/34iGN4Hin3dvnQvvFTDMh1) | 3:38 |
 | 19 | [REVIVAL](https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [REVIVAL](https://open.spotify.com/album/00HhPYvaMMBoJG4Tci6BNH) | 3:11 |
 | 20 | [REDEEMED](https://open.spotify.com/track/18oSLr0nINKjtvCAQZB8qr) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M), [Loveroom NextGen](https://open.spotify.com/artist/3YNm415mw4dRYhKYKui39m) | [REDEEMED](https://open.spotify.com/album/0taxK9X7Hzyhs7U14Qjc1o) | 3:29 |
-| 21 | [Track 5](https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [blinded](https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc) | 0:00 |
+| 21 | [see the truth](https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [blinded](https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc) | 2:22 |
 | 22 | [Ayaya](https://open.spotify.com/track/1L1TEAUIblOiW7MSkjZQFO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Ayaya](https://open.spotify.com/album/5txYtOz5OSkeGelJHLffWs) | 3:44 |
 | 23 | [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 |
 | 24 | [Ebelebe](https://open.spotify.com/track/2QuMz77tAyTxt4v8qm0sbl) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Ebelebe](https://open.spotify.com/album/1TETKjVUVuHyFnMPxyZy5S) | 3:25 |

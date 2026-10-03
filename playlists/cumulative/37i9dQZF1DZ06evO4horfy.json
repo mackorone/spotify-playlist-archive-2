@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 167434,
       "name": "Avond4daagse",
       "url": "https://open.spotify.com/track/5imoXApElqf4AO2qII2154"
@@ -254,6 +254,24 @@
       "duration_ms": 147365,
       "name": "Dierenfreak",
       "url": "https://open.spotify.com/track/2Me97ssmNwYNWv3pmG9udm"
+    },
+    {
+      "album": {
+        "name": "Doe mee! warming-up",
+        "url": "https://open.spotify.com/album/6E4xBt8xyVqunxfh69mtxP"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287762,
+      "name": "Doe mee! warming-up",
+      "url": "https://open.spotify.com/track/6PxuoFoxBSOwX9k00JzD6u"
     },
     {
       "album": {

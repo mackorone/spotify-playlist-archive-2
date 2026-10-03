@@ -338,7 +338,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 200950,
       "name": "Actors",
       "url": "https://open.spotify.com/track/2pynZ1PXTL00ClGi6Vhbps"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 232330,
       "name": "Badcats",
       "url": "https://open.spotify.com/track/5N5tWDAvXGRC8LYVQdALMJ"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Before the Night Falls",
       "url": "https://open.spotify.com/track/0MZeFizQUzec1aVACszRan"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Burning - Live at Paradiso",
       "url": "https://open.spotify.com/track/5AKzIkcSU2RH94rP6xJwdw"
@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 292500,
       "name": "Det \u00e4r fan inte b\u00e4ttre",
       "url": "https://open.spotify.com/track/2UevlKe2tuxzjYtrFpEo1y"
@@ -3644,7 +3644,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 208937,
       "name": "Do it again!",
       "url": "https://open.spotify.com/track/2PVUma5gqD6nYpw5qDC1lp"
@@ -4534,7 +4534,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 148871,
       "name": "En MC-\u00e5kares liv och d\u00f6d",
       "url": "https://open.spotify.com/track/4tHzyWuyZUMICSd7trB58P"
@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -5558,7 +5558,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 173684,
       "name": "FOLD ME",
       "url": "https://open.spotify.com/track/3aiaYy0BKfgfcFgXP8Zv3q"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 194458,
       "name": "F\u00f8rrbi",
       "url": "https://open.spotify.com/track/51yl5HUS0n61xMdrvqJoUS"
@@ -6356,7 +6356,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 190000,
       "name": "Haltu R\u00f3",
       "url": "https://open.spotify.com/track/1veof2E1YyYy0JOL98Y5Z3"
@@ -6392,7 +6392,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 223014,
       "name": "Hardt n\u00e5r vi kommer ned",
       "url": "https://open.spotify.com/track/2tOZbHuJQ5c6kOwHyonNbE"
@@ -6526,7 +6526,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -7124,7 +7124,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 297735,
       "name": "I Consider My Own",
       "url": "https://open.spotify.com/track/0NvwPZNNlbcuiiyyhexD7u"
@@ -7852,7 +7852,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -8018,7 +8018,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 279933,
       "name": "Jorden",
       "url": "https://open.spotify.com/track/7t5iHxdeKcgXAQdoVWfXYE"
@@ -8210,7 +8210,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 203936,
       "name": "Kanskje Litt Dumt at Det Kom Menneska",
       "url": "https://open.spotify.com/track/1okpt9RGM0DAizBMBCJzXZ"
@@ -8358,7 +8358,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -8600,7 +8600,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 243176,
       "name": "Last Night in Las Cruces",
       "url": "https://open.spotify.com/track/0s1B8sXdhmqqqt77vdMB1T"
@@ -8618,7 +8618,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 239706,
       "name": "Lecha in De Toschn",
       "url": "https://open.spotify.com/track/4kTmawMQs3wei3pudFd3d3"
@@ -8636,7 +8636,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 324026,
       "name": "Lechery Love",
       "url": "https://open.spotify.com/track/0pYrzlsgg0USecWtggHS6P"
@@ -11910,7 +11910,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -12062,7 +12062,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 326066,
       "name": "Party Is Over (The Last Curfew)",
       "url": "https://open.spotify.com/track/42h8b5W6ugHyPcicjwj3UQ"
@@ -12720,7 +12720,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 204570,
       "name": "Reality Is a Failure",
       "url": "https://open.spotify.com/track/2A7KzW6tW0IIBBjlSWLDR7"
@@ -12990,7 +12990,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 290186,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/2dzQApMQvr9l3aUBMj0b2U"
@@ -13160,7 +13160,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 155367,
       "name": "Sangen T D\u00e6",
       "url": "https://open.spotify.com/track/6OI1MIDa3AMrTv1VNp069s"
@@ -13794,7 +13794,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 275076,
       "name": "Siste sjanse",
       "url": "https://open.spotify.com/track/7pl8p1T6x3cG1CrJx3DjnJ"
@@ -14262,7 +14262,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 255655,
       "name": "Soul",
       "url": "https://open.spotify.com/track/6prHgbE6PYmy6W9jcmKbF4"
@@ -15015,6 +15015,24 @@
     },
     {
       "album": {
+        "name": "No Credits Left (Edition 2022)",
+        "url": "https://open.spotify.com/album/03dtYf0mILcfUsLAxLVjTO"
+      },
+      "artists": [
+        {
+          "name": "Next Generation Voodoo",
+          "url": "https://open.spotify.com/artist/1xdqXYwdBoKV0WauNX125U"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287413,
+      "name": "Take Me for a While - Edition 2022",
+      "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
+    },
+    {
+      "album": {
         "name": "TATTOORIST",
         "url": "https://open.spotify.com/album/0KpudyEq1OcEGOiXIL7djg"
       },
@@ -15542,7 +15560,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -15784,6 +15802,24 @@
       "duration_ms": 165847,
       "name": "The Leaven",
       "url": "https://open.spotify.com/track/1DxqSm1WfuaksmpVKNY7ed"
+    },
+    {
+      "album": {
+        "name": "The Letter",
+        "url": "https://open.spotify.com/album/7oNgPwcaHz5iGnGUfBu2EZ"
+      },
+      "artists": [
+        {
+          "name": "One and a half dog",
+          "url": "https://open.spotify.com/artist/5AI3gDnjOPaM2ng8QotHTw"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236720,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6sI6RJqMnlsepPvCJM1psf"
     },
     {
       "album": {
@@ -18304,7 +18340,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 314080,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/04VFDLKIXpFYlFjlfihxYm"

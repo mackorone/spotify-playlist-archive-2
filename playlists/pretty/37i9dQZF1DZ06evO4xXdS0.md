@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,881 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,910 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 31 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 |
 | 32 | [See\-Line Woman \- Mochakk Mix](https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [See\-Line Woman \(Mochakk Mix\)](https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV) | 4:48 |
 | 33 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
-| 34 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 |
-| 35 | [Tell It Like It Is](https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 3:51 |
+| 34 | [Tell It Like It Is](https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 3:51 |
+| 35 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 |
 | 36 | [Ain't Got No \- I Got Life \- Single Version](https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:56 |
 | 37 | [Mood Indigo](https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 2:26 |
-| 38 | [Work Song \- Antdot Remix](https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Work Song \(Antdot Remix\)](https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI) | 3:38 |
-| 39 | [Tomorrow Is My Turn](https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
-| 40 | [Nobody's Fault but Mine](https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:00 |
+| 38 | [Tomorrow Is My Turn](https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
+| 39 | [Nobody's Fault but Mine](https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:00 |
+| 40 | [Work Song \- Antdot Remix](https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Work Song \(Antdot Remix\)](https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI) | 3:38 |
 | 41 | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 4:17 |
-| 42 | [Wild Is The Wind](https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 6:56 |
+| 42 | [One September Day](https://open.spotify.com/track/2Y2M7TztqchZwMoszbYapJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
 | 43 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
-| 44 | [One September Day](https://open.spotify.com/track/2Y2M7TztqchZwMoszbYapJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
+| 44 | [Wild Is The Wind](https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 6:56 |
 | 45 | [Suzanne](https://open.spotify.com/track/1rsTANyQavJLIiPIFUgoiM) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 4:19 |
 | 46 | [To Be Young, Gifted and Black \- 2005 Remix](https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Forever Young, Gifted And Black: Songs Of Freedom And Spirit](https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0) | 2:49 |
 | 47 | [Backlash Blues](https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 49 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 |
 | 50 | [I Think It's Going to Rain Today](https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:20 |
 
-Snapshot ID: `arxRAAAAAACZkyirCd8+0wMLxvZQABm9`
+Snapshot ID: `ar2igAAAAADmpKfQfw5gkjv87t5DseRu`

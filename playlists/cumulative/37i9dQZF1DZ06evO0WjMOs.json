@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 196910,
       "name": "Peach",
       "url": "https://open.spotify.com/track/31n7a6fXg7srP9DSmAEmp2"
@@ -2052,10 +2052,28 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 209924,
       "name": "Ugly things",
       "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/33yH7BV5njyZ9B0iwSgjwC"
     },
     {
       "album": {

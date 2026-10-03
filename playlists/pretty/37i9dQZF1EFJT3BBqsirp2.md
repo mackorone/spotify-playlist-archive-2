@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 40 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 |
 | 41 | [Not Ready For Love \(feat\. Maya B\)](https://open.spotify.com/track/6srxWPSep6Jp5Xw0IHYWoy) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maya B](https://open.spotify.com/artist/1xcOqHjfEmCPz6C9qSPtOf) | [Not Ready For Love](https://open.spotify.com/album/1grGRTZhofqtqVPlDqSgVB) | 3:13 |
 | 42 | [THAT GIRL](https://open.spotify.com/track/6CxNuPyJT0eqePcocLEoHa) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [THAT GIRL](https://open.spotify.com/album/3iShY0nkuliVn2PiAjySC2) | 2:07 |
-| 43 | [My Reminder](https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
-| 44 | [Card Declined](https://open.spotify.com/track/3vFRHL7DuN076fdIQuWQfv) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 3:27 |
+| 43 | [Card Declined](https://open.spotify.com/track/3vFRHL7DuN076fdIQuWQfv) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 3:27 |
+| 44 | [My Reminder](https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
 | 45 | [Eyes of the World featuring Sky Ferreira](https://open.spotify.com/track/1md8v8FG46KecYiMap2XTD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:43 |
 | 46 | [Persona](https://open.spotify.com/track/4HQMNDSYtXgZvsCHIsuWTS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:37 |
 | 47 | [Funny Mouth](https://open.spotify.com/track/1lTp6SSihcLUxoiTPUJ6lA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 94 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 95 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `Acdz8AAAAADvBZxllfv9DyM8vTHqCTWt`
+Snapshot ID: `Acd5kAAAAADqUoCPXjv3rXidXX9eL98z`

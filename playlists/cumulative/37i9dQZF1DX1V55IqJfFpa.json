@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "aqu\u00ed pura vibra chida \u2728 Rauw Alejandro en portada",
+  "description": "aqu\u00ed pura vibra chida \u2728 Neton Vega, De La Rose y L Prince en portada",
   "name": "rolitas chidas ",
   "tracks": [
     {
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 190875,
       "name": "DOLCE VITA",
       "url": "https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7"
@@ -3990,6 +3990,32 @@
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "album": {
+        "name": "Dumb Boy (ojo de loca)",
+        "url": "https://open.spotify.com/album/4ABG1RkhspmJGHDPEFSQ4I"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184251,
+      "name": "Dumb Boy (ojo de loca)",
+      "url": "https://open.spotify.com/track/4TKBvVu4tHy7kX9ewht29n"
     },
     {
       "album": {
@@ -5711,6 +5737,24 @@
     },
     {
       "album": {
+        "name": "hIGhLIGhTS",
+        "url": "https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126374,
+      "name": "hIGhLIGhTS",
+      "url": "https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm"
+    },
+    {
+      "album": {
         "name": "Historias de Amor",
         "url": "https://open.spotify.com/album/6JRyu67LNMlSqQecsDiRuA"
       },
@@ -6422,6 +6466,28 @@
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
+    },
+    {
+      "album": {
+        "name": "SCL",
+        "url": "https://open.spotify.com/album/21TbbvXdmrymM9eopZihj2"
+      },
+      "artists": [
+        {
+          "name": "AQROSS",
+          "url": "https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Klich\u00e9",
+      "url": "https://open.spotify.com/track/0eblv6bud0Ae6SiCtWsSgW"
     },
     {
       "album": {
@@ -9329,6 +9395,36 @@
     },
     {
       "album": {
+        "name": "NI TAN SANTX",
+        "url": "https://open.spotify.com/album/2B53ZI8IljOo0wycM0Ai4i"
+      },
+      "artists": [
+        {
+          "name": "EON",
+          "url": "https://open.spotify.com/artist/1Bt6FvbEO0j0bYOqZTabUd"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "L Prince",
+          "url": "https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "NI TAN SANTX",
+      "url": "https://open.spotify.com/track/2TCy4SdgjE8SEdP0UQfPGs"
+    },
+    {
+      "album": {
         "name": "MIJA NO TE ASUSTES",
         "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
@@ -9520,7 +9616,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 209520,
       "name": "No Quiere Salir",
       "url": "https://open.spotify.com/track/4D7e8opeFSkFhXQXXZey3a"
@@ -9894,7 +9990,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 148235,
       "name": "Ola <3",
       "url": "https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF"
@@ -13826,7 +13922,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 162666,
       "name": "Todas Mienten",
       "url": "https://open.spotify.com/track/1i4YutNLLzUJ8iyWLp3Yfe"
@@ -14242,7 +14338,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 170823,
       "name": "tuffluv - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5dB7dt2zQ2dkmaMu4KB3Cb"
@@ -15296,7 +15392,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 207186,
       "name": "Xtraparticular",
       "url": "https://open.spotify.com/track/1CINRQIxn9ZS7Z3kmxDaqp"

@@ -4,7 +4,7 @@
 
 > New pop releases from the UK & Ireland 🌟 cover: kaeto
 
-1,456 songs - 3 day 3 hr 6 min
+1,456 songs - 3 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Ghost Train](https://open.spotify.com/track/56ouZOgAkOMXprl1m42mqj) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [Ghost Train](https://open.spotify.com/album/1PGZVCzqQwZOzf8X5tc02G) | 3:13 | 2026-09-17 |  |
 | [Gimmicks](https://open.spotify.com/track/4bjE1oWu9t5C2IbGXVxmnU) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Gimmicks](https://open.spotify.com/album/3vfHStBRAhSVSSCK92TwfV) | 3:17 | 2025-05-29 | 2025-07-11 |
 | [Girl I Know](https://open.spotify.com/track/5CZbwaRgOVee57y0RCH7F6) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Girl I Know](https://open.spotify.com/album/2YAox0fRxzooFIL67Zu3rr) | 3:21 | 2025-11-14 | 2025-12-12 |
+| [Girl's Girl](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 2:41 | 2026-10-01 |  |
 | [GirlMagnet](https://open.spotify.com/track/4v7XP5LpUPNW6Y81ndn4DJ) | [Jacklyn](https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv) | [GirlMagnet](https://open.spotify.com/album/3VhOfi3Bg6CMLuSc835Izk) | 2:23 | 2026-09-10 |  |
 | [girls will be girls \(feat\. WILLOW\)](https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB) | 3:22 | 2026-08-27 |  |
 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 | 2025-01-31 | 2025-03-08 |
@@ -1355,7 +1356,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 3](https://open.spotify.com/track/3Cg61ST1k4FAd55MGWSJHi) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Beach Gothic](https://open.spotify.com/album/2J3r8W2qLjtuiTPGizaq2d) | 0:00 | 2026-10-01 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [tried everything](https://open.spotify.com/track/2Rw7rfyamcD0pHfhuHTgZp) | [ISABELLA](https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q), [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [tried everything](https://open.spotify.com/album/5sHPvxkTibczgvQVMEqV57) | 2:42 | 2026-04-30 | 2026-06-19 |
 | [Trophy](https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Trophy](https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z) | 3:08 | 2026-01-02 | 2026-02-13 |

@@ -300,7 +300,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161920,
       "name": "All is Summer",
       "url": "https://open.spotify.com/track/3dgpYYu0fHl9jyMY3izzXc"
@@ -3552,6 +3552,40 @@
       "duration_ms": 226700,
       "name": "Out Alpha The Alpha",
       "url": "https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm"
+    },
+    {
+      "album": {
+        "name": "Out of the Ordinary (feat. Michael Leon Wooley & Kat Nestel)",
+        "url": "https://open.spotify.com/album/6Db7t5U9sPIMLlXIIne2Nk"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        },
+        {
+          "name": "Elyssa Samsel",
+          "url": "https://open.spotify.com/artist/75QEgCXd582Jrdk7YEPPgM"
+        },
+        {
+          "name": "Kate Anderson",
+          "url": "https://open.spotify.com/artist/0u3ACq9Z1LeUkQ4ljpBMs4"
+        },
+        {
+          "name": "Michael Leon Wooley",
+          "url": "https://open.spotify.com/artist/5ZjcvtBULFd3OUZcm8Ujhi"
+        },
+        {
+          "name": "Kat Nestel",
+          "url": "https://open.spotify.com/artist/2S5DXnDpQlpDXFUcvqAb4E"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167282,
+      "name": "Out of the Ordinary (feat. Michael Leon Wooley & Kat Nestel)",
+      "url": "https://open.spotify.com/track/4fGykOnKnYp4EYcgCEvep4"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruna Foss
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra
 
-248 songs - 14 hr 48 min
+249 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Coleção](https://open.spotify.com/track/1ZWyjMAEL7Pgbfj3gOw1ot) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Coleção](https://open.spotify.com/album/3iwSLqFgOSYRBTGd31T4rG) | 2:49 | 2023-07-21 | 2023-09-16 |
 | [Colorindo Com o Seu Sorriso \- Ao Vivo](https://open.spotify.com/track/6wPA2bMoiIE5WN5yGlmAP5) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Acústico Kamaitachi, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3wOinyvLSVUAJCkuzVgP6y) | 2:37 | 2025-09-12 | 2025-12-19 |
 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 | 2023-07-21 | 2023-11-04 |
-| [Começa Tudo Outra Vez](https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Quatro Cantos de Um Mundo Redondo](https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB) | 3:28 | 2023-09-29 |  |
+| [Começa Tudo Outra Vez](https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Quatro Cantos de Um Mundo Redondo](https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB) | 3:28 | 2023-09-29 | 2026-10-03 |
 | [Começa Tudo Outra Vez](https://open.spotify.com/track/6fX0CLC0UcITuLpi2kl8T5) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [O Amor Liberta](https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd) | 3:12 | 2023-07-21 | 2025-04-20 |
 | [Coming Home](https://open.spotify.com/track/13kBXnr6HGyXQMA4pb7Q7T) | [Twilight Aura](https://open.spotify.com/artist/1xo1rupmkgRiqborQShT30), [Daísa Munhoz](https://open.spotify.com/artist/4c9Fry8ueZr78paHWdEF0y), [Fabio Caldeira](https://open.spotify.com/artist/4pyFz0gJQlmVrlpQyo1J3T), [Marcel Ribas](https://open.spotify.com/artist/6z7ABRk5aFU97bOo9XuKCf) | [Believe](https://open.spotify.com/album/2BisEk7N65mjARu5LGS35W) | 4:03 | 2025-06-13 |  |
 | [Como Esquecer De Você](https://open.spotify.com/track/3vw7tup826gbSI2dIzLZD9) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 3](https://open.spotify.com/album/2BIit8ROWteatmlkMG0KEy) | 3:28 | 2023-07-21 | 2023-09-16 |
@@ -100,6 +100,7 @@
 | [Ficou Saudade](https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Ficou Saudade](https://open.spotify.com/album/05tb8yiaxwErUfzVJ9ovyv) | 2:53 | 2026-09-04 |  |
 | [Flagra](https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Flagra](https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS) | 3:16 | 2025-04-19 |  |
 | [Frenesi](https://open.spotify.com/track/37aVOlxyBrguxlJHh5rDbc) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [SAUR](https://open.spotify.com/album/16fxYTsiJufEY3kTkjUXzQ) | 2:55 | 2025-09-26 | 2026-03-28 |
+| [Guardei Você Aqui](https://open.spotify.com/track/0xL0pZRHQtqCQVZX7z8ASI) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Guardei Você Aqui](https://open.spotify.com/album/1g87BklyE0unlCz2ekmPr9) | 3:48 | 2026-10-02 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2024-04-12 | 2025-02-15 |
 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 | 2023-07-21 | 2025-11-01 |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-05-31 | 2024-07-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7aBsay1LwiX89GuowSd15N?si=34bb03e3792843ed">plusamari</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,289 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,367 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 69 | [Hide & Seek](https://open.spotify.com/track/7uKoJBYPqduAuuxmduQYse) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [The Interim Vol\. 1](https://open.spotify.com/album/61vaVHgYxi8dyvtJ6MQUXX) | 2:42 |
 | 70 | [Girls Girl](https://open.spotify.com/track/4GZyI66owgPoIaCYpCh65j) | [Jazlyn Martin](https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Girls Girl](https://open.spotify.com/album/4AdcgHiAznrp28mw2TWrZW) | 3:54 |
 | 71 | [Body](https://open.spotify.com/track/6qoZAmXo12RLxqy829tiJm) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [DUMBCRAZYSTUPID \(Deluxe\)](https://open.spotify.com/album/4nxDOlPHCqcgrIvYksn12N) | 2:42 |
-| 72 | [LEMONS](https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [LEMONS](https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ) | 2:34 |
+| 72 | [LEMONS](https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi) | [LÉA THE LEOX](https://open.spotify.com/artist/3xFV4FWskoe7sxMh8NDswQ) | [LEMONS](https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ) | 2:34 |
 | 73 | [Satisfied](https://open.spotify.com/track/00khq2O6tq0msfWIhQ8KqR) | [ZURI](https://open.spotify.com/artist/3BK5gMsNlUDLm3wgwT0DUF) | [Satisfied](https://open.spotify.com/album/6PY2fsWudnuKAeIgHXk7Ta) | 3:16 |
 | 74 | [Nobody Nobody](https://open.spotify.com/track/7gyZG8D3U8kYFqvju6QFU1) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Nobody Nobody](https://open.spotify.com/album/5OeWWL9h4ujWCSoqSKcbX8) | 2:01 |
 | 75 | [Tit 4 Tat](https://open.spotify.com/track/1A51S6aWOo0yjkU8U7RwzO) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Tit 4 Tat](https://open.spotify.com/album/39xXEZ6T8Tcl2bsnd92MMR) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 99 | [F.O.O.L](https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Deposit](https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU) | 2:22 |
 | 100 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
 
-Snapshot ID: `AAAAAG2RV/VpVLvUgBLT5/5GQ6IAS3oD`
+Snapshot ID: `AAAAAMFLAolSOk5/wumuFRkneqZFG96B`

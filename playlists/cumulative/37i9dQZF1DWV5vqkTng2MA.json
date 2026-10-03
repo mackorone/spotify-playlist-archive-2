@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Free Again",
+        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232104,
+      "name": "Free Again",
+      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5uVf4u9MmFPupC5OWAIO6c"
       },
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 193386,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
@@ -2975,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Life Is Good (Let That Shit Go)",
+        "url": "https://open.spotify.com/album/41BUBK20aUeU55cOQAFrdI"
+      },
+      "artists": [
+        {
+          "name": "Goldie Scott",
+          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178916,
+      "name": "Life Is Good (Let That Shit Go)",
+      "url": "https://open.spotify.com/track/2NA3zIhLsxqKcgoRyTfydR"
+    },
+    {
+      "album": {
         "name": "Metamodern Sounds in Country Music",
         "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
@@ -3916,7 +3952,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 213733,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0"
@@ -5438,7 +5474,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 249560,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
@@ -5706,6 +5742,24 @@
       "duration_ms": 240026,
       "name": "Tell the Falling Sun",
       "url": "https://open.spotify.com/track/247qxelzjSgKDWINzRJ7Pf"
+    },
+    {
+      "album": {
+        "name": "Tetris",
+        "url": "https://open.spotify.com/album/5k6k7smqMIAQt78wLhV4El"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Tetris",
+      "url": "https://open.spotify.com/track/5InHPth2cbafb1CLzx904x"
     },
     {
       "album": {
@@ -6312,7 +6366,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 230693,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
@@ -6644,6 +6698,24 @@
       "duration_ms": 148314,
       "name": "You're Never Around",
       "url": "https://open.spotify.com/track/0qUdBojcFdXkQskyj7LFEw"
+    },
+    {
+      "album": {
+        "name": "You've Got What It Takes",
+        "url": "https://open.spotify.com/album/3Lrx6TzBs7qgZGm1E4UVdw"
+      },
+      "artists": [
+        {
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "You've Got What It Takes",
+      "url": "https://open.spotify.com/track/5n6UJnJc6JP9pqRWTigmQa"
     },
     {
       "album": {

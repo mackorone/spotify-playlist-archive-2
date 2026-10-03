@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 382224,
+  "num_followers": 382417,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABGkNFth9pNFJbq9Tc66KEU",
+  "snapshot_id": "ar2igAAAAACJaB9wu4XI29haSkxqcutu",
   "tracks": [
     {
       "added_at": null,
@@ -871,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piedras a la Luna",
-        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+        "name": "NEPTUNO",
+        "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
       },
       "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 192004,
-      "name": "Piedras a la Luna",
-      "url": "https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu"
+      "duration_ms": 161985,
+      "name": "NEPTUNO",
+      "url": "https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

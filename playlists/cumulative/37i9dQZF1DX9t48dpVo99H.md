@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-107 songs - 4 hr 41 min
+113 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [741 Hz Gentle Breathing](https://open.spotify.com/track/45mF3fxXkhXGHldyZy3k2a) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Gentle Breathing](https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W) | 3:22 | 2023-03-10 | 2023-08-08 |
 | [741 Hz Inner Guidance](https://open.spotify.com/track/5FCbyMFGvCZAxDHR64srfQ) | [Moguil](https://open.spotify.com/artist/2x7loRWVhZ9oh73l1TuFWq) | [741 Hz Inner Guidance](https://open.spotify.com/album/0fGFAouxgDpRwrhKN9FvSX) | 3:00 | 2026-02-23 |  |
 | [741 Hz Inner Map to Solutions](https://open.spotify.com/track/4hQU7ng6pFv3Iq7xUXH7xg) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [741 Hz Inner Map to Solutions](https://open.spotify.com/album/62OsYdnfNcA3APCN3hFkNT) | 2:47 | 2025-05-06 |  |
+| [741 Hz Let it Go](https://open.spotify.com/track/7lL9abmLSMECrm6mZSBSO2) | [Mountain Explorer](https://open.spotify.com/artist/0ZRFQvqH13ouWGPIR0ulSF) | [741 Hz Let it Go](https://open.spotify.com/album/4uuiqC9u7TQME0sMDle73j) | 2:24 | 2026-10-02 |  |
 | [741 Hz Libertad](https://open.spotify.com/track/2Z2m5GSKnw2Uhudg3IAwGg) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 3:04 | 2023-03-10 |  |
 | [741 Hz Mental Clarity](https://open.spotify.com/track/0ZuKVcs48MMhBwb6stqbVo) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [741 Hz Mental Clarity](https://open.spotify.com/album/6tzfanwdAF8Px0HcJZe8yB) | 2:31 | 2023-03-10 |  |
 | [741 Hz Protection](https://open.spotify.com/track/2g5wHZ7x9U1qlaOMOtFfEB) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [741 Hz Protection](https://open.spotify.com/album/3e7ZEGQU8xFdSHqYYVPzHD) | 2:16 | 2023-08-07 |  |
@@ -70,6 +71,7 @@
 | [Expression Brought by 741 Hz](https://open.spotify.com/track/3YLOyvaK9lNlAsaQle6IjQ) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [Expression Brought by 741 Hz](https://open.spotify.com/album/0Hqao3GWLefHWSsMbBi6QO) | 2:14 | 2024-03-13 |  |
 | [Fair Solutions 741 Hz](https://open.spotify.com/track/1ycHp28H3XJxkM9hhFESGw) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:31 | 2023-03-10 |  |
 | [Ferns](https://open.spotify.com/track/4EILGubj8yeAb5szI5BDVh) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [Ferns](https://open.spotify.com/album/1vM33GBEtobzFLRd1inD01) | 3:32 | 2023-03-10 |  |
+| [Floating In Time \(741Hz\)](https://open.spotify.com/track/08qFYZr8hOCcuK2qnRfiWW) | [Lift Atlas](https://open.spotify.com/artist/3kTOKUtR6I2JBTu54V4EyB) | [Floating In Time \(741Hz\)](https://open.spotify.com/album/6F8nZAs4Rn6vTR0k4vueMU) | 2:56 | 2026-10-02 |  |
 | [Floating Through Solfeggio 741 Hz](https://open.spotify.com/track/0E0FK26KRggPeQKESUxvQb) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 2:55 | 2023-03-10 |  |
 | [focused clarity 741 Hz](https://open.spotify.com/track/04fb8Hoi0JjZoxKPiPFcCi) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 2:52 | 2023-03-10 |  |
 | [HAM \- Throat Chakra \- Truth](https://open.spotify.com/track/3I5l2Ulolh87Hnt7RoGDKY) | [Float Waves](https://open.spotify.com/artist/3ktvAYSUnQfoS8vxYex8Jp) | [440Hz Chakra Suite, Vol 1](https://open.spotify.com/album/0oETsqI9kxTYL37kYxFRaU) | 2:04 | 2023-03-10 | 2023-08-08 |
@@ -79,6 +81,7 @@
 | [Illuminated Strum 741 Hz](https://open.spotify.com/track/44C5JAF8UMtcICFL8LGQse) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Illuminated Strum 741 Hz](https://open.spotify.com/album/4fTfoqDdD5mxZh34SfN22G) | 2:34 | 2024-06-11 |  |
 | [Ingenuity Code 741 Hz](https://open.spotify.com/track/2H7WC3coEXBmfgvk2zxOF1) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Ingenuity Code 741 Hz](https://open.spotify.com/album/0Vw31qxMXsLlqDC7feKUWl) | 2:22 | 2024-06-11 |  |
 | [Insight 741 Hz](https://open.spotify.com/track/67xkzXf2kjBohSyjk5zU4Z) | [Emotional Pleasure](https://open.spotify.com/artist/1EP08kGH9Qa0yxHOLxzCC9) | [Insight 741 Hz](https://open.spotify.com/album/4fkMdxjXstSp00j3kIqm2C) | 2:35 | 2024-04-07 |  |
+| [Joshua Tree 741 Hz](https://open.spotify.com/track/6xKVBphEV6sG8NfR3x4tHk) | [Cloud Air Therapy](https://open.spotify.com/artist/02Ygqis0nxM0XRBuHZBDer) | [Joshua Tree 741 Hz](https://open.spotify.com/album/6qH5aLc5UeyfepilCDEfCu) | 3:14 | 2026-10-02 |  |
 | [Late Night Meditation](https://open.spotify.com/track/7zT6CQ1og08NiVfn8E8Yfx) | [Perducci](https://open.spotify.com/artist/0VEXjsf3JyYFipCgZ2P8Fp) | [Late Night Meditation](https://open.spotify.com/album/4USXXfJHQgf1gB0yS9jmOJ) | 2:28 | 2023-03-10 | 2023-12-01 |
 | [Light Beam](https://open.spotify.com/track/0cBFe5cufslKKaBKCh7awt) | [Pink Opal](https://open.spotify.com/artist/4G2znNneRZlbCwuDAIQi2E) | [Wisdowm Of REM](https://open.spotify.com/album/1wEZdYZRQsdkRIByTyqH6E) | 1:51 | 2023-03-10 | 2024-03-14 |
 | [Meditative Peace \- 741Hz](https://open.spotify.com/track/0N13cCClnSHSfoJyQIChS8) | [Lyroma](https://open.spotify.com/artist/2slc3WdUT0oX74JHHVacDB) | [Meditative Peace \- 741Hz](https://open.spotify.com/album/2ZCa6CMhDXwY5sG1c42c7X) | 2:51 | 2026-02-23 |  |
@@ -99,10 +102,12 @@
 | [Schumann 432\-5 Throat Chakra Voicing](https://open.spotify.com/track/7zvFAzYMROMhOuCb4BqD4m) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [The Schumann 432Hz Chakra Drones](https://open.spotify.com/album/3qgFPuBePyuCxj2ZxK0Qk0) | 3:59 | 2023-03-10 | 2023-12-01 |
 | [shared waves \- 741hz](https://open.spotify.com/track/4SKqvK2AvQKNNUmrVtm0U2) | [Synalyse Flow](https://open.spotify.com/artist/36pa0ZluG8Sr6eUvHMRnId) | [shared waves \- 741hz](https://open.spotify.com/album/0AWvRDOsb8Q875dFkdZjJ6) | 2:53 | 2023-03-10 |  |
 | [So Hum](https://open.spotify.com/track/4LPXddfvILqIyfqIntPK9k) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [So Hum](https://open.spotify.com/album/1n7FuonhS869rKleqYJZ7m) | 4:07 | 2023-03-10 | 2023-12-01 |
+| [Soft Release 741 Hz](https://open.spotify.com/track/23oHHr6ZjRwDwXYYZiVS0r) | [Cloud Air Therapy](https://open.spotify.com/artist/02Ygqis0nxM0XRBuHZBDer) | [Soft Release 741 Hz](https://open.spotify.com/album/7Fy4kj1sKxVW4QYqJo69K5) | 3:19 | 2026-10-02 |  |
 | [Solfeggio Drone 741 Hz](https://open.spotify.com/track/3hjqDCbPg9R3W8XqXr0tpP) | [Xin Amos](https://open.spotify.com/artist/5n1MhPv1DwAakjDKblFvZU) | [Solfeggio Drones](https://open.spotify.com/album/0oZC0sfdqhd4fdthAAKD4x) | 2:50 | 2023-08-07 |  |
 | [Solfeggio Frequencies 741 Hz](https://open.spotify.com/track/6dqI2f7OmRg9WwceXAj7vR) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [741 Hz Full Body Detox](https://open.spotify.com/album/4SMlPCLiGgBN18AGs2jYaa) | 2:11 | 2023-03-10 |  |
 | [Solfeggio Starscape 741 Hz](https://open.spotify.com/track/4WQKrRECuLQwCc9fTrIioX) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Solfeggio Starscapes](https://open.spotify.com/album/75IBsOMD8X2ltszEkCScTM) | 2:35 | 2024-07-13 |  |
 | [The Journey \(741Hz\)](https://open.spotify.com/track/3I1SgolxvEIX4NYQazTxB4) | [Tree Talker](https://open.spotify.com/artist/5BWcNI4vQrnhrBht2b1tU0) | [The Journey \(741Hz\)](https://open.spotify.com/album/6u33HITV2QQwtvQAEzubWT) | 2:35 | 2023-11-30 |  |
+| [The Many Rings 741Hz](https://open.spotify.com/track/0BSWRvLLbMaRKzF3zOrzSU) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [The Many Rings 741Hz](https://open.spotify.com/album/3kGOkCRJPvXUK0kwTTCvP7) | 2:13 | 2026-10-02 |  |
 | [The world is 741 Hz](https://open.spotify.com/track/45C4eJrXb7tt5KW9AHtsDC) | [Noontic](https://open.spotify.com/artist/4Smfett6F9Ouf216WJFmRE) | [The world is 741 Hz](https://open.spotify.com/album/7adquyWxI1FWMepezPDEfV) | 2:56 | 2026-02-23 |  |
 | [Throat Chakra Activation \(741 Hz\)](https://open.spotify.com/track/28W7aTw5YlT1Xa1bmAJfgR) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [The Throat Chakra: Vishuddha](https://open.spotify.com/album/3vm2MExrxtgSimqimrzGQd) | 1:03 | 2023-03-10 | 2024-03-14 |
 | [Throat Solfeggio 741 Hz](https://open.spotify.com/track/3srb1tARH6ehOeLKrdKxTr) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:55 | 2023-11-30 |  |
@@ -114,6 +119,7 @@
 | [Vishuddha \(Throat\) \[Chakra\]](https://open.spotify.com/track/0qpVazrOG8rpYlun1e9ClL) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 5:31 | 2023-03-10 | 2023-08-08 |
 | [Visions 741 Hz](https://open.spotify.com/track/0UH1vXrdAvxI8CucKsYiin) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:31 | 2023-03-10 |  |
 | [Waves 741 Hz](https://open.spotify.com/track/3uEp4Nl4K3KhFCIrABet5H) | [Hugo Falkman](https://open.spotify.com/artist/6nLo9HoDwesK6BJRG4vSV6) | [Waves 741 Hz](https://open.spotify.com/album/1iSla5gnMoRZMY8hDUnEtA) | 2:24 | 2025-07-09 |  |
+| [Whispers of Alignment 741Hz](https://open.spotify.com/track/6XXTxvv34s2BL2cKST0LVI) | [muir](https://open.spotify.com/artist/3ehZHQxahjBQ3Xz2fGvs28) | [Whispers of Alignment 741Hz](https://open.spotify.com/album/2h9lQj0WHkArzlQx2M96ty) | 2:31 | 2026-10-02 |  |
 | [Wind Slept 741 Hz](https://open.spotify.com/track/52yftyXiVSilhXbLYpTMl4) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [Wind Slept 741 Hz](https://open.spotify.com/album/7yb5JfE2VvXLvFwn3pw1Ii) | 2:40 | 2026-02-23 |  |
 
 \*This playlist was first scraped on 2023-08-01. Prior content cannot be recovered.

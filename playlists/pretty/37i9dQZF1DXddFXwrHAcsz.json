@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 80's! Cover: Andr\u00e9 Hazes",
-  "num_followers": 76654,
+  "num_followers": 76684,
   "original_name": "80's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Ik Weet Niet Hoe",
-        "url": "https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4"
-      },
-      "artists": [
-        {
-          "name": "Benny Neyman",
-          "url": "https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Ik Weet Niet Hoe",
-      "url": "https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "100 x De Dijk",
         "url": "https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 259186,
       "name": "Mag Het Licht Uit",
       "url": "https://open.spotify.com/track/7KTLDWQXfA1DBPE98c9JDj"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Ik Weet Niet Hoe",
+        "url": "https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4"
+      },
+      "artists": [
+        {
+          "name": "Benny Neyman",
+          "url": "https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Ik Weet Niet Hoe",
+      "url": "https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "25 Jaar Mooi Was Die Tijd",
-        "url": "https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8"
-      },
-      "artists": [
-        {
-          "name": "Corry Konings",
-          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Adios Amor",
-      "url": "https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "100 x De Dijk",
         "url": "https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 239506,
       "name": "Ik Kan Het Niet Alleen",
       "url": "https://open.spotify.com/track/6ZdbwRhaM8H1PfyoyxVMNy"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "25 Jaar Mooi Was Die Tijd",
+        "url": "https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8"
+      },
+      "artists": [
+        {
+          "name": "Corry Konings",
+          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Adios Amor",
+      "url": "https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9"
     },
     {
       "added_at": "2022-10-11 07:08:55",

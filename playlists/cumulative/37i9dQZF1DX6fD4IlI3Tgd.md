@@ -4,7 +4,7 @@
 
 > Guaracha, dame guaracha\. <br/>Aquí puro brainrot criollo\. Foto: PETERBLUE
 
-133 songs - 7 hr 46 min
+134 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,11 @@
 | [BENDECIO](https://open.spotify.com/track/6GQLzrq2qr3hgAwlUODJ9k) | [PETERBLUE](https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz) | [BENDECIO](https://open.spotify.com/album/3fUw8rAFhm1QqFSThyQamr) | 3:50 | 2026-06-19 |  |
 | [BIENVENUE Á UWUARACHA](https://open.spotify.com/track/3Ff19082K7SuYNA9CkhsNm) | [Aleroj](https://open.spotify.com/artist/54m3plxbB6d8a0oIADRAgh) | [UWU MANIA](https://open.spotify.com/album/4kMPbnWSRCa04n7c1NZbhK) | 3:24 | 2026-06-19 |  |
 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 | 2023-08-18 | 2026-06-20 |
+| [Bloody Paradise x VELOCIDADE \- PETERBLUE Remix](https://open.spotify.com/track/5B3nptWG8LWufK401wzzrj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G), [PETERBLUE](https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz) | [Bloody Paradise x VELOCIDADE \(PETERBLUE Remix\)](https://open.spotify.com/album/2zImnNLEHn96NQPh5cc7FZ) | 3:12 | 2026-10-02 |  |
 | [Body On My Mind](https://open.spotify.com/track/4Mzs8wkE8SI8Q24prGT3H7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 002](https://open.spotify.com/album/4hdUnBqxm3rGBrVvBJKnCL) | 2:49 | 2023-08-18 | 2026-06-20 |
 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2023-08-18 | 2024-04-19 |
 | [Boitoi](https://open.spotify.com/track/0VIDFMVbImChUAXTHGwLsR) | [Flash Gea](https://open.spotify.com/artist/0bKc2cidr688jnhiPtgFEL), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [Boitoi](https://open.spotify.com/album/2kAjFglyYIUANyw77U7cg2) | 2:27 | 2026-06-19 |  |
-| [BREATHE MY SATISFACTION](https://open.spotify.com/track/14yar0dftaBXRI3x1FKtwm) | [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL), [João Lágrima de Ouro](https://open.spotify.com/artist/5bmcpwBSIz0TdjLVafaaWJ) | [BREATHE MY SATISFACTION](https://open.spotify.com/album/3yqrvjfQuPj4pzMBlLjMBD) | 3:16 | 2026-06-19 |  |
+| [BREATHE MY SATISFACTION](https://open.spotify.com/track/14yar0dftaBXRI3x1FKtwm) | [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL), [João Lágrima de Ouro](https://open.spotify.com/artist/5bmcpwBSIz0TdjLVafaaWJ) | [BREATHE MY SATISFACTION](https://open.spotify.com/album/3yqrvjfQuPj4pzMBlLjMBD) | 3:16 | 2026-06-19 | 2026-10-03 |
 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 | 2023-08-18 | 2026-06-20 |
 | [Cancún](https://open.spotify.com/track/2eLzS75uEe5NFXIWOhuoqy) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Lamic](https://open.spotify.com/artist/0kZghiFuW2mfJKbObHkwmA) | [Cancún](https://open.spotify.com/album/0wpYHCnXB6DjAtHODHQdj0) | 2:48 | 2023-08-18 | 2026-06-20 |
 | [Cantalo](https://open.spotify.com/track/6UIqRcSumEv1ITtXB3rc8X) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Cantalo](https://open.spotify.com/album/1ID1oLpVJ0wcBeYblNRiQn) | 4:02 | 2023-08-18 | 2024-04-19 |

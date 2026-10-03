@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Anthony Brown & group therAPy",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Todd Dulaney",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -4293,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "Choir Music",
+        "url": "https://open.spotify.com/album/5PRZ7FxgYxKtnHjFyQReqB"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423026,
+      "name": "God is my help",
+      "url": "https://open.spotify.com/track/438c71Rgvhgy8ZIO3mflIU"
+    },
+    {
+      "album": {
         "name": "God Is Working",
         "url": "https://open.spotify.com/album/0U7I05VlAZpSX6exVWlaSM"
       },
@@ -6345,6 +6363,24 @@
     },
     {
       "album": {
+        "name": "Hollow of Your Hands",
+        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Hollow of Your Hands",
+      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
       },
@@ -8174,7 +8210,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 494995,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4fu4P9YKVxcBLU7OyQKlAr"
@@ -9999,6 +10035,28 @@
     },
     {
       "album": {
+        "name": "Mighty Is Your Name (feat. Melissa Bethea)",
+        "url": "https://open.spotify.com/album/3sx04T2p0lddMDHzPCGhDz"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 678963,
+      "name": "Mighty Is Your Name (feat. Melissa Bethea)",
+      "url": "https://open.spotify.com/track/2xsD3PI49ZUH0uzwGE7u9o"
+    },
+    {
+      "album": {
         "name": "Mighty One",
         "url": "https://open.spotify.com/album/4uDzfp7pKQGKFF7uvmnxbz"
       },
@@ -10336,7 +10394,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 297678,
       "name": "My God",
       "url": "https://open.spotify.com/track/7Hw7e1zzECBiuG37BEjc7c"
@@ -12209,6 +12267,24 @@
     },
     {
       "album": {
+        "name": "Back To The Book II",
+        "url": "https://open.spotify.com/album/15Z2fyEv5jaBi5giEN7mhH"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 606000,
+      "name": "Psalm 23",
+      "url": "https://open.spotify.com/track/78wC5YI5VuI9f2L92gH7ax"
+    },
+    {
+      "album": {
         "name": "Psalm 24",
         "url": "https://open.spotify.com/album/6o1lHjWoSnm4NzijQ1MdTW"
       },
@@ -12220,7 +12296,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 224000,
       "name": "Psalm 24",
       "url": "https://open.spotify.com/track/4Xq11EwP7MtRYokrAdwwjn"
@@ -16438,7 +16514,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 262522,
       "name": "When Will We Overcome?",
       "url": "https://open.spotify.com/track/1GCe21Wv46xuhJvSt1Z9iU"

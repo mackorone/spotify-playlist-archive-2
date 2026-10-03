@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 741392,
+  "num_followers": 741405,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL07XnQ8eGaa4n48GXXBC+EKzgyn",
+  "snapshot_id": "AAAAAKSjcRd6unen26IKRBnyDyIcx4RR",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:47",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Unknown / Nth",
-      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
         "name": "Lost On The River",
         "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 190400,
       "name": "When I Get My Hands On You",
       "url": "https://open.spotify.com/track/4Fs6KJzg4d0xrGZt7wrC0M"
+    },
+    {
+      "added_at": "2026-09-25 04:01:47",
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Unknown / Nth",
+      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
     },
     {
       "added_at": "2026-09-25 04:01:47",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Snowbank Blues",
+      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
+    },
+    {
+      "added_at": "2026-09-25 04:01:47",
+      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos [Feat. Dan Auerbach]",
       "url": "https://open.spotify.com/track/7CiBrNzJrRDCx0viAECy3e"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Snowbank Blues",
-      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
     },
     {
       "added_at": "2026-09-25 04:01:47",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
+    },
+    {
+      "added_at": "2026-09-25 04:01:47",
+      "album": {
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2026-09-25 04:01:47",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
-        "name": "Fragile Plane: B-Sides",
-        "url": "https://open.spotify.com/album/1RORYbQMEFI6n8LjzBJtWs"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Living in the City is so Beautiful",
-      "url": "https://open.spotify.com/track/2zIvuPFKHOou4JJbOSFa94"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 253613,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
+    },
+    {
+      "added_at": "2026-09-25 04:01:47",
+      "album": {
+        "name": "Fragile Plane: B-Sides",
+        "url": "https://open.spotify.com/album/1RORYbQMEFI6n8LjzBJtWs"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Living in the City is so Beautiful",
+      "url": "https://open.spotify.com/track/2zIvuPFKHOou4JJbOSFa94"
     },
     {
       "added_at": "2026-09-25 04:01:47",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
+        "name": "You're Already There",
+        "url": "https://open.spotify.com/album/6ouIo2cSY03JmfowzMYNxS"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 153900,
+      "name": "You're Already There",
+      "url": "https://open.spotify.com/track/6FBysoHxNcpqiYz8nOcIbJ"
+    },
+    {
+      "added_at": "2026-09-25 04:01:47",
+      "album": {
         "name": "No Way To Relax When You Are On Fire",
         "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 226770,
       "name": "Flash In The Pan",
       "url": "https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
-        "name": "You're Already There",
-        "url": "https://open.spotify.com/album/6ouIo2cSY03JmfowzMYNxS"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 153900,
-      "name": "You're Already There",
-      "url": "https://open.spotify.com/track/6FBysoHxNcpqiYz8nOcIbJ"
     }
   ],
   "unique_name": "Stay in Bed",

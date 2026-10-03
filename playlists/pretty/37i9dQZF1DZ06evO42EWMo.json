@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1209021,
+  "num_followers": 1209100,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAT/D95jk/2dO8nnMvVhEe7",
+  "snapshot_id": "ar2igAAAAACWwstM04iav6Pfi1YURA1M",
   "tracks": [
     {
       "added_at": null,
@@ -378,11 +378,19 @@
         {
           "name": "Amy Winehouse",
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        },
+        {
+          "name": "Zalon Thompson",
+          "url": "https://open.spotify.com/artist/0zekQep7qKANc50WkNbqvP"
+        },
+        {
+          "name": "Ade Omotayo",
+          "url": "https://open.spotify.com/artist/6vBEH6ztLks6Wa9CbTHrgI"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA"
+      "duration_ms": 215000,
+      "name": "Hey Little Rich Girl",
+      "url": "https://open.spotify.com/track/6huXEunO4jEFn9Q7WLoMZs"
     },
     {
       "added_at": null,
@@ -446,19 +454,11 @@
         {
           "name": "Amy Winehouse",
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        },
-        {
-          "name": "Zalon Thompson",
-          "url": "https://open.spotify.com/artist/0zekQep7qKANc50WkNbqvP"
-        },
-        {
-          "name": "Ade Omotayo",
-          "url": "https://open.spotify.com/artist/6vBEH6ztLks6Wa9CbTHrgI"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Hey Little Rich Girl",
-      "url": "https://open.spotify.com/track/6huXEunO4jEFn9Q7WLoMZs"
+      "duration_ms": 176320,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA"
     },
     {
       "added_at": null,

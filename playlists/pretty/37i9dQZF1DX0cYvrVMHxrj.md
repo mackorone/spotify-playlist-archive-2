@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 6 | [OMG](https://open.spotify.com/track/2wb2YziVNTYR5D00fJTHPn) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [OMG](https://open.spotify.com/album/18W4dp5qWUhWnapCGvbNDD) | 2:50 |
 | 7 | [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 |
 | 8 | [Sagitario](https://open.spotify.com/track/3mnB1sPrhZNqEsywmwqN4E) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Sagitario](https://open.spotify.com/album/5lEYaDSKTg2dvBFf3Cj0vf) | 2:48 |
-| 9 | [SE VOLVIERON LOCOS](https://open.spotify.com/track/365KxSOgQJD88CPvnKZSUn) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [LA BATUTA](https://open.spotify.com/album/1E87bPdkmorxfpyA2QrrIb) | 2:55 |
+| 9 | [Se Volvieron Locos](https://open.spotify.com/track/365KxSOgQJD88CPvnKZSUn) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [LA BATUTA](https://open.spotify.com/album/1E87bPdkmorxfpyA2QrrIb) | 2:55 |
 | 10 | [contraste](https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO](https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e) | 3:11 |
 | 11 | [sorry por esta canción \(Londres\)](https://open.spotify.com/track/2iGuYT6EmMGVXVZShiQ5SC) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [sorry por esta canción \(Londres\)](https://open.spotify.com/album/65x1sUS2zqKdDzA3VB9nlB) | 3:34 |
 | 12 | [cosasbonitas ☼](https://open.spotify.com/track/28RKB7EQV4fFNTAXcMmqw3) | [ISADORA](https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C), [SANTANDER](https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K) | [La Isla](https://open.spotify.com/album/0aN32NFZpUuvUIfGY3emlz) | 2:46 |

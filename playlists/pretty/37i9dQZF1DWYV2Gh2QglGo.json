@@ -1,28 +1,156 @@
 {
-  "description": "The home of Canadian country music. Cover: Nate Haller",
-  "num_followers": 84546,
+  "description": "The home of Canadian country music. Cover: Madeline Merlo",
+  "num_followers": 84550,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3lbkeUzQD8QtLKRAF7W67paRw7",
+  "snapshot_id": "AAAAAEFVY4dne56RKfb6o/h5VYBjWe58",
   "tracks": [
     {
-      "added_at": "2026-09-25 04:04:21",
+      "added_at": "2026-10-02 04:04:01",
       "album": {
-        "name": "Can't Stay Here",
-        "url": "https://open.spotify.com/album/2KRZZq6fs8YrVK0cTmoZEz"
+        "name": "I Think You're In Love With Me",
+        "url": "https://open.spotify.com/album/2u3EqWV93xDtwTogBNAI4V"
       },
       "artists": [
         {
-          "name": "Nate Haller",
-          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 197436,
-      "name": "Called It",
-      "url": "https://open.spotify.com/track/1P0l3SrbgZFeyU6hGRx0QZ"
+      "duration_ms": 194639,
+      "name": "I Think You're In Love With Me",
+      "url": "https://open.spotify.com/track/2F08tQVMVWZY4kFfCcANoX"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "Good By Now",
+        "url": "https://open.spotify.com/album/3R4ZvpbQntDFuVCJF7Rw4n"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 183765,
+      "name": "Good By Now",
+      "url": "https://open.spotify.com/track/714MAXEt0p1j3XDCyJ9uZT"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "Where We Can\u2019t Be Found",
+        "url": "https://open.spotify.com/album/489oMKQbst1MTSk7RdixWe"
+      },
+      "artists": [
+        {
+          "name": "Tim & The Glory Boys",
+          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Where We Can\u2019t Be Found",
+      "url": "https://open.spotify.com/track/7A3BGoREczM5kCRr3hQAGL"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "Course de chaloupe",
+        "url": "https://open.spotify.com/album/7tGafQEfYY9QGthkshc38B"
+      },
+      "artists": [
+        {
+          "name": "Francis Degrandpr\u00e9",
+          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
+        }
+      ],
+      "duration_ms": 161481,
+      "name": "Course de chaloupe",
+      "url": "https://open.spotify.com/track/2Qp3PHliV7wObsqRBF20ZU"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "She Rides Away",
+        "url": "https://open.spotify.com/album/0YFxUDMq25DPlwAmO5ngTx"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "duration_ms": 233505,
+      "name": "She Rides Away",
+      "url": "https://open.spotify.com/track/7IXOQA89n7Rx7igjjHUl7n"
+    },
+    {
+      "added_at": "2026-09-25 04:04:21",
+      "album": {
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "Chem History",
+        "url": "https://open.spotify.com/album/0v90juXnWglwaqBr9XSuBN"
+      },
+      "artists": [
+        {
+          "name": "Hailey Benedict",
+          "url": "https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce"
+        }
+      ],
+      "duration_ms": 188256,
+      "name": "Chem History",
+      "url": "https://open.spotify.com/track/1jhnfm4tSokvx0zJH0LaYf"
+    },
+    {
+      "added_at": "2026-09-11 04:03:11",
+      "album": {
+        "name": "Hey Honey",
+        "url": "https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 193679,
+      "name": "Hey Honey",
+      "url": "https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "Thin Line",
+        "url": "https://open.spotify.com/album/4TRXTcXaicX12fios8graX"
+      },
+      "artists": [
+        {
+          "name": "Amanda Couture",
+          "url": "https://open.spotify.com/artist/1znhqL77IuHDs2QnVmprU1"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Thin Line",
+      "url": "https://open.spotify.com/track/1VDnj7Alaf3tnkSVy9ZyPv"
     },
     {
       "added_at": "2026-09-25 04:04:21",
@@ -43,34 +171,18 @@
     {
       "added_at": "2026-09-25 04:04:21",
       "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1"
+        "name": "Can't Stay Here",
+        "url": "https://open.spotify.com/album/2KRZZq6fs8YrVK0cTmoZEz"
       },
       "artists": [
         {
-          "name": "CARV",
-          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Wondering Why",
-      "url": "https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui"
-    },
-    {
-      "added_at": "2026-09-18 04:03:46",
-      "album": {
-        "name": "Wilson Silverstar 402 Blues",
-        "url": "https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP"
-      },
-      "artists": [
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 283723,
-      "name": "Wilson Silverstar 402 Blues",
-      "url": "https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2"
+      "duration_ms": 197436,
+      "name": "Called It",
+      "url": "https://open.spotify.com/track/1P0l3SrbgZFeyU6hGRx0QZ"
     },
     {
       "added_at": "2026-09-25 04:04:21",
@@ -89,20 +201,68 @@
       "url": "https://open.spotify.com/track/6hTCJDWZEaFZ2U0jHiikDz"
     },
     {
-      "added_at": "2026-09-18 04:03:46",
+      "added_at": "2026-10-02 04:04:01",
       "album": {
-        "name": "PRETTY ROUGH: VOL. 1",
-        "url": "https://open.spotify.com/album/1EjgiEc20E5cJc1F4cFaP1"
+        "name": "Tears from the Dive Bar!",
+        "url": "https://open.spotify.com/album/6zlm3w6oB4rYnqtFn6wuv0"
       },
       "artists": [
         {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
         }
       ],
-      "duration_ms": 194168,
-      "name": "HOLD YA TO IT",
-      "url": "https://open.spotify.com/track/2GPqJ7sK3AJjJjMGmpQSq9"
+      "duration_ms": 176024,
+      "name": "Tears from the Dive Bar!",
+      "url": "https://open.spotify.com/track/0QAGdhBBpvqMpvzsPplyi6"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Me Without My Hometown",
+        "url": "https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Me Without My Hometown",
+      "url": "https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/7KYoLbkPNlkzLtCTo4grpi"
+      },
+      "artists": [
+        {
+          "name": "Melissa Livingstone",
+          "url": "https://open.spotify.com/artist/4g9kvG3h1g9Y8EIAnuzzTY"
+        }
+      ],
+      "duration_ms": 208242,
+      "name": "Home - Acoustic",
+      "url": "https://open.spotify.com/track/0dL0ah4WiCydvIZXRf9oiw"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Blue Collar",
+        "url": "https://open.spotify.com/album/4oLMGPMxKuw1Ag5JJpcmZy"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 169246,
+      "name": "Blue Collar",
+      "url": "https://open.spotify.com/track/0tGdlyVYmwrpgwRijjR3jv"
     },
     {
       "added_at": "2026-09-18 04:03:46",
@@ -125,52 +285,20 @@
       "url": "https://open.spotify.com/track/1xOK8ho6DIUq6nZyCTAoe9"
     },
     {
-      "added_at": "2026-09-04 04:03:31",
+      "added_at": "2026-10-02 04:04:01",
       "album": {
-        "name": "Me Without My Hometown",
-        "url": "https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd"
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3OWXlLzC06uSJ4MmOeZHoD"
       },
       "artists": [
         {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+          "name": "Katrine No\u00ebl",
+          "url": "https://open.spotify.com/artist/5RzwAgogwep9Lxd5hlZTXr"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Me Without My Hometown",
-      "url": "https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC"
-    },
-    {
-      "added_at": "2026-09-25 04:04:21",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6wkjeE52fnxmVjxj9Sr8Sp"
-      },
-      "artists": [
-        {
-          "name": "Brittany Kennell",
-          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
-        }
-      ],
-      "duration_ms": 209939,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/7jhuBXcf2cnAMsRAPn4MPZ"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "Hey Honey",
-        "url": "https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 193679,
-      "name": "Hey Honey",
-      "url": "https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn"
+      "duration_ms": 175738,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/1OPVedExpTR1tTUovt3kfp"
     },
     {
       "added_at": "2026-09-25 04:04:21",
@@ -191,6 +319,86 @@
       "duration_ms": 199836,
       "name": "If She\u2019s In A Pawnshop",
       "url": "https://open.spotify.com/track/4cOLiSNVF1yeLnrh7dK1e0"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2V0k6Cpyxqks0gcahyRGZ6"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sole",
+          "url": "https://open.spotify.com/artist/0S38ck3DCcecDbFedRPWfZ"
+        }
+      ],
+      "duration_ms": 221471,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0A76HO6nbA6I23SKHfq0HS"
+    },
+    {
+      "added_at": "2026-10-02 04:04:01",
+      "album": {
+        "name": "I'll Know",
+        "url": "https://open.spotify.com/album/72eVF75otNO1jux20nhkEz"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 145557,
+      "name": "I'll Know",
+      "url": "https://open.spotify.com/track/3Cs9MnaZMUYK7KA3ePjwIQ"
+    },
+    {
+      "added_at": "2026-09-18 04:03:46",
+      "album": {
+        "name": "Wilson Silverstar 402 Blues",
+        "url": "https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 283723,
+      "name": "Wilson Silverstar 402 Blues",
+      "url": "https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2"
+    },
+    {
+      "added_at": "2026-09-18 04:03:46",
+      "album": {
+        "name": "PRETTY ROUGH: VOL. 1",
+        "url": "https://open.spotify.com/album/1EjgiEc20E5cJc1F4cFaP1"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 194168,
+      "name": "HOLD YA TO IT",
+      "url": "https://open.spotify.com/track/2GPqJ7sK3AJjJjMGmpQSq9"
+    },
+    {
+      "added_at": "2026-09-25 04:04:21",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6wkjeE52fnxmVjxj9Sr8Sp"
+      },
+      "artists": [
+        {
+          "name": "Brittany Kennell",
+          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
+        }
+      ],
+      "duration_ms": 209939,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/7jhuBXcf2cnAMsRAPn4MPZ"
     },
     {
       "added_at": "2026-09-25 04:04:21",
@@ -227,22 +435,6 @@
       "duration_ms": 193840,
       "name": "Rien pour m'arr\u00eater",
       "url": "https://open.spotify.com/track/6A2iL9T0WVubRagWdzKpnT"
-    },
-    {
-      "added_at": "2026-09-04 04:03:31",
-      "album": {
-        "name": "Blue Collar",
-        "url": "https://open.spotify.com/album/4oLMGPMxKuw1Ag5JJpcmZy"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 169246,
-      "name": "Blue Collar",
-      "url": "https://open.spotify.com/track/0tGdlyVYmwrpgwRijjR3jv"
     },
     {
       "added_at": "2026-09-25 04:04:21",
@@ -3143,238 +3335,6 @@
       "duration_ms": 203706,
       "name": "Break Me",
       "url": "https://open.spotify.com/track/0DBxGDfVuFX94PfQBT1B56"
-    },
-    {
-      "added_at": "2026-05-22 04:02:55",
-      "album": {
-        "name": "Going Somewhere",
-        "url": "https://open.spotify.com/album/0sgRIyiod5Bc7Zy67ToYms"
-      },
-      "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        }
-      ],
-      "duration_ms": 190044,
-      "name": "The Pilot",
-      "url": "https://open.spotify.com/track/2BSphwlA17BfMQtFfnCCKg"
-    },
-    {
-      "added_at": "2026-05-22 04:02:55",
-      "album": {
-        "name": "Nothing On Me",
-        "url": "https://open.spotify.com/album/7hwI2tNyQeVRShLYQrVoxv"
-      },
-      "artists": [
-        {
-          "name": "Tony Stevens",
-          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
-        }
-      ],
-      "duration_ms": 156754,
-      "name": "Nothing On Me",
-      "url": "https://open.spotify.com/track/1V5SxmanpeqEjZIUfCWp5T"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "The Way I Know You Now",
-        "url": "https://open.spotify.com/album/1LRPntWeUXZauPxf8oBEhf"
-      },
-      "artists": [
-        {
-          "name": "Zach McPhee",
-          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
-        }
-      ],
-      "duration_ms": 172301,
-      "name": "The Way I Know You Now",
-      "url": "https://open.spotify.com/track/0po2VGEzWtCtsfpAJfgRkU"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "Why On Earth",
-        "url": "https://open.spotify.com/album/6Qk7iW6zUycGSDoWCiVzV8"
-      },
-      "artists": [
-        {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Why On Earth",
-      "url": "https://open.spotify.com/track/4hprLONLP4nq3K7U09XslR"
-    },
-    {
-      "added_at": "2026-05-22 04:02:55",
-      "album": {
-        "name": "Break the Bronco",
-        "url": "https://open.spotify.com/album/6mopZVRgp9DY2PbfKPlCJF"
-      },
-      "artists": [
-        {
-          "name": "Matt Lang",
-          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Break the Bronco",
-      "url": "https://open.spotify.com/track/0snJCP2rCRPurMXdoWIx0M"
-    },
-    {
-      "added_at": "2026-02-27 05:01:26",
-      "album": {
-        "name": "Deer in the Headlights",
-        "url": "https://open.spotify.com/album/5qeZSe0axVQt0roM9PqMJL"
-      },
-      "artists": [
-        {
-          "name": "Tallulah Argue",
-          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
-        }
-      ],
-      "duration_ms": 235555,
-      "name": "I Think I'm Gonna Love You Forever",
-      "url": "https://open.spotify.com/track/2wa37x2GB65RpxpKV3ch67"
-    },
-    {
-      "added_at": "2026-05-15 04:03:14",
-      "album": {
-        "name": "I've Got a Keg",
-        "url": "https://open.spotify.com/album/0AeFwdmKMfeCJVkicdIc1l"
-      },
-      "artists": [
-        {
-          "name": "Justin Fancy",
-          "url": "https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj"
-        }
-      ],
-      "duration_ms": 218947,
-      "name": "I've Got a Keg",
-      "url": "https://open.spotify.com/track/52XmxHMoAUSrkCZiD2OBWw"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "Little Boy",
-        "url": "https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy"
-      },
-      "artists": [
-        {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
-        }
-      ],
-      "duration_ms": 218141,
-      "name": "Little Boy",
-      "url": "https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW"
-    },
-    {
-      "added_at": "2026-04-10 04:04:24",
-      "album": {
-        "name": "The Acrobat",
-        "url": "https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 148995,
-      "name": "ordinary love song",
-      "url": "https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "South of the Suburbs",
-        "url": "https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf"
-      },
-      "artists": [
-        {
-          "name": "Matt Bazinet",
-          "url": "https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "South of the Suburbs",
-      "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
-    },
-    {
-      "added_at": "2026-01-09 05:01:23",
-      "album": {
-        "name": "Hometown Heroes (feat. Dean Brody)",
-        "url": "https://open.spotify.com/album/7oNjPhQc4OEP93PWPFecsp"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        },
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 223538,
-      "name": "Hometown Heroes (feat. Dean Brody)",
-      "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
-    },
-    {
-      "added_at": "2026-03-27 04:01:06",
-      "album": {
-        "name": "Her Rodeo",
-        "url": "https://open.spotify.com/album/0WaztXTUiIN1CS8Ebx4bxe"
-      },
-      "artists": [
-        {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
-        }
-      ],
-      "duration_ms": 170752,
-      "name": "Cut Him Loose",
-      "url": "https://open.spotify.com/track/0muNW8rIdKibQ53jYZtntK"
-    },
-    {
-      "added_at": "2026-03-06 05:00:29",
-      "album": {
-        "name": "Paradise & Hurricanes",
-        "url": "https://open.spotify.com/album/2r9AsTcJn97CcARYFM8pMx"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        }
-      ],
-      "duration_ms": 204825,
-      "name": "Fools",
-      "url": "https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn"
-    },
-    {
-      "added_at": "2026-02-27 05:01:26",
-      "album": {
-        "name": "the acrobat (feat. Lori McKenna)",
-        "url": "https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        },
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 234272,
-      "name": "the acrobat (feat. Lori McKenna)",
-      "url": "https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R"
     }
   ],
   "unique_name": "North Country",

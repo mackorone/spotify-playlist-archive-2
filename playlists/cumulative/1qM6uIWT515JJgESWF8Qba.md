@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-326 songs - 20 hr 24 min
+327 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Monkfish](https://open.spotify.com/track/4BvBGq0OroqEMATekQq2EW) | [Salad Days.](https://open.spotify.com/artist/1ogzEwTOLBa4ryvx0xgbP1) | [Monkfish](https://open.spotify.com/album/3l2BZD1mTenRPY5wkJRblP) | 4:01 | 2026-01-15 | 2026-02-23 |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-12-23 | 2026-01-21 |
 | [Mother Resides](https://open.spotify.com/track/0gn4YWc1ehOYzh8Nnf4bEz) | [Mother Resides](https://open.spotify.com/artist/6RnyzZjMLyEZ4WY96JmGJW) | [Mother Resides](https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD) | 3:52 | 2025-12-16 | 2026-01-21 |
+| [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-10-02 |  |
 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 | 2025-11-04 |  |
 | [My Last Song](https://open.spotify.com/track/1vA3Eckd0hUPGctLZsLSis) | [WakeUpCall](https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve) | [If Beethoven Was a Punk](https://open.spotify.com/album/1MZl3M08invYemenKtPv7T) | 3:23 | 2026-10-01 |  |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2026-02-10 | 2026-05-19 |

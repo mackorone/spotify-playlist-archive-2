@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105608,
+  "num_followers": 105606,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao"
       },
@@ -395,38 +395,6 @@
       "duration_ms": 178334,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
-        "name": "My Reckless Abandon",
-        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 197032,
-      "name": "i deserve better.",
-      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
-        "name": "Reverse Psychology",
-        "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 178928,
-      "name": "Reverse Psychology",
-      "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -447,18 +415,34 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "SLEEP",
-        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+        "name": "Reverse Psychology",
+        "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 151654,
-      "name": "SLEEP",
-      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
+      "duration_ms": 178928,
+      "name": "Reverse Psychology",
+      "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -475,6 +459,22 @@
       "duration_ms": 213690,
       "name": "Perfect Man",
       "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151654,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 140520,
+      "name": "Nobody Wanna Dance Anymore",
+      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 167553,
       "name": "Pay That Toll",
       "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 140520,
-      "name": "Nobody Wanna Dance Anymore",
-      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -675,30 +675,6 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "The Odyssey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 326909,
-      "name": "When I\u2019m Home",
-      "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
         "name": "Pillow Fight / I\u2019d Rather Be Alone",
         "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
       },
@@ -751,6 +727,30 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
+        "name": "The Odyssey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 326909,
+      "name": "When I\u2019m Home",
+      "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "Happiness Anytime: Part 1",
-        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Light the Way",
-      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
         "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
         "url": "https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 175680,
       "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
       "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
         "name": "Hold My Breath",
         "url": "https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m"
       },
@@ -959,50 +939,22 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "We Know Too Much",
-        "url": "https://open.spotify.com/album/3C0YWIcCuiba0l785qwUtk"
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 201957,
-      "name": "Fields of Love",
-      "url": "https://open.spotify.com/track/4QdRyyWxOPXOqR6POkOT6V"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
-        "name": "When He\u2019s Gone",
-        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
-      },
-      "artists": [
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         }
       ],
-      "duration_ms": 186360,
-      "name": "When He\u2019s Gone",
-      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
-        "name": "Don\u2019t Leave Me on the Dance Floor",
-        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Don\u2019t Leave Me on the Dance Floor",
-      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -1027,22 +979,50 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
-        "url": "https://open.spotify.com/album/4q490xQL52UB8q289YHrw0"
+        "name": "We Know Too Much",
+        "url": "https://open.spotify.com/album/3C0YWIcCuiba0l785qwUtk"
       },
       "artists": [
         {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        },
-        {
-          "name": "Thomas Helmig",
-          "url": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 158413,
-      "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
-      "url": "https://open.spotify.com/track/6rQtbOONmDKLD8mA1Dfbrr"
+      "duration_ms": 201957,
+      "name": "Fields of Love",
+      "url": "https://open.spotify.com/track/4QdRyyWxOPXOqR6POkOT6V"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -1075,6 +1055,26 @@
       "duration_ms": 218388,
       "name": "Danser Med Minder",
       "url": "https://open.spotify.com/track/1ZOOtzolAVDQlzUf7thUZf"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
+        "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
+        "url": "https://open.spotify.com/album/4q490xQL52UB8q289YHrw0"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        },
+        {
+          "name": "Thomas Helmig",
+          "url": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
+        }
+      ],
+      "duration_ms": 158413,
+      "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
+      "url": "https://open.spotify.com/track/6rQtbOONmDKLD8mA1Dfbrr"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -1167,18 +1167,22 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "Blue Island",
-        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 200400,
-      "name": "In & Out",
-      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
+      "duration_ms": 177561,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 177561,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
+        "name": "Hvor du er",
+        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
+      },
+      "artists": [
+        {
+          "name": "dreng&piger",
+          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
+        }
+      ],
+      "duration_ms": 145778,
+      "name": "Hvor du er",
+      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
         "name": "Du er min bror!",
         "url": "https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 186347,
       "name": "Du er min bror!",
       "url": "https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
-        "name": "Hvor du er",
-        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
-      },
-      "artists": [
-        {
-          "name": "dreng&piger",
-          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
-        }
-      ],
-      "duration_ms": 145778,
-      "name": "Hvor du er",
-      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
     },
     {
       "added_at": "2026-09-25 10:22:36",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2026-09-25 10:22:36",
       "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        },
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "Herinde",
-      "url": "https://open.spotify.com/track/6P0NSsp88qTFhRfOfrhbWd"
-    },
-    {
-      "added_at": "2026-09-25 10:22:36",
-      "album": {
         "name": "den forbandede k\u00e6rlighed",
         "url": "https://open.spotify.com/album/2euEkE8Y4mU3W2vzcZfEBi"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 171312,
       "name": "den forbandede k\u00e6rlighed",
       "url": "https://open.spotify.com/track/0o493HbZyZ44KzC7Ee4PXv"
+    },
+    {
+      "added_at": "2026-09-25 10:22:36",
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "Herinde",
+      "url": "https://open.spotify.com/track/6P0NSsp88qTFhRfOfrhbWd"
     }
   ],
   "unique_name": "De nye",

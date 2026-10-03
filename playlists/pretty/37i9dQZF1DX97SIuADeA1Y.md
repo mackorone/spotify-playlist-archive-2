@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,695 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,692 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 27 | [Everybody Cries](https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu) | 2:50 |
 | 28 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
 | 29 | [Big Hoops](https://open.spotify.com/track/29jqFjb8D3GvGjWcCnl4IJ) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y) | [Big Hoops](https://open.spotify.com/album/4tBx7yPE2YtUqXrLldEghH) | 2:19 |
-| 30 | [Better Place \- Tiësto Remix](https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 3:02 |
-| 31 | [Speed of Light](https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC) | [Drive With Beats](https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa), [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg) | [Speed of Light](https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj) | 2:56 |
+| 30 | [Speed of Light](https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC) | [Drive With Beats](https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa), [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg) | [Speed of Light](https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj) | 2:56 |
+| 31 | [Better Place \- Tiësto Remix](https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 3:02 |
 | 32 | [Gangsta's Paradise](https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Gangsta's Paradise](https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9) | 2:48 |
 | 33 | [Poison](https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Poison](https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI) | 3:22 |
 | 34 | [Baby Steps](https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Baby Steps](https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB) | 2:23 |

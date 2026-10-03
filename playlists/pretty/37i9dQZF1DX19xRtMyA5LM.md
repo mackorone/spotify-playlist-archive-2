@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Frsh,  Jordymone9, Rijck, Leblanco en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,045 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,063 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/1IMec53wbo65roDYmCnbdX) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 0:00 |
+| 1 | [Fijnproever](https://open.spotify.com/track/1IMec53wbo65roDYmCnbdX) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 1:43 |
 | 2 | [HVB](https://open.spotify.com/track/1rmyXcwRGKDpKG9EzjmlQQ) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [HVB](https://open.spotify.com/album/2J0nVKpUaEfK1HfH2mDST1) | 2:30 |
 | 3 | [Handschoen](https://open.spotify.com/track/2nronHAna955wZyk3SuS7n) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Handschoen](https://open.spotify.com/album/5SFCedMDXmTcxkENcrl1iL) | 2:08 |
 | 4 | [Pistache](https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Pistache](https://open.spotify.com/album/1QH2lIg5RSOJAvzFIysHec) | 2:25 |
 | 5 | [Grof Geschud](https://open.spotify.com/track/3MbJfytR4PKUyxOg5EFoKI) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Grof Geschud](https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY) | 2:59 |
 | 6 | [TOKYO](https://open.spotify.com/track/1bDOSa2VxFDMOTd2tEsuNE) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:23 |
 | 7 | [100 Tranen](https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [100 Tranen](https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F) | 2:36 |
-| 8 | [Ring d’Anvers](https://open.spotify.com/track/7dONsabhDrIQGJsZ9ZpmYO) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Ring d’Anvers](https://open.spotify.com/album/42wDka1eRqo4MlXiMnaGR1) | 2:16 |
+| 8 | [Ring d’Anvers](https://open.spotify.com/track/7dONsabhDrIQGJsZ9ZpmYO) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [Ring d’Anvers](https://open.spotify.com/album/42wDka1eRqo4MlXiMnaGR1) | 2:16 |
 | 9 | [Komt Goed](https://open.spotify.com/track/4fAra1tnBDROPUAi9KNFUP) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj) | [Komt Goed](https://open.spotify.com/album/7huMpPzUuomxzqEUAIMOFl) | 2:45 |
 | 10 | [Richard](https://open.spotify.com/track/3h4kL7dZVHZyU1Cb4IPQ0j) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4) | [Richard](https://open.spotify.com/album/2UatcdPXHsmDzv46YmNCEV) | 4:15 |
 | 11 | [Ik Droom](https://open.spotify.com/track/4RlwjDq7AmFnn9QfY6AW34) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10), [Baranka Music](https://open.spotify.com/artist/4MsbmsHz9pKww3ey2OjC0d) | [Baranka Music Promo Tape \(26\)](https://open.spotify.com/album/0eeTdND0Ua4KK9PceETEHK) | 2:59 |
 | 12 | [Al Blancocino](https://open.spotify.com/track/5xqYeSU1PxLW4Eh4f7Cq52) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Al Blancocino](https://open.spotify.com/album/4wHUcYPm0jRvqVDYpaTPMM) | 2:21 |
-| 13 | [Track 2](https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 0:00 |
+| 13 | [CC](https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 2:00 |
 | 14 | [De Hele Week](https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [De Hele Week](https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG) | 2:22 |
 | 15 | [BLIJF RUSTIG](https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BLIJF RUSTIG](https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM) | 2:49 |
 | 16 | [‘Love Not Free’](https://open.spotify.com/track/0dX7n8yV4yF5elJyzk8VQN) | [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [‘Love Not Free’ & 580S](https://open.spotify.com/album/6ftGcAC7wqKPQUWcKRS5KZ) | 1:59 |

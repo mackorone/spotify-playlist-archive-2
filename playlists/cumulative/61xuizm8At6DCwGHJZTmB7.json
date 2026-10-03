@@ -1845,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Here Comes The Church",
+        "url": "https://open.spotify.com/album/6FDsAiolMTmN88gZQs8qpB"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315565,
+      "name": "Bless Your Name (with Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/6UNOuZfElonKBZRd9rPAru"
+    },
+    {
+      "album": {
         "name": "Blessed Assurance (I Will Praise You)",
         "url": "https://open.spotify.com/album/0ihoBcuioyoGx6ZMdrLtss"
       },
@@ -14087,6 +14109,32 @@
     },
     {
       "album": {
+        "name": "House Of Worship (Deluxe)",
+        "url": "https://open.spotify.com/album/5lkkzGifyKChKzHZkafoNr"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Jami Garcia",
+          "url": "https://open.spotify.com/artist/45GgPUXRzUxrIxNFh9T6hz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252986,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/4Kheg0rwj17X9Vc4chszFP"
+    },
+    {
+      "album": {
         "name": "Thank You For The Cross",
         "url": "https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4"
       },
@@ -14098,10 +14146,32 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 270994,
       "name": "Thank You For The Cross",
       "url": "https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Church",
+        "url": "https://open.spotify.com/album/6FDsAiolMTmN88gZQs8qpB"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538574,
+      "name": "Thank You For The Cross (with Abbie Gamboa)",
+      "url": "https://open.spotify.com/track/1swW6EBZDBGbvSKCNi1U9W"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-218 songs - 12 hr 41 min
+223 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2025-07-04 |  |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-07-04 |  |
 | [Bones \- Acoustic Version](https://open.spotify.com/track/602oKvGPvOrfCzKvgItfap) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones \(Acoustic Version\)](https://open.spotify.com/album/6M2j1Uk7mmkDfDg997bxMy) | 2:56 | 2026-01-16 | 2026-03-28 |
+| [Born For You](https://open.spotify.com/track/6P4KOxSNS12SAa0zYExbwZ) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Born For You](https://open.spotify.com/album/5mCXq7JbA0KKtXNJXe5I5r) | 2:35 | 2026-10-02 |  |
 | [Born To](https://open.spotify.com/track/3krLzrgWMoKzcyi0hZQ2F4) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Born To](https://open.spotify.com/album/7HrCHq421CdAnnRgrs2SoF) | 2:52 | 2025-09-18 | 2025-11-08 |
 | [Boy](https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Boy](https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58) | 3:21 | 2025-07-04 | 2026-02-18 |
 | [bridesmaid](https://open.spotify.com/track/2LZ24cM1dh7nIs1tblxiwV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [bridesmaid](https://open.spotify.com/album/26KBwbUyMsbzjiAXyrOKP8) | 3:12 | 2025-07-04 | 2026-03-28 |
@@ -41,6 +42,7 @@
 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2025-07-04 | 2025-11-08 |
 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-07-04 | 2026-07-04 |
 | [Constant Companion](https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hazel Eyes](https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh) | 4:51 | 2026-08-21 |  |
+| [Cowboy](https://open.spotify.com/track/1j6NNt6UDZVjrjijLFTKc7) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:04 | 2026-10-02 |  |
 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 | 2026-04-07 | 2026-04-11 |
 | [Crumbling Empire](https://open.spotify.com/track/5M4BVWXiOUabQUqdY8eqJt) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 5:07 | 2026-10-01 |  |
 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 | 2025-09-12 |  |
@@ -62,6 +64,7 @@
 | [Don’t Blame It On Me](https://open.spotify.com/track/5uXaxiobY7NILnt0GcbCZ4) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Don’t Blame It On Me](https://open.spotify.com/album/7tWMNiHjYhhW943tF7ByEe) | 3:01 | 2026-02-02 |  |
 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 | 2026-04-24 |  |
 | [Down to be wrong](https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg) | 4:09 | 2025-07-04 | 2025-10-03 |
+| [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-02 |  |
 | [Drink The Water](https://open.spotify.com/track/2WO8854ooH5dQDBi5Hyntq) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Drink The Water](https://open.spotify.com/album/0OAgOyC13x2BeobHWpkWOD) | 3:42 | 2026-03-13 | 2026-09-03 |
 | [Dry Spell](https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dry Spell](https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS) | 3:17 | 2026-03-13 |  |
 | [d£aler](https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI) | 2:40 | 2025-07-25 | 2025-09-05 |
@@ -127,6 +130,7 @@
 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 | 2026-09-03 |  |
 | [My Friend](https://open.spotify.com/track/6ZZBMSIa6EaOxRrzhxK0fA) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Friend](https://open.spotify.com/album/0GKR0SFsSk5KptVO88Mpph) | 4:01 | 2026-08-28 |  |
 | [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 | 2026-06-26 | 2026-09-03 |
+| [My Life Story Of Love](https://open.spotify.com/track/3fcek9ONujbKm7piCwDBMN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life \- The EP](https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj) | 3:58 | 2026-10-02 |  |
 | [Never Been Better](https://open.spotify.com/track/5D6qQXww5siYkd2YyJpLEf) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Never Been Better](https://open.spotify.com/album/5Bzfi69AAAg0v7o6IIDWGb) | 2:59 | 2025-11-07 | 2026-03-25 |
 | [New York Confident](https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [New York Confident](https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2) | 2:27 | 2026-05-22 |  |
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-07-04 | 2026-05-23 |
@@ -174,6 +178,7 @@
 | [Stay Love](https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6) | 3:26 | 2026-04-20 |  |
 | [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2025-07-04 |  |
+| [Summer Clothes](https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Summer Clothes](https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3) | 4:25 | 2026-10-02 |  |
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-07-04 | 2026-04-29 |
 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 | 2025-10-08 |  |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-07-04 | 2026-05-23 |

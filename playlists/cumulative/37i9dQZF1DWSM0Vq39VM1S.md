@@ -4,7 +4,7 @@
 
 > C'est parti pour une bonne journée.
 
-311 songs - 19 hr 14 min
+313 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2023-02-21 | 2024-02-16 |
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2024-03-27 | 2025-05-23 |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2023-09-08 | 2024-04-19 |
-| [Borrow mine](https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Flower of the soul \(full bloom\)](https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE) | 2:23 | 2024-11-06 |  |
+| [Borrow mine](https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Flower of the soul \(full bloom\)](https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE) | 2:23 | 2024-11-06 | 2026-10-03 |
 | [Break Apart](https://open.spotify.com/track/4UmuBF2XzW3EkO0rfrnYNO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Break Apart](https://open.spotify.com/album/0pUSzD35M8SzKHrNGPYlpR) | 4:34 | 2024-03-27 | 2024-11-07 |
 | [Breath of Roma](https://open.spotify.com/track/7oHPHBLG6hOaGeBrkOUSS3) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Breath of Roma](https://open.spotify.com/album/7CweJaFaFVZLSQvCtDM05m) | 3:25 | 2024-03-27 | 2025-04-16 |
 | [Brown Eyes](https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Brown Eyes](https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE) | 3:17 | 2025-04-24 | 2025-12-18 |
@@ -70,7 +70,7 @@
 | [Cruel](https://open.spotify.com/track/6MHU4IpKlrs74RpgDvM3Jg) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Cruel](https://open.spotify.com/album/1Y3OY3nhlsmEQnzXjkqP9C) | 3:04 | 2026-01-15 | 2026-08-22 |
 | [Deeply](https://open.spotify.com/track/4zIpKhIGG2p9uJgyvthVxQ) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Meryem](https://open.spotify.com/album/2a7C1v4N081yIZf0ZTVhnu) | 3:21 | 2022-12-06 | 2025-04-16 |
 | [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 | 2025-10-02 |  |
-| [Do No Harm \(feat\. Baby Rose\)](https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [22 Durnham Dew](https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n) | 3:15 | 2026-09-25 |  |
+| [Do No Harm \(feat\. Baby Rose\)](https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [22 Durnham Dew](https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n) | 3:15 | 2026-09-25 | 2026-10-03 |
 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 | 2025-03-14 | 2025-04-16 |
 | [Double Shifts](https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Double Shifts](https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb) | 3:28 | 2023-01-09 | 2025-06-07 |
 | [Dream for Dreaming](https://open.spotify.com/track/6EYovLuhOyBLJWWIW3XUwo) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream for Dreaming](https://open.spotify.com/album/3KgYLdX59AWiaUcLWC2IXs) | 3:39 | 2022-12-06 | 2024-08-24 |
@@ -150,6 +150,7 @@
 | [Josh Tillman and the Accidental Dose](https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 5:12 | 2024-12-09 | 2025-04-16 |
 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 | 2026-02-19 |  |
 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 | 2023-02-21 | 2025-04-16 |
+| [just us](https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [just us](https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3) | 3:10 | 2026-10-02 |  |
 | [Keep Running](https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Keep Running](https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a) | 2:54 | 2022-12-06 | 2025-03-15 |
 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 | 2024-09-09 | 2025-02-28 |
 | [King and Cross](https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:33 | 2022-12-06 | 2023-02-22 |
@@ -288,6 +289,7 @@
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2025-04-15 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-19 |  |
 | [Traffic Lights](https://open.spotify.com/track/2Ic3Obe9brvYs5e65Bl2Nc) | [Victor Solf](https://open.spotify.com/artist/5Y8g8xQA1pNHnnfFznkcqZ) | [Traffic Lights](https://open.spotify.com/album/7ydJal4g5NFBKfJGjpLoam) | 4:00 | 2024-03-27 | 2024-09-27 |
+| [Unforgivable Things](https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Unforgivable Things](https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC) | 2:35 | 2026-10-02 |  |
 | [Us](https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf) | 3:56 | 2025-07-17 | 2026-02-20 |
 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 | 2024-09-17 | 2025-05-17 |
 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 | 2023-03-18 | 2023-06-01 |

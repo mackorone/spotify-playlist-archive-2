@@ -4,7 +4,7 @@
 
 > Nuovi brani di ARIETE, Geolier, Rkomi e Khodi, Tony Boy, Giorgia e tanti altri.
 
-10,600 songs - 22 day 9 hr 16 min
+10,601 songs - 22 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4383,6 +4383,7 @@
 | [IL SOLE](https://open.spotify.com/track/3zk5LaepUYP30KimiGFLUL) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [IL SOLE](https://open.spotify.com/album/3hLRCMAUSeX27eEN5bMvtf) | 2:57 | 2025-08-28 | 2025-09-05 |
 | [IL SOLE \(feat\. Alvaro Soler & Roy Paci\)](https://open.spotify.com/track/7Eg0McMVERpFrpuJ9P4e0O) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Roy Paci](https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb) | [IL SOLE \(feat\. Alvaro Soler & Roy Paci\)](https://open.spotify.com/album/3hv1rvBltcEwa2VN0bK80U) | 2:10 | 2026-09-03 | 2026-09-11 |
 | [IL SOLE è ROSSO](https://open.spotify.com/track/5hXjvKLMoAfU27sQzG2YlO) | [@gabriele](https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb) | [IL SOLE è ROSSO](https://open.spotify.com/album/0Ubx6rC0UAtiu2Mcl6M6F5) | 2:43 | 2026-05-14 | 2026-05-22 |
+| [il solito \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/6xQLMmRltfDpr9xlbD4Awu) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [bar speranza](https://open.spotify.com/album/1QFTu41rPxba6x0QcVhv2z) | 2:14 | 2026-10-02 |  |
 | [Il suo culo fa](https://open.spotify.com/track/5PsdadgitrJ9TLuVBmFQ46) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [Il suo culo fa](https://open.spotify.com/album/5kBTBUwORgvW6lPlqMu9Lp) | 2:12 | 2024-12-19 | 2025-01-03 |
 | [Il taxi](https://open.spotify.com/track/7o57olYhwL3MuDMZ8F0MTW) | [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Il taxi](https://open.spotify.com/album/4ZCuRNwOFCCCI3ghTCX1oi) | 3:00 | 2025-05-01 | 2025-05-09 |
 | [Il Teatro dell’Anima](https://open.spotify.com/track/60QENwGTnzAXeqjyypsoDK) | [Glomarì](https://open.spotify.com/artist/7LRG0giU7EnricaEi0qEcm) | [Strumenti dell'indugio](https://open.spotify.com/album/26vpZwelaP12IvHjRQQuuu) | 3:36 | 2026-03-20 | 2026-03-27 |

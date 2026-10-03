@@ -20191,6 +20191,24 @@
     },
     {
       "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/4o6Q9UNplVun5nsP2FRRvt"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171075,
+      "name": "Pijnstiller",
+      "url": "https://open.spotify.com/track/11wW1i3hmPCBO49XNgxcHx"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
       },

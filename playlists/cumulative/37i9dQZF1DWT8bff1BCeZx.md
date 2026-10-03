@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,145 songs - 3 day 4 hr 8 min
+1,145 songs - 3 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,6 +889,7 @@
 | [Scatter My Head](https://open.spotify.com/track/5KjLzlItfg6xMAyECHiG1r) | [Destined Brothers](https://open.spotify.com/artist/1j99Uzezc0pC355ge0lsKV), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Scatter My Head](https://open.spotify.com/album/0gB8GX5rTpIjTUyHUKP6a8) | 3:24 | 2025-03-07 | 2025-03-14 |
 | [Scriptures \(feat\. Okevibes & Missionary Souljah\)](https://open.spotify.com/track/3Ex3JZFHZpXtqls8ojc4XG) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr), [Okevibes](https://open.spotify.com/artist/1hW6j8KHv4vc56UyhzccUM), [Missionary Souljah](https://open.spotify.com/artist/7oRq2ToSNQvfAS2IAO62rB) | [Scriptures \(feat\. Okevibes & Missionary Souljah\)](https://open.spotify.com/album/5KEnwTezLJEHPuq9E6yDBa) | 2:31 | 2025-07-18 | 2025-10-17 |
 | [Se Bebe](https://open.spotify.com/track/6h3SIM1JXtfeMqLoFzjk7R) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Se Bebe](https://open.spotify.com/album/3AEvRjl43zhrEseUH3kyt2) | 3:17 | 2025-09-19 | 2025-10-17 |
+| [see the truth](https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [blinded](https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc) | 2:22 | 2026-10-02 |  |
 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-26 | 2025-02-28 |
 | [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 | 2023-08-18 | 2023-09-09 |
 | [Serving A God \- Energize Version](https://open.spotify.com/track/6R7FZf8xbSiI6ubbXsuyxq) | [Energize Music](https://open.spotify.com/artist/5dAPl80cZ4v2sTePGMbP2E), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Serving A God \(Energize Version\)](https://open.spotify.com/album/37MjDtf3Fzn5VEZ2tocwsi) | 4:08 | 2025-09-19 | 2025-11-14 |
@@ -1014,7 +1015,6 @@
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-11-14 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-03-13 |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 5](https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [blinded](https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc) | 0:00 | 2026-10-02 |  |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |

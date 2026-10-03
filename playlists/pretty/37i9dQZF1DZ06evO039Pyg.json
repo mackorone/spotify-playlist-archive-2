@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 338700,
+  "num_followers": 338745,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABrt6KvSxVBBxhm63hE9p7d",
+  "snapshot_id": "ar2igAAAAABdVfb5rhliEAad/rddYial",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SweetSexySavage (Deluxe)",
+        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 177139,
       "name": "Ring (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SweetSexySavage (Deluxe)",
-        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD"
     },
     {
       "added_at": null,
@@ -372,13 +372,13 @@
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         },
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 162514,
-      "name": "Sweet Nuthins (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A"
+      "duration_ms": 186112,
+      "name": "Shoulda Never (feat. USHER)",
+      "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
     },
     {
       "added_at": null,
@@ -448,13 +448,13 @@
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         },
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 186112,
-      "name": "Shoulda Never (feat. USHER)",
-      "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
+      "duration_ms": 162514,
+      "name": "Sweet Nuthins (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A"
     },
     {
       "added_at": null,
@@ -594,11 +594,15 @@
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 213283,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/0Ntgg91du8iTGOobonADUu"
+      "duration_ms": 241927,
+      "name": "Anotha Luva (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN"
     },
     {
       "added_at": null,

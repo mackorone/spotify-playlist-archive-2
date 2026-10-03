@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: After
+> New and approved indie pop\. Cover: Forrest Nolan
 
-2,534 songs - 5 day 15 hr 11 min
+2,538 songs - 5 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2021-06-25 | 2022-04-16 |
 | [19](https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [19](https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG) | 2:16 | 2023-06-30 | 2024-01-24 |
 | [2 Dollar Bill](https://open.spotify.com/track/31A3MoeCHGFks4CkKmwQ5j) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [2 Dollar Bill](https://open.spotify.com/album/57xQaT1EgQsHjHKNP7x74G) | 3:33 | 2026-09-18 |  |
-| [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 | 2026-09-18 |  |
+| [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 | 2026-09-18 | 2026-10-03 |
 | [2000 Miles](https://open.spotify.com/track/1nWCNJX79ARq0EtXyKyiIS) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/6n0YcmOzCJniZH9M4mYrt7) | 2:59 | 2022-03-18 | 2022-07-29 |
 | [2000 Miles](https://open.spotify.com/track/6jmIH21TDBlLlszYWbc9rd) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T) | 2:59 | 2022-09-30 | 2023-02-25 |
 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 | 2024-01-14 |
@@ -70,7 +70,7 @@
 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 | 2023-09-08 | 2024-01-27 |
 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 | 2026-04-17 |  |
 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 | 2022-10-07 | 2022-10-22 |
-| [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 | 2026-09-18 |  |
+| [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 | 2026-09-18 | 2026-10-03 |
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-01-10 | 2025-05-04 |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-12 | 2026-01-17 |
 | [Adult](https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Adult](https://open.spotify.com/album/61EpcO4cSj1KVzYD6xPyFe) | 2:37 | 2020-10-16 | 2022-06-15 |
@@ -96,7 +96,7 @@
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-18 | 2022-10-29 |
 | [all i ever wanted \(was you\)](https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [all i ever wanted \(was you\)](https://open.spotify.com/album/3Z4Xf5uITELZqCZhD6QGbp) | 2:30 | 2022-04-25 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 | 2020-11-03 | 2021-03-22 |
-| [All I See Is The Sky](https://open.spotify.com/track/2tyfn5zPNpAa8IyF0sszGj) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Dust Settles and So Will I](https://open.spotify.com/album/4f9ajG7yABePyI59OhmRQH) | 2:53 | 2026-09-25 |  |
+| [All I See Is The Sky](https://open.spotify.com/track/2tyfn5zPNpAa8IyF0sszGj) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Dust Settles and So Will I](https://open.spotify.com/album/4f9ajG7yABePyI59OhmRQH) | 2:53 | 2026-09-25 | 2026-10-03 |
 | [All My Friends Are Stoned](https://open.spotify.com/track/7BL33HmuFQien4olebugdj) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now \- EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:39 | 2020-11-03 | 2021-10-13 |
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-01-21 | 2022-06-15 |
 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2023-09-08 | 2024-01-01 |
@@ -339,6 +339,7 @@
 | [Breathe](https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Breathe](https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C) | 2:56 | 2026-03-13 | 2026-05-16 |
 | [breathless](https://open.spotify.com/track/3f1B7seoBSLXlyXS2QZU46) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [plum](https://open.spotify.com/album/61jHjRFqnc0XBx4hxcA6rG) | 3:41 | 2026-06-12 | 2026-09-12 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-25 | 2022-07-23 |
+| [Broken chair](https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Broken chair](https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w) | 3:40 | 2026-10-02 |  |
 | [Broken Glass](https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:14 | 2025-06-27 | 2026-02-07 |
 | [brokenhearted](https://open.spotify.com/track/6I5BbFFYDe8TmEk0VtW7Cl) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [brokenhearted](https://open.spotify.com/album/4LO5fNpbCHVEDb6TIOs5l1) | 3:32 | 2020-10-13\* | 2021-05-23 |
 | [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 | 2024-03-26 | 2025-05-31 |
@@ -1535,6 +1536,7 @@
 | [My Boy](https://open.spotify.com/track/1etxSghMDCTphS2HCYYagu) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [My Boy](https://open.spotify.com/album/2X7wrqEzYtdT4g34MNgKEX) | 2:55 | 2022-03-18 | 2022-04-15 |
 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 | 2024-05-03 | 2024-05-18 |
 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-04-12 | 2024-10-12 |
+| [my girl could too](https://open.spotify.com/track/6B8QswCNK3x1kSIVh4W7ml) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv), [hey hey](https://open.spotify.com/artist/5wweLa0rCB2s0kSpkUHDIe) | [Indie Movie Soundtrack](https://open.spotify.com/album/7I6MN9nGSErwluedzQpouw) | 3:09 | 2026-10-02 |  |
 | [My House](https://open.spotify.com/track/69cOm540NYGkZpL4Jx2mUx) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House](https://open.spotify.com/album/3bC63CIq5bU9HnE7AnYtQF) | 3:42 | 2021-02-22 | 2021-05-28 |
 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 | 2024-03-08 | 2025-06-28 |
 | [My Love](https://open.spotify.com/track/3akpDdQJUVckqG4r1bmR25) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/4pI2XhkcyVb6MJXfEDF67u) | 3:41 | 2020-10-20 | 2021-05-28 |
@@ -2126,6 +2128,7 @@
 | [Sucker Punch](https://open.spotify.com/track/4wiTiQP1ZU5nTdU3Y8kx6Y) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Sucker Punch](https://open.spotify.com/album/7mMzUgInDnFHgHrcn65798) | 3:18 | 2021-06-03 | 2021-10-14 |
 | [Suckerrr](https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Suckerrr](https://open.spotify.com/album/5DI7QnyXRavy0QriWNciyp) | 2:39 | 2026-01-16 | 2026-02-21 |
 | [Sudden Death](https://open.spotify.com/track/2SNBnNCFXG7lOoX901uSyf) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sudden Death](https://open.spotify.com/album/55yC6lS1RnmoysxXkwz5WH) | 2:30 | 2022-06-24 | 2022-06-28 |
+| [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 | 2026-10-02 |  |
 | [Sugar Water](https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:03 | 2026-01-16 | 2026-03-21 |
 | [Sugarbaby](https://open.spotify.com/track/0RqNKk4AsheWCb5YuDVI1I) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Sugarbaby](https://open.spotify.com/album/0tjQIZZJ88dpSatbbjqCiW) | 2:32 | 2020-10-16 | 2020-10-24 |
 | [sugarcane](https://open.spotify.com/track/4IKKOmbPQOHyUm1VX6dpzV) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [sugarcane](https://open.spotify.com/album/2u0aW5Yae25NHOjCEqjLMd) | 2:40 | 2022-01-21 | 2022-07-26 |
@@ -2181,6 +2184,7 @@
 | [Take A Picture](https://open.spotify.com/track/1OEY00cGA1a6XOs6G5abda) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Take A Picture](https://open.spotify.com/album/3p6d7vvRTf9A5pHTXuCPIp) | 4:31 | 2026-05-25 | 2026-06-06 |
 | [take it off](https://open.spotify.com/track/317sqVXjumPF2ucELiBVKE) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [take it off](https://open.spotify.com/album/1hvDZoqyROThc4D9BZnct4) | 3:07 | 2024-08-09 | 2024-08-24 |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-05-03 | 2021-05-08 |
+| [Take It Off For You](https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Take It Off For You](https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7) | 2:36 | 2026-10-02 |  |
 | [Take Me All The Way](https://open.spotify.com/track/1NEAm6UTITP4YfOkwUbGcO) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Take Me All The Way](https://open.spotify.com/album/6G3RTPbRId0MaaDF8L6yAF) | 2:51 | 2021-02-23 | 2021-02-28 |
 | [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-05-30 | 2025-07-26 |
 | [Take Me Out To The Disco](https://open.spotify.com/track/7d7hc9QrLJMZGchzyGd0r2) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Take Me Out To The Disco](https://open.spotify.com/album/3c5VO9D0LOzYjmMvKNYuvL) | 3:22 | 2026-08-14 |  |
@@ -2212,7 +2216,7 @@
 | [Tenpin Haven](https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Tenpin Haven](https://open.spotify.com/album/1wfIsPr3ixULfzSpqIt5cv) | 4:07 | 2026-02-06 | 2026-02-23 |
 | [Tension](https://open.spotify.com/track/7iw7EB3awZl7xbXgAdKqQi) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Planetarium](https://open.spotify.com/album/0aw1n752bWwLLwwv5daGfG) | 2:53 | 2021-05-11 | 2021-10-14 |
 | [Tequila & Lemonade](https://open.spotify.com/track/4rjF36rbNb7V7JG44FjJYI) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Tequila & Lemonade](https://open.spotify.com/album/64CXXqfAeThj5C3DRqYCot) | 3:41 | 2020-10-16 | 2020-11-15 |
-| [terrible4u](https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [terrible4u](https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn) | 3:18 | 2025-10-03 |  |
+| [terrible4u](https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [terrible4u](https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn) | 3:18 | 2025-10-03 | 2026-10-03 |
 | [TESSELLATE](https://open.spotify.com/track/7cD5QLy657vZnf4fAtK622) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [TESSELLATE](https://open.spotify.com/album/5WkeI79ASFJb7GEzCOeD79) | 4:14 | 2021-02-22 | 2021-03-23 |
 | [Texas Baby](https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Texas Baby](https://open.spotify.com/album/2RohVNCqHRA2YyoHBhGPiO) | 2:27 | 2026-02-27 | 2026-08-01 |
 | [TEXAS BLUE](https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 5:23 | 2024-02-16 | 2024-05-26 |

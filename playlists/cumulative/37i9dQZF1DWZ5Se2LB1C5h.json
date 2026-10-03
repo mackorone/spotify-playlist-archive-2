@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Luz negra y estrobos. Argy, Alok y Adam Beyer en portada. ",
+  "description": "Luz negra y estrobos. Martin Garrix en portada. ",
   "name": "EUPHORIA",
   "tracks": [
     {
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/5EfptsdtNQxwJr8Mw7Tfrn"
@@ -3125,6 +3125,28 @@
     },
     {
       "album": {
+        "name": "Loser (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267616,
+      "name": "Loser (Fcukers Remix)",
+      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
+    },
+    {
+      "album": {
         "name": "Love Me Now (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo"
       },
@@ -3416,6 +3438,32 @@
       "duration_ms": 161520,
       "name": "Morena (Remix)",
       "url": "https://open.spotify.com/track/6q4sbXxKDwNiKCZHoonE99"
+    },
+    {
+      "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "ATLAC",
+          "url": "https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154161,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt"
     },
     {
       "album": {
@@ -4270,7 +4318,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 234461,
       "name": "Receipts (feat. Gunna)",
       "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
@@ -4362,7 +4410,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 380248,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5NnWA33kp5ft7TbEgYqdAD"
@@ -4586,6 +4634,32 @@
       "duration_ms": 141204,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
       "url": "https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT"
+    },
+    {
+      "album": {
+        "name": "Satisfy You",
+        "url": "https://open.spotify.com/album/3AGDAou8OprOZbNui4bybv"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Bobby Harvey",
+          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147695,
+      "name": "Satisfy You",
+      "url": "https://open.spotify.com/track/2Tk9biNKYewfJkqN1ILX2z"
     },
     {
       "album": {
@@ -5465,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "This Dream of You",
+        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286406,
+      "name": "This Dream of You",
+      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
+    },
+    {
+      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/4UvYXdtFQOMiFi6AWoOk2l"
       },
@@ -5744,7 +5836,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 236659,
       "name": "Vital Loop",
       "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
@@ -6046,7 +6138,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 228840,
       "name": "Wish You Knew",
       "url": "https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD"

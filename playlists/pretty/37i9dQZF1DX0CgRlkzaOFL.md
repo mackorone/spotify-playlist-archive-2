@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,776 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,825 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [あの夏へ](https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:09 |
 | 2 | [Suzume](https://open.spotify.com/track/2PP2JHhu02ATqc54cmtFn9) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Suzume](https://open.spotify.com/album/5UJFhq3j1eJXE4KS5lFD3h) | 3:42 |
-| 3 | [One Summer's Day \(The Name of Life\) \- English Version / from 'Spirited Away'](https://open.spotify.com/track/4gzcl0yqLPlXWvytu7O8Gp) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 4:04 |
-| 4 | [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 2:05 |
+| 3 | [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 2:05 |
+| 4 | [One Summer's Day \(The Name of Life\) \- English Version / from 'Spirited Away'](https://open.spotify.com/track/4gzcl0yqLPlXWvytu7O8Gp) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 4:04 |
 | 5 | [KICK BACK](https://open.spotify.com/track/4ASw3dUI092yrJapQcARGH) | [大島 理紗子](https://open.spotify.com/artist/3SYZMPwIZewarLCxezoMV6) | [KICK BACK](https://open.spotify.com/album/1zhPemYiQvHiLwXyspW1GE) | 3:14 |
 | 6 | [Blue Bird \(from "Naruto"\) \[Arr\. Telleria for Piano\]](https://open.spotify.com/track/4fCoA9BZaJlR4GJL0V9vRt) | [Yoshiki Mizuno](https://open.spotify.com/artist/35oUEKM1r6534EmN1soDCE), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Mizuno: Blue Bird \(from "Naruto"\) \[Arr\. Telleria for Piano\]](https://open.spotify.com/album/7vfkW6iNl1tJkNx65xnTRu) | 1:50 |
 | 7 | [海の見える街](https://open.spotify.com/track/15X1ksqhe8cY1NlEZMl7X8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [魔女の宅急便 サントラ音楽集](https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 69 | [L'isle joyeuse, CD 109](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 |
 | 70 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK２](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 
-Snapshot ID: `AAAAALkzKbMn1j/m1O+45njGqgVovWq3`
+Snapshot ID: `AAAAAHfLhqHrAlqmVjsmZwBDqdnzobT3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Rachel Chinouriri",
+  "description": "Pop music driving the current, every week.  Cover: Jae Stephens",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -834,7 +834,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 164219,
       "name": "Attaboy!",
       "url": "https://open.spotify.com/track/1GhKaP6CoT6VvgXCxQlbih"
@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Broken chair",
+        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220677,
+      "name": "Broken chair",
+      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
+    },
+    {
+      "album": {
         "name": "Bubblegum",
         "url": "https://open.spotify.com/album/5ufzVnDin8kGSu1nl9qeEN"
       },
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
@@ -2264,6 +2282,28 @@
       "duration_ms": 151421,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/6wMnZzsRUWQAENpnqTmIJk"
+    },
+    {
+      "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "Cool You Down - feat. Sia",
+      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
     },
     {
       "album": {
@@ -2806,7 +2846,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 189000,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/0g3Nl0xvAABkMUslxl9tvT"
@@ -3543,6 +3583,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122916,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil"
+    },
+    {
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -3798,6 +3856,28 @@
       "duration_ms": 220167,
       "name": "Fineshyt",
       "url": "https://open.spotify.com/track/0uYNYSkMBQzU0UmVh20BzW"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/7E7ldaTtHThRPsE6uQaPqR"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182833,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/18ZScFhFloaJJxJcnrLezb"
     },
     {
       "album": {
@@ -5492,7 +5572,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192419,
       "name": "I AM",
       "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
@@ -5712,7 +5792,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 177862,
       "name": "if i'm lucky",
       "url": "https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v"
@@ -6970,7 +7050,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 210000,
       "name": "Make believe",
       "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
@@ -7126,6 +7206,24 @@
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "album": {
+        "name": "Met my match",
+        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165339,
+      "name": "Met my match",
+      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
     },
     {
       "album": {
@@ -8114,6 +8212,24 @@
       "duration_ms": 154448,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4wggHEIX8cZxWy3ktLdj5m"
+    },
+    {
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140520,
+      "name": "Nobody Wanna Dance Anymore",
+      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
     },
     {
       "album": {
@@ -9176,7 +9292,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 188497,
       "name": "PROSTITUTE",
       "url": "https://open.spotify.com/track/3xlYPnKHDeZvsmWIFvWP1H"
@@ -10526,7 +10642,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -11082,7 +11198,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 212009,
       "name": "Talking To Jesus",
       "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
@@ -11318,6 +11434,24 @@
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232386,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/6yQ6pAJ5CCgJ2vWNQqdGMq"
     },
     {
       "album": {
@@ -12306,7 +12440,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 169206,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/17Pg7WwDCaK5FlFshdcKD7"
@@ -12346,6 +12480,24 @@
       "duration_ms": 148120,
       "name": "Waste Your Love",
       "url": "https://open.spotify.com/track/6YHje9JLFYjCDuiNUkzHt3"
+    },
+    {
+      "album": {
+        "name": "Watch You Dance",
+        "url": "https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147720,
+      "name": "Watch You Dance",
+      "url": "https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg"
     },
     {
       "album": {
@@ -12582,7 +12734,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -12684,7 +12836,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 192563,
       "name": "who could love you like i do?",
       "url": "https://open.spotify.com/track/2HpGcpYIElLexIf8dwH8Kn"
@@ -12923,6 +13075,24 @@
     },
     {
       "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
+    },
+    {
+      "album": {
         "name": "World Music Radio",
         "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
       },
@@ -12938,6 +13108,24 @@
       "duration_ms": 253916,
       "name": "Worship",
       "url": "https://open.spotify.com/track/0wEDbE7HCmrTPKxKCqKj7G"
+    },
+    {
+      "album": {
+        "name": "worst case",
+        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193301,
+      "name": "worst case",
+      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
     },
     {
       "album": {

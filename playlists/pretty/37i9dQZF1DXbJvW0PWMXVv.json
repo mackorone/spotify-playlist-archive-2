@@ -551,22 +551,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "BOGOT\u00c1",
-        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 195730,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Beleza. Mas agora a gente faz o que com isso?",
         "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 209202,
       "name": "Azul, Beb\u00ea",
       "url": "https://open.spotify.com/track/6EGGqJCJgR1wD7Z39OD6O5"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "BOGOT\u00c1",
+        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 195730,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Caman\u00e9 Ao Vivo No CCB - Homenagem a Jos\u00e9 M\u00e1rio Branco",
+        "url": "https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074"
+      },
+      "artists": [
+        {
+          "name": "Caman\u00e9",
+          "url": "https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "Queixa das almas jovens censuradas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Aventuras de Caramelo",
         "url": "https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 154900,
       "name": "Bolinha Azul",
       "url": "https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Caman\u00e9 Ao Vivo No CCB - Homenagem a Jos\u00e9 M\u00e1rio Branco",
-        "url": "https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074"
-      },
-      "artists": [
-        {
-          "name": "Caman\u00e9",
-          "url": "https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK"
-        }
-      ],
-      "duration_ms": 314680,
-      "name": "Queixa das almas jovens censuradas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1191,26 +1191,18 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod"
       },
       "artists": [
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+          "name": "Cassio Vianna Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3u82f9AHow4ZrhStBZvamR"
         }
       ],
-      "duration_ms": 169546,
-      "name": "S\u00f3 Quero Ver",
-      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
+      "duration_ms": 452573,
+      "name": "Flight 962",
+      "url": "https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1231,18 +1223,26 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod"
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
       "artists": [
         {
-          "name": "Cassio Vianna Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3u82f9AHow4ZrhStBZvamR"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
         }
       ],
-      "duration_ms": 452573,
-      "name": "Flight 962",
-      "url": "https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1"
+      "duration_ms": 169546,
+      "name": "S\u00f3 Quero Ver",
+      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
     },
     {
       "added_at": "2025-09-17 15:00:09",

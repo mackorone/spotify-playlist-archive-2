@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Noeline Hofmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,126 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,140 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

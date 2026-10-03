@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,557 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,556 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 7 | [Forever Mine](https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 6:06 |
 | 8 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 |
 | 9 | [Darlin' Darlin' Baby \(Sweet, Tender, Love\)](https://open.spotify.com/track/2gdvXdZatpwlUM1bfTzwxi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:16 |
-| 10 | [Emotionally Yours](https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 5:15 |
-| 11 | [Lovin' You](https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 5:18 |
+| 10 | [Lovin' You](https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 5:18 |
+| 11 | [Emotionally Yours](https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 5:15 |
 | 12 | [Stairway to Heaven](https://open.spotify.com/track/0lsEQBuB5lkHZAQ1Pu7K7t) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:16 |
 | 13 | [You Won't Fail](https://open.spotify.com/track/4EMwieymtOOg9Etmykn1GO) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Year 2000](https://open.spotify.com/album/0nhMUUe0BUwd8YBj7aLkot) | 5:18 |
 | 14 | [You Got Your Hooks in Me](https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 5:33 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 22 | [Fading](https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Serious](https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG) | 6:46 |
 | 23 | [Let Me Make Love To You](https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:36 |
 | 24 | [Your True Heart \(And Shining Star\)](https://open.spotify.com/track/5tJQbWlusbXJkCnSRTTRfH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 5:49 |
-| 25 | [I Want You Here With Me](https://open.spotify.com/track/4EkLSFVmsXd2c0GZSPpCFI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:25 |
-| 26 | [Put Our Heads Together](https://open.spotify.com/track/0pukPFDJHfirD3pebGYL1a) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [When Will I See You Again](https://open.spotify.com/album/1oOMRwM09IKQwzydqUm4x1) | 5:40 |
+| 25 | [Put Our Heads Together](https://open.spotify.com/track/0pukPFDJHfirD3pebGYL1a) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [When Will I See You Again](https://open.spotify.com/album/1oOMRwM09IKQwzydqUm4x1) | 5:40 |
+| 26 | [I Want You Here With Me](https://open.spotify.com/track/4EkLSFVmsXd2c0GZSPpCFI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:25 |
 | 27 | [Livin' for the Weekend](https://open.spotify.com/track/6FxjvmfQuS4DUuUC0yC4bo) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:36 |
 | 28 | [Time to Get Down](https://open.spotify.com/track/2mhVy5a8BmJ1t3YFk9DlWi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:52 |
 | 29 | [Give the People What They Want](https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 49 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
 | 50 | [Hurry Up & Come Back](https://open.spotify.com/track/2VLnmkD9L2GgbepawJJUzV) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:05 |
 
-Snapshot ID: `arxRAAAAAAA3KXpj6kSFs9G1C3GY9T2D`
+Snapshot ID: `ar2igAAAAADwUKPSC7ge6biTNV0EBHbn`

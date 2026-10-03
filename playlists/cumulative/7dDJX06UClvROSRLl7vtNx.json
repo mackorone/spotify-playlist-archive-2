@@ -20448,7 +20448,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 147916,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/0Gdxx7POlFKSJ9doWvxsxJ"
@@ -28350,6 +28350,32 @@
       "duration_ms": 155721,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/138WIAG4MuVT77Ynr42vt3"
+    },
+    {
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/65PEs5e9WM2yVX2KB0i4Dj"
+      },
+      "artists": [
+        {
+          "name": "Baked Moon",
+          "url": "https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K"
+        },
+        {
+          "name": "Rya Rey",
+          "url": "https://open.spotify.com/artist/2qLLWt3vgzahHq3CeWVJaS"
+        },
+        {
+          "name": "High On Vibes",
+          "url": "https://open.spotify.com/artist/6eNEG8T3Wx6GJIs7LgqmQt"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162808,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/0J6bV8HuLkGBx9T9i6zx1S"
     },
     {
       "album": {

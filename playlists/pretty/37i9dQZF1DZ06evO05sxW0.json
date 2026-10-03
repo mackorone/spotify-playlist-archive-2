@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 9630,
+  "num_followers": 9639,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACluD+c5ZL31dyy6NSTqE4O",
+  "snapshot_id": "ar2igAAAAAA1EBZU9+XRqH1BHrIb8ACD",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Girl Style Now",
-        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 108373,
-      "name": "This Is Not a Test",
-      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The First Two Records",
         "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 87544,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution Girl Style Now",
+        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 108373,
+      "name": "This Is Not a Test",
+      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reject All American",
-        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 85826,
-      "name": "Bloody Ice Cream",
-      "url": "https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The First Two Records",
         "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 148315,
       "name": "Outta Me",
       "url": "https://open.spotify.com/track/1lcJw1PxcJx8v0gXkD64uO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reject All American",
+        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 85826,
+      "name": "Bloody Ice Cream",
+      "url": "https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D"
     },
     {
       "added_at": null,

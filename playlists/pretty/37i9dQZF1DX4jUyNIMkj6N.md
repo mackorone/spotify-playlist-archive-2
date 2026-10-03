@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,113 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,159 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 22 | [Agapi mou](https://open.spotify.com/track/5IpdjcnT6ZstuYawFxpo2U) | [Rebecca Bangfield](https://open.spotify.com/artist/1xPMsPZNvSHAhw5wzYApho) | [Agapi mou](https://open.spotify.com/album/6YE8F4bzE5NK1UAUnWIWDE) | 3:33 |
 | 23 | [Hånd i hånd](https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Hånd i hånd](https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY) | 4:18 |
 | 24 | [It Won't Change Anything](https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [It Won't Change Anything](https://open.spotify.com/album/48FtnMgZUyYZdNMSboDuOr) | 4:33 |
-| 25 | [Overboda](https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa), [Sofia HK](https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y) | [Overboda](https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd) | 3:11 |
-| 26 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
+| 25 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
+| 26 | [Overboda](https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa), [Sofia HK](https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y) | [Overboda](https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd) | 3:11 |
 | 27 | [To Know A Girl](https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [To Know A Girl](https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg) | 2:01 |
 | 28 | [groby](https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [embraced for a second as we die](https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt) | 3:37 |
 | 29 | [No One Calls](https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [No One Calls](https://open.spotify.com/album/0FAMpkTEOBHFLspcPmCG6h) | 2:35 |
-| 30 | [Colors](https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Colors](https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv) | 5:15 |
-| 31 | [blue jean](https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [blue jean](https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR) | 4:36 |
+| 30 | [blue jean](https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [blue jean](https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR) | 4:36 |
+| 31 | [Colors](https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Colors](https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv) | 5:15 |
 | 32 | [Avignon](https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Avignon](https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT) | 2:59 |
 | 33 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 | 34 | [Say you want me still](https://open.spotify.com/track/2IWNsgtu04OXJjx7KkKomH) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Say you want me still](https://open.spotify.com/album/5oiBQ2m62WA1UYXBQ3Ig0v) | 3:59 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 49 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |
 | 50 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
 | 51 | [The Arms Of You](https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [The Arms Of You](https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43) | 2:50 |
-| 52 | [Wake Up](https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Wake Up](https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ) | 4:11 |
+| 52 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
 | 53 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 |
-| 54 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
+| 54 | [Wake Up](https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Wake Up](https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ) | 4:11 |
 | 55 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 56 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
 | 57 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 58 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
 | 59 | [9 to 5](https://open.spotify.com/track/5OvkbpZ2ANLbLpzPbz0VAd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [9 to 5](https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua) | 3:21 |
-| 60 | [A Fire Test](https://open.spotify.com/track/4d3vaJvP6JOwu13rpmRraD) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf), [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N) | [A Fire Test](https://open.spotify.com/album/2Cd6J0yxphB9eXLTUK2iob) | 3:15 |
+| 60 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 |
 
 Snapshot ID: `AAAAAFDv3FA55Ten9MhZrpqpMgL91chy`

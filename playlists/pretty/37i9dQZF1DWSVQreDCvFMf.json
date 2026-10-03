@@ -1,12 +1,12 @@
 {
   "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: XONARA",
-  "num_followers": 201626,
+  "num_followers": 201649,
   "original_name": "OPM Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPTmPlnib/UMGgKj1Qb1+IfZeN6C",
+  "snapshot_id": "AAAAAGSbfHCljpj1RKjdTKy3/2CXI4nO",
   "tracks": [
     {
       "added_at": "2026-10-02 02:00:04",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-10-02 02:00:04",
       "album": {
+        "name": "Na Para Bang",
+        "url": "https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x"
+      },
+      "artists": [
+        {
+          "name": "Mariah Deborah",
+          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
+        }
+      ],
+      "duration_ms": 228131,
+      "name": "Na Para Bang",
+      "url": "https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ"
+    },
+    {
+      "added_at": "2026-10-02 02:00:04",
+      "album": {
         "name": "Luha ng Buwaya",
         "url": "https://open.spotify.com/album/3eRkzu7U24LO3aJtQbMYkS"
       },
@@ -109,20 +125,44 @@
       "url": "https://open.spotify.com/track/3XPhjx5P6Le2hPtVggY38F"
     },
     {
-      "added_at": "2026-10-02 02:00:04",
+      "added_at": "2026-10-02 06:04:48",
       "album": {
-        "name": "Na Para Bang",
-        "url": "https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x"
+        "name": "LOVES7AGE",
+        "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
       },
       "artists": [
         {
-          "name": "Mariah Deborah",
-          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
+          "name": "DEN\u0232",
+          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
+        },
+        {
+          "name": "Just Hush",
+          "url": "https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF"
+        },
+        {
+          "name": "Third Flo'",
+          "url": "https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW"
         }
       ],
-      "duration_ms": 228131,
-      "name": "Na Para Bang",
-      "url": "https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ"
+      "duration_ms": 240013,
+      "name": "Alam Ko Na",
+      "url": "https://open.spotify.com/track/5sxzyd1SIx7COY68mfEO3y"
+    },
+    {
+      "added_at": "2026-10-02 06:04:48",
+      "album": {
+        "name": "Star Song",
+        "url": "https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 236923,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf"
     },
     {
       "added_at": "2026-10-02 02:00:04",
@@ -1587,30 +1627,6 @@
     {
       "added_at": "2026-10-02 02:00:04",
       "album": {
-        "name": "Sumabay Ka",
-        "url": "https://open.spotify.com/album/2Epk8eTVltDZ6mcnUwSuxV"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        },
-        {
-          "name": "KZ Tandingan",
-          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
-        },
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 178672,
-      "name": "Sumabay Ka",
-      "url": "https://open.spotify.com/track/3Y5B9gTr2TR9ZlSyZnmKnU"
-    },
-    {
-      "added_at": "2026-10-02 02:00:04",
-      "album": {
         "name": "Millionz",
         "url": "https://open.spotify.com/album/1i6350vDfRmlOozvH0OZQr"
       },
@@ -1623,26 +1639,6 @@
       "duration_ms": 182400,
       "name": "Millionz",
       "url": "https://open.spotify.com/track/35nnC1CkiFCnfhCuEIfJQx"
-    },
-    {
-      "added_at": "2026-10-02 02:00:04",
-      "album": {
-        "name": "Escape!",
-        "url": "https://open.spotify.com/album/5eKxKnDrCOuaVyr0Vp3ld0"
-      },
-      "artists": [
-        {
-          "name": "Jason Dhakal",
-          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
-        },
-        {
-          "name": "Sitti",
-          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3SBDwo6VmwTr4oHedWgrFY"
     },
     {
       "added_at": "2026-10-02 02:00:04",

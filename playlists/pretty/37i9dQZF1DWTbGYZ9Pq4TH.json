@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 189340,
+  "num_followers": 189363,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 236417,
+      "name": "Pastello Bianco",
+      "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Completamente Sold Out",
         "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 216386,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 236417,
-      "name": "Pastello Bianco",
-      "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Ligabue [Remastered Version]",
-        "url": "https://open.spotify.com/album/63kdOUqVdcyYLQHzojxeFB"
-      },
-      "artists": [
-        {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Piccola stella senza cielo",
-      "url": "https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Fuori dall'Hype Ringo Starr",
         "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+        "name": "Ligabue [Remastered Version]",
+        "url": "https://open.spotify.com/album/63kdOUqVdcyYLQHzojxeFB"
       },
       "artists": [
         {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
         }
       ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+      "duration_ms": 238893,
+      "name": "Piccola stella senza cielo",
+      "url": "https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -267,6 +251,22 @@
       "duration_ms": 220235,
       "name": "MI FAI IMPAZZIRE",
       "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Buon Sangue",
-        "url": "https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 271320,
-      "name": "Mi Fido Di Te",
-      "url": "https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 186213,
       "name": "IL CIELO NELLA STANZA (feat. NSTASIA)",
       "url": "https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Buon Sangue",
+        "url": "https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 271320,
+      "name": "Mi Fido Di Te",
+      "url": "https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Buoni O Cattivi (Remastered 2017)",
-        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "E...",
-      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Cari Amori Miei",
         "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 287466,
       "name": "Giulia",
       "url": "https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Buoni O Cattivi (Remastered 2017)",
+        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "E...",
+      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Domenica",
-      "url": "https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Perdere l'amore",
         "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 251533,
       "name": "Perdere l'amore",
       "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Domenica",
+      "url": "https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Parole parole - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Odissea",
         "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 270003,
       "name": "Oro",
       "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Parole parole - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Sopravvissuti e sopravviventi (2009 Remaster)",
-        "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
-      },
-      "artists": [
-        {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Ho messo via",
-      "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Brividi",
         "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 239693,
       "name": "Anche Fragile",
       "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Sopravvissuti e sopravviventi (2009 Remaster)",
+        "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
+      },
+      "artists": [
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Ho messo via",
+      "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "BELLA DAVVERO",
-        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 178883,
-      "name": "BELLA DAVVERO",
-      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Mainstream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 228480,
       "name": "Del verde",
       "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "BELLA DAVVERO",
+        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 178883,
+      "name": "BELLA DAVVERO",
+      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Il giorno in cui ho smesso di pensare",
-        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 200428,
-      "name": "Ovunque Sarai",
-      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 209400,
       "name": "D'improvviso",
       "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Il giorno in cui ho smesso di pensare",
+        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "duration_ms": 200428,
+      "name": "Ovunque Sarai",
+      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "La Descrizione Di Un Attimo",
-        "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
-      },
-      "artists": [
-        {
-          "name": "Tiromancino",
-          "url": "https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5"
-        }
-      ],
-      "duration_ms": 269600,
-      "name": "La Descrizione Di Un Attimo",
-      "url": "https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Cip!",
         "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 230746,
       "name": "Per due che come noi",
       "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "La Descrizione Di Un Attimo",
+        "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
+      },
+      "artists": [
+        {
+          "name": "Tiromancino",
+          "url": "https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "La Descrizione Di Un Attimo",
+      "url": "https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL"
     },
     {
       "added_at": "2026-04-21 16:02:40",

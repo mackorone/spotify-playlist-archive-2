@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- HYDR
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,531 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,576 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Touch](https://open.spotify.com/track/6uejjtsLaELPsD3QCcATUN) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Touch](https://open.spotify.com/album/5hviyFH2ZezzepB1tyrEhZ) | 3:21 |
-| 2 | [Maheya \| Coke Studio Nu.WAV](https://open.spotify.com/track/6M9r6baHDuTaXREdS1Li47) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Aaryan](https://open.spotify.com/artist/0bYkfpew9s6FNJ4b6MVm7K), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Maheya \| Coke Studio Nu.WAV](https://open.spotify.com/album/0il0NJaJAT6DIG5JedUIOK) | 3:38 |
+| 2 | [Maheya \| Coke Studio Nu.WAV](https://open.spotify.com/track/6M9r6baHDuTaXREdS1Li47) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [AARYAN](https://open.spotify.com/artist/3b1957PW1iBjUULrNYSohi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Maheya \| Coke Studio Nu.WAV](https://open.spotify.com/album/0il0NJaJAT6DIG5JedUIOK) | 3:38 |
 | 3 | [Kya tum khush ho?](https://open.spotify.com/track/0iB4YxvI7Pd9QHHptm76gY) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Kya tum khush ho?](https://open.spotify.com/album/6GOn9ioExtjkA4CoVxs2ov) | 2:56 |
 | 4 | [Nazar](https://open.spotify.com/track/70dAJmsOvEAZm8wpNLHhJA) | [SRMD](https://open.spotify.com/artist/4RigGF98zw6prPkYsy68JC), [Ammar](https://open.spotify.com/artist/7l8iAbYpBamBWR2QoxmZav) | [Nazar](https://open.spotify.com/album/6dvVqtn0S568yWRal8mXmr) | 2:56 |
 | 5 | [Majaal](https://open.spotify.com/track/2meVP0hoJj3mJnP6OsXvS9) | [Tehseen](https://open.spotify.com/artist/6zDkKkevCSbvdZhIOsRPY6) | [Majaal](https://open.spotify.com/album/75IHpaUp4UqsMSqnTndStc) | 2:07 |

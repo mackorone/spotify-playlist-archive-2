@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 29 | [congrats! u did it!](https://open.spotify.com/track/1bUxz5fnnlXbNDTfPQcQhU) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 3:23 |
 | 30 | [girls with gills](https://open.spotify.com/track/4iYMsU3ChTpDTR7gtfZJER) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [\(my world is an\) oyster](https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2) | 2:17 |
 | 31 | [siren calling](https://open.spotify.com/track/0VWfoM5mnhtLMFoKofXjxF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [oyster](https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb) | 2:42 |
-| 32 | [Thought About You](https://open.spotify.com/track/4W4HQx02gdgehsMKFzbD0b) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Can't Stay Here](https://open.spotify.com/album/2KRZZq6fs8YrVK0cTmoZEz) | 3:24 |
-| 33 | [Misremember You](https://open.spotify.com/track/6zjGVzE6SNgWGy0VXILipM) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/6wj6EqEV4sywgzZ4O7NeST) | 3:51 |
+| 32 | [Misremember You](https://open.spotify.com/track/6zjGVzE6SNgWGy0VXILipM) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/6wj6EqEV4sywgzZ4O7NeST) | 3:51 |
+| 33 | [Thought About You](https://open.spotify.com/track/4W4HQx02gdgehsMKFzbD0b) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Can't Stay Here](https://open.spotify.com/album/2KRZZq6fs8YrVK0cTmoZEz) | 3:24 |
 | 34 | [by the end of the night](https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC) | 2:58 |
 | 35 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
 | 36 | [Cooler](https://open.spotify.com/track/5qgCGL1lwqx0aAkAVq0pFa) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 2:30 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 40 | [ASK HOW I AM \(feat\. Jo’s Boyfriend\)](https://open.spotify.com/track/3DOH4dZTZbluriBGx42OwT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8), [Jo’s Boyfriend](https://open.spotify.com/artist/2IuJdsDiwAHANMu3St7dFC) | [Down at The Res](https://open.spotify.com/album/2vGN8iGA2kWBSkqve6Cmk7) | 3:01 |
 | 41 | [together](https://open.spotify.com/track/2WxusqCab3SktOzhF9zokI) | [kammy](https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [together](https://open.spotify.com/album/1bj28j1ekZiErCx33YIoMn) | 2:12 |
 
-Snapshot ID: `Acdz+gAAAABEngPHyN6XS8W9V/Fp99Av`
+Snapshot ID: `Acd5mgAAAACpxVzxTfOExQwP6waRU/zh`

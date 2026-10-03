@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Mackeeper",
-  "num_followers": 117823,
+  "num_followers": 118558,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "WpointM",
         "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 222493,
       "name": "Best",
       "url": "https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "Beauty Sleep",
         "url": "https://open.spotify.com/album/3xI4q1yRS4Vr1wMkQxlQjj"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 181960,
       "name": "El \u00c1rbol",
       "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Primetime (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 211774,
-      "name": "On Video",
-      "url": "https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 208331,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Primetime (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 211774,
+      "name": "On Video",
+      "url": "https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "My Forte",
-        "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
-      },
-      "artists": [
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        }
-      ],
-      "duration_ms": 151179,
-      "name": "E.T.",
-      "url": "https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "easy rider",
         "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
       },
@@ -651,34 +635,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp"
+        "name": "My Forte",
+        "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
         }
       ],
-      "duration_ms": 220295,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "WONDERMAN",
-        "url": "https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9"
-      },
-      "artists": [
-        {
-          "name": "JEDSOUL",
-          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
-        }
-      ],
-      "duration_ms": 244783,
-      "name": "WONDERMAN",
-      "url": "https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt"
+      "duration_ms": 151179,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -699,66 +667,18 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Vulnerability",
-        "url": "https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj"
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 193820,
-      "name": "Vulnerability",
-      "url": "https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Product of Profit (P.O.P)",
-        "url": "https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 209801,
-      "name": "Product of Profit (P.O.P)",
-      "url": "https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "When We First Met",
-        "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
-      },
-      "artists": [
-        {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
-        }
-      ],
-      "duration_ms": 112984,
-      "name": "When We First Met",
-      "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
+      "duration_ms": 220295,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -787,6 +707,70 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "WONDERMAN",
+        "url": "https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "duration_ms": 244783,
+      "name": "WONDERMAN",
+      "url": "https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Vulnerability",
+        "url": "https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 193820,
+      "name": "Vulnerability",
+      "url": "https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Product of Profit (P.O.P)",
+        "url": "https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "Product of Profit (P.O.P)",
+      "url": "https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "The Gem",
         "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 221215,
       "name": "Angel Vision",
       "url": "https://open.spotify.com/track/3bstintYmtTAA8fbjoUerL"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "duration_ms": 112984,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Simon Says",
-        "url": "https://open.spotify.com/album/39GjE18YGLzkfPo5aLvKUS"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 121175,
-      "name": "Simon Says",
-      "url": "https://open.spotify.com/track/5zFEpchBYlRZKehXXez3O6"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Wouldn't Say",
         "url": "https://open.spotify.com/album/5syUY2ehWGz7LCHMnYF2wL"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 275000,
       "name": "Wouldn't Say",
       "url": "https://open.spotify.com/track/21NbcXsuKVVdymWt8Kz57t"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Simon Says",
+        "url": "https://open.spotify.com/album/39GjE18YGLzkfPo5aLvKUS"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 121175,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/5zFEpchBYlRZKehXXez3O6"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -947,42 +947,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Devout",
-        "url": "https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS"
-      },
-      "artists": [
-        {
-          "name": "Working Men's Club",
-          "url": "https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc"
-        }
-      ],
-      "duration_ms": 217206,
-      "name": "Devout",
-      "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "The Whale",
-        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
-      },
-      "artists": [
-        {
-          "name": "Grumpy",
-          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
-        },
-        {
-          "name": "D.A. Crimson",
-          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
-        }
-      ],
-      "duration_ms": 205563,
-      "name": "The Whale",
-      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "ON THE SCHEDULE",
         "url": "https://open.spotify.com/album/7vHO368QppzJL9g1jnozna"
       },
@@ -1003,6 +967,22 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Devout",
+        "url": "https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS"
+      },
+      "artists": [
+        {
+          "name": "Working Men's Club",
+          "url": "https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc"
+        }
+      ],
+      "duration_ms": 217206,
+      "name": "Devout",
+      "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "BLUNTS & BLADES",
         "url": "https://open.spotify.com/album/0Gl1uDfVFpR19tdgbov1N4"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 190203,
       "name": "FUNKY MONKEY/CHARACTERISTICS",
       "url": "https://open.spotify.com/track/0kMCGREbHR3jJThi3xvpxe"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "The Whale",
+        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        },
+        {
+          "name": "D.A. Crimson",
+          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
+        }
+      ],
+      "duration_ms": 205563,
+      "name": "The Whale",
+      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Get Out Of My Life",
-        "url": "https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX"
-      },
-      "artists": [
-        {
-          "name": "June McDoom",
-          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Get Out Of My Life",
-      "url": "https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Spilled",
         "url": "https://open.spotify.com/album/1j2EOM8xd4XQNYpCxvBuGY"
       },
@@ -1079,26 +1063,6 @@
       "duration_ms": 170086,
       "name": "Spilled",
       "url": "https://open.spotify.com/track/0MfBrS3KErpMzFmUVwJk7B"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Danseur",
-        "url": "https://open.spotify.com/album/36VryG7BuShlfxD2l4cPVx"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        },
-        {
-          "name": "Faris Badwan",
-          "url": "https://open.spotify.com/artist/7H5F95b3evCn4PRE2jZUup"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Heaven (feat. Faris Badwan)",
-      "url": "https://open.spotify.com/track/6WnvwvUlbkStbTBuQNGsKs"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1143,6 +1107,42 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Get Out Of My Life",
+        "url": "https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Get Out Of My Life",
+      "url": "https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Danseur",
+        "url": "https://open.spotify.com/album/36VryG7BuShlfxD2l4cPVx"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        },
+        {
+          "name": "Faris Badwan",
+          "url": "https://open.spotify.com/artist/7H5F95b3evCn4PRE2jZUup"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Heaven (feat. Faris Badwan)",
+      "url": "https://open.spotify.com/track/6WnvwvUlbkStbTBuQNGsKs"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "February Theory",
         "url": "https://open.spotify.com/album/6Z3xax7xkuVUyP0ab201J6"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 200214,
       "name": "February Theory",
       "url": "https://open.spotify.com/track/1DLDvZuETlolJpVkpnlT1I"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "I can fix him",
-        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "I can fix him",
-      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1191,6 +1175,22 @@
       "duration_ms": 193522,
       "name": "The Ballad of St Nick's Park",
       "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/2U3rlBImJjkhUQbjb3CyeE"
-      },
-      "artists": [
-        {
-          "name": "Glasshouse Red Spider Mite",
-          "url": "https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli"
-        }
-      ],
-      "duration_ms": 206465,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/6RF1tFa8IdvWgT9D3ovkeo"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Sometimes I rush",
         "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 90867,
       "name": "Sometimes I rush",
       "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/2U3rlBImJjkhUQbjb3CyeE"
+      },
+      "artists": [
+        {
+          "name": "Glasshouse Red Spider Mite",
+          "url": "https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli"
+        }
+      ],
+      "duration_ms": 206465,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/6RF1tFa8IdvWgT9D3ovkeo"
     },
     {
       "added_at": "2026-10-01 14:03:25",

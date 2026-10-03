@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring bri!!o ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 245 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 9 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
 | 10 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 |
 | 11 | [tu nombre](https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tu nombre](https://open.spotify.com/album/1pw9hHStOaBhgtzmmJd4aw) | 3:31 |
-| 12 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
-| 13 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 |
+| 12 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 |
+| 13 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
 | 14 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 |
 | 15 | [Tú](https://open.spotify.com/track/0xGwvVzNbl4Dym2xjsouRr) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Natsukashii](https://open.spotify.com/album/0Kkd3XWkXoV2pU15VGd6In) | 3:36 |
 | 16 | [tú y yo](https://open.spotify.com/track/2ctZiTm8JNvmQsBfrr5T3g) | [fidoisblue](https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI) | [tú y yo](https://open.spotify.com/album/7JZsAk0CQI5HKLRoCDV9jm) | 2:28 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 34 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/4kWoY4UAagOKJosGwp1gXh), [Duplat](https://open.spotify.com/artist/3orjHoBsxIdDBxsx95OW6d) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 35 | [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 |
 | 36 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
-| 37 | [Rumbos](https://open.spotify.com/track/0IIh65zsyhoEyOcoQWjBHl) | [Lulannie](https://open.spotify.com/artist/6oXyDpjRnLLErx7cflQk3O), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Delamatu](https://open.spotify.com/artist/0UyAWAMVxjvjbVr7liVO5j) | [Ficciones](https://open.spotify.com/album/4RyzdUqsoRHQ6840J4r9pT) | 3:53 |
-| 38 | [Te encontré](https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Sajiva](https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF) | [Te encontré](https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg) | 2:40 |
+| 37 | [Te encontré](https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Sajiva](https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF) | [Te encontré](https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg) | 2:40 |
+| 38 | [Rumbos](https://open.spotify.com/track/0IIh65zsyhoEyOcoQWjBHl) | [Lulannie](https://open.spotify.com/artist/6oXyDpjRnLLErx7cflQk3O), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Delamatu](https://open.spotify.com/artist/0UyAWAMVxjvjbVr7liVO5j) | [Ficciones](https://open.spotify.com/album/4RyzdUqsoRHQ6840J4r9pT) | 3:53 |
 | 39 | [Lagrimas derramadas](https://open.spotify.com/track/7FGduSCJxpdDSsDlJmXflr) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [HAT](https://open.spotify.com/artist/5TsAOFIiXfD0fTJF2wscJI), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Lagrimas derramadas](https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA) | 3:20 |
 | 40 | [Monterrey](https://open.spotify.com/track/75AZBKXYy52p3H7kU4bfJ1) | [Edgar Villarreal](https://open.spotify.com/artist/4Gs8OzUWnl7S6Zmdh7UwoK) | [Monterrey](https://open.spotify.com/album/1Xe894qEmBKCk0Nd7HMzga) | 3:13 |
 | 41 | [Nada me cansa](https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nada me cansa](https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Noche Humana](https://open.spotify.com/track/4EV0dOT6mZUtEpT3JTULwI) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:20 |
 | 75 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
 
-Snapshot ID: `AAAAAIVzWhlc/EtWlZqPXQ7mS+iI7+0k`
+Snapshot ID: `AAAAAG5yi1XS1a/3GUEQq47AXdH5kGZT`

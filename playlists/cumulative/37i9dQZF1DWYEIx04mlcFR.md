@@ -4,7 +4,7 @@
 
 > la nueva ola de artistas con EMJAY en portada\. 🌊✨
 
-923 songs - 1 day 23 hr 3 min
+925 songs - 1 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,9 +194,10 @@
 | [Crimen](https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Crimen](https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo) | 3:07 | 2023-07-06 | 2023-09-02 |
 | [crisis EXistencial](https://open.spotify.com/track/0wFt3NziYE88OQBfraoZ2b) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [crisis EXistencial](https://open.spotify.com/album/74wxSYpQK3BjuzWybyvMin) | 3:15 | 2025-07-25 | 2025-10-11 |
 | [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 | 2022-05-20 | 2022-11-01 |
+| [Cuando La Besas](https://open.spotify.com/track/3qQmHrQQlAXd9UqqOfH09R) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Cuando La Besas](https://open.spotify.com/album/4aRG8e7FvSWelTvmE7I3Gq) | 3:46 | 2026-10-02 |  |
 | [Cuando Me Vaya](https://open.spotify.com/track/5prXXrmdkZ058EfDu7vWYm) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Cuando Me Vaya](https://open.spotify.com/album/1PbqKAwMUiyQ4rJjTo4Kb2) | 4:05 | 2022-09-30 | 2023-04-22 |
 | [Cuando se trata conmigo](https://open.spotify.com/track/09apv88GVTMrW6ctM8WAqU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:18 | 2023-06-09 | 2023-10-21 |
-| [CUANTAS VECES](https://open.spotify.com/track/4riLOnDVSgH1Dy4LqqVKxQ) | [rodrii](https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi) | [EP\_1](https://open.spotify.com/album/0gwHh6zlMBeWNINANcz6bQ) | 2:18 | 2026-05-29 |  |
+| [CUANTAS VECES](https://open.spotify.com/track/4riLOnDVSgH1Dy4LqqVKxQ) | [rodrii](https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi) | [EP\_1](https://open.spotify.com/album/0gwHh6zlMBeWNINANcz6bQ) | 2:18 | 2026-05-29 | 2026-10-03 |
 | [Cuestión de Fe](https://open.spotify.com/track/5ktwcFBkWl3W00mqcTIzgw) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Cuestión de Fe](https://open.spotify.com/album/4RwjMVmtIfqRkpUVkdKlZN) | 2:23 | 2025-09-19 | 2025-11-22 |
 | [cumbia aesthetic](https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [cumbia aesthetic](https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo) | 2:50 | 2023-05-26 | 2023-09-30 |
 | [Cumpleaños y Funerales](https://open.spotify.com/track/2sWxRtrkDFmDbQ5aYrxS6m) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:13 | 2024-05-31 | 2024-07-21 |
@@ -252,6 +253,7 @@
 | [duelerespirar \(funnynoiseclub004\)](https://open.spotify.com/track/7DjGuTdfEZErB1eYCBCuGX) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [duelerespirar \(funnynoiseclub004\)](https://open.spotify.com/album/3eZTeLsewZnjm6rLDlhGDo) | 3:23 | 2024-12-04 | 2025-02-22 |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-12-10 | 2024-04-27 |
 | [Dueles Tan Bien \(Donovan's Playground Remix\)](https://open.spotify.com/track/62MO58gO3RjXkydHvn8UnS) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ) | [Dueles Tan Bien \(Donovan's Playground Remix\)](https://open.spotify.com/album/5y09I1r5zOh9Fsbbm8AUir) | 2:48 | 2022-09-16 | 2023-04-15 |
+| [Dumb Boy \(ojo de loca\)](https://open.spotify.com/track/4TKBvVu4tHy7kX9ewht29n) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Dumb Boy \(ojo de loca\)](https://open.spotify.com/album/4ABG1RkhspmJGHDPEFSQ4I) | 3:04 | 2026-10-02 |  |
 | [Duérmete Clavel](https://open.spotify.com/track/6VZKzU8Gv14NXuSoEP404g) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [CLAR%SCURO](https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL) | 4:42 | 2023-10-21 | 2023-11-30 |
 | [Déjalo Ir](https://open.spotify.com/track/1K0a8DT9cwPzZXr8V9m8Um) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Déjalo Ir](https://open.spotify.com/album/0fxEdaqKtiWSSnVzdtZFZq) | 3:45 | 2024-03-22 | 2024-04-21 |
 | [Déjate querer](https://open.spotify.com/track/2uegjgIVwQqUi12pom1m64) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Déjate querer](https://open.spotify.com/album/4ti0TOGA2EIDmOKvHUmYZ3) | 2:44 | 2025-04-25 | 2025-05-31 |
@@ -527,7 +529,7 @@
 | [Musas en Mi](https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s) | 5:34 | 2025-08-22 | 2026-02-21 |
 | [Muérdeme](https://open.spotify.com/track/3lGIAuak7qwNY77Nq4weDw) | [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [Muérdeme](https://open.spotify.com/album/45zzM6g5zOP2ixdLbwsB1l) | 2:51 | 2026-06-12 |  |
 | [Muñeca Mecánica](https://open.spotify.com/track/7ysBhqazDZ4BYvGGpMQZPX) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Muñeca Mecánica](https://open.spotify.com/album/16W4DDRtb65d98Fp0sHFrJ) | 3:24 | 2023-02-03 | 2023-06-03 |
-| [Muñeco de alambre](https://open.spotify.com/track/3RgxAfdUDE9wgYguGOga0P) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [juanito](https://open.spotify.com/album/42Qod5kfH3Njcz2sjCPoIF) | 2:38 | 2026-06-12 |  |
+| [Muñeco de alambre](https://open.spotify.com/track/3RgxAfdUDE9wgYguGOga0P) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [juanito](https://open.spotify.com/album/42Qod5kfH3Njcz2sjCPoIF) | 2:38 | 2026-06-12 | 2026-10-03 |
 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 | 2023-02-24 | 2023-07-07 |
 | [Más Allá](https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Más Allá](https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO) | 3:04 | 2024-06-14 | 2024-11-30 |
 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 | 2023-06-02 | 2024-08-17 |

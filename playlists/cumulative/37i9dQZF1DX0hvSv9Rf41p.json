@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Zoey808",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Tape B",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 177775,
       "name": "BE URS",
       "url": "https://open.spotify.com/track/2ySuwNs2HL3YtpeP2P753p"
@@ -3882,7 +3882,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 161600,
       "name": "BELIEVE",
       "url": "https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE"
@@ -9245,6 +9245,28 @@
     },
     {
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/5QKyBdjtO4tMLNuB80ZWgN"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/784sVvyBnMvsrwHQy1QLQX"
+    },
+    {
+      "album": {
         "name": "Red Bouquet EP",
         "url": "https://open.spotify.com/album/2Jio5YUHsNgllBtXkDJF50"
       },
@@ -9891,6 +9913,28 @@
     },
     {
       "album": {
+        "name": "DIS FUNCTION",
+        "url": "https://open.spotify.com/album/4KujRdPCF2QmhQjCq9vAJH"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "DIS FUNCTION",
+      "url": "https://open.spotify.com/track/6tGqADF1MUkCEwHbY6EKCr"
+    },
+    {
+      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f"
       },
@@ -10228,6 +10272,32 @@
       "duration_ms": 173616,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
+    },
+    {
+      "album": {
+        "name": "DON'T BELIEVE IT [GRiZ Remix]",
+        "url": "https://open.spotify.com/album/3gpoyq7EIerZnz33dfnv8b"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "DON'T BELIEVE IT - GRiZ Remix",
+      "url": "https://open.spotify.com/track/4Xw0xSHDXAkilxAt2X9hIZ"
     },
     {
       "album": {
@@ -11762,7 +11832,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 242580,
       "name": "Emulator",
       "url": "https://open.spotify.com/track/5eJvrxga5144z3fkPveQkr"
@@ -13492,7 +13562,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 185915,
       "name": "FEELING",
       "url": "https://open.spotify.com/track/0G37Jdh5sH1pf0QoPjz2Hd"
@@ -15191,6 +15261,32 @@
     },
     {
       "album": {
+        "name": "Gameshow",
+        "url": "https://open.spotify.com/album/0nvhh2fwBf8eKBUqtFZ9Gy"
+      },
+      "artists": [
+        {
+          "name": "Skream & Benga",
+          "url": "https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Benga",
+          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Gameshow",
+      "url": "https://open.spotify.com/track/42YJvxWu8ABMMesKInBw80"
+    },
+    {
+      "album": {
         "name": "Ganja Tape",
         "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
       },
@@ -15378,7 +15474,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 252002,
       "name": "Get Dark",
       "url": "https://open.spotify.com/track/0iWMV1PjHlhClsvdGyuQvS"
@@ -22809,6 +22905,24 @@
     },
     {
       "album": {
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/3ZbK8r37aASznMcda031C5"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/7aghuR0jokdfhwirE7s8hu"
+    },
+    {
+      "album": {
         "name": "Alter/Ego Volume III",
         "url": "https://open.spotify.com/album/5yXptClzNwBAw9GdIRxt76"
       },
@@ -26226,6 +26340,24 @@
       "duration_ms": 174400,
       "name": "NO FEAR",
       "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
+    },
+    {
+      "album": {
+        "name": "Ghosts in the Static",
+        "url": "https://open.spotify.com/album/2ohC4XrHClJHBY9ayNjLpW"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "No Fool",
+      "url": "https://open.spotify.com/track/39SiHwLHq2k3SxC1EnVnoL"
     },
     {
       "album": {
@@ -30889,6 +31021,24 @@
     },
     {
       "album": {
+        "name": "REBIRTH",
+        "url": "https://open.spotify.com/album/1kqzTGOwsEtj8pBT2oI5Yc"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193653,
+      "name": "REBIRTH",
+      "url": "https://open.spotify.com/track/0N7nNAqLXDvPmOlS8Thwpr"
+    },
+    {
+      "album": {
         "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
         "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
       },
@@ -31258,6 +31408,28 @@
       "duration_ms": 195428,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/2Oy6oc0Dit6XMcpTBvCdB0"
+    },
+    {
+      "album": {
+        "name": "RESCUE U",
+        "url": "https://open.spotify.com/album/547CCEN33skiHwwMobdVZo"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "RESCUE U",
+      "url": "https://open.spotify.com/track/3jDXVV12qJ0sZB3Ixp3srB"
     },
     {
       "album": {
@@ -34610,7 +34782,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 150653,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
@@ -34632,7 +34804,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 144000,
       "name": "Smoke A Blunt",
       "url": "https://open.spotify.com/track/5GxEzGQRFTLfviMBRDGNXC"
@@ -37946,7 +38118,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 173793,
       "name": "THE GIRLS ARE MAKING RIDDIM - TYNAN Remix",
       "url": "https://open.spotify.com/track/2hXcwuogVeLo4LOoGe1627"
@@ -39544,6 +39716,28 @@
       "duration_ms": 195428,
       "name": "Triumphant",
       "url": "https://open.spotify.com/track/4oZv0tAHrosvWJKPv2oWNT"
+    },
+    {
+      "album": {
+        "name": "True Killers",
+        "url": "https://open.spotify.com/album/3zxiqAY7Q2xxxbCK03mYIo"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "True Killers",
+      "url": "https://open.spotify.com/track/1AWhg4oDF4SIERk3KKoZCq"
     },
     {
       "album": {
@@ -42576,7 +42770,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 249257,
       "name": "Working The Plan",
       "url": "https://open.spotify.com/track/7kuz44CehBRSs1POMUEJUL"

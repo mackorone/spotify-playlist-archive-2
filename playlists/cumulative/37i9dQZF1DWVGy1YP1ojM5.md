@@ -4,7 +4,7 @@
 
 > Silky sounds for the sheets.
 
-308 songs - 17 hr 36 min
+310 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [all over u](https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [don't text me back](https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c) | 3:21 | 2026-02-14 |  |
 | [All Summer](https://open.spotify.com/track/1qZJ4afvHbsSg0d0ENqLHv) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [All Summer](https://open.spotify.com/album/7G80KfPQE0hX2Ifcxay7J4) | 1:49 | 2024-08-23 | 2024-09-07 |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2022-10-03 |  |
+| [Almost](https://open.spotify.com/track/2yxBMqrQBMI5EDr9nGn4ZZ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:14 | 2026-10-02 |  |
 | [Alone](https://open.spotify.com/track/4k4mhm30I8pOn2k7O19pms) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Alone](https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn) | 2:15 | 2021-08-13 | 2022-07-29 |
 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 | 2022-03-25 | 2022-10-04 |
 | [Alone With You](https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Alone With You](https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm) | 3:46 | 2021-08-13 | 2022-10-04 |
@@ -63,7 +64,7 @@
 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 | 2025-02-14 |  |
 | [Come On](https://open.spotify.com/track/4o3BlVXqXEQaP5h1Ds0xfy) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 2:34 | 2022-10-03 | 2025-06-21 |
 | [Come Over \(feat\. Tank\)](https://open.spotify.com/track/28RaFrB9gSS48XXumZMobc) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 3:55 | 2023-02-12 | 2024-11-18 |
-| [Come See Me](https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:25 | 2023-02-12 |  |
+| [Come See Me](https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:25 | 2023-02-12 | 2026-10-03 |
 | [Come To Me](https://open.spotify.com/track/6PZRy35ohzFTVfrpAEzmHf) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Lyfe Harris](https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2), [bleulilbaby](https://open.spotify.com/artist/3uSXaRlKy2i8pKt313wtZj) | [Ye Ali & Chill 3](https://open.spotify.com/album/0oGvQ5RhqcDjVLp4bvMOb9) | 2:32 | 2024-02-09 | 2024-03-02 |
 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 | 2023-02-12 |  |
 | [Coming Down](https://open.spotify.com/track/3mHO1J6kfiArjBo1zhLFGP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 4:55 | 2025-02-14 |  |
@@ -125,6 +126,7 @@
 | [Grip Tight](https://open.spotify.com/track/79oMfwG1PoLKOXmFkvKI4Z) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 3:59 | 2024-08-09 | 2024-09-07 |
 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 | 2023-02-03 |  |
 | [HAVE MY BABIES?](https://open.spotify.com/track/1mKSpDySSnz6uLjtdHiJf8) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:03 | 2024-10-18 | 2025-08-09 |
+| [Head To Toe](https://open.spotify.com/track/5z46zIR3mwi0dslAXrGcO6) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 4:20 | 2026-10-02 |  |
 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 | 2022-03-25 | 2022-10-04 |
 | [Heaven](https://open.spotify.com/track/5CadVyJeeehuMNhESZxvvM) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Heaven](https://open.spotify.com/album/5eJI0nLtSgzMjrg1ENvM1G) | 3:03 | 2021-10-20 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 | 2022-10-03 |  |
@@ -223,7 +225,7 @@
 | [Rocket](https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 6:31 | 2022-10-03 |  |
 | [Résumé](https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Résumé](https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n) | 3:00 | 2021-08-13 | 2022-07-29 |
 | [Résumé](https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 3:00 | 2022-03-25 | 2022-10-04 |
-| [SAME MISTAKE](https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:58 | 2025-02-14 |  |
+| [SAME MISTAKE](https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:58 | 2025-02-14 | 2026-10-03 |
 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 | 2022-10-03 |  |
 | [SAY IT](https://open.spotify.com/track/5U5UR88UmzOHBckl4wYAyT) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:52 | 2025-10-24 |  |
 | [Say It Again](https://open.spotify.com/track/5yamjs92dcayRVlNuY116G) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:52 | 2022-10-03 | 2023-02-04 |

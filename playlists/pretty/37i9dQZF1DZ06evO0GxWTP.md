@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 
 > This is Bankzitters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,938 likes - 30 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,946 likes - 30 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 5 | [Huisfeestje](https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Huisfeestje](https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF) | 2:29 |
 | 6 | [Harder Dan Ik Spenden Kan](https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Harder Dan Ik Spenden Kan](https://open.spotify.com/album/4XBRKKStjsSQpRzdtm2Oe6) | 2:35 |
 | 7 | [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 |
-| 8 | [In De Olie](https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [In De Olie](https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn) | 2:14 |
-| 9 | [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 |
+| 8 | [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 |
+| 9 | [In De Olie](https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [In De Olie](https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn) | 2:14 |
 | 10 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 |
 | 11 | [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/album/6gLC0qISl2lDP5xv6gS5HK) | 2:34 |
 | 12 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 29 | [Fantastico](https://open.spotify.com/track/3YUxkOJe8lTIZNiOdIdXVw) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Fantastico](https://open.spotify.com/album/3huYA9vKEk5nTMKG6rtKtS) | 3:01 |
 | 30 | [Eenzaam](https://open.spotify.com/track/2VXZ2Wp7wVQR70OHdK9SZy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Eenzaam](https://open.spotify.com/album/42AYxRimS50BQVmFluoN0r) | 2:39 |
 
-Snapshot ID: `arxRAAAAAABZbQ7meF3vA9PsHWZomdoi`
+Snapshot ID: `ar2igAAAAABKc77MNiO7DZ9K5QeZ2OeN`

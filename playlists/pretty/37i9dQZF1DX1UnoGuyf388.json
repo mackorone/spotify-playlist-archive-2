@@ -1,18 +1,50 @@
 {
-  "description": "Pop music driving the current, every week.  Cover: Rachel Chinouriri",
-  "num_followers": 39748,
+  "description": "Pop music driving the current, every week.  Cover: Jae Stephens",
+  "num_followers": 39746,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwslFSgWtNnYKTy8QkU13egXkwT",
+  "snapshot_id": "AAAAAGP6mQNrGF42GBcXyv6Jh4OS2hWj",
   "tracks": [
     {
-      "added_at": "2026-09-14 19:02:38",
+      "added_at": "2026-10-02 04:00:42",
       "album": {
-        "name": "Make believe",
-        "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 232386,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/6yQ6pAJ5CCgJ2vWNQqdGMq"
+    },
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 140520,
+      "name": "Nobody Wanna Dance Anymore",
+      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
+    },
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "Broken chair",
+        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
       },
       "artists": [
         {
@@ -20,9 +52,129 @@
           "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Make believe",
-      "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
+      "duration_ms": 220677,
+      "name": "Broken chair",
+      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
+    },
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
+    },
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "worst case",
+        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 193301,
+      "name": "worst case",
+      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
+    },
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "Met my match",
+        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 165339,
+      "name": "Met my match",
+      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
+    },
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 122916,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil"
+    },
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "Watch You Dance",
+        "url": "https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Watch You Dance",
+      "url": "https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg"
+    },
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/7E7ldaTtHThRPsE6uQaPqR"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 182833,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/18ZScFhFloaJJxJcnrLezb"
+    },
+    {
+      "added_at": "2026-10-02 04:00:42",
+      "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Cool You Down - feat. Sia",
+      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
     },
     {
       "added_at": "2026-09-14 19:02:38",
@@ -291,22 +443,6 @@
       "duration_ms": 189813,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/0QBghBie9QpjQMm6F5EMbS"
-    },
-    {
-      "added_at": "2026-05-29 04:02:59",
-      "album": {
-        "name": "Attaboy!",
-        "url": "https://open.spotify.com/album/0tYqtIOu6rABziVPENQYUR"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 164219,
-      "name": "Attaboy!",
-      "url": "https://open.spotify.com/track/1GhKaP6CoT6VvgXCxQlbih"
     },
     {
       "added_at": "2026-08-25 00:43:23",
@@ -687,178 +823,6 @@
       "duration_ms": 177922,
       "name": "Pop Pop",
       "url": "https://open.spotify.com/track/7jrxqRz39X7TXhI38zc9xA"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "who could love you like i do?",
-        "url": "https://open.spotify.com/album/6GQtcmkArttG2r4dtPYI3w"
-      },
-      "artists": [
-        {
-          "name": "kammy",
-          "url": "https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6"
-        },
-        {
-          "name": "kamille",
-          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
-        }
-      ],
-      "duration_ms": 192563,
-      "name": "who could love you like i do?",
-      "url": "https://open.spotify.com/track/2HpGcpYIElLexIf8dwH8Kn"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "Middle Child",
-        "url": "https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Talking To Jesus",
-      "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "PROSTITUTE",
-        "url": "https://open.spotify.com/album/22We2HMdk4hkYZVSfm1Jrk"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 188497,
-      "name": "PROSTITUTE",
-      "url": "https://open.spotify.com/track/3xlYPnKHDeZvsmWIFvWP1H"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-        "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 301674,
-      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-      "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/5FJQ5Pwf2shqBVHqlcdh9K"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        }
-      ],
-      "duration_ms": 169206,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/17Pg7WwDCaK5FlFshdcKD7"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 192419,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "Don't Hate Me",
-        "url": "https://open.spotify.com/album/4jYjwVnqcGo5iOlAvacoWp"
-      },
-      "artists": [
-        {
-          "name": "Miles Caton",
-          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Don't Hate Me",
-      "url": "https://open.spotify.com/track/0g3Nl0xvAABkMUslxl9tvT"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
-    },
-    {
-      "added_at": "2026-05-01 04:40:09",
-      "album": {
-        "name": "better late than not at all",
-        "url": "https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 177862,
-      "name": "if i'm lucky",
-      "url": "https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v"
     }
   ],
   "unique_name": "Pop Frequency",

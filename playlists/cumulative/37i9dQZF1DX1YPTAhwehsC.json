@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Zeddy Will",
+  "description": "Up and down I-95. Cover: Mac Miller",
   "name": "State of Mind",
   "tracks": [
     {
@@ -438,6 +438,28 @@
       "duration_ms": 199075,
       "name": "1998",
       "url": "https://open.spotify.com/track/5K7gHsFBKJ5iL0DTFpvQ5z"
+    },
+    {
+      "album": {
+        "name": "1v1",
+        "url": "https://open.spotify.com/album/1bKGyVXrDP6DC20QOldWQg"
+      },
+      "artists": [
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186106,
+      "name": "1v1",
+      "url": "https://open.spotify.com/track/0FVfZ5OSoHjqYC2II0YdGb"
     },
     {
       "album": {
@@ -4834,7 +4856,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 241386,
       "name": "Better Than You (feat. Cash Cobain)",
       "url": "https://open.spotify.com/track/6kuEBz6FG4JRZrdAi7kHQ8"
@@ -7265,6 +7287,28 @@
     },
     {
       "album": {
+        "name": "Buss Down (1 Thing)",
+        "url": "https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119986,
+      "name": "Buss Down (1 Thing)",
+      "url": "https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh"
+    },
+    {
+      "album": {
         "name": "Buss Down (feat. Fabolous)",
         "url": "https://open.spotify.com/album/3v3lwMynBM6oeYbJj9dJjQ"
       },
@@ -7412,7 +7456,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 193965,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
@@ -7674,7 +7718,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 91703,
       "name": "Camden Bop",
       "url": "https://open.spotify.com/track/03yOTCuxZijVjUewFxKKUz"
@@ -8268,6 +8312,24 @@
       "duration_ms": 200999,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4yKv2cx4TcIE0wiiu6Mwix"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine (10th Anniversary)",
+        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264280,
+      "name": "Channel 13",
+      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
     },
     {
       "album": {
@@ -12479,6 +12541,32 @@
     },
     {
       "album": {
+        "name": "Earn Ya Rank (Remix)",
+        "url": "https://open.spotify.com/album/3Z40sPGGWxZNj5pNOqDkTn"
+      },
+      "artists": [
+        {
+          "name": "Spazz Vet",
+          "url": "https://open.spotify.com/artist/2Zdj2daLM2RL7VJtg9tBsf"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Surf7",
+          "url": "https://open.spotify.com/artist/1GqOAHeo3iMrmaisKTANNj"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183037,
+      "name": "Earn Ya Rank - Remix",
+      "url": "https://open.spotify.com/track/4zTnfYNLBdrazWNiPNzaLH"
+    },
+    {
+      "album": {
         "name": "LaZy, but i have goals (Banned From Vermont)",
         "url": "https://open.spotify.com/album/4Sfiv5MRybl90Z4iloexTy"
       },
@@ -12516,6 +12604,28 @@
       "duration_ms": 148965,
       "name": "Eat, Work, Pray",
       "url": "https://open.spotify.com/track/0odBzHeiTPX4RzniDNIJDd"
+    },
+    {
+      "album": {
+        "name": "Edge Of The Earth (Lunch Break Freestyle)",
+        "url": "https://open.spotify.com/album/1Z4AxH0nd5qSFIAmtlwYU7"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123432,
+      "name": "Edge Of The Earth - Lunch Break Freestyle",
+      "url": "https://open.spotify.com/track/2HWnASR2XgSp2icDv0dC8i"
     },
     {
       "album": {
@@ -13022,7 +13132,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 140487,
       "name": "Everything Is Up",
       "url": "https://open.spotify.com/track/2eg5NFleiBaMO4Bcp7Vhen"
@@ -13786,7 +13896,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 226069,
       "name": "Felony Ring",
       "url": "https://open.spotify.com/track/6jUg78kJNcwkf5r3HoBiD1"
@@ -17114,6 +17224,24 @@
       "duration_ms": 266322,
       "name": "Grab Your Popcorn - Remix",
       "url": "https://open.spotify.com/track/4eiLbvXLYIAoW4Lj2Rjm6a"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine (10th Anniversary)",
+        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126400,
+      "name": "Grand",
+      "url": "https://open.spotify.com/track/1LMb7mjt8zAM59KZO2myQm"
     },
     {
       "album": {
@@ -25503,6 +25631,32 @@
     },
     {
       "album": {
+        "name": "Price of Pain (Luxury Edition)",
+        "url": "https://open.spotify.com/album/7tyhqj0KKgYy6GKYVhotdT"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185316,
+      "name": "Miramax (feat. Vado)",
+      "url": "https://open.spotify.com/track/0atWXZ89tfXt4ffxG87qxd"
+    },
+    {
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/64HssqyKiMGGMBIMqxKw7c"
       },
@@ -32622,7 +32776,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 135826,
       "name": "Rare Heir",
       "url": "https://open.spotify.com/track/1q5EOELOsOL1csuY70GUnJ"
@@ -33922,6 +34076,32 @@
       "duration_ms": 149572,
       "name": "ROLLIN",
       "url": "https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN"
+    },
+    {
+      "album": {
+        "name": "BIANCA (Deluxe)",
+        "url": "https://open.spotify.com/album/0kle10LGeUeFCCEVyRZrrm"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149572,
+      "name": "ROLLIN",
+      "url": "https://open.spotify.com/track/7fG509l8uW76kOdnAoL4Et"
     },
     {
       "album": {
@@ -36234,6 +36414,28 @@
       "duration_ms": 94494,
       "name": "Slizzy Gods",
       "url": "https://open.spotify.com/track/4wVoXhYiMIZ00PSijjOma5"
+    },
+    {
+      "album": {
+        "name": "Il Caos a New York",
+        "url": "https://open.spotify.com/album/3K0yCPWsxdXuIns7rdXEGE"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Victor Victor Presents",
+          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123936,
+      "name": "SLIZZY NO MORE",
+      "url": "https://open.spotify.com/track/7KZnnYLyuSMVccP3sKwriz"
     },
     {
       "album": {
@@ -39267,6 +39469,24 @@
     },
     {
       "album": {
+        "name": "The Liz Symphony",
+        "url": "https://open.spotify.com/album/36e2xGXUbHlhrITNtxrbSA"
+      },
+      "artists": [
+        {
+          "name": "Armani Caesar",
+          "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105109,
+      "name": "The Liz Symphony",
+      "url": "https://open.spotify.com/track/5bleuGmE3toiCwmkq8O1nN"
+    },
+    {
+      "album": {
         "name": "The Louvre",
         "url": "https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH"
       },
@@ -40396,6 +40616,28 @@
       "duration_ms": 193613,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3KYi5b6Veee4Rgrety87ij"
+    },
+    {
+      "album": {
+        "name": "Too Bad",
+        "url": "https://open.spotify.com/album/1pViF08uTEe946q9mJKLxb"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162377,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/3VoUVDtqurOSmVB9W49l4Q"
     },
     {
       "album": {
@@ -42051,6 +42293,24 @@
     },
     {
       "album": {
+        "name": "Walls Closin Inn",
+        "url": "https://open.spotify.com/album/0Fqb14D6NeRDaWJvgAdQq8"
+      },
+      "artists": [
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118775,
+      "name": "Walls Closin Inn",
+      "url": "https://open.spotify.com/track/73eUpI2ybYFhfAy9zVtsgW"
+    },
+    {
+      "album": {
         "name": "Wanna Come Thru",
         "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
@@ -42374,7 +42634,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 229112,
       "name": "Watching Us (with Leon Thomas)",
       "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"
@@ -42702,7 +42962,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 168533,
       "name": "WE ON GO",
       "url": "https://open.spotify.com/track/6bhxyZAcD4vOEGONSdXaEP"

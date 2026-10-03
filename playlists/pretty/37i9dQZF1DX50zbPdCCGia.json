@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 330407,
+  "num_followers": 330456,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Some Things Don't Come Easy",
+        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "We'll Never Have to Say Goodbye Again - Single Version",
+      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 256160,
       "name": "Holdin' on to Yesterday",
       "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Some Things Don't Come Easy",
-        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "We'll Never Have to Say Goodbye Again - Single Version",
-      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
     },
     {
       "added_at": "2023-03-30 13:21:39",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Till It Shines",
-      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "French Kiss",
         "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 178693,
       "name": "Sentimental Lady",
       "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Till It Shines",
+      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "One Man Dog (2019 Remaster)",
-        "url": "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 155343,
-      "name": "Don't Let Me Be Lonely Tonight - 2019 Remaster",
-      "url": "https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/3m4xJJDmVNzsWaJ6OlLTru"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 195160,
       "name": "Song Sung Blue - Single Version",
       "url": "https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "One Man Dog (2019 Remaster)",
+        "url": "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 155343,
+      "name": "Don't Let Me Be Lonely Tonight - 2019 Remaster",
+      "url": "https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Walking Man (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1pa0QvYjLsiYWQlkMvqPZL"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Walking Man - 2019 Remaster",
-      "url": "https://open.spotify.com/track/5CHX5fuINGV2Y7T4sDKdUJ"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Sometimes You Win",
         "url": "https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 182346,
       "name": "Better Love Next Time",
       "url": "https://open.spotify.com/track/3LrFVEZ9w4hVHS3sIRmzZk"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Walking Man (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1pa0QvYjLsiYWQlkMvqPZL"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Walking Man - 2019 Remaster",
+      "url": "https://open.spotify.com/track/5CHX5fuINGV2Y7T4sDKdUJ"
     },
     {
       "added_at": "2023-03-29 17:34:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto: El Bobo de las 3000.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,125 likes - 43 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,127 likes - 43 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 22 | [El Mundo Nadie](https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [El Mundo Nadie](https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN) | 3:13 |
 | 23 | [La Sangre del Pobre](https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:18 |
 | 24 | [Sin pena ni gloria](https://open.spotify.com/track/5vPJFif5AA5whBJvhPvHGM) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 3:16 |
-| 25 | [CONTACTO CONTACTO](https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [CONTACTO CONTACTO](https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9) | 1:57 |
+| 25 | [CONTACTO CONTACTO](https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [CONTACTO CONTACTO](https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9) | 1:57 |
 | 26 | [Canción En Murcia](https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Canción En Murcia](https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C) | 1:58 |
 | 27 | [Tu no estás sola](https://open.spotify.com/track/5kJJUScriQ6h6k3yIQfCgR) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB), [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn) | [Tu no estás sola](https://open.spotify.com/album/769d4Of1bYO5Pt3m1YLkpp) | 3:28 |
 | 28 | [No Llores, Dr G](https://open.spotify.com/track/3dm8ExUF8GZa6EXN7kKAZR) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:24 |

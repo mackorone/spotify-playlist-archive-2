@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 446500,
+  "num_followers": 446556,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Miffed It",
+      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "Massive Shoe",
-        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
+        "name": "f.m.k. / jura",
+        "url": "https://open.spotify.com/album/1yNxdbAPxGyR93gkGNZ3oJ"
       },
       "artists": [
         {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+          "name": "duna",
+          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
         }
       ],
-      "duration_ms": 246240,
-      "name": "Miffed It",
-      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
+      "duration_ms": 70165,
+      "name": "jura",
+      "url": "https://open.spotify.com/track/32NqsIqDCblLE9hMcZvqws"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -915,22 +931,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "f.m.k. / jura",
-        "url": "https://open.spotify.com/album/1yNxdbAPxGyR93gkGNZ3oJ"
-      },
-      "artists": [
-        {
-          "name": "duna",
-          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
-        }
-      ],
-      "duration_ms": 70165,
-      "name": "jura",
-      "url": "https://open.spotify.com/track/32NqsIqDCblLE9hMcZvqws"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "La quiero a morir",
         "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 255096,
       "name": "La quiero a morir",
       "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -979,6 +963,22 @@
       "duration_ms": 245118,
       "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
       "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 123375,
-      "name": "Camila",
-      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Hold Your Head Up High",
         "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 217360,
       "name": "Hold Your Head Up High",
       "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 123375,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "Me Vas A Matar",
-        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 232040,
       "name": "Boredom",
       "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "Me Vas A Matar",
+        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "La Chica del Norte",
-        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "La Chica del Norte",
-      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 176160,
       "name": "Time (For You)",
       "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "La Chica del Norte",
+        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "La Chica del Norte",
+      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
-      },
-      "artists": [
-        {
-          "name": "Tristicis",
-          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
-        "name": "B\u00c9SAME",
-        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
-      },
-      "artists": [
-        {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "B\u00c9SAME",
-      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "ThunderWave",
         "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
       },
@@ -1355,6 +1323,22 @@
       "duration_ms": 194040,
       "name": "ThunderWave",
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "B\u00c9SAME",
+        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "B\u00c9SAME",
+      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1391,6 +1375,22 @@
       "duration_ms": 200696,
       "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
       "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
+      },
+      "artists": [
+        {
+          "name": "Tristicis",
+          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "pop blandito",
-        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "desayunarte",
-      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "0MG!",
-        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
+        "name": "pop blandito",
+        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
       },
       "artists": [
         {
-          "name": "Mira Paula",
-          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 166621,
-      "name": "0MG!",
-      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
+      "duration_ms": 188693,
+      "name": "desayunarte",
+      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1579,6 +1563,22 @@
       "duration_ms": 103461,
       "name": "nada nada",
       "url": "https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "0MG!",
+        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
+      },
+      "artists": [
+        {
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+        }
+      ],
+      "duration_ms": 166621,
+      "name": "0MG!",
+      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "Aire Fresco (feat. LYNN)",
-        "url": "https://open.spotify.com/album/4ettSx3GCGTV4sEEILM0q8"
-      },
-      "artists": [
-        {
-          "name": "L'Beel",
-          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
-        },
-        {
-          "name": "LYNN",
-          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
-        }
-      ],
-      "duration_ms": 179134,
-      "name": "Aire Fresco (feat. LYNN)",
-      "url": "https://open.spotify.com/track/7y1t7Zw4DoiS6yXCv3O1k0"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Tan brillant",
         "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 161250,
       "name": "Me Tienes Aqu\u00ed",
       "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "Aire Fresco (feat. LYNN)",
+        "url": "https://open.spotify.com/album/4ettSx3GCGTV4sEEILM0q8"
+      },
+      "artists": [
+        {
+          "name": "L'Beel",
+          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
+        },
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "duration_ms": 179134,
+      "name": "Aire Fresco (feat. LYNN)",
+      "url": "https://open.spotify.com/track/7y1t7Zw4DoiS6yXCv3O1k0"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "girlhood",
-        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 231910,
-      "name": "girlhood",
-      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Voy a pensar en ti",
         "url": "https://open.spotify.com/album/34PqcFBUnb8OYk1tNvvfoV"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 198920,
       "name": "Voy a pensar en ti",
       "url": "https://open.spotify.com/track/7j0X2ye2TMNaa8gIrVoN89"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "girlhood",
+        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "girlhood",
+      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
     },
     {
       "added_at": "2026-09-28 16:42:12",

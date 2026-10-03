@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,176 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,205 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 62 | [Mister Sandman](https://open.spotify.com/track/00e59ZgjHI2GwsiY3oXayw) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Mr Sandman \- All the Hits](https://open.spotify.com/album/0LjbqtDb2lMpfux4TgSsff) | 2:24 |
 | 63 | [Personality](https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg) | [Lloyd Price](https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2) | [Lloyd Price Greatest Hits: The Original ABC\-Paramount Recordings](https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh) | 2:37 |
 | 64 | [Not Fade Away](https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:22 |
-| 65 | [Waitin' In School](https://open.spotify.com/track/5zYvVUfInIEx5xGR2qe3Ls) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Nelson \(Expanded Edition / Remastered\)](https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt) | 2:02 |
-| 66 | [Oh Boy! \- Overdubbed Version](https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Not Fade Away: The Complete Studio Recordings And More](https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x) | 2:07 |
+| 65 | [Oh Boy! \- Overdubbed Version](https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Not Fade Away: The Complete Studio Recordings And More](https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x) | 2:07 |
+| 66 | [Waitin' In School](https://open.spotify.com/track/5zYvVUfInIEx5xGR2qe3Ls) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Nelson \(Expanded Edition / Remastered\)](https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt) | 2:02 |
 | 67 | [Lollipop](https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Hits](https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf) | 2:09 |
 | 68 | [Lipstick On Your Collar](https://open.spotify.com/track/1tY8PhIOqDTx1GHDEhSuxh) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [The Collection](https://open.spotify.com/album/5B9weDFlXPPdoxM5HRyreL) | 2:16 |
 | 69 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |

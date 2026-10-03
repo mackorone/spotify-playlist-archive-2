@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 39 | [Ibexxi Camp \(Night\)](https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:30 |
 | 40 | [Better the Mask](https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 3:30 |
 
-Snapshot ID: `arxRAAAAAABOyJRmb7Z4ppY0TKZoebJ9`
+Snapshot ID: `ar2igAAAAACvAAKlAp7PHZG7pe6d/g+3`

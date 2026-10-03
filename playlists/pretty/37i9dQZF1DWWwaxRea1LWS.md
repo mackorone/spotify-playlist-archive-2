@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT goes Broadway\.  Cover: The Cast of Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,261,366 likes - 30 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,261,289 likes - 30 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

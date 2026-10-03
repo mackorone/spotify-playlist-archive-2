@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,784 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,771 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 17 | [Blue](https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC) | [Famous Friend](https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L) | [Blue](https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum) | 2:34 |
 | 18 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
 | 19 | [Fish on the Sand](https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Fish on the Sand](https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ) | 3:38 |
-| 20 | [Darling](https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Darling](https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc) | 3:07 |
-| 21 | [Stranger \- Mariachi](https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Stranger \(Mariachi\)](https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI) | 3:24 |
+| 20 | [Stranger \- Mariachi](https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Stranger \(Mariachi\)](https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI) | 3:24 |
+| 21 | [Darling](https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Darling](https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc) | 3:07 |
 | 22 | [Border On Border](https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:34 |
 | 23 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
 | 24 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 |

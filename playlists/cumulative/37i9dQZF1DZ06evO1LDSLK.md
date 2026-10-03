@@ -4,7 +4,7 @@
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-122 songs - 7 hr 54 min
+123 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Sea Of Love \- Party Outtake 1981](https://open.spotify.com/track/1nHForEEkbr9vjrs4LZ8qV) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Punk Rock Valentines](https://open.spotify.com/album/027RSxPgRW3dKo1pLaI0cv) | 3:58 | 2025-02-09 | 2025-04-08 |
 | [Search & Destroy](https://open.spotify.com/track/3X9fXH0FzBloyaUkz5qr0C) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Nude & Rude: The Best Of Iggy](https://open.spotify.com/album/6akbXeeYHLDS4DpP7IVJ67) | 3:26 | 2023-05-14 | 2024-03-01 |
 | [Search And Destroy](https://open.spotify.com/track/7bebHZwpRnV1r2CDsuApgD) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 3:29 | 2023-02-19 | 2023-05-15 |
-| [Shades](https://open.spotify.com/track/7FhazKWdLIXBTHOxl6tpjK) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 5:57 | 2025-07-02 |  |
+| [Shades](https://open.spotify.com/track/7FhazKWdLIXBTHOxl6tpjK) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 5:57 | 2025-07-02 | 2026-10-03 |
 | [SHE](https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm) | [Kety Fusco](https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [SHE](https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne) | 4:00 | 2025-09-03 | 2025-09-20 |
 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 | 2022-11-04 |  |
 | [Sixteen](https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 2:26 | 2022-11-04 |  |
@@ -125,6 +125,7 @@
 | [TP&TD](https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Daniel Lopatin](https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH) | [Oneohtrix Point Never \- Collaborations](https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI) | 3:02 | 2024-09-22 | 2026-08-17 |
 | [Turn Blue](https://open.spotify.com/track/71PBcyiD7v41DW2cwxD8uk) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 6:55 | 2026-08-26 | 2026-08-27 |
 | [TV Screen \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/5Ioy9ZoOzXYXIcaX3Ent6m) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 5:18 | 2022-11-04 | 2023-11-11 |
+| [Underground](https://open.spotify.com/track/7FlFVxnKwJl6E5B49Jn9S7) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Underground](https://open.spotify.com/album/3LiArYJoDOq9fiiVIBc893) | 5:05 | 2026-10-03 |  |
 | [We're All Gonna Die](https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Slash](https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3) | 4:31 | 2022-11-04 | 2022-11-18 |
 | [Why Can't We Live Together](https://open.spotify.com/track/4ehjDSjvxRMWlB4aExCJQV) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Breathe](https://open.spotify.com/album/1VmQzWa2H4IRjpVReN8LDY) | 7:44 | 2022-11-04 | 2023-02-16 |
 | [Wild Love \- 2023 Mix](https://open.spotify.com/track/7hwFJ4XTiVOrk12z7SvQUT) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Louie Louie](https://open.spotify.com/album/1AoiNcmFsAfTp0UiPne3JF) | 4:34 | 2023-06-04 | 2023-08-31 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADV6g7QT0jplqecgJ3h/8DA",
+  "snapshot_id": "ar2igAAAAAA4obnNHdcJcdYCnlSa5vJk",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 233965,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
       },
@@ -191,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 233965,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
       },
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 228789,
-      "name": "Party's over, Biff",
-      "url": "https://open.spotify.com/track/7GhEA17jVlT44Tyg4nKu4C"
+      "duration_ms": 223946,
+      "name": "Semi Finalists",
+      "url": "https://open.spotify.com/track/6Qu0iz1FNYPaCMaR8iBPTO"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 223946,
-      "name": "Semi Finalists",
-      "url": "https://open.spotify.com/track/6Qu0iz1FNYPaCMaR8iBPTO"
+      "duration_ms": 228789,
+      "name": "Party's over, Biff",
+      "url": "https://open.spotify.com/track/7GhEA17jVlT44Tyg4nKu4C"
     },
     {
       "added_at": null,

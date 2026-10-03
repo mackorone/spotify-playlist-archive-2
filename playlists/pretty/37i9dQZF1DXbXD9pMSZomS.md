@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,514 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,548 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 19 | [Roots](https://open.spotify.com/track/2puKQ2WQoMrVcEf4LyvX2z) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Roots](https://open.spotify.com/album/3O54dMAezB6VzwCn6ZloER) | 3:51 |
 | 20 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 |
 | 21 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
-| 22 | [Cami \- Edamame Remix](https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Edamame](https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn) | [Sloh Remixes](https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1) | 3:45 |
-| 23 | [33](https://open.spotify.com/track/5pCp2f52YPxF489Qq4wm7V) | [Kcik](https://open.spotify.com/artist/701mrkwQWqwpcRjfCNwZ1u) | [The Best of Kcik, Vol\. 3](https://open.spotify.com/album/0HbLbiu70ekJZTnxzdif85) | 5:26 |
+| 22 | [33](https://open.spotify.com/track/5pCp2f52YPxF489Qq4wm7V) | [Kcik](https://open.spotify.com/artist/701mrkwQWqwpcRjfCNwZ1u) | [The Best of Kcik, Vol\. 3](https://open.spotify.com/album/0HbLbiu70ekJZTnxzdif85) | 5:26 |
+| 23 | [Cami \- Edamame Remix](https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Edamame](https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn) | [Sloh Remixes](https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1) | 3:45 |
 | 24 | [I'm In Love](https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1) | [Social Lovers](https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL) | [I'm In Love](https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze) | 4:32 |
 | 25 | [Radio Los Santos](https://open.spotify.com/track/1x40cY4yovEabUMzRWXGjd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Radio Los Santos](https://open.spotify.com/album/6N6GvUqI3dgfMcorIYv44N) | 7:12 |
 | 26 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 56 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
 | 57 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
 | 58 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
-| 59 | [It's in My Ears](https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4) | [Gallegos](https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF) | [It's in My Ears](https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2) | 4:05 |
-| 60 | [Pool House](https://open.spotify.com/track/2ySiEAs8xbSw9arjRiteTB) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Pacific Coliseum](https://open.spotify.com/artist/4sL9uMYCk8NDAhimqhVSlB) | [Pool House](https://open.spotify.com/album/7E1hswPT23ea7OQRckSSxd) | 4:55 |
+| 59 | [Pool House](https://open.spotify.com/track/2ySiEAs8xbSw9arjRiteTB) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Pacific Coliseum](https://open.spotify.com/artist/4sL9uMYCk8NDAhimqhVSlB) | [Pool House](https://open.spotify.com/album/7E1hswPT23ea7OQRckSSxd) | 4:55 |
+| 60 | [It's in My Ears](https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4) | [Gallegos](https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF) | [It's in My Ears](https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2) | 4:05 |
 
 Snapshot ID: `AAAAAH1waF1j9I/ey+zmWr7o1cMiL1Oi`

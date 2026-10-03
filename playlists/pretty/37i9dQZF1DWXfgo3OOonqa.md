@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,258 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,257 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Idileey](https://open.spotify.com/track/1LubZfwcC7CCQIbx11IQVU) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 3:04 |
 | 2 | [Kejsar](https://open.spotify.com/track/3wXhaFhjQWn5ZNMUE5hpQH) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Kejsar](https://open.spotify.com/album/3dZzqosnyYll4mlHLBhXPC) | 2:22 |
 | 3 | [G](https://open.spotify.com/track/19rLs0037vQJ2ipGsFI2RO) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [G](https://open.spotify.com/album/5SYEDVpW8S76Z1IWkkUBcg) | 2:22 |
-| 4 | [Ger dig all min love](https://open.spotify.com/track/6DiEEc4CoHvG6xeZqxHnD3) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Ger dig all min love](https://open.spotify.com/album/6i8EbfXAy2FaYwWnhAiASn) | 1:56 |
+| 4 | [Ger dig all min love](https://open.spotify.com/track/6DiEEc4CoHvG6xeZqxHnD3) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Firawii](https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W) | [Ger dig all min love](https://open.spotify.com/album/6i8EbfXAy2FaYwWnhAiASn) | 1:56 |
 | 5 | [Tills vi ses igen](https://open.spotify.com/track/1WzaiQ8J7JAsnzrF4t2x9N) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Kärleksmartyrer II \(Deluxe\)](https://open.spotify.com/album/3SZn0XNNMtFD5e4e7CvGmR) | 2:23 |
 | 6 | [Came Up](https://open.spotify.com/track/4m2H2BiGrUPHYpuSS9nKau) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 2:10 |
 | 7 | [Fashion Week](https://open.spotify.com/track/7HCAkdsOF2NXnVH1RAmMG7) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Fashion Week](https://open.spotify.com/album/2ql9GwMY9y4gTrTKZO2CD9) | 2:22 |

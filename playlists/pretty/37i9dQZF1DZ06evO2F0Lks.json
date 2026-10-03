@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 152446,
+  "num_followers": 152450,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABDjiCYoaCsFHSLcUQ/NMn2",
+  "snapshot_id": "ar2igAAAAAAfKE5EpLKEu1PAZqGIdNwn",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Country Music",
-        "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 271900,
-      "name": "Remind Me (with Carrie Underwood)",
-      "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk Through Fire",
         "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 194264,
       "name": "If It Was Up To Me",
       "url": "https://open.spotify.com/track/1fKrN4psGIjlo4sccpisJc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Country Music",
+        "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 271900,
+      "name": "Remind Me (with Carrie Underwood)",
+      "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 247320,
-      "name": "Cry Pretty",
-      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
+      "duration_ms": 240258,
+      "name": "Don't Forget to Remember Me",
+      "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 240258,
-      "name": "Don't Forget to Remember Me",
-      "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
+      "duration_ms": 247320,
+      "name": "Cry Pretty",
+      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
       "duration_ms": 209560,
       "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Love Wins",
-      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 203600,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Love Wins",
+      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 108075,
+  "num_followers": 108097,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAA2DyFMfN7srSUYp/GXotaN",
+  "snapshot_id": "ar2igAAAAABuJ9jf0HuQwrpSXuaShb7K",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ME MIRAN",
-        "url": "https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "ME MIRAN",
-      "url": "https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7 BESOS",
         "url": "https://open.spotify.com/album/63CiGFfHN0bfwDNWJB4CGE"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 174205,
       "name": "Plata",
       "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ME MIRAN",
+        "url": "https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "ME MIRAN",
+      "url": "https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "100% Corridos Verdes",
+        "url": "https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 190043,
+      "name": "El Sapo",
+      "url": "https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALA FAMA",
         "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 172800,
       "name": "Bravo 57",
       "url": "https://open.spotify.com/track/3DB3UnoTiVpV18ZTb8VgzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100% Corridos Verdes",
-        "url": "https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 190043,
-      "name": "El Sapo",
-      "url": "https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT"
     },
     {
       "added_at": null,

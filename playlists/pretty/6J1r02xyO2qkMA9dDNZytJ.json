@@ -6,7 +6,7 @@
     "name": "Toolroom Records",
     "url": "https://open.spotify.com/user/1135439236"
   },
-  "snapshot_id": "AAAqc/UWXkh3YhqP8gclmwjAlTwQ6B4v",
+  "snapshot_id": "AAAqdSgyy9G770hv68JK0mLlp2tHT/uF",
   "tracks": [
     {
       "added_at": "2026-09-25 10:02:18",
@@ -115,6 +115,26 @@
       "duration_ms": 203133,
       "name": "Work",
       "url": "https://open.spotify.com/track/0aEgvwGnDTqKvgjqZHJlwN"
+    },
+    {
+      "added_at": "2026-10-02 08:07:10",
+      "album": {
+        "name": "What's Up Man",
+        "url": "https://open.spotify.com/album/4IRi9QOKNsIN0a3e8ptueZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
+        },
+        {
+          "name": "Danny Rhys",
+          "url": "https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "What's Up Man",
+      "url": "https://open.spotify.com/track/0QjUi7OgEddMwqR79bZeDz"
     },
     {
       "added_at": "2026-09-25 10:50:03",

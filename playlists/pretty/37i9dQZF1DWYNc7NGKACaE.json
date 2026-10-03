@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 82962,
+  "num_followers": 82958,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
         "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 166115,
       "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
       "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Sou Eu (Speed)",
+        "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
+      },
+      "artists": [
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        }
+      ],
+      "duration_ms": 125270,
+      "name": "Sou Eu - Speed",
+      "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Sou Eu (Speed)",
-        "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
-      },
-      "artists": [
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "Lezin",
-          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
-        }
-      ],
-      "duration_ms": 125270,
-      "name": "Sou Eu - Speed",
-      "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
     },
     {
       "added_at": "2024-07-08 19:10:57",

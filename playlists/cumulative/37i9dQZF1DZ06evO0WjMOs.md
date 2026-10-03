@@ -4,7 +4,7 @@
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 22 min
+111 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-29 |  |
 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 | 2022-09-16 | 2022-10-30 |
 | [Paranoia Purple](https://open.spotify.com/track/0kOq336SMTIa90VjHMutht) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Paranoia Purple](https://open.spotify.com/album/6nqblG53NdUSIoKLndjgL2) | 3:57 | 2022-09-16 | 2024-02-16 |
-| [Peach](https://open.spotify.com/track/31n7a6fXg7srP9DSmAEmp2) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:16 | 2026-09-20 |  |
+| [Peach](https://open.spotify.com/track/31n7a6fXg7srP9DSmAEmp2) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:16 | 2026-09-20 | 2026-10-03 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/0Exki6SgSuYfWQDP0npFlF) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 3:54 | 2024-11-27 |  |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-09-22 | 2025-08-24 |
 | [Pushing It Down and Praying \- Live from AFAS, Amsterdam](https://open.spotify.com/track/2s7fH4tlJWzNTXL3N9n1BW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:59 | 2025-11-21 | 2025-12-18 |
@@ -112,7 +112,8 @@
 | [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 | 2022-09-16 | 2022-10-29 |
 | [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 | 2022-10-28 |  |
 | [Two elevens](https://open.spotify.com/track/5eyA1FEEE0pMazqeAA3AYD) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:55 | 2026-09-22 |  |
-| [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 | 2026-08-23 |  |
+| [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 | 2026-08-23 | 2026-10-03 |
+| [Ugly things](https://open.spotify.com/track/33yH7BV5njyZ9B0iwSgjwC) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:29 | 2026-10-03 |  |
 | [When The World Stopped Moving](https://open.spotify.com/track/5UIHXjP6OYHXJdnnNKmAHX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV) | 3:14 | 2022-09-16 | 2022-10-28 |
 | [When The World Stopped Moving](https://open.spotify.com/track/7JgDvGmgeKcdM633G1XAo9) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:14 | 2022-10-27 |  |
 | [Yellow](https://open.spotify.com/track/3P7aN7piKYjITMJgFT09Ib) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Parachutes](https://open.spotify.com/album/2FhVMpJN2jtR2BwvZOFZop) | 3:30 | 2022-09-16 | 2024-04-07 |

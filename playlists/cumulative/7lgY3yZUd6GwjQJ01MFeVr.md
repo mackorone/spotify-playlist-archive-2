@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-329 songs - 17 hr 36 min
+332 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 | 2025-04-29 | 2025-06-04 |
 | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b) | 5:00 | 2025-05-24 |  |
 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 | 2025-04-05 |  |
+| [Bar Stars & Beauty Queens](https://open.spotify.com/track/3PDP1qaABCp2ovbpkRBZ2p) | [Jimi](https://open.spotify.com/artist/2hKyRk37dnpcAPIqU0Fghj) | [Bar Stars & Beauty Queens](https://open.spotify.com/album/3bSZ6lbiElpGT18lu6OUI0) | 2:51 | 2026-10-02 |  |
 | [Beautiful Lies](https://open.spotify.com/track/5bLgdnoxwts6ihPpv5G2dV) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Beautiful Lies](https://open.spotify.com/album/6l4pvSCSSeBuUpyQaCAGoC) | 3:52 | 2023-12-08 | 2024-07-23 |
 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 | 2026-08-04 |  |
 | [Bet On That](https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Bet On That](https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf) | 3:10 | 2026-05-04 |  |
@@ -151,6 +152,7 @@
 | [I Sit In Parks](https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [I Sit In Parks](https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj) | 2:10 | 2025-11-17 |  |
 | [I Want You](https://open.spotify.com/track/12c5b7YmtMPxWnAgSql0sb) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [I Want You](https://open.spotify.com/album/4PcyS3Xjjq2G4zUuPcVhmI) | 3:10 | 2026-04-27 |  |
 | [I Will \(When You Do\)](https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I Will \(When You Do\)](https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH) | 3:27 | 2023-12-08 | 2024-11-02 |
+| [I'll Know](https://open.spotify.com/track/3Cs9MnaZMUYK7KA3ePjwIQ) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [I'll Know](https://open.spotify.com/album/72eVF75otNO1jux20nhkEz) | 2:25 | 2026-10-02 |  |
 | [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 | 2025-03-25 | 2025-08-09 |
 | [I'm Gonna Love You](https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I'm Gonna Love You](https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9) | 3:08 | 2024-09-28 | 2026-05-05 |
 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 | 2025-04-05 |  |
@@ -305,6 +307,7 @@
 | [TRUCK BED](https://open.spotify.com/track/103u49mLoJUge83B1CnLxI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:47 | 2024-07-22 | 2025-09-13 |
 | [Two Blue Chairs & You](https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Two Blue Chairs & You](https://open.spotify.com/album/5TWk0jAcmvB9vsZPYUbJ7j) | 2:48 | 2024-08-24 |  |
 | [Two Wheel Drive Cowboy](https://open.spotify.com/track/5P50sBnHTqfbA6ciFs0cBY) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Two Wheel Drive Cowboy](https://open.spotify.com/album/7dLzLHc2JEWefwat5ZoSWm) | 2:37 | 2024-02-23 | 2024-07-23 |
+| [Us Again](https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y), [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [The Day I Hang It Up](https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi) | 3:54 | 2026-10-02 |  |
 | [Wannabe](https://open.spotify.com/track/3aLpfXqpQPUAVvlvxJhFnD) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Wannabe](https://open.spotify.com/album/34gdi3XOhjwXejLBO4ldJ8) | 2:47 | 2026-05-04 |  |
 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 | 2026-08-04 |  |
 | [Waylon In '75](https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Songs From Bad For Me](https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1) | 3:20 | 2024-03-15 | 2025-05-06 |

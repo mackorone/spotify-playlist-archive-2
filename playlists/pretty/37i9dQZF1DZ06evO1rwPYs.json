@@ -1,37 +1,13 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107522,
+  "num_followers": 107529,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABuQGdXEP6nBDEBr8nkKonh",
+  "snapshot_id": "ar2igAAAAABw8XMq3slHoZXmQu5NrfNZ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Down To Miami (G\u2019harah \u201cPK\u201d Degeddingseze Remix)",
-        "url": "https://open.spotify.com/album/2eH0PzDocLLTNoWOZ0wSIJ"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "G\u2019harah \u201cPK\u201d Degeddingseze",
-          "url": "https://open.spotify.com/artist/4mZsBU9TkBqU2QMJvBe8FE"
-        }
-      ],
-      "duration_ms": 174021,
-      "name": "Come Down To Miami - G\u2019harah \u201cPK\u201d Degeddingseze Remix",
-      "url": "https://open.spotify.com/track/3pvYEqfy4yajZ9jBozHLvy"
-    },
     {
       "added_at": null,
       "album": {
@@ -451,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son Con Guaguanco (Remastered 2025)",
-        "url": "https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 212799,
-      "name": "Bemba Color\u00e1 - Remastered 2025",
-      "url": "https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Todos Mis Amigos",
         "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
       },
@@ -479,6 +439,22 @@
       "duration_ms": 146893,
       "name": "Cuando Estoy Contigo",
       "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son Con Guaguanco (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 212799,
+      "name": "Bemba Color\u00e1 - Remastered 2025",
+      "url": "https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od"
     },
     {
       "added_at": null,
@@ -595,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Grandes Damas",
-        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163343,
-      "name": "El Yerberito Moderno",
-      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -627,6 +587,22 @@
       "duration_ms": 229373,
       "name": "C\u00facala",
       "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Grandes Damas",
+        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 163343,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
     },
     {
       "added_at": null,
@@ -667,6 +643,30 @@
       "duration_ms": 175600,
       "name": "Melao De Ca\u00f1a",
       "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Down To Miami (G\u2019harah \u201cPK\u201d Degeddingseze Remix)",
+        "url": "https://open.spotify.com/album/2eH0PzDocLLTNoWOZ0wSIJ"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "G\u2019harah \u201cPK\u201d Degeddingseze",
+          "url": "https://open.spotify.com/artist/4mZsBU9TkBqU2QMJvBe8FE"
+        }
+      ],
+      "duration_ms": 174021,
+      "name": "Come Down To Miami - G\u2019harah \u201cPK\u201d Degeddingseze Remix",
+      "url": "https://open.spotify.com/track/3pvYEqfy4yajZ9jBozHLvy"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Etc. Etc. Etc.",
+        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 180207,
+      "name": "Az\u00facar, Az\u00facar",
+      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Etc. Etc. Etc.",
-        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 180207,
-      "name": "Az\u00facar, Az\u00facar",
-      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -919,6 +919,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "Besito De Coco",
+      "url": "https://open.spotify.com/track/0dk38kFCydem9YA2NP1RPO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -939,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Esp\u00e9rame En El Cielo",
-      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Az\u00facar Negra",
         "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
       },
@@ -967,6 +979,22 @@
       "duration_ms": 289146,
       "name": "Saz\u00f3n",
       "url": "https://open.spotify.com/track/1hZ0AcMDdOv4C7lpgBfmpE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Esp\u00e9rame En El Cielo",
+      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
     },
     {
       "added_at": null,
@@ -1011,34 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Papo Lucca",
-          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "Besito De Coco",
-      "url": "https://open.spotify.com/track/0dk38kFCydem9YA2NP1RPO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Vivir\u00e9",
         "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
       },
@@ -1075,22 +1075,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andr\u00e9s Cepeda Big Band 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/0fHDVxeLaVosk2hNYpRoWz"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
         },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 198803,
-      "name": "Las Pilanderas - En Vivo",
-      "url": "https://open.spotify.com/track/3VQbJ0qtQf1rfD9aTrupjP"
+      "duration_ms": 478173,
+      "name": "Enc\u00e1ntigo",
+      "url": "https://open.spotify.com/track/1LNJ3Ne0gSkGGhkjYMtTN3"
     }
   ],
   "unique_name": "This Is Celia Cruz",

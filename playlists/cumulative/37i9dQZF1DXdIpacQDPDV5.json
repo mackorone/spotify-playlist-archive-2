@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Canada's best dance hits, featuring Rochelle Jordan",
+  "description": "Canada's best dance hits, featuring Dom Dolla, Solomun, & Skepta",
   "name": "mint Canada",
   "tracks": [
     {
@@ -3106,7 +3106,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 219111,
       "name": "Back To Funk",
       "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 205975,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE"
@@ -8216,6 +8216,32 @@
       "duration_ms": 165217,
       "name": "Dancing Through It All",
       "url": "https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy"
+    },
+    {
+      "album": {
+        "name": "DANGER DANGER (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180150,
+      "name": "DANGER DANGER (feat. Skepta)",
+      "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
     },
     {
       "album": {
@@ -13070,7 +13096,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 263767,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
@@ -15620,6 +15646,32 @@
       "duration_ms": 232835,
       "name": "Happiness Is So Sad",
       "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+    },
+    {
+      "album": {
+        "name": "Hard To be Around",
+        "url": "https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        },
+        {
+          "name": "Cleopard2000",
+          "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176223,
+      "name": "Hard To be Around",
+      "url": "https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"
     },
     {
       "album": {
@@ -27971,6 +28023,24 @@
     },
     {
       "album": {
+        "name": "Ghosts in the Static",
+        "url": "https://open.spotify.com/album/2ohC4XrHClJHBY9ayNjLpW"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "No Fool",
+      "url": "https://open.spotify.com/track/39SiHwLHq2k3SxC1EnVnoL"
+    },
+    {
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki"
       },
@@ -38310,7 +38380,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 174924,
       "name": "Sun is Shining (Lovelee Dae)",
       "url": "https://open.spotify.com/track/4BnF9lzg2f7kc7wxydPhby"
@@ -41252,6 +41322,24 @@
       "duration_ms": 175161,
       "name": "Thinkin' About You",
       "url": "https://open.spotify.com/track/4O43RB1TnGJJtn8e6oxExF"
+    },
+    {
+      "album": {
+        "name": "This Dream of You",
+        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286406,
+      "name": "This Dream of You",
+      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
     },
     {
       "album": {

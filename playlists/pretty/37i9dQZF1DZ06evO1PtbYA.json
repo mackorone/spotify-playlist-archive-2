@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 89726,
+  "num_followers": 89829,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAINxoEeg6+Q0uYgh9XbpGO",
+  "snapshot_id": "ar2igAAAAACd3tKNqwmtzfHSeczRbbf5",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omo Ope",
+        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Omo Ope (feat. Olamide)",
+      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 226283,
       "name": "2Factor",
       "url": "https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omo Ope",
-        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Omo Ope (feat. Olamide)",
-      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Bad Girl (feat. Asake)",
-      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 156212,
       "name": "NO COMPETITION (feat. Asake)",
       "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
       "added_at": null,

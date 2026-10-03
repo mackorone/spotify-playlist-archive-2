@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 293346,
       "name": "All Of You - Instrumental",
       "url": "https://open.spotify.com/track/3bKY8qGrxlhZojriFo3Svh"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 162240,
       "name": "Beauty and the Beast (Instrumental)",
       "url": "https://open.spotify.com/track/5ew52UUKFk7KNb5m4Nxsim"
@@ -1157,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Piano: Deep Focus",
+        "url": "https://open.spotify.com/album/2qO0pbZco75616ASWjgIsG"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235674,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/1hB9h5bQLflbsxJmTyAHEj"
+    },
+    {
+      "album": {
         "name": "Disney Peaceful Piano: Happy",
         "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
       },
@@ -1278,7 +1300,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 201480,
       "name": "In the Park - Score Version",
       "url": "https://open.spotify.com/track/75xMovAEyPZtexoEWHHcqW"
@@ -1942,7 +1964,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 190093,
       "name": "Part of Your World (Instrumental)",
       "url": "https://open.spotify.com/track/77N7pS5gFIOZ3XOGzsGZg0"
@@ -2347,6 +2369,28 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Piano: Deep Focus",
+        "url": "https://open.spotify.com/album/2qO0pbZco75616ASWjgIsG"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274343,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/55HWxsa7Dc8uaNHrTlwErA"
+    },
+    {
+      "album": {
         "name": "Disney Peaceful Piano: Tranquility",
         "url": "https://open.spotify.com/album/1IcgiPVFTOe5B2ICMzNwuT"
       },
@@ -2640,6 +2684,28 @@
       "duration_ms": 232790,
       "name": "The Age of Not Believing",
       "url": "https://open.spotify.com/track/4v9kt4EuGGUHy6lIgRhE08"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Deep Focus",
+        "url": "https://open.spotify.com/album/2qO0pbZco75616ASWjgIsG"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133034,
+      "name": "The Ballad of the Lonesome Cowboy",
+      "url": "https://open.spotify.com/track/1eNGVt0qN4sG7ulna4wpvB"
     },
     {
       "album": {

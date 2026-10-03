@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 729188,
+  "num_followers": 729182,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay - Mono",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -127,18 +127,18 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
       },
       "artists": [
         {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay - Mono",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 222586,
       "name": "Overjoyed",
       "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 236933,
       "name": "June's Cry",
       "url": "https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9"
-      },
-      "artists": [
-        {
-          "name": "MRCY",
-          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
         "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 352106,
       "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
       "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Get Close",
-        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 171218,
-      "name": "Get Close",
-      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
     },
     {
       "added_at": "2026-04-16 23:00:42",

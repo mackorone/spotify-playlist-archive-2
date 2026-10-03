@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-150 songs - 9 hr 20 min
+151 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 | 2023-09-18 | 2025-11-29 |
 | [EGOT](https://open.spotify.com/track/5LSYq3wutWN9GgFp7NYUXD) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:52 | 2024-06-01 | 2025-01-30 |
 | [Eu e Tu](https://open.spotify.com/track/0mndNKokpOpH5OJYmp3D9v) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:35 | 2024-12-01 | 2026-09-27 |
+| [Fases](https://open.spotify.com/track/6szb8Y3D8fQsg0QfdAJicj) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Quintessência](https://open.spotify.com/album/3s9jg2cYRbArM9qosAenyJ) | 3:14 | 2026-10-03 |  |
 | [Faça a Coisa Certa](https://open.spotify.com/track/0FNKTwW1fXWSS8LSJCJzC4) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 2:57 | 2025-11-01 |  |
 | [Faça a Coisa Certa](https://open.spotify.com/track/7HPUYCA5DVxf0xOVz9Z9T4) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:57 | 2025-01-30 | 2025-09-05 |
 | [Faça a Coisa Certa](https://open.spotify.com/track/6iaQxxNSX0ehJtMiaGfB3E) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 3:14 | 2023-09-18 | 2025-11-12 |
@@ -92,7 +93,7 @@
 | [Ordem Natural](https://open.spotify.com/track/5JE1zOziDo4rOzAm0FC8FA) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 2:43 | 2025-09-16 |  |
 | [Pequenas Coisas](https://open.spotify.com/track/3LmvNq6ttDNQff9Jr2NwjO) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/7sawPIwTZC4ObF1QopFHti) | 3:16 | 2025-11-26 |  |
 | [Pequenas Coisas](https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:16 | 2023-09-18 | 2025-11-25 |
-| [Porque Não Eu?](https://open.spotify.com/track/1xEuEiggTaTNsDiglOifYd) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Quintessência](https://open.spotify.com/album/3s9jg2cYRbArM9qosAenyJ) | 3:19 | 2026-09-27 |  |
+| [Porque Não Eu?](https://open.spotify.com/track/1xEuEiggTaTNsDiglOifYd) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Quintessência](https://open.spotify.com/album/3s9jg2cYRbArM9qosAenyJ) | 3:19 | 2026-09-27 | 2026-10-03 |
 | [Prefácio](https://open.spotify.com/track/54mChBlXoN0ifo5KpRyDJX) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Prefácio](https://open.spotify.com/album/0LiIVGTa0JclWDURzhPSC5) | 5:13 | 2025-11-01 |  |
 | [Prefácio](https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Prefácio](https://open.spotify.com/album/6APMRJ4a03YhLae6ZfkUwz) | 5:13 | 2023-09-18 | 2025-06-27 |
 | [Prisma](https://open.spotify.com/track/28azbjBNeQAUv060KuGomn) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:37 | 2023-12-13 | 2025-09-16 |

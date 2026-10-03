@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,234 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,235 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 23 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
 | 24 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
 | 25 | [Als Het Om De Liefde Gaat](https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM) | [Sandra & Andres](https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V) | [Als Het Om De Liefde Gaat \(Expanded Edition\)](https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf) | 2:56 |
-| 26 | [Tú Volverás](https://open.spotify.com/track/2KYlV00chBWcckA8smxYJW) | [Sergio Y Estibaliz](https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV) | [Tal Como Eramos](https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A) | 3:29 |
-| 27 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
+| 26 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
+| 27 | [Tú Volverás](https://open.spotify.com/track/2KYlV00chBWcckA8smxYJW) | [Sergio Y Estibaliz](https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV) | [Tal Como Eramos](https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A) | 3:29 |
 | 28 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
 | 29 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
 | 30 | [Ding\-A\-Dong \(English Version\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 53 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
 | 54 | [Djambo Djambo](https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk) | [Peter, Sue & Marc](https://open.spotify.com/artist/1oeiv9ZjFI1iT5cwzcGouh) | [Golden Hits \(Remastered\)](https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J) | 2:48 |
 | 55 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
-| 56 | [Ein Hoch der Liebe](https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI) | [Wencke Myhre](https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo) | [Er steht im Tor \- Ihre grossen Erfolge](https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw) | 2:31 |
-| 57 | [Hablemos del amor](https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 2:51 |
+| 56 | [Hablemos del amor](https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 2:51 |
+| 57 | [Ein Hoch der Liebe](https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI) | [Wencke Myhre](https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo) | [Er steht im Tor \- Ihre grossen Erfolge](https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw) | 2:31 |
 | 58 | [Judy et cie](https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg) | [Pierre Rapsat](https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g) | [L'essentiel](https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd) | 2:50 |
 | 59 | [Festa da Vida](https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS) | [Carlos Mendes](https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4) | [A Festa da Vida](https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm) | 2:40 |
 | 60 | [Det börjar verka kärlek, banne mej](https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl) | [Claes\-Göran Hederström](https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi) | [Festivalfavoriter 1](https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m) | 2:46 |

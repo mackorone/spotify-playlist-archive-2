@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: man/woman/chainsaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,473 likes - 115 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,464 likes - 115 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 106 | [One Track Mind](https://open.spotify.com/track/2bfTC4W83goNET1BqrdEcK) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [One Track Mind](https://open.spotify.com/album/1Cl1CmQhsbpZLHpi65xljQ) | 2:44 |
 | 107 | [henna tattoo](https://open.spotify.com/track/0tWGM8RIWOnNYFuX3DluIL) | [smush](https://open.spotify.com/artist/0X7rdOQMhW5OjD3cdxdEoU) | [standards](https://open.spotify.com/album/2g3szO9RKweGJyTs33Xq3J) | 2:15 |
 | 108 | [World End](https://open.spotify.com/track/3MZU1JNZFRBkOJikVKpnvC) | [Opal Mag](https://open.spotify.com/artist/04DSTB4v2Gskr37xC4uaAD) | [World End](https://open.spotify.com/album/19f5scV96ijki3lwsATwFa) | 3:29 |
-| 109 | [Divine Machinery](https://open.spotify.com/track/2qHAQVipQcnsLoY2rM1B1v) | [The Space Between](https://open.spotify.com/artist/4t0B717jX3Hi955Uz1wIMR) | [Divine Machinery](https://open.spotify.com/album/3AnLt7dAcEUDaY4sDJUeyh) | 4:55 |
+| 109 | [Divine Machinery](https://open.spotify.com/track/2qHAQVipQcnsLoY2rM1B1v) | [The Space Between](https://open.spotify.com/artist/4t0B717jX3Hi955Uz1wIMR), [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Divine Machinery](https://open.spotify.com/album/3AnLt7dAcEUDaY4sDJUeyh) | 4:55 |
 | 110 | [Your Eyes](https://open.spotify.com/track/5wJBsjJ1vy7MdNEdBIxhYO) | [White Fence](https://open.spotify.com/artist/5gH9MJvoI7pN9bohESzYaA) | [Your Eyes](https://open.spotify.com/album/69MKyZkRZIYsAu0kACZfkc) | 3:48 |
 | 111 | [I Like You A Lot](https://open.spotify.com/track/1te3mypyhXzEcyqNEX5fsj) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [I Like You A Lot](https://open.spotify.com/album/3bCqum4mnqThYE8diO7AVk) | 4:07 |
 | 112 | [Brace Yourself](https://open.spotify.com/track/75RBmj3FsvJaaUdKLAWnVx) | [Gladie](https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6) | [Brace Yourself](https://open.spotify.com/album/0zj3k3U0ftdlDfQ7hCJnye) | 3:06 |

@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 137360,
       "name": "400 Cities",
       "url": "https://open.spotify.com/track/0gdNSd9ztRCeONjBec42PE"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 198617,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/7860siLSwvRnGt63VOr7QT"
@@ -3863,6 +3863,24 @@
     },
     {
       "album": {
+        "name": "Music I Love",
+        "url": "https://open.spotify.com/album/0amjEk4ud3AiqBBH4MefHf"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154243,
+      "name": "Music I Love",
+      "url": "https://open.spotify.com/track/7bfatnIdi5mshwUUG6IGlc"
+    },
+    {
+      "album": {
         "name": "You Promised A Lifetime",
         "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
       },
@@ -4696,6 +4714,28 @@
       "duration_ms": 179612,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf"
+    },
+    {
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158026,
+      "name": "See You In My Dreams (feat. SZA)",
+      "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
     },
     {
       "album": {

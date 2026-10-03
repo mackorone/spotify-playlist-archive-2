@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Mannda Lym e mais mulheres incr\u00edveis no volume m\u00e1ximo! Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:78WvOgIBo2emAnJLbv7nXO\">Mannda Lym</a>",
-  "num_followers": 196332,
+  "num_followers": 196331,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
-        "name": "Jogou Aonde",
-        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
-      },
-      "artists": [
-        {
-          "name": "Gica",
-          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
-        }
-      ],
-      "duration_ms": 158378,
-      "name": "Jogou Aonde",
-      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
         "name": "BRava",
         "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 174500,
       "name": "INCOMUM",
       "url": "https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
+        "name": "Jogou Aonde",
+        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
+      },
+      "artists": [
+        {
+          "name": "Gica",
+          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
+        }
+      ],
+      "duration_ms": 158378,
+      "name": "Jogou Aonde",
+      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
     },
     {
       "added_at": "2026-07-06 16:39:02",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
-        "name": "Querendo Resolver",
-        "url": "https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK"
-      },
-      "artists": [
-        {
-          "name": "Millena Voz",
-          "url": "https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP"
-        }
-      ],
-      "duration_ms": 200962,
-      "name": "Querendo Resolver",
-      "url": "https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
         "name": "Andressa Hayalla In Floripa, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1urM3PJZ7MN9qgnnlk0LOh"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 296378,
       "name": "Ser\u00e1 Que \u00c9 Amor / Castelo de um Quarto S\u00f3 / Amor Sem Fim - Ao Vivo",
       "url": "https://open.spotify.com/track/5uzquJOqYCBwr3hUX1Mn99"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
+        "name": "Querendo Resolver",
+        "url": "https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK"
+      },
+      "artists": [
+        {
+          "name": "Millena Voz",
+          "url": "https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP"
+        }
+      ],
+      "duration_ms": 200962,
+      "name": "Querendo Resolver",
+      "url": "https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY"
     },
     {
       "added_at": "2026-07-06 16:39:02",

@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Curol
 
-1,069 songs - 2 day 11 hr 1 min
+1,071 songs - 2 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Home \- Vintage Culture Remix](https://open.spotify.com/track/46mSti37NWTIg9XOFulqLH) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Home \(Vintage Culture Remix\)](https://open.spotify.com/album/3uSsJLIv6eQeDUZt5tWBaH) | 3:33 | 2024-02-23 | 2024-06-08 |
 | [Hope](https://open.spotify.com/track/05RSroax2kf33xq65Rqyb6) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz) | [Hope](https://open.spotify.com/album/6vVVqLmvPbXQHXwesjFbjb) | 5:15 | 2024-04-19 | 2024-07-13 |
 | [Horny](https://open.spotify.com/track/1znXnpIiGDVBEwE5X9Pvv6) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Horny](https://open.spotify.com/album/7zWALn1Cjy5ID4Blx4Ro83) | 2:33 | 2025-05-09 | 2025-08-22 |
+| [Hot Girl Walk](https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t), [NO STATIC](https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29) | [Hot Girl Walk](https://open.spotify.com/album/5GUlkDaeCQeSCr2JUcp9yp) | 2:47 | 2026-10-02 |  |
 | [Hours and Hours \- Dropack Remix](https://open.spotify.com/track/4UM3eO0keTNNvePOKGDUTF) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Dropack](https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg) | [Hours and Hours \(Remixes\)](https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU) | 4:48 | 2024-09-20 | 2025-01-18 |
 | [House Is My Religion](https://open.spotify.com/track/74natXytTuBb5YmMJfmszI) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [House Is My Religion](https://open.spotify.com/album/2HnIpvS1PWZeMnA9dQ0x9u) | 3:19 | 2024-05-17 | 2024-08-17 |
 | [Housin Blues](https://open.spotify.com/track/6u2KLujg40qvoBTAj1LiYX) | [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC), [CIDO](https://open.spotify.com/artist/5fwNfJ7qI8reJFxpL3TaPL) | [Housin Blues](https://open.spotify.com/album/6TQYSQduzUbFhYMiux8N69) | 5:44 | 2026-07-03 | 2026-09-26 |
@@ -567,6 +568,7 @@
 | [Let U Go](https://open.spotify.com/track/7D8fKd93Cn4Tfo60UyrINZ) | [Future Skies](https://open.spotify.com/artist/2QsiOG21qF7v7rmQUqt3gB), [RaizenX](https://open.spotify.com/artist/1kNZUnKgbrJRnJs1WrcFhn), [Lowisa](https://open.spotify.com/artist/7qUCkgqoTHxAUSUb70LA1n) | [Let U Go](https://open.spotify.com/album/49JuBJqoPzqufV6oaXeWo6) | 3:23 | 2025-06-20 | 2025-10-03 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2023-11-17 | 2023-12-02 |
 | [Let's Go \- Alok Remix](https://open.spotify.com/track/6FyWLxwCe1d1Fik2PZ3bGp) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Let's Go \(Alok Remix\)](https://open.spotify.com/album/7EdUbRY9YIVC84O3tLnLMj) | 2:38 | 2024-04-15 | 2024-07-13 |
+| [Lets Go Down](https://open.spotify.com/track/3Fzb6ZBiRag6b4lQasZXDc) | [Greggio](https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3) | [Lets Go Down](https://open.spotify.com/album/3PdQAOzlsY96sAbXcLmay7) | 3:00 | 2026-10-02 |  |
 | [LICK IT](https://open.spotify.com/track/58ZxB5HafuK7mZS3B3kf8y) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [LICK IT](https://open.spotify.com/album/6rMqR0MHTHBirJggnVeruA) | 3:31 | 2026-01-30 | 2026-04-18 |
 | [Lie Machine](https://open.spotify.com/track/49rTyBNvoKDV1EzZCQoeeV) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [Lie Machine](https://open.spotify.com/album/6G53ObRBbG9odPj8xI8Gde) | 4:55 | 2023-07-21 | 2023-08-19 |
 | [Lies Through Lies](https://open.spotify.com/track/3v76GCKeigUO5ZfXcEoGvz) | [Dynamick](https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [Lies Through Lies](https://open.spotify.com/album/0XXpXGj06QJTRNkMB8DIFK) | 2:13 | 2024-11-08 | 2025-02-22 |

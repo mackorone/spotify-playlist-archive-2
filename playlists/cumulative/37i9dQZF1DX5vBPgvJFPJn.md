@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Videos](https://open.spotify.com/playlist/37i9dQZF1DX5vBPgvJFPJn)
 
-> The best new music videos from independent artists and labels\. Featuring Abbie Callahan\. Music videos only available on Premium.
+> The best new music videos from independent artists and labels\. Featuring Cowboy Hunters\. Music videos only available on Premium.
 
-56 songs - 2 hr 59 min
+63 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,15 +26,18 @@
 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 | 2026-07-13 |  |
 | [Go Wild](https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Go Wild](https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj) | 3:26 | 2026-08-18 |  |
 | [Gold Chains \(Official Video\)](https://open.spotify.com/track/1P85Aq2myADE9Tnk1CXASY) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [Gold Chains \(Official Video\)](https://open.spotify.com/album/7IRH4TmrFJGRousAv7OYKe) | 2:13 | 2026-07-13 |  |
+| [good and bad](https://open.spotify.com/track/1qKJ9VWHwvhBAqyG6t7OIh) | [Gash](https://open.spotify.com/artist/1uiSPRIJiY4WSAqEeVS9jX) | [good and bad](https://open.spotify.com/album/4IMlJIR73Rx53ucPC1xHm5) | 1:35 | 2026-10-02 |  |
 | [Gooning for Free](https://open.spotify.com/track/1pLz7A7Zii8UFaPsSnBNRd) | [Hammok](https://open.spotify.com/artist/5R1AfWkXVaAraHY3Tk9bMY) | [Gooning for Free](https://open.spotify.com/album/4kNS4YISl2rzKHSTFHgrvJ) | 1:46 | 2026-07-13 |  |
 | [Great Dane](https://open.spotify.com/track/6sdLxls3tk5al8uIara1mN) | [cruush](https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N) | [Great Dane](https://open.spotify.com/album/22goxR80DmX7586U73OrNy) | 3:05 | 2026-07-13 |  |
 | [Half Woman, Half Cosmic Horror \(Disco Disco\)](https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Half Woman, Half Cosmic Horror \(Disco Disco\)](https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf) | 3:30 | 2026-09-02 |  |
 | [Here Comes Trouble](https://open.spotify.com/track/09PEDl4c5eTMurEy3D8UBf) | [Samaera](https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG) | [Here Comes Trouble](https://open.spotify.com/album/1314pzc9jjXGqxlNERn1Cf) | 3:37 | 2026-07-13 |  |
 | [Hold On](https://open.spotify.com/track/0kOLNHOf6TH9gWegm42dRR) | [Phoenix James](https://open.spotify.com/artist/4ccuoNDrKJ85JUWxl5HJfP) | [Hold On](https://open.spotify.com/album/6qFFDnRPtBsDLD1ULFI3sa) | 1:56 | 2026-07-13 |  |
 | [Honey](https://open.spotify.com/track/1N2TvrTy0NKrIJG3QR1Amm) | [EMMMA](https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd) | [Honey](https://open.spotify.com/album/1MmZO7iSto3uDpNgYdLrOW) | 2:32 | 2026-07-13 |  |
+| [I Get Scared](https://open.spotify.com/track/56uhIhwJVbjHGQxQGyXf4W) | [Brilliant Gun](https://open.spotify.com/artist/4IiBh9OlsupE192ZUJNrBw) | [I Get Scared](https://open.spotify.com/album/0PTnB08T0beVbtKnLgEVOw) | 2:25 | 2026-10-02 |  |
 | [Irish Goodbye](https://open.spotify.com/track/53xNq9tMCcCHHPVSa5VTQs) | [STAB](https://open.spotify.com/artist/4U3Uica7GFiJrXV3q6C3Xy) | [Irish Goodbye](https://open.spotify.com/album/1rPlrXA6bUG2d9mWldd48B) | 2:45 | 2026-07-13 |  |
 | [Is Loving Really Bad?](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad?](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 | 2026-07-13 |  |
 | [Jade](https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Jade](https://open.spotify.com/album/2KIhBAxa9FMbVn9PToW2p0) | 4:04 | 2026-07-13 |  |
+| [Jesus Christ Supercar](https://open.spotify.com/track/04r5UBEwy0gJTmH4OzWMjS) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Adult DVD](https://open.spotify.com/album/17BEYcycElkLNpRbd85OT7) | 2:42 | 2026-10-02 |  |
 | [Just Because](https://open.spotify.com/track/0R6iCCGsHrbh75peQKR3eV) | [Brooke Lee](https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS) | [Just Because](https://open.spotify.com/album/5zC2iBc5qAS8gtLosjIaG3) | 2:59 | 2026-07-13 |  |
 | [La Respuesta Eres Tú](https://open.spotify.com/track/6889HOpHTjEL5DT8aXLwiD) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [La Respuesta Eres Tú](https://open.spotify.com/album/56eqMLH0xbXH32z2k5jS9n) | 3:55 | 2026-07-13 |  |
 | [Lasagna](https://open.spotify.com/track/0ckVKicgNyv074p0lG4lRX) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Lasagna](https://open.spotify.com/album/1TxT0qBD6miEAHc6nBDSFj) | 3:32 | 2026-08-18 |  |
@@ -45,16 +48,20 @@
 | [Mysterious Ways](https://open.spotify.com/track/0S0esRxg8ldboAm5abxsnb) | [Emma Smalley](https://open.spotify.com/artist/0aS7MPo8k8PNxOAJmRVcDw) | [Mysterious Ways](https://open.spotify.com/album/3Te1iVvBmmXVs2SGhbyyNZ) | 3:44 | 2026-08-18 |  |
 | [Next To Me](https://open.spotify.com/track/2JkJ3ju8snOnciAw7YRC92) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [From My Side](https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck) | 3:06 | 2026-07-13 |  |
 | [Night Fright](https://open.spotify.com/track/5snvp77A1cclZQxyAQiQbY) | [Biita Houdei](https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3) | [Night Fright](https://open.spotify.com/album/7nUVcReY0e4u6tNjJiV9Ml) | 3:56 | 2026-09-02 |  |
+| [Not Likely](https://open.spotify.com/track/1eJ2ADk4tZPXpS4cVXoY2k) | [Alana Markel](https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY) | [Not Likely](https://open.spotify.com/album/4tzPkWNXFukd4VVJgeb32X) | 2:34 | 2026-10-02 |  |
 | [Notorious](https://open.spotify.com/track/2E2uvzPNhtdcpwo5XaHav9) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Notorious](https://open.spotify.com/album/6AVtsJrrFeIbiy6KHCxKzK) | 2:54 | 2026-07-13 |  |
 | [Odessa](https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Odessa](https://open.spotify.com/album/3WL5cc1KLgTfMIkTf5XhGE) | 2:55 | 2026-08-18 |  |
 | [over anything](https://open.spotify.com/track/72NGcY2sSw6FFvmUymouC8) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [over anything](https://open.spotify.com/album/2UFaO6xoNt2f9WE73hiE8D) | 2:38 | 2026-07-13 |  |
 | [Picto](https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Picto](https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN) | 5:09 | 2026-07-13 |  |
 | [Postinternetfame](https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Postinternetfame / Self Tape](https://open.spotify.com/album/34pUJjYymPU7jioThphtiR) | 2:21 | 2026-07-13 |  |
+| [Punched In The Head](https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0) | [Cowboy Hunters](https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp) | [Punched In The Head](https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI) | 1:58 | 2026-10-02 |  |
 | [S.I.M.P.L.E](https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [DND](https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs) | 2:33 | 2026-07-13 |  |
 | [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 | 2026-07-13 |  |
 | [seat of my skirt](https://open.spotify.com/track/2gzasCAYU41SE6gPNlIPPH) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [seat of my skirt](https://open.spotify.com/album/4bLJRG4DoQpOxkf1ZXYsLQ) | 2:43 | 2026-09-02 |  |
 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 | 2026-07-13 |  |
+| [She Moves with the Wind](https://open.spotify.com/track/0p7tsPWzqArJ99Ckac4XSf) | [Nico Besso](https://open.spotify.com/artist/7DgJhLJPueRl1erDbNvjl8), [Barley Passable](https://open.spotify.com/artist/0k2101hTwxewxXtAOuqToM) | [She Moves with the Wind](https://open.spotify.com/album/7sMIwjbMMxROeFJS2v70x6) | 3:31 | 2026-10-02 |  |
 | [skin2skin](https://open.spotify.com/track/2MPYwuSCgp9gHAuWn6uglw) | [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [skin2skin](https://open.spotify.com/album/23O9q2Nf7cycElX3IuJC7c) | 3:12 | 2026-07-13 |  |
+| [Spilled](https://open.spotify.com/track/0MfBrS3KErpMzFmUVwJk7B) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Spilled](https://open.spotify.com/album/1j2EOM8xd4XQNYpCxvBuGY) | 2:50 | 2026-10-02 |  |
 | [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 | 2026-07-13 |  |
 | [Start at the End](https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [Behind The Wings](https://open.spotify.com/album/1ANVPaZLBRPTmQc3ara4ON) | 3:18 | 2026-07-13 |  |
 | [sweet talk \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/track/39Rn8Oo9457pJhvOT4uyCV) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/album/2ziwVgc0w5aZLVh76bNdtW) | 2:36 | 2026-07-13 |  |

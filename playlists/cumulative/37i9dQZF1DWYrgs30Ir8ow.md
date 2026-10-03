@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Taylor Swift
 
-1,448 songs - 2 day 22 hr 35 min
+1,449 songs - 2 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -977,6 +977,7 @@
 | [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2023-08-31 | 2023-11-08 |
 | [PGS](https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [PGS](https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3) | 2:31 | 2024-08-01 | 2024-09-06 |
 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 | 2023-06-30 | 2023-07-14 |
+| [Pijnstiller](https://open.spotify.com/track/11wW1i3hmPCBO49XNgxcHx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/4o6Q9UNplVun5nsP2FRRvt) | 2:51 | 2026-10-02 |  |
 | [Pink Pony Club](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 4:18 | 2025-02-06 | 2025-04-02 |
 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 | 2026-04-16 | 2026-05-15 |
 | [Pipe Opzij](https://open.spotify.com/track/4ZeGQlQNEiQSdtn8mV6LHe) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Met Liefde Uit De Wijk](https://open.spotify.com/album/0QQhifYaaX5Ca8dYi4qKax) | 2:48 | 2023-06-01 | 2023-06-15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41128,
+  "num_followers": 41141,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACoo5T76C7Ac8I9uH0joXEA",
+  "snapshot_id": "ar2igAAAAAAhHujXffSYHnneprZ+lkBb",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
       },
       "artists": [
         {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 262400,
-      "name": "Respect That You Earn (feat. Ne-Yo & Wale)",
-      "url": "https://open.spotify.com/track/0zV8HiTQ2MHlgCkDfq9Ak6"
+      "duration_ms": 212500,
+      "name": "Love... (Her Fault) [feat. Bryson Tiller]",
+      "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
     },
     {
       "added_at": null,
@@ -367,22 +363,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
         },
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Love... (Her Fault) [feat. Bryson Tiller]",
-      "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
+      "duration_ms": 262400,
+      "name": "Respect That You Earn (feat. Ne-Yo & Wale)",
+      "url": "https://open.spotify.com/track/0zV8HiTQ2MHlgCkDfq9Ak6"
     },
     {
       "added_at": null,
@@ -767,6 +767,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Never Visit Me (feat. Wale & Enny)",
+        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "You Never Visit Me (feat. Wale & Enny)",
+      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
         "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 185531,
       "name": "Bed of Roses (with Wale)",
       "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Never Visit Me (feat. Wale & Enny)",
-        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "You Never Visit Me (feat. Wale & Enny)",
-      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     },
     {
       "added_at": null,

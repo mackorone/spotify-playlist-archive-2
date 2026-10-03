@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,142 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,185 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 25 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 26 | [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE) | 4:30 |
 | 27 | [Blue Eyes](https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Blue Eyes](https://open.spotify.com/album/2iPimv2hsVBJZU1fvBfwkB) | 3:40 |
-| 28 | [Dil Lagana Mana Tha](https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO) | [Dil Lagana Mana Tha](https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd) | 3:18 |
-| 29 | [Zaroor](https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Zaroor](https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13) | 2:55 |
+| 28 | [Zaroor](https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Zaroor](https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13) | 2:55 |
+| 29 | [Dil Lagana Mana Tha](https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO) | [Dil Lagana Mana Tha](https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd) | 3:18 |
 | 30 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 |
 | 31 | [Kithe Reh Gaya](https://open.spotify.com/track/7oONSa0G2CvYQ0I7G02kgi) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Kithe Reh Gaya](https://open.spotify.com/album/3oQOPTv98c46WJTZtR1XBK) | 3:35 |
 | 32 | [Millionaire](https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:19 |

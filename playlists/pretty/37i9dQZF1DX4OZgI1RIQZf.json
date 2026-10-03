@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140626,
+  "num_followers": 140652,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Holiday in Lily Dale",
-        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
-      },
-      "artists": [
-        {
-          "name": "Get Well Soon",
-          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
-        }
-      ],
-      "duration_ms": 293901,
-      "name": "Holiday in Lily Dale",
-      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Evil Urges",
         "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 184893,
       "name": "Highly Suspicious",
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Holiday in Lily Dale",
+        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
+      },
+      "artists": [
+        {
+          "name": "Get Well Soon",
+          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+        }
+      ],
+      "duration_ms": 293901,
+      "name": "Holiday in Lily Dale",
+      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
+        "name": "Zombie Prom (Hallowe'en At Home Edition)",
+        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Zombie Prom",
+      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
         "name": "Stay In Your Grave (feat. Alice Cooper)",
         "url": "https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 139538,
       "name": "Stay In Your Grave (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
-        "name": "Zombie Prom (Hallowe'en At Home Edition)",
-        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Zombie Prom",
-      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Carry On The Grudge",
-        "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 246186,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "To Lose My Life ...",
         "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 191040,
       "name": "To Lose My Life",
       "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Carry On The Grudge",
+        "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 246186,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
     },
     {
       "added_at": "2026-08-28 07:24:22",

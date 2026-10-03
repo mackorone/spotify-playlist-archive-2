@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> The new & hottest K\-Pop is here! \(Cover: ROSÉ\)
+> The new & hottest K\-Pop is here! \(Cover: YENA, NOWIMYOUNG\)
 
-931 songs - 1 day 23 hr 55 min
+933 songs - 2 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Cotton Candy](https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [Chapter 0: WITH](https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki) | 3:19 | 2023-01-27 | 2023-04-01 |
 | [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 | 2025-04-21 | 2025-07-04 |
 | [Counting Stars](https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Counting Stars](https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8) | 2:31 | 2021-12-15 | 2022-04-21 |
-| [CRASH](https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S) | 2:52 | 2026-10-01 |  |
+| [CRASH](https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S) | 2:52 | 2026-10-01 | 2026-10-03 |
+| [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 | 2026-10-02 |  |
 | [Crazier](https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier \- The 11th Album](https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj) | 2:41 | 2025-08-04 | 2025-08-12 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 | 2025-03-25 |
 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 | 2023-12-01 | 2024-06-04 |
@@ -220,6 +221,7 @@
 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-06-02 | 2023-07-08 |
 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-12 | 2022-06-09 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-16 | 2022-04-09 |
+| [Dime Girl \(Feat\. NOWIMYOUNG\)](https://open.spotify.com/track/71QaFkKKm3tbsWdwwuX9pI) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [Dime Girl \(Feat\. NOWIMYOUNG\)](https://open.spotify.com/album/0xpzZIaGVh8d2NtXfBrKJH) | 2:28 | 2026-10-02 |  |
 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-27 | 2025-07-12 |
 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 | 2026-07-10 | 2026-10-02 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-19 | 2023-09-30 |

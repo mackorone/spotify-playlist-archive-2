@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Ruthie Foster",
+  "description": "The best in blues right now. Cover: Christone \"Kingfish\" Ingram",
   "name": "Got Blues",
   "tracks": [
     {
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 303053,
       "name": "Come To Find Out",
       "url": "https://open.spotify.com/track/6JAUOcdIdwLQvlw60QKRuW"
@@ -2746,6 +2746,28 @@
       "duration_ms": 211819,
       "name": "Easy On The Eyes",
       "url": "https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6"
+    },
+    {
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0D9Ulk8dAeRcjHX9HWc36U"
+      },
+      "artists": [
+        {
+          "name": "Tora Trio",
+          "url": "https://open.spotify.com/artist/5tIBZGUDcpDlahR8M8NXEm"
+        },
+        {
+          "name": "TORA DAA",
+          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251120,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/5D1BeoqqkzCXRlanfHKLia"
     },
     {
       "album": {
@@ -5860,7 +5882,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 211200,
       "name": "Left Me with My Guitar",
       "url": "https://open.spotify.com/track/71DrFAw6xKEDNqzmKMYdHi"
@@ -7486,6 +7508,24 @@
       "duration_ms": 178680,
       "name": "Raisin' Kane",
       "url": "https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R"
+    },
+    {
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/3INlNOKvqPbbBcvLt9GKwV"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191326,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/0qBR7JwZ4IephpMpU7KcwS"
     },
     {
       "album": {
@@ -9361,6 +9401,24 @@
     },
     {
       "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/7eThSUjhy5X0FzBrkCujnx"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280266,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/6Gdu1MtqKLxfV5WZDbA1Wz"
+    },
+    {
+      "album": {
         "name": "Joyful Sky",
         "url": "https://open.spotify.com/album/082aBhB5n3cwYW7wLoudGo"
       },
@@ -9832,6 +9890,28 @@
       "duration_ms": 427480,
       "name": "Time Clocks",
       "url": "https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn"
+    },
+    {
+      "album": {
+        "name": "Time Traveler",
+        "url": "https://open.spotify.com/album/0MaT5IHTiJqVmCimKUmrQG"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        },
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264706,
+      "name": "Time Traveler",
+      "url": "https://open.spotify.com/track/3PX8cejGswBx9E04v7uDa6"
     },
     {
       "album": {

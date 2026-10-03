@@ -6935,6 +6935,24 @@
     },
     {
       "album": {
+        "name": "oslagbara",
+        "url": "https://open.spotify.com/album/0dxh2KM8LuMXiGomXbfpe0"
+      },
+      "artists": [
+        {
+          "name": "bomull",
+          "url": "https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "oslagbara",
+      "url": "https://open.spotify.com/track/1FgxTqN5CQM9uBScBSB6YP"
+    },
+    {
+      "album": {
         "name": "Ouarzazate",
         "url": "https://open.spotify.com/album/1RJxkHUhvj6k3a7WGoIaX3"
       },

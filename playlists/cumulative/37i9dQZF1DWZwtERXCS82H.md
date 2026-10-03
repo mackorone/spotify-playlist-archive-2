@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-915 songs - 1 day 15 hr 28 min
+917 songs - 1 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Dim](https://open.spotify.com/track/4ux5NLToXWFBWzJHyGdqLM) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Dim](https://open.spotify.com/album/4TSU2w7UkbhAcs7Oz731kM) | 2:47 | 2024-02-27 |  |
 | [Dique de Abrigo](https://open.spotify.com/track/4A7rr9XPYubs0MOUqXfTVl) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 3:50 | 2022-04-15 | 2023-01-21 |
 | [Disappear for a while](https://open.spotify.com/track/1l3yPgvEagEz4OYS2hxMdc) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Disappear for a while](https://open.spotify.com/album/33IUKxm4PwH3avUizMk9L1) | 2:52 | 2022-05-26 | 2023-03-15 |
+| [distant](https://open.spotify.com/track/6a0SGQZhpoMEdNJFLQRl4A) | [émil caron](https://open.spotify.com/artist/3CIclunycRScwkcMOLYh2d) | [distant](https://open.spotify.com/album/76BI0NDhFtSMymvLTbNrFc) | 2:36 | 2026-10-02 |  |
 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 | 2022-08-09 | 2024-11-20 |
 | [Dolores](https://open.spotify.com/track/0fMxuiwgWNbrJRm6F0rn5o) | [Blue George](https://open.spotify.com/artist/3iXwpImyv9kqSfxcTtfou5) | [Dolores](https://open.spotify.com/album/1B0Sn3crTRvOmbk2xLwiX5) | 2:32 | 2026-05-08 |  |
 | [Dominoes](https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Dominoes](https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X) | 2:27 | 2022-04-15 | 2023-05-04 |
@@ -595,6 +596,7 @@
 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 | 2022-04-15 | 2022-04-23 |
 | [Quiet Dance](https://open.spotify.com/track/0odacBbDauDRkmcR1DtGsg) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Quiet Dance](https://open.spotify.com/album/7vaqZJ7ydcIZy4PXQzaft9) | 2:42 | 2022-04-22 | 2024-10-02 |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-04-15 | 2023-07-11 |
+| [Quietly Passing by](https://open.spotify.com/track/4Jnm2KH4hvLWeopJtn7Dd1) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Quietly Passing by](https://open.spotify.com/album/7rTBofqPnRM33AMX56ha86) | 2:19 | 2026-10-02 |  |
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2022-04-15 | 2022-12-24 |
 | [Randonnée](https://open.spotify.com/track/2HfRtKv9HU2e9PsLFRAjkD) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Randonnée](https://open.spotify.com/album/7C4KHUzQB4b6mvdEqEEgGI) | 3:29 | 2024-03-18 | 2025-05-22 |
 | [Ravassard](https://open.spotify.com/track/3x5K5j5yMpCeGBMgKbhxNB) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Ravassard](https://open.spotify.com/album/6vTms1XjzCFrSBn3ybWw7M) | 2:03 | 2022-10-14 | 2024-12-18 |

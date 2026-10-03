@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  Limoblaze
 
-1,965 songs - 4 day 7 hr 40 min
+1,967 songs - 4 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Cast Your Burdens \(Higher\)](https://open.spotify.com/track/3hBXpzPTpjJIYIXJINWC3x) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Cast Your Burdens \(Higher\)](https://open.spotify.com/album/4XgZoP9WpAQ4K74eEwao3p) | 2:54 | 2024-10-11 | 2025-01-10 |
 | [Cast Your Burdens \(Higher\) \- Live](https://open.spotify.com/track/1VL2yRQhczmwtKFokxzTzs) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Cast Your Burdens \(Higher\) \[Live\]](https://open.spotify.com/album/0dEa58pTc4RbfUBeBl3bdG) | 3:01 | 2024-12-13 | 2025-02-21 |
 | [Catapult](https://open.spotify.com/track/2lM86aKtryhryetDt1fhYB) | [GodsNation](https://open.spotify.com/artist/2BSGdWUQycRUSvwojCsymt) | [Catapult](https://open.spotify.com/album/3zvzvISRTz2gBbNS1OjIUB) | 2:52 | 2023-07-14 | 2023-08-12 |
+| [Catholic Boy](https://open.spotify.com/track/1dWrrmOqCkMr0puVaMiVXI) | [Vicla boi](https://open.spotify.com/artist/0VupyRTwkYyNf9iooZcLFN) | [Catholic Boy](https://open.spotify.com/album/3cIz5GI6LqMhJyrxUY1GsP) | 3:01 | 2026-10-02 |  |
 | [Celebration](https://open.spotify.com/track/7qcZTkaE3dXKI1pSKvAGfv) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Celebration](https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB) | 2:54 | 2025-04-25 | 2025-06-27 |
 | [Center](https://open.spotify.com/track/52KBBrT6byL09W57V4Cgah) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Center](https://open.spotify.com/album/3bEYIv9GIQeg1RaIlcDXfM) | 2:22 | 2024-08-16 | 2024-09-27 |
 | [Center](https://open.spotify.com/track/5zWUDobAvmQoLh4VcJZruJ) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Center](https://open.spotify.com/album/5sd7y84zbttW2VFnFMG6yo) | 2:33 | 2026-01-23 | 2026-02-27 |
@@ -1446,6 +1447,7 @@
 | [Praise The Lord](https://open.spotify.com/track/1HqRXs13YtE39CtwWJLIgM) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Praise The Lord](https://open.spotify.com/album/72yCxn0wYqAfnhuNSKIEL4) | 1:45 | 2026-01-09 | 2026-02-27 |
 | [Praise the Lord](https://open.spotify.com/track/7pi7urNUOZ8KermXUvAhov) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Praise And Worship](https://open.spotify.com/album/6BjX2O0Yf4a4kTjCDeP939) | 2:15 | 2025-10-24 | 2026-03-06 |
 | [Praise the Lord](https://open.spotify.com/track/1Pk9UFsZgHa2WLaLmnBPKM) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Praise the Lord](https://open.spotify.com/album/3XrPQfM05Oz6M1D9fOfJ8o) | 2:12 | 2023-12-05 | 2023-12-11 |
+| [Praise the Lord](https://open.spotify.com/track/7oLGYV4iVjoTTJAmCrsAFE) | [Samwell Areson](https://open.spotify.com/artist/6JImh9OJIpeofUiJUEXyRE) | [Praise the Lord](https://open.spotify.com/album/0CqdZh1JjqCM8GPKtAvR6m) | 2:47 | 2026-10-02 |  |
 | [Praise The Lord](https://open.spotify.com/track/5APwmucVFdiD71vniIvihw) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Praise The Lord](https://open.spotify.com/album/6Y6ASzdPqY7GNO3GWADUux) | 3:58 | 2025-10-03 | 2026-02-06 |
 | [Praise The Lord](https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson Qozan](https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN) | [Praise The Lord](https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt) | 2:56 | 2024-11-22 | 2025-06-20 |
 | [Praise You](https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Praise You](https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV) | 1:59 | 2024-06-14 | 2024-08-02 |

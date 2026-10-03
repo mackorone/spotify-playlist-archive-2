@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,332 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,331 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 29 | [Coração Melão](https://open.spotify.com/track/5WJl5D5BtJ1m0DIj6ZKOzT) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Coração Melão](https://open.spotify.com/album/6M6JvZ9nPuldJZHe99vInD) | 4:18 |
 | 30 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 31 | [Fuso Horário \- Ao Vivo](https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2 \(Ao Vivo\)](https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS) | 3:06 |
-| 32 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
-| 33 | [INCOMUM](https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [BRava](https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH) | 2:54 |
+| 32 | [INCOMUM](https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [BRava](https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH) | 2:54 |
+| 33 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
 | 34 | [Amor e Sacanagem](https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [Amor e Sacanagem](https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9) | 2:49 |
 | 35 | [Janeiro](https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Janeiro](https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2) | 3:10 |
 | 36 | [Alto Preço](https://open.spotify.com/track/3r5YGpZC57ee9l7dKLDsIm) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Alto Preço](https://open.spotify.com/album/10xQyAREvJCX5VxzfdCFlr) | 3:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 45 | [Nossa Brincadeira](https://open.spotify.com/track/6H7sEkjKCG95mejUtF2tNi) | [Marina Iris](https://open.spotify.com/artist/5iK58wMvoI0nNXMCHMUN9U), [Marcelle Motta](https://open.spotify.com/artist/7J5aKHQliQ4L12PsUutaF1), [Samba Que Dá](https://open.spotify.com/artist/4DLTl0Mv0q0c87qibEEUeU) | [Nossa Brincadeira](https://open.spotify.com/album/1eRM4XtsESz7aISUssPQBd) | 3:12 |
 | 46 | [Hoje Não](https://open.spotify.com/track/7yCxFpi9yX3hCOfQIc5c52) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Relíquia](https://open.spotify.com/album/76tgZEWG23gdRLRtwBYQSv) | 2:15 |
 | 47 | [E Depois?](https://open.spotify.com/track/786fu99IQ8V9kKZBVcFCyy) | [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy) | [E Depois?](https://open.spotify.com/album/7nela367wRJK6VB42YNA6T) | 3:04 |
-| 48 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
-| 49 | [Será Que É Amor / Castelo de um Quarto Só / Amor Sem Fim \- Ao Vivo](https://open.spotify.com/track/5uzquJOqYCBwr3hUX1Mn99) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Andressa Hayalla In Floripa, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1urM3PJZ7MN9qgnnlk0LOh) | 4:56 |
+| 48 | [Será Que É Amor / Castelo de um Quarto Só / Amor Sem Fim \- Ao Vivo](https://open.spotify.com/track/5uzquJOqYCBwr3hUX1Mn99) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Andressa Hayalla In Floripa, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1urM3PJZ7MN9qgnnlk0LOh) | 4:56 |
+| 49 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
 | 50 | [Bora Viver \- Ao Vivo](https://open.spotify.com/track/6yxIybVVgGKeln8WMVT2SV) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd) | [Bora Viver \(Ao Vivo\)](https://open.spotify.com/album/6gxUMJfrcRUcEUJrKlP4Do) | 2:49 |
 
 Snapshot ID: `AAAAALXZjCbRNGiJP39QE8iGZo5QReIG`

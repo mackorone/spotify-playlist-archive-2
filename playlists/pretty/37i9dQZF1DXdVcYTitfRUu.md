@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,868 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,869 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 66 | [Be with U](https://open.spotify.com/track/0BSMFWQxVWlFG4dtw7QVpx) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [We Are All Trying Here \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1vuyFbNIp8V2MprNjev7Dz) | 3:49 |
 | 67 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 |
 | 68 | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 |
-| 69 | [Last Love](https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Last Love](https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6) | 4:15 |
+| 69 | [Close your eyes](https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Close your eyes](https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr) | 5:38 |
 | 70 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 |
-| 71 | [Close your eyes](https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Close your eyes](https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr) | 5:38 |
-| 72 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
-| 73 | [Love Sick](https://open.spotify.com/track/4olnn5uPUcuHTbzDZb7kq2) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Love Sick](https://open.spotify.com/album/6fYDT5VwUzrIhHReFszTcH) | 4:07 |
+| 71 | [Last Love](https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Last Love](https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6) | 4:15 |
+| 72 | [Love Sick](https://open.spotify.com/track/4olnn5uPUcuHTbzDZb7kq2) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Love Sick](https://open.spotify.com/album/6fYDT5VwUzrIhHReFszTcH) | 4:07 |
+| 73 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
 | 74 | [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 |
-| 75 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 |
-| 76 | [Moving Away](https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Moving Away](https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS) | 4:24 |
+| 75 | [Moving Away](https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Moving Away](https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS) | 4:24 |
+| 76 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 |
 | 77 | [You may live in happiness \(2022\)](https://open.spotify.com/track/0D5e4R40frQYkr2PzdMpHL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [You may live in happiness \(2022\)](https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8) | 4:34 |
 | 78 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 |
 | 79 | [A Day](https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [EXchange4, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI) | 2:57 |
-| 80 | [No More Encore](https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Bloom Again](https://open.spotify.com/album/2Ki6NwC0tAoWpIQIW5at94) | 4:05 |
+| 80 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 |
 
 Snapshot ID: `AAAAAFDor3dFtVMq2yGjeP+uGt0QfBaF`

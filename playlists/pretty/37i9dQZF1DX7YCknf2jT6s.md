@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Meshell Ndegeocello
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,243 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,263 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 3 | [Overture \(feat\. Nate Smith, Shibo\)](https://open.spotify.com/track/2NvLivoGmNiAxKdI6ylzPk) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Memory Bomb](https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB) | 2:47 |
 | 4 | [Cows](https://open.spotify.com/track/12DEfsc5TBgfMyWcrvU5CT) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Ursa Major](https://open.spotify.com/artist/1t96Tk4yaINGyLVLVxmmC3) | [Cows](https://open.spotify.com/album/0udG01fgscq1AhnQLkZlTg) | 6:24 |
 | 5 | [Luck Be A Lady](https://open.spotify.com/track/2qoFgri9rsDsqtgTAfKgrR) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT), [Patrick Bartley Jr.](https://open.spotify.com/artist/5QzWMvefUKmiZuzTyEabcC) | [Luck Be A Lady](https://open.spotify.com/album/3YPu1Jgr6RxhUE9eIesGlw) | 8:15 |
-| 6 | [Homecoming](https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Homecoming](https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV) | 4:07 |
+| 6 | [Homecoming](https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Homecoming](https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV) | 4:07 |
 | 7 | [La Sentencia \- Duo](https://open.spotify.com/track/74oyWihpW29wlh97CLkMaj) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [La Sentencia \- Duo](https://open.spotify.com/album/3HguosoaEMHpSODZmb1o36) | 4:54 |
 | 8 | [Water’s Edge](https://open.spotify.com/track/1Ay0dA7sOqOanoqIWsghLU) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Water’s Edge](https://open.spotify.com/album/1JClFAJBmFZNpK0WrmJwQM) | 2:54 |
 | 9 | [No Doubt](https://open.spotify.com/track/5lf3BFZdQEOq2JNoL9diLg) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [No Doubt](https://open.spotify.com/album/52P77NykjNvql68U08PVVc) | 2:00 |

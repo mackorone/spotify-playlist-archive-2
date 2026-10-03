@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdaIjAsPE9ht.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdaIjAsPE9ht) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdaIjAsPE9ht)
 
-### [rainy day lofi](https://open.spotify.com/playlist/37i9dQZF1DXdaIjAsPE9ht)
+### [sad lofi](https://open.spotify.com/playlist/37i9dQZF1DXdaIjAsPE9ht)
 
-> sad lofi to keep your thoughts company when u r down 🌧️ remember this too shall pass
+> sad beats for the feels 🌧️💔 when everything's a little too much
 
-162 songs - 6 hr 16 min
+164 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [eventide](https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [eventide](https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh) | 2:10 | 2024-06-13 | 2026-06-11 |
 | [Exploration](https://open.spotify.com/track/1PwVBwNUic8BEFA4gwRDPG) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT) | [Exploration](https://open.spotify.com/album/7G8S5xQupbbqdwYrPO5zMY) | 2:01 | 2025-01-09 | 2026-01-30 |
 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 | 2023-10-27 |  |
-| [finished above and beyond](https://open.spotify.com/track/6H9o7w9w55eFhOducMYJDb) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [finished above and beyond](https://open.spotify.com/album/1zDqFl1qucDBD6J0JKqviQ) | 2:36 | 2025-08-21 |  |
+| [finished above and beyond](https://open.spotify.com/track/6H9o7w9w55eFhOducMYJDb) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [finished above and beyond](https://open.spotify.com/album/1zDqFl1qucDBD6J0JKqviQ) | 2:36 | 2025-08-21 | 2026-10-03 |
 | [flight mode](https://open.spotify.com/track/4TgxpwHOSxOEPVwyZj5cao) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [flight mode](https://open.spotify.com/album/0fXclyQ8IwnVbg0OuMO9Am) | 1:36 | 2026-03-03 |  |
 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 | 2023-10-27 |  |
 | [forest rain](https://open.spotify.com/track/6tmmYiJftphotSiYqZRBiG) | [low pines](https://open.spotify.com/artist/0vVUkxt48ozguY3xh3ntKg) | [forest rain](https://open.spotify.com/album/5P2Sf7qQQy4cNK4XSIiRjC) | 2:07 | 2026-01-29 |  |
@@ -71,6 +71,7 @@
 | [Garden Suitcase](https://open.spotify.com/track/7M7F46ZhsjjQrat1xsSBnZ) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Garden Suitcase](https://open.spotify.com/album/7xMTf3XHD0bDYg0qAybTry) | 2:31 | 2024-02-02 |  |
 | [gentle breath](https://open.spotify.com/track/511fGyUV4I1zfaH77bsElF) | [anton suede](https://open.spotify.com/artist/7CVmC6cx5X5250x68y8AaN) | [gentle breath](https://open.spotify.com/album/0K8gBog3uUZS4Ynv3qU9ER) | 2:21 | 2024-01-05 |  |
 | [Give Me a Slice](https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ) | [Amai Beats](https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp) | [Give Me a Slice](https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD) | 2:26 | 2024-10-11 |  |
+| [Glass & Concrete](https://open.spotify.com/track/0meV5lOErMLVGzYvqEKTsp) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Glass & Concrete](https://open.spotify.com/album/7uU1YyV5KnEgT4zcCkFnE6) | 1:52 | 2026-10-02 |  |
 | [Glowing Tears](https://open.spotify.com/track/32m44mzFzkX6id2ERis5qj) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Glowing Tears](https://open.spotify.com/album/4VEGzMvsvquNr4Mc3C9rBD) | 2:20 | 2024-10-11 | 2025-08-22 |
 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 | 2023-10-27 | 2023-12-14 |
 | [here for you](https://open.spotify.com/track/5MdOUV3rmuumO4gVOV4a4h) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [here for you](https://open.spotify.com/album/7oYTTEuJBgDAxop11qOX4i) | 2:16 | 2025-01-09 |  |
@@ -103,6 +104,7 @@
 | [Mirror](https://open.spotify.com/track/6wa6akH9SHPLIePf1Hl4Bs) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Mirror](https://open.spotify.com/album/5hDzkcdJRdVxdfwZDUiRta) | 2:04 | 2024-01-05 |  |
 | [Morse](https://open.spotify.com/track/4Od4ZRReLhtOLjOk5WwniX) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Morse](https://open.spotify.com/album/6HhukpHgPeBhjwTAKYieJ0) | 2:48 | 2025-06-19 |  |
 | [Night Haze](https://open.spotify.com/track/3l0IGfTNIDHBVvoCDOLXhE) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Shoganai](https://open.spotify.com/artist/2ye57fswWGmqTjYVUNxH9X) | [Night Haze](https://open.spotify.com/album/7846uXQs07yC1zqYUXOumM) | 2:20 | 2026-03-03 |  |
+| [night walk](https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [night walk](https://open.spotify.com/album/3uxYAT9KUlzz05fXFYES1g) | 2:33 | 2026-10-02 |  |
 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 | 2023-10-27 |  |
 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 | 2023-10-27 | 2024-10-12 |
 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 | 2023-10-27 |  |

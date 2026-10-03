@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,836 songs - 7 day 6 hr 54 min
+2,838 songs - 7 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [Loud Hailer](https://open.spotify.com/track/11GJvyy9G8hz6AyeCbmS2o) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/3wXyNa8fg2M7El6ZO59hhM) | 3:48 | 2023-01-26 | 2023-03-08 |
 | [Loud Hailer](https://open.spotify.com/track/7AhQukb7kW2rbAKPKBc7tC) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/4JFBN5yf2FzlVqXs076oC6) | 3:48 | 2023-01-05 | 2023-01-28 |
 | [LOVE & JUSTICE](https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOVE & JUSTICE/超人](https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX) | 4:27 | 2024-08-27 | 2024-10-09 |
+| [LOVE & LIKE](https://open.spotify.com/track/1nkfCEYkL2DQ02V3ffrwgL) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [LOVE & LIKE](https://open.spotify.com/album/0R7Oz36rfDjxF7hzRrt4A6) | 3:32 | 2026-10-02 |  |
 | [Love Birds](https://open.spotify.com/track/2TDtrTlftOMY2GlU8aMtMb) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [琴音](https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO) | [\[Kin no Kuni Mizu no Kuni\] Original Sound Track](https://open.spotify.com/album/5BWOI876SLfTD2yz4Nom0u) | 2:33 | 2023-01-24 | 2023-04-12 |
 | [Love Birds](https://open.spotify.com/track/2nORh3ReQzKn8Pg51JaaN5) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [琴音](https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO) | [Love Birds](https://open.spotify.com/album/4aHwdSC9EOrqJ6OzW7fkbP) | 2:33 | 2023-01-24 | 2023-01-26 |
 | [LOVE CRAZY](https://open.spotify.com/track/4RjxJlyjU6cMrv4dJH5XtP) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [LOVE CRAZY](https://open.spotify.com/album/59K14Vh4mIaPjRHsCuP9B8) | 4:04 | 2023-01-05 | 2023-04-09 |
@@ -1775,6 +1776,7 @@
 | [まだ知らないストーリー](https://open.spotify.com/track/1nWoECQI4VPMk6EjttmP1G) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [まだ知らないストーリー](https://open.spotify.com/album/7uxlb0zRcVXr7IWYp2gs2i) | 3:29 | 2025-07-08 | 2025-10-03 |
 | [まっさかさマジック！](https://open.spotify.com/track/3Wu1yHcmhTeuHONeRi7UIE) | [shallm](https://open.spotify.com/artist/7p59bvZexyLPxLprpZRV6L) | [まっさかさマジック！](https://open.spotify.com/album/1WuohZXwciGmRxl9XbnO7H) | 3:26 | 2024-01-09 | 2024-04-11 |
 | [まなざしは光](https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [まなざしは光](https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC) | 3:27 | 2025-07-08 | 2025-10-15 |
+| [まばたき](https://open.spotify.com/track/7C8ZmYeJN1UfmgrOiXD31c) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [まばたき](https://open.spotify.com/album/3NuPaqQCc8bkmGe4IsvKfC) | 3:16 | 2026-10-02 |  |
 | [まるでマトリョーシカ](https://open.spotify.com/track/7L18rdyqfdhaPSjiUTKnkG) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [まるでマトリョーシカ](https://open.spotify.com/album/7FJuwlnOW0uN5Hy1LvTWwW) | 3:46 | 2026-01-15 | 2026-01-21 |
 | [まるで元気](https://open.spotify.com/track/20AGXdjLMIrN25CsuCdEww) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [MUSIC](https://open.spotify.com/album/7vTxY03vAbkmoQTFq9mOxC) | 4:04 | 2023-11-07 | 2023-11-16 |
 | [めくるめくランデヴー](https://open.spotify.com/track/026VbVyatYFa1u0pKcN4FP) | [FUWAMOCO](https://open.spotify.com/artist/1xMnU9x62MT8ojHTxaR2dl) | [めくるめくランデヴー](https://open.spotify.com/album/6HMWbshLOkEllTsx5i8Ls6) | 3:29 | 2026-04-02 | 2026-07-03 |

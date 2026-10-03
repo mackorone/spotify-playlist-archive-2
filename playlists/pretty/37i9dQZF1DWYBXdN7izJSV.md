@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,439 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,443 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 18 | [Angel from Montgomery](https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:44 |
 | 19 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 |
 | 20 | [The Galway Girl](https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transcendental Blues](https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k) | 3:05 |
-| 21 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July \(2012 Remaster\)](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
-| 22 | [Waiting Around to Die](https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:45 |
+| 21 | [Waiting Around to Die](https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:45 |
+| 22 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July \(2012 Remaster\)](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
 | 23 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
 | 24 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 25 | [Our Town](https://open.spotify.com/track/43nP4jKb7yRoyN6onAJ684) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/2GA3HnSHqkdonyJbfEcz6o) | 5:00 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 32 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
 | 33 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
 | 34 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
-| 35 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
-| 36 | [Conversation With The Devil](https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Crusades Of The Restless Knights](https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU) | 4:54 |
-| 37 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
-| 38 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 |
+| 35 | [Conversation With The Devil](https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Crusades Of The Restless Knights](https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU) | 4:54 |
+| 36 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
+| 37 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 |
+| 38 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
 | 39 | [New Madrid](https://open.spotify.com/track/4Ssgx7QJr0fzabt4D4JZ1b) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:31 |
 | 40 | [New Orleans](https://open.spotify.com/track/30DrekKEh1G4jBkQlEfKQl) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/4a1gvrakHL6eEm4P86AUiR) | 3:31 |
 | 41 | [Save It For A Rainy Day](https://open.spotify.com/track/6IZIEhCq9crPjl2jGUvELS) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Rainy Day Music](https://open.spotify.com/album/3vI8vpQDeh7NaNEY1AilPm) | 3:07 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 71 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 |
 | 72 | [Whiskey Angel](https://open.spotify.com/track/3Z1BWdwfiXnmLdnNBfRv9u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Whiskey Angel](https://open.spotify.com/album/5c6mKZXRDC5vCKqVTpU9kf) | 4:52 |
 | 73 | [I'm Over You](https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK) | [The Silos](https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih) | [The Silos \(Bonus Track Version\)](https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg) | 4:58 |
-| 74 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
-| 75 | [Walk Through The Fire](https://open.spotify.com/track/4waV8mpuoXeZqvWch7Cl95) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Filth & Fire](https://open.spotify.com/album/1TXlWspn7oQGH0FDMOE2M0) | 4:38 |
+| 74 | [Walk Through The Fire](https://open.spotify.com/track/4waV8mpuoXeZqvWch7Cl95) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Filth & Fire](https://open.spotify.com/album/1TXlWspn7oQGH0FDMOE2M0) | 4:38 |
+| 75 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
 
 Snapshot ID: `AAAAAI4UoIJiIOZ3WFz0ayeCdiKVctSs`

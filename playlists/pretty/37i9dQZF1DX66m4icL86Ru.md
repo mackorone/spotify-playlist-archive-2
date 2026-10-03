@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Yung Miami
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,625 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,620 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 37 | [CRANK](https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CRANK](https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT) | 2:55 |
 | 38 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
 | 39 | [Coconut Water](https://open.spotify.com/track/2tvooheYc5ooGL9TyBLQ60) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Coconut Water](https://open.spotify.com/album/1MzQ3HCpPS2S7mIU6ozppF) | 1:57 |
-| 40 | [Nasty](https://open.spotify.com/track/1iIkP4FMKqOw5nqbrKUqEC) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/0fMcAd5V3GKgcjB5ANKeqQ) | 2:56 |
+| 40 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 41 | [Needa Gangsta](https://open.spotify.com/track/08CQDDOc3NifKyLa3hUSDI) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Needa Gangsta](https://open.spotify.com/album/4lSuzseuY8VL3JKc7j8ZKJ) | 3:12 |
 | 42 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 |
 | 43 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 46 | [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU) | 3:02 |
 | 47 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 48 | [POOKIE’S REQUIEM \(feat\. Summer Walker\) \- hehe look y'all I made it longer](https://open.spotify.com/track/2LIgTJnCCAtGbuPn0qN7Ny) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [POOKIE’S REQUIEM \(feat\. Summer Walker\) \[hehe look y'all I made it longer\]](https://open.spotify.com/album/5o7Wu7xeSeuey5Lwbn8Lv2) | 2:53 |
-| 49 | [Tell Ur Girlfriend](https://open.spotify.com/track/3I3eUAnjfJ3XtqgQJda5u5) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/6YRxXLfApqwOhEPAtI8UZY) | 2:04 |
+| 49 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 | 50 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 51 | [Money At](https://open.spotify.com/track/1CO1DRM25EywKMUo1TdyeU) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Money At](https://open.spotify.com/album/5Qsme6TaDgmaiGHM3VCGtd) | 1:55 |
 | 52 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 55 | [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 |
 | 56 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
 | 57 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
-| 58 | [Barbie](https://open.spotify.com/track/299qlT1YcZ3DVlKCoqRoV7) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/75R7GceHeK8bCwv23trU4N) | 2:08 |
+| 58 | [Barbie](https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg) | 2:08 |
 | 59 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
 | 60 | [make you mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [make you mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 61 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 |

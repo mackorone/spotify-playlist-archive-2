@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 75269,
+  "num_followers": 75277,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAC914vRuzqfCb8fw2mUb5h8",
+  "snapshot_id": "ar2igAAAAAAFODU3Ws3rAz/LpyG1hLwu",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "He's Frank (Slight Return)",
-        "url": "https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F"
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
       "artists": [
-        {
-          "name": "The BPA",
-          "url": "https://open.spotify.com/artist/1YJaPNfbWVIItItFlBrEK2"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 197013,
-      "name": "He's Frank - Slight Return",
-      "url": "https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4"
+      "duration_ms": 235293,
+      "name": "Les Feuilles Mortes",
+      "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
     },
     {
       "added_at": null,
@@ -387,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Les Feuilles Mortes",
-      "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God\u2019s Lonely Man",
         "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 163120,
       "name": "God's Lonely Man",
       "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "He's Frank (Slight Return)",
+        "url": "https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F"
+      },
+      "artists": [
+        {
+          "name": "The BPA",
+          "url": "https://open.spotify.com/artist/1YJaPNfbWVIItItFlBrEK2"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "He's Frank - Slight Return",
+      "url": "https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 126720,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 259113,
       "name": "Loves Missing",
       "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "Et Si Tu n'existais Pas",
-      "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVERY LOSER",
         "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
       "artists": [
         {
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
+      "duration_ms": 213960,
+      "name": "Et Si Tu n'existais Pas",
+      "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
         "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 192853,
       "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
       "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 227166,
-      "name": "Morning Show",
-      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arista Heritage Series: Iggy Pop",
         "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To Goran Bregovic",
-        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 163013,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome To Goran Bregovic",
+        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/3LiArYJoDOq9fiiVIBc893"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 305552,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/7FlFVxnKwJl6E5B49Jn9S7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Preliminaires",
         "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
@@ -859,22 +879,6 @@
       "duration_ms": 172880,
       "name": "I Want To Go To The Beach",
       "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blah-Blah-Blah",
-        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 357706,
-      "name": "Shades",
-      "url": "https://open.spotify.com/track/7FhazKWdLIXBTHOxl6tpjK"
     }
   ],
   "unique_name": "This Is Iggy Pop",

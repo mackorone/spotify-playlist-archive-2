@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,827 likes - 185 songs - 10 hr 25 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,830 likes - 186 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,5 +193,6 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 183 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 |
 | 184 | [Stayed Gone \(Political Parody\)](https://open.spotify.com/track/6xh1fNlKrxoKkwYkKfVAjt) | [Emory Jones](https://open.spotify.com/artist/0DM6zW05i7zxC3BrPiqidt) | [Stayed Gone \(Political Parody\)](https://open.spotify.com/album/445SzTp0MXwx2IpFdQYYJW) | 2:15 |
 | 185 | [Starlight Brigade](https://open.spotify.com/track/2HVie6QZfnDS2HVQiGZwU6) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Dan Avidan](https://open.spotify.com/artist/5HEl3J1o3yGK8ac6GeUmMo) | [Together Through Time](https://open.spotify.com/album/1PfcsIpr2dosoGTwMB63nO) | 5:28 |
+| 186 | [Scream & Shout](https://open.spotify.com/track/4P3rzr8MvR6ezwvbRBFyJs) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [Scream & Shout](https://open.spotify.com/album/3iCMDqrSHzLdgaDUvN0DLo) | 2:40 |
 
-Snapshot ID: `AAACE41RJ/ez8wTgctuRtTejU9zY6hpG`
+Snapshot ID: `AAACFJ31F/k31FgR77AbKNFGJmYrC/8S`

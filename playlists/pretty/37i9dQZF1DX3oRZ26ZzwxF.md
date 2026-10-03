@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Suspect 95
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,735 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,805 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 12 | [OKULU](https://open.spotify.com/track/5EYzkAbjF5CEY2SWtyUeYl) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [AFRO\-N\-TCHAM 2](https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg) | 2:58 |
 | 13 | [ZÉLÉ](https://open.spotify.com/track/0jLi5SgjahwWtjLpswWogi) | [9K YNZ](https://open.spotify.com/artist/0URfErBlJnxhfxx3HSJmU4), [Big Chekete](https://open.spotify.com/artist/0mNLP348eMWipFY26v9WYu) | [ZÉLÉ](https://open.spotify.com/album/4inhW8gDba8UvcuuU10Scj) | 2:20 |
 | 14 | [B2B](https://open.spotify.com/track/43omPVe6Ys95FAZsgpAGxW) | [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [INVASION TOME II](https://open.spotify.com/album/5eucneWXTbgnAMOrNHq2kg) | 2:33 |
-| 15 | [EN KINKONZ](https://open.spotify.com/track/33HaTeHq3KBS1P3JPUAcAT) | [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP), [La Diktatur](https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF) | [EN KINKONZ](https://open.spotify.com/album/76m7lcRV6XEDS1oshLvFCS) | 2:43 |
+| 15 | [EN KINKONZ](https://open.spotify.com/track/33HaTeHq3KBS1P3JPUAcAT) | [La Diktatur](https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF), [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP) | [EN KINKONZ](https://open.spotify.com/album/76m7lcRV6XEDS1oshLvFCS) | 2:43 |
 | 16 | [WALLOU](https://open.spotify.com/track/4E2ukl1HyOkU1pvV7IiQEK) | [Benzolamelo](https://open.spotify.com/artist/03BQDdUudnaUqRp45kAcM7) | [WALLOU](https://open.spotify.com/album/0lk9DqMfUNqaimVF8jEpd9) | 2:20 |
 | 17 | [Sécurisé](https://open.spotify.com/track/5KruRcDHp323eHdNJMfjjd) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [Sécurisé](https://open.spotify.com/album/4yFjwLF2pprecd9RvnZg0B) | 2:09 |
 | 18 | [Blue Bird](https://open.spotify.com/track/4iW60NNMkamRJZTOOHIs7B) | [Jordy Escobar](https://open.spotify.com/artist/7y8rRFHnMzwKqKxgyLwJIb), [Genjutsu Beats](https://open.spotify.com/artist/1Y7K6Fwt75xfqAfh86DDFY) | [Blue Bird](https://open.spotify.com/album/32wOUiMfqICELuKsgPjeYw) | 2:09 |

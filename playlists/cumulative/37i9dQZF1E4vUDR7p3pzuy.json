@@ -2621,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "Broken Heart / Fire",
+        "url": "https://open.spotify.com/album/5dkTiH3qiBSVeeBKZlCGQE"
+      },
+      "artists": [
+        {
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332903,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/0ZPlArEe2wCZVTky0c51XR"
+    },
+    {
+      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/2Cuar3OuEMKxXMeIbS1vt3"
       },
@@ -4438,7 +4456,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 247093,
       "name": "Cruelty of the beast",
       "url": "https://open.spotify.com/track/4SQeLISqXhoXPNkfEZfWjy"
@@ -9976,7 +9994,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 302063,
       "name": "Incubus Succubus",
       "url": "https://open.spotify.com/track/22aTxOrMJ2heqnqOKYY53q"
@@ -9994,7 +10012,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -12849,6 +12867,24 @@
     },
     {
       "album": {
+        "name": "The Sun Came Up Tremendously",
+        "url": "https://open.spotify.com/album/03I2khaP0PGScATSmHWC3r"
+      },
+      "artists": [
+        {
+          "name": "Golden Apes",
+          "url": "https://open.spotify.com/artist/6vD0hJTvo9nvCJxWTLnsfi"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352120,
+      "name": "Milk And Poison",
+      "url": "https://open.spotify.com/track/0RbL5065NVh1v3XArkipxy"
+    },
+    {
+      "album": {
         "name": "MILKY BREATH",
         "url": "https://open.spotify.com/album/16sawerMDTlZsDE9xtR7yh"
       },
@@ -14153,6 +14189,24 @@
     },
     {
       "album": {
+        "name": "sock monkeys find out they have to pay taxes and have no fun",
+        "url": "https://open.spotify.com/album/5yH4N4pC5bOd7cYCgbkgFi"
+      },
+      "artists": [
+        {
+          "name": "waterproof goldstar",
+          "url": "https://open.spotify.com/artist/0XJvFR4C2esBAZYIWt8oAQ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271691,
+      "name": "okay, meet crazy (okay this is crazy)",
+      "url": "https://open.spotify.com/track/0ohhX84UI9LSyZQEkN2JHj"
+    },
+    {
+      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/5fVYh42zl7h1C63WOvM6U0"
       },
@@ -14308,7 +14362,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 207795,
       "name": "Open",
       "url": "https://open.spotify.com/track/5Pxj2BaFEA9uukTHdUp6K0"
@@ -16528,7 +16582,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 301220,
       "name": "Setting Sun",
       "url": "https://open.spotify.com/track/7aLeoCCpaYYqj7pv8HkPSZ"
@@ -16572,6 +16626,24 @@
       "duration_ms": 276332,
       "name": "Shadow Life",
       "url": "https://open.spotify.com/track/5dRy6HhXmnMB22LNKoFfhD"
+    },
+    {
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/2XCjNIXxYGv3eOKqtOtlMl"
+      },
+      "artists": [
+        {
+          "name": "Erin Kamler",
+          "url": "https://open.spotify.com/artist/4OjoDHoMxQQxi5kq2jWOTr"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Shadow of You",
+      "url": "https://open.spotify.com/track/2ZFX60LifF3tIClyRvSNOI"
     },
     {
       "album": {
@@ -18138,7 +18210,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 232600,
       "name": "Stay Where You Are",
       "url": "https://open.spotify.com/track/6SSOZbIz7dHdy59cwlVL1E"
@@ -18380,7 +18452,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -19010,7 +19082,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 265511,
       "name": "Template",
       "url": "https://open.spotify.com/track/2U3ZCVEM5t3V2kgfBgJAFa"
@@ -19717,6 +19789,24 @@
     },
     {
       "album": {
+        "name": "Tears - A Collection Of Silke Bischoff Songs",
+        "url": "https://open.spotify.com/album/0WtpxTiehzWzLZKczVJWSt"
+      },
+      "artists": [
+        {
+          "name": "Silke Bischoff",
+          "url": "https://open.spotify.com/artist/2dVZIOcClYr3ounVICYgKJ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/1dcRx4S6Hpd9JM6PNT4mbU"
+    },
+    {
+      "album": {
         "name": "The Long Drive",
         "url": "https://open.spotify.com/album/2EWRsqUaVcmH0udBQPvAme"
       },
@@ -20302,7 +20392,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 181973,
       "name": "There",
       "url": "https://open.spotify.com/track/1ucFmzsooWgzSRzlDI65Jz"
@@ -20468,7 +20558,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 187252,
       "name": "This Elegant Deal",
       "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
@@ -21063,6 +21153,24 @@
     },
     {
       "album": {
+        "name": "Pissoir Des Dieux",
+        "url": "https://open.spotify.com/album/6XcgzilLgNDZpjo8ibNxxa"
+      },
+      "artists": [
+        {
+          "name": "Pissoir des Dieux",
+          "url": "https://open.spotify.com/artist/3bWuMUl4d0HCTdKDGt1Ts1"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Triple Sized Cocktail",
+      "url": "https://open.spotify.com/track/5bNWG72kk0iq7ZXPtQi0LA"
+    },
+    {
+      "album": {
         "name": "Separation Team",
         "url": "https://open.spotify.com/album/37TnqdAwxVxAJPqVVAUaVG"
       },
@@ -21258,7 +21366,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 204904,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
@@ -21442,6 +21550,24 @@
       "duration_ms": 366200,
       "name": "Under Your Skin",
       "url": "https://open.spotify.com/track/3UbZxHjScqE6eWmXbR9zX4"
+    },
+    {
+      "album": {
+        "name": "Under Your Spell",
+        "url": "https://open.spotify.com/album/6V7rp7jsQK5l64kY8FoTu5"
+      },
+      "artists": [
+        {
+          "name": "Backwards Charm",
+          "url": "https://open.spotify.com/artist/4iCPfpi2xe0ntEU4FBDU2e"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227910,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/51G6FzflyakBJbUQZWofZW"
     },
     {
       "album": {

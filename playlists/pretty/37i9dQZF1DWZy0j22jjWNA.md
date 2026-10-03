@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,641 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,666 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 4 | [One More Day](https://open.spotify.com/track/4WBlyFT7SIsAwkKSpmFeAB) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [Sons Of Sunday](https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w) | 7:15 |
 | 5 | [Down In My Heart \(Joy\)](https://open.spotify.com/track/53P88AP6l1f8I9IikB55Ex) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Down In My Heart \(Joy\)](https://open.spotify.com/album/0vAd51CBFDJXarTCGnTDGK) | 2:57 |
 | 6 | [This Is The Day \(Morning Song\)](https://open.spotify.com/track/0sv1feQALqnoSoEwbTSQ6C) | [Callan Brown](https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu), [Yaz Williams](https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy) | [This Is The Day \(Morning Song\)](https://open.spotify.com/album/3i3HIVrIIYPjRPS8QN053B) | 1:58 |
-| 7 | [Fruit Takes Time](https://open.spotify.com/track/0wljFigxwGXT2juoxYPNbi) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [A Forgiving God](https://open.spotify.com/album/03qQZpsdCV4kS3yIWIu5Ud) | 3:48 |
-| 8 | [Start Living](https://open.spotify.com/track/1UnmH9FrCiUhxQ9Ua8RBvy) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Start Living](https://open.spotify.com/album/1EqzV4nq9M9sd3mOOhSSig) | 3:17 |
+| 7 | [Start Living](https://open.spotify.com/track/1UnmH9FrCiUhxQ9Ua8RBvy) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Start Living](https://open.spotify.com/album/1EqzV4nq9M9sd3mOOhSSig) | 3:17 |
+| 8 | [Fruit Takes Time](https://open.spotify.com/track/0wljFigxwGXT2juoxYPNbi) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [A Forgiving God](https://open.spotify.com/album/03qQZpsdCV4kS3yIWIu5Ud) | 3:48 |
 | 9 | [Good Day](https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Good Day](https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc) | 2:53 |
 | 10 | [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 |
 | 11 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 54 | [Water](https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Water](https://open.spotify.com/album/1VELwOMtJkOqrMycG7tr2M) | 2:06 |
 | 55 | [call My name \(YHWH\)](https://open.spotify.com/track/6C4vYEk9YkITQf8jbYg6Dv) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [call My name \(YHWH\) \- EP](https://open.spotify.com/album/3xkEYvZzLqwHiK8V8IqbhA) | 2:55 |
 | 56 | [Shine On Me](https://open.spotify.com/track/71wENgIM7IF7EtUCyvwIqZ) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Shine On Me](https://open.spotify.com/album/1cUkumqdaoOmyJhI1Nk3Ak) | 3:00 |
-| 57 | [morning always comes](https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [morning always comes](https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ) | 3:20 |
-| 58 | [05 \(Morning\)](https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [05 \(Morning\)](https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5) | 3:48 |
+| 57 | [05 \(Morning\)](https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [05 \(Morning\)](https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5) | 3:48 |
+| 58 | [morning always comes](https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [morning always comes](https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ) | 3:20 |
 | 59 | [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 |
 | 60 | [Good Morning \- Live](https://open.spotify.com/track/6Ig52FtLA9NiOl1QmRdfdf) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Good Morning \(Live\)](https://open.spotify.com/album/35tgZxinl7ylrXq7LcgrFL) | 4:46 |
 | 61 | [All Eyes On You](https://open.spotify.com/track/4EYPGsRXQHnItdVT2jrNqP) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [All Eyes On You](https://open.spotify.com/album/1mVMcsbi2aYFXH9AWm7O95) | 4:49 |

@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Featuring YiiiNKA\. Curated with love by human Spotify editors.
 
-10,148 songs - 22 day 19 hr 40 min
+10,149 songs - 22 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6957,7 +6957,7 @@
 | [pool party](https://open.spotify.com/track/3C0xSnAHVFwqNQkHDmyxPb) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [pool party](https://open.spotify.com/album/05kcUOQZc6InkwhIIacPPw) | 3:31 | 2022-07-20 | 2022-07-28 |
 | [Poor Madeline](https://open.spotify.com/track/3JWneiKPrQOEJQ8eXJWDq9) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Poor Madeline](https://open.spotify.com/album/3fYAqgjv3QDYlgAYMY9jUg) | 3:31 | 2023-10-18 | 2023-11-16 |
 | [POP](https://open.spotify.com/track/6NBbY5HUuowO9cS4lcFHNn) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [POP](https://open.spotify.com/album/3DeFHwLhCLfhhg6GwDhMjX) | 2:37 | 2025-03-26 | 2025-05-15 |
-| [Pop Is My Religion](https://open.spotify.com/track/3szS1JE9PN3p0CHQfwwyDi) | [Maisi and the Disco](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [Pop Is My Religion](https://open.spotify.com/album/0IQtY2bY9Qurc7Va3vpkq0) | 2:13 | 2026-08-26 |  |
+| [Pop Is My Religion](https://open.spotify.com/track/3szS1JE9PN3p0CHQfwwyDi) | [Maisi and the Disco](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [Pop Is My Religion](https://open.spotify.com/album/0IQtY2bY9Qurc7Va3vpkq0) | 2:13 | 2026-08-26 | 2026-10-03 |
 | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/track/1Hlg1LF0oJ1UBxyVCJcP5i) | [Shitney Beers](https://open.spotify.com/artist/17ghMPiifubfyIujm3sEBa), [Elena Steri](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA) | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/album/2pXP6FJsvQNbTzY0PNUCX7) | 1:57 | 2022-10-12 | 2022-10-20 |
 | [Pop Song](https://open.spotify.com/track/3mK1prAEbCEppQq1wTdsrM) | [Scubadiver](https://open.spotify.com/artist/2v3VeFgwDNHJEerU1S5Gvw) | [Pop Song](https://open.spotify.com/album/7IKCZKutE2psFklZ8Yrnx6) | 2:22 | 2021-12-08 | 2022-01-13 |
 | [Popcorn Ceiling \(Anyone, Anyway\)](https://open.spotify.com/track/4V95Jcbcd1R2SGsoarRRQk) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [Popcorn Ceiling \(Anyone, Anyway\)](https://open.spotify.com/album/3eGsMi2znPDFg3ldzUpU2x) | 4:06 | 2025-09-24 | 2025-11-08 |
@@ -8761,6 +8761,7 @@
 | [The Artist Life](https://open.spotify.com/track/5w1OxD7fkHmE6SYNJ67Dj8) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp) | [The Artist Life](https://open.spotify.com/album/3IBryvVBK8jLxgWxXdbog5) | 2:47 | 2024-11-20 | 2025-01-16 |
 | [The Auction](https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [The Auction](https://open.spotify.com/album/4s1Ra8QnO5KdmEhkPUTYlt) | 2:56 | 2024-02-07 | 2024-02-29 |
 | [The Awakening](https://open.spotify.com/track/1i3usBZnVIjlYZOfGywtLk) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN) | [The Awakening](https://open.spotify.com/album/0JoCYuyE3P9fKagX6ttZWE) | 3:27 | 2023-02-22 | 2023-03-02 |
+| [The Ballad of St Nick's Park](https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX) | [300SkullsAndCounting](https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63), [Jenny Sparks](https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf) | [THIS IS SPA TOWN!](https://open.spotify.com/album/621WlWIqOod29HG6km5Olf) | 3:13 | 2026-10-02 |  |
 | [The Bar](https://open.spotify.com/track/4FDOkBj2PHhFTRfjEzaL17) | [MÄKI](https://open.spotify.com/artist/12VNlem2IOoPA01BYFoWBa) | [The Bar](https://open.spotify.com/album/6Ch3vzUNWP5ZZ6VTOSPyYZ) | 2:11 | 2025-10-09 | 2026-01-15 |
 | [The Basics Are Coming Back](https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB) | [0171](https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX) | [The Basics Are Coming Back / Burnout](https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1) | 3:38 | 2022-03-02 | 2022-03-10 |
 | [The Bassline](https://open.spotify.com/track/0l0rgBKuGKYdAaxQjD1kgs) | [Sebastian Wibe](https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO) | [Riotville Records Distortion Compilation](https://open.spotify.com/album/5XU2P7bWPsd9rxhA5mMbzm) | 3:23 | 2023-05-17 | 2023-05-24 |

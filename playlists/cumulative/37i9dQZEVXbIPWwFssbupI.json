@@ -9640,7 +9640,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 183813,
       "name": "CARTIER SANTOS",
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
@@ -11175,24 +11175,6 @@
     },
     {
       "album": {
-        "name": "WpointM - 93120",
-        "url": "https://open.spotify.com/album/780C2dRSoLn3vwzenI2PaH"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "date_added": "2026-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157440,
-      "name": "Cleopatre",
-      "url": "https://open.spotify.com/track/1qdDVd1EMBHirJUs6RuD1r"
-    },
-    {
-      "album": {
         "name": "Pays des merveilles",
         "url": "https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe"
       },
@@ -11208,6 +11190,24 @@
       "duration_ms": 163977,
       "name": "Clic clic pan pan",
       "url": "https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3"
+    },
+    {
+      "album": {
+        "name": "WpointM - 93120",
+        "url": "https://open.spotify.com/album/780C2dRSoLn3vwzenI2PaH"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Cl\u00e9op\u00e2tre",
+      "url": "https://open.spotify.com/track/1qdDVd1EMBHirJUs6RuD1r"
     },
     {
       "album": {
@@ -29850,7 +29850,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -31434,6 +31434,24 @@
       "duration_ms": 225136,
       "name": "Maison hant\u00e9e",
       "url": "https://open.spotify.com/track/4iID5tW0yH9kgESntEz5Ce"
+    },
+    {
+      "album": {
+        "name": "DOH!",
+        "url": "https://open.spotify.com/album/6DkUFfOCfq0WOUr2I4ssTw"
+      },
+      "artists": [
+        {
+          "name": "Lawskie",
+          "url": "https://open.spotify.com/artist/7gdTFjXWEBzBtir4DGFzku"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152222,
+      "name": "MAKA SHIT",
+      "url": "https://open.spotify.com/track/0m0aigfxWcO3D7o8xAYS8d"
     },
     {
       "album": {
@@ -33369,6 +33387,32 @@
     },
     {
       "album": {
+        "name": "Mi Chico (Official - Jason Derulo x Melody)",
+        "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
+      },
+      "artists": [
+        {
+          "name": "DJ Goja",
+          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125357,
+      "name": "Mi Chico - Official - Jason Derulo x Melody",
+      "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
+    },
+    {
+      "album": {
         "name": "Mia",
         "url": "https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB"
       },
@@ -34190,7 +34234,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1twXUY8kbuu6uUKIHeFuHM"
@@ -34864,7 +34908,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -47130,7 +47174,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 131563,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
@@ -54026,7 +54070,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 217813,
       "name": "Vrai OG",
       "url": "https://open.spotify.com/track/3R03Nd1OdKAWCnJesWYWoi"

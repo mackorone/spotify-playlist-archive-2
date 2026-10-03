@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Max McNown",
+  "description": "The cream of today's country crop. Cover: Gavin Adcock",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 258736,
       "name": "Anytime, Anywhere, Antoinette",
       "url": "https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 213805,
       "name": "Been By Now",
       "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 238811,
       "name": "dance around it",
       "url": "https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3"
@@ -7040,7 +7040,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 142245,
       "name": "Find Me In A Bar",
       "url": "https://open.spotify.com/track/5XCTaEv5vPnJJDP7T7s9Gh"
@@ -8948,7 +8948,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 177448,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/2WB9CL6XgDyCUQq1fZO9Wo"
@@ -9242,6 +9242,24 @@
       "duration_ms": 187016,
       "name": "HEARTFIRST",
       "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
+    },
+    {
+      "album": {
+        "name": "Work of Heart - Heartstrings",
+        "url": "https://open.spotify.com/album/75nqbogQG36rnoSRlVKtmP"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241253,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/5yzRGVeirNYC24dYkT3Yjq"
     },
     {
       "album": {
@@ -12804,7 +12822,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 183066,
       "name": "Longneck Weekend",
       "url": "https://open.spotify.com/track/4cMCkHlKVRqdyg7NB2KfYD"
@@ -13422,6 +13440,24 @@
       "duration_ms": 252733,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy"
+    },
+    {
+      "album": {
+        "name": "Make Trouble",
+        "url": "https://open.spotify.com/album/1CTfne4ZsabaoNdawt1nCD"
+      },
+      "artists": [
+        {
+          "name": "Bayker Blankenship",
+          "url": "https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Make Trouble",
+      "url": "https://open.spotify.com/track/6l8JlOPCBGKWJs3XOs44u0"
     },
     {
       "album": {
@@ -16265,6 +16301,24 @@
     },
     {
       "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/0qQgzw883N7XGkTuno2kNS"
+      },
+      "artists": [
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/3SM8VdUoDb7e3OUWkApJdn"
+    },
+    {
+      "album": {
         "name": "Porch Light (Valley Version)",
         "url": "https://open.spotify.com/album/6wlSTQlPPQjly70oSZraPn"
       },
@@ -18681,6 +18735,28 @@
     },
     {
       "album": {
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Snakeskin Boots",
+      "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
+    },
+    {
+      "album": {
         "name": "Parker McCollum",
         "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
       },
@@ -20226,6 +20302,24 @@
       "duration_ms": 243453,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
+    },
+    {
+      "album": {
+        "name": "Take You Down With Me",
+        "url": "https://open.spotify.com/album/5i58ud7BnWtfzw3MbR3Bv5"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203933,
+      "name": "Take You Down With Me",
+      "url": "https://open.spotify.com/track/6UFZedxBM4L7kP6wUdCAyd"
     },
     {
       "album": {
@@ -22286,6 +22380,28 @@
       "duration_ms": 197728,
       "name": "Until You",
       "url": "https://open.spotify.com/track/6b1nfXTSLwlgQGr5KRzIJZ"
+    },
+    {
+      "album": {
+        "name": "The Day I Hang It Up",
+        "url": "https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234010,
+      "name": "Us Again",
+      "url": "https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM"
     },
     {
       "album": {

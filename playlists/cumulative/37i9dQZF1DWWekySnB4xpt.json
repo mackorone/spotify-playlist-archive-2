@@ -427,6 +427,32 @@
     },
     {
       "album": {
+        "name": "Bby Girl",
+        "url": "https://open.spotify.com/album/5g8qOGkGvUNxXozm9dDk3A"
+      },
+      "artists": [
+        {
+          "name": "Kobi Cantillo",
+          "url": "https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187198,
+      "name": "Bby Girl",
+      "url": "https://open.spotify.com/track/1npPkv3P1OWlnmkeEPSSi0"
+    },
+    {
+      "album": {
         "name": "BEBE",
         "url": "https://open.spotify.com/album/0sQn7p0DAy7V2w8ys6OxUD"
       },
@@ -689,7 +715,7 @@
         },
         {
           "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak"
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
       "date_added": "2023-11-21",
@@ -916,7 +942,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 139483,
       "name": "COSITA LINDA",
       "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
@@ -1912,7 +1938,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 154320,
       "name": "gotas - raw demo",
       "url": "https://open.spotify.com/track/54N459IAKDsbEgBALzGifR"
@@ -3322,6 +3348,24 @@
       "duration_ms": 157920,
       "name": "Quiero - TDH's Version",
       "url": "https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L"
+    },
+    {
+      "album": {
+        "name": "Live From Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/7yAaOQSsXdjiRjvrtDCFc2"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219104,
+      "name": "Qui\u00e9n Contra M\u00ed - Live From Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/4B63O9ddDnEXNyAAkKBhTE"
     },
     {
       "album": {

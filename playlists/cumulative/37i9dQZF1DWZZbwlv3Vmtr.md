@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,230 songs - 1 day 23 hr 16 min
+1,231 songs - 1 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Come Fall](https://open.spotify.com/track/3mtGITybSAEVhFUkg2Bhuf) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [Come Fall](https://open.spotify.com/album/0p8YocXPwG0lSTbQs49rWG) | 1:54 | 2024-10-04 | 2024-12-07 |
 | [come show me](https://open.spotify.com/track/3zGeEexRezep22ScUrdTyG) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [come show me](https://open.spotify.com/album/3aPBZcPfLAmvpMrc57E9Ka) | 2:01 | 2025-03-14 |  |
 | [Come With A Sparkle](https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Come With A Sparkle](https://open.spotify.com/album/2JaHpJQdURjtYsziVDYvi2) | 1:44 | 2022-06-17 | 2025-07-10 |
-| [comeback](https://open.spotify.com/track/5Ka3hY42stMN0lBKdp4KvO) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [comeback](https://open.spotify.com/album/7u3bbRG9GhkhfxTSHP42v7) | 2:06 | 2026-09-18 |  |
+| [comeback](https://open.spotify.com/track/5Ka3hY42stMN0lBKdp4KvO) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [comeback](https://open.spotify.com/album/7u3bbRG9GhkhfxTSHP42v7) | 2:06 | 2026-09-18 | 2026-10-03 |
 | [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 | 2024-12-20 | 2025-02-08 |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2022-04-15 | 2022-05-20 |
 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 | 2022-04-15 | 2022-07-01 |
@@ -374,6 +374,7 @@
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2022-04-15 | 2022-09-03 |
 | [Gentle Shore](https://open.spotify.com/track/4XPCGhCvkLHjByEVsWNdY6) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Gentle Shore](https://open.spotify.com/album/7r9en8Xo1JxfJQu92R2C6D) | 2:15 | 2026-02-27 |  |
 | [ghee](https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [ghee](https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg) | 3:00 | 2024-10-25 |  |
+| [Gift](https://open.spotify.com/track/6ZzyW9QXsJSecAg22Lzi9t) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Gift](https://open.spotify.com/album/29V3WLvDvKef8QBilE3TIp) | 2:17 | 2026-09-25 |  |
 | [GIN BASIL SMASH](https://open.spotify.com/track/4Zq8GBwC9oZZNo15i8P5ne) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [GIN BASIL SMASH](https://open.spotify.com/album/0A5jQiXL9zaGXsO4zSGY6R) | 2:18 | 2023-07-19 | 2023-09-22 |
 | [gin mood](https://open.spotify.com/track/5YAr1nEOeBQLsrqntj7Nyz) | [yori yoi hi](https://open.spotify.com/artist/0l5qxcD2fZRiXhbtJOkI5r) | [gin mood](https://open.spotify.com/album/6Taeo2fE2zaGNtHg7jTYVs) | 2:40 | 2022-04-15 | 2022-07-08 |
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-15 | 2023-10-27 |

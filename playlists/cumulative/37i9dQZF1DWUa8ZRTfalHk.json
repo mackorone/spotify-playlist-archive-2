@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Who's now and next in pop. Cover: Mollie Elizabeth",
+  "description": "Who's now and next in pop. Cover: Say Now",
   "name": "Pop Rising",
   "tracks": [
     {
@@ -7889,6 +7889,24 @@
     },
     {
       "album": {
+        "name": "Broken chair",
+        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220677,
+      "name": "Broken chair",
+      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
+    },
+    {
+      "album": {
         "name": "brrr",
         "url": "https://open.spotify.com/album/11OeiSfjvduwX8JHQSgxcQ"
       },
@@ -11160,7 +11178,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 223666,
       "name": "Crash First (with mgk)",
       "url": "https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO"
@@ -14850,6 +14868,28 @@
       "duration_ms": 213520,
       "name": "Drankin N Smokin",
       "url": "https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv"
+    },
+    {
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "album": {
@@ -26712,7 +26752,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -28678,7 +28718,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 207173,
       "name": "Just Be Bodies",
       "url": "https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x"
@@ -44757,6 +44797,24 @@
     },
     {
       "album": {
+        "name": "My Midwest Best",
+        "url": "https://open.spotify.com/album/7dk59UXUbGolU6WYsNz1N9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/5MrsWtJVzVfMQ5hWCt4BzZ"
+    },
+    {
+      "album": {
         "name": "saddest soundtrack",
         "url": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
       },
@@ -53150,7 +53208,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 232758,
       "name": "the precipice",
       "url": "https://open.spotify.com/track/7HFA3UBP3nUyjZtDtQ4ml7"
@@ -54562,6 +54620,24 @@
       "duration_ms": 205743,
       "name": "Too Busy Missing You",
       "url": "https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR"
+    },
+    {
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
     },
     {
       "album": {
@@ -58078,7 +58154,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
@@ -59594,6 +59670,24 @@
       "duration_ms": 162878,
       "name": "World We Used To Know",
       "url": "https://open.spotify.com/track/1I8pMiv8c8mTP0fvt0pqQs"
+    },
+    {
+      "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
     },
     {
       "album": {

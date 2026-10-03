@@ -1,12 +1,12 @@
 {
   "description": "BIG ROOM NEVER DIES - big room - bigroom - bigroom songs - big room music - festival music - future rave songs - big room dance - party music - mainstage songs - mainstage music - rave songs - new edm - edm songs",
-  "num_followers": 211450,
+  "num_followers": 211449,
   "original_name": "Big Room 2026 \ud83d\udd25 Bigroom Mainstage",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAAWnM3P3FwQQ64ztTpZMfhmzK06qtUF",
+  "snapshot_id": "AAAWnh+28yO1SIlAOJkBdQKVxnGOEo2I",
   "tracks": [
     {
       "added_at": "2026-10-01 14:54:45",
@@ -107,6 +107,30 @@
       "duration_ms": 132924,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3DU0c6mgNlhZUVNOFJjdL8"
+    },
+    {
+      "added_at": "2026-10-02 07:58:03",
+      "album": {
+        "name": "Bush It",
+        "url": "https://open.spotify.com/album/3Kkxv2kwYxf9N7QIl9KxNW"
+      },
+      "artists": [
+        {
+          "name": "AvAlanche",
+          "url": "https://open.spotify.com/artist/11jLFmLFGf83IgPhy1SEZA"
+        },
+        {
+          "name": "Bersu Bayraktar",
+          "url": "https://open.spotify.com/artist/4XVlrTkUvsFMuTEOmIGTlv"
+        },
+        {
+          "name": "Meteos",
+          "url": "https://open.spotify.com/artist/2Jb9bIfRooA7GkoGjRO6gV"
+        }
+      ],
+      "duration_ms": 134358,
+      "name": "Bush It",
+      "url": "https://open.spotify.com/track/3g2jWIG2CksGkkFcMToBuF"
     },
     {
       "added_at": "2026-10-01 14:54:45",
@@ -3903,38 +3927,6 @@
       "duration_ms": 178158,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/2pkXM2kb7H2zquhHGq7dVH"
-    },
-    {
-      "added_at": "2026-10-01 14:54:45",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/7xpNIZZ6Dzrh6MnTOALAYO"
-      },
-      "artists": [
-        {
-          "name": "Chester Young",
-          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
-        },
-        {
-          "name": "Jonas Schmidt",
-          "url": "https://open.spotify.com/artist/2iVI5g77D4FT62vErTSfLX"
-        },
-        {
-          "name": "Van Snyder",
-          "url": "https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P"
-        },
-        {
-          "name": "Dave Ruthwell",
-          "url": "https://open.spotify.com/artist/3QIUzh20rpzV5iWEdDbheN"
-        },
-        {
-          "name": "Mr. Sid",
-          "url": "https://open.spotify.com/artist/6RNKef9r8fl05a3yy0gjcu"
-        }
-      ],
-      "duration_ms": 144274,
-      "name": "Close To You - Dave Ruthwell & Mr. Sid Remix",
-      "url": "https://open.spotify.com/track/27WCfD4UmVunzEGDn1mwcc"
     }
   ],
   "unique_name": "Big Room 2026 \ud83d\udd25 Bigroom Mainstage",

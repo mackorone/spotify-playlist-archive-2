@@ -4,7 +4,7 @@
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 14 min
+95 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [La Corona](https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Corona](https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN) | 1:59 | 2024-08-08 |  |
 | [Levemente Cotorreando \- En Vivo](https://open.spotify.com/track/2SafJyuG87XZ0ox5CdrCaz) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:52 | 2024-08-18 | 2025-04-27 |
 | [Lujos Y Damitas](https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Lujos Y Damitas](https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU) | 2:34 | 2024-08-08 |  |
+| [Mas Que Amigos](https://open.spotify.com/track/1rqzkYCoyjeWdYPhiPR5n5) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mas Que Amigos](https://open.spotify.com/album/4HKFXNEZnJv6IRL1HeO04r) | 2:02 | 2026-10-03 |  |
 | [Mas Que Amigos](https://open.spotify.com/track/4pHiqPxCRQeNMgoPqdXvJ3) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mas Que Amigos](https://open.spotify.com/album/7jNlQ6ps2bh1OzROWHL08Z) | 2:02 | 2024-08-08 | 2025-04-07 |
-| [Mas Que Amigos](https://open.spotify.com/track/6sn09nuikBOJeiQ4r89ZBA) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mas Que Amigos](https://open.spotify.com/album/3ElDKpuuskZdLpbkfOsKmh) | 2:02 | 2025-04-07 |  |
+| [Mas Que Amigos](https://open.spotify.com/track/6sn09nuikBOJeiQ4r89ZBA) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mas Que Amigos](https://open.spotify.com/album/3ElDKpuuskZdLpbkfOsKmh) | 2:02 | 2025-04-07 | 2026-10-03 |
 | [MASARYK](https://open.spotify.com/track/0fkG4rtHfDCc4RBspkiBgp) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [MASARYK / BIEN PEDO](https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW) | 3:10 | 2025-05-25 |  |
 | [MAZA](https://open.spotify.com/track/0CpbXYbLQk4ALP7geleeSs) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:52 | 2025-11-23 |  |
 | [Medio Fresa \- En Vivo](https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:59 | 2024-08-08 | 2025-09-24 |

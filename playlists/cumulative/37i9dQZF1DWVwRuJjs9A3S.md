@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Clutter
 
-1,424 songs - 3 day 9 hr 49 min
+1,424 songs - 3 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1289,7 +1289,6 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
 | [Totally](https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Totally](https://open.spotify.com/album/68bAvtCNnayCdY7cQbz1Mh) | 2:42 | 2026-08-20 |  |
-| [Track 2](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 0:00 | 2026-10-01 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-09-11 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |
@@ -1321,6 +1320,7 @@
 | [Venom's In \- demo](https://open.spotify.com/track/7oyMAViYxBswvEXboOcT6W) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Venom's In](https://open.spotify.com/album/0Amj5rXpkhxhZMthiiMp0W) | 4:55 | 2025-12-18 | 2026-09-11 |
 | [Ventura \(Hang Me Out to Dry\)](https://open.spotify.com/track/3mXLNCgc3ledSy21Ibs7pC) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Ventura \(Hang Me Out to Dry\)](https://open.spotify.com/album/0Kcc83ICaX5IMfw6dr7I3B) | 3:21 | 2026-06-11 |  |
 | [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 | 2026-04-09 |  |
+| [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 | 2026-10-01 |  |
 | [Vice](https://open.spotify.com/track/2kYikjBhWLs8riPqpM02A1) | [Douglas Diamond](https://open.spotify.com/artist/0PtVNyWsupEHclcyHBlT4X) | [Welcome to Diamondland](https://open.spotify.com/album/65ebwCe5b3bstF4raTyXgu) | 5:23 | 2026-05-21 |  |
 | [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-11 | 2026-01-16 |
 | [Video Games \- Spotify Singles](https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Video Games \(Spotify Singles\)](https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL) | 3:09 | 2024-09-18 | 2024-11-15 |

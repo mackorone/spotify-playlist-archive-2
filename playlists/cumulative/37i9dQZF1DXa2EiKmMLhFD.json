@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Hits terpanas dari ROS\u00c9, Tulus, Taylor Swift, Olivia Rodrigo, serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
+  "description": "Hits terpanas dari Gloria Jessica, Ade Govinda, Taylor Swift, AD\u00c9LA, Olivia Rodrigo, serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
   "name": "Hot Hits Indonesia",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 252249,
       "name": "1000X",
       "url": "https://open.spotify.com/track/6xrP29JvvYP5ftteZ7nubf"
+    },
+    {
+      "album": {
+        "name": "2001x",
+        "url": "https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN"
+      },
+      "artists": [
+        {
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204149,
+      "name": "2001x",
+      "url": "https://open.spotify.com/track/7EkTXoaED7peReoRytElSi"
     },
     {
       "album": {
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 178603,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
@@ -3462,7 +3480,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 189897,
       "name": "Lihat Kebunku (Taman Bunga)",
       "url": "https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C"
@@ -4836,6 +4854,24 @@
       "duration_ms": 246964,
       "name": "Pura Pura Lupa",
       "url": "https://open.spotify.com/track/6Aw5k0jkFceYayaJoRupLT"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219924,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
     },
     {
       "album": {

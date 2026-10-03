@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Where faith meets R&B. Cover: Alex Jean, REECE, & Yung Kriss",
+  "description": "Where faith meets R&B. Cover: ANTHNY",
   "name": "Rhythm & Praise",
   "tracks": [
     {
@@ -2576,6 +2576,24 @@
       "duration_ms": 220910,
       "name": "CAN'T",
       "url": "https://open.spotify.com/track/0FCzQqeK1Kqpmvjr4rrZ8H"
+    },
+    {
+      "album": {
+        "name": "CAN'T BELIEVE",
+        "url": "https://open.spotify.com/album/0qiimlCDBGLKzAHRw5r5EY"
+      },
+      "artists": [
+        {
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187073,
+      "name": "CAN'T BELIEVE",
+      "url": "https://open.spotify.com/track/1n4kuKZCmPxSIZn56FkxSN"
     },
     {
       "album": {
@@ -5930,7 +5948,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 201600,
       "name": "GOD DID THAT",
       "url": "https://open.spotify.com/track/5psvi0EVqyXGZ68Xa0iIGW"
@@ -8739,6 +8757,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5sXXFmNMK4KvvNHIzRwJnb"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/7LTHvtt8bBuyWRqJP2kJ0k"
+    },
+    {
+      "album": {
         "name": "in the name",
         "url": "https://open.spotify.com/album/3LGdD6h9bJbcbhRPyWz1TS"
       },
@@ -9070,10 +9106,28 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 240202,
       "name": "JESUS!",
       "url": "https://open.spotify.com/track/2wDBFpmcjJslaVzGve5hSV"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gYNYVno4RBa5mkqf6CRFr"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/27GjPtEr0vncJbMESd9D7D"
     },
     {
       "album": {
@@ -9379,6 +9433,24 @@
     },
     {
       "album": {
+        "name": "LATE NIGHT",
+        "url": "https://open.spotify.com/album/7LetRzI03zjKcxljgdBYPt"
+      },
+      "artists": [
+        {
+          "name": "REECE",
+          "url": "https://open.spotify.com/artist/741RL7g85MwHhA67vF15cO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "LATE NIGHT",
+      "url": "https://open.spotify.com/track/3RMtlXBFBqI4KSpinre8cN"
+    },
+    {
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/38pRsB0XxmCyPbndikawme"
       },
@@ -9662,7 +9734,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 174939,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/7FldEvHuCMOEsiRjn0lGzZ"
@@ -10817,6 +10889,28 @@
     },
     {
       "album": {
+        "name": "Melodies Over Me",
+        "url": "https://open.spotify.com/album/69ympSx1dt3xxVEnrguHJ5"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Dari Odman",
+          "url": "https://open.spotify.com/artist/5K8ftA3zcqxdj5OiGE2FDQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241977,
+      "name": "Melodies Over Me",
+      "url": "https://open.spotify.com/track/7DtWTMIyCmACFzsxtY5HhL"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6SkRXBtGo21ClW0TXIE5FD"
       },
@@ -11311,6 +11405,24 @@
     },
     {
       "album": {
+        "name": "on the go",
+        "url": "https://open.spotify.com/album/6JdiUCekjgB6H4ucX0ZWGu"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219139,
+      "name": "MUCH FOR ME",
+      "url": "https://open.spotify.com/track/5Ott7cpAKa5oGzbiHZK06B"
+    },
+    {
+      "album": {
         "name": "Multiply",
         "url": "https://open.spotify.com/album/1m5qlzF4hD9tV2jagT4kQT"
       },
@@ -11450,6 +11562,28 @@
       "duration_ms": 157440,
       "name": "My Life",
       "url": "https://open.spotify.com/track/0wlFF6WiMHkJtkYRpvMD2z"
+    },
+    {
+      "album": {
+        "name": "My Lord",
+        "url": "https://open.spotify.com/album/7DBuB1LU3q4BLqSjBn7UXd"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        },
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170863,
+      "name": "My Lord",
+      "url": "https://open.spotify.com/track/2NFACVHDjJM7vkWXYAGE9E"
     },
     {
       "album": {
@@ -12461,6 +12595,24 @@
     },
     {
       "album": {
+        "name": "Worship Leader's Diary",
+        "url": "https://open.spotify.com/album/211Th8Wp70e5Uz6mOSNt2o"
+      },
+      "artists": [
+        {
+          "name": "ANTHNY",
+          "url": "https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243852,
+      "name": "offering (the stand)",
+      "url": "https://open.spotify.com/track/0hoy1kxFaCuAPC9joOkpJi"
+    },
+    {
+      "album": {
         "name": "oh, sinner",
         "url": "https://open.spotify.com/album/2UfE1ZWP8L5q1XSIcQqQOl"
       },
@@ -13039,6 +13191,24 @@
     },
     {
       "album": {
+        "name": "All Roads Lead To Adonai",
+        "url": "https://open.spotify.com/album/2xj6lrZ5xamj8ZlpduIF5e"
+      },
+      "artists": [
+        {
+          "name": "Ellie Scotte",
+          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268965,
+      "name": "P139",
+      "url": "https://open.spotify.com/track/4fqp3iEbiBtxbaqwQPCk7p"
+    },
+    {
+      "album": {
         "name": "PAIN, WHERE DID YOU GO?",
         "url": "https://open.spotify.com/album/6KDYZ4BDoCGCKzfG6XkMwW"
       },
@@ -13094,7 +13264,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 295158,
       "name": "pass me by",
       "url": "https://open.spotify.com/track/56VwkbeY4Mhi7IS27Nch52"

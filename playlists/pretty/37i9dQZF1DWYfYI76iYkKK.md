@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,531 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,538 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 9 | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5) | [任素汐](https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8) | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j) | 3:55 |
 | 10 | [做我的初戀 \(純愛不插電\)](https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [做我的初戀（純愛不插電）](https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5) | 3:17 |
 | 11 | [這條小魚在乎](https://open.spotify.com/track/6oakdtkmSLIvpurMVU0q5x) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [這條小魚在乎](https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j) | 4:31 |
-| 12 | [梅雨季](https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:11 |
-| 13 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 |
+| 12 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 |
+| 13 | [梅雨季](https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:11 |
 | 14 | [Special Night（电视剧《轧戏》密语主题曲）](https://open.spotify.com/track/3jZKQXkPxiwVmPPtiGO58P) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Special Night（电视剧《轧戏》密语主题曲）](https://open.spotify.com/album/4KEfrMyOcq1I4HPRSBK1Du) | 4:40 |
 | 15 | [決定不想你](https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D) | 4:01 |
 | 16 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 |
-| 17 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 |
-| 18 | [幾乎是愛情](https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 4:13 |
+| 17 | [幾乎是愛情](https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 4:13 |
+| 18 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 |
 | 19 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 20 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
 | 21 | [回留](https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:56 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 29 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一：一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 |
 | 30 | [在加納共和國離婚 \- Acoustic Version](https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚 \(Acoustic Version\)](https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH) | 3:56 |
 | 31 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
-| 32 | [習慣後就別說痛了](https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [習慣後就別說痛了](https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl) | 3:52 |
+| 32 | [一萬公里外的你 \(Acoustic\)](https://open.spotify.com/track/552mGoI859GSkBonycZohA) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [一萬公里外的你 \(Acoustic\)](https://open.spotify.com/album/38Qh0wQ32ixfQ8V5rx7jmt) | 2:44 |
 | 33 | [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 |
-| 34 | [我的存在就是愛你](https://open.spotify.com/track/1emjanb16SqthPUn27rUCp) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我的存在就是愛你](https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN) | 3:22 |
-| 35 | [一萬公里外的你 \(Acoustic\)](https://open.spotify.com/track/552mGoI859GSkBonycZohA) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [一萬公里外的你 \(Acoustic\)](https://open.spotify.com/album/38Qh0wQ32ixfQ8V5rx7jmt) | 2:44 |
-| 36 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 |
-| 37 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
+| 34 | [習慣後就別說痛了](https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [習慣後就別說痛了](https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl) | 3:52 |
+| 35 | [我的存在就是愛你](https://open.spotify.com/track/1emjanb16SqthPUn27rUCp) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我的存在就是愛你](https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN) | 3:22 |
+| 36 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
+| 37 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 |
 | 38 | [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 |
 | 39 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
 | 40 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 43 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 |
 | 44 | [海枯石爛](https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P) | [Olivia Ong](https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd) | [Romance](https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4) | 3:52 |
 | 45 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
-| 46 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
-| 47 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
+| 46 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
+| 47 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
 | 48 | [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 |
 | 49 | [側臉](https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [嵌入生長](https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN) | 3:53 |
-| 50 | [你說話的聲音好細](https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [你說話的聲音好細](https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17) | 5:14 |
+| 50 | [君](https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [君](https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed) | 2:48 |
 
 Snapshot ID: `AAAAAGIkQWACtT8c+Yb1Y/uRTgjd/st8`

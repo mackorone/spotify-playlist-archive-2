@@ -2,9 +2,9 @@
 
 ### [Women of Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX2QYsoI8NDDe)
 
-> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: GABRIELLA
+> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Ms\. Ambar
 
-750 songs - 1 day 16 hr 22 min
+753 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Contigo Me Clavé](https://open.spotify.com/track/77OMMe0pVx4B7adPMkmRpW) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Osa Mayor](https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc) | 2:44 | 2025-08-01 | 2026-03-21 |
 | [Contra Ellos](https://open.spotify.com/track/021GY6uKAgviWf74waKXTy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Contra Ellos](https://open.spotify.com/album/3gOdzGNYZyf6ikKV3xRPxC) | 2:38 | 2024-03-08 | 2025-10-04 |
 | [Contra Ellos](https://open.spotify.com/track/2yca8U6bSiX3AplMPcDmtl) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD), [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Johanna Cota](https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2) | [Contra Ellos](https://open.spotify.com/album/3u4js4LuCsEmQoRU29CVPn) | 3:09 | 2025-12-12 | 2026-03-28 |
+| [Corazón Frío](https://open.spotify.com/track/6io2LshCLQkuQnQ1MaWsTr) | [DobleFilo](https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Corazón Frío](https://open.spotify.com/album/6y4oE2YcY7OiaWW0fF3LyM) | 3:16 | 2026-10-02 |  |
 | [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 | 2024-09-13 | 2026-02-14 |
 | [Costumbres](https://open.spotify.com/track/0cq2uMcwOL9D32c0tQ1nx7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Eternamente](https://open.spotify.com/album/6IrNW2gyL94udX2FNBR2WZ) | 4:32 | 2022-01-07 | 2022-07-29 |
 | [Cowboy Rockstar](https://open.spotify.com/track/7d5uMAljrHXbnubvVY7msG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cowboy Rockstar](https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0) | 2:45 | 2024-10-25 | 2026-01-15 |
@@ -228,6 +229,7 @@
 | [Esmeralda](https://open.spotify.com/track/1kTO3RqSbuyUI3Hp4TpmZQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Esmeralda](https://open.spotify.com/album/3TOVSh94JKF4tmfE6V5Pb8) | 2:57 | 2025-10-03 | 2026-04-18 |
 | [Espero](https://open.spotify.com/track/3jm1di95pWAEkdNdb2BUJA) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Espero](https://open.spotify.com/album/0NsFKfShP1vNxOf6MzSGjf) | 3:15 | 2024-04-26 | 2025-10-25 |
 | [Esta Cabron](https://open.spotify.com/track/2UdfkFk03KFleLXg7N4YgJ) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Esta Cabron](https://open.spotify.com/album/6gxyS2tFE77uqPfPKf1Foy) | 3:00 | 2022-05-20 | 2022-08-04 |
+| [Esta Vez](https://open.spotify.com/track/6m1zCVG3jjZZp5hpIzpEZ2) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Grim Solo](https://open.spotify.com/artist/1z6w9GpWdiTEy9v6SER2S3) | [Esta Vez](https://open.spotify.com/album/3COg7a1xwmfHtH12p7TQOa) | 3:38 | 2026-10-02 |  |
 | [Esta Vida No Es Vida](https://open.spotify.com/track/6fmyYzNVpjMtkCvC6Tkv86) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Esta Vida No Es Vida](https://open.spotify.com/album/5LAIbVast86YGTJ48cZtXD) | 2:18 | 2025-04-04 | 2026-02-14 |
 | [Este Corazón](https://open.spotify.com/track/74ULNvFq763TqXiy4crtCh) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Las Compositoras Vol\. 1](https://open.spotify.com/album/7KETdDlJQ779Xm8MIxZceG) | 3:23 | 2022-04-01 | 2022-07-09 |
 | [Esto Es Lo Mío](https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Esto Es Lo Mío](https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9) | 2:01 | 2023-11-24 | 2025-10-25 |
@@ -662,6 +664,7 @@
 | [Tequila Mariachi](https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Tequila Mariachi](https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw) | 3:36 | 2024-09-06 | 2026-01-24 |
 | [Terapia](https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Terapia](https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN) | 2:42 | 2023-04-28 | 2025-09-27 |
 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 | 2022-04-01 | 2022-07-26 |
+| [Tiene Espinas el Rosal](https://open.spotify.com/track/0pDcdEbRBV8G978ZCIjxiN) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Tiene Espinas el Rosal](https://open.spotify.com/album/2RgchZbSHVYWzXrp3dDRc1) | 2:55 | 2026-10-02 |  |
 | [Tiene Que Ser Asi](https://open.spotify.com/track/0fk72JN9bOGS1be11ift5a) | [Laura Denisse y Los Brillantes](https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5) | [Tiene Que Ser Asi](https://open.spotify.com/album/0fAt4fJFcXM5y7nsWkfRnY) | 3:43 | 2025-11-14 | 2026-01-17 |
 | [Tienes](https://open.spotify.com/track/0LYI1g5mlX8vLoAD8JFP41) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Tienes](https://open.spotify.com/album/4TnhzaKsyp2eGpMFX5UMxZ) | 3:10 | 2025-11-21 | 2026-03-28 |
 | [TODO TODITO](https://open.spotify.com/track/5JItPvHPOqcT46CWRhRqIV) | [Lina Villaseñor](https://open.spotify.com/artist/5k5LbkVwvjBaPSL0ddPvCJ) | [TODO TODITO](https://open.spotify.com/album/2m07gfG8kLpz1TYEtkrTCj) | 2:37 | 2025-10-24 | 2025-11-22 |

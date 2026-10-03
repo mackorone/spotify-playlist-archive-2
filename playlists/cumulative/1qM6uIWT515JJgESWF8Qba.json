@@ -3523,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Mr. Collision / Awhile Longer",
+        "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "Mr. Collision",
+      "url": "https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF"
+    },
+    {
+      "album": {
         "name": "My Favourite Game",
         "url": "https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b"
       },

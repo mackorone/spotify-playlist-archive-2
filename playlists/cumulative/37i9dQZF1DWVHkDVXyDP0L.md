@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Stimpies
 
-1,147 songs - 2 day 16 hr 20 min
+1,147 songs - 2 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Accomplice](https://open.spotify.com/track/46ywwjXiSMwkQb2VP78Uqi) | [The Vanns](https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG) | [Accomplice](https://open.spotify.com/album/6vPCMylSb8OVpdTj1VWwCb) | 4:43 | 2025-06-26 | 2025-11-28 |
 | [Acetone](https://open.spotify.com/track/5e8ytXfDMAOfXmppQrPbxo) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Acetone](https://open.spotify.com/album/7scQVrEtlwLlH35SvkHgnu) | 4:23 | 2025-04-03 | 2025-08-08 |
 | [Addicted to Pain](https://open.spotify.com/track/4TPMgVaEKvnREBZl7SbWdk) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Addicted to Pain](https://open.spotify.com/album/4dc18ZQtZw05pGTjmy2Kj7) | 3:00 | 2025-10-02 | 2026-01-23 |
+| [Adeline](https://open.spotify.com/track/06rpq1YGWFvUxIevdldh96) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Carparks](https://open.spotify.com/album/41exX5asmlevP9n8OsoviK) | 3:00 | 2026-10-01 |  |
 | [ADELINE](https://open.spotify.com/track/5nyBSIq6IisubcU7xoPdoO) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [ADELINE](https://open.spotify.com/album/2DPQAfsy6KRE7WS6NTge8L) | 2:48 | 2024-06-20 | 2024-09-10 |
 | [Adored](https://open.spotify.com/track/5GLNsiFGhE9gHL4aefiQiT) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Adored](https://open.spotify.com/album/2mrUtLnSNRea0FCG9AvwYd) | 3:11 | 2026-01-22 | 2026-04-10 |
 | [Aerodynamic](https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7) | 4:46 | 2025-06-19 | 2025-08-08 |
@@ -1061,7 +1062,6 @@
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Tough Love](https://open.spotify.com/track/69ySxELQeIw557VWfbAwq9) | [Bugs](https://open.spotify.com/artist/6kjbCSFaHOo2deId1wSaeL) | [Tough Love](https://open.spotify.com/album/3cGv3kPBB8ye4hKAra1MSL) | 3:25 | 2026-07-30 | 2026-10-02 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 1](https://open.spotify.com/track/06rpq1YGWFvUxIevdldh96) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Carparks](https://open.spotify.com/album/41exX5asmlevP9n8OsoviK) | 0:00 | 2026-10-01 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Trapezoid](https://open.spotify.com/track/58no1ulZZDdRcXm2oPTVM3) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Trapezoid](https://open.spotify.com/album/1ZXxB14E1TYIESUR6Dvxsb) | 2:30 | 2026-07-30 | 2026-10-02 |
 | [Trauma Bond](https://open.spotify.com/track/6u8KHTynZcgcRC5SmfrSs1) | [The Tambourine Girls](https://open.spotify.com/artist/42Vt2XvYs1IMX8kxEVI474) | [Hold Your Horses](https://open.spotify.com/album/1wG9jnJOKIckWjbmALHfXX) | 3:58 | 2026-09-10 |  |

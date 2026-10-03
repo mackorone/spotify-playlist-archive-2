@@ -202,7 +202,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 322946,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/1h8mF0iwlMSf9BCoUP9sX6"
@@ -246,6 +246,24 @@
       "duration_ms": 471240,
       "name": "Becalmed",
       "url": "https://open.spotify.com/track/0uBV9lnl1s9k8OGKx1ccmu"
+    },
+    {
+      "album": {
+        "name": "Music Is Invisible (Pentimento Volume Three)",
+        "url": "https://open.spotify.com/album/7y6nrogjpYO43Z0V1Gdlq8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 683133,
+      "name": "Blue Ba-Ya",
+      "url": "https://open.spotify.com/track/5dStEB8lv0IYravjnzfMWS"
     },
     {
       "album": {

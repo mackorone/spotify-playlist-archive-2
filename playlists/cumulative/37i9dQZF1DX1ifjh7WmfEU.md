@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-330 songs - 14 hr 30 min
+331 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Undisturbed](https://open.spotify.com/track/2sDskIxP9gdYKo0L2WCBLR) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Undisturbed](https://open.spotify.com/album/2CpPAqdJrVVvFnDEV373Td) | 2:34 | 2022-05-27 | 2024-04-04 |
 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 | 2022-05-27 | 2025-01-23 |
 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 | 2022-05-27 | 2024-04-04 |
+| [Unknown Path](https://open.spotify.com/track/4RsCqnzGGeUOBxdlXYd7ez) | [Neil Dunker](https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8) | [Unknown Path](https://open.spotify.com/album/0qt31B2M3awZwkKPBHoHrZ) | 2:33 | 2026-10-02 |  |
 | [Ups & Downs](https://open.spotify.com/track/4fjEDWJKkQpaBZVsRBXe10) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Ups & Downs](https://open.spotify.com/album/2vHvkB9l45jwu517zX7f6x) | 2:08 | 2023-09-18 | 2025-05-22 |
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-10 |  |
 | [Vancouver](https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Vancouver](https://open.spotify.com/album/4IdRqAawCzBNThspxGFTbo) | 3:31 | 2022-05-27 | 2024-03-26 |

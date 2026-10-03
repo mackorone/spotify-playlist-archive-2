@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 172392,
+  "num_followers": 172427,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Nadhif",
-        "url": "https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 248972,
-      "name": "jatuh cinta lagi",
-      "url": "https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Ada Apa Dengan Cinta? (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
       },
@@ -243,18 +227,18 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Rumah",
-        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+        "name": "Nadhif",
+        "url": "https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k"
       },
       "artists": [
         {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
         }
       ],
-      "duration_ms": 258845,
-      "name": "Rumah",
-      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
+      "duration_ms": 248972,
+      "name": "jatuh cinta lagi",
+      "url": "https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -279,6 +263,22 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rumah",
+      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
         "name": "Mati-Matian",
         "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
       },
@@ -291,26 +291,6 @@
       "duration_ms": 244137,
       "name": "Mati-Matian",
       "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
-        "name": "ambiVert",
-        "url": "https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        },
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 256156,
-      "name": "Tetap Bukan Kamu (feat. Rony Parulian)",
-      "url": "https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -331,6 +311,26 @@
       "duration_ms": 237798,
       "name": "Tak Kan Terganti",
       "url": "https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "ambiVert",
+        "url": "https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 256156,
+      "name": "Tetap Bukan Kamu (feat. Rony Parulian)",
+      "url": "https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Katakan Saja",
-        "url": "https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH"
-      },
-      "artists": [
-        {
-          "name": "Adikara",
-          "url": "https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN"
-        }
-      ],
-      "duration_ms": 236202,
-      "name": "Katakan Saja",
-      "url": "https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Cuba Jadi Aku",
         "url": "https://open.spotify.com/album/1qgC2Fz9a4OArCfO8iuFzf"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 253043,
       "name": "Cuba Jadi Aku",
       "url": "https://open.spotify.com/track/30zVgttK8R9wmnyXbtrXZm"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Katakan Saja",
+        "url": "https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH"
+      },
+      "artists": [
+        {
+          "name": "Adikara",
+          "url": "https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN"
+        }
+      ],
+      "duration_ms": 236202,
+      "name": "Katakan Saja",
+      "url": "https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW"
     },
     {
       "added_at": "2026-09-18 00:19:01",

@@ -3929,6 +3929,24 @@
     },
     {
       "album": {
+        "name": "Flugg",
+        "url": "https://open.spotify.com/album/25ukRyXTpxbjRXaDz6Jw2w"
+      },
+      "artists": [
+        {
+          "name": "JAKE BACK",
+          "url": "https://open.spotify.com/artist/7I7qQivsylYuJBN0IESUmi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325777,
+      "name": "Flugg",
+      "url": "https://open.spotify.com/track/1NNtxezHTDeOR9GPIhaUB0"
+    },
+    {
+      "album": {
         "name": "Inkjet / Fluo",
         "url": "https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl"
       },
@@ -4475,6 +4493,24 @@
     },
     {
       "album": {
+        "name": "PROXIMA CENTAURI",
+        "url": "https://open.spotify.com/album/5XXM07ZxUTR9NVjH0Guusz"
+      },
+      "artists": [
+        {
+          "name": "Boundary",
+          "url": "https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239061,
+      "name": "Hidden Resonance",
+      "url": "https://open.spotify.com/track/1l2vsP0VIi4s6gpt7bvbEg"
+    },
+    {
+      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8"
       },
@@ -4548,7 +4584,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 331034,
       "name": "Hot Squid",
       "url": "https://open.spotify.com/track/2DzXvGlYsAZhmI4QuYPNsa"
@@ -8020,7 +8056,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 378857,
       "name": "Refraction",
       "url": "https://open.spotify.com/track/6bX1nsfLj8JXqC89dVSeS5"
@@ -8542,7 +8578,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 264591,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/1ZujYf9faGjNWfb5kChIYY"
@@ -8758,7 +8794,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 374746,
       "name": "Shapeshifting Dub",
       "url": "https://open.spotify.com/track/0XjAh3zM7Wf9hk3ndg1RWq"
@@ -10219,6 +10255,24 @@
     },
     {
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/6ANEFyJt1MhW1uQSKhXZCV"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272888,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/0E7dPlV79iZOFJDB077rCG"
+    },
+    {
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/7MvAvnrcS8LfjuGWddaodU"
       },
@@ -11286,6 +11340,24 @@
       "duration_ms": 384914,
       "name": "We Are All We Have",
       "url": "https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn"
+    },
+    {
+      "album": {
+        "name": "We Out Here",
+        "url": "https://open.spotify.com/album/3lgHo8lFcZv4DPOrcK9EAS"
+      },
+      "artists": [
+        {
+          "name": "Daykoda",
+          "url": "https://open.spotify.com/artist/7ileF8v8C9pqci1fqJOkf0"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122593,
+      "name": "We Out Here",
+      "url": "https://open.spotify.com/track/6gs6S5YwQRhujsgSBDjgF6"
     },
     {
       "album": {

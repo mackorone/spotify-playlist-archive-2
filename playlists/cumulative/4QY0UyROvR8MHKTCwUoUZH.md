@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-311 songs - 17 hr 31 min
+313 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [mirrorball](https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:28 | 2026-04-10 |  |
 | [Moonlight](https://open.spotify.com/track/7KhtBkiYMt0ewSHsXZJHlq) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Moonlight](https://open.spotify.com/album/6Ka0UHLW3BzOAQxAZFmlAY) | 2:32 | 2026-01-09 |  |
 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 | 2026-06-30 |  |
+| [My Favorite Part](https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 3:36 | 2026-10-02 |  |
 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 | 2026-02-06 |  |
 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 | 2025-07-18 |  |
 | [Never Fall In Love Again](https://open.spotify.com/track/297cpWHqsEa4gVP8X6N9Gz) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Postponed](https://open.spotify.com/album/0sasLAmGTLHqvyTyqy5jp5) | 2:48 | 2026-02-06 |  |
@@ -216,7 +217,7 @@
 | [Pyramid Scheme](https://open.spotify.com/track/1j43NtqRUKUTWSiFflguz8) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Pyramid Scheme](https://open.spotify.com/album/1GFVlKpMG87Le8H1EmFKpG) | 3:15 | 2025-07-18 | 2025-09-20 |
 | [Questions](https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Florescence](https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO) | 3:07 | 2026-05-27 |  |
 | [Radio Silence](https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Radio Silence](https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB) | 2:15 | 2025-12-06 |  |
-| [Real Person \(feat\. Elijah Fox\)](https://open.spotify.com/track/4HTLVKjX5dQnK7IqJe3lBb) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Real Person \(feat\. Elijah Fox\)](https://open.spotify.com/album/3xU0GgpEdJFJ7GuPlksGDP) | 2:23 | 2026-02-20 |  |
+| [Real Person \(feat\. Elijah Fox\)](https://open.spotify.com/track/4HTLVKjX5dQnK7IqJe3lBb) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Real Person \(feat\. Elijah Fox\)](https://open.spotify.com/album/3xU0GgpEdJFJ7GuPlksGDP) | 2:23 | 2026-02-20 | 2026-10-03 |
 | [Remember The Rain](https://open.spotify.com/track/1tfIfphdtuiLJeO27kAD3q) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Remember The Rain](https://open.spotify.com/album/2yCGps8fdem5qy1SgrjHnP) | 1:53 | 2026-04-10 |  |
 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-05-27 |  |
 | [Rule My World](https://open.spotify.com/track/2fN6zJClsuH8SXqBbAVC3S) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Declaration Of Dependence](https://open.spotify.com/album/6HdLcKjSVbImVaqAduttER) | 3:31 | 2025-07-18 | 2025-11-22 |
@@ -227,6 +228,7 @@
 | [Scaredy Cat](https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Scaredy Cat](https://open.spotify.com/album/3nUL20I7rAjJ4cnNSHhrsO) | 3:02 | 2025-09-12 | 2025-12-13 |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2026-08-25 |  |
 | [Secret Language](https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Secret Language](https://open.spotify.com/album/5O70O8co709tMC46LDb8uF) | 3:53 | 2026-06-08 |  |
+| [See You In My Dreams \(feat\. SZA\)](https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:38 | 2026-10-02 |  |
 | [Shadow](https://open.spotify.com/track/2GQoBWigNKFN0F9l5wkMlX) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Shadow](https://open.spotify.com/album/7lPEwMyECa59UAbky7plMi) | 3:41 | 2026-02-20 | 2026-09-19 |
 | [Sheets](https://open.spotify.com/track/1D0q5fhJVl1xhRXNrvOFkb) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Sheets](https://open.spotify.com/album/618meN4oNgOw0RVYpiVZof) | 2:23 | 2025-11-14 |  |
 | [Shuffily](https://open.spotify.com/track/2aU5QLs9rGGPCMBtIfrenf) | [Where's Dillie?](https://open.spotify.com/artist/0M1z5gimfGZNmf2EO1qPGj) | [Shuffily](https://open.spotify.com/album/5EnxmQFzRQIQUVnerjTP9b) | 3:56 | 2026-05-22 | 2026-09-19 |
@@ -285,7 +287,7 @@
 | [Thousand Nights](https://open.spotify.com/track/7bNfbHChtz9j65zMLvPoGV) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Thousand Nights](https://open.spotify.com/album/21woPwk6trw5H7sshSK7j2) | 2:59 | 2025-09-26 | 2026-02-14 |
 | [TickTickBoom](https://open.spotify.com/track/2fifcgrC2McRDrABuG743H) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [TickTickBoom](https://open.spotify.com/album/71Gg0zWr0x4I5VB3gAKumw) | 2:25 | 2025-09-12 | 2026-02-07 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-08-26 |
-| [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-19 |  |
+| [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-19 | 2026-10-03 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2026-05-27 |  |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-07-18 |  |
 | [Trouble Is Me](https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Trouble Is Me](https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN) | 3:12 | 2025-09-12 | 2025-10-11 |

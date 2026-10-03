@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 
 > we shall sing when night’s decay ushers in a drearier day
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,000 likes - 151 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,243 likes - 151 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

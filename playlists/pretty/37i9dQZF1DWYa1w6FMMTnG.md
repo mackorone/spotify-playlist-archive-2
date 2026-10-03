@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,141 likes - 82 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,690 likes - 83 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 80 | [He's a Pirate](https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn) | [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ) | [Pirates of the Caribbean: The Curse of the Black Pearl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo) | 1:30 |
 | 81 | [Hocus Pocus Main Theme](https://open.spotify.com/track/52QAHrxaIAsppzxqIOLJWR) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:16 |
 | 82 | [Tales of Terror](https://open.spotify.com/track/1XhSdlXygbgLpxgbKsvJW1) | [Michael Kramer](https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp) | [LEGO Star Wars: Terrifying Tales \(Original Soundtrack\)](https://open.spotify.com/album/1hs3FJ3Zp0pk90Zqs1gCcY) | 0:52 |
+| 83 | [Glowin'](https://open.spotify.com/track/2LsK9xmOBgjnFIn5C6TsYB) | [Kenzi Richardson](https://open.spotify.com/artist/6EUKdXuvTAln2S223FL9RX), [Shaun Dixon](https://open.spotify.com/artist/7bjSZryEMciJfMvOg2486e) | [Vampirina: Teenage Vampire: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6Nuo3cox11iIxkCHxgXprF) | 1:58 |
 
-Snapshot ID: `AAAAAH452kXqt6Xnv1egn0TheV9Mos5Z`
+Snapshot ID: `AAAAALRTJdPcAPi55VW0FOC6DUUXW7KI`

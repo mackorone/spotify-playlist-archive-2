@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Yves Berendse
 
-539 songs - 1 day 3 hr 21 min
+541 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Cowboys](https://open.spotify.com/track/5hiCMgAzZJN30QXGIvRiHb) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Cowboys](https://open.spotify.com/album/5g0Lys0hoQNeHrlEywpTL6) | 3:41 | 2025-09-23 | 2025-12-12 |
 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 | 2024-02-15 | 2025-10-17 |
 | [Daar Gaat Ze](https://open.spotify.com/track/2vFzC766RC2m36ywFyj09S) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Hoezo?](https://open.spotify.com/album/05g7zPOvUac2eSSDEUxXqs) | 3:49 | 2024-02-13 | 2024-04-04 |
+| [Daffodils \(feat\. Faela\)](https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza), [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Daffodils \(feat\. Faela\)](https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO) | 3:11 | 2026-10-02 |  |
 | [Dag & Nacht](https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Dag & Nacht](https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau) | 2:42 | 2025-01-23 | 2025-08-05 |
 | [Dan Volg Je Haar Benen](https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Dan Volg Je Haar Benen](https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI) | 3:00 | 2024-02-13 | 2025-03-13 |
 | [Dansen Aan Zee](https://open.spotify.com/track/6hC1xBNYMVK4acdnEXaZVD) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Watermakers](https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW) | 4:34 | 2024-02-13 | 2025-11-21 |
@@ -348,6 +349,7 @@
 | [Niemand](https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Niemand](https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ) | 3:49 | 2025-10-28 |  |
 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 | 2026-09-17 |  |
 | [Niet Nodig](https://open.spotify.com/track/0OVYhtxxWQn2pcs3XR095M) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Niet Nodig](https://open.spotify.com/album/4bo2xHn60vQOvWphKHzt7u) | 2:43 | 2025-12-11 |  |
+| [Niets Doen](https://open.spotify.com/track/1mEV7KSc5jqIBjRTXFU5D7) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Niets Doen](https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S) | 3:54 | 2026-10-02 |  |
 | [Nieuwe Ex](https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:26 | 2023-09-07 | 2024-02-03 |
 | [Noem Een Dag](https://open.spotify.com/track/4L6ACBbVYwv3tQZYE0UBdz) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Noem Een Dag](https://open.spotify.com/album/5LlDCXrBDV11SpvBxpPNpe) | 2:55 | 2023-02-24 | 2023-09-02 |
 | [Nog Even Blijven](https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nog Even Blijven](https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6) | 2:50 | 2025-09-10 |  |
@@ -387,7 +389,7 @@
 | [Parkje Biertje Vrienden](https://open.spotify.com/track/3u5ktXVlv9HwRKLd0RLUUj) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Parkje Biertje Vrienden](https://open.spotify.com/album/4VcuSYw09qQv2Kf1CCTCuk) | 2:34 | 2026-05-11 |  |
 | [Patronen](https://open.spotify.com/track/5AfyTEjCIe7A774ZRkD326) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/4SRtdeedZBNyRWEOOkJMmF) | 4:00 | 2026-10-01 |  |
 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 | 2024-03-13 | 2025-01-24 |
-| [Pauze](https://open.spotify.com/track/6AWDTrLLcEZDFn0qHKwzMW) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Pauze](https://open.spotify.com/album/74NVfvXROXqctvQhXYpLdI) | 2:32 | 2025-11-20 |  |
+| [Pauze](https://open.spotify.com/track/6AWDTrLLcEZDFn0qHKwzMW) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Pauze](https://open.spotify.com/album/74NVfvXROXqctvQhXYpLdI) | 2:32 | 2025-11-20 | 2026-10-03 |
 | [Perfect Voor Mij](https://open.spotify.com/track/5pkPQQaYEoHbSnVQoVbXs6) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Perfect Voor Mij](https://open.spotify.com/album/0jUWx66cMwXl4l7gDDgZIS) | 3:00 | 2025-02-20 | 2025-08-26 |
 | [Pijnstiller](https://open.spotify.com/track/11wW1i3hmPCBO49XNgxcHx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/4o6Q9UNplVun5nsP2FRRvt) | 2:51 | 2026-10-01 |  |
 | [Pizza Met Ananas](https://open.spotify.com/track/5MCYr1sRABY6kNKdRK4ey7) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Niks Mee Te Maken / Pizza Met Ananas](https://open.spotify.com/album/5KfHHLVq8gHlyZSbDkDLbp) | 2:42 | 2023-02-24 | 2023-11-18 |
@@ -431,7 +433,7 @@
 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 | 2025-01-23 | 2026-03-20 |
 | [Sprakeloos](https://open.spotify.com/track/0phnbN8sTSUk1PSLLe1cic) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Sprakeloos](https://open.spotify.com/album/0wvSyUbbI7uA3IDLmdcrHG) | 2:25 | 2025-11-26 |  |
 | [Sprakeloos](https://open.spotify.com/track/1Y2KLMM1V2TeHcmOiiUXak) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Sprakeloos](https://open.spotify.com/album/1wSyoTzqvfj8Rx9D1L6x7Z) | 2:25 | 2025-04-03 | 2025-11-27 |
-| [Stay](https://open.spotify.com/track/7FN3Fip2tdiGjW0BuqXRL7) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Stay](https://open.spotify.com/album/0mQwwcyTyf26ezDOfwwQag) | 3:45 | 2025-09-04 |  |
+| [Stay](https://open.spotify.com/track/7FN3Fip2tdiGjW0BuqXRL7) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Stay](https://open.spotify.com/album/0mQwwcyTyf26ezDOfwwQag) | 3:45 | 2025-09-04 | 2026-10-03 |
 | [Stay](https://open.spotify.com/track/5w1iTelkA2nBmaqNf8i3cY) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Stay](https://open.spotify.com/album/1WnmijHXFebuls1KB2fVNg) | 3:05 | 2024-02-13 | 2024-04-17 |
 | [Sterrenlopen \(met S10\)](https://open.spotify.com/track/7yrvzTfOAxtB4UkUnizn1X) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Sterrenlopen \(met S10\)](https://open.spotify.com/album/2r3iyljpsMTEOMmTVdVJYJ) | 4:02 | 2023-09-21 | 2023-10-06 |
 | [Sterrenstof](https://open.spotify.com/track/4PW9WvbhNlrFoThvc7zheh) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 3:40 | 2023-02-24 | 2024-02-14 |

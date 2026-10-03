@@ -1,6 +1,6 @@
 {
   "description": "Hits e novos nomes do pop experimentando no mesmo palco! Foto: Bia Soull, Vita",
-  "num_followers": 355774,
+  "num_followers": 355765,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "Errado pra mim",
+        "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 151925,
+      "name": "Errado pra mim",
+      "url": "https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "VITA'S HOUSE",
         "url": "https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 131000,
       "name": "CASA DOS MACHO",
       "url": "https://open.spotify.com/track/5OIIiSxRc6UwGLSbt96Jcz"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Errado pra mim",
-        "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 151925,
-      "name": "Errado pra mim",
-      "url": "https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -271,6 +271,26 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "Tamborim",
+        "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 165568,
+      "name": "Tamborim",
+      "url": "https://open.spotify.com/track/0331uqlvE3OmOHsSGkrGbB"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "Pura Magia",
         "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 220204,
       "name": "Pura Magia",
       "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Tar\u00f4",
-        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
-      },
-      "artists": [
-        {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 200345,
-      "name": "Tar\u00f4",
-      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Seda de Casulo",
-        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "Ningu\u00e9m Morre de Amor",
-      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
         "name": "Setembro",
         "url": "https://open.spotify.com/album/664fP87yIBwGsVN1ceZjO5"
       },
@@ -371,8 +355,8 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Tamborim",
-        "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
+        "name": "Tar\u00f4",
+        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
       },
       "artists": [
         {
@@ -380,13 +364,45 @@
           "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
         },
         {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
         }
       ],
-      "duration_ms": 165568,
-      "name": "Tamborim",
-      "url": "https://open.spotify.com/track/0331uqlvE3OmOHsSGkrGbB"
+      "duration_ms": 200345,
+      "name": "Tar\u00f4",
+      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
+        "name": "Seda de Casulo",
+        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 150422,
+      "name": "Ningu\u00e9m Morre de Amor",
+      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 187578,
+      "name": "A Estrela",
+      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -411,22 +427,6 @@
       "duration_ms": 238058,
       "name": "SECA PALHA",
       "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 187578,
-      "name": "A Estrela",
-      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Vers\u00e3o dos Fatos",
-        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 162532,
-      "name": "Vers\u00e3o dos Fatos",
-      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
         "name": "Flerte",
         "url": "https://open.spotify.com/album/73oomwMP1uozxcNp9JE7v7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 186532,
       "name": "Flerte",
       "url": "https://open.spotify.com/track/7dyZtAHEQAxyDt1CIZ3GJZ"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
+        "name": "Vers\u00e3o dos Fatos",
+        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 162532,
+      "name": "Vers\u00e3o dos Fatos",
+      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -603,6 +603,34 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "Hootie Frutti (PEDRO SAMPAIO Remix)",
+        "url": "https://open.spotify.com/album/4MzwQyp0LxL2Q27vBnq1Wg"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Hootie Frutti - PEDRO SAMPAIO Remix",
+      "url": "https://open.spotify.com/track/19rZJZMOK4c9CaocPSHqqC"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "MAMBO!",
         "url": "https://open.spotify.com/album/53tObxaCQ5XZz40SZgRRny"
       },
@@ -619,22 +647,6 @@
       "duration_ms": 222115,
       "name": "MAMBO!",
       "url": "https://open.spotify.com/track/38tkiigAExeU9qIrfss5o4"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -659,6 +671,22 @@
       "duration_ms": 173265,
       "name": "Derretida - Brunoso Remix",
       "url": "https://open.spotify.com/track/4wCkxDA6ruE8gh2Hf4Y0fP"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -735,6 +763,22 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "Vida de Rei, Vida de C\u00e3o",
+        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 164833,
+      "name": "Vida de Rei, Vida de C\u00e3o",
+      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "no seu tempo",
         "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
@@ -751,18 +795,26 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Vida de Rei, Vida de C\u00e3o",
-        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
         }
       ],
-      "duration_ms": 164833,
-      "name": "Vida de Rei, Vida de C\u00e3o",
-      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
+      "duration_ms": 193610,
+      "name": "F\u00faria",
+      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -795,30 +847,6 @@
       "duration_ms": 157186,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "F\u00faria",
-        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
-        },
-        {
-          "name": "Fervo Unboxing",
-          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
-        }
-      ],
-      "duration_ms": 193610,
-      "name": "F\u00faria",
-      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -899,22 +927,6 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
-        "name": "Avenida",
-        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 184303,
-      "name": "Avenida",
-      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
         "name": "Tento",
         "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
       },
@@ -927,6 +939,22 @@
       "duration_ms": 201230,
       "name": "Tento",
       "url": "https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
+        "name": "Avenida",
+        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 184303,
+      "name": "Avenida",
+      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -983,6 +1011,22 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "Emocionalmente Indispon\u00edvel",
+        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "Emocionalmente Indispon\u00edvel",
+      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "Mais Que Isso",
         "url": "https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh"
       },
@@ -1015,22 +1059,6 @@
       "duration_ms": 164494,
       "name": "Agarradinho - Spotify Singles",
       "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Emocionalmente Indispon\u00edvel",
-        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "Emocionalmente Indispon\u00edvel",
-      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
     },
     {
       "added_at": "2026-10-02 03:00:13",
@@ -1179,6 +1207,26 @@
     {
       "added_at": "2026-10-02 03:00:13",
       "album": {
+        "name": "GRAZI",
+        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "L\u00c1 DE CIMA (1999)",
+      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
+    },
+    {
+      "added_at": "2026-10-02 03:00:13",
+      "album": {
         "name": "PERSONA",
         "url": "https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe"
       },
@@ -1231,42 +1279,6 @@
       "duration_ms": 223636,
       "name": "Clara",
       "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Brisa Boa",
-        "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00eatu",
-          "url": "https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Brisa Boa",
-      "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
-    },
-    {
-      "added_at": "2026-10-02 03:00:13",
-      "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/6fx3dzXM3pMifJMQcPeKau"
-      },
-      "artists": [
-        {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/5Miye4PcHeGyXzmbP6bvzL"
     }
   ],
   "unique_name": "Palco POP",

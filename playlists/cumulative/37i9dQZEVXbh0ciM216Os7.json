@@ -5265,6 +5265,36 @@
     },
     {
       "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227787,
+      "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky)",
+      "url": "https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc"
+    },
+    {
+      "album": {
         "name": "The Henry Mancini 100th Sessions: Henry Has Company",
         "url": "https://open.spotify.com/album/6GkHGNDk3Zf7pIAsvN5J0v"
       },
@@ -5796,6 +5826,24 @@
       "duration_ms": 191960,
       "name": "Bad Kombucha",
       "url": "https://open.spotify.com/track/4es21hJDQEtnRM6ctsFs8b"
+    },
+    {
+      "album": {
+        "name": "Mr Charm",
+        "url": "https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230359,
+      "name": "Bad Luck Hideaway",
+      "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
     },
     {
       "album": {
@@ -7101,6 +7149,24 @@
     },
     {
       "album": {
+        "name": "Beyond Zeta Reticuli",
+        "url": "https://open.spotify.com/album/0zWln9L7ewaoAngMg4rscO"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380026,
+      "name": "Beyond Zeta Reticuli",
+      "url": "https://open.spotify.com/track/3WtWoEF1QNiOsXnUhDHzoC"
+    },
+    {
+      "album": {
         "name": "BHBC Roll Call (with Damn Skippy, Jarv, Wax, Nahte Renmus, Loser Chris, & DJ Hoppa)",
         "url": "https://open.spotify.com/album/5Cbd7q9whHxCyODdJkESNE"
       },
@@ -7878,6 +7944,24 @@
       "duration_ms": 192468,
       "name": "Black Girl",
       "url": "https://open.spotify.com/track/1u8FaU9NCGRbXltNNuxh1p"
+    },
+    {
+      "album": {
+        "name": "Fall, Through Her Voice: Nina, Billie & Sarah",
+        "url": "https://open.spotify.com/album/3bs5ZIfCYpB3zqwjXy24ux"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205742,
+      "name": "Black Is The Color Of My True Love's Hair",
+      "url": "https://open.spotify.com/track/5LqZYgKIRYff0KI4MJY137"
     },
     {
       "album": {
@@ -9929,6 +10013,28 @@
     },
     {
       "album": {
+        "name": "Holding Space",
+        "url": "https://open.spotify.com/album/6CgyEtg4jaqOKE2g5MyzPj"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Adamson",
+          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 803994,
+      "name": "Breath Meditation",
+      "url": "https://open.spotify.com/track/4EE1MPWf8ReE14JrYpRtFY"
+    },
+    {
+      "album": {
         "name": "Breath Meditation",
         "url": "https://open.spotify.com/album/4c9nynidRc29EB5X9zsOwD"
       },
@@ -9948,7 +10054,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 803994,
       "name": "Breath Meditation",
       "url": "https://open.spotify.com/track/6bYTPxDT8DT9zVfccG0B2d"
@@ -13331,6 +13437,24 @@
     },
     {
       "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/6nEP9ggydguOQnbMU8zsCI"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230491,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/3zONpRVIOwk8iyzB90R2Lq"
+    },
+    {
+      "album": {
         "name": "Christ Freestyle",
         "url": "https://open.spotify.com/album/09EycEXbxa4PTq3Kgx3leu"
       },
@@ -14350,7 +14474,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 285122,
       "name": "Compassion (feat. Flying Lotus, Immanuel Wilkins, David Virelles)",
       "url": "https://open.spotify.com/track/0HnzJayzmv01DGyBV1J8na"
@@ -28535,6 +28659,36 @@
     },
     {
       "album": {
+        "name": "God Body",
+        "url": "https://open.spotify.com/album/4I9PLFVCsL7NgznafpWhD3"
+      },
+      "artists": [
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "God Body",
+      "url": "https://open.spotify.com/track/5XMdDjf5Xwhrqpvx08cZIa"
+    },
+    {
+      "album": {
         "name": "GOD LIKE",
         "url": "https://open.spotify.com/album/1JujdVSpGWGZdgLOxrPGnn"
       },
@@ -40529,6 +40683,24 @@
     },
     {
       "album": {
+        "name": "Vacancy: Late Checkout",
+        "url": "https://open.spotify.com/album/62NrsYBeDNa4r9FvGuwbVw"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155153,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5UWypDFke2swJxdSJ6mdkq"
+    },
+    {
+      "album": {
         "name": "Kingmaker",
         "url": "https://open.spotify.com/album/7vYB6Ufvl9weaOZ9aXtFBR"
       },
@@ -42400,7 +42572,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 120424,
       "name": "Lion Pt. II",
       "url": "https://open.spotify.com/track/1eoIwYeQvNeYduodNty4x3"
@@ -55700,7 +55872,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 172933,
       "name": "Play with Fire",
       "url": "https://open.spotify.com/track/7q1m5o8VZUZb7zDwdfvEAu"
@@ -57652,7 +57824,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 178801,
       "name": "Put Your Head On My Shoulder (Goes Metal)",
       "url": "https://open.spotify.com/track/7xkhlMObLKTMOswBFb39K8"
@@ -67669,6 +67841,24 @@
     },
     {
       "album": {
+        "name": "Classroom Metal, Vol. 1",
+        "url": "https://open.spotify.com/album/5RTdZc8uUOi4FvLNmMq1vd"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45714,
+      "name": "Study",
+      "url": "https://open.spotify.com/track/2JZkkfXGuy2Z8w7mShXbZI"
+    },
+    {
+      "album": {
         "name": "Study Time",
         "url": "https://open.spotify.com/album/6cQdanqA6jAgHciS2p8AYX"
       },
@@ -70475,6 +70665,24 @@
     },
     {
       "album": {
+        "name": "The Allfather Awakens",
+        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276706,
+      "name": "The Allfather Awakes",
+      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
+    },
+    {
+      "album": {
         "name": "The American Dream Is Killing Me",
         "url": "https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC"
       },
@@ -70882,6 +71090,32 @@
       "duration_ms": 187943,
       "name": "The Carousel",
       "url": "https://open.spotify.com/track/2jzzA8t8lJiC4fP2PG6fVN"
+    },
+    {
+      "album": {
+        "name": "The Center Eye",
+        "url": "https://open.spotify.com/album/05W9V7JjcPqndBOawmtv3B"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175254,
+      "name": "The Center Eye",
+      "url": "https://open.spotify.com/track/2G5oWiVywnXs4UxSxp17Qf"
     },
     {
       "album": {
@@ -73480,7 +73714,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 174638,
       "name": "The World Is Ours",
       "url": "https://open.spotify.com/track/7fNKmovV27B2bUg80GhdL4"

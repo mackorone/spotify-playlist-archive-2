@@ -4,7 +4,7 @@
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro.
 
-160 songs - 11 hr 18 min
+164 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Belleza en el Aire \- Remix](https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Albura Remixed](https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f) | 5:14 | 2023-08-11 | 2024-04-19 |
 | [Bienvenidos: Maiche Anawateuo](https://open.spotify.com/track/3OidV2Umts84YFsvronNGW) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Cantos de la Tierra Sin Mal](https://open.spotify.com/album/14ceeyAvexxa2oMN2AuOl5) | 5:04 | 2023-08-11 | 2024-04-19 |
 | [Cada Uno con Su Bandera](https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi) | [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW) | [Cada Uno con Su Bandera](https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh) | 4:03 | 2024-03-29 | 2026-09-03 |
+| [Canción del que nunca olvida](https://open.spotify.com/track/7ILibasyz2o2nfOAjrNk9c) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Canción del que nunca olvida](https://open.spotify.com/album/4PODmEVdLzt1xCy1kMFu6f) | 4:00 | 2026-10-02 |  |
 | [Canto Tehuelche](https://open.spotify.com/track/6mAHuu86f3XaKXssBvCppt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Tehuelche](https://open.spotify.com/album/2M7tTALkfy3YZA4vJTWUKG) | 3:29 | 2025-07-18 | 2026-09-03 |
 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 | 2024-03-29 | 2026-09-03 |
 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:48 | 2023-08-11 | 2024-04-19 |
@@ -119,6 +120,7 @@
 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 | 2024-01-05 | 2026-09-03 |
 | [Neuquén Trabun Mapu](https://open.spotify.com/track/2LkldxIcPcK4875w5hW8pa) | [Pilar Gough](https://open.spotify.com/artist/4IEFqhF5DzMLIQqrTrmojr), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Neuquén Trabun Mapu](https://open.spotify.com/album/4cYt0z0WZHXEBZHN7DgC37) | 2:30 | 2026-09-02 |  |
 | [Ni Una Sola Palabra](https://open.spotify.com/track/1qCfOZFOcZCHF6d3wxIHgS) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Ni Una Sola Palabra](https://open.spotify.com/album/19RFziCPrvqOvLQmdxdS8x) | 3:30 | 2026-09-02 |  |
+| [Niña del sur](https://open.spotify.com/track/7GAi3c0MS18q9njYYIC4ON) | [Dani Rodríguez](https://open.spotify.com/artist/5Ytqx2mdkcV9h7ql5zEsVL) | [Donde respira el cielo](https://open.spotify.com/album/6FDxBNbxYxVeqOjwk5EVFi) | 1:12 | 2026-10-02 |  |
 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 | 2026-09-02 |  |
 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 | 2024-01-25 | 2026-09-03 |
 | [Peoncito de Estancia \- Kaleema Remix](https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Pluma \(Un Disco de Reversiones de la San Llamarada\)](https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO) | 4:01 | 2024-03-29 | 2025-09-07 |
@@ -137,7 +139,9 @@
 | [Serenata Plateada](https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [New Latam Beats From Argentina \(Disco A\)](https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86) | 5:25 | 2023-08-11 | 2026-09-03 |
 | [Sin darle motivo \- Derrok Remix](https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Derrok](https://open.spotify.com/artist/1Gqv9YkzHHS3jyQb0DvQTv) | [Sin darle motivo \(Derrok Remix\)](https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa) | 5:28 | 2023-08-11 | 2026-09-03 |
 | [Sirenita](https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:28 | 2023-08-11 | 2026-09-03 |
+| [Sol de Mayo](https://open.spotify.com/track/6GNBSRNCK9ICj4cjOboZjs) | [León Cordero](https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh) | [Jueves](https://open.spotify.com/album/0DRGfxoY78QeOkbislfWsT) | 3:28 | 2026-10-02 |  |
 | [Soy la lluvia](https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Soy la lluvia](https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB) | 5:27 | 2023-08-11 | 2026-09-03 |
+| [Spiritual Energies](https://open.spotify.com/track/5qoeaQmtifjThQhhpAoLBi) | [Eli Alvarado](https://open.spotify.com/artist/5Nn0bVawvIxIaiIwAYbWOr) | [Spiritual Energies](https://open.spotify.com/album/5S2pi8ZcS5drTU4QcLWhPl) | 3:08 | 2026-10-02 |  |
 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 | 2023-08-11 | 2024-04-19 |
 | [Sueño en Paraguay](https://open.spotify.com/track/4ftvb265vdOHzBQyyM0BrY) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/2X5Nk2XusVqGqtaYAU5QnO) | 3:53 | 2025-04-25 | 2026-09-03 |
 | [Susurro \- Matanza Remix](https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Susurro \(Matanza Remix\)](https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD) | 5:02 | 2023-08-11 | 2026-09-03 |

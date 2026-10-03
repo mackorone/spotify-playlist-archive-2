@@ -407,6 +407,22 @@
     {
       "added_at": "2026-04-03 04:02:10",
       "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 200710,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
+    },
+    {
+      "added_at": "2026-04-03 04:02:10",
+      "album": {
         "name": "El Ni\u00f1o Bola",
         "url": "https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 211426,
       "name": "Star",
       "url": "https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N"
-    },
-    {
-      "added_at": "2026-04-03 04:02:10",
-      "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 200710,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
     },
     {
       "added_at": "2026-04-03 04:02:10",

@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "holy sedative",
+        "url": "https://open.spotify.com/album/3uEIRxVGj7MwSNWDaBiFJD"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156642,
+      "name": "holy sedative",
+      "url": "https://open.spotify.com/track/0Kp7P6Phe7EyaV1nAjQAdg"
+    },
+    {
+      "album": {
         "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
         "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
       },
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 545000,
       "name": "Phosphenes - claire rousay EDIT",
       "url": "https://open.spotify.com/track/1dgiMqTuhDvBgFzX0mqMK5"
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 504000,
       "name": "v",
       "url": "https://open.spotify.com/track/5BZyjIbDp5u7PeT2TlmTfk"
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "viii",
       "url": "https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6"

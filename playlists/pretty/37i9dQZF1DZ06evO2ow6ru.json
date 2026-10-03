@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 178580,
+  "num_followers": 178588,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAADDQIZ8dd/Mbb9njYZjur8J",
+  "snapshot_id": "ar2igAAAAADb+jzCwhKcge5+3ivTyXbb",
   "tracks": [
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/3svtGm2OBGaKjnNXoNjcxk"
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy"
     },
     {
       "added_at": null,
@@ -464,25 +464,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "Time-Bomb",
-      "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/3svtGm2OBGaKjnNXoNjcxk"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
       "duration_ms": 204306,
       "name": "Stella",
       "url": "https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "Time-Bomb",
+      "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
     },
     {
       "added_at": null,

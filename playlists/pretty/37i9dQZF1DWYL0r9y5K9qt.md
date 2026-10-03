@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: New Lore
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,031 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,012 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 44 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
 | 45 | [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 |
 | 46 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
-| 47 | [Forever July](https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Forever July](https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl) | 2:41 |
-| 48 | [SPEECHLESS](https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G) | 2:42 |
+| 47 | [SPEECHLESS](https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G) | 2:42 |
+| 48 | [Forever July](https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Forever July](https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl) | 2:41 |
 | 49 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 |
 | 50 | [Dark Arts](https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dark Arts](https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM) | 3:01 |
 

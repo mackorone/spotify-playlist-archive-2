@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,582 likes - 1,187 songs - 3 day 2 hr 20 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,582 likes - 1,193 songs - 3 day 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1195,5 +1195,11 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1185 | [RAL commisurata all'esperienza](https://open.spotify.com/track/1pbphpSsaKaMopAsNg1nJY) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK), [EraNera](https://open.spotify.com/artist/63Cil2C40xtRj6FbMjJSPd) | [RAL commisurata all'esperienza](https://open.spotify.com/album/0NInNXq7adu6Pt9LbO5Toa) | 2:35 |
 | 1186 | [Sigma Fortress 1 Mega Man X \- Vocal Version](https://open.spotify.com/track/6QYFN2WW5u5MDsJJ727l5Y) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Sigma Fortress 1 Mega Man X \(Vocal Version\)](https://open.spotify.com/album/5Ln0V5gIBNp71ROTXhuEXG) | 4:10 |
 | 1187 | [BANALE](https://open.spotify.com/track/2vCzX6lr45KBgYRufV5pEc) | [Samuele Montecucco](https://open.spotify.com/artist/0W5Ne1PyrfTbqQyYKumlKF) | [BANALE](https://open.spotify.com/album/4bfHlS2yuXG3SDy7a6WSh5) | 3:32 |
+| 1188 | [So Good Guys, It's So Good](https://open.spotify.com/track/2Ig2GArdDQyXmbwixnaHHB) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr) | [Crying Over Split Milk](https://open.spotify.com/album/1G2ZKkebiIraz1dH9dNe97) | 3:21 |
+| 1189 | [I'm Bored x](https://open.spotify.com/track/1fRonpKCl5SRNccAHOEvl0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [I'm Bored x](https://open.spotify.com/album/6pPoIqEGFHEEu0FGE23UWz) | 4:08 |
+| 1190 | [Bside 3: Terra Libera](https://open.spotify.com/track/3MhstqiJTOOty738wOPOHe) | [Talco](https://open.spotify.com/artist/443KHruraFfm6t1cK8SJCc) | [Bside 3: Terra Libera](https://open.spotify.com/album/3PlpCmnRRPbrnwaX9OMWtI) | 3:59 |
+| 1191 | [Specchio](https://open.spotify.com/track/0ba4O8AwGCaQoRj7qjFSjV) | [Piede Sinistro](https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC) | [Specchio](https://open.spotify.com/album/7BL9jp3k7rrUqA9rIDCUae) | 6:29 |
+| 1192 | [La Sangre más Dulce \(en vivo\)](https://open.spotify.com/track/6U7pd09vgHIeWyFFMQbHDy) | [Soporte 68](https://open.spotify.com/artist/7o3krkEDErKnl4s0D7JpSJ) | [DEMO 68 \(sesión en vivo\)](https://open.spotify.com/album/0X5aTxvRmunYnKMtCPjcST) | 4:29 |
+| 1193 | [Voando alto](https://open.spotify.com/track/4Wgh7UCeHU7pGTPrNwRRri) | [Rural 64](https://open.spotify.com/artist/7fgZmIWoF5HC5n4C0jFkds) | [Qual foi, cabeça?](https://open.spotify.com/album/6oY0n7IJSYIelKo1JxXEuf) | 3:13 |
 
-Snapshot ID: `AAAE0OSEFqPNf6RmjcT49nmwSEAzsm/6`
+Snapshot ID: `AAAE12t4clxNNa+1Qr09SNEV2McRzfBl`

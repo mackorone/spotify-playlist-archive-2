@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Jeriq & TUFF KING",
+  "description": "Hip hop and rap music from Nigeria. Cover: Txmmyily",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 112741,
       "name": "#toomuchswag",
       "url": "https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn"
+    },
+    {
+      "album": {
+        "name": "0pay",
+        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "0pay",
+      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
     },
     {
       "album": {
@@ -668,7 +686,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 134265,
       "name": "Aimoye",
       "url": "https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES"
@@ -7797,6 +7815,28 @@
     },
     {
       "album": {
+        "name": "IKEBE 3000",
+        "url": "https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "IKEBE 3000",
+      "url": "https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY"
+    },
+    {
+      "album": {
         "name": "Ikeja (No Go Thief)",
         "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
       },
@@ -8867,6 +8907,32 @@
     },
     {
       "album": {
+        "name": "Lalakula",
+        "url": "https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k"
+      },
+      "artists": [
+        {
+          "name": "Txmmyily",
+          "url": "https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152635,
+      "name": "Lalakula",
+      "url": "https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c"
+    },
+    {
+      "album": {
         "name": "Bad Boy Etiquette 102: Continuous Assessment",
         "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
       },
@@ -9218,7 +9284,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 167000,
       "name": "Life",
       "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
@@ -11190,7 +11256,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 149446,
       "name": "No Wam",
       "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"

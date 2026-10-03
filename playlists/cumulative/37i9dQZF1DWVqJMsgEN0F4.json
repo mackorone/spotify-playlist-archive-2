@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Noah Kahan along with the hottest alternative songs right now.\n",
+  "description": "The Paradox along with the hottest alternative songs right now.\n",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -8685,6 +8685,24 @@
     },
     {
       "album": {
+        "name": "Proceed With Caution",
+        "url": "https://open.spotify.com/album/468Onsk0BAN3KorH6PrBfR"
+      },
+      "artists": [
+        {
+          "name": "The Paradox",
+          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159506,
+      "name": "I Kinda Like That",
+      "url": "https://open.spotify.com/track/0PRUObTnEluxW0lgkykCDw"
+    },
+    {
+      "album": {
         "name": "I Kinda Like That",
         "url": "https://open.spotify.com/album/1JAdAgj3z46aOZl5KHk56x"
       },
@@ -8696,7 +8714,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 159506,
       "name": "I Kinda Like That",
       "url": "https://open.spotify.com/track/0d1VAPSDzDRZMNIndiC2x2"

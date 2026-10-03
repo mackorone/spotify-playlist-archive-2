@@ -1,13 +1,29 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 449869,
+  "num_followers": 449888,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAABIu/YinFnLfX9nxcG3Uxw1",
+  "snapshot_id": "ar2igAAAAADnU4ELjvCrzVoBkW30k/ZA",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gu\u00e1rdame Esta Noche",
-        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Culpable",
+        "url": "https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "El Culpable",
+      "url": "https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Lista",
         "url": "https://open.spotify.com/album/36yVFGoStjA1ZBdPV1cJFE"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 186650,
       "name": "La Lista",
       "url": "https://open.spotify.com/track/21HFonaVz6ErwhLCDxXpyM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Culpable",
-        "url": "https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 213575,
-      "name": "El Culpable",
-      "url": "https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Fuerza - En Vivo",
+      "url": "https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Fuerza - En Vivo",
-      "url": "https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Equipo RR",
-        "url": "https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 159976,
-      "name": "Equipo RR",
-      "url": "https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gemeliza",
         "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 205049,
       "name": "El Muchachon",
       "url": "https://open.spotify.com/track/5qndgRQs86gXNnFX4PGxao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Equipo RR",
+        "url": "https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 159976,
+      "name": "Equipo RR",
+      "url": "https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh"
     },
     {
       "added_at": null,

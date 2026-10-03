@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-214 songs - 8 hr 52 min
+215 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-05-09 | 2025-04-26 |
 | [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 | 2025-01-17 |  |
 | [Golden Hour](https://open.spotify.com/track/2Df6FcpcajZ02DNjHHEi1Y) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Golden Hour](https://open.spotify.com/album/4quXwctlEiPi3tGCuIKx4p) | 3:31 | 2024-09-30 |  |
+| [Golden Pollen](https://open.spotify.com/track/4Qub4VJa5LuuvHX2vEisZR) | [Ted Lucky](https://open.spotify.com/artist/38GDIHuGmSYxf05zaOZKFg) | [Golden Pollen](https://open.spotify.com/album/3q3sTBop12RVy3jR379h6K) | 2:53 | 2026-10-02 |  |
 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 | 2024-10-21 |  |
 | [Halo](https://open.spotify.com/track/7yvByTOjJtBTbcyOG0bUtE) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Halo](https://open.spotify.com/album/5kU6DmZ227JMDs7CuujZSp) | 2:17 | 2025-11-05 |  |
 | [Hana, My Love](https://open.spotify.com/track/4OI6jrwpj1xkejfp6R5uj2) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Pale Horizon](https://open.spotify.com/album/4GbaledvjJ39zGpUtwB3pT) | 2:24 | 2023-05-09 | 2025-03-05 |

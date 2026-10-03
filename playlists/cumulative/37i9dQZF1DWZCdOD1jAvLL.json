@@ -948,7 +948,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 225984,
       "name": "All The Money In The World",
       "url": "https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ"
@@ -4563,6 +4563,32 @@
     },
     {
       "album": {
+        "name": "DANGER DANGER (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180150,
+      "name": "DANGER DANGER (feat. Skepta)",
+      "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
+    },
+    {
+      "album": {
         "name": "Dani Girl",
         "url": "https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa"
       },
@@ -4990,6 +5016,24 @@
       "duration_ms": 196615,
       "name": "DNA",
       "url": "https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD"
+    },
+    {
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/5TtpRRxXMsLHHj1FcAdCTG"
+      },
+      "artists": [
+        {
+          "name": "Ardynt",
+          "url": "https://open.spotify.com/artist/2O07lXVVsfff8gddb1unGN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/6T2WypdR5DaUFruMrXiYAE"
     },
     {
       "album": {
@@ -16040,7 +16084,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 156176,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3vlN5TntxqeGFtx0YOYYBb"

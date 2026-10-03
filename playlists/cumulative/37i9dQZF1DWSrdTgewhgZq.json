@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Hey, Trippie Redd\nthat's DOPE!",
+  "description": "Hey, Quavo\nthat's DOPE!",
   "name": "DOPE.",
   "tracks": [
     {
@@ -390,7 +390,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 223666,
       "name": "All That Matters (with Leon Thomas & AZ Chike)",
       "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
@@ -652,6 +652,28 @@
       "duration_ms": 199680,
       "name": "Avatar",
       "url": "https://open.spotify.com/track/04pZLcdVDBLlQmAHguhjMb"
+    },
+    {
+      "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149159,
+      "name": "BA (feat. Future)",
+      "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
     },
     {
       "album": {
@@ -1589,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "The Divine Feminine (10th Anniversary)",
+        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264280,
+      "name": "Channel 13",
+      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
+    },
+    {
+      "album": {
         "name": "TWOPOINTFIVE",
         "url": "https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY"
       },
@@ -1652,6 +1692,36 @@
       "duration_ms": 155087,
       "name": "Chill Guy",
       "url": "https://open.spotify.com/track/3xKJbCmSzSWFQzjp8OGQZz"
+    },
+    {
+      "album": {
+        "name": "Chrome Nickle",
+        "url": "https://open.spotify.com/album/3HvdPhU9tkJYxGctAltJGA"
+      },
+      "artists": [
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "Mooch",
+          "url": "https://open.spotify.com/artist/0g79hiNJF5e1xQHUGQRQsd"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200165,
+      "name": "Chrome Nickel",
+      "url": "https://open.spotify.com/track/1VduYrZ77uG9idchGiNEdN"
     },
     {
       "album": {
@@ -2274,6 +2344,32 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "album": {
+        "name": "DISGUISE",
+        "url": "https://open.spotify.com/album/64bs9S7CRMTn34hHlILPp0"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150802,
+      "name": "DISGUISE",
+      "url": "https://open.spotify.com/track/70NwUUeK2J8Y55QRUn8uM3"
     },
     {
       "album": {
@@ -5360,7 +5456,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 155147,
       "name": "Mean It (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2YSqCf3ZcxirhZ6GybIsLm"
@@ -6384,7 +6480,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 183600,
       "name": "ON THE LOW feat tyler, the creator",
       "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
@@ -6620,7 +6716,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 243496,
       "name": "P.V.",
       "url": "https://open.spotify.com/track/24jE1QNIeA9HH3WOaGjE9s"
@@ -8162,6 +8258,28 @@
       "duration_ms": 194866,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {

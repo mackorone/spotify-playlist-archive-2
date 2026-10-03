@@ -2537,6 +2537,28 @@
     },
     {
       "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235706,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2voFM8iCndPGWuYtHaOPTc"
+    },
+    {
+      "album": {
         "name": "Moongate",
         "url": "https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR"
       },

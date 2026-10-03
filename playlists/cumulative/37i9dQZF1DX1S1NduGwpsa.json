@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Okvsho",
+  "description": "The best jazz new releases. Cover: Meshell Ndegeocello",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 374466,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/2xJFd2dextQWWPSFILZ18Z"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 257500,
       "name": "Bring Our Light To Every Corner",
       "url": "https://open.spotify.com/track/6ZgRrhuT38YBccQJZx10Gj"
@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 210031,
       "name": "Chocolatine",
       "url": "https://open.spotify.com/track/4MrAizK4yq7LIVlFOIzvyV"
@@ -4034,6 +4034,36 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
+    },
+    {
+      "album": {
+        "name": "Comme un \u00e9cho lointain",
+        "url": "https://open.spotify.com/album/6L52UdluTRHs4kUHMaLHby"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Comme un \u00e9cho lointain",
+      "url": "https://open.spotify.com/track/42C9NNFStIk1wOy0u4zl5U"
     },
     {
       "album": {
@@ -5064,6 +5094,32 @@
       "duration_ms": 242842,
       "name": "Don\u2019t Look Any Further (with Lianne La Havas)",
       "url": "https://open.spotify.com/track/0AjcjeMsxzUWPh0dQcYMyW"
+    },
+    {
+      "album": {
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278959,
+      "name": "Don\u2019t Stop The Music (with Nick Hakim, Robert Glasper)",
+      "url": "https://open.spotify.com/track/582a1u4ziN01BgLtXDacQb"
     },
     {
       "album": {
@@ -7807,6 +7863,28 @@
     },
     {
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "eniola",
+          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247567,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb"
+    },
+    {
+      "album": {
         "name": "HOP, SKIP, JUMP",
         "url": "https://open.spotify.com/album/1FvUroeDcxTrwKbaKKtOYj"
       },
@@ -7924,6 +8002,24 @@
       "duration_ms": 254093,
       "name": "How I Wish",
       "url": "https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
     },
     {
       "album": {
@@ -9841,6 +9937,32 @@
     },
     {
       "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/6EdX0JXcU5p1MfCAKN7CUM"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233250,
+      "name": "Just Squeeze Me",
+      "url": "https://open.spotify.com/track/6Rsb2OPZxxFPNG5u5kptMM"
+    },
+    {
+      "album": {
         "name": "Just the Beginning",
         "url": "https://open.spotify.com/album/2UJs0fSUEiBDy9MKcugiQF"
       },
@@ -10176,6 +10298,24 @@
       "duration_ms": 234973,
       "name": "La Mer",
       "url": "https://open.spotify.com/track/1x75lqOHJVV0J4fljYtaS2"
+    },
+    {
+      "album": {
+        "name": "La Sentencia - Duo",
+        "url": "https://open.spotify.com/album/3HguosoaEMHpSODZmb1o36"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294727,
+      "name": "La Sentencia - Duo",
+      "url": "https://open.spotify.com/track/74oyWihpW29wlh97CLkMaj"
     },
     {
       "album": {
@@ -15510,7 +15650,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 240000,
       "name": "Queixa",
       "url": "https://open.spotify.com/track/3VHDtuVd5bnKYX1bjhiWkN"
@@ -15806,7 +15946,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 157403,
       "name": "RISING",
       "url": "https://open.spotify.com/track/6Icj2gip1zdGLG9KEkLGok"
@@ -17126,7 +17266,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 251041,
       "name": "Soften",
       "url": "https://open.spotify.com/track/3X9yLXt2yAbeCwTUc6dyVU"
@@ -17962,6 +18102,24 @@
       "duration_ms": 411013,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/1dUeRLYl72p4G3pfE4c8Qc"
+    },
+    {
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ"
     },
     {
       "album": {
@@ -18874,6 +19032,24 @@
       "duration_ms": 271840,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z"
+    },
+    {
+      "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/1ZJX3MkgGkFZmutJAHZS3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165876,
+      "name": "The Best Things Happen While You're Dancing",
+      "url": "https://open.spotify.com/track/4m0TCAd9hKenEoyTu6D24l"
     },
     {
       "album": {
@@ -21246,7 +21422,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 166786,
       "name": "We Here",
       "url": "https://open.spotify.com/track/485cnY6fKjkb1wCUgniOHc"
@@ -21658,7 +21834,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 134051,
       "name": "Where to.",
       "url": "https://open.spotify.com/track/0YSkkL3kKYYFG8C8tvpuOn"

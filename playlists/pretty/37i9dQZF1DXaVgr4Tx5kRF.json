@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 666404,
+  "num_followers": 666424,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "In It For The Money",
+        "url": "https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Richard III",
+      "url": "https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Life Of Riley - The Lightning Seeds Collection",
         "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "In It For The Money",
-        "url": "https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Richard III",
-      "url": "https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Gold Mother",
         "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
       },
@@ -919,6 +919,30 @@
       "duration_ms": 244866,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        },
+        {
+          "name": "George Drakoulias",
+          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
+        },
+        {
+          "name": "David Bianco",
+          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -951,30 +975,6 @@
       "duration_ms": 258533,
       "name": "Stupid Girl",
       "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        },
-        {
-          "name": "George Drakoulias",
-          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
-        },
-        {
-          "name": "David Bianco",
-          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
     },
     {
       "added_at": "2024-03-18 22:10:08",

@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat VIIVI & Elastinen, Pihlaja, Goldielocks..\. ja moni muu  🎶
 
-12,957 songs - 28 day 13 hr 5 min
+12,957 songs - 28 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3463,6 +3463,7 @@
 | [Give A Little Of Your Love](https://open.spotify.com/track/4R4jVksnEFM9T1yuyQGkyr) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Give A Little Of Your Love](https://open.spotify.com/album/1Q1cWOYVelc0Ofb0le0slM) | 3:29 | 2024-07-18 | 2024-07-27 |
 | [Give In](https://open.spotify.com/track/4RwClvjqFEgEoRFrc3Wxuy) | [Royal Sorrow](https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK) | [Give In](https://open.spotify.com/album/2iPjK6ISiM31jyImoKWsXd) | 4:04 | 2025-04-17 | 2025-04-25 |
 | [Give In To Me](https://open.spotify.com/track/7G2tDhGQ3vW2zN4tgHo5yl) | [ay\-Mill](https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY), [Lucas Meyer](https://open.spotify.com/artist/2jQP5M1p4282oVdQQswMhK), [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30) | [Give In To Me](https://open.spotify.com/album/2QRhTtIvOSwFbOOcZuVph3) | 2:48 | 2025-04-17 | 2025-04-25 |
+| [Give it 2 me](https://open.spotify.com/track/38Z2OVfyPWG2cXOnK9ygSC) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Hardcore Software](https://open.spotify.com/album/5OFEtLZrp06iFWsYRduwEp) | 2:49 | 2026-10-01 |  |
 | [Give It To Me](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC) | [Give It To Me](https://open.spotify.com/album/7qaAXJOULu7GNNwkgR7PuC) | 2:46 | 2025-07-10 | 2025-07-18 |
 | [give me a break! \(feat\. waterparks\)](https://open.spotify.com/track/4sn7OrDC7qscTkinru4oRY) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [give me a break! \(feat\. waterparks\)](https://open.spotify.com/album/4F6nDmUrUtJoKveZs9j2JQ) | 2:33 | 2025-05-22 | 2025-05-30 |
 | [Give Me A Sign](https://open.spotify.com/track/4FeF8sEfEj4JED0G49099w) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Give Me A Sign](https://open.spotify.com/album/0LlfyQtxwDncLTSYbrPTIC) | 2:43 | 2025-07-31 | 2025-08-08 |
@@ -11380,8 +11381,6 @@
 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 | 2025-10-23 | 2025-10-31 |
 | [Toyboy](https://open.spotify.com/track/5PKv65XyVpMPwj6mDJNVdE) | [Ylävire](https://open.spotify.com/artist/7xCgb12CxaseKxdiQcm6BJ) | [Toyboy](https://open.spotify.com/album/51QGW3h5KDZ4whu2d85d9h) | 2:38 | 2026-06-11 | 2026-06-19 |
 | [Toyota Camry](https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Toyota Camry](https://open.spotify.com/album/4JEj7jRQAfmWlRBvMcgD3O) | 4:06 | 2025-11-27 | 2025-12-05 |
-| [Track 2](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 0:00 | 2026-10-01 |  |
-| [Track 3](https://open.spotify.com/track/38Z2OVfyPWG2cXOnK9ygSC) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Hardcore Software](https://open.spotify.com/album/5OFEtLZrp06iFWsYRduwEp) | 0:00 | 2026-10-01 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-09 | 2026-04-17 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-03 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
@@ -12006,6 +12005,7 @@
 | [Vertigo](https://open.spotify.com/track/10fzLhBF2aM7ECr3jZNaqm) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [VERTIGO](https://open.spotify.com/album/5dkt9jviAmVDbIL6KQkKc9) | 3:01 | 2026-03-19 | 2026-03-27 |
 | [Vertigo](https://open.spotify.com/track/6kw5fiFSxFTUUmn6ynSwrD) | [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G), [Avalan](https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP) | [Vertigo](https://open.spotify.com/album/5yvxgPwdYkBvvblqTmkGKU) | 2:34 | 2026-02-20 | 2026-02-27 |
 | [Vertigo](https://open.spotify.com/track/4QK7Yd5JhvXKTHYJVxMk07) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Vertigo](https://open.spotify.com/album/3Vm5S4pEdKQkLTJ57Li9go) | 1:55 | 2025-01-09 | 2025-01-17 |
+| [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 | 2026-10-01 |  |
 | [Vertigo](https://open.spotify.com/track/1suxL65o1WETsaGBf7e6Gk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Vertigo](https://open.spotify.com/album/0Nlopyeu2gwpETJK0sqUd4) | 3:31 | 2025-04-24 | 2025-05-02 |
 | [Vesipisaroiden valssi \(feat\. KAUKUA\)](https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [22](https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg) | 2:54 | 2026-03-12 | 2026-03-20 |
 | [Vettähän se vaan oli](https://open.spotify.com/track/0jNdfcfWXE0yfK9WM7g0n1) | [Ruma](https://open.spotify.com/artist/0lcGTyjTjKRDQpgKaT5bGJ) | [Vettähän se vaan oli](https://open.spotify.com/album/7M4Om3FfHgEHWCaDxG0iBV) | 3:33 | 2024-08-08 | 2024-08-16 |

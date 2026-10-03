@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 253650,
+  "num_followers": 253714,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACEZc5gCM1CEfKrSnjAn03A",
+  "snapshot_id": "ar2igAAAAAC4YlQmA3qtkER9h222w0Pt",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+        "name": "Saca, Prende Y Sorprende",
+        "url": "https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 304973,
-      "name": "De Antes",
-      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
+      "duration_ms": 357619,
+      "name": "Saca, Prende Y Sorprende",
+      "url": "https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saca, Prende Y Sorprende",
-        "url": "https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0"
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 357619,
-      "name": "Saca, Prende Y Sorprende",
-      "url": "https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx"
+      "duration_ms": 304973,
+      "name": "De Antes",
+      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
     },
     {
       "added_at": null,
@@ -275,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+        "name": "Ll\u00e9vame (Cultura Remix)",
+        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
       },
       "artists": [
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 349226,
-      "name": "Ritmo Que Pesa",
-      "url": "https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy"
+      "duration_ms": 264913,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ll\u00e9vame (Cultura Remix)",
-        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
       "artists": [
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 264913,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
+      "duration_ms": 349226,
+      "name": "Ritmo Que Pesa",
+      "url": "https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy"
     },
     {
       "added_at": null,

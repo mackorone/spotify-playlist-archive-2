@@ -518,7 +518,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 204000,
       "name": "2k26",
       "url": "https://open.spotify.com/track/7uaUcT9tgr5OjFGu7T3JDA"
@@ -4735,6 +4735,28 @@
     },
     {
       "album": {
+        "name": "BODY",
+        "url": "https://open.spotify.com/album/1SIi90GYB9w3QwHkKY4jgJ"
+      },
+      "artists": [
+        {
+          "name": "CUZZOS",
+          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
+        },
+        {
+          "name": "Michael Sneed",
+          "url": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/6Rk1jPjhqQRTlNcszPYk0A"
+    },
+    {
+      "album": {
         "name": "boffum",
         "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
       },
@@ -6148,7 +6170,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 214054,
       "name": "CAN'T PRETEND",
       "url": "https://open.spotify.com/track/1deoVVt7Jz1QHpr0qd2shX"

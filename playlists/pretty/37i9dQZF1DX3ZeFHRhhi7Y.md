@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: BOYNEXTDOOR\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,093 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,079 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,27 +70,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 60 | [METRONOME](https://open.spotify.com/track/6SGwediIFxWYxvU7zbWtri) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SET THE TEMPO](https://open.spotify.com/album/44FBhWiDfo2K0PxJyEpN7q) | 2:59 |
 | 61 | [I DO ME](https://open.spotify.com/track/6qmfxmtoNEzqucF1FWeXl8) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/66zYzKVkt1U0VCRi94Ek0x) | 3:10 |
 | 62 | [DANG DANG](https://open.spotify.com/track/0ZkCSH8wiHEkY7S4luv8CM) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [UNBOUND](https://open.spotify.com/album/40riOYM5nWwz5NEKeVzSMs) | 3:10 |
-| 63 | [BANG BANG](https://open.spotify.com/track/4MII9R3syMugyhdDvB8G0u) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/5tBbxrd5aHP9Q8pv50pQgY) | 2:57 |
-| 64 | [Human Extinction](https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Archive\. 1](https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs) | 3:26 |
-| 65 | [Love War \(Feat\. BE′O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 |
-| 66 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
+| 63 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
+| 64 | [BANG BANG](https://open.spotify.com/track/4MII9R3syMugyhdDvB8G0u) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/5tBbxrd5aHP9Q8pv50pQgY) | 2:57 |
+| 65 | [Human Extinction](https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Archive\. 1](https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs) | 3:26 |
+| 66 | [Love War \(Feat\. BE′O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 |
 | 67 | [BORN DIRE](https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [UNBREAKABLE : 少年BEAST](https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7) | 2:42 |
-| 68 | [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 |
-| 69 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 |
-| 70 | [Key Beats](https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Key Beats](https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK) | 2:10 |
-| 71 | [LOOK AT ME](https://open.spotify.com/track/41FzP8TjIK1aK4LTVY5TUy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA) | 2:39 |
+| 68 | [LOOK AT ME](https://open.spotify.com/track/41FzP8TjIK1aK4LTVY5TUy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA) | 2:39 |
+| 69 | [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 |
+| 70 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 |
+| 71 | [Key Beats](https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Key Beats](https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK) | 2:10 |
 | 72 | [Hit 'Em](https://open.spotify.com/track/36vNPZ4chJ8IWfirSQMHN0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1vD1hoR6vP6V4mpytBeCtB) | 2:48 |
 | 73 | [I DONT CARE](https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [I DONT CARE](https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X) | 3:19 |
 | 74 | [This & That](https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl) | 3:05 |
 | 75 | [Impossible](https://open.spotify.com/track/2cN2qkaSnO5KKAMSa5ZfIm) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO) | 3:02 |
 | 76 | [GO](https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 3:15 |
-| 77 | [Baby Flower](https://open.spotify.com/track/4tBgc1SEpeU6t5YRoOMI5P) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/55WiQx2kfXhAQDY5RgcZIE) | 3:08 |
-| 78 | [EXTRA](https://open.spotify.com/track/5ZuF7Gfj4f1IBta90LWrxI) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [EXTRA](https://open.spotify.com/album/1QMdzkRQl9XBsZtRQXcLL1) | 2:30 |
+| 77 | [EXTRA](https://open.spotify.com/track/5ZuF7Gfj4f1IBta90LWrxI) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [EXTRA](https://open.spotify.com/album/1QMdzkRQl9XBsZtRQXcLL1) | 2:30 |
+| 78 | [Baby Flower](https://open.spotify.com/track/4tBgc1SEpeU6t5YRoOMI5P) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/55WiQx2kfXhAQDY5RgcZIE) | 3:08 |
 | 79 | [THAT'S A NO NO](https://open.spotify.com/track/5Dxoukq4UC29A7OjQTbHgw) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/6RP5wCF7u2WDFiuyQ0loNS) | 3:00 |
 | 80 | [WHERE YOU AT](https://open.spotify.com/track/6vfcaWsN8gBLpfpSCru0Co) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [ANNIE](https://open.spotify.com/artist/4w6pewq4FAdlIHxweADBh4), [WOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc) | [ALLDAY PROJECT](https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA) | 2:42 |
 | 81 | [DDI RO RI](https://open.spotify.com/track/5LnYgKfSy6iJZThkkAK86Q) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1vD1hoR6vP6V4mpytBeCtB) | 3:16 |
-| 82 | [Girls Never Die](https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/3jOqNyGf9Vq9VPOMPRVK1w) | 3:07 |
-| 83 | [Shapeshifter](https://open.spotify.com/track/0kkqkpgbkLFpopZqPAH1CO) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [Shapeshifter](https://open.spotify.com/album/1NXmaFakmg1i7vOpSH7ZwS) | 3:04 |
+| 82 | [Shapeshifter](https://open.spotify.com/track/0kkqkpgbkLFpopZqPAH1CO) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [Shapeshifter](https://open.spotify.com/album/1NXmaFakmg1i7vOpSH7ZwS) | 3:04 |
+| 83 | [Girls Never Die](https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/3jOqNyGf9Vq9VPOMPRVK1w) | 3:07 |
 | 84 | [UFO \(ATTENT!ON\)](https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [&Our Vibe](https://open.spotify.com/album/52f4wYBg1SDSaMMwZ5u3OF) | 2:39 |
 | 85 | [HUNTER](https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [HUNTER \- The 3rd Album](https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i) | 2:43 |
 | 86 | [SPINNIN′ ON IT](https://open.spotify.com/track/0XbCJq4M7vpNKIUxdN90jq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:16 |

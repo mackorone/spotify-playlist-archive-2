@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > ➡️ ➡️ ➡️ gute Laune.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,880,250 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,880,201 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 62 | [What If?](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [What If?](https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH) | 2:45 |
 | 63 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 |
 | 64 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 |
-| 65 | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 3:08 |
-| 66 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
+| 65 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
+| 66 | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 3:08 |
 | 67 | [On The Floor](https://open.spotify.com/track/20zQZVyUNPbq8kZACdgYrh) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LOVE?](https://open.spotify.com/album/1RJ3ZqXAzt0rsJhs80AqRb) | 4:44 |
-| 68 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
-| 69 | [Not Fair](https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW) | 2:43 |
+| 68 | [Not Fair](https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW) | 2:43 |
+| 69 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
 | 70 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
 | 71 | [Hundred Miles](https://open.spotify.com/track/0pGMAK5wooEtjAEcP8bkKL) | [YALL](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/3cfGm14BreOKAjFe8QwWoZ) | 2:52 |
 | 72 | [car crash](https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [car crash](https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0) | 2:40 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 89 | [Blah Blah Blah](https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1) | [R2](https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa) | [Blah Blah Blah](https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU) | 1:40 |
 | 90 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
 
-Snapshot ID: `AAAAAMvaRz2+cgAirjxIoLYerqy/+fCW`
+Snapshot ID: `AAAAADLmy5hMYJjia25bPmvq6GT979ws`

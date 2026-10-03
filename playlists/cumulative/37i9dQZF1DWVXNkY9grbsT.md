@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-661 songs - 2 day 6 hr 0 min
+662 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Es Bosc](https://open.spotify.com/track/5sfkgNpcg90YO2LapOpkkb) | [Lucient](https://open.spotify.com/artist/5mcAX8xay12o2Oxy1fsW2m) | [Sa Casa Des Carbó](https://open.spotify.com/album/0usfEtgYRWO9VrKYu7ehhg) | 7:55 | 2022-04-01 | 2023-05-06 |
 | [Esperanza \- DJ Lostboi I Could Live in Hope Remix](https://open.spotify.com/track/1jvh0TNHt73Im7viGy8mYu) | [Rone](https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq), [DJ Lostboi](https://open.spotify.com/artist/4hM2xGRI8JsgyLX9OBfeli) | [Views of a Room](https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh) | 5:47 | 2021-12-26 | 2023-08-12 |
 | [Ether](https://open.spotify.com/track/6APLg2IRagzRWx1wPE13fH) | [Coil](https://open.spotify.com/artist/37KB5e6cGsN1AQAB9Omm1U) | [Musick To Play In The Dark²](https://open.spotify.com/album/7uU2vwhxwNDjLMpza2xk8f) | 11:32 | 2022-04-01 | 2023-08-12 |
+| [Etude No\. 20 \- Carmen Villain Version](https://open.spotify.com/track/1hahqr2OdBAUmLQ8veCfY6) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0), [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Philip Glass: Piano Etudes Versions](https://open.spotify.com/album/6bkU60hvtk7K3NrmlLAb2Z) | 5:42 | 2026-10-02 |  |
 | [Evensong](https://open.spotify.com/track/4TS7ZKYI9duQujtVglF2Cb) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 5:27 | 2021-12-26 | 2023-08-12 |
 | [Everything Lost Remains](https://open.spotify.com/track/4vGpkzUwluhYkZNSFCyrI8) | [Marielle V Jakobsons](https://open.spotify.com/artist/3pJz5n3TUPEwLNyAD4VOKx) | [The Patterns Lost to Air](https://open.spotify.com/album/3M6Vymi9zqeTgZFOAAZQyx) | 4:16 | 2026-07-06 |  |
 | [Everything Starts After the Horizon](https://open.spotify.com/track/0k4Na6j66fIGoXSgSM0eTb) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC), [Yara Asmar](https://open.spotify.com/artist/5gtMPcBy3Mp4I4zF1fVmch) | [Everything Starts After the Horizon](https://open.spotify.com/album/37c19uuhc23rt0rCSduL3k) | 3:39 | 2025-05-16 | 2026-05-09 |
@@ -361,7 +362,7 @@
 | [Memory Garden](https://open.spotify.com/track/3uDlFdakzc4b7oyrmnFkiY) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa), [John Thayer](https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k) | [Sunbeam of No Illusion](https://open.spotify.com/album/6ZJ4BvSqeVBwyKjfYnEs8T) | 4:08 | 2026-07-06 |  |
 | [Metallic Spheres In Colour: Movement 2 \- Excerpt](https://open.spotify.com/track/1fpuphYAwKaoVxYGWkNaV7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour: Movement 2 \- Excerpt](https://open.spotify.com/album/54OHjqMfotsJPkVWnRqkts) | 3:38 | 2023-09-08 | 2025-01-10 |
 | [Mexican Helium](https://open.spotify.com/track/6JSfZeeU5uG9GjRXE8H9ua) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [Eleven Fugues For Sodium Pentothal](https://open.spotify.com/album/0Y88Eg4EbumVR08gZSEG5A) | 4:24 | 2025-01-14 | 2026-07-07 |
-| [Mineral \- Edit](https://open.spotify.com/track/561gXtzNTVy07efgx7IJee) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Mineral \(Edit\)](https://open.spotify.com/album/6FaUwMO4QZqxJNApqgs1qq) | 3:27 | 2026-01-30 |  |
+| [Mineral \- Edit](https://open.spotify.com/track/561gXtzNTVy07efgx7IJee) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Mineral \(Edit\)](https://open.spotify.com/album/6FaUwMO4QZqxJNApqgs1qq) | 3:27 | 2026-01-30 | 2026-10-03 |
 | [Mir](https://open.spotify.com/track/1449q5smxpk9UEB1QxyZeO) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR) | 6:39 | 2023-04-21 | 2024-04-19 |
 | [Mir](https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e) | 6:39 | 2022-07-15 | 2023-04-29 |
 | [Mirror bridge](https://open.spotify.com/track/7akTj5h69yPLmob9xapvzW) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 0:52 | 2025-01-09 | 2026-03-10 |

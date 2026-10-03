@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 360181,
+  "num_followers": 360234,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACzCT8E4pRTITOiDZgOE1nA",
+  "snapshot_id": "ar2igAAAAACUAAEIxedrKAkz+21OdVE/",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lista Negra",
+        "url": "https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 152373,
+      "name": "Se Equivoco El Pistolero",
+      "url": "https://open.spotify.com/track/643LQeeR5hE6l8AlZJDxdY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 166720,
       "name": "Las Heladas - En Vivo",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lista Negra",
-        "url": "https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 152373,
-      "name": "Se Equivoco El Pistolero",
-      "url": "https://open.spotify.com/track/643LQeeR5hE6l8AlZJDxdY"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tucanes De Plata ... Tucanazos Censurados",
-        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 181146,
-      "name": "La Ley 57",
-      "url": "https://open.spotify.com/track/3wxad5m0PZVNpVFxV0XzGD"
+      "duration_ms": 218733,
+      "name": "El Jefe De La Sierra",
+      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
+        "name": "Tucanes De Plata ... Tucanazos Censurados",
+        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 218733,
-      "name": "El Jefe De La Sierra",
-      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
+      "duration_ms": 181146,
+      "name": "La Ley 57",
+      "url": "https://open.spotify.com/track/3wxad5m0PZVNpVFxV0XzGD"
     },
     {
       "added_at": null,

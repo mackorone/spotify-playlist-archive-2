@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Loods, SG Lewis
 
-1,609 songs - 4 day 12 hr 18 min
+1,610 songs - 4 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1353,6 +1353,7 @@
 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 | 2024-03-22 | 2024-09-27 |
 | [Take Me High](https://open.spotify.com/track/3eQ2o9qHlzsMPdgIzeT63f) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [JOY](https://open.spotify.com/album/7k0sWYeRb1VDKDjdMOJBOp) | 4:26 | 2021-11-24\* | 2022-03-05 |
 | [Take Two](https://open.spotify.com/track/4g8jAI4REmgqoE9aDZwFZi) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:19 | 2022-10-06 | 2023-03-11 |
+| [Take U There](https://open.spotify.com/track/6J7ER0h5t1of0KIrr1UBY8) | [Isaac Carter](https://open.spotify.com/artist/1wp5fYOou3912NRzGN28E8) | [Take U There](https://open.spotify.com/album/1YLgvvyRpDZ3LJAV8rOWd1) | 4:54 | 2026-10-02 |  |
 | [Take Your Time](https://open.spotify.com/track/5D898hh48b15X198JU0DVC) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Take Your Time](https://open.spotify.com/album/33cA6byk0CpaeqecpKzyvw) | 3:16 | 2022-10-20 | 2023-03-25 |
 | [Talk nice](https://open.spotify.com/track/6i1D8BSUDo5WHIDvl9sMqp) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Talk nice](https://open.spotify.com/album/58QTVyvEXnWqmrGSSHh6nt) | 3:58 | 2026-05-28 | 2026-09-11 |
 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 | 2025-11-10 | 2026-04-17 |

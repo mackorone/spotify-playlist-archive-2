@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,065 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,095 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 25 | [Alfa e Ômega](https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Alfa e Ômega](https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo) | 6:04 |
 | 26 | [Deus de Detalhes](https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Esconderijo](https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh) | 4:56 |
 | 27 | [Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp) | 5:06 |
-| 28 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
+| 28 | [O Mapa do Tesouro](https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx) | [Anderson Freire e Gisele Nascimento](https://open.spotify.com/artist/3yXOAfmEH8M4DJbkmRMhml) | [Anderson Freire Ao Vivo](https://open.spotify.com/album/6xuwIhCtxo8DjCuA3X9aaL) | 5:10 |
 | 29 | [Vou Deixar na Cruz](https://open.spotify.com/track/3CbPjnoNaOh07rbJxI9IBW) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Profeta da Esperança](https://open.spotify.com/album/3oBk0frkoQ28ueSzWY8OsF) | 4:40 |
-| 30 | [O Mapa do Tesouro](https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx) | [Anderson Freire e Gisele Nascimento](https://open.spotify.com/artist/3yXOAfmEH8M4DJbkmRMhml) | [Anderson Freire Ao Vivo](https://open.spotify.com/album/6xuwIhCtxo8DjCuA3X9aaL) | 5:10 |
+| 30 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 | 31 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
 | 32 | [Quando o Mundo Cai Ao Meu Redor](https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia](https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB) | 3:47 |
 | 33 | [Há um Lugar](https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Andando na Luz](https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK) | 5:48 |

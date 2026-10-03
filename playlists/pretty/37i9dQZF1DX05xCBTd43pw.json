@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37579,
+  "num_followers": 37580,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "The One That Got Away",
-        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
         "name": "BORN BLUE (THE SONG)",
         "url": "https://open.spotify.com/album/7J3K7vYvEDFCQbhpCXdECr"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 210000,
       "name": "BORN BLUE (THE SONG)",
       "url": "https://open.spotify.com/track/4UWtyESSkgFuLL7JU6YsdX"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
+        "name": "The One That Got Away",
+        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "How To Heal",
-        "url": "https://open.spotify.com/album/73V1mnQ1qIeyERh5ZOId9B"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 159944,
-      "name": "Justifi\u00e9",
-      "url": "https://open.spotify.com/track/20jkpxUiZLncjQCQQZG0pO"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
         "name": "Fire To The Sky",
         "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "20 SOMETHING IS A FUCKING STRANGE PLACE",
-        "url": "https://open.spotify.com/album/5aW1dSPLvETJtyMzsG0Wws"
+        "name": "How To Heal",
+        "url": "https://open.spotify.com/album/73V1mnQ1qIeyERh5ZOId9B"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Twenty Something",
-      "url": "https://open.spotify.com/track/6S5TA6mJyIll0WF1lD23bL"
+      "duration_ms": 159944,
+      "name": "Justifi\u00e9",
+      "url": "https://open.spotify.com/track/20jkpxUiZLncjQCQQZG0pO"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -575,18 +559,18 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "backbone",
-        "url": "https://open.spotify.com/album/5oJk44MiQxfydL5aTYU5S0"
+        "name": "20 SOMETHING IS A FUCKING STRANGE PLACE",
+        "url": "https://open.spotify.com/album/5aW1dSPLvETJtyMzsG0Wws"
       },
       "artists": [
         {
-          "name": "Mik Ivy",
-          "url": "https://open.spotify.com/artist/2yu0SHmrIif1ZuHxX5s2TA"
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
         }
       ],
-      "duration_ms": 173414,
-      "name": "backbone",
-      "url": "https://open.spotify.com/track/4DR5gb0S6KOfLx5LGLjyuU"
+      "duration_ms": 168200,
+      "name": "Twenty Something",
+      "url": "https://open.spotify.com/track/6S5TA6mJyIll0WF1lD23bL"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -607,6 +591,22 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
+        "name": "backbone",
+        "url": "https://open.spotify.com/album/5oJk44MiQxfydL5aTYU5S0"
+      },
+      "artists": [
+        {
+          "name": "Mik Ivy",
+          "url": "https://open.spotify.com/artist/2yu0SHmrIif1ZuHxX5s2TA"
+        }
+      ],
+      "duration_ms": 173414,
+      "name": "backbone",
+      "url": "https://open.spotify.com/track/4DR5gb0S6KOfLx5LGLjyuU"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
         "name": "Time to Shine",
         "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "Hot Girl Summer",
-        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162781,
-      "name": "Hot Girl Summer",
-      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
         "name": "fire",
         "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 135866,
       "name": "fire",
       "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
+        "name": "Hot Girl Summer",
+        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162781,
+      "name": "Hot Girl Summer",
+      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
+        "name": "Dancing Alone Again",
+        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Dancing Alone Again",
+      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
       },
@@ -767,18 +783,22 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "Dancing Alone Again",
-        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
+        "name": "Milchstrass (feat. Aaron Asteria)",
+        "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        },
+        {
+          "name": "Aaron Asteria",
+          "url": "https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8"
         }
       ],
-      "duration_ms": 191432,
-      "name": "Dancing Alone Again",
-      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+      "duration_ms": 237680,
+      "name": "Milchstrass (feat. Aaron Asteria)",
+      "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -815,22 +835,18 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "Milchstrass (feat. Aaron Asteria)",
-        "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
       "artists": [
         {
-          "name": "Bligg",
-          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
-        },
-        {
-          "name": "Aaron Asteria",
-          "url": "https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
         }
       ],
-      "duration_ms": 237680,
-      "name": "Milchstrass (feat. Aaron Asteria)",
-      "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -851,22 +867,6 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
         "name": "Playgrounds In Ruins (Deluxe)",
         "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 203370,
       "name": "Divine",
       "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
-        "name": "Blindsided",
-        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 165062,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -947,6 +931,22 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 165062,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
         "name": "Too Tired",
         "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
       },
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
+        "name": "The World (AR)",
+        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 227651,
+      "name": "The World (AR)",
+      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
-        "name": "The World (AR)",
-        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 227651,
-      "name": "The World (AR)",
-      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
         "name": "How Much Can a Heart Break",
         "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "HOMECOMING",
-        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
       },
       "artists": [
         {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 141190,
-      "name": "HOMECOMING",
-      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "Moved On",
-        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+        "name": "HOMECOMING",
+        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
       },
       "artists": [
         {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 188337,
-      "name": "Moved On",
-      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
+      "duration_ms": 141190,
+      "name": "HOMECOMING",
+      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -1171,6 +1155,22 @@
       "duration_ms": 201541,
       "name": "Down To My Bones",
       "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 188337,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
-      },
-      "artists": [
-        {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
-        }
-      ],
-      "duration_ms": 173302,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 184893,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 173302,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -1439,34 +1439,22 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "Don't Ruin It",
-        "url": "https://open.spotify.com/album/5b4BR9vMYMWxfc3RTv5Mpe"
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
       },
       "artists": [
         {
-          "name": "Cristina Hart",
-          "url": "https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Don't Ruin It",
-      "url": "https://open.spotify.com/track/4EJqBcrnl9uqSGMENgR258"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
-        "name": "WITHDRAWAL SYMPTOMS",
-        "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
-      },
-      "artists": [
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        },
         {
-          "name": "IKAN HYU",
-          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
         }
       ],
-      "duration_ms": 219718,
-      "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
-      "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
+      "duration_ms": 148410,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -1487,22 +1475,34 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
+        "name": "WITHDRAWAL SYMPTOMS",
+        "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        },
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+          "name": "IKAN HYU",
+          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
         }
       ],
-      "duration_ms": 148410,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
+      "duration_ms": 219718,
+      "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
+      "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
+        "name": "Don't Ruin It",
+        "url": "https://open.spotify.com/album/5b4BR9vMYMWxfc3RTv5Mpe"
+      },
+      "artists": [
+        {
+          "name": "Cristina Hart",
+          "url": "https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn"
+        }
+      ],
+      "duration_ms": 171306,
+      "name": "Don't Ruin It",
+      "url": "https://open.spotify.com/track/4EJqBcrnl9uqSGMENgR258"
     },
     {
       "added_at": "2026-10-01 22:01:11",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-10-01 22:01:11",
       "album": {
-        "name": "Old Again",
-        "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 197458,
-      "name": "Old Again",
-      "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
-    },
-    {
-      "added_at": "2026-10-01 22:01:11",
-      "album": {
         "name": "Dorm",
         "url": "https://open.spotify.com/album/2Ygjfegm1kwAwBltMFM9lY"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 156899,
       "name": "Dorm",
       "url": "https://open.spotify.com/track/3o2msMcYmPBYSjCmESw5NL"
+    },
+    {
+      "added_at": "2026-10-01 22:01:11",
+      "album": {
+        "name": "Old Again",
+        "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 197458,
+      "name": "Old Again",
+      "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
     },
     {
       "added_at": "2026-10-01 22:01:11",

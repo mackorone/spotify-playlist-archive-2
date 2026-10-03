@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: AZ Chike
 
-1,767 songs - 3 day 10 hr 0 min
+1,768 songs - 3 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [25 million](https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:24 | 2021-12-17 | 2022-04-02 |
 | [2:00 AM](https://open.spotify.com/track/35U6wyVRgQir5mFhWfjMvJ) | [Conradfrmdaaves](https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH), [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [2:00 AM](https://open.spotify.com/album/3s9PofuwRoml0gFdnUNRW4) | 3:06 | 2026-03-13 |  |
 | [2am \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0YhA36UbLFWCmu8VwHpgrh) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OMMIO 4](https://open.spotify.com/album/53dTIJVxZHrnEynYrhvsL6) | 2:06 | 2025-06-27 | 2025-09-27 |
-| [2k26](https://open.spotify.com/track/7uaUcT9tgr5OjFGu7T3JDA) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [2k26](https://open.spotify.com/album/4Dr3ElY52cXznZAa8Ex2CH) | 3:24 | 2026-08-28 |  |
+| [2k26](https://open.spotify.com/track/7uaUcT9tgr5OjFGu7T3JDA) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [2k26](https://open.spotify.com/album/4Dr3ElY52cXznZAa8Ex2CH) | 3:24 | 2026-08-28 | 2026-10-03 |
 | [2P'z](https://open.spotify.com/track/58ndKIwwjOfufedfaGa6Sy) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2P'z](https://open.spotify.com/album/5FEakeLZVHBkv2rClSQ0uN) | 2:51 | 2025-09-05 | 2025-09-20 |
 | [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 | 2026-05-22 |  |
 | [3 aGAinSt thE wOrLd](https://open.spotify.com/track/0weLm5VbQzeo9kn2jFknhd) | [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2) | [3 Against the World](https://open.spotify.com/album/46aXVfmhhDg0xy5Ulv6HhB) | 2:25 | 2023-05-26 | 2023-07-29 |
@@ -227,6 +227,7 @@
 | [BLUE MASERATI REMIX](https://open.spotify.com/track/6fVVHnP0OiKlyjZYOhIKMf) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [LLYOD](https://open.spotify.com/artist/6ttwPLSnuDm1KtLZljSPBu) | [DIVINE TIMING \(DELUXE\)](https://open.spotify.com/album/13EB3cUBrQNqkBZCUgCawi) | 3:21 | 2022-08-05 | 2022-10-01 |
 | [Blueprint](https://open.spotify.com/track/1t1OFWl4MpfiIJhZe1t6I4) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:22 | 2023-09-01 | 2023-10-28 |
 | [Blueslides](https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 3:55 | 2024-03-08 | 2024-05-18 |
+| [BODY](https://open.spotify.com/track/6Rk1jPjhqQRTlNcszPYk0A) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl) | [BODY](https://open.spotify.com/album/1SIi90GYB9w3QwHkKY4jgJ) | 2:37 | 2026-10-02 |  |
 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 | 2025-07-18 | 2025-08-09 |
 | [Bogus \(feat\. BlueBucksClan\)](https://open.spotify.com/track/1YF9HlEpL0cXLIewgQHdZt) | [Kyle Banks](https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Bogus \(feat\. BlueBucksClan\)](https://open.spotify.com/album/6WwSmNmwiq8f1VKEor6hUz) | 3:19 | 2021-10-08 | 2022-02-12 |
 | [Boogers](https://open.spotify.com/track/01TGQm38hHRbkTizSIaZxb) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Yung Chowder](https://open.spotify.com/artist/3hFHPjnorEtJWR6GSPwqQg) | [Boogers](https://open.spotify.com/album/5Ior3bY4eASDI0EIESY2PZ) | 3:19 | 2025-08-01 | 2025-08-23 |
@@ -292,7 +293,7 @@
 | [Can't Let It Go](https://open.spotify.com/track/1ZQG6lkEtxz8Y85HoHevsd) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e) | [Perfect Timing](https://open.spotify.com/album/0BqijlBuYCKh90YtUn823A) | 1:34 | 2025-04-25 | 2025-09-06 |
 | [Can't Lose](https://open.spotify.com/track/057oooH7gg3ph1jaUjge0e) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Can't Lose](https://open.spotify.com/album/19pv8D7jue23OM631QgU4e) | 2:12 | 2024-04-19 | 2024-06-29 |
 | [Can't Lose](https://open.spotify.com/track/5wWbAr0jLpAYgV4wB6llRl) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [3 Nights In Seattle](https://open.spotify.com/album/4wEbi47t3VMFRPhMq7bl8W) | 2:52 | 2022-09-30 | 2022-12-10 |
-| [CAN'T PRETEND](https://open.spotify.com/track/1deoVVt7Jz1QHpr0qd2shX) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [CAN'T PRETEND](https://open.spotify.com/album/0HpHMjKatS3FJu8qt0Xgrh) | 3:34 | 2026-08-21 |  |
+| [CAN'T PRETEND](https://open.spotify.com/track/1deoVVt7Jz1QHpr0qd2shX) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [CAN'T PRETEND](https://open.spotify.com/album/0HpHMjKatS3FJu8qt0Xgrh) | 3:34 | 2026-08-21 | 2026-10-03 |
 | [Can't Touch This](https://open.spotify.com/track/04B7iuFOZSGr0zyMP3PFkQ) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Can't Touch This](https://open.spotify.com/album/1idiwjkcE8F2hyNaagjPNi) | 2:28 | 2026-06-12 | 2026-07-18 |
 | [Can't You See](https://open.spotify.com/track/2qOOIfzwvUkKNAXS3fIptP) | [Low the Great](https://open.spotify.com/artist/1M3n2lIeQHcETTVPYS6Ccb), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Can't You See](https://open.spotify.com/album/0NSfYdKMZgMfWAKx54ukEB) | 3:15 | 2024-08-23 | 2024-10-29 |
 | [CANADIAN TUX](https://open.spotify.com/track/65LD6j5Wg5xYnebnrcwaUI) | [Devin Malik](https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16) | [CANADIAN TUX](https://open.spotify.com/album/6TmW1C4YNsMEIrwnZBJbjE) | 2:18 | 2024-03-29 | 2024-04-27 |

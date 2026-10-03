@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,927 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,933 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 38 | [Hura\-Haru](https://open.spotify.com/track/14uNVm8P3giMT9e5cGln7I) | [Feel Koplo](https://open.spotify.com/artist/1I7J7ZNNQne6VhffsSECR4) | [A Culture A 6](https://open.spotify.com/album/4Q7bvzlWs5CRy6fWCqZSHL) | 4:35 |
 | 39 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 |
 | 40 | [Spoken](https://open.spotify.com/track/0H5DgLDteF1kBLqQVTKCQ6) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:41 |
-| 41 | [HEATWAVE](https://open.spotify.com/track/5Z4THUUkogX97uuTAaTbj9) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:55 |
-| 42 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 |
+| 41 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 |
+| 42 | [HEATWAVE](https://open.spotify.com/track/5Z4THUUkogX97uuTAaTbj9) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:55 |
 | 43 | [Simpul](https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Simpul Tak Berdaya](https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb) | 3:51 |
 | 44 | [Surfin' Java](https://open.spotify.com/track/1gZilfYqLdnpOtc33O2OyM) | [The Mentawais](https://open.spotify.com/artist/0hj0i2IkfZpSCUPPFqVMhR) | [Surfin' Java](https://open.spotify.com/album/3uT9x3fRiGdHWWsH59yOvG) | 3:25 |
 | 45 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |

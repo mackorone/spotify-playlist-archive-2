@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 18 | [NO GOOD](https://open.spotify.com/track/5nyuvBnk8lPqewXhjtOydJ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:24 |
 | 19 | [ICU \(Madison's Lullabye\)](https://open.spotify.com/track/3RmE7U94bBxbCaK1VwVdP7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:16 |
 | 20 | [Work It Out](https://open.spotify.com/track/3dfSKcVcxle6GUL6i7FBjm) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In DNCE](https://open.spotify.com/album/5i9q6otDNQm25gyl5Ik3F3) | 2:30 |
-| 21 | [Grave](https://open.spotify.com/track/1XGBUVN05AaKaQ6hzcvKVG) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:11 |
-| 22 | [Too Easy](https://open.spotify.com/track/3wKYDzdwr2ZylKUqVw6yXk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 1:53 |
+| 21 | [Too Easy](https://open.spotify.com/track/3wKYDzdwr2ZylKUqVw6yXk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 1:53 |
+| 22 | [Grave](https://open.spotify.com/track/1XGBUVN05AaKaQ6hzcvKVG) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:11 |
 | 23 | [Find Me](https://open.spotify.com/track/25zDQjvFoACl4CzmjwmKu3) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 4:07 |
 | 24 | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/track/5hX77k1ZxCztVqL679pyfi) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk), [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06) | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/album/0WeDFtcUIBKYlih4rDFqQn) | 3:49 |
 | 25 | [Mirror to the Sky](https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:23 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 105 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 106 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `Acdz+gAAAAC6s3jQF+qAkKcbX8Lgqka8`
+Snapshot ID: `Acd5mgAAAADi74kYtCkyAGhVDOYyxVy9`

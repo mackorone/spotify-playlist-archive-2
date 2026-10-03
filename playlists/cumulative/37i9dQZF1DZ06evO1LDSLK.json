@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 357706,
       "name": "Shades",
       "url": "https://open.spotify.com/track/7FhazKWdLIXBTHOxl6tpjK"
@@ -2324,6 +2324,28 @@
       "duration_ms": 318906,
       "name": "TV Screen - \"Arizona Dream\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5Ioy9ZoOzXYXIcaX3Ent6m"
+    },
+    {
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/3LiArYJoDOq9fiiVIBc893"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305552,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/7FlFVxnKwJl6E5B49Jn9S7"
     },
     {
       "album": {

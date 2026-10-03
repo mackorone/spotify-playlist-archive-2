@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-3,585 songs - 7 day 22 hr 44 min
+3,586 songs - 7 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,7 +804,7 @@
 | [E45](https://open.spotify.com/track/4Bl4PdFzrDvmFJvKJrHqGg) | [Sultan Den Første](https://open.spotify.com/artist/1tv6vH2AmEXZUvQ8mqCY3U) | [E45](https://open.spotify.com/album/7ydZPJ4rPU3jgDkQYEppgq) | 3:18 | 2023-01-25 | 2023-01-27 |
 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-01-31 | 2026-04-11 |
 | [EAEA](https://open.spotify.com/track/1NzoDUn5bLqpS36GD00Smi) | [Blanca Paloma](https://open.spotify.com/artist/4wm4mhiGnYPzCerFg3venQ) | [EAEA](https://open.spotify.com/album/713ABLvroU275mKkUgr6ZJ) | 2:59 | 2023-05-14 | 2023-05-16 |
-| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-05-12 | 2026-10-02 |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-05-12 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-05-08 |
 | [Eat Your Salad](https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ) | [Citi Zēni](https://open.spotify.com/artist/0kJje6gpjclOrCsPxZtoAW) | [Eat Your Salad](https://open.spotify.com/album/6W0RNAULq6QYSf6cjPl7U2) | 3:01 | 2022-05-11 | 2022-05-17 |
@@ -1302,6 +1302,7 @@
 | [Heart of Steel \- Eurovision Version](https://open.spotify.com/track/155yInH5aDNEI1MkcX6NNk) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Heart of Steel \(Eurovision Version\)](https://open.spotify.com/album/0jGnnA1n6iYtDq1fOxMfgx) | 2:38 | 2023-05-09 | 2023-06-01 |
 | [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 | 2024-11-24 | 2024-11-29 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2021-05-16 |
+| [Heartless](https://open.spotify.com/track/5xjEDdq24X4aA5Ds7YvfIq) | [Hotvibez](https://open.spotify.com/artist/7f4xrM2aayisIjXZxjzcGb) | [Heartless](https://open.spotify.com/album/3N019Z11CKz68aANAfDPQT) | 2:09 | 2026-10-02 |  |
 | [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 | 2022-08-09 | 2024-02-11 |
 | [Hearts After Dark](https://open.spotify.com/track/2fVexCsI2UvPsDz45dPwIr) | [Blessing](https://open.spotify.com/artist/4CbULpUe0605jdOjjxjXDS) | [HEARTS AFTER DARK](https://open.spotify.com/album/45iMxkUElevY0BBNsJFLYE) | 4:51 | 2026-03-25 | 2026-03-27 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-04-28 | 2023-01-03 |
@@ -1967,7 +1968,7 @@
 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2026-01-15 | 2026-08-27 |
 | [Might \- Remix](https://open.spotify.com/track/5q0nrczV4ChX52AAdGnJqB) | [The Hated Crew](https://open.spotify.com/artist/2UIjxg40RnR1DlR3RizVJk), [Paul Johnson's](https://open.spotify.com/artist/6EH2Ym8vlXXj5jt5IJXdOZ) | [The Watchers](https://open.spotify.com/album/4jobDkwKOfvol9tl5fFdMN) | 3:26 | 2026-03-23 | 2026-03-26 |
 | [Mikki Phelps](https://open.spotify.com/track/4RNpRSsL9vRtuS7LbRSvag) | [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG) | [Stjörnulífið](https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE) | 2:38 | 2023-01-07 | 2023-01-09 |
-| [Miklu betri einn](https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Miklu betri einn](https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM) | 2:24 | 2025-06-28 |  |
+| [Miklu betri einn](https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Miklu betri einn](https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM) | 2:24 | 2025-06-28 | 2026-10-03 |
 | [Miklu meira en bara tyggjó](https://open.spotify.com/track/61PswshZBCBEJknkgkvgGS) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Gugga í Gúmmíbát](https://open.spotify.com/artist/33dxiuZsID15J9RuIKo4di) | [Miklu meira en bara tyggjó](https://open.spotify.com/album/1ERcr8kxPOfsxybRIimHaX) | 2:18 | 2024-08-03 | 2024-08-05 |
 | [Milkshake Man](https://open.spotify.com/track/1kvxvVdeauiXc5ue0Z3HoS) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Milkshake Man](https://open.spotify.com/album/0IKAA7getrlwStxZ5MtXUt) | 2:52 | 2025-05-15 | 2025-05-22 |
 | [Millikafli](https://open.spotify.com/track/6eOkPlrX4xxjBC83wElKzG) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [1000 orð](https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT) | 1:08 | 2024-06-01 | 2024-06-09 |
@@ -2300,7 +2301,7 @@
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-06-05 | 2022-06-19 |
 | [Past Struggles](https://open.spotify.com/track/6nzkEpU3eA2lGkdZ9Q3YkH) | [Nune Aka Mr\. Propane](https://open.spotify.com/artist/048LURrZQCh4vdc7zucbk9), [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [Past Struggles](https://open.spotify.com/album/06IQOOxNExD8rYeW8lZZVH) | 3:12 | 2025-02-01 | 2025-02-03 |
 | [PATEK](https://open.spotify.com/track/62Z1vvPgBtEPgj80c5QTzS) | [XLG OFFICIAL](https://open.spotify.com/artist/23P5x3S30NxJCHVO70x8Q7) | [PLANET X](https://open.spotify.com/album/6bkJPiGL0UZsIwebcLSHnG) | 2:02 | 2023-05-08 | 2023-05-11 |
-| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-26 |  |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-26 | 2026-10-03 |
 | [Patiently Waiting](https://open.spotify.com/track/76CFLCBxtsRgfOjub0y01x) | [Antoi](https://open.spotify.com/artist/30hgDcEs2QHytNksy0pRJi) | [Planz For 2](https://open.spotify.com/album/0CWZrjOXREeI3DDsmxt4pl) | 2:45 | 2023-05-18 | 2023-05-21 |
 | [Patrocinadora](https://open.spotify.com/track/4L2V9S80mbW4exwpcquAdX) | [Jotavê](https://open.spotify.com/artist/7vuLSxTFztprQ8dW0sX47p), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Patrocinadora](https://open.spotify.com/album/2bxy72L3HRU1JmOUKtNquX) | 2:12 | 2024-07-05 | 2024-07-07 |
 | [PA´ VER SI T OLVIDO](https://open.spotify.com/track/2bDi56vaAnbuw4ozkMx1k8) | [Franci Oficial](https://open.spotify.com/artist/3mECIOpWsJ6cENYgSJT2la), [Rodney Terrero](https://open.spotify.com/artist/71UIAwfuVxcPPmy9sSY0Lg) | [PA´ VER SI T OLVIDO](https://open.spotify.com/album/4NrQoTT6iu7AX32rPotIj5) | 3:43 | 2023-06-02 | 2023-06-04 |

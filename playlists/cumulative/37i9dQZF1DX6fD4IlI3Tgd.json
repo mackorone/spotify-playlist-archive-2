@@ -285,6 +285,32 @@
     },
     {
       "album": {
+        "name": "Bloody Paradise x VELOCIDADE (PETERBLUE Remix)",
+        "url": "https://open.spotify.com/album/2zImnNLEHn96NQPh5cc7FZ"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        },
+        {
+          "name": "PETERBLUE",
+          "url": "https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "Bloody Paradise x VELOCIDADE - PETERBLUE Remix",
+      "url": "https://open.spotify.com/track/5B3nptWG8LWufK401wzzrj"
+    },
+    {
+      "album": {
         "name": "CONTROVERSIA by Alok Vol. 002",
         "url": "https://open.spotify.com/album/4hdUnBqxm3rGBrVvBJKnCL"
       },
@@ -358,7 +384,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 196267,
       "name": "BREATHE MY SATISFACTION",
       "url": "https://open.spotify.com/track/14yar0dftaBXRI3x1FKtwm"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Corey Kent",
+  "description": "Today's top country hits. Cover: Miranda Lambert and Ella Langley ",
   "name": "Hot Country",
   "tracks": [
     {
@@ -9856,7 +9856,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 177023,
       "name": "Last One To Know",
       "url": "https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL"
@@ -10820,7 +10820,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 226413,
       "name": "Loving Life Again",
       "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
@@ -14949,6 +14949,28 @@
     },
     {
       "album": {
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Snakeskin Boots",
+      "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/3ioP1B9kUTn3e7RLbjKmTY"
       },
@@ -16352,6 +16374,24 @@
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7g9YrTuImvIkpS9uveKdCO"
+    },
+    {
+      "album": {
+        "name": "The Day I Hang It Up",
+        "url": "https://open.spotify.com/album/5yWMqaHPPBwpS5sOhGU9u5"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161843,
+      "name": "The Day I Hang It Up",
+      "url": "https://open.spotify.com/track/05LCkBsBCDEcQv9nqZab41"
     },
     {
       "album": {

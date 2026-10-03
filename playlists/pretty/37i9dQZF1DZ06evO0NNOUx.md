@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,644 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,733 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 46 | [SOULSHINE](https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:05 |
 | 47 | [THROUGH THE NIGHT](https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:44 |
 | 48 | [SOS](https://open.spotify.com/track/5PssXGdxHPpfRL9yoJEk9A) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:49 |
-| 49 | [YAHWEH](https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:05 |
-| 50 | [BREAK OF DAWN](https://open.spotify.com/track/5TpIzyD4RN5r8i8LiFAQtE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:34 |
+| 49 | [BREAK OF DAWN](https://open.spotify.com/track/5TpIzyD4RN5r8i8LiFAQtE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:34 |
+| 50 | [YAHWEH](https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:05 |
 
-Snapshot ID: `arxRAAAAAAAvuGbOqQKxEF16c2cXcW7O`
+Snapshot ID: `ar2igAAAAAAAMY3SgToa3VZjArAOZ3MB`

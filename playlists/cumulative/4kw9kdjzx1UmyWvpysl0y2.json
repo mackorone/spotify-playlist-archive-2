@@ -9227,6 +9227,24 @@
     },
     {
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/3zbBA8vdwChCma3CB36bVz"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228206,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/5gKnbJH2bfDdvSZNK0I3Qe"
+    },
+    {
+      "album": {
         "name": "Frequency Fusion",
         "url": "https://open.spotify.com/album/4gKmRkOzbynrohmMZQOkwl"
       },

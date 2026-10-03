@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
@@ -3763,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177168,
+      "name": "Meio Discreto",
+      "url": "https://open.spotify.com/track/1VcM9djJwsXkoSL2enR3Kk"
+    },
+    {
+      "album": {
         "name": "Melanina",
         "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
       },
@@ -6095,6 +6113,32 @@
     },
     {
       "album": {
+        "name": "Dubl\u00ea",
+        "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
+      },
+      "artists": [
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        },
+        {
+          "name": "Monrabeatz",
+          "url": "https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C"
+        },
+        {
+          "name": "Juce Rock",
+          "url": "https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158105,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
+    },
+    {
+      "album": {
         "name": "Sai do Meu Radar",
         "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
       },
@@ -6786,7 +6830,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 167341,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM"
@@ -7164,7 +7208,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 215757,
       "name": "Te Ouvir",
       "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
@@ -7222,7 +7266,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 172173,
       "name": "Tempo Que N\u00e3o Volta",
       "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"

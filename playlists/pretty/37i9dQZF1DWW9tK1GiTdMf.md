@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un autunno non proprio felice \(blanco in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,867 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,942 likes - 99 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

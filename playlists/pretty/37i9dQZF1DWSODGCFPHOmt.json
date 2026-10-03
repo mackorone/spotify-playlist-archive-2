@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "La G\u00fcera Salom\u00e9",
-        "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "La G\u00fcera Salom\u00e9",
-      "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -1131,34 +1115,18 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "Navidad En Mi Pueblo",
-        "url": "https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX"
+        "name": "La G\u00fcera Salom\u00e9",
+        "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
         }
       ],
-      "duration_ms": 213640,
-      "name": "Regalo De Navidad",
-      "url": "https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
-        "name": "Dulce Navidad",
-        "url": "https://open.spotify.com/album/1GZ1HpsACMcttVe1u5D6o0"
-      },
-      "artists": [
-        {
-          "name": "Fabio Capri",
-          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
-        }
-      ],
-      "duration_ms": 167535,
-      "name": "Dulce Navidad",
-      "url": "https://open.spotify.com/track/3NjkQv4ZlMxYfEgQSEnxQM"
+      "duration_ms": 224586,
+      "name": "La G\u00fcera Salom\u00e9",
+      "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1191,6 +1159,38 @@
       "duration_ms": 143160,
       "name": "Rodolfo El Reno",
       "url": "https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Navidad En Mi Pueblo",
+        "url": "https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Regalo De Navidad",
+      "url": "https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Dulce Navidad",
+        "url": "https://open.spotify.com/album/1GZ1HpsACMcttVe1u5D6o0"
+      },
+      "artists": [
+        {
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+        }
+      ],
+      "duration_ms": 167535,
+      "name": "Dulce Navidad",
+      "url": "https://open.spotify.com/track/3NjkQv4ZlMxYfEgQSEnxQM"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "Jingle Bells (Vamos All The Way)",
-        "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Jingle Bells (Vamos All The Way)",
-      "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "El Burrito Sabanero",
         "url": "https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 231916,
       "name": "El Burrito Sabanero",
       "url": "https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Jingle Bells (Vamos All The Way)",
+        "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Jingle Bells (Vamos All The Way)",
+      "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "Navidad Para Ti",
-        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "Ven A Cantar",
-      "url": "https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "Navidad Fiesta Universal",
         "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 194960,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Navidad Para Ti",
+        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Ven A Cantar",
+      "url": "https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "Llego Navidad",
         "url": "https://open.spotify.com/album/7pmgBUyaWtngkQ0qd5UUlg"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 204214,
       "name": "Llego Navidad",
       "url": "https://open.spotify.com/track/4hqBRTQBM6WpKaUlpX5wtA"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
-        }
-      ],
-      "duration_ms": 143973,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/0cMIrWqljfkcl99TIYTtqf"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "Fiesta Navidad - Noche de Paz, Navidad para Rockear, Cascabel, El Burrito de Belen y Mas",
         "url": "https://open.spotify.com/album/6vJ2sXHJAL2BYDl7lwLkNP"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 186906,
       "name": "El Burrito de Belen (El Burrito Sabanero)",
       "url": "https://open.spotify.com/track/6j7xchyjTYkdU3myJsQJGO"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+        }
+      ],
+      "duration_ms": 143973,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/0cMIrWqljfkcl99TIYTtqf"
     },
     {
       "added_at": "2025-12-19 05:00:41",

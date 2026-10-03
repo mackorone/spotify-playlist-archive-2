@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 120332,
+  "num_followers": 120336,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAAAl9LXegr/c7zEmbZsnQRpS",
+  "snapshot_id": "ar2igAAAAACXLaEGu5lkryGq2tSLD0Qq",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Want The Smoke?",
+        "url": "https://open.spotify.com/album/56jF03rEi6shj9lKH0Y2Wc"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Who Want The Smoke?",
+      "url": "https://open.spotify.com/track/3LR0t8XqZ1FUj6nj01sXN0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 179933,
       "name": "Swing My Way",
       "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Want The Smoke?",
-        "url": "https://open.spotify.com/album/56jF03rEi6shj9lKH0Y2Wc"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Who Want The Smoke?",
-      "url": "https://open.spotify.com/track/3LR0t8XqZ1FUj6nj01sXN0"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Best of Rap",
+        "url": "https://open.spotify.com/album/5QpweNFfnaNFd0gfU0Jr6z"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 204515,
+      "name": "Lick",
+      "url": "https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JEFFERY",
         "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 315973,
       "name": "Guwop (feat. Quavo, Offset and Young Scooter)",
       "url": "https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Best of Rap",
-        "url": "https://open.spotify.com/album/5QpweNFfnaNFd0gfU0Jr6z"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 204515,
-      "name": "Lick",
-      "url": "https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x"
     },
     {
       "added_at": null,

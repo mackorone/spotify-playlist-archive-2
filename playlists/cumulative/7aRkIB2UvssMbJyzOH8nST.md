@@ -4,7 +4,7 @@
 
 > Ease into your  morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-352 songs - 20 hr 13 min
+354 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [11/10](https://open.spotify.com/track/4ePAOJTkVUGIwEERPTigYs) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [11/10](https://open.spotify.com/album/5NhebwEd6UXufggatDXz5G) | 2:33 | 2026-07-10 | 2026-09-02 |
 | [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 | 2025-07-18 | 2026-02-05 |
 | [3am](https://open.spotify.com/track/5IhYE4xh3gyZ9uFqsp7SUK) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:39 | 2025-07-18 | 2026-02-05 |
-| [400 Cities](https://open.spotify.com/track/0gdNSd9ztRCeONjBec42PE) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Miracle Mile](https://open.spotify.com/album/5RgaHwAaePVI9nNSHuowOc) | 2:17 | 2026-03-06 |  |
+| [400 Cities](https://open.spotify.com/track/0gdNSd9ztRCeONjBec42PE) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Miracle Mile](https://open.spotify.com/album/5RgaHwAaePVI9nNSHuowOc) | 2:17 | 2026-03-06 | 2026-10-03 |
 | [7 Days](https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 3:55 | 2025-07-18 | 2026-01-27 |
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-21 | 2026-09-26 |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 | 2026-01-27 |  |
@@ -100,7 +100,7 @@
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2026-07-08 | 2026-08-01 |
 | [FALLEN ANGEL](https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:19 | 2026-08-31 |  |
 | [Falling or flying](https://open.spotify.com/track/0JZGKXuE6IZcGs5Jvw3bc8) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 3:24 | 2025-07-18 | 2026-02-05 |
-| [Finish Line](https://open.spotify.com/track/7860siLSwvRnGt63VOr7QT) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Finish Line](https://open.spotify.com/album/5vjZRodlfAwNbwtDcYR7ky) | 3:18 | 2026-04-03 |  |
+| [Finish Line](https://open.spotify.com/track/7860siLSwvRnGt63VOr7QT) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Finish Line](https://open.spotify.com/album/5vjZRodlfAwNbwtDcYR7ky) | 3:18 | 2026-04-03 | 2026-10-03 |
 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2025-11-21 |  |
 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 | 2026-01-27 | 2026-02-05 |
 | [Forever Now](https://open.spotify.com/track/7sLl5s8SawVoaBYT5tWFmE) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Forever Now](https://open.spotify.com/album/7BzG76mnVHPWXOBp6VT8zl) | 3:06 | 2026-09-18 |  |
@@ -215,6 +215,7 @@
 | [Mother's Love Conquers All](https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Mother's Love Conquers All](https://open.spotify.com/album/69AGXPie59h3BozlQ728ew) | 5:17 | 2025-10-03 | 2026-01-27 |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-07-18 | 2026-01-31 |
 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 | 2026-07-08 |  |
+| [Music I Love](https://open.spotify.com/track/7bfatnIdi5mshwUUG6IGlc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Music I Love](https://open.spotify.com/album/0amjEk4ud3AiqBBH4MefHf) | 2:34 | 2026-10-02 |  |
 | [My Home](https://open.spotify.com/track/2jTuy90JMdLuDtSQyjLaiQ) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 3:26 | 2025-07-18 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2026-01-27 | 2026-01-31 |
 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 | 2026-04-10 | 2026-08-01 |
@@ -261,6 +262,7 @@
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2025-07-18 |  |
 | [Secrets \(feat\. Lindsey Buckingham & Mick Fleetwood\)](https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Something Beautiful \(Deluxe\)](https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb) | 3:49 | 2025-09-19 | 2026-02-05 |
 | [See You Again](https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [See You Again](https://open.spotify.com/album/1C22AuImu7TeIpFZMlIqEv) | 2:59 | 2026-06-19 | 2026-07-09 |
+| [See You In My Dreams \(feat\. SZA\)](https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:38 | 2026-10-02 |  |
 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-07-08 |  |
 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 | 2026-01-27 |  |
 | [Side Effects](https://open.spotify.com/track/30s0kGpzWrgbPs4k4mgLcV) | [Mergim](https://open.spotify.com/artist/2iIn97JWbKTa7hbju55Enk) | [Side Effects](https://open.spotify.com/album/5rXJBnTr5caCdeUYu8H2Xs) | 1:38 | 2026-01-27 | 2026-01-31 |

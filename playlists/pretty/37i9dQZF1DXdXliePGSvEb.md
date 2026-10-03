@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,619 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,623 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 65 | [Softening](https://open.spotify.com/track/4ZPVQ5HTTpanWNGGwjMmPD) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Fly In Amber](https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL) | 6:33 |
 | 66 | [Ondatonda](https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew), [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [ONDATONDA](https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG) | 3:31 |
 | 67 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scruffizer](https://open.spotify.com/artist/4nFfDHAqAGzzafiRt7KdEb) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
-| 68 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
-| 69 | [2 Go](https://open.spotify.com/track/0OEdFRb2jr5dNF4kOfl8aq) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 4:06 |
+| 68 | [2 Go](https://open.spotify.com/track/0OEdFRb2jr5dNF4kOfl8aq) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 4:06 |
+| 69 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
 | 70 | [Que Isso](https://open.spotify.com/track/5S9GRasmX7UTbYHq2aluMn) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Que Isso](https://open.spotify.com/album/0RWmxVvoTvE1B4H0FDiprK) | 3:18 |
 | 71 | [Are We There](https://open.spotify.com/track/4IC12iWEBhquqm9xcWI7nY) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Aeoui](https://open.spotify.com/album/7GiryhyiYis1NEfjEAb4tv) | 4:45 |
 | 72 | [More of You](https://open.spotify.com/track/0chp8IMadByVPHjKbK2Kou) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Before It Goes \- EP](https://open.spotify.com/album/6yMpxMGTJsrhxBWbtRCgXC) | 4:13 |

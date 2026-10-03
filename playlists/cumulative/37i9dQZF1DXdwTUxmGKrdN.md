@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-248 songs - 18 hr 11 min
+249 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,9 +233,10 @@
 | [Tequila Moon](https://open.spotify.com/track/6CqToVNuBYHXvlzdQmZHJA) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH) | 4:36 | 2022-04-11 |  |
 | [That's The Way Love Goes](https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 4:45 | 2022-01-17 | 2023-08-09 |
 | [The B Spot](https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:59 | 2022-01-10 |  |
-| [The Magic Hour](https://open.spotify.com/track/3OWW80MaTevZ2W83pCdUX2) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Off The Record](https://open.spotify.com/album/46QgyPFudNpjtNnApZFFBz) | 3:52 | 2025-09-26 |  |
+| [The Magic Hour](https://open.spotify.com/track/3OWW80MaTevZ2W83pCdUX2) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Off The Record](https://open.spotify.com/album/46QgyPFudNpjtNnApZFFBz) | 3:52 | 2025-09-26 | 2026-10-03 |
 | [The Moment](https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 6:01 | 2025-01-27 |  |
 | [Thicker Than Water](https://open.spotify.com/track/3bMFWi8ICm7xEAHtamhTUs) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Thicker Than Water](https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx) | 6:32 | 2022-04-11 | 2022-04-15 |
+| [Things Are Looking Up](https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [A Simple Man](https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG) | 3:57 | 2026-10-02 |  |
 | [Think of You](https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu) | [Brendan Rothwell](https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ) | [Sentiment](https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7) | 4:00 | 2021-12-27 |  |
 | [Three Dee](https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77) | [Les Sabler](https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8) | [Tranquility](https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd) | 4:01 | 2022-07-18 |  |
 | [Timeline](https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Soulful](https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb) | 4:07 | 2022-01-10 |  |

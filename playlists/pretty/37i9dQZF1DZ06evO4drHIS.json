@@ -1,45 +1,13 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 20010,
+  "num_followers": 20014,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACUxj3mCRKu7Xt4XBRWrsMF",
+  "snapshot_id": "ar2igAAAAADktuKnhIEJHw0KwKqHZhYU",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy Va Por Ti (feat. Karol Sevilla)",
-        "url": "https://open.spotify.com/album/3KFQNaFEQ1MS9hUjujOwn1"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        },
-        {
-          "name": "Benny",
-          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
-        },
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Karol Sevilla",
-          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Hoy Va Por Ti (feat. Karol Sevilla)",
-      "url": "https://open.spotify.com/track/6kJMQNdDHnPav35RRb3hTM"
-    },
     {
       "added_at": null,
       "album": {
@@ -271,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada de Ti",
         "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
       },
@@ -287,22 +271,6 @@
       "duration_ms": 223578,
       "name": "Nada de Ti",
       "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
     },
     {
       "added_at": null,
@@ -343,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Te Apartes de M\u00ed",
         "url": "https://open.spotify.com/album/7wHS73JJOpGAJwhNqrMdIk"
       },
@@ -367,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna Azul",
         "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
       },
@@ -403,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -431,6 +383,22 @@
       "duration_ms": 164360,
       "name": "Canci\u00f3n Para Olvidarte",
       "url": "https://open.spotify.com/track/5XqnEgOf00MMHogOTTFtjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
     },
     {
       "added_at": null,
@@ -567,6 +535,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoy Va Por Ti (feat. Karol Sevilla)",
+        "url": "https://open.spotify.com/album/3KFQNaFEQ1MS9hUjujOwn1"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        },
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Hoy Va Por Ti (feat. Karol Sevilla)",
+      "url": "https://open.spotify.com/track/6kJMQNdDHnPav35RRb3hTM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/2vrW4HjF6g5x0Jf9ibLCJG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
         "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 199973,
       "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/2vrW4HjF6g5x0Jf9ibLCJG"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
       "duration_ms": 167156,
       "name": "A Ning\u00fan Lugar",
       "url": "https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 183993,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 223960,
       "name": "Ac\u00e1 Entre Nos - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 183993,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 187720,
       "name": "Nos Gan\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 162146,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "As\u00ed Es La Vida",
+      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Te Enamores",
         "url": "https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 191040,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "As\u00ed Es La Vida",
-      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
     },
     {
       "added_at": null,

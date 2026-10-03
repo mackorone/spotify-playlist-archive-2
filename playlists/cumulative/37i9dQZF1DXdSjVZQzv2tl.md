@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: João Gustavo e Murilo, Grelo
+> O melhor do sertanejo em uma só playlist! Foto: Ícaro e Gilmar
 
-425 songs - 19 hr 56 min
+426 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Ilusão De Ótica \- Ao Vivo](https://open.spotify.com/track/3Bn5vG7vienkREO35aoaKK) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ilusão De Ótica \(Ao Vivo\)](https://open.spotify.com/album/0bI1I8N81JS2y2obt23JXS) | 2:59 | 2025-01-31 | 2026-02-07 |
 | [Imagina \- Ao Vivo](https://open.spotify.com/track/0BvzY9PCRufFPt51fvnhOI) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [No Pelo 360 \- Ao Vivo no 062](https://open.spotify.com/album/4kjCJEhjBMvh1p9aYOutCs) | 3:19 | 2024-10-18 | 2025-02-07 |
 | [Imagina A Sentada \- Ao Vivo](https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada \(Ao Vivo\)](https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq) | 2:52 | 2021-12-31 | 2023-03-03 |
+| [Imagina Se Me Odiasse \- Ao Vivo](https://open.spotify.com/track/1rb6dLdRPapa0Br8RuBDoS) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Origens Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3nqIQXOhx7hz2kCssaQ0OB) | 2:52 | 2026-10-02 |  |
 | [Imagina Você,](https://open.spotify.com/track/47tqclPTpDulUapzDeuN3w) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Onde Tudo Começa,](https://open.spotify.com/album/19xRmHjdqso76RByiG81me) | 3:18 | 2026-09-11 |  |
 | [Insegurança / Fim de Noite \- Ao Vivo](https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us) | [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox), [Rafael Quadros](https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b), [CDB](https://open.spotify.com/artist/2VuyOWJPCDTzjQWqCQogJP) | [Resenha do Cabral \(Ao Vivo\)](https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL) | 3:23 | 2026-06-19 | 2026-07-22 |
 | [Kamasutra \- Ao Vivo](https://open.spotify.com/track/48tyRFRqsKTYnViVA1XOk9) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:33 | 2025-03-14 | 2025-10-04 |
@@ -334,7 +335,7 @@
 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Quando Apaga A Luz \(Ao Vivo\)](https://open.spotify.com/album/14GC6d6HNAE3AZEItOG0kc) | 2:24 | 2023-01-27 | 2024-02-24 |
 | [Quarto 67 \- Ao Vivo](https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Quarto 67 \(Ao Vivo\)](https://open.spotify.com/album/3APhFHDM0ZOkMaM08rN3qQ) | 2:58 | 2025-10-17 |  |
 | [Quase Algo \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP1\)](https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N) | 2:58 | 2023-09-22 | 2024-07-19 |
-| [Que Delícia](https://open.spotify.com/track/62ZeAs3fShuWFRYsV1TFFF) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk) | [Que Delícia](https://open.spotify.com/album/5WeyrWSrGXzFHCYyLGvXvg) | 2:12 | 2026-06-08 |  |
+| [Que Delícia](https://open.spotify.com/track/62ZeAs3fShuWFRYsV1TFFF) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk) | [Que Delícia](https://open.spotify.com/album/5WeyrWSrGXzFHCYyLGvXvg) | 2:12 | 2026-06-08 | 2026-10-03 |
 | [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:55 | 2022-01-07 | 2022-08-06 |
 | [Quem Que Tá](https://open.spotify.com/track/2kd04YGxY6v8t4HYztOHn7) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Quem Que Tá](https://open.spotify.com/album/6AOYra2DSu2cs5tBUhpEbS) | 2:32 | 2026-02-27 |  |
 | [Quem Tá Fora \- Ao Vivo](https://open.spotify.com/track/0pK0Vd1MCWy7AmsyFfIJb8) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/1FLBaYOIAuCqsCQo9TUR79) | 2:29 | 2024-06-14 | 2025-01-31 |

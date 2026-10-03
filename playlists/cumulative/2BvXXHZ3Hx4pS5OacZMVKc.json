@@ -3109,6 +3109,32 @@
     },
     {
       "album": {
+        "name": "Fight In Me",
+        "url": "https://open.spotify.com/album/7JTp2khsUq9awc6jKMH8mV"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Lost Sky",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+        },
+        {
+          "name": "Alaina Cross",
+          "url": "https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192827,
+      "name": "Fight In Me",
+      "url": "https://open.spotify.com/track/0vFUxkeaKb4HxXIelQYGiN"
+    },
+    {
+      "album": {
         "name": "Fighting Fire",
         "url": "https://open.spotify.com/album/6Gfa4UrB7ufXMCEjcESdWP"
       },

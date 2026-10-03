@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,576 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,613 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 32 | [BAMBOO](https://open.spotify.com/track/2q2XA70NRreC33odqvghf9) | [Yu Seki](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [HANATANI](https://open.spotify.com/artist/5JFuHcjL9v7XhGmakhTOak), [Cota Mori](https://open.spotify.com/artist/17kRKqQs7JMrBKCzIGBk37) | [BAMBOO](https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy) | 2:45 |
 | 33 | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt) | [TYT](https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO) | 3:58 |
 | 34 | [who do u love?](https://open.spotify.com/track/6xyl77bg5JgjxgJvsIpkml) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [mee mee mee](https://open.spotify.com/artist/64ogzjxH3ZXoCbXmmySiUB), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [who do u love?](https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM) | 3:17 |
-| 35 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
+| 35 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
 | 36 | [TRASHURE](https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [TRASHURE](https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U) | 2:41 |
-| 37 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
-| 38 | [KURU KURU HARAJUKU](https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KURU KURU HARAJUKU](https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP) | 4:17 |
-| 39 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
-| 40 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
-| 41 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
+| 37 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
+| 38 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
+| 39 | [KURU KURU HARAJUKU](https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KURU KURU HARAJUKU](https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP) | 4:17 |
+| 40 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
+| 41 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
 | 42 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 |
 | 43 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
 | 44 | [OB PKWY](https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [OB PKWY](https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21) | 3:55 |

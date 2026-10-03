@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 146976,
       "name": "BABYLON",
       "url": "https://open.spotify.com/track/4ObX5jiuCJhv6JcrylryUE"
@@ -4906,7 +4906,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 158012,
       "name": "Honey Bunny (Numb)",
       "url": "https://open.spotify.com/track/3CCGcFZGGyrXGe5Bqhl1Mt"
@@ -6886,7 +6886,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 186893,
       "name": "MARTINE ROSE",
       "url": "https://open.spotify.com/track/5AVrwT3q2nFWHDwuPILwrf"
@@ -7896,7 +7896,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -13082,7 +13082,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 144000,
       "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/6yMFLAVzfpHZdN98V99Zsb"
@@ -15868,7 +15868,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 217607,
       "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b\u0438\u044f",
       "url": "https://open.spotify.com/track/2A2ltYcfg98g2oUkW1Xl86"
@@ -16778,7 +16778,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 213954,
       "name": "\u041d\u043e\u043d \u0441\u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/2nmRH8nkluAFr3qI1ryavs"
@@ -16796,7 +16796,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 213954,
       "name": "\u041d\u043e\u043d \u0441\u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC"
@@ -19712,7 +19712,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 214418,
       "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
       "url": "https://open.spotify.com/track/0e7fQFxNi91TGwf0ezB8qj"
@@ -19730,7 +19730,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 214418,
       "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
       "url": "https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK"
@@ -20090,7 +20090,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 160478,
       "name": "\u0422\u043c\u0441\u0442\u0441",
       "url": "https://open.spotify.com/track/1jqbg6vgOkK6yyrALTgCfZ"
@@ -20108,7 +20108,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 160478,
       "name": "\u0422\u043c\u0441\u0442\u0441",
       "url": "https://open.spotify.com/track/5Y084CcomD6DRot7KJtNC2"
@@ -20408,6 +20408,24 @@
       "duration_ms": 146713,
       "name": "\u0422\u044b \u0438 \u0441\u0438\u0433\u0430\u0440\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/4O3HWR6j3Qht7ENIWlPLJt"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0438\u043f\u044f\u0449\u0438\u0439 \u0430\u0434",
+        "url": "https://open.spotify.com/album/4RTsj6qUX5GSbPeGefvDKR"
+      },
+      "artists": [
+        {
+          "name": "BUINAGOLOVUSHKA",
+          "url": "https://open.spotify.com/artist/7i19V64ev2L35A9RiIeH6h"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175125,
+      "name": "\u0422\u044b \u043b\u0435\u0442\u0438",
+      "url": "https://open.spotify.com/track/42UHIWpXED2jQoFSTuCRJt"
     },
     {
       "album": {
@@ -20853,6 +20871,24 @@
     },
     {
       "album": {
+        "name": "\u0417\u0435\u043b\u0451\u043d\u044b\u0439",
+        "url": "https://open.spotify.com/album/0L5bzYkRMBi5ohVMzpFtxJ"
+      },
+      "artists": [
+        {
+          "name": "Voskresenskii",
+          "url": "https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113720,
+      "name": "\u0424\u0440\u0430\u043d\u0441\u0435",
+      "url": "https://open.spotify.com/track/1yuoHU8tcztJpObvLoq9SD"
+    },
+    {
+      "album": {
         "name": "Dabbackwood Reborn 2",
         "url": "https://open.spotify.com/album/60ZUosLpnLJcAdZ7sApPTU"
       },
@@ -20918,7 +20954,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-03",
       "duration_ms": 190818,
       "name": "\u0425\u0430\u043d\u043d\u0430\u043c\u043e\u043d\u0442\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/2GqzE0IXc3rq37AOdcrrvx"
@@ -20936,7 +20972,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 190818,
       "name": "\u0425\u0430\u043d\u043d\u0430\u043c\u043e\u043d\u0442\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542"

@@ -1,13 +1,169 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Jam City",
-  "num_followers": 1326270,
+  "description": "Genre-less. Quality first always. Cover: Tempest",
+  "num_followers": 1326266,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA8Xw2t1iKCuvkuNAGFpeefEJ0Us",
+  "snapshot_id": "AAAAAF+XKP2s9Xk0Dqr5gKwAtwwpO/On",
   "tracks": [
+    {
+      "added_at": "2026-10-02 04:02:34",
+      "album": {
+        "name": "Honey Lemon",
+        "url": "https://open.spotify.com/album/25Px87qQrXDW4CDppjNz5g"
+      },
+      "artists": [
+        {
+          "name": "Tempest",
+          "url": "https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa"
+        }
+      ],
+      "duration_ms": 201580,
+      "name": "Honey Lemon",
+      "url": "https://open.spotify.com/track/5oPtCWKKscS2fdX8rZJnPw"
+    },
+    {
+      "added_at": "2026-10-02 04:02:34",
+      "album": {
+        "name": "double",
+        "url": "https://open.spotify.com/album/4lU4ZCZP928cee0w5WZXVf"
+      },
+      "artists": [
+        {
+          "name": "TEILZ",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "duration_ms": 195489,
+      "name": "double",
+      "url": "https://open.spotify.com/track/7huEKLZAuEeMwJAsvoKTVP"
+    },
+    {
+      "added_at": "2026-09-25 04:02:36",
+      "album": {
+        "name": "TTW (Kaytranada Remix)",
+        "url": "https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 267293,
+      "name": "TTW - Kaytranada Remix",
+      "url": "https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy"
+    },
+    {
+      "added_at": "2026-10-02 04:02:34",
+      "album": {
+        "name": "Bite the bullet",
+        "url": "https://open.spotify.com/album/4za6fKrD5xBuAul38W8UXc"
+      },
+      "artists": [
+        {
+          "name": "Natek",
+          "url": "https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Bite the bullet",
+      "url": "https://open.spotify.com/track/2bNKOjlCAiglIC0nNSQJmk"
+    },
+    {
+      "added_at": "2026-09-25 04:02:36",
+      "album": {
+        "name": "EAST SIDE GIRL",
+        "url": "https://open.spotify.com/album/6iHXnV0IAUAwCQkCToh6mX"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 169642,
+      "name": "EAST SIDE GIRL",
+      "url": "https://open.spotify.com/track/1mYnQk2RqiUYh4rVSLjzbi"
+    },
+    {
+      "added_at": "2026-10-02 04:02:34",
+      "album": {
+        "name": "Life 1",
+        "url": "https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 221575,
+      "name": "It goes like this",
+      "url": "https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx"
+    },
+    {
+      "added_at": "2026-10-02 04:02:34",
+      "album": {
+        "name": "22 Durnham Dew",
+        "url": "https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 195532,
+      "name": "Do No Harm (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v"
+    },
+    {
+      "added_at": "2026-10-02 04:02:34",
+      "album": {
+        "name": "Besides you",
+        "url": "https://open.spotify.com/album/0P3z4sDLV8mRa3UZVqMVhF"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/6s3k3EXwkSNbJS0rGDzqNk"
+    },
+    {
+      "added_at": "2026-10-02 04:02:34",
+      "album": {
+        "name": "Confirmation!",
+        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "FAUZIA",
+          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
+        }
+      ],
+      "duration_ms": 164611,
+      "name": "2Love (feat. FAUZIA)",
+      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
+    },
     {
       "added_at": "2026-09-25 04:02:36",
       "album": {
@@ -31,6 +187,94 @@
       "duration_ms": 259548,
       "name": "Pure Vice",
       "url": "https://open.spotify.com/track/2NF2GJ8rSAbirBnzBiF2ri"
+    },
+    {
+      "added_at": "2026-07-10 05:01:48",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 181810,
+      "name": "Cairo FM",
+      "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
+    },
+    {
+      "added_at": "2026-10-02 04:02:34",
+      "album": {
+        "name": "Winter Waiting",
+        "url": "https://open.spotify.com/album/1YtW2BZmQiei25ZVFcuWoT"
+      },
+      "artists": [
+        {
+          "name": "Jimothy Lacoste",
+          "url": "https://open.spotify.com/artist/0sq3OExudqk1vOkbSuc8KW"
+        }
+      ],
+      "duration_ms": 285139,
+      "name": "Winter Waiting",
+      "url": "https://open.spotify.com/track/1ok5pQhSxf9jTOaFNborSj"
+    },
+    {
+      "added_at": "2026-08-28 04:02:33",
+      "album": {
+        "name": "Black Boy (Alternative)",
+        "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "How To Pray",
+      "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
+    },
+    {
+      "added_at": "2026-10-02 04:02:34",
+      "album": {
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/2OtfN1D5BW0kBMORPBXvtZ"
+      },
+      "artists": [
+        {
+          "name": "Ciar\u00e1n",
+          "url": "https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc"
+        }
+      ],
+      "duration_ms": 155497,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/1HLqWUTpcuzxBxaTzNPvT9"
+    },
+    {
+      "added_at": "2026-09-25 04:02:36",
+      "album": {
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/41IH84UYCnyaH90efEom2S"
+      },
+      "artists": [
+        {
+          "name": "Heathers",
+          "url": "https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M"
+        }
+      ],
+      "duration_ms": 153779,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/4edmBZ5KvOETrP0OsAw8nS"
     },
     {
       "added_at": "2026-09-25 04:02:36",
@@ -61,60 +305,20 @@
       "url": "https://open.spotify.com/track/1RQGDd73vmBfLlS1C87Q5i"
     },
     {
-      "added_at": "2026-09-25 04:02:36",
+      "added_at": "2026-09-18 04:00:29",
       "album": {
-        "name": "EAST SIDE GIRL",
-        "url": "https://open.spotify.com/album/6iHXnV0IAUAwCQkCToh6mX"
+        "name": "V1 / Rotate",
+        "url": "https://open.spotify.com/album/7cq2e2h2shR8NRW0YMFQUT"
       },
       "artists": [
         {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+          "name": "PUSHBACK",
+          "url": "https://open.spotify.com/artist/5LJRqROVpf8LiTbUD9MetW"
         }
       ],
-      "duration_ms": 169642,
-      "name": "EAST SIDE GIRL",
-      "url": "https://open.spotify.com/track/1mYnQk2RqiUYh4rVSLjzbi"
-    },
-    {
-      "added_at": "2026-08-28 04:02:33",
-      "album": {
-        "name": "Black Boy (Alternative)",
-        "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
-      },
-      "artists": [
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "How To Pray",
-      "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
-    },
-    {
-      "added_at": "2026-09-25 04:02:36",
-      "album": {
-        "name": "I Believe In You",
-        "url": "https://open.spotify.com/album/41IH84UYCnyaH90efEom2S"
-      },
-      "artists": [
-        {
-          "name": "Heathers",
-          "url": "https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M"
-        }
-      ],
-      "duration_ms": 153779,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/4edmBZ5KvOETrP0OsAw8nS"
+      "duration_ms": 401055,
+      "name": "V1 / Rotate - Extended Version",
+      "url": "https://open.spotify.com/track/6APujO9dTDkdP6LcSJmy7z"
     },
     {
       "added_at": "2026-09-25 04:02:36",
@@ -131,6 +335,22 @@
       "duration_ms": 246511,
       "name": "Are you willing to change?",
       "url": "https://open.spotify.com/track/7FmB6G5FcIEZkKAeYtnZ1J"
+    },
+    {
+      "added_at": "2026-08-21 04:02:15",
+      "album": {
+        "name": "the cops are coming",
+        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
+      },
+      "artists": [
+        {
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
+        }
+      ],
+      "duration_ms": 193615,
+      "name": "the cops are coming",
+      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
     },
     {
       "added_at": "2026-09-25 04:02:36",
@@ -151,58 +371,6 @@
       "duration_ms": 262559,
       "name": "Air",
       "url": "https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY"
-    },
-    {
-      "added_at": "2026-09-25 04:02:36",
-      "album": {
-        "name": "TTW (Kaytranada Remix)",
-        "url": "https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 267293,
-      "name": "TTW - Kaytranada Remix",
-      "url": "https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy"
-    },
-    {
-      "added_at": "2026-07-10 05:01:48",
-      "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 181810,
-      "name": "Cairo FM",
-      "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:15",
-      "album": {
-        "name": "the cops are coming",
-        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
-      },
-      "artists": [
-        {
-          "name": "Junior Mesa",
-          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
-        }
-      ],
-      "duration_ms": 193615,
-      "name": "the cops are coming",
-      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
     },
     {
       "added_at": "2026-09-25 04:02:36",
@@ -463,22 +631,6 @@
     {
       "added_at": "2026-09-18 04:00:29",
       "album": {
-        "name": "V1 / Rotate",
-        "url": "https://open.spotify.com/album/7cq2e2h2shR8NRW0YMFQUT"
-      },
-      "artists": [
-        {
-          "name": "PUSHBACK",
-          "url": "https://open.spotify.com/artist/5LJRqROVpf8LiTbUD9MetW"
-        }
-      ],
-      "duration_ms": 401055,
-      "name": "V1 / Rotate - Extended Version",
-      "url": "https://open.spotify.com/track/6APujO9dTDkdP6LcSJmy7z"
-    },
-    {
-      "added_at": "2026-09-18 04:00:29",
-      "album": {
         "name": "Spectral+",
         "url": "https://open.spotify.com/album/0lYhCTH3TK0vcnjrtuInc6"
       },
@@ -515,22 +667,6 @@
       "duration_ms": 196542,
       "name": "Sick again",
       "url": "https://open.spotify.com/track/6PJ9u82k284uF1rURQUgxU"
-    },
-    {
-      "added_at": "2026-09-11 04:01:59",
-      "album": {
-        "name": "Lucky[Hymn]",
-        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 228492,
-      "name": "Lucky[Hymn]",
-      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
     },
     {
       "added_at": "2026-09-11 04:01:59",
@@ -747,22 +883,6 @@
       "duration_ms": 160360,
       "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
       "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
-    },
-    {
-      "added_at": "2026-09-11 04:01:59",
-      "album": {
-        "name": "ANGEL / WALLS",
-        "url": "https://open.spotify.com/album/3qWcCk3BFYlnRk9evpr38j"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "ANGEL",
-      "url": "https://open.spotify.com/track/1Cr8nfjheWB9QuMzgkN0s6"
     },
     {
       "added_at": "2026-08-21 04:02:15",
@@ -1001,22 +1121,6 @@
       "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
     },
     {
-      "added_at": "2026-08-21 04:02:15",
-      "album": {
-        "name": "The Seams",
-        "url": "https://open.spotify.com/album/5i1STWes0AzzRgtk4K0Ydt"
-      },
-      "artists": [
-        {
-          "name": "James Ivy",
-          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
-        }
-      ],
-      "duration_ms": 316400,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/0v2AiyfpKx4qE0c0enlSl2"
-    },
-    {
       "added_at": "2026-08-28 04:02:33",
       "album": {
         "name": "Preacherman",
@@ -1039,38 +1143,6 @@
     {
       "added_at": "2026-08-21 04:02:15",
       "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "I Only Look to You",
-      "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
-    },
-    {
-      "added_at": "2026-08-21 04:02:15",
-      "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 161784,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI"
-    },
-    {
-      "added_at": "2026-08-21 04:02:15",
-      "album": {
         "name": "Alyse",
         "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
       },
@@ -1083,26 +1155,6 @@
       "duration_ms": 231477,
       "name": "Alyse",
       "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
-    },
-    {
-      "added_at": "2026-08-14 04:02:21",
-      "album": {
-        "name": "The World Keeps Spinning",
-        "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 135306,
-      "name": "The World Keeps Spinning",
-      "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
     },
     {
       "added_at": "2026-07-31 04:02:41",
@@ -1329,22 +1381,6 @@
       "url": "https://open.spotify.com/track/5m1V6BHPqQr9yNNoMfkdot"
     },
     {
-      "added_at": "2026-08-07 04:01:57",
-      "album": {
-        "name": "Sunshine / P4P",
-        "url": "https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 220044,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
-    },
-    {
       "added_at": "2026-07-24 04:02:24",
       "album": {
         "name": "Bond Girl",
@@ -1443,38 +1479,6 @@
       "duration_ms": 204988,
       "name": "ST CHARLES (feat. RITTYBO & Mikey Mu)",
       "url": "https://open.spotify.com/track/6cA6yE0p0Wg698e3dIpeSx"
-    },
-    {
-      "added_at": "2026-07-31 04:02:41",
-      "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/6xdHPBEPPhTI3BTPxAhRUQ"
-      },
-      "artists": [
-        {
-          "name": "D'Leesa",
-          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
-        }
-      ],
-      "duration_ms": 209535,
-      "name": "Healer",
-      "url": "https://open.spotify.com/track/3dyQvN3fiYktWEhQ7WavRn"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
-        "name": "Hell of a time",
-        "url": "https://open.spotify.com/album/5rfkiovkHkwCnIZ7q3GTkF"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 223658,
-      "name": "Hell of a time",
-      "url": "https://open.spotify.com/track/1mNyD4FwFJGIAxnnDpTBtp"
     },
     {
       "added_at": "2026-07-24 04:02:24",

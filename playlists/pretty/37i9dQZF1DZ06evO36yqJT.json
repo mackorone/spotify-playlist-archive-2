@@ -1,12 +1,12 @@
 {
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 6123,
+  "num_followers": 6122,
   "original_name": "This Is Shirley Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACEbej+BrBOHryBd72ZA0ja",
+  "snapshot_id": "ar2igAAAAABvpz8HN9En9Ph/w0odsx7i",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live... In Chicago",
+        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Yes Lord, Yes - Live",
+      "url": "https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 357600,
       "name": "Caught Up - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/6IUzYQEPdvnsKqEn3o64iJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live... In Chicago",
-        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "Yes Lord, Yes - Live",
-      "url": "https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB"
     },
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live... In Chicago",
+        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 521600,
+      "name": "Hold My Mule - Live",
+      "url": "https://open.spotify.com/track/0JjsI172ped2hF5v27o28J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 281573,
       "name": "911 - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/4z3IFdq3JshRr3NIeWCiJk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live... In Chicago",
-        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 521600,
-      "name": "Hold My Mule - Live",
-      "url": "https://open.spotify.com/track/0JjsI172ped2hF5v27o28J"
     },
     {
       "added_at": null,
@@ -351,6 +351,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fill This House",
+        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 299078,
+      "name": "Prayer Changes Things",
+      "url": "https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JEKALYN X THE LEGENDS",
         "url": "https://open.spotify.com/album/5lPKAJVygoWiOy33AZmvfj"
       },
@@ -379,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fill This House",
-        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
+        "name": "Sailin'",
+        "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
       },
       "artists": [
         {
@@ -388,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 299078,
-      "name": "Prayer Changes Things",
-      "url": "https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv"
+      "duration_ms": 249733,
+      "name": "Sailin' On the Sea of Your Love",
+      "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
     },
     {
       "added_at": null,
@@ -407,38 +439,6 @@
       "duration_ms": 200200,
       "name": "He's Got It All In Control",
       "url": "https://open.spotify.com/track/2q9iUw2ZI5krPylceEl9Bl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sailin'",
-        "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Sailin' On the Sea of Your Love",
-      "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
+        "name": "A Miracle In Harlem",
+        "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 400013,
-      "name": "When You Pray God Answers",
-      "url": "https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35"
+      "duration_ms": 401800,
+      "name": "How I Love Jesus",
+      "url": "https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live... In Chicago",
-        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
       },
       "artists": [
         {
@@ -648,25 +648,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 292706,
-      "name": "Peace In the Midst of the Storm - Live",
-      "url": "https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Miracle In Harlem",
-        "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 401800,
-      "name": "How I Love Jesus",
-      "url": "https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs"
+      "duration_ms": 400013,
+      "name": "When You Pray God Answers",
+      "url": "https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35"
     },
     {
       "added_at": null,
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Remember Mama",
-        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
+        "name": "Live... In Chicago",
+        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 291586,
-      "name": "Jesus Is Everywhere",
-      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
+      "duration_ms": 292706,
+      "name": "Peace In the Midst of the Storm - Live",
+      "url": "https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI"
     },
     {
       "added_at": null,
@@ -715,6 +699,38 @@
       "duration_ms": 178333,
       "name": "There Is Power in the Blood",
       "url": "https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Remember Mama",
+        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Jesus Is Everywhere",
+      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 232626,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 232626,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Can Make It",
         "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 355333,
       "name": "It's Under the Blood",
       "url": "https://open.spotify.com/track/6D9wJt6lfTdR4ZZjshFS9X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Gospel Classics",
-        "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 187695,
-      "name": "Teach Me Master",
-      "url": "https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 354040,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Gospel Classics",
+        "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 187695,
+      "name": "Teach Me Master",
+      "url": "https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG"
     },
     {
       "added_at": null,
@@ -843,42 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Gospel Explosion: Recorded Live",
-        "url": "https://open.spotify.com/album/2OFQFPtUzrUvsBYg3C2Q7I"
+        "name": "Fill This House",
+        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
       },
       "artists": [
         {
           "name": "Shirley Caesar",
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        },
-        {
-          "name": "Rev. Milton Brunson",
-          "url": "https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis"
-        },
-        {
-          "name": "The Thompson Community Singers",
-          "url": "https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI"
-        },
-        {
-          "name": "Mighty Clouds Of Joy",
-          "url": "https://open.spotify.com/artist/1i6bV1rRKRPTyssKZuLfwS"
-        },
-        {
-          "name": "Dr. Bobby Jones",
-          "url": "https://open.spotify.com/artist/170IwFb5hhPEvgwMDLBq6t"
-        },
-        {
-          "name": "New Life",
-          "url": "https://open.spotify.com/artist/4M0bqq6d5Pwx7KXCRrU1Qu"
         }
       ],
-      "duration_ms": 303626,
-      "name": "Sweeping Through the City (Live)",
-      "url": "https://open.spotify.com/track/1FFqxSXK9HOZuzLQrNrJmJ"
+      "duration_ms": 237280,
+      "name": "Sow Righteous Seeds",
+      "url": "https://open.spotify.com/track/50BFszWY6FXWYy1QheXecM"
     }
   ],
   "unique_name": "This Is Shirley Caesar",

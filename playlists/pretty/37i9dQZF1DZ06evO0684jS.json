@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 885814,
+  "num_followers": 885835,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arxRAAAAAACwSQWVDtn2wJAE8egC8CyY",
+  "snapshot_id": "ar2igAAAAAA5D0dreGLrMNTa2SrW2lKm",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Va Va Voom",
-      "url": "https://open.spotify.com/track/2jATUzETZL49e6SywauZKE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 199680,
       "name": "Turn Me On (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Va Va Voom",
+      "url": "https://open.spotify.com/track/2jATUzETZL49e6SywauZKE"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 235689,
-      "name": "Needle (feat. Drake)",
-      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Witness (Deluxe)",
         "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 242520,
       "name": "Swish Swish",
       "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
     },
     {
       "added_at": null,

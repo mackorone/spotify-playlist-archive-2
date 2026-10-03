@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: BAHA
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Gerald Situmorang
 
 [Spotify](https://open.spotify.com/user/spotify) - 113,597 likes - 105 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Roulette](https://open.spotify.com/track/5EccsQXg74abrFIhMw0ULS) | [BAHA](https://open.spotify.com/artist/7pMCmB0nZudHCcVLUJAdR8) | [Roulette](https://open.spotify.com/album/3WebCon4bK3hKKWSyXVEa5) | 3:27 |
-| 2 | [Opening a New Door](https://open.spotify.com/track/5iduUnGmdxM5g3GLBERtLp) | [Gerald Situmorang](https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW) | [Cercah](https://open.spotify.com/album/2MqllXClhlqm18tc9t0hjY) | 1:42 |
+| 1 | [Opening a New Door](https://open.spotify.com/track/5iduUnGmdxM5g3GLBERtLp) | [Gerald Situmorang](https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW) | [Cercah](https://open.spotify.com/album/2MqllXClhlqm18tc9t0hjY) | 1:42 |
+| 2 | [Roulette](https://open.spotify.com/track/5EccsQXg74abrFIhMw0ULS) | [BAHA](https://open.spotify.com/artist/7pMCmB0nZudHCcVLUJAdR8) | [Roulette](https://open.spotify.com/album/3WebCon4bK3hKKWSyXVEa5) | 3:27 |
 | 3 | [Maria](https://open.spotify.com/track/0c3SfEvaW19TjHr3fNWzz1) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Maria](https://open.spotify.com/album/6yeYVUHck7wnIQs5hBeiEm) | 3:08 |
 | 4 | [Eternal Glow](https://open.spotify.com/track/2Q7aVTspjoCKnjCcPolpdK) | [Monty Hasan](https://open.spotify.com/artist/5ynw9wf1cMhlwLkrHGI9A1), [Fathan Maulana](https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4), [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Eternal Glow](https://open.spotify.com/album/71UzcaEiWPG3eHkKM95B5q) | 5:26 |
 | 5 | [Bag's Theme](https://open.spotify.com/track/2UdPEqpMcvr2Z0PPsaYBPP) | [Gerald Situmorang](https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW) | [Bag's Theme](https://open.spotify.com/album/0nQU2tt98HRM1rGtmjSXKP) | 4:20 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 104 | [Cinta Dalam Diam](https://open.spotify.com/track/76npF4CedfcIz0p6YN8UAY) | [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd), [Nadine Emmanuella](https://open.spotify.com/artist/02nmmf0lZ42hJgaZpNo6oW) | [Cinta Dalam Diam](https://open.spotify.com/album/6JfU4yHFF4vl4L8JymLvOp) | 5:25 |
 | 105 | [Di Pusat Jakarta](https://open.spotify.com/track/4tPQOHV8XjjWWAs3h2rvmf) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/4xH2VwMdlg44P9P3qMnjjR) | 3:19 |
 
-Snapshot ID: `AAAAANrtixq0Dn/CkKvmXsM5j/CMeyhI`
+Snapshot ID: `AAAAAEqp0ROjX+S7QtjgTAqM0gdZkLuB`

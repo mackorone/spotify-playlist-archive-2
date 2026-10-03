@@ -4,7 +4,7 @@
 
 > Feid is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and subscribe to our substack!\)</a>
 
-3,002 songs - 6 day 17 hr 9 min
+3,002 songs - 6 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1159,7 +1159,7 @@
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-29 | 2023-03-25 |
 | [GLA](https://open.spotify.com/track/2KbPTTNKEYlOUmW34shHOW) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Hasta Que Salga el Sol](https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH) | 3:00 | 2025-02-06 | 2025-02-14 |
 | [Gladiador](https://open.spotify.com/track/2sY92LRATo3fwPzmDo0wwt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 3:07 | 2023-11-09 | 2023-12-14 |
-| [glock en el sobaco](https://open.spotify.com/track/1iZbhCq4qFLxXCu61Q3tZP) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN) | [glock en el sobaco](https://open.spotify.com/album/0pTqeUSA2oGBf3dYJrXP5c) | 2:44 | 2026-09-24 |  |
+| [glock en el sobaco](https://open.spotify.com/track/1iZbhCq4qFLxXCu61Q3tZP) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN) | [glock en el sobaco](https://open.spotify.com/album/0pTqeUSA2oGBf3dYJrXP5c) | 2:17 | 2026-09-24 |  |
 | [GODIVA](https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GODIVA](https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9) | 3:39 | 2024-03-21 | 2024-04-05 |
 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-05-17 | 2022-07-16 |
 | [Golfista](https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Golfista](https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH) | 2:38 | 2025-06-26 | 2025-07-04 |

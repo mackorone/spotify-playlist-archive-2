@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 56 | [Contra La Pared](https://open.spotify.com/track/1jqxPeziZWg2OTDqokJui1) | [Myriam](https://open.spotify.com/artist/4qa5jOQPzCpqmoAyJd3j9y) | [Cambio De Piel](https://open.spotify.com/album/02bSJLe3oBNGbQvkmjcHId) | 4:01 |
 | 57 | [Chispas De Cristal \- \(Sparks\)](https://open.spotify.com/track/5RNfTTqBM37GKCdY9nyH6Z) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Paulina Goto](https://open.spotify.com/album/0NhF58Y8SePmenXKvFgcBL) | 4:14 |
 | 58 | [Mi receta](https://open.spotify.com/track/7iTHVzUDh6eDInMCQhrWvk) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Sin Fronteras](https://open.spotify.com/album/5h5IodcqfIanu9o3Mt0oHf) | 3:18 |
-| 59 | [Amigos Con Derecho](https://open.spotify.com/track/2jrKLwp3PUvr3IsKvH5w2y) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:18 |
-| 60 | [Me Voy](https://open.spotify.com/track/2d7H0OUOqsZMyi8hJpkKfC) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Soy](https://open.spotify.com/album/7IIOcMIp2AYlxgJQ0Ql7YR) | 3:49 |
-| 61 | [Si Te Quieres Quedar](https://open.spotify.com/track/1pYIOnzAI58NMOIFbPqkoz) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:05 |
-| 62 | [Hazme Tuya](https://open.spotify.com/track/4G7wRyhsbCSgrALMbVEwNP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
-| 63 | [Se Parece Al Pai](https://open.spotify.com/track/5Vgs8VL8bmRxsHLPgXLN6V) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Parece Al Pai](https://open.spotify.com/album/5PF36AR7ijuX8dW2Zh2ibW) | 3:46 |
+| 59 | [Se Parece Al Pai](https://open.spotify.com/track/5Vgs8VL8bmRxsHLPgXLN6V) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Parece Al Pai](https://open.spotify.com/album/5PF36AR7ijuX8dW2Zh2ibW) | 3:46 |
+| 60 | [Amigos Con Derecho](https://open.spotify.com/track/2jrKLwp3PUvr3IsKvH5w2y) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:18 |
+| 61 | [Me Voy](https://open.spotify.com/track/2d7H0OUOqsZMyi8hJpkKfC) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Soy](https://open.spotify.com/album/7IIOcMIp2AYlxgJQ0Ql7YR) | 3:49 |
+| 62 | [Si Te Quieres Quedar](https://open.spotify.com/track/1pYIOnzAI58NMOIFbPqkoz) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:05 |
+| 63 | [Hazme Tuya](https://open.spotify.com/track/4G7wRyhsbCSgrALMbVEwNP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
 | 64 | [Arrebátate](https://open.spotify.com/track/1iBhYJjDcZGQLDb230wHY0) | [Charly Gitanos](https://open.spotify.com/artist/2qp47lfHVy80ot1ZMkeXBx) | [Arrebátate](https://open.spotify.com/album/3MLXDaXWUTYK5jM40IFYia) | 3:36 |
 | 65 | [La Mosquita Muerta](https://open.spotify.com/track/4c2zFtuFx2XeNLke7xFrgM) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:31 |
 | 66 | [La Ex](https://open.spotify.com/track/5Phi7N5n5Mgt8Uk4DbGKQX) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:52 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 150 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
 | 151 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `Acdz+gAAAABzn4FMb5MlsQKQgoqhEsNB`
+Snapshot ID: `Acd5mgAAAABQLm5roWZ0kGYIH8t7xOOf`

@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-197 songs - 11 hr 1 min
+198 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 | 2021-07-01 |  |
 | [Sandblast](https://open.spotify.com/track/2Tk7xzMFslWAoYS2e224Qv) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Shell Shock](https://open.spotify.com/album/3cHnaWENKeSULiRCGgDv26) | 5:27 | 2018-12-23 |  |
 | [Say So](https://open.spotify.com/track/25m1vyNFJY2MIQp2UZ9vYF) | [Carson Elliott](https://open.spotify.com/artist/0w1byBSCUhi07RM8jTwuDT), [Michael Schawel](https://open.spotify.com/artist/2ObGYWfbreeQPwmZ7gnzMB) | [Say So](https://open.spotify.com/album/6TryqIH4AojchA6T0YkGSg) | 3:07 | 2021-08-19 |  |
+| [Scream & Shout](https://open.spotify.com/track/4P3rzr8MvR6ezwvbRBFyJs) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [Scream & Shout](https://open.spotify.com/album/3iCMDqrSHzLdgaDUvN0DLo) | 2:40 | 2026-10-02 |  |
 | [She Wants Me Dead \- CAZZETTE vs\. AronChupa](https://open.spotify.com/track/2fn8m8nvi1zlGWTxfNaMgo) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [She Wants Me Dead \(CAZZETTE vs\. AronChupa ft\. The High\)](https://open.spotify.com/album/0dhE5GuW7A1LLOfni0cO64) | 3:23 | 2018-12-06 |  |
 | [Shockwave](https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 3:01 | 2022-07-29 |  |
 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 | 2020-06-10 |  |

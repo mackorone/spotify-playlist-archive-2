@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Budapest",
+        "url": "https://open.spotify.com/album/3aph79xUZfjSrDJIzzzD69"
+      },
+      "artists": [
+        {
+          "name": "Cloudsmiff",
+          "url": "https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127857,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/2t7VNXaBzGDNGwSEBOHuku"
+    },
+    {
+      "album": {
         "name": "California Dreamin' (Acoustic)",
         "url": "https://open.spotify.com/album/3ECsyggi4fbolrvkhydPAg"
       },
@@ -4482,6 +4500,24 @@
       "duration_ms": 165697,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
+    },
+    {
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/6PDNYQWnVHvoTlN7DJSTTg"
+      },
+      "artists": [
+        {
+          "name": "Emily Linge",
+          "url": "https://open.spotify.com/artist/1oHuewfSrJgCviOzYBcr5A"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164750,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/2aO14q5CTyZcmhOFfhKlrH"
     },
     {
       "album": {
