@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Hot songs for the hot summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,428 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,400 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: Hatsune Miku ©︎ CFM
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,305 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,314 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 89829,
+  "num_followers": 89942,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACd3tKNqwmtzfHSeczRbbf5",
+  "snapshot_id": "ar70AAAAAADz3eBqUashB+OhDqKsViK7",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chanel (feat. Asake)",
-        "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "Chanel (feat. Asake)",
-      "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eja Meja (feat. Asake)",
         "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 158108,
       "name": "Eja Meja (feat. Asake)",
       "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chanel (feat. Asake)",
+        "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "Chanel (feat. Asake)",
+      "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
     },
     {
       "added_at": null,
@@ -599,30 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Protect Sarz At All Costs",
-        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
       "artists": [
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         },
         {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
         }
       ],
-      "duration_ms": 148550,
-      "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
-      "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
+      "duration_ms": 226283,
+      "name": "2Factor",
+      "url": "https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2"
     },
     {
       "added_at": null,
@@ -647,26 +643,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+        "name": "Protect Sarz At All Costs",
+        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         },
         {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         },
         {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         }
       ],
-      "duration_ms": 226283,
-      "name": "2Factor",
-      "url": "https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2"
+      "duration_ms": 148550,
+      "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
+      "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
     },
     {
       "added_at": null,

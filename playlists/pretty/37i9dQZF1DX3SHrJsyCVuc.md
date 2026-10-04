@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Delivery
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,447 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,750 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

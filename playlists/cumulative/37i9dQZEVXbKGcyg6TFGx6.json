@@ -3851,6 +3851,24 @@
     },
     {
       "album": {
+        "name": "Amor e F\u00e9 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4CIryXJJ3KvTalvh2JdPzB"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6ZEKE3RR5EMhAMTJzjGOB6"
+    },
+    {
+      "album": {
         "name": "Amor En Ruinas",
         "url": "https://open.spotify.com/album/6sx8NrzVixSxwgaUGI92Wo"
       },
@@ -6020,7 +6038,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -6580,6 +6598,24 @@
       "duration_ms": 207403,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
+    },
+    {
+      "album": {
+        "name": "BADDIES IN BELGICA",
+        "url": "https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k"
+      },
+      "artists": [
+        {
+          "name": "Issah",
+          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125536,
+      "name": "BADDIES IN BELGICA",
+      "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
     },
     {
       "album": {
@@ -15790,7 +15826,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -19084,7 +19120,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -24596,7 +24632,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -28836,7 +28872,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -31660,6 +31696,24 @@
       "duration_ms": 148457,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/0b5IlL19ggq3jGsP8cAWvz"
+    },
+    {
+      "album": {
+        "name": "Isaltino",
+        "url": "https://open.spotify.com/album/5pAN7IqUrjblw2lq4nCBP0"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222257,
+      "name": "Isaltino",
+      "url": "https://open.spotify.com/track/50iakLZIlmMPjJlye2Fc84"
     },
     {
       "album": {
@@ -39950,7 +40004,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 239986,
       "name": "Me Gustas Tu",
       "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
@@ -42746,7 +42800,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
@@ -47808,7 +47862,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 134879,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/5AsJQeUs4lneEwc5eUhktg"
@@ -48150,7 +48204,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 172259,
       "name": "Paris",
       "url": "https://open.spotify.com/track/3kql0qldZ3x5qUxwmUgYGa"
@@ -55208,7 +55262,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 164892,
       "name": "Se Eu Te Perdoar - Ao Vivo",
       "url": "https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5"
@@ -59697,6 +59751,28 @@
     },
     {
       "album": {
+        "name": "Love & Tears",
+        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
+    },
+    {
+      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -60702,7 +60778,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -60720,7 +60796,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -61344,7 +61420,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ"
@@ -62558,7 +62634,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"

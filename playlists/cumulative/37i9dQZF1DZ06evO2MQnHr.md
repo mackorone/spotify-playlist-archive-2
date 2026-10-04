@@ -4,7 +4,7 @@
 
 > This is Madeline Merlo\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 21 min
+43 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Honey Jack](https://open.spotify.com/track/6xh9ldjY4JllfaguxDQqz5) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:08 | 2025-06-07 |  |
 | [How To Get The Girl](https://open.spotify.com/track/3JJ2CkNEBTYSLaefgOopB2) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [How To Get The Girl](https://open.spotify.com/album/4ihf3F6dsVhpOgGAm4QLlJ) | 3:22 | 2025-06-07 |  |
 | [I Need A Drink](https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:10 | 2025-06-07 |  |
+| [I Think You're In Love With Me](https://open.spotify.com/track/2F08tQVMVWZY4kFfCcANoX) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [I Think You're In Love With Me](https://open.spotify.com/album/2u3EqWV93xDtwTogBNAI4V) | 3:14 | 2026-10-04 |  |
 | [If You Never Broke My Heart](https://open.spotify.com/track/2olvBlWjNUYMx2oEMsjfmD) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [If You Never Broke My Heart](https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN) | 2:55 | 2025-06-07 |  |
 | [It Didn't](https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [It Didn't](https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd) | 2:58 | 2025-06-07 |  |
 | [Kiss Kiss](https://open.spotify.com/track/6qbJuNW2LYU1kYnzyyVBBn) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Kiss Kiss](https://open.spotify.com/album/0DVXGrjbjc0YSGbkh4g26Z) | 3:12 | 2025-06-07 |  |

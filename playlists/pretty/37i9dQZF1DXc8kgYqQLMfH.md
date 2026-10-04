@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,162 likes - 130 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,172 likes - 130 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 129 | [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 |
 | 130 | [Staring Out The Window](https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Staring Out The Window](https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR) | 2:18 |
 
-Snapshot ID: `AAAAAPagHW6ITFn4MFffGMWZnlhReY8E`
+Snapshot ID: `AAAAAASckDtRRS3PnrWZPEpfB41lyvUU`

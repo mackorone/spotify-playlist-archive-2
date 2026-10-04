@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,555,787 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556,111 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

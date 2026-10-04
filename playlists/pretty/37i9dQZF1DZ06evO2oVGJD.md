@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,376 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,445 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 26 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
 | 27 | [Mentira](https://open.spotify.com/track/6FWnydvF7AgcnrLzamaNx3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:42 |
 | 28 | [Tengo que regresar](https://open.spotify.com/track/17RGBYLFlyJzVPpgvgFW6j) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 3:24 |
-| 29 | [Desnudos](https://open.spotify.com/track/3yFUto83tuhUqsNsmGS6s3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns) | 3:17 |
-| 30 | [Regálame](https://open.spotify.com/track/2SEwhWIcGazGlCwNLKrfHQ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:08 |
+| 29 | [Regálame](https://open.spotify.com/track/2SEwhWIcGazGlCwNLKrfHQ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:08 |
+| 30 | [Desnudos](https://open.spotify.com/track/3yFUto83tuhUqsNsmGS6s3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns) | 3:17 |
 | 31 | [Regresando](https://open.spotify.com/track/5irLWAgnD8YXe3MdxI3jkx) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 2:55 |
 | 32 | [Tu Castigo](https://open.spotify.com/track/32csFAG5BL1HtQBm6Dypk1) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 2:52 |
 | 33 | [El tonto](https://open.spotify.com/track/3GhoJww5tERbpuFtysGhKI) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 49 | [Cobarde](https://open.spotify.com/track/6IWmc0xEesUHiuOvKGNEYX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 2:47 |
 | 50 | [Hasta el Final](https://open.spotify.com/track/2mlnu9FhO0TQDUc9hFKIMj) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 3:17 |
 
-Snapshot ID: `ar2igAAAAACT6iwSL6XMdrV5CNAupUry`
+Snapshot ID: `ar70AAAAAADqmzYtG/UxKLtYkRp2/pAx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,759 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,767 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 99 | [Level Up](https://open.spotify.com/track/4YF5L6U90H7bU7GQ25497z) | [Wabisabi](https://open.spotify.com/artist/5YII9GsBhqKzQgqLy3xDgA), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2), [Abhishek Dasgupta](https://open.spotify.com/artist/7gWcOkLaYH0PfJ8RBZeYmj), [Sanglap Sengupta](https://open.spotify.com/artist/2SmBVQOuykpq3Uz3AhMU0V), [Jairaj Joshi](https://open.spotify.com/artist/26c2bpTdcmjA3nYGzfgnif) | [Beginners Luck](https://open.spotify.com/album/4l6UFFoN4C7uixV6qFVuqz) | 2:58 |
 | 100 | [Suka \- Instrumental Version](https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 5:17 |
 
-Snapshot ID: `AAAAAPVfUwcMvwd/A5M+r1T6DXYIlM8K`
+Snapshot ID: `AAAAAKJ8WsDl8sQyekg2uGfmQL8B6qdL`

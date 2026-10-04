@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,856 likes - 150 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,881 likes - 150 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

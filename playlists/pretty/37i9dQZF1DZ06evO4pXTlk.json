@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACE/O8q4ryrMIrjb8jQyXNy",
+  "snapshot_id": "ar70AAAAAAC9g9YePzbY3hEVeEeZhQBk",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 167691,
-      "name": "Drag Me Out",
-      "url": "https://open.spotify.com/track/1mxA1LEz7XZ5IS78LBdWCJ"
+      "duration_ms": 122528,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 122528,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"
+      "duration_ms": 167691,
+      "name": "Drag Me Out",
+      "url": "https://open.spotify.com/track/1mxA1LEz7XZ5IS78LBdWCJ"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
       "duration_ms": 316893,
       "name": "Cool Ethan",
       "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 317573,
-      "name": "Hurt with Me",
-      "url": "https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk"
     }
   ],
   "unique_name": "This Is The XCERTS",

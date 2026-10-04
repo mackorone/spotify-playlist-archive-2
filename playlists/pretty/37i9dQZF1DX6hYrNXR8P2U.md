@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Chechi de Marcos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,618 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,603 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 
 > This is Every Time I Die\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,067 likes - 43 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,065 likes - 43 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 | 12 | [Planet Shit](https://open.spotify.com/track/7GLg6mpa868wvquWv4O3ja) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:56 |
 | 13 | [It Remembers](https://open.spotify.com/track/7prBRHezRILw1WbJJTQi2w) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 3:43 |
 | 14 | [Floater](https://open.spotify.com/track/6IQRkBJV3Qrd0gkCk3Y6JI) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:55 |
-| 15 | [Decayin' With The Boys](https://open.spotify.com/track/3Q3cy31OBjPkh2ABnHANtr) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 2:32 |
+| 15 | [INRIhab](https://open.spotify.com/track/6U6CQjaqOtYTLNDsnze4qO) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 4:04 |
 | 16 | [Hostile Architecture](https://open.spotify.com/track/0YQQn6gBg1qXABJR9bVBkD) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 2:36 |
 | 17 | [Glitches](https://open.spotify.com/track/0tb3aXvK8lHNJbMuTOnKya) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 2:45 |
-| 18 | [INRIhab](https://open.spotify.com/track/6U6CQjaqOtYTLNDsnze4qO) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 4:04 |
+| 18 | [Decayin' With The Boys](https://open.spotify.com/track/3Q3cy31OBjPkh2ABnHANtr) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 2:32 |
 | 19 | [Underwater Bimbos From Outer Space](https://open.spotify.com/track/2jBFDAmXYvioX2unGiQbtk) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 2:43 |
 | 20 | [All This And War](https://open.spotify.com/track/7jVIx7ZsUvKxtj5tetUf5R) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM), ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:10 |
-| 21 | [Apocalypse Now And Then](https://open.spotify.com/track/0wf2lzz8vlri3yU1QpgGzO) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:33 |
-| 22 | [C++ \(Love Will Get You Killed\)](https://open.spotify.com/track/2OXDvstZF7AI6XZwRfrIIg) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 2:46 |
+| 21 | [C++ \(Love Will Get You Killed\)](https://open.spotify.com/track/2OXDvstZF7AI6XZwRfrIIg) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 2:46 |
+| 22 | [Apocalypse Now And Then](https://open.spotify.com/track/0wf2lzz8vlri3yU1QpgGzO) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:33 |
 | 23 | [Off Broadway](https://open.spotify.com/track/6D8kUiY6MGiBXUIUkyknXw) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:28 |
 | 24 | [Thing With Feathers](https://open.spotify.com/track/4me59RjZINq8IDzrLrHaDE) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:38 |
 | 25 | [Cities And Years](https://open.spotify.com/track/04rAZqkDPyHoPFhvq5BAKY) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 2:56 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 | 34 | [Who Invited The Russian Soldier?](https://open.spotify.com/track/5bkveIBvVhbMNeqjhVmBJa) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:45 |
 | 35 | [Godspeed Us to Sea](https://open.spotify.com/track/6o3VSp7O542Le38TpHDQtg) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:32 |
 | 36 | [Bored Stiff](https://open.spotify.com/track/15Ui1PgTVpDqAu8W9fBvLk) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:18 |
-| 37 | [Pelican Of The Desert](https://open.spotify.com/track/7J7tAx9isUTVOD7Qs3FNJz) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 1:58 |
+| 37 | [Moor](https://open.spotify.com/track/1GhJWxdqTNlU6zrl1o1NXd) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 3:26 |
 | 38 | [Roman Holiday](https://open.spotify.com/track/7jbnEqoo02mfQZSMn1cOJg) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:59 |
 | 39 | [I Suck \(Blood\)](https://open.spotify.com/track/6PIltGJHvV1bfAwl4JhMk4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 2:55 |
 | 40 | [Easy Tiger](https://open.spotify.com/track/2MObD1EfIVb300KaYHrFyR) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 3:02 |
-| 41 | [Moor](https://open.spotify.com/track/1GhJWxdqTNlU6zrl1o1NXd) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 3:26 |
+| 41 | [Pelican Of The Desert](https://open.spotify.com/track/7J7tAx9isUTVOD7Qs3FNJz) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 1:58 |
 | 42 | [The Sweet Life](https://open.spotify.com/track/2tKSOEousfYFYCLJ2jfWgj) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:52 |
 | 43 | [Revival Mode](https://open.spotify.com/track/33Pr2Mpw6XoQ19zUEZHXfQ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 3:46 |
 
-Snapshot ID: `ar2igAAAAACOQYxZ1DQCvSqb3aUC85fd`
+Snapshot ID: `ar70AAAAAAAgQRmdS7bmueddjo1av0Rd`

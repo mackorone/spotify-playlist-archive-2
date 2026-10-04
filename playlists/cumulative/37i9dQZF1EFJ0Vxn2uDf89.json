@@ -1261,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "All American Zero",
+        "url": "https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h"
+      },
+      "artists": [
+        {
+          "name": "Joshua Speers",
+          "url": "https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183573,
+      "name": "Happens All The Time",
+      "url": "https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7"
+    },
+    {
+      "album": {
         "name": "hard pill to swallow",
         "url": "https://open.spotify.com/album/2Y0wGYccG6XJXrSwIMbkcO"
       },

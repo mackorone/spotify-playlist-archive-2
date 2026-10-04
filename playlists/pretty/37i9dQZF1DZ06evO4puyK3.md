@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,089 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,087 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 19 | [Coisa Boa](https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru) | 2:45 |
 | 20 | [5 Minutinhos \- Ao Vivo](https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:05 |
 | 21 | [LEILÃO](https://open.spotify.com/track/4k7mlEX9Nc3Ei0nFQ4cOE3) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:08 |
-| 22 | [MIL GRAU](https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:25 |
-| 23 | [1%](https://open.spotify.com/track/6QYmWKcEzwfcZ6zegbeIa4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [PUT@RIA & POE$IA \(mixtape\)](https://open.spotify.com/album/43T5mcn5KkRMK81HgYNfb7) | 2:51 |
+| 22 | [1%](https://open.spotify.com/track/6QYmWKcEzwfcZ6zegbeIa4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [PUT@RIA & POE$IA \(mixtape\)](https://open.spotify.com/album/43T5mcn5KkRMK81HgYNfb7) | 2:51 |
+| 23 | [MIL GRAU](https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:25 |
 | 24 | [Você Sempre Será / Não Dá Pra Resistir \- Ao Vivo](https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:55 |
 | 25 | [SOBREVIVI](https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:18 |
 | 26 | [Quem De Nós Dois / Encostar Na Tua \- Ao Vivo](https://open.spotify.com/track/1o7TjGkJHqFmnT9ZOQlDfp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 5:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 49 | [Capricórnio](https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Zodíaco](https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR) | 3:18 |
 | 50 | [Provocar](https://open.spotify.com/track/00op33CP1mD3I7U1NGfzaZ) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Chama A Lexa](https://open.spotify.com/album/1tOLPBLDxM18D5X3yDOF8S) | 2:48 |
 
-Snapshot ID: `ar2igAAAAABbpBdua45e0ywTA+1jGNB/`
+Snapshot ID: `ar70AAAAAADFo+eBCp+/89rUlKWz6ajt`

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: King Nassar
+> Dendang dangdut ngetop Tanah Air\. Cover: Maulana Ardiansyah
 
-310 songs - 1 day 0 hr 33 min
+311 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [SITI HAJAR](https://open.spotify.com/track/1XNtsuVvF5Dj9miieTVksP) | [Nini Carlina](https://open.spotify.com/artist/2CbHPvyFZ8DEWmUhFcpTvZ) | [SITI HAJAR](https://open.spotify.com/album/4By1G2fAJYqcKVWnIHOtj2) | 3:40 | 2025-12-19 |  |
 | [Suci \- Live At Ska Reggae](https://open.spotify.com/track/6FDjmD8pvkNPy5YBAy3tl9) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Suci \(Live At Ska Reggae\)](https://open.spotify.com/album/6dZ9I20Muk6DnDfVWHwNlI) | 5:38 | 2024-09-26 | 2024-10-18 |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2021-08-23 | 2024-02-09 |
+| [Suka Sama Kamu \- Ska Reggae Version](https://open.spotify.com/track/3H2gXdJ2YyNUDNaxxSdbmq) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Suka Sama Kamu \(Ska Reggae Version\)](https://open.spotify.com/album/3oxDk79cgjtSAQFtK0XNv7) | 3:08 | 2026-10-03 |  |
 | [Sumarak Hari Rayo](https://open.spotify.com/track/47bMTt9i80ItR2UDsfWNrU) | [Eja S.M](https://open.spotify.com/artist/35qFgLkoo69ZDtHOW6NmBZ), [Andri Dharma](https://open.spotify.com/artist/2x22lu9EfEDpUjwdh8dRfs) | [Sumarak Hari Rayo](https://open.spotify.com/album/2dfPLKieQj4NverYF57xBD) | 5:23 | 2025-03-27 | 2025-07-11 |
 | [Suratan](https://open.spotify.com/track/7rEx000N7r1YF095T1195J) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA), [Risa Amel](https://open.spotify.com/artist/6pqO787uECZjC2ZfLOi9QU) | [Suratan](https://open.spotify.com/album/3MaaepFhcUUuHPmSAq3IUD) | 5:10 | 2024-10-04 | 2025-12-19 |
 | [Surgaku](https://open.spotify.com/track/3IYqAgn7ENaDH9uTZGomQO) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Surgaku](https://open.spotify.com/album/4ItlHPYdgaJuYN5MD1tlm0) | 5:33 | 2023-03-30 | 2025-09-26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 30175,
+  "num_followers": 30174,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACVOz1nunwdaPFJj7zCrudq",
+  "snapshot_id": "ar70AAAAAADjXGcNDfIwJQpD5b6svtgb",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
-        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "6 Pieces for Piano, Vol. 2: No. 4, La Valse d'Am\u00e9lie",
-      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: Goldberg Variations (Extended Edt.)",
         "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 140040,
       "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
       "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
+        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "6 Pieces for Piano, Vol. 2: No. 4, La Valse d'Am\u00e9lie",
+      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns",
-        "url": "https://open.spotify.com/album/3923ndf9zKgvppYaawmuIO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 372653,
-      "name": "Pavane, Op. 50 (Version for Piano)",
-      "url": "https://open.spotify.com/track/349KIIngrzk0ObXRz3pqlG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
         "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
       },
@@ -719,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saint-Sa\u00ebns",
+        "url": "https://open.spotify.com/album/3923ndf9zKgvppYaawmuIO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 372653,
+      "name": "Pavane, Op. 50 (Version for Piano)",
+      "url": "https://open.spotify.com/track/349KIIngrzk0ObXRz3pqlG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Book 2",
         "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
       },
@@ -735,26 +735,6 @@
       "duration_ms": 170733,
       "name": "To Zanarkand (From \"Final Fantasy X\")",
       "url": "https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lang Lang: The Chopin Album",
-        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 366320,
-      "name": "Nocturne in E-Flat Major, Op. 55, No. 2",
-      "url": "https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
       "duration_ms": 174013,
       "name": "Intermezzo No. 1 in E Minor",
       "url": "https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lang Lang: The Chopin Album",
+        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 366320,
+      "name": "Nocturne in E-Flat Major, Op. 55, No. 2",
+      "url": "https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx"
     },
     {
       "added_at": null,
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 33453,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
-      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
+      "duration_ms": 31493,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 1",
+      "url": "https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 35826,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
-      "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Mozart Album",
         "url": "https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 592266,
       "name": "Piano Concerto No. 24 in C Minor, K. 491: III. Allegretto",
       "url": "https://open.spotify.com/track/7ymm83FDIZE8zVXffT9qa2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Tekla B\u0105darzewska-Baranowska",
+          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "The Maiden's Prayer, Op. 4",
+      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+        "name": "Lang Lang: The Chopin Album",
+        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 31493,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 1",
-      "url": "https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p"
+      "duration_ms": 130280,
+      "name": "Chopin: Minute Waltz",
+      "url": "https://open.spotify.com/track/5PJdoZiLVsMy4cfQjZfum6"
     }
   ],
   "unique_name": "This Is Lang Lang",

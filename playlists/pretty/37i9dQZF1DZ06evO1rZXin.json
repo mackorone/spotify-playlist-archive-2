@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABheeK2X6uwG8N7ILTXbYZd",
+  "snapshot_id": "ar70AAAAAABZmHSNXnfVx6/cFj1TlBTM",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Sierre\u00f1a",
-        "url": "https://open.spotify.com/album/2rr4e80bcGLcZvJq0ndGYP"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 160682,
-      "name": "Mi Sierre\u00f1a",
-      "url": "https://open.spotify.com/track/2hCQSPkhyxdLzIvJvgoBtx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La V\u00edbora Peligrosa",
         "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 149084,
       "name": "La V\u00edbora Peligrosa",
       "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Sierre\u00f1a",
+        "url": "https://open.spotify.com/album/2rr4e80bcGLcZvJq0ndGYP"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 160682,
+      "name": "Mi Sierre\u00f1a",
+      "url": "https://open.spotify.com/track/2hCQSPkhyxdLzIvJvgoBtx"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/46sEyNNh4luoWDdmXLGs2D"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Donde Andara",
-      "url": "https://open.spotify.com/track/7bnxXrGnSi5jJPNe3xnLGx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrando En Grande",
         "url": "https://open.spotify.com/album/0QreSIT65xmICsStYKQWbd"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 137000,
       "name": "Tu Eres",
       "url": "https://open.spotify.com/track/4CSjFJF3l1fBuza2sAe0yt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/46sEyNNh4luoWDdmXLGs2D"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Donde Andara",
+      "url": "https://open.spotify.com/track/7bnxXrGnSi5jJPNe3xnLGx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,453,258 likes - 43 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,453,359 likes - 43 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 13 | [Shy Away](https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:55 |
 | 14 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 15 | [My Blood](https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:49 |
-| 16 | [Tally](https://open.spotify.com/track/0DGf6s54MQ3Oht41mj6s6K) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:32 |
+| 16 | [Center Mass](https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:48 |
 | 17 | [Next Semester](https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:54 |
 | 18 | [Heavydirtysoul](https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
 | 19 | [Car Radio](https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:27 |
-| 20 | [Center Mass](https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:48 |
+| 20 | [Tally](https://open.spotify.com/track/0DGf6s54MQ3Oht41mj6s6K) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:32 |
 | 21 | [Midwest Indigo](https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:16 |
 | 22 | [Hometown](https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
 | 23 | [Nico and the Niners](https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:45 |
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 28 | [Drum Show](https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:23 |
 | 29 | [Vignette](https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 |
 | 30 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
-| 31 | [Holding on to You](https://open.spotify.com/track/3C3cr2JQwXIhqAHqOardVO) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:23 |
-| 32 | [The Outside](https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:36 |
+| 31 | [The Outside](https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:36 |
+| 32 | [Holding on to You](https://open.spotify.com/track/3C3cr2JQwXIhqAHqOardVO) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:23 |
 | 33 | [Level of Concern](https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Level of Concern](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY) | 3:40 |
 | 34 | [The Hype](https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 4:25 |
-| 35 | [Migraine](https://open.spotify.com/track/4rfaoyaZvNa60cj3OKSQV9) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 3:59 |
-| 36 | [Redecorate](https://open.spotify.com/track/2XPmTamsj7d9i3gzLCL4JI) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 4:05 |
+| 35 | [Redecorate](https://open.spotify.com/track/2XPmTamsj7d9i3gzLCL4JI) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 4:05 |
+| 36 | [Migraine](https://open.spotify.com/track/4rfaoyaZvNa60cj3OKSQV9) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 3:59 |
 | 37 | [Fall Away](https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa) | 3:02 |
 | 38 | [Morph](https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 4:18 |
-| 39 | [Guns for Hands](https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:33 |
-| 40 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 |
+| 39 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 |
+| 40 | [Guns for Hands](https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:33 |
 | 41 | [Nico/Heavydirtysoul \- Live in Mexico City](https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 7:02 |
-| 42 | [Fake You Out](https://open.spotify.com/track/3MLtopC0uho28PxZN7Zecy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 3:51 |
-| 43 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 |
+| 42 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 |
+| 43 | [Fake You Out](https://open.spotify.com/track/3MLtopC0uho28PxZN7Zecy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 3:51 |
 
-Snapshot ID: `ar2igAAAAAAbeOWl8t9TQVammOn3pubP`
+Snapshot ID: `ar70AAAAAACshiTF+ugeE/I2G745LNRn`

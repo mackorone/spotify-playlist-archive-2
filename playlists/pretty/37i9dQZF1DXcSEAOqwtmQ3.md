@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > The songs soundtracking the best years
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,679 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,744 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

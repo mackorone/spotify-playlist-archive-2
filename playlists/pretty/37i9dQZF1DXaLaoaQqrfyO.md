@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,249 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,262 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

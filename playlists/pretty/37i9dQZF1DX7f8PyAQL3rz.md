@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > os mlk a milhão do 013 ao 019
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,430,687 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,430,630 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

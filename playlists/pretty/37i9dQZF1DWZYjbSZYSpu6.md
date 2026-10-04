@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: YENA, NOWIMYOUNG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,386 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,411 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

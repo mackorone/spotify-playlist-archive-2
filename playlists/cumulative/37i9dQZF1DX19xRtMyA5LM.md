@@ -4,7 +4,7 @@
 
 > ❗️Nieuwe tracks: Frsh,  Jordymone9, Rijck, Leblanco en meer
 
-593 songs - 1 day 2 hr 41 min
+594 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [gaan](https://open.spotify.com/track/7cR4FKLz7tebhC0eMPSg9z) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 1:41 | 2026-02-05 | 2026-02-13 |
 | [GaGR \(feat\. DJEZJA, CANEY030\)](https://open.spotify.com/track/0rzZZR9pHlMHMHOntKX15Y) | [SOTT](https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [GaGR \(feat\. DJEZJA, CANEY030\)](https://open.spotify.com/album/3pqIkUKtTnZn4bY4jalGN2) | 2:15 | 2025-08-28 | 2025-09-16 |
 | [Gang](https://open.spotify.com/track/70AY6FZAJVYQdrZTIuo1zI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:00 | 2025-08-07 | 2025-09-05 |
-| [Gangster Ben](https://open.spotify.com/track/21179u71xPUY3RocZgjLmJ) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Gangster Ben](https://open.spotify.com/album/1us4CmQlZGL2QySScsrept) | 2:06 | 2026-09-24 |  |
+| [Gangster Ben](https://open.spotify.com/track/21179u71xPUY3RocZgjLmJ) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Gangster Ben](https://open.spotify.com/album/1us4CmQlZGL2QySScsrept) | 2:06 | 2026-09-24 | 2026-10-04 |
 | [Gebroken Harten](https://open.spotify.com/track/19Ua7zLOl1mSvYMgSYLGrd) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Gebroken Harten](https://open.spotify.com/album/67n04L5Nqzr1AyjBa5CE1z) | 2:31 | 2025-09-05 | 2025-10-31 |
 | [Gedragscode](https://open.spotify.com/track/4GQQmYZCovPDy2wUoFSBDh) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [Gedragscode](https://open.spotify.com/album/57V0X8vFiIQwe37Pxa9F9x) | 3:13 | 2025-07-17 | 2025-08-05 |
 | [Geen Draken](https://open.spotify.com/track/6kfeHDEdb9WZQ8XAks6m4X) | [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [Marrabeatsz](https://open.spotify.com/artist/2W0Q6w2WizYVCoKQGMjlm5) | [Geen Draken](https://open.spotify.com/album/3YSjOZgkPeWNZUZRO3NkCG) | 2:29 | 2026-02-12 | 2026-03-27 |
@@ -218,6 +218,7 @@
 | [Gun Me](https://open.spotify.com/track/4Aeb37AXzOxqP25gPREyQH) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY) | [Gun Me](https://open.spotify.com/album/4WMNReftTwjeDbLllr3ZXX) | 2:35 | 2026-08-27 |  |
 | [H!GHEST FLEX](https://open.spotify.com/track/6FqdmWhDVNNDfmtmCI3sFp) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Blow](https://open.spotify.com/artist/08tVNJseE5WyRIxjZA7KCW) | [H!GHEST FLEX](https://open.spotify.com/album/1ftpqyyglLvXtaEZpY8wEw) | 2:33 | 2026-05-21 | 2026-07-08 |
 | [Haast](https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE) | [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Haast](https://open.spotify.com/album/3LAzeYbgU0cZmh5WbNiZD5) | 3:05 | 2026-09-15 |  |
+| [HAC à DOS](https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU) | [247Loosey](https://open.spotify.com/artist/5MxaJCmQcD7J3leCOMgkvH) | [HAC à DOS](https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI) | 2:21 | 2026-10-03 |  |
 | [Halverwege](https://open.spotify.com/track/7KxHjOF8gA8GalwSCXVvlG) | [Kieks](https://open.spotify.com/artist/726JnbIAqlICv9oInzGQ1Q), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Halverwege](https://open.spotify.com/album/6QnV0OMemf0a9y2ifU4VoI) | 1:57 | 2025-11-03 | 2026-02-06 |
 | [HAMBURG](https://open.spotify.com/track/347skOF66jCKg8S8wVW84l) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [UCEF](https://open.spotify.com/artist/5NVwsxoeAOa9CCgOHhAri4) | [HAMBURG](https://open.spotify.com/album/2IUQNfJNA98xqs4hOhqxr3) | 2:58 | 2025-09-11 | 2025-09-19 |
 | [Handschoen](https://open.spotify.com/track/2nronHAna955wZyk3SuS7n) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Handschoen](https://open.spotify.com/album/5SFCedMDXmTcxkENcrl1iL) | 2:08 | 2026-10-01 |  |

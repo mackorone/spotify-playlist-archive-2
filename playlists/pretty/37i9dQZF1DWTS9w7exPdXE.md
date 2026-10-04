@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Nederpop en Volkspop meezingers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,691 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,778 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 99 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5) | 2:32 |
 | 100 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
 
-Snapshot ID: `AAAAANwrWX1dYM/XpSb1OsUx/zkhrCND`
+Snapshot ID: `AAAAAEPNtD6ElB4JJPzpHVO2V1/DjjGm`

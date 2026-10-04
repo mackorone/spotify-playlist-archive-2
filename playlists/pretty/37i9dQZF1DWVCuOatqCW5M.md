@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Salim\-Sulaiman, Darshan Raval, Monali Thakur and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,481 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,494 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

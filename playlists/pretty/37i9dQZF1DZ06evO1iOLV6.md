@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,922 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,928 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [In My Head](https://open.spotify.com/track/6YCDK0YJDwH0yAbY6dCAKc) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Living In Bondage: Breaking Free \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgSQ9eLiaPRTcChkR3FTj) | 3:16 |
 | 50 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
 
-Snapshot ID: `ar2igAAAAABa5drpZZm/agz72kHGT2Se`
+Snapshot ID: `ar70AAAAAAB/pm4yS3biO1tjVKKvGxv/`

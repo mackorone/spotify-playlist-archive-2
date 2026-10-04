@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-780 songs - 2 day 0 hr 33 min
+784 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Farmarock](https://open.spotify.com/track/3GbzPD6uyOqS8cP4GiqdjV) | [Mardita](https://open.spotify.com/artist/1QFIZ0lOZciTNlDBJcIdJc) | [Farmarock](https://open.spotify.com/album/5amwfzHfVIE8MgFKR0wW77) | 4:38 | 2026-09-06 | 2026-09-20 |
 | [Fastlane](https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Fastlane](https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH) | 3:18 | 2026-09-04 |  |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-03 | 2026-07-12 |
+| [Fields of Life](https://open.spotify.com/track/2ZKwoUgERG8768n6ZQ6V6w) | [William Drake](https://open.spotify.com/artist/3Y40ISCrUgYcnwGexhaGxu) | [Fields of Life](https://open.spotify.com/album/1kIcy1XnVk1yFQL7FJQUVM) | 2:26 | 2026-10-03 |  |
 | [Final Descent](https://open.spotify.com/track/0BLoSiH5Wzq5wT4gXWDDzI) | [KuF](https://open.spotify.com/artist/6qQu1ULU2QNlyWwZSoZnAj) | [Chapter 1](https://open.spotify.com/album/1oqKyK55DAyyTmCdwn37Lj) | 5:16 | 2026-05-28 | 2026-06-18 |
 | [Find My Way](https://open.spotify.com/track/7bBnQzXdNjsxqgf7FxP7bn) | [Tebtu](https://open.spotify.com/artist/4VVetWxuWhE6moggaKzJwB), [Tenet](https://open.spotify.com/artist/42zJQmRYrhAZQrpQL9ZVBn) | [Teb](https://open.spotify.com/album/7x4BJYFARd9zXvEA5h7ZiC) | 3:13 | 2026-05-09 | 2026-05-26 |
 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2025-11-25 | 2025-12-17 |
@@ -295,6 +296,7 @@
 | [Her inne er det varmt](https://open.spotify.com/track/1V90d44Q6zjSn5EhbJdT1O) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Bilder i mitt hode](https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX) | 3:39 | 2025-12-02 | 2025-12-17 |
 | [High Above It All](https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:56 | 2025-11-14 | 2025-12-17 |
 | [High and Dry](https://open.spotify.com/track/3XaoMnrPzZUvkI9KBAILE2) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 3:30 | 2026-04-02 | 2026-04-21 |
+| [Highway Cricket](https://open.spotify.com/track/16ArNql4lUmXSGsD0GeEbW) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 4:11 | 2026-10-03 |  |
 | [Hilang](https://open.spotify.com/track/566IzROY1CbEswbjNpuuoD) | [Satu](https://open.spotify.com/artist/3fMssBRfsHoa6nskqry2mI) | [Persembahan](https://open.spotify.com/album/6RTcLu0zcvBPaVViWgiaMD) | 4:26 | 2025-10-30 | 2025-12-17 |
 | [Hit](https://open.spotify.com/track/6D5ZchK6XrGfxxDILqd0OY) | [SrJ Is DeD](https://open.spotify.com/artist/2B8qfVKrS25pCuOuXpLV1U) | [Flow.](https://open.spotify.com/album/2NnuwWtt2lutd9kxd7vetS) | 1:51 | 2026-05-27 | 2026-06-18 |
 | [Hit On Me](https://open.spotify.com/track/0gBFxAmc8lHJGVxN5Mafap) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Hit On Me](https://open.spotify.com/album/7qIb2jsBx3hY7faFbZXwas) | 3:27 | 2026-08-14 |  |
@@ -469,6 +471,7 @@
 | [No Ordinary Day](https://open.spotify.com/track/27geQw8zbmU6Pg05iH7gVC) | [Jangle Wave](https://open.spotify.com/artist/46IbeWIF6yDPAZ1Me3Mrqv) | [No Ordinary Day](https://open.spotify.com/album/5xdC1rdrByViisqOZnte4i) | 3:04 | 2026-09-08 | 2026-09-20 |
 | [No pierdas la fe](https://open.spotify.com/track/21khIKflv727TWXrdzMDTR) | [Mentes Extrañas](https://open.spotify.com/artist/5zs9HS2LJT78BM3fk60mCM) | [No pierdas la fe](https://open.spotify.com/album/59KTNRoVmONWQzzMAt1ndm) | 4:52 | 2025-09-29 | 2025-12-17 |
 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 | 2026-09-07 | 2026-09-20 |
+| [No Quit Son](https://open.spotify.com/track/0w6hPcUBWSsKHb8W9RAaWZ) | [John DeRosa](https://open.spotify.com/artist/1tnHPbA944rAQOgmtz4Mmt) | [No Quit Son](https://open.spotify.com/album/64yremFOO5v7Gtp2JE34wk) | 4:20 | 2026-10-03 |  |
 | [No Time for Time](https://open.spotify.com/track/4XESNRQzbdf03VrqVlIxnG) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [No Time for Time](https://open.spotify.com/album/4SA2hbZm7r4poKfHHhraP3) | 5:54 | 2026-03-22 | 2026-04-21 |
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-11-12 | 2025-12-17 |
 | [NOW AND THEN](https://open.spotify.com/track/0AXW91Bnp70uE8O0wyeqGk) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [NOW AND THEN](https://open.spotify.com/album/51igHu0IiPb0HIWutsqHzX) | 2:42 | 2026-06-29 | 2026-07-12 |
@@ -784,6 +787,7 @@
 | [You’re never been my mistake](https://open.spotify.com/track/1cjyeqZEhUC8u4pwoe9MIS) | [John Elburg](https://open.spotify.com/artist/1hwt8ZrBctVjNcp8jYDExX) | [The world of Blues](https://open.spotify.com/album/2zUP0v3nY4BidvDuTH9F9Y) | 3:29 | 2025-11-08 | 2025-12-17 |
 | [Zäme](https://open.spotify.com/track/3138PLDl4FJywh7QfQDy4K) | [Plouderi](https://open.spotify.com/artist/2cxFZYsHbjN2abjxd4ACv8) | [Putzt u Gschträut](https://open.spotify.com/album/3xqW0lJECZbCk6Jdu4rLgw) | 3:35 | 2026-08-04 | 2026-08-15 |
 | [État des lieux](https://open.spotify.com/track/1GQAQBdQoRuOtkFpdQwE7f) | [JESS ROGUE](https://open.spotify.com/artist/0OEZOb0EuhFa48QMKCvwYD) | [État des lieux](https://open.spotify.com/album/0n7aScRjf9Mja14dpTQBM4) | 3:34 | 2026-04-06 | 2026-04-21 |
+| [біли троянди](https://open.spotify.com/track/3V6RRSOeREtm9aZBFSdLyH) | [Gigakript](https://open.spotify.com/artist/4HSmSVozX7LDAlWRpfqL8T) | [Тільки Рок](https://open.spotify.com/album/3gWo1Y2sznqFno2yJobq7q) | 4:57 | 2026-10-03 |  |
 | [Золотом](https://open.spotify.com/track/5WvI8UliUjXmDLudsTwxlN) | [Маша Яблокова](https://open.spotify.com/artist/4sB4FO6pJwDMBwRJC8ntrq) | [Золотом](https://open.spotify.com/album/0Yc22TF8FZ8r8IqtG98LRM) | 3:53 | 2026-04-06 | 2026-04-21 |
 | [Магеллани](https://open.spotify.com/track/0vzLHz2n2BNjmO8LYQqmdL) | [Ретровай](https://open.spotify.com/artist/1CtJwth1WytrNQOo5DItA1) | [Магеллани](https://open.spotify.com/album/7djdPXZ65EKCdl1r1idR3a) | 2:15 | 2025-09-28 | 2025-12-17 |
 | [Чёрный корвет](https://open.spotify.com/track/5o0IWfBaNiVpiA9NGdxkq7) | [Aleks Qt](https://open.spotify.com/artist/29OA00wnsr71wqUiL3dzD1) | [Чёрный корвет](https://open.spotify.com/album/1k4vR9gRobAO2Cofs6mvDQ) | 3:38 | 2026-03-03 | 2026-03-18 |

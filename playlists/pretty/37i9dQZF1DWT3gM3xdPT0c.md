@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,684 likes - 101 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,733 likes - 101 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

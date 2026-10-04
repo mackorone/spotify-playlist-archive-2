@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 206557,
+  "num_followers": 206578,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAVyWescHZGGRgn9MZAG5hi",
+  "snapshot_id": "ar70AAAAAADUS9+bG8PvSJJiHeiT8bMb",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 245564,
-      "name": "Shine Again",
-      "url": "https://open.spotify.com/track/2dxTgb1knMXCt0AzRnFR0C"
+      "duration_ms": 168186,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/29gJUkai1ShO9meBwYaMFF"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacific Daydream",
-        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SZNZ: Spring",
         "url": "https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 164492,
       "name": "A Little Bit of Love",
       "url": "https://open.spotify.com/track/0JW1mKemtn6krfNC2rXhec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
     }
   ],
   "unique_name": "This Is Weezer",

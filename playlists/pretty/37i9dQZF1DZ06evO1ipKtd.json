@@ -1,12 +1,12 @@
 {
   "description": "This is Nala Sinephro. The essential tracks, all in one playlist.",
-  "num_followers": 1266,
+  "num_followers": 1268,
   "original_name": "This Is Nala Sinephro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAByUoVzQd3S1hQVAqWN2brQ",
+  "snapshot_id": "ar70AAAAAACyE21Lg+5Gc//8UK4CHM9U",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 75000,
-      "name": "The High",
-      "url": "https://open.spotify.com/track/6v3dhvL7kU8wPd6HESPS35"
+      "duration_ms": 241691,
+      "name": "Grand Prix",
+      "url": "https://open.spotify.com/track/0MANz8JX5P50SdvkGWVVY6"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 241691,
-      "name": "Grand Prix",
-      "url": "https://open.spotify.com/track/0MANz8JX5P50SdvkGWVVY6"
+      "duration_ms": 75000,
+      "name": "The High",
+      "url": "https://open.spotify.com/track/6v3dhvL7kU8wPd6HESPS35"
     },
     {
       "added_at": null,

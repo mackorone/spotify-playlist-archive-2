@@ -4,7 +4,7 @@
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Ms\. Ambar
 
-753 songs - 1 day 16 hr 32 min
+754 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 | 2023-11-24 | 2025-09-27 |
 | [Aquí Te La Regreso](https://open.spotify.com/track/6B0mfRXoTzuCIiZzZToAmH) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Aquí Te La Regreso](https://open.spotify.com/album/2PctQn7lzhh3crnBLM5gxy) | 3:05 | 2022-04-01 | 2022-05-20 |
 | [Asi Hablamos en Tijuana](https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Hablamos en Tijuana](https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z) | 2:47 | 2024-08-30 | 2025-10-25 |
+| [Así No Te Amará Jamás](https://open.spotify.com/track/6JQiAiqMI22TjqnsOmLJO1) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Así No Te Amará Jamás](https://open.spotify.com/album/5lbxQ6h0XR6mJPLE3dPAfX) | 2:57 | 2026-10-03 |  |
 | [Así Nomás](https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Así Nomás](https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy) | 3:11 | 2023-03-03 | 2025-09-27 |
 | [Así Son Las Cosas](https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Son Las Cosas](https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv) | 2:51 | 2025-10-10 | 2026-04-18 |
 | [AUNQUE SEA EN DOS](https://open.spotify.com/track/0wCsiKqiUwa1BB2bIrTDTs) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [18](https://open.spotify.com/album/2qvKHTgVmbWmP4ofcZ9r2M) | 2:38 | 2026-02-13 | 2026-05-23 |
@@ -618,7 +619,7 @@
 | [Si Quieres Verme Llorar](https://open.spotify.com/track/1WwFVGis90deTHP0Vk5gSt) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Si Quieres Verme Llorar](https://open.spotify.com/album/7JlUqkt7kWeCT9B7YCxFsT) | 3:26 | 2022-04-01 | 2022-05-20 |
 | [Si Quieres Verme Llorar](https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 3:26 | 2023-03-03 | 2025-10-18 |
 | [Si Te Vas](https://open.spotify.com/track/3TdA1RbLEPsg3xYyUOy60b) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Te Vas](https://open.spotify.com/album/64CGI1Cz8ZRMZWsoY4iRrs) | 3:37 | 2025-10-10 | 2026-04-25 |
-| [SI TÚ ERES MI HOMBRE Y YO TU MUJER \- EN VIVO](https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP) | [Liz Ocampo](https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx) | [SI TÚ ERES MI HOMBRE Y YO TU MUJER \(EN VIVO\)](https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w) | 3:53 | 2025-12-12 |  |
+| [SI TÚ ERES MI HOMBRE Y YO TU MUJER \- EN VIVO](https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP) | [Liz Ocampo](https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx) | [SI TÚ ERES MI HOMBRE Y YO TU MUJER \(EN VIVO\)](https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w) | 3:53 | 2025-12-12 | 2026-10-04 |
 | [Si Tú No Vuelves](https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Si Tú No Vuelves](https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T) | 3:27 | 2025-02-14 | 2025-11-22 |
 | [Si Un Día Me Extrañas](https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Si Un Día Me Extrañas](https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd) | 3:26 | 2026-08-07 |  |
 | [Si Ya Te Valgo](https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Ya Te Valgo](https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r) | 2:29 | 2025-11-14 | 2026-01-17 |

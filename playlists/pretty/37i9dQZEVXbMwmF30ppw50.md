@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- United Kingdom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,674 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,687 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 | 49 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 50 | [drop dead](https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:44 |
 
-Snapshot ID: `MlMuiAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`

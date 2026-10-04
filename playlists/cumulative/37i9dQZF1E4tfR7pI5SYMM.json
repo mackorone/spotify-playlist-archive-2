@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Dogs, HAM, Autoimmune and more",
+  "description": "With The Dogs, The Charlie Marshall Effect, The Old and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "#StopPayola",
+        "url": "https://open.spotify.com/album/5nWbFmES8o4za0jBcMwmzv"
+      },
+      "artists": [
+        {
+          "name": "Ed Eagle",
+          "url": "https://open.spotify.com/artist/533zHq8CZyLs9n75vs82aO"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158311,
+      "name": "#StopPayola",
+      "url": "https://open.spotify.com/track/5FFYcyT1354rYzaQ064bW3"
+    },
     {
       "album": {
         "name": "My Queen, Turn Me Upside Down",
@@ -832,7 +850,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 232330,
       "name": "Badcats",
       "url": "https://open.spotify.com/track/5N5tWDAvXGRC8LYVQdALMJ"
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 215836,
       "name": "Battle Damaged",
       "url": "https://open.spotify.com/track/26XPlS6lDhvL6VAJBHXX1a"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 291000,
       "name": "Before the Night Falls",
       "url": "https://open.spotify.com/track/0MZeFizQUzec1aVACszRan"
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 216756,
       "name": "Carry The Light",
       "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
@@ -2674,6 +2692,24 @@
       "duration_ms": 208848,
       "name": "Commercializing The Mind",
       "url": "https://open.spotify.com/track/3dL6rAh8mzdu9cMfGyCKz2"
+    },
+    {
+      "album": {
+        "name": "Pale Ontology",
+        "url": "https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6"
+      },
+      "artists": [
+        {
+          "name": "Tom Markey",
+          "url": "https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201996,
+      "name": "Complaining",
+      "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
     },
     {
       "album": {
@@ -3644,7 +3680,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 208937,
       "name": "Do it again!",
       "url": "https://open.spotify.com/track/2PVUma5gqD6nYpw5qDC1lp"
@@ -5306,6 +5342,24 @@
       "duration_ms": 177257,
       "name": "Faszinosum Wahnsinn",
       "url": "https://open.spotify.com/track/0v1iD675UGFD45ZvF15QAH"
+    },
+    {
+      "album": {
+        "name": "Straight To The Head",
+        "url": "https://open.spotify.com/album/29TVX97T6qczH6zqYVaHQO"
+      },
+      "artists": [
+        {
+          "name": "Pistonhead",
+          "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299413,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/0CJ6PtUuOi6wUBWo6WDk27"
     },
     {
       "album": {
@@ -7326,7 +7380,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 189899,
       "name": "I wanna feel like an Animal",
       "url": "https://open.spotify.com/track/2pj1FkIeSO102FUof0vd7E"
@@ -8018,7 +8072,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 279933,
       "name": "Jorden",
       "url": "https://open.spotify.com/track/7t5iHxdeKcgXAQdoVWfXYE"
@@ -8174,7 +8228,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -8636,7 +8690,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 324026,
       "name": "Lechery Love",
       "url": "https://open.spotify.com/track/0pYrzlsgg0USecWtggHS6P"
@@ -8874,7 +8928,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 87251,
       "name": "Life In Prison",
       "url": "https://open.spotify.com/track/1fZgTjAaFx0KJRhbmtU09N"
@@ -9030,7 +9084,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -9712,6 +9766,24 @@
       "duration_ms": 272732,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3UOVbtjP7Sp5eB6N7Gi973"
+    },
+    {
+      "album": {
+        "name": "Matar o Morir",
+        "url": "https://open.spotify.com/album/7tlWDZRYAdCgI5yiNDUPxS"
+      },
+      "artists": [
+        {
+          "name": "Magma Soul",
+          "url": "https://open.spotify.com/artist/0jtk0tOoC60Kx8jD4AsFc9"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237230,
+      "name": "Matar o Morir",
+      "url": "https://open.spotify.com/track/7t6wuiOzgExcaKQGony9Yr"
     },
     {
       "album": {
@@ -10596,7 +10668,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -12372,7 +12444,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 177502,
       "name": "Pointless Paranoia - Remastered 2025",
       "url": "https://open.spotify.com/track/57aH8JoDiGALsR3bAsSK4m"
@@ -12720,7 +12792,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 204570,
       "name": "Reality Is a Failure",
       "url": "https://open.spotify.com/track/2A7KzW6tW0IIBBjlSWLDR7"
@@ -13747,6 +13819,24 @@
     },
     {
       "album": {
+        "name": "In the Shadow of the Mountain",
+        "url": "https://open.spotify.com/album/5qneeNSlHVrPUrqZXq8X8y"
+      },
+      "artists": [
+        {
+          "name": "Huston Sonhouse",
+          "url": "https://open.spotify.com/artist/52ijraAWkJRDLxiWOlQzgO"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220056,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/0zltRL9S9tsZmmfgUBCtex"
       },
@@ -14122,6 +14212,24 @@
       "duration_ms": 344139,
       "name": "Solitude/M\u00e4rk Hur V\u00e5r Skugga",
       "url": "https://open.spotify.com/track/5YRorSONmdeDIvCbcvwmhJ"
+    },
+    {
+      "album": {
+        "name": "Som en egen man",
+        "url": "https://open.spotify.com/album/1yaywXdhnBspAHDrEVAgkX"
+      },
+      "artists": [
+        {
+          "name": "Stockholm Kallar",
+          "url": "https://open.spotify.com/artist/30vCZYyz5It7r5ZFxS4oKd"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193304,
+      "name": "Som en egen man",
+      "url": "https://open.spotify.com/track/7xyQqrndudqpdan5PYfMgI"
     },
     {
       "album": {
@@ -15560,7 +15668,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -15668,7 +15776,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 155076,
       "name": "The Hair",
       "url": "https://open.spotify.com/track/3pIRroC5iuw3TvSlV7mqI8"
@@ -15816,7 +15924,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 236720,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/6sI6RJqMnlsepPvCJM1psf"
@@ -16398,7 +16506,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -17734,7 +17842,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 128600,
       "name": "Virus Potus",
       "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
@@ -18340,7 +18448,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 314080,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/04VFDLKIXpFYlFjlfihxYm"

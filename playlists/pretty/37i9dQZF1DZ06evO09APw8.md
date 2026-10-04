@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,236 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,248 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 30 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 31 | [5MoreMinutes](https://open.spotify.com/track/5mf4gJaGjD5VAjOHDOo3mU) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:10 |
 | 32 | [QVC \(feat\. Leon Thomas\)](https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 3:04 |
-| 33 | [New Flower! \(feat\. Leon Thomas\)](https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:28 |
-| 34 | [act xi: she ain’t no angel](https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:17 |
+| 33 | [act xi: she ain’t no angel](https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:17 |
+| 34 | [New Flower! \(feat\. Leon Thomas\)](https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:28 |
 | 35 | [Vibe With Me \(feat\. Leon Thomas\)](https://open.spotify.com/track/0zqtucceflE4DfNRFUkASn) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:51 |
 | 36 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 |
 | 37 | [Blessing](https://open.spotify.com/track/45zrnAiNUXD7MgDoKgfG8V) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 1:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 49 | [Song 2 You](https://open.spotify.com/track/75a84vtTxTdx8xhrlaV9S7) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Victorious \(Music from the TV Show "Victorious"\)](https://open.spotify.com/album/22s1H8POFPrbZW5uk9zuKV) | 3:39 |
 | 50 | [Run It Up \(feat\. Leon Thomas\)](https://open.spotify.com/track/6bJLLoNHb5PETQM2cfjzGW) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Documentary III](https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo) | 4:58 |
 
-Snapshot ID: `ar2igAAAAABCSehYGWL+i285rCustS75`
+Snapshot ID: `ar70AAAAAADthlbxylgFBKxngzsfKiUd`

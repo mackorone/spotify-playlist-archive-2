@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,996 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,015 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

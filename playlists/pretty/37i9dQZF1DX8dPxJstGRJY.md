@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,439 likes - 87 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,536 likes - 87 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

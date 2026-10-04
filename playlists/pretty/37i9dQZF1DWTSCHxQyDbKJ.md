@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: Jodie Harsh
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,956 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,955 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 96 | [The Two Houses \- House Mix](https://open.spotify.com/track/4bFl7sBTPMaHZY4TGwbWN1) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn) | [The Two Houses EP](https://open.spotify.com/album/69RSr2jx0v039aZys6NlyY) | 6:36 |
 | 97 | [Isn't he pretty](https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj) | [Aidan Jones](https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK) | [Isn't he pretty](https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF) | 2:55 |
 | 98 | [PUT 'EM UP!](https://open.spotify.com/track/0B0X9VBFQlgJ312D7AWHq5) | [Samsara](https://open.spotify.com/artist/0t0qF5jEfxbqD6rkeaoXdC) | [PUT 'EM UP!](https://open.spotify.com/album/0QWvSIobjVGRH2TYGNQpju) | 2:04 |
-| 99 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 |
-| 100 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 |
+| 99 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 |
+| 100 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 |
 
 Snapshot ID: `AAAAAC3pRWEUHiGTo4YFcEaZtyQ3mOTp`

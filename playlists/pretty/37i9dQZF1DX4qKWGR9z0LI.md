@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Un ícono que marcó la música para siempre, gracias Willie Colón\. 🕊️ Lo nuevo y lo mejor de la salsa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,853,536 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,853,542 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

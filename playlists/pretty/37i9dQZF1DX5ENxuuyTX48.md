@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > After all, we are all siblings\. Cover: Stevan Pasaribu, Andi Rianto
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,398 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,397 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

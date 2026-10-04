@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,536 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,543 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [甲乙丙丁Strangers](https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [甲乙丙丁Strangers](https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V) | 3:30 |
 | 2 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 |
-| 3 | [海屿你](https://open.spotify.com/track/3LZ9j8ja4j6ycSUpCA8fXX) | [马也\_Crabbit](https://open.spotify.com/artist/1V6Bl7Ny5loHozQUalAd6M) | [海屿你](https://open.spotify.com/album/7sOHzpvTYWolciF4QYAf7J) | 4:56 |
+| 3 | [海屿你](https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8) | [马也\_Crabbit](https://open.spotify.com/artist/1V6Bl7Ny5loHozQUalAd6M) | [海屿你](https://open.spotify.com/album/727oJmOO0Ph9lV82ozvQYA) | 4:55 |
 | 4 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
-| 5 | [I’m gonna TOESA](https://open.spotify.com/track/6BAnU4WVN9ArEfSi01JwhQ) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [What a Wonderful Life](https://open.spotify.com/album/6sqrtPnnIbWNxGQgqr8WHz) | 3:31 |
+| 5 | [I’m gonna TOESA \(feat\. Kian84\)](https://open.spotify.com/track/3Vqe75qMPQP62qE3zr9WLg) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [Kian84](https://open.spotify.com/artist/6k7QlVYJwMX0zFpjV467B0) | [What a Wonderful Life](https://open.spotify.com/album/67SjfNUpuN9TqanFth4ZRP) | 3:31 |
 | 6 | [不愛就不愛](https://open.spotify.com/track/3ZILOOFldKtW2C7sD3MYXi) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [當大人](https://open.spotify.com/album/3lqvMjKlg3nzO32DWGzwpV) | 3:14 |
 | 7 | [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 |
 | 8 | [若無你我欲去佗位](https://open.spotify.com/track/63uBr7KrsE4dUHCjFTzn3W) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [虛華的夢想是一支刀](https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT) | 3:39 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 25 | [閣愛妳一擺](https://open.spotify.com/track/4Zwn8WxD61diTwqv9hyTQA) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/1KaZUKYBcVHaxD3gd8N3M7) | 4:38 |
 | 26 | [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 |
 | 27 | [小半](https://open.spotify.com/track/3QxWTqyIT4O9bokIZlNDpo) | [陳粒](https://open.spotify.com/artist/3SyC3U06X0DjdWd2Jf6V8Q) | [小梦大半](https://open.spotify.com/album/7jXDJuL3KJ9N28rVjmuUrl) | 4:57 |
-| 28 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 |
+| 28 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 |
 | 29 | [離開的一路上](https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:14 |
-| 30 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 |
+| 30 | [晴天](https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v) | 4:29 |
 | 31 | [LEMONADE](https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/1GjT1mri5wvJAYZ3rnZamk) | 3:07 |
 | 32 | [hate that i made you love me](https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:17 |
 | 33 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 42 | [淚海](https://open.spotify.com/track/3NXr1tLoDTEjz5V13vbLXG) | [Valen Hsu](https://open.spotify.com/artist/0iW8EYj3iP2gpO5eU2Pvta) | [淚海](https://open.spotify.com/album/5wDKIJx2lZvU0sW6o4FumO) | 4:58 |
 | 43 | [REDRED](https://open.spotify.com/track/34YVCoqIm08nbsxFSPL0Uh) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN\_playextended](https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj) | 2:43 |
 | 44 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 |
-| 45 | [CHOOM](https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 2:58 |
+| 45 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
 | 46 | [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 |
 | 47 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 48 | [幸福在歌唱 \- 電影《陽光女子合唱團》幸福版主題曲](https://open.spotify.com/track/3VHi5bCUek6XdiDmqqrirs) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [幸福在歌唱 \(電影《陽光女子合唱團》幸福版主題曲\)](https://open.spotify.com/album/4NinJjUJ7jqP3zu2PSBovX) | 4:39 |
 | 49 | [Training Season](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:29 |
 | 50 | [雲](https://open.spotify.com/track/0cj6Wg1zGTTpbxXk4kcu9h) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:24 |
 
-Snapshot ID: `MlMuiAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`

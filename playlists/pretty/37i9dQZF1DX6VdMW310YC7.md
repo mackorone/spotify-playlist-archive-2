@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,017,715 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,017,759 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

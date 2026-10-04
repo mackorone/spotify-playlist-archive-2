@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Kapak: Mahmut Orhan, Francis Mercier
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,998 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,983 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

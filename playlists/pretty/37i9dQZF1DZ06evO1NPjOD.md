@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,121 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,125 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 33 | [Yung and Bhad \(feat\. City Girls\)](https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:50 |
 | 34 | [JT First Day Out](https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [JT First Day Out](https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx) | 3:07 |
 | 35 | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz) | [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB) | 3:23 |
-| 36 | [Period \(We Live\)](https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:34 |
-| 37 | [Work For It](https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:46 |
+| 36 | [Work For It](https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:46 |
+| 37 | [Period \(We Live\)](https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:34 |
 | 38 | [Piñata](https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Piñata](https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu) | 2:13 |
 | 39 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 |
 | 40 | [Panties An Bra](https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 1:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
 | 50 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
 
-Snapshot ID: `ar2igAAAAAArL22HM0Qd6xLxARpJ37Je`
+Snapshot ID: `ar70AAAAAAB+GJUp3aM6Nbw/L7bZwNA4`

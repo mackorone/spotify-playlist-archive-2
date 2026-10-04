@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: AZ Chike
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,873 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,874 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 24 | [No Brakes \(feat\. Drake\)](https://open.spotify.com/track/4kzHrtFZN81CuF0HHTiDyu) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The Documentary III](https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo) | 2:18 |
 | 25 | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/124asPU2FC370O180KQPQi) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y) | 3:23 |
 | 26 | [Reign](https://open.spotify.com/track/7yvzMIqwbGRMjqBriuUUmm) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Reign](https://open.spotify.com/album/0oKwuRs4cyd1fGcNSqMdb2) | 3:05 |
-| 27 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 27 | [Track \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Track \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 28 | [Yiccen](https://open.spotify.com/track/3xSR1SmielI1yzhYh841wt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Yiccen](https://open.spotify.com/album/5hHk1Fnk1AldOTXpcvw7Kh) | 2:18 |
 | 29 | [TIKI TIKI \- Remix](https://open.spotify.com/track/0wNSrdLKeRHt6ypFNNFFYH) | [SUZANA](https://open.spotify.com/artist/6hOjLMwFsfiJz0ucFsDIbz), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL), [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [TIKI TIKI \(Remix\)](https://open.spotify.com/album/55CEYcNtUxFO5wvJNBQdt3) | 2:47 |
 | 30 | [Cougar](https://open.spotify.com/track/5sjLdXFASzAqUExcRMTDOf) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Last Night Out](https://open.spotify.com/album/4wQrmkNmT0oMOYW3zikYNl) | 3:42 |

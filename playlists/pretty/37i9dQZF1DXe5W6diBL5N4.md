@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ALLDAY PROJECT\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,810 likes - 124 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,850 likes - 124 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 20 | [How to be Happy](https://open.spotify.com/track/4EPzFcOtOEWIGNJU4lrSUE) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Say, Love](https://open.spotify.com/album/05QNfGsKrTYFXmfg4UrCVC) | 4:03 |
 | 21 | [SUPERDRY](https://open.spotify.com/track/0hflsM22PAKRNKIjw6fyUM) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [SUPERDRY](https://open.spotify.com/album/2uuomAXvY9Qz4C4QD3016j) | 2:28 |
 | 22 | [VOODOO DOLL](https://open.spotify.com/track/2z8YSjAp3Y7QwKUP5IhqlA) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [VOODOO DOLL](https://open.spotify.com/album/1VX9QyM1VF5Bfh7wP2ZjiG) | 2:35 |
-| 23 | [Butterfly](https://open.spotify.com/track/5KMGLlmGWDTZj1r5tCMb7h) | [hamo](https://open.spotify.com/artist/7bQHemX2QBqGaERdrfraNW), [린린](https://open.spotify.com/artist/7bGYQE0tdsbiATfzFPhcXR) | [Butterfly](https://open.spotify.com/album/0ZnYipd9IjKIckywZXt0Lb) | 4:05 |
+| 23 | [Butterfly](https://open.spotify.com/track/5KMGLlmGWDTZj1r5tCMb7h) | [hamo](https://open.spotify.com/artist/7bQHemX2QBqGaERdrfraNW), [Lean Lean](https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb) | [Butterfly](https://open.spotify.com/album/0ZnYipd9IjKIckywZXt0Lb) | 4:05 |
 | 24 | [Mind Games](https://open.spotify.com/track/6jfcV1pt8U42HYLE6yyjHv) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Mind Games](https://open.spotify.com/album/2Gx2cJXh3NKJ92F9tOoI3s) | 2:19 |
 | 25 | [MERO MERO](https://open.spotify.com/track/5IiGjNc2ZDBZRSDGNC0IpM) | [chicken97](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4), [B\-HOPE](https://open.spotify.com/artist/2DrJyEd5VAs7ypioxiNfTC) | [MERO MERO](https://open.spotify.com/album/4eUMCZMziIoYehEUvv7xJD) | 2:41 |
 | 26 | [ANIMAL](https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME: DELUXE](https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq) | 2:26 |

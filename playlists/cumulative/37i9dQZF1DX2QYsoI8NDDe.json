@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s",
+        "url": "https://open.spotify.com/album/5lbxQ6h0XR6mJPLE3dPAfX"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177738,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s",
+      "url": "https://open.spotify.com/track/6JQiAiqMI22TjqnsOmLJO1"
+    },
+    {
+      "album": {
         "name": "As\u00ed Nom\u00e1s",
         "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
       },
@@ -11564,7 +11582,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 233898,
       "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
       "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"

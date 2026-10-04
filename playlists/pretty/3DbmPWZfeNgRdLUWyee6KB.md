@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 102 songs - 5 hr 56 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 110 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 63 | [Unwanted Love](https://open.spotify.com/track/6zjeAfixgsdpyn8z4GwUJF) | [Anaielle](https://open.spotify.com/artist/2pxaL2um4YYHfm10V3frfo) | [Unwanted Love](https://open.spotify.com/album/2gqCvEEuD4E8Ncjl5oh8YE) | 3:08 |
 | 64 | [Noche Triste](https://open.spotify.com/track/6Ul7SB8W4juy2Cgn7xnYuZ) | [Odalce](https://open.spotify.com/artist/4vFuQsYj8PmqkumGxVCGDn) | [Noche Triste](https://open.spotify.com/album/7KWb2nFfOQId2beziTBEGv) | 2:54 |
 | 65 | [Comete](https://open.spotify.com/track/1Q5ZUE9MhOFMizGRCPZa0W) | [Marla](https://open.spotify.com/artist/3OAwgEaLA6xFkdajJE55OU) | [Comete](https://open.spotify.com/album/7dgvwC29hQR4HV0uVA6Fi3) | 2:53 |
-| 66 | [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 |
+| 66 | [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [BONCHI](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 |
 | 67 | [i hate being alone](https://open.spotify.com/track/45WsdFznmx8wPk4wWtERhB) | [violet eve](https://open.spotify.com/artist/5JziLUitDN8xU6TufJEmhz) | [i hate being alone](https://open.spotify.com/album/0ZE8N57DOxyAX2VoHoG4fP) | 3:11 |
 | 68 | [Jeszcze pięć minut](https://open.spotify.com/track/2rBPOswB2YRW5cCFYuiOKL) | [JRS](https://open.spotify.com/artist/3VHgaSFcWYC4gXSFXhkNZe) | [Jeszcze pięć minut](https://open.spotify.com/album/0nnuClRdorPf2ChO0Rorms) | 2:25 |
 | 69 | [immer wenn du gehst](https://open.spotify.com/track/1rFssJrqxMfiYilthBxiSR) | [urbie](https://open.spotify.com/artist/3q6Roe8WuwjXajxaTkQLSB) | [immer wenn du gehst](https://open.spotify.com/album/5EeespcgHaVOsMNyN1ypqV) | 2:53 |
@@ -110,5 +110,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 100 | [Passenger Hookr](https://open.spotify.com/track/0OEqN4sr8rsroFnBGLysOc) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Passenger Hookr](https://open.spotify.com/album/0uQIglkhMcFeJo2CbCNTnX) | 2:16 |
 | 101 | [Lunes, atardecer](https://open.spotify.com/track/2EAm8MWjMfkJTDSMUViShv) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Lunes](https://open.spotify.com/album/3p1lsGdPkLGv6aSw9BS298) | 3:12 |
 | 102 | [Un'anima](https://open.spotify.com/track/3QOtvgnwYDw7aM9tjJTO1v) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Un'anima](https://open.spotify.com/album/59B8gGE2lecht7tVqGJZKi) | 3:23 |
+| 103 | [Narbe](https://open.spotify.com/track/4S4gzq1dQdCzPOtsHhQDR5) | [Jesse](https://open.spotify.com/artist/5nsgTvyEmAyvWJjmxprVt6) | [Narbe](https://open.spotify.com/album/6fYnHExIX2wmMhAUXORSne) | 3:14 |
+| 104 | [Grimace](https://open.spotify.com/track/3pFjbYvfUjlMUyJp0ZUujd) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Grimace](https://open.spotify.com/album/7tdnalF3opTyGCF1Uqp6UA) | 3:38 |
+| 105 | [OKAY](https://open.spotify.com/track/6UZ6IfbUuLVZVhMdafNxAo) | [Jeanyus](https://open.spotify.com/artist/3cZGZ6SK4dE3d7izErKdSv), [Parker67](https://open.spotify.com/artist/4NWoInJVAIy9Xp22FwSVSk) | [Friends With Giants: The Adventures Of Roswell Grey](https://open.spotify.com/album/3RKcF9fedAiDKlcXYCSbRA) | 2:16 |
+| 106 | [The Wind Blow](https://open.spotify.com/track/1iSVhHqkP04zVdwoZpBXwG) | [Kickoff Project](https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx) | [The Wind Blow](https://open.spotify.com/album/1gegqzEHnCsLHk6apvhRtp) | 3:22 |
+| 107 | [the art in leaving](https://open.spotify.com/track/0UhddfR6BBXfvMYBzzeMxB) | [SAFE](https://open.spotify.com/artist/6hwEh5i4PDGGXk1YeSgyOb) | [the art in leaving](https://open.spotify.com/album/6mosjdcUJDlUNZDSxNCxRu) | 3:07 |
+| 108 | [Tu mirada](https://open.spotify.com/track/6nQiWo06oUAeFwWBvsYh4v) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 3:46 |
+| 109 | [My Whispers](https://open.spotify.com/track/5KYALFk47cOC8Ha2C6MOSC) | [Angelo Ceriani Lofi Project](https://open.spotify.com/artist/0LC1JuXqN4iw9mouw8uak0) | [The Nymph's Vessel](https://open.spotify.com/album/6ADS7HvbQTiH8Qf7wMT8ub) | 2:38 |
+| 110 | [Perdere qualcosa](https://open.spotify.com/track/0uPO0ag7TLHpXKNlyBBcrU) | [Maurizio Ferrandini](https://open.spotify.com/artist/0LjzyJKPxYpkh3qMKwVI82) | [Perdere qualcosa](https://open.spotify.com/album/07wkQ8g9ELX9DtoBiqt1YS) | 3:57 |
 
-Snapshot ID: `AAAYgbNtLPOAXTQlgpKT7dDFJ2fhtsZV`
+Snapshot ID: `AAAYiTNkqkOYfM+RFedpz098WfF/mSOM`

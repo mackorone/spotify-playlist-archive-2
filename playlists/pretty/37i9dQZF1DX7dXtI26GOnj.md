@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino aqui! Ay ay ay 🔥  foto: Ricky Martin, PEDRO SAMPAIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,622 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,653 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

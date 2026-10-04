@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra & DesaKTa2
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,400 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,407 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Amor Prohibido](https://open.spotify.com/track/57cmoYjoSDFlLcXoEbKKl8) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Amor Prohibido](https://open.spotify.com/album/1JaN9qPAa5PqyfFyv1WCK0) | 2:48 |
 | 100 | [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 |
 
-Snapshot ID: `AAAAAAqwOnKkCUe+d++YvncQnwWJZCZG`
+Snapshot ID: `AAAAAHbbIi15DvEZ8jZG4XYgCN/FCuQv`

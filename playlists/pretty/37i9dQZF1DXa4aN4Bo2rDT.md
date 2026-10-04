@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4aN4Bo2rDT.md) - [plain]
 
 > A soothing selection of music from Pokémon Sleep! ©Pokémon/Nintendo/CR/GF
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,217 likes - 42 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,366 likes - 42 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

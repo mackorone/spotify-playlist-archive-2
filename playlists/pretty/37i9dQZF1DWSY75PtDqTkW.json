@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 119634,
+  "num_followers": 119655,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -3283,22 +3283,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Unplugged (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
       },
@@ -3315,18 +3299,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv"
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
       "artists": [
         {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 288333,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK"
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3343,6 +3327,22 @@
       "duration_ms": 256653,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3447,22 +3447,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Woodland - EP",
-        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Fickle Heart (Plus Two Bonus Cuts)",
         "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
       },
@@ -3475,6 +3459,22 @@
       "duration_ms": 240746,
       "name": "Driver's Seat",
       "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2024-11-13 17:10:11",

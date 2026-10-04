@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌳 cover: Kodaline
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,361 likes - 104 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,359 likes - 104 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

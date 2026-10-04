@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 599153,
+  "num_followers": 599189,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABDsCB+KAldRVwkGnciJ/kp",
+  "snapshot_id": "ar70AAAAAAB46GuAlHbgi+V7PQMRWI40",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 289996,
-      "name": "Waiting for That Day - Remastered",
-      "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 230893,
       "name": "Too Funky - Single Edit",
       "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 289996,
+      "name": "Waiting for That Day - Remastered",
+      "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 147482,
-      "name": "Waiting (Reprise) - Remastered",
-      "url": "https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe"
+      "duration_ms": 239174,
+      "name": "Mothers Pride - Remastered",
+      "url": "https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv"
     },
     {
       "added_at": null,
@@ -720,37 +720,25 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 239174,
-      "name": "Mothers Pride - Remastered",
-      "url": "https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv"
+      "duration_ms": 147482,
+      "name": "Waiting (Reprise) - Remastered",
+      "url": "https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
+        "name": "An Easier Affair",
+        "url": "https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk"
       },
       "artists": [
         {
-          "name": "Waze & Odyssey",
-          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
-        },
-        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Tommy Theo",
-          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
         }
       ],
-      "duration_ms": 186300,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+      "duration_ms": 277000,
+      "name": "An Easier Affair",
+      "url": "https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F"
     },
     {
       "added_at": null,
@@ -803,18 +791,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Easier Affair",
-        "url": "https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
       },
       "artists": [
         {
+          "name": "Waze & Odyssey",
+          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
+        },
+        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Tommy Theo",
+          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
         }
       ],
-      "duration_ms": 277000,
-      "name": "An Easier Affair",
-      "url": "https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F"
+      "duration_ms": 186300,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
     },
     {
       "added_at": null,

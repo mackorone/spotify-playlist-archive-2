@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,178 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,179 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 29 | [Vale a Pena ser Profeta \- Ao Vivo](https://open.spotify.com/track/59l48uLHMdZx6rn3v5UxFb) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/4bjlIPhOTlbPcpGzrQMOzb) | 6:47 |
 | 30 | [Tempo de Cura](https://open.spotify.com/track/7FHUxm8Tn3jtBQS6HolOzB) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5) | 6:15 |
 | 31 | [A Decisão](https://open.spotify.com/track/1EKklTvcb9oxWPGPnu2pFg) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 3: Tempo de Cura \(Ao Vivo\)](https://open.spotify.com/album/5hEw5M9FVnklQdrAZYFGlY) | 6:31 |
-| 32 | [No Meio de uma Tempestade](https://open.spotify.com/track/4l4xrva3pFiyH6cynaLTOR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 4:44 |
-| 33 | [Dá\-me Ouvidos](https://open.spotify.com/track/4H1pIlsAZkXIgyVZqIwfPI) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3) | 5:19 |
-| 34 | [Jesus, A Rocha Eterna \- Ao Vivo](https://open.spotify.com/track/1h01qVdXVFd4SZ95mcBD4v) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Alda Célia](https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Rastros de Amor \(Ao Vivo\)](https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS) | 3:47 |
-| 35 | [Senhor que Cura](https://open.spotify.com/track/2cTrP4nWWAj88wez4MoIq7) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pra Me Alegrar](https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1) | 5:06 |
-| 36 | [Teu Trabalho é Descansar em Mim](https://open.spotify.com/track/32gfLurcakWc6FxW4Lyqi0) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9) | 5:15 |
-| 37 | [Hoje Eu Só Quero Te Adorar \- Ao Vivo](https://open.spotify.com/track/6B3Kp4NeDUs5CHuzUNw7Nh) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/4bjlIPhOTlbPcpGzrQMOzb) | 6:09 |
-| 38 | [Imenso Amor](https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Imenso Amor](https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4) | 3:23 |
+| 32 | [Dá\-me Ouvidos](https://open.spotify.com/track/4H1pIlsAZkXIgyVZqIwfPI) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3) | 5:19 |
+| 33 | [Jesus, A Rocha Eterna \- Ao Vivo](https://open.spotify.com/track/1h01qVdXVFd4SZ95mcBD4v) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Alda Célia](https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Rastros de Amor \(Ao Vivo\)](https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS) | 3:47 |
+| 34 | [Teu Trabalho é Descansar em Mim](https://open.spotify.com/track/32gfLurcakWc6FxW4Lyqi0) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9) | 5:15 |
+| 35 | [No Meio de uma Tempestade](https://open.spotify.com/track/4l4xrva3pFiyH6cynaLTOR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 4:44 |
+| 36 | [Senhor que Cura](https://open.spotify.com/track/2cTrP4nWWAj88wez4MoIq7) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pra Me Alegrar](https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1) | 5:06 |
+| 37 | [Imenso Amor](https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Imenso Amor](https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4) | 3:23 |
+| 38 | [Hoje Eu Só Quero Te Adorar \- Ao Vivo](https://open.spotify.com/track/6B3Kp4NeDUs5CHuzUNw7Nh) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/4bjlIPhOTlbPcpGzrQMOzb) | 6:09 |
 | 39 | [Deus Conhece](https://open.spotify.com/track/3r6OuMyo56lwoRoK59zPLP) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Poder de Aliança](https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS) | 4:56 |
 | 40 | [Toma Teu Trono](https://open.spotify.com/track/4phyRpGHNe4TwEeJPUqxbd) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3) | 7:01 |
 | 41 | [Orar e Adorar \(feat\. David Quinlan\)](https://open.spotify.com/track/2AV118c3SJ5z2vLQYhYe0X) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5) | 6:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 49 | [Totalmente aos Teus Pés](https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 7 \- Filho do Homem](https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit) | 3:21 |
 | 50 | [Eu Te Escolhi](https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Poder de Aliança](https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS) | 8:16 |
 
-Snapshot ID: `ar2igAAAAAAfws//F43eulsx3VW16mh2`
+Snapshot ID: `ar70AAAAAADX4mAWCrxqXkUeCOz+b8bR`

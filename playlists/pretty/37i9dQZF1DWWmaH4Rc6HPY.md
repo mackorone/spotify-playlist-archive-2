@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Motel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,818 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,831 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 74 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
 | 75 | [Memoria Muscular \- Desde Abbey Road](https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [ESO Que Nos Trajo a Abbey Road](https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s) | 3:18 |
 
-Snapshot ID: `AAAAAIIoLgnvnGn2jznkuX2VKWDx+J+P`
+Snapshot ID: `AAAAAMTTFkw6BJWYOz+bfBqsXMeJXFJG`

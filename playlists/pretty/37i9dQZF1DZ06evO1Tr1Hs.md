@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,513 likes - 38 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,512 likes - 38 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 37 | [Lord Of Chaos](https://open.spotify.com/track/2Tif3Rjua8qfTCUFP6lFrV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:01 |
 | 38 | [margiela](https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [margiela](https://open.spotify.com/album/6lCILy46F44uFdrHCunZss) | 2:18 |
 
-Snapshot ID: `ar2igAAAAAA311cO2ECA8IjLe9W38Bx4`
+Snapshot ID: `ar70AAAAAADJpwS2Zx5VtZ0SewW1vLae`

@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 7052,
+  "num_followers": 7057,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAo++IBRyYU3iqKooD5zyog",
+  "snapshot_id": "ar70AAAAAACZj4VpfEwdS+XPpAxlAe23",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "A Promessa",
+      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 304473,
       "name": "Resist\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/0RwI9TJMTLIQLNSWBZ6Lff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "A Promessa",
-      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
     },
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 290040,
+      "name": "Nas M\u00e3os do Oleiro",
+      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 448926,
       "name": "Plano do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/7oe0KG1ZEDkoM9gKD05HxU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "Nas M\u00e3os do Oleiro",
-      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus de Obras Completas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 543627,
-      "name": "Eliseu - Ao Vivo",
-      "url": "https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Far\u00e1s Outra Vez",
         "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 246998,
       "name": "Far\u00e1s Outra Vez",
       "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 543627,
+      "name": "Eliseu - Ao Vivo",
+      "url": "https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM"
     },
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus de Obras Completas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 424985,
-      "name": "Cicatrizes - Ao Vivo",
-      "url": "https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presen\u00e7a",
         "url": "https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 356176,
       "name": "Presen\u00e7a",
       "url": "https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 424985,
+      "name": "Cicatrizes - Ao Vivo",
+      "url": "https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0"
     },
     {
       "added_at": null,
@@ -439,30 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus de Obras Completas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        },
-        {
-          "name": "Pablo Gabriel",
-          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
-        }
-      ],
-      "duration_ms": 349984,
-      "name": "Deus do Amanh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FEw9JQkDELlGDDwqqVYKG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Continua Sendo Bom (Ao Vivo)",
         "url": "https://open.spotify.com/album/73CHRIILjit70Dl9k1OIAq"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 454867,
       "name": "Ele Continua Sendo Bom - Ao Vivo",
       "url": "https://open.spotify.com/track/747qPyNXVeRyg3wsUhJau4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        },
+        {
+          "name": "Pablo Gabriel",
+          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
+        }
+      ],
+      "duration_ms": 349984,
+      "name": "Deus do Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FEw9JQkDELlGDDwqqVYKG"
     },
     {
       "added_at": null,

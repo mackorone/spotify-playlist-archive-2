@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,459 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,473 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 33 | [Buscábamos Lo Mismo](https://open.spotify.com/track/7AtzltjKi7N6ga5qSNUAXh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscábamos Lo Mismo](https://open.spotify.com/album/6sys2zlZ6to8LH8JKVqDfH) | 2:49 |
 | 34 | [No Puedo Olvidarla \- En Vivo](https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:46 |
 | 35 | [Yo Quisiera Entrar](https://open.spotify.com/track/5sbnGS8meG63nqxeihnAQv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 4:51 |
-| 36 | [Mi Complemento](https://open.spotify.com/track/53m15VomGDsuaV71S8gXD0) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mi Complemento](https://open.spotify.com/album/1boUaFfBiyugoYGOQIGsQi) | 2:54 |
-| 37 | [En Un Día Como Hoy](https://open.spotify.com/track/2hhv6z6A9H9QHjfB8o9OIi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:21 |
+| 36 | [En Un Día Como Hoy](https://open.spotify.com/track/2hhv6z6A9H9QHjfB8o9OIi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:21 |
+| 37 | [Mi Complemento](https://open.spotify.com/track/53m15VomGDsuaV71S8gXD0) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mi Complemento](https://open.spotify.com/album/1boUaFfBiyugoYGOQIGsQi) | 2:54 |
 | 38 | [La Careada](https://open.spotify.com/track/4Pd3xEDmWKuUGf0aa6nxeK) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Careada](https://open.spotify.com/album/3NIvjlWLDeJ5L2IXuMgnsZ) | 3:11 |
 | 39 | [El Rey De Corazones](https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:47 |
 | 40 | [No Comprendo](https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Aquí Sigues Tú](https://open.spotify.com/track/4JBVBolRrTPpRYjBGBaQot) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Aquí Sigues Tú](https://open.spotify.com/album/1NO5Jfuoe0b34Tszpk41wj) | 4:22 |
 | 50 | [El Karma](https://open.spotify.com/track/6e1Kq7zm6Tu4XZrSTGxgqt) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/2w5x87DU6Bzd3kLqwHjzd6) | 3:30 |
 
-Snapshot ID: `ar2igAAAAAAJXPtlmc/0oOshtt1Akmnz`
+Snapshot ID: `ar70AAAAAAA47JxmnIvVUfKBycJBOJjv`

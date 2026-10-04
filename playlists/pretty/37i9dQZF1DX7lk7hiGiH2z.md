@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,147 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,167 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Die Nase läuft](https://open.spotify.com/track/1CbOIRwnpmH5nIoe8ihk0d) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:57 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 
-Snapshot ID: `AAAAAPuMKT/tibc/eIqcVnoyAl1fsnKV`
+Snapshot ID: `AAAAAIaZ7S8dSYrz9MYu4ZEoQUQ2BRqQ`

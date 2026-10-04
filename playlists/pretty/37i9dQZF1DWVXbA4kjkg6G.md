@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,985 likes - 75 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,114 likes - 75 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

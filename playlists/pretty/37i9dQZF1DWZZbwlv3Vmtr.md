@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Instrumental beats to lock\-in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,379 likes - 200 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,476 likes - 200 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 199 | [Rain on Vinyl](https://open.spotify.com/track/269FwHXaSWfPZLGMJ6fux0) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Rain on Vinyl](https://open.spotify.com/album/1MPg9OIXF6SKgStSCf2ifp) | 2:11 |
 | 200 | [rivers ahead](https://open.spotify.com/track/1fuGjJuqIKHimlm4BDIj3W) | [general groove](https://open.spotify.com/artist/19CFTUceuR05zEVPmMa1Ld) | [rivers ahead](https://open.spotify.com/album/6SN5gOlh8wqucBApJ2yo8a) | 1:54 |
 
-Snapshot ID: `AAAAAA0ej4mDJhB2Fcpv+d14eqNL3Igq`
+Snapshot ID: `AAAAAIs3cMSThwsd5w2yRbMudtMST+gz`

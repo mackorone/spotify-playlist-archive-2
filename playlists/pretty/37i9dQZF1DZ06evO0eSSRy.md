@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 722 likes - 25 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,6 +32,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 22 | [Houses of American Style](https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:04 |
 | 23 | [7\-57](https://open.spotify.com/track/0mARjWxyuauPTUBC1G8s9f) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:00 |
 | 24 | [Mike + Susan](https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:01 |
-| 25 | [Adriatic](https://open.spotify.com/track/7aagL2vRScO72Jb7YNRixX) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 2:57 |
+| 25 | [Winona Ryder](https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 4:14 |
 
-Snapshot ID: `ar2igAAAAAA4obnNHdcJcdYCnlSa5vJk`
+Snapshot ID: `ar70AAAAAAAspAgGqEfLoT9lw3is42Yz`

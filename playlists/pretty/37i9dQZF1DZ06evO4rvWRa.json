@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1635848,
+  "num_followers": 1635878,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAADPiogESnfOvXT6ABQwIpk/",
+  "snapshot_id": "ar70AAAAAAD38Z4+AP3UZ/hdHFwam6bd",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walker Racing League",
-        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 136563,
-      "name": "Running Out Of Roses",
-      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walker Racing League",
+        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 136563,
+      "name": "Running Out Of Roses",
+      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
     },
     {
       "added_at": null,

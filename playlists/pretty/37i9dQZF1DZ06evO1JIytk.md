@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,669 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,671 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 18 | [Confessions of an Economic Hit Man \- Dirty Version](https://open.spotify.com/track/7b7RifetHxERla9vz3GATu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 2:43 |
 | 19 | [Brandenburg Gate](https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 3:30 |
 | 20 | [This Is the New Sound](https://open.spotify.com/track/2X4X9IT4ZxCzt4Nbb42xE3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j) | 2:45 |
-| 21 | [THE FIGHT OF OUR LIVES \(feat\. Tim McIlrath of Rise Against & Brian Baker of Bad Religion\)](https://open.spotify.com/track/2XbPlYHLrT4Pjn7J7nKs4O) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim McIlrath](https://open.spotify.com/artist/1ha9OccsctLTOMCFWTpC9Z), [Brian Baker](https://open.spotify.com/artist/6iIkHyTPwf0OrLGibZxT8Q) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 2:52 |
-| 22 | [Christian Nationalist](https://open.spotify.com/track/0yrCblXgIHbyMGySvvMuwV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:44 |
+| 21 | [Christian Nationalist](https://open.spotify.com/track/0yrCblXgIHbyMGySvvMuwV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:44 |
+| 22 | [THE FIGHT OF OUR LIVES \(feat\. Tim McIlrath of Rise Against & Brian Baker of Bad Religion\)](https://open.spotify.com/track/2XbPlYHLrT4Pjn7J7nKs4O) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim McIlrath](https://open.spotify.com/artist/1ha9OccsctLTOMCFWTpC9Z), [Brian Baker](https://open.spotify.com/artist/6iIkHyTPwf0OrLGibZxT8Q) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 2:52 |
 | 23 | [Hymn For The Dead](https://open.spotify.com/track/01iUSHBgeMR1Zz23XTZzwX) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:39 |
 | 24 | [Fuck Police Brutality](https://open.spotify.com/track/7znoroIV2dSMcjpv7ZxnLh) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:20 |
 | 25 | [The Economy is Suffering...Let It Die](https://open.spotify.com/track/517pxni9CL4zU8Lb0JzrQ7) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu) | 3:36 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 39 | [The Neoliberal Anthem](https://open.spotify.com/track/0ujgWDkEJaJRSY6nzOGTqF) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j) | 3:17 |
 | 40 | [It Went Off Like A Bomb](https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:23 |
 | 41 | [Sodom, Gomorrah, Washington D.C\. \(Sheep in Shepherds Clothing\)](https://open.spotify.com/track/2chElQHFe6YyegzUbFBd1Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu) | 2:50 |
-| 42 | [Finish What We Started](https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:49 |
-| 43 | [Underground Network](https://open.spotify.com/track/5WTxwhu0cDbXi7IlP30OFK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 4:03 |
+| 42 | [Underground Network](https://open.spotify.com/track/5WTxwhu0cDbXi7IlP30OFK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 4:03 |
+| 43 | [Finish What We Started](https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:49 |
 | 44 | [Red, White & Brainwashed](https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:51 |
 | 45 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 4:40 |
-| 46 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 |
-| 47 | [Bring Out Your Dead](https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 2:14 |
+| 46 | [Bring Out Your Dead](https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 2:14 |
+| 47 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 |
 | 48 | [You Make Me Sick](https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 3:01 |
 | 49 | [Kill the Rich \(Re\-Recorded\)](https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Cease Fires](https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA) | 2:59 |
 | 50 | [Rotten Future](https://open.spotify.com/track/77QXaDMVbxeLA9PpfqHmHs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:58 |
 
-Snapshot ID: `ar2igAAAAAANgdBd+aMMAXmZpumyxraX`
+Snapshot ID: `ar70AAAAAABjkCIed8CRuREXiXxavUsz`

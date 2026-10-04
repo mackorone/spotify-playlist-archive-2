@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-173 songs - 10 hr 35 min
+174 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Só um Tempo](https://open.spotify.com/track/6WxGNpMXhi5gNL2d1Kajss) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 3:44 | 2024-09-13 | 2025-11-20 |
 | [Só um Tempo](https://open.spotify.com/track/7BCjDIt35oEvhueyt6W26C) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Topo da Minha Cabeça](https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C) | 3:44 | 2025-11-20 | 2026-04-17 |
 | [Só um Tempo](https://open.spotify.com/track/65rmbJVvTil9exNJqloMPQ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Topo da Minha Cabeça](https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC) | 3:44 | 2026-04-17 | 2026-08-25 |
+| [TARA](https://open.spotify.com/track/31UpjqpgCw9EyexkTMkeDC) | [Douglas Bastos](https://open.spotify.com/artist/4o7zEsCdVDbEbIhnubiH5y), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [TARA](https://open.spotify.com/album/4sbqzspvKJPwW9rUe1EXZg) | 6:39 | 2026-10-04 |  |
 | [Topo da Minha Cabeça](https://open.spotify.com/track/1DAS8arlHh6lcKRMehzOAy) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC) | 4:12 | 2026-04-16 |  |
 | [Topo da Minha Cabeça](https://open.spotify.com/track/3uz8LBicFuK4X6tBx5lKXP) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C) | 4:12 | 2025-11-20 | 2026-04-16 |
 | [Topo da Minha Cabeça](https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:12 | 2024-09-11 | 2025-11-20 |

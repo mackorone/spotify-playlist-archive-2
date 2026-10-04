@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Jovonta Patton
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,752 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,785 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

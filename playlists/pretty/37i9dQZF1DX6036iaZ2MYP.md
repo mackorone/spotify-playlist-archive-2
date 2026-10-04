@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,871 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,929 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

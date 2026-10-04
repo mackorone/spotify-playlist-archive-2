@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Tml Vibez
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,229 likes - 125 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,355 likes - 125 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- El Salvador.
 
-1,487 songs - 3 day 12 hr 1 min
+1,488 songs - 3 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [EN LA ORILLA](https://open.spotify.com/track/3WdR6kP1JJm2kDLaL6nAyH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:55 | 2022-11-05 | 2022-11-07 |
 | [EN PR NO HACE FRÍO](https://open.spotify.com/track/5p5uABIXqSPdQ1vMz4bwAu) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 3:01 | 2024-05-18 | 2024-05-20 |
 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 | 2025-02-21 | 2026-05-08 |
+| [En Privado](https://open.spotify.com/track/6icgTkJIKnVzQ48ER6enLA) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [DOSIS](https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z) | 3:19 | 2026-10-03 |  |
 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 | 2023-07-17 | 2023-07-23 |
 | [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 | 2024-11-23 |  |
 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 | 2023-07-08 | 2023-07-10 |
@@ -1424,7 +1425,7 @@
 | [Vibrador](https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:06 | 2025-01-14 | 2025-03-28 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-24 |
 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-06-14 | 2022-09-04 |
-| [Virgen](https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/126xvNTHDugqvllz6O0v4h) | 4:31 | 2026-10-01 |  |
+| [Virgen](https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/126xvNTHDugqvllz6O0v4h) | 4:31 | 2026-10-01 | 2026-10-04 |
 | [VISTA AL MAR](https://open.spotify.com/track/5q86iSKkBtOoNkdgEDY5WV) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:00 | 2023-01-21 | 2023-02-26 |
 | [Vita Fer](https://open.spotify.com/track/3jS9G4KmuOwuawj3k4Smpc) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 3:04 | 2025-05-10 | 2025-07-29 |
 | [Vita Fer](https://open.spotify.com/track/5HZBdV5AwSvKdHFOYbXYD7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Vita Fer](https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4) | 3:04 | 2025-04-29 | 2025-05-09 |

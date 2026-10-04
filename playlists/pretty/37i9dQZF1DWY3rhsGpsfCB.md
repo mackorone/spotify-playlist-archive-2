@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,412 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,410 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [Better Days](https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Better Days](https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1) | 3:22 |
 | 80 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
 
-Snapshot ID: `AAAAACC2G//kkZQNly9KaxaZXs300UId`
+Snapshot ID: `AAAAAH2eMr6/YOXFDOqQOJ0+LmvRqF4e`

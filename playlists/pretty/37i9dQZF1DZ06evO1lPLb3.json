@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 62344,
+  "num_followers": 62369,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAA4zNYWYjmnYXjZLpeHSvPU",
+  "snapshot_id": "ar70AAAAAAB2b8hC1SAkFoby2fZMJAJi",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 401695,
+      "name": "Han Pan",
+      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Go (Remixes)",
         "url": "https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 329996,
       "name": "I Go - DJ Koze Remix",
       "url": "https://open.spotify.com/track/75yKhfvUFlPi8niVVmlnHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 401695,
-      "name": "Han Pan",
-      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
     },
     {
       "added_at": null,

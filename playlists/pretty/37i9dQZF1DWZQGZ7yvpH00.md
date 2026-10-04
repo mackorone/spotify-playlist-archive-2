@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Compa Steve y Adriel Favela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,603 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,583 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

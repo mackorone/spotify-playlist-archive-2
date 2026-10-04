@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Becca Hatch
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,956 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,959 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

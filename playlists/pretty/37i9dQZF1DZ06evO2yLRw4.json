@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37839,
+  "num_followers": 37835,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACNDueMAO50rC83W6N3vezu",
+  "snapshot_id": "ar70AAAAAAAoZVBE4U8Ow5BhMsFVMGCb",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 231960,
       "name": "Jump Sit Stand March",
       "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "When I Was Young",
-      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "A Letter To No One",
-      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 217205,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "A Letter To No One",
+      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "MF",
+      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Phantom Five",
         "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 182893,
       "name": "I Am Happy",
       "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "MF",
-      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
     },
     {
       "added_at": null,

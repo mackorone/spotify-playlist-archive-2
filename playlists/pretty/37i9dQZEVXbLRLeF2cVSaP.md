@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,871 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,882 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [BABYLON](https://open.spotify.com/track/4ObX5jiuCJhv6JcrylryUE) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Shh...](https://open.spotify.com/album/5ozsaDdq5LYbkMnhdE3L4o) | 2:26 |
 | 50 | [люблю москву, но снится london](https://open.spotify.com/track/5B21WvNT0r4SsmmnLKenpF) | [vers1zee](https://open.spotify.com/artist/7BqkA3Oot59tq1AbXWymAZ), [micheff](https://open.spotify.com/artist/4cHIM4iZLOpl3KvtEhTqS2) | [люблю москву, но снится london](https://open.spotify.com/album/6B3B2cjaiYyBZsR6SItWbt) | 1:26 |
 
-Snapshot ID: `MlMuiAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`

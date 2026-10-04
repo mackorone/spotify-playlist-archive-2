@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,615 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,624 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 32 | [In Time](https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:28 |
 | 33 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
 | 34 | [Who's Been Foolin' You](https://open.spotify.com/track/3t79dwrN0PbzcNoghZtaxi) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 |
-| 35 | [No Rain, No Flowers](https://open.spotify.com/track/4ns4t9csFyWBMjyHAzwLl0) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:16 |
+| 35 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 |
 | 36 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 |
-| 37 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 |
+| 37 | [No Rain, No Flowers](https://open.spotify.com/track/4ns4t9csFyWBMjyHAzwLl0) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:16 |
 | 38 | [Tomorrow Night](https://open.spotify.com/track/3z7scrm9w3OiSiGNZmWa8N) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:55 |
 | 39 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
 | 40 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 49 | [The Night Before](https://open.spotify.com/track/718SlaHAcFwEKTIDIBa1Z2) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 2:34 |
 | 50 | [Don't Let Me Go](https://open.spotify.com/track/1zCNzZTRsou6TFpe8nsmnK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:34 |
 
-Snapshot ID: `ar2igAAAAADfGdtYOJsSZCcxSenDMwc3`
+Snapshot ID: `ar70AAAAAAC8b/cwVNUUNRmr1cubiCYn`

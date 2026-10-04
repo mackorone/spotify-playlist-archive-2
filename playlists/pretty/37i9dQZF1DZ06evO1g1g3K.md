@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,911 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,910 likes - 48 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 33 | [PIT STOP](https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [DeShawn Jenkins](https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 1:31 |
 | 34 | [Rollin’](https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:38 |
 | 35 | [Volume](https://open.spotify.com/track/1C7a5e3KDgbBuVnmZJKTX0) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 3:38 |
-| 36 | [Around](https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:33 |
+| 36 | [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 |
 | 37 | [Neutral](https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:27 |
 | 38 | [H.I\. \(feat\. Devin Tracy\)](https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:59 |
 | 39 | [Melody](https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 4:42 |
-| 40 | [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 |
+| 40 | [Around](https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:33 |
 | 41 | [Processing...](https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 2:51 |
 | 42 | [Hip 2 Hip Hypnosis](https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Hip 2 Hip Hypnosis](https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR) | 3:13 |
 | 43 | [Relocate](https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 3:33 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 47 | [minding\_my business](https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Rose Gold](https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 4:28 |
 | 48 | [Bump The Man \- Live](https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 4:51 |
 
-Snapshot ID: `ar2igAAAAACKOW364udnXVgdKb+zTqwB`
+Snapshot ID: `ar70AAAAAABHdzNm/VDcoPwRh1oRg3jZ`

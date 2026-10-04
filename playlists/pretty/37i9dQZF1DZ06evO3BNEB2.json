@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41141,
+  "num_followers": 41163,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAhHujXffSYHnneprZ+lkBb",
+  "snapshot_id": "ar70AAAAAAATE489/4J5IZw6OjCPzQQx",
   "tracks": [
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "MY PYT",
+      "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drew Barrymore (feat. Wale)",
         "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 216246,
       "name": "Drew Barrymore (feat. Wale)",
       "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "MY PYT",
-      "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 249271,
-      "name": "The Girls on Drugs",
-      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
         "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
@@ -1023,6 +1003,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 249271,
+      "name": "The Girls on Drugs",
+      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Attention Deficit (Explicit Version)",
         "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
@@ -1043,22 +1043,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+        "name": "Free Lunch",
+        "url": "https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 158933,
-      "name": "Shotgun (feat. Wale)",
-      "url": "https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL"
+      "duration_ms": 269657,
+      "name": "My Boy (feat. J. Cole) - Freestyle",
+      "url": "https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx"
     }
   ],
   "unique_name": "This Is Wale",

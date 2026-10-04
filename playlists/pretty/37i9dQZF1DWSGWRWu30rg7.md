@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: El Putra Sarira
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,833 likes - 92 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,838 likes - 92 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

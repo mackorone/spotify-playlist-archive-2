@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,160 likes - 65 songs - 3 hr 43 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 65 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 37 | [know u](https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [know u](https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK) | 4:14 |
 | 38 | [Know Me Better](https://open.spotify.com/track/1mk6YMbaXHSdsumYWEl2tt) | [Miss the Heart](https://open.spotify.com/artist/3X6LelOSzqJ8SyazncvEyv) | [Know Me Better](https://open.spotify.com/album/5W8kFlj1r6VM1lz2rB9UvI) | 3:13 |
 | 39 | [Upside Down](https://open.spotify.com/track/0Qr1SJI2KiE6LgPf7AUECd) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Upside Down](https://open.spotify.com/album/6PYulOmBCJBpqTYlbjE6hG) | 2:36 |
-| 40 | [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 |
+| 40 | [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [BONCHI](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 |
 | 41 | [Heartbeats](https://open.spotify.com/track/0LVS42F6kSnhVknhBQemJM) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [Embers](https://open.spotify.com/album/7jeNenCbmKhLBEjCAqnRIc) | 3:52 |
 | 42 | [ardmore](https://open.spotify.com/track/1rme3Dy8URWfvRuaWHdkYk) | [Annie Elise](https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq) | [magic](https://open.spotify.com/album/6MDT90yu8HK3pt6f9GSpnJ) | 2:36 |
 | 43 | [In the Town I Grew Up In](https://open.spotify.com/track/1sTvYF8AHWD5Ji9zRpF8bk) | [Neve Rosales](https://open.spotify.com/artist/1EC8EQXTQBuVt5oloBJunz) | [In the Town I Grew Up In](https://open.spotify.com/album/49vS9GywlAg2Ia339LTIn7) | 4:07 |

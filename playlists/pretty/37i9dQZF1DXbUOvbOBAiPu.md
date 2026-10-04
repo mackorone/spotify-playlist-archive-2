@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Judith, La Mano 1.9, Suzan & Freek, Angèle, x Caroline Polachek, SebastiAn and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,145 likes - 124 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,150 likes - 124 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

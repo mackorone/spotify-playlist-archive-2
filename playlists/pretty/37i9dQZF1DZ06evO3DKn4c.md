@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,393 likes - 42 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,395 likes - 43 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,6 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 39 | [Terra](https://open.spotify.com/track/3hSmKgxQlmAD3H29BwIm6h) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:16 |
 | 40 | [CONTEXTO \- Ao Vivo](https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 4:05 |
 | 41 | [Feeling](https://open.spotify.com/track/3qMZllzbXn78eELMyhAdDv) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/3YH7cVQKsWvxM5Aa6HirtJ) | 7:00 |
-| 42 | [QUEIMANDO TUDO \- Ao Vivo](https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 2:55 |
+| 42 | [Sinto Muito Baby](https://open.spotify.com/track/5dWnzsv1zr2H7howC8wKKV) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2) | [Gordão Chefe](https://open.spotify.com/album/1M8Mm44LHgr2I1ETApqAHt) | 5:31 |
+| 43 | [QUEIMANDO TUDO \- Ao Vivo](https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 2:55 |
 
-Snapshot ID: `ar2igAAAAACFPeKEleqbLJjhCMPSwooV`
+Snapshot ID: `ar70AAAAAACARXDNEm6hIA4Ko0BNfSJX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,843 likes - 248 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,845 likes - 248 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 66 | [scared of my guitar](https://open.spotify.com/track/7JqH46zlr7XV7vMBt4slE6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 4:23 |
 | 67 | [opposite](https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:48 |
 | 68 | [Don’t Worry I’ll Make You Worry](https://open.spotify.com/track/21IVPfi81m6ywNgOvqTj1i) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:42 |
-| 69 | [NOBODY'S GIRL](https://open.spotify.com/track/3B2ZpJeewPvhAkjXtTkdtJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4bqOY8Atag3UhL95HuskxU) | 2:48 |
-| 70 | [purple](https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 |
+| 69 | [purple](https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 |
+| 70 | [NOBODY'S GIRL](https://open.spotify.com/track/3B2ZpJeewPvhAkjXtTkdtJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4bqOY8Atag3UhL95HuskxU) | 2:48 |
 | 71 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
 | 72 | [3am](https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:34 |
 | 73 | [Dashboard](https://open.spotify.com/track/6rlU0kRQNjMZ7t5I92yCIi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 |
@@ -168,13 +168,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 158 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 |
 | 159 | [Dangerous Levels of Introspection](https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:54 |
 | 160 | [Remedied](https://open.spotify.com/track/53k6rqSYCCzMPk995U8fE6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:08 |
-| 161 | [Forever](https://open.spotify.com/track/3ZhJM8BNznUtuQsMFu2TV4) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:16 |
-| 162 | [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 |
+| 161 | [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 |
+| 162 | [Forever](https://open.spotify.com/track/3ZhJM8BNznUtuQsMFu2TV4) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:16 |
 | 163 | [My Favorite Drug](https://open.spotify.com/track/4CH3LNUhH2v5lUpAk4SDoI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 5:01 |
 | 164 | [Lucky Charms](https://open.spotify.com/track/1Cwg5W2pW4aDvgUnb0PAvL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 3:10 |
 | 165 | [Imagination](https://open.spotify.com/track/3hKp94BXUs5r7xBF3lEkhP) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:16 |
-| 166 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 |
-| 167 | [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 |
+| 166 | [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 |
+| 167 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 |
 | 168 | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/track/1uP3EFUgPrvaIRfA9yepA6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/album/0Mij9SmUrhfN45IFiNUXWZ) | 2:28 |
 | 169 | [Open Wide](https://open.spotify.com/track/4QLfSJt10WMCsIHwOmbe1K) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:48 |
 | 170 | [Thrill of the Chase \(feat\. R.I.Pablo\)](https://open.spotify.com/track/5iIGjnYdSOa1K0EcFTTxqk) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 3:18 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 247 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 248 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `Acd5rgAAAAA0XKSVbX9nftTOihbNL5Ju`
+Snapshot ID: `Acd/TgAAAABB/u1XVM4GypiDi5jH+TYN`

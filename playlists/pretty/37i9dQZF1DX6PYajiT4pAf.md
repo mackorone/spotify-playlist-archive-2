@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Arde Bogotá, Cano, David Bisbal, Barry B, Samuraï y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,395 likes - 81 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,417 likes - 81 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Antifiesta](https://open.spotify.com/track/0NaXSXAAukAvEkzLiNB3Ax) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Antifiesta](https://open.spotify.com/album/3JqKMLp1ykirxAukz2AgLy) | 4:43 |
-| 2 | [ME QUIERES O ME ODIAS?](https://open.spotify.com/track/0w525lBwaVuLde0fx0Ra1c) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [ME QUIERES O ME ODIAS?](https://open.spotify.com/album/5SQViWsiX5OdGCnsxzJmSv) | 2:44 |
+| 2 | [ME QUIERES O ME ODIAS ?](https://open.spotify.com/track/0w525lBwaVuLde0fx0Ra1c) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [ME QUIERES O ME ODIAS ?](https://open.spotify.com/album/5SQViWsiX5OdGCnsxzJmSv) | 2:44 |
 | 3 | [Algún Día](https://open.spotify.com/track/1xsCN4M0pvYi0CkwxTUC0D) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Algún Día](https://open.spotify.com/album/4u6qq4hzHJRdRTBzHpkjH8) | 3:09 |
 | 4 | [Jukiar](https://open.spotify.com/track/1nnh1lotoDxDMcIgiyB1zi) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NO PASA NADA HOMBRE](https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr) | 3:08 |
 | 5 | [Con Esos Celos](https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Con Esos Celos](https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H) | 2:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Hits e novos nomes do pop experimentando no mesmo palco! Foto: Bia Soull, Vita
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,765 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,760 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

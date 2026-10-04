@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,446 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,488 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 99 | [Yere Faga \- Natureboy Flako Version](https://open.spotify.com/track/4NsD2JP8rYaEL1SMhDivVm) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Tony Allen](https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [Mogoya Remixed](https://open.spotify.com/album/6TJC6eLskTBntkr9uP8O0x) | 5:00 |
 | 100 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 |
 
-Snapshot ID: `AAAAAN0hT9uB3/fgt188OcIxH3Qe7oun`
+Snapshot ID: `AAAAABIcxf5RD/ejlNwhmXE6uzNEA0h0`

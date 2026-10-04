@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,403 likes - 361 songs - 18 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,721 likes - 361 songs - 18 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

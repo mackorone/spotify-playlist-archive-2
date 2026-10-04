@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:14RpuKZYyyikmsRU3zPoWz">maks.tachasiuk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,026 likes - 128 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,027 likes - 128 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

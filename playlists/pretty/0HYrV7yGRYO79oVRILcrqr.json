@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMqO86ck5PXphzaDFHHLthRE42HMEX",
+  "snapshot_id": "AAAMrCCntrxP/9mbXc8jIXliOJFnab+c",
   "tracks": [
     {
       "added_at": "2026-08-25 19:38:02",
@@ -2027,6 +2027,70 @@
       "duration_ms": 248333,
       "name": "Two Weeks Notice",
       "url": "https://open.spotify.com/track/4ec7rEphhHk3V5rjn64A8G"
+    },
+    {
+      "added_at": "2026-10-03 19:51:00",
+      "album": {
+        "name": "No Quit Son",
+        "url": "https://open.spotify.com/album/64yremFOO5v7Gtp2JE34wk"
+      },
+      "artists": [
+        {
+          "name": "John DeRosa",
+          "url": "https://open.spotify.com/artist/1tnHPbA944rAQOgmtz4Mmt"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "No Quit Son",
+      "url": "https://open.spotify.com/track/0w6hPcUBWSsKHb8W9RAaWZ"
+    },
+    {
+      "added_at": "2026-10-03 20:59:06",
+      "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bing",
+          "url": "https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR"
+        }
+      ],
+      "duration_ms": 251357,
+      "name": "Highway Cricket",
+      "url": "https://open.spotify.com/track/16ArNql4lUmXSGsD0GeEbW"
+    },
+    {
+      "added_at": "2026-10-03 21:09:14",
+      "album": {
+        "name": "Fields of Life",
+        "url": "https://open.spotify.com/album/1kIcy1XnVk1yFQL7FJQUVM"
+      },
+      "artists": [
+        {
+          "name": "William Drake",
+          "url": "https://open.spotify.com/artist/3Y40ISCrUgYcnwGexhaGxu"
+        }
+      ],
+      "duration_ms": 146267,
+      "name": "Fields of Life",
+      "url": "https://open.spotify.com/track/2ZKwoUgERG8768n6ZQ6V6w"
+    },
+    {
+      "added_at": "2026-10-03 21:29:49",
+      "album": {
+        "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0420\u043e\u043a",
+        "url": "https://open.spotify.com/album/3gWo1Y2sznqFno2yJobq7q"
+      },
+      "artists": [
+        {
+          "name": "Gigakript",
+          "url": "https://open.spotify.com/artist/4HSmSVozX7LDAlWRpfqL8T"
+        }
+      ],
+      "duration_ms": 297960,
+      "name": "\u0431\u0456\u043b\u0438 \u0442\u0440\u043e\u044f\u043d\u0434\u0438",
+      "url": "https://open.spotify.com/track/3V6RRSOeREtm9aZBFSdLyH"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

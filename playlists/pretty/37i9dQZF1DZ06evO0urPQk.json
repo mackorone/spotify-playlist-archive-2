@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27911,
+  "num_followers": 27913,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAADs6h3/nKMO4qUzKxhKQ0wg",
+  "snapshot_id": "ar70AAAAAACmJH2ICa9l4l+dCJm9rWTF",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRIMSON BULLET",
-        "url": "https://open.spotify.com/album/2ZrfW7HqQHMjAtmiHX9qfC"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 223182,
-      "name": "Friday Night Fever",
-      "url": "https://open.spotify.com/track/5fh1X6Cq3HJqZHGrV6yP4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "innocent starter",
         "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 281133,
       "name": "innocent starter",
       "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CRIMSON BULLET",
+        "url": "https://open.spotify.com/album/2ZrfW7HqQHMjAtmiHX9qfC"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 223182,
+      "name": "Friday Night Fever",
+      "url": "https://open.spotify.com/track/5fh1X6Cq3HJqZHGrV6yP4O"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRIMSON BULLET",
-        "url": "https://open.spotify.com/album/2ZrfW7HqQHMjAtmiHX9qfC"
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 174799,
-      "name": "\u30a2\u30a4\u30ed\u30cb\u30ab\u30eb",
-      "url": "https://open.spotify.com/track/3805d42MamQEFsT1qOCsj2"
+      "duration_ms": 239013,
+      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
+        "name": "CRIMSON BULLET",
+        "url": "https://open.spotify.com/album/2ZrfW7HqQHMjAtmiHX9qfC"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 239013,
-      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+      "duration_ms": 174799,
+      "name": "\u30a2\u30a4\u30ed\u30cb\u30ab\u30eb",
+      "url": "https://open.spotify.com/track/3805d42MamQEFsT1qOCsj2"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "\u6df1\u611b",
-      "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALIVE&KICKING",
         "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 250506,
       "name": "Take a shot",
       "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "\u6df1\u611b",
+      "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "SECRET AMBITION",
-      "url": "https://open.spotify.com/track/5AB3codJ16dli3H2HmJyki"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROCKBOUND NEIGHBORS",
         "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 321666,
       "name": "Synchrogazer-Aufwachen Form-",
       "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "SECRET AMBITION",
+      "url": "https://open.spotify.com/track/5AB3codJ16dli3H2HmJyki"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "NEVER SURRENDER",
-      "url": "https://open.spotify.com/track/0EcJMHq5S4WyEI0L2yTOhP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IMPACT EXCITER",
         "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 290586,
       "name": "NEXT ARCADIA",
       "url": "https://open.spotify.com/track/4GnvQyayofxtMbWVLjGSgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "NEVER SURRENDER",
+      "url": "https://open.spotify.com/track/0EcJMHq5S4WyEI0L2yTOhP"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Justice to Believe/\u30a2\u30aa\u30a4\u30a4\u30ed",
+        "url": "https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 302239,
+      "name": "Justice to Believe",
+      "url": "https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Blossom",
         "url": "https://open.spotify.com/album/3QODdjGsrOsyMPMGOFn92H"
       },
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Justice to Believe/\u30a2\u30aa\u30a4\u30a4\u30ed",
-        "url": "https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av"
+        "name": "\u30a8\u30c7\u30f3",
+        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 302239,
-      "name": "Justice to Believe",
-      "url": "https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj"
+      "duration_ms": 222640,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/7scWTACvzsB1Q92nERgey4"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 190520,
       "name": "\u62cd\u52d5",
       "url": "https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a8\u30c7\u30f3",
-        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/7scWTACvzsB1Q92nERgey4"
     },
     {
       "added_at": null,

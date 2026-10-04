@@ -4,7 +4,7 @@
 
 > 
 
-3,230 songs - 6 day 22 hr 7 min
+3,232 songs - 6 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2422,6 +2422,7 @@
 | [Running \- Ookay Remix](https://open.spotify.com/track/0tNVqP7h2s2aUV9CfVfvim) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Currently On Earth Remixes](https://open.spotify.com/album/7JUYT95dnaemQAfStopYkO) | 2:51 | 2026-03-06 |  |
 | [RUNNING 2 U](https://open.spotify.com/track/51eW7OE7mjMbvlGaPmh5Qq) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [RUNNING 2 U](https://open.spotify.com/album/5c7CbTGh9yiwelIUBVLaLo) | 2:31 | 2025-12-19 |  |
 | [Running Faster](https://open.spotify.com/track/2lKxDJ9NLMqlzSj9WBCDDQ) | [Misstified](https://open.spotify.com/artist/2ZyuFbdEVH2oGVNnhRMW2n) | [Running Faster](https://open.spotify.com/album/2ZbbJr6HIQmtlK3JcoH7WS) | 2:52 | 2025-05-26 |  |
+| [Rush](https://open.spotify.com/track/7JBoKdaO00m3iT6A1r4YzZ) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Atonement](https://open.spotify.com/album/05m026Xi7o5ny7cpBpXoWQ) | 3:29 | 2026-10-03 |  |
 | [Rush The Flow](https://open.spotify.com/track/0NP8AiFtgZVOTfLpZXwovN) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [TOO FAST](https://open.spotify.com/album/4AnDQnvSjUu2KFJ6M3egdF) | 2:25 | 2023-06-30 |  |
 | [Rushin' Around! \- Back To 2009 Mix](https://open.spotify.com/track/0KToDcyyuqBkv5kUQfwgIB) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH), [Al Storm](https://open.spotify.com/artist/12CfGGtVpvaQVgoQaFy7kM), [247 Hardcore](https://open.spotify.com/artist/27aPBTT6OvnVFFLshqrUET) | [Rushin' Around!](https://open.spotify.com/album/2i09EZLJ5VVCA4FnPQt8u6) | 2:52 | 2025-03-09 |  |
 | [rèflexion](https://open.spotify.com/track/5OG6XTFyujvGNkIlhvtHpy) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [Azure World](https://open.spotify.com/album/1kwWNAqOWEUsqsEAA1A2gk) | 2:38 | 2022-02-22 |  |
@@ -2704,6 +2705,7 @@
 | [TAKING OVER](https://open.spotify.com/track/0roNsDM3FEnG1UjoTjpWq0) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Boray](https://open.spotify.com/artist/1tC69g1QLo1PvMg0vki9bY) | [TAKING OVER](https://open.spotify.com/album/7gN1gSTN1rZmuW0goOmmPU) | 2:28 | 2024-05-28 |  |
 | [Tanano \- Original Mix](https://open.spotify.com/track/3FTwkDGGep7ZZBY8rPRLOy) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Open Your Mind \(Original Mix\)](https://open.spotify.com/album/7d2fiQZhbWBOSL5RGtZrv1) | 2:10 | 2024-04-16 |  |
 | [Tanano \- Original Mix](https://open.spotify.com/track/2N0iQCQOQnR9yV3tZfjFQ2) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [Open Your Mind \(Original Mix\)](https://open.spotify.com/album/7d2fiQZhbWBOSL5RGtZrv1) | 3:01 | 2024-04-19 |  |
+| [TASTE MY LOVE](https://open.spotify.com/track/1h0D1JG3S9UOcB6mDDHFf2) | [BenjaJ](https://open.spotify.com/artist/3aJEcJWbsZjj4Z6fFtS236), [Tegula](https://open.spotify.com/artist/7erXXZUcSqdSacH5QkMuwf) | [TASTE MY LOVE](https://open.spotify.com/album/0PneEJds71bNGIXthaENEP) | 2:25 | 2026-10-03 |  |
 | [TASTE MY LOVE](https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB) | [FoxTune](https://open.spotify.com/artist/1DVM9Xl4WPgdIYN5m8m2Lu) | [TASTE MY LOVE](https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR) | 3:05 | 2026-03-06 |  |
 | [Taste Of Love](https://open.spotify.com/track/1WX7EIyGhDOVAGXI51nWdt) | [AbstructA](https://open.spotify.com/artist/18xTavO94JdpEs5Ta1oYuT), [SSought](https://open.spotify.com/artist/1kzio1AIdnP2EloBvdKatx) | [Taste Of Love](https://open.spotify.com/album/2IW2L4zOYucR3BRoCXn827) | 2:34 | 2026-03-30 |  |
 | [Taste The Blade](https://open.spotify.com/track/2z6CtAg9x6hCT064WKnxWF) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Rest In Pieces](https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr) | 3:19 | 2023-05-01 |  |

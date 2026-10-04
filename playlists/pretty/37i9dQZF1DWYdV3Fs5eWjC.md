@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,922 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,928 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

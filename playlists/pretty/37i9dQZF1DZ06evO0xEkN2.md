@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,624 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,949 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 14 | [Parison](https://open.spotify.com/track/0beGRT9U7ngWzHpQpUQV8D) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 4:51 |
 | 15 | [Dime](https://open.spotify.com/track/3stXtR4dTYiGjYhG2gNepu) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:50 |
 | 16 | [Cúrame](https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:41 |
-| 17 | [Botellas](https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:07 |
-| 18 | [Viernes de Webeo \- En Vivo](https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 4:00 |
-| 19 | [No Voy A Llorar](https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 4:46 |
+| 17 | [Viernes de Webeo \- En Vivo](https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 4:00 |
+| 18 | [No Voy A Llorar](https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 4:46 |
+| 19 | [Botellas](https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:07 |
 | 20 | [Que Pasará](https://open.spotify.com/track/4DVU0z4zLAqPq2ShvB7Hl3) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 4:00 |
 | 21 | [Buscándote \(Paraguayito Dub\)](https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Tres Veces Tres](https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS) | 4:19 |
-| 22 | [Veinticinco Rosas](https://open.spotify.com/track/7wEKVEEo4Vmn1qNvL7AZNf) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 2:53 |
-| 23 | [Nada Pasó](https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:39 |
+| 22 | [Nada Pasó](https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:39 |
+| 23 | [Veinticinco Rosas](https://open.spotify.com/track/7wEKVEEo4Vmn1qNvL7AZNf) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 2:53 |
 | 24 | [La Distancia](https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 4:26 |
 | 25 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
-| 26 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/26wc2F3aJGvc5SJgKt7Xt8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 3:13 |
-| 27 | [Lamento De Amor](https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rigo Es Amor](https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26) | 3:15 |
+| 26 | [Lamento De Amor](https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rigo Es Amor](https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26) | 3:15 |
+| 27 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/26wc2F3aJGvc5SJgKt7Xt8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 3:13 |
 | 28 | [No sé](https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:09 |
 | 29 | [Estrella Roja](https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:17 |
 | 30 | [Borracho Drunk Steady Beer](https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 49 | [No Te Recuerdo](https://open.spotify.com/track/11HEIqmrGM1hh1KW63DGdi) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:53 |
 | 50 | [Espejo](https://open.spotify.com/track/0QXAcwJwC5PEwMJryzfQez) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 3:24 |
 
-Snapshot ID: `ar2igAAAAAD3NRc1dL+X5k0H+g/rxP7/`
+Snapshot ID: `ar70AAAAAADFgD9ETdMg5N24b5aTv89m`

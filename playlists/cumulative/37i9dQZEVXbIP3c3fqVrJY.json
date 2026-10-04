@@ -14056,7 +14056,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 157475,
       "name": "FURT PYTLE",
       "url": "https://open.spotify.com/track/59EAcjJDDQA7wAbRM4JDIw"
@@ -22730,7 +22730,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -27664,7 +27664,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 223000,
       "name": "Na ost\u0159\u00ed no\u017ee",
       "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
@@ -27682,7 +27682,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 223426,
       "name": "Na ost\u0159\u00ed no\u017ee",
       "url": "https://open.spotify.com/track/4Khglv8L82X1jD5KAEMYwT"
@@ -34373,6 +34373,24 @@
     },
     {
       "album": {
+        "name": "V\u00edc",
+        "url": "https://open.spotify.com/album/7IlhDIk83qWBpHFGSYWRSX"
+      },
+      "artists": [
+        {
+          "name": "DANZ HUN",
+          "url": "https://open.spotify.com/artist/6grJGiDYFWywlj5KHyGjiJ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151745,
+      "name": "Prvn\u00ed Chain",
+      "url": "https://open.spotify.com/track/3DmUVZuSptoCUrV8fIkM3h"
+    },
+    {
+      "album": {
         "name": "Pr\u00e1zdno",
         "url": "https://open.spotify.com/album/3TZOouzmUwl6vWMD28g23W"
       },
@@ -40396,7 +40414,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
@@ -45717,6 +45735,28 @@
     },
     {
       "album": {
+        "name": "venku lilo",
+        "url": "https://open.spotify.com/album/6jMNnoZY6o3FXwb5D4QjvT"
+      },
+      "artists": [
+        {
+          "name": "GUFRAU",
+          "url": "https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q"
+        },
+        {
+          "name": "C\u00e9dric",
+          "url": "https://open.spotify.com/artist/3iq9MPsGGVkjVqihYEGoIC"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136981,
+      "name": "venku lilo",
+      "url": "https://open.spotify.com/track/1Q5poHbz7qyz8t19Xi9C2U"
+    },
+    {
+      "album": {
         "name": "Venku se stm\u00edv\u00e1",
         "url": "https://open.spotify.com/album/7xYapXzd2rA8URQme2QABF"
       },
@@ -46606,7 +46646,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 140940,
       "name": "V\u00cd\u0160 JAK BOL\u00cd \u0158\u00cdKAT RIP",
       "url": "https://open.spotify.com/track/37JjmZ1SC4aEahyUYHlXmM"

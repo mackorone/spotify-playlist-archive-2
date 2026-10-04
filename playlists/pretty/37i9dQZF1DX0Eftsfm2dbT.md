@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック Cover: HARKA, Gam Ball \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,103 likes - 103 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,109 likes - 103 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

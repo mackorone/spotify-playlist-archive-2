@@ -1,13 +1,33 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4822,
+  "num_followers": 4824,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAtwWMd0pZe/ya0IfN4Lb0k",
+  "snapshot_id": "ar70AAAAAACyfDI4yfGIT78LYuTBMbK6",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Ain't Me Babe (with Madison Cunningham)",
+        "url": "https://open.spotify.com/album/6Ywyu9QyC9Ryiorl356Vqy"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 259938,
+      "name": "It Ain't Me Babe (with Madison Cunningham)",
+      "url": "https://open.spotify.com/track/37pWuJFpyEfuyzAtCDMTBC"
+    },
     {
       "added_at": null,
       "album": {
@@ -219,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 273235,
-      "name": "Life According To Raechel",
-      "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
       },
@@ -251,6 +255,22 @@
       "duration_ms": 186813,
       "name": "Blood On The Page",
       "url": "https://open.spotify.com/track/1s7fzrM3FdNDcNYc5i85ZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 273235,
+      "name": "Life According To Raechel",
+      "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
     },
     {
       "added_at": null,
@@ -295,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Age Of Worry",
         "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
@@ -323,6 +327,22 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
     },
     {
       "added_at": null,
@@ -363,58 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry, Kid",
-        "url": "https://open.spotify.com/album/2BYdFpwcIUWLQCcVgFTtrK"
-      },
-      "artists": [
-        {
-          "name": "Johanna Samuels",
-          "url": "https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 206997,
-      "name": "Rare (The Runner Song)",
-      "url": "https://open.spotify.com/track/2LXFWcV15XY5QfGFgTpVbu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 330903,
-      "name": "Shore",
-      "url": "https://open.spotify.com/track/5aBGR2ppIj67X3RNa6ibli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lucius",
         "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
@@ -444,9 +412,45 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 306783,
-      "name": "All I\u2019ve Ever Known",
-      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 330903,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/5aBGR2ppIj67X3RNa6ibli"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry, Kid",
+        "url": "https://open.spotify.com/album/2BYdFpwcIUWLQCcVgFTtrK"
+      },
+      "artists": [
+        {
+          "name": "Johanna Samuels",
+          "url": "https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 206997,
+      "name": "Rare (The Runner Song)",
+      "url": "https://open.spotify.com/track/2LXFWcV15XY5QfGFgTpVbu"
     },
     {
       "added_at": null,
@@ -467,6 +471,22 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 306783,
+      "name": "All I\u2019ve Ever Known",
+      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
     },
     {
       "added_at": null,
@@ -611,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cunningham Bird",
-        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 283106,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
     },
     {
       "added_at": null,
@@ -651,38 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Trouble Found Me",
-      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billboard Heart",
-        "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
-      },
-      "artists": [
-        {
-          "name": "Deep Sea Diver",
-          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 282200,
-      "name": "Let Me Go (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/3aYhXEOlMA4Fti35yLXgrX"
+      "duration_ms": 283106,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
     },
     {
       "added_at": null,
@@ -707,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+        "name": "Billboard Heart",
+        "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
       },
       "artists": [
+        {
+          "name": "Deep Sea Diver",
+          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+      "duration_ms": 282200,
+      "name": "Let Me Go (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/3aYhXEOlMA4Fti35yLXgrX"
     },
     {
       "added_at": null,
@@ -735,6 +739,22 @@
       "duration_ms": 228013,
       "name": "L.A. (Looking Alive)",
       "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,
@@ -779,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Graceland Way",
         "url": "https://open.spotify.com/album/3Tpi8aDmEZ7tpJvPu8sxuI"
       },
@@ -795,22 +831,6 @@
       "duration_ms": 215497,
       "name": "(Looking Through) Rose Colored Glasses",
       "url": "https://open.spotify.com/track/336t4aqoOMtMMKIAVYqgWb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
     },
     {
       "added_at": null,
@@ -855,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 268053,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -883,6 +887,22 @@
       "duration_ms": 266733,
       "name": "Common Language",
       "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 268053,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

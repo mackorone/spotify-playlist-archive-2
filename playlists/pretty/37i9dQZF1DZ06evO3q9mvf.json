@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACUz9OsilceOdCKL+TH3wmU",
+  "snapshot_id": "ar70AAAAAADgnO/SP2myPrSNaDiSuG+2",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 180786,
-      "name": "A Boring Life",
-      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
+      "duration_ms": 134213,
+      "name": "Number One Enemy",
+      "url": "https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge of the Killer Slits",
-        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Kill Them Wtih love",
-      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skateboard Punk Hits",
         "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revenge of the Killer Slits",
+        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Kill Them Wtih love",
+      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Beginning",
         "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
       },
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 134213,
-      "name": "Number One Enemy",
-      "url": "https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N"
+      "duration_ms": 180786,
+      "name": "A Boring Life",
+      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
     },
     {
       "added_at": null,

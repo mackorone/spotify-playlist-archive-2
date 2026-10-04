@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZDMxPJhrYOE.md) - [plain]
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,606 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,605 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZDMxPJhrYOE.md) - [plain]
 | 79 | [den forbandede kærlighed](https://open.spotify.com/track/0o493HbZyZ44KzC7Ee4PXv) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [den forbandede kærlighed](https://open.spotify.com/album/2euEkE8Y4mU3W2vzcZfEBi) | 2:51 |
 | 80 | [Herinde](https://open.spotify.com/track/6P0NSsp88qTFhRfOfrhbWd) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 2:14 |
 
-Snapshot ID: `AAAAAHaJCZWX6C0IaiG7ErDI0I1g+CXX`
+Snapshot ID: `AAAAAKkIwqrcncZEZDqgJjxNFvTbKval`

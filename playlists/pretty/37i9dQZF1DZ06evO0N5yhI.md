@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 
 > This is Phoebe Bridgers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,461 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,547 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 | 39 | [Savior Complex](https://open.spotify.com/track/5BN59BDczcpxstFKILIH0q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:01 |
 | 40 | [ICU](https://open.spotify.com/track/0Jm0RTOlF7DsbQ689QclaF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:10 |
 
-Snapshot ID: `ar2igAAAAAD0cJ4s0y8knZBmc0YfOiGF`
+Snapshot ID: `ar70AAAAAADYp/PgDnBJ5ybgVJBTwHky`

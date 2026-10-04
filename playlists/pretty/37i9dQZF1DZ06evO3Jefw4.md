@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,153 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,183 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 43 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 |
 | 44 | [Tucked](https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:07 |
 | 45 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:18 |
-| 46 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 |
-| 47 | [Teenage Dream](https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream \- Remix EP](https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg) | 3:54 |
+| 46 | [Teenage Dream](https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream \- Remix EP](https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg) | 3:54 |
+| 47 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 |
 | 48 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 |
 | 49 | [ALL THE LOVE](https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:15 |
 | 50 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
 
-Snapshot ID: `ar2igAAAAAAfRjUehqfAB0LKwQI4CqL7`
+Snapshot ID: `ar70AAAAAABeG+htz7tMVcjW2Pi2MRrx`

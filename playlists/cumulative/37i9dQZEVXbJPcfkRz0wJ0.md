@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Australia.
 
-1,994 songs - 4 day 19 hr 16 min
+1,995 songs - 4 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Downfall](https://open.spotify.com/track/5tGnphp8D9Doa2ZULhJSMx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:15 | 2026-04-25 | 2026-04-30 |
 | [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 | 2025-10-18 | 2026-05-17 |
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-03-18 | 2026-06-03 |
+| [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-03 |  |
 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 | 2025-02-15 | 2025-02-25 |
 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm) | 2:51 | 2025-02-08 | 2025-03-03 |
 | [Dreams](https://open.spotify.com/track/2J3TcdKkdU42R9zWqWi6LJ) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [Dreams](https://open.spotify.com/album/2wvHFdSUM3Q6Dtu7dowYpf) | 3:18 | 2021-08-01 | 2021-08-22 |
@@ -879,7 +880,7 @@
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-07-02 | 2025-07-13 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 | 2024-04-21 |
 | [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 | 2024-05-04 | 2024-05-11 |
-| [iloveitiloveitiloveit](https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:03 | 2026-07-14 |  |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:03 | 2026-07-14 | 2026-10-04 |
 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-02-17 | 2026-07-14 |
 | [imgonnagetyouback](https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:42 | 2024-04-20 | 2024-05-03 |
 | [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 | 2024-03-12 | 2024-03-14 |

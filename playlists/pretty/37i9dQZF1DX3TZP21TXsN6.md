@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > NDD, Ocho & Ibs, Getit, 247Loosey, Ezzie & Marou en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,342 likes - 70 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,346 likes - 70 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Andere Kant](https://open.spotify.com/track/3ZywXwtLMGI4rWFdLQ8lVh) | [NDD](https://open.spotify.com/artist/0wXZFUIlCxAi0Y49ZjCuMV), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [Andere Kant](https://open.spotify.com/album/06DqEPuTDkGlzQrncGwRyS) | 2:39 |
-| 2 | [Lamb truck](https://open.spotify.com/track/76Jj9OtTB7vqba7el4bEVa) | [Ocho & Ibs](https://open.spotify.com/artist/5OBVpBkdc8NLgE6GoBhaRw), [Ocho](https://open.spotify.com/artist/6MfxNsmm1A8Sji4XLWCZ4G), [King Ibs](https://open.spotify.com/artist/1DK2S6nATVhksRiwUyowEF) | [Lamb truck](https://open.spotify.com/album/4JwtjpSizuajCyE1lT14ug) | 1:54 |
-| 3 | [Huncho Story](https://open.spotify.com/track/6z3xklY5pp1aUiDk5gUYlT) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Huncho Story](https://open.spotify.com/album/6r7S32FMtxVeliySMqhklL) | 1:52 |
-| 4 | [HAC à DOS](https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU) | [247Loosey](https://open.spotify.com/artist/5MxaJCmQcD7J3leCOMgkvH) | [HAC à DOS](https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI) | 2:21 |
+| 1 | [HAC à DOS](https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU) | [247Loosey](https://open.spotify.com/artist/5MxaJCmQcD7J3leCOMgkvH) | [HAC à DOS](https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI) | 2:21 |
+| 2 | [Andere Kant](https://open.spotify.com/track/3ZywXwtLMGI4rWFdLQ8lVh) | [NDD](https://open.spotify.com/artist/0wXZFUIlCxAi0Y49ZjCuMV), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [Andere Kant](https://open.spotify.com/album/06DqEPuTDkGlzQrncGwRyS) | 2:39 |
+| 3 | [Lamb truck](https://open.spotify.com/track/76Jj9OtTB7vqba7el4bEVa) | [Ocho & Ibs](https://open.spotify.com/artist/5OBVpBkdc8NLgE6GoBhaRw), [Ocho](https://open.spotify.com/artist/6MfxNsmm1A8Sji4XLWCZ4G), [King Ibs](https://open.spotify.com/artist/1DK2S6nATVhksRiwUyowEF) | [Lamb truck](https://open.spotify.com/album/4JwtjpSizuajCyE1lT14ug) | 1:54 |
+| 4 | [Huncho Story](https://open.spotify.com/track/6z3xklY5pp1aUiDk5gUYlT) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Huncho Story](https://open.spotify.com/album/6r7S32FMtxVeliySMqhklL) | 1:52 |
 | 5 | [Ondernemen](https://open.spotify.com/track/6NrAmPI31HJDI2wkKKtFfH) | [Ezzie](https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp), [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5) | [Ondernemen](https://open.spotify.com/album/74hnHEy8j0fLR8YopqGPjT) | 2:27 |
 | 6 | [De Hele Week](https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [De Hele Week](https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG) | 2:22 |
 | 7 | [Bandlab](https://open.spotify.com/track/1k9S6herwnrbkzp9FJKPdm) | [Xeno](https://open.spotify.com/artist/6QNmkf3USZGhsn81cZCKre) | [Bandlab](https://open.spotify.com/album/17yXWMHRgk6Nd62afJFEqq) | 2:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 69 | [GUNS & DRUGS](https://open.spotify.com/track/0lQV7VH3BusBAbb6QKm5Xo) | [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh), [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [GUNS & DRUGS](https://open.spotify.com/album/3AfQFgcEfGTkVbPmKSggFe) | 2:10 |
 | 70 | [Schietgevaar](https://open.spotify.com/track/2ERo7Qj9YtuD5RbhpPORvd) | [YSL](https://open.spotify.com/artist/2EnQOw92OmWXnytTX1ZaJG), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Schietgevaar](https://open.spotify.com/album/6o5gKX6TF7CySlwJNklALg) | 2:44 |
 
-Snapshot ID: `AAAAAEzvrPjntfqh9fjr6tLMGAdeGDgt`
+Snapshot ID: `AAAAAF7/pzl3GRgPuyRxPNID1NiLcIoY`

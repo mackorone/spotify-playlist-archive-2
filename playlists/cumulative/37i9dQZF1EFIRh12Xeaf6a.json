@@ -5095,6 +5095,28 @@
     },
     {
       "album": {
+        "name": "Under The Boardwalk Lights",
+        "url": "https://open.spotify.com/album/0WAk0vTSelmI3sBDg7Gs3h"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        },
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155160,
+      "name": "Mexican Divorce",
+      "url": "https://open.spotify.com/track/0NerTQRI6Cp5tIUWH5xjD3"
+    },
+    {
+      "album": {
         "name": "Save the Last Dance for Me",
         "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
       },

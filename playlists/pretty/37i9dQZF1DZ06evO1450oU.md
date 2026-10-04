@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 
 > This is Salt Creek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 18 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 17 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 10 | [Where is the Sun](https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:48 |
 | 11 | [Phase](https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:24 |
 | 12 | [Highway Lights](https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 3:54 |
-| 13 | [The Vine](https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:38 |
+| 13 | [Etna](https://open.spotify.com/track/0Ig02JjhBj2uVme94fGVDY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:10 |
 | 14 | [Window Shade](https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
-| 15 | [Swim in Time](https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 4:41 |
-| 16 | [Etna](https://open.spotify.com/track/0Ig02JjhBj2uVme94fGVDY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:10 |
-| 17 | [Weathervane](https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 3:25 |
-| 18 | [INVU](https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:55 |
+| 15 | [Euclid](https://open.spotify.com/track/19l8TA5uRWQKdVbu7HY9lB) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:41 |
+| 16 | [Weathervane](https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 3:25 |
+| 17 | [EVERYONEISTHESAME](https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:06 |
 
-Snapshot ID: `ar2igAAAAAD0629nV/FpqGGPYKp9+EKy`
+Snapshot ID: `ar70AAAAAACywwzovdgW1ORFXwxAaWsX`

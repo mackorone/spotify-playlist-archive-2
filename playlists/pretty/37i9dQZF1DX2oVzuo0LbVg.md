@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oVzuo0LbVg.md) - [plain]
 
 > Pop Anglo para acompañar tus mejores momentos\. Foto: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,340 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,331 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oVzuo0LbVg.md) - [plain]
 | 99 | [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 |
 | 100 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 
-Snapshot ID: `AAAAAKJqHTnj1mJkeDBXQKV8S4paOZht`
+Snapshot ID: `AAAAAD1nHgR/dm9j8fGply11V/4Bpfta`

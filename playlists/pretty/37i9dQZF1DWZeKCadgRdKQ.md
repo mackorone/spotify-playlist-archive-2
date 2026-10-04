@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,003,040 likes - 255 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,003,352 likes - 255 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

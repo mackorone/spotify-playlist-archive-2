@@ -3180,7 +3180,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -12485,6 +12485,32 @@
     },
     {
       "album": {
+        "name": "GALACTICOS",
+        "url": "https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU"
+      },
+      "artists": [
+        {
+          "name": "Bigg Danny",
+          "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "GALACTICOS",
+      "url": "https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E"
+    },
+    {
+      "album": {
         "name": "EL TRAP DE KOLOMBIA",
         "url": "https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU"
       },
@@ -20156,7 +20182,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -25690,7 +25716,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -29930,7 +29956,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 191580,
       "name": "SPICY",
       "url": "https://open.spotify.com/track/1lmGCKyRnoiRuuJQrNdsfB"
@@ -35572,6 +35598,36 @@
       "duration_ms": 147840,
       "name": "YO QUIERO",
       "url": "https://open.spotify.com/track/47sQ0h1xhlDWJ3nHbwYPrg"
+    },
+    {
+      "album": {
+        "name": "YO QUIERO (REMIX)",
+        "url": "https://open.spotify.com/album/1lm2EZq4pOP5EOQdv4msEQ"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362908,
+      "name": "YO QUIERO - REMIX",
+      "url": "https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo"
     },
     {
       "album": {

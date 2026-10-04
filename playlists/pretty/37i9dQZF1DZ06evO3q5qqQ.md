@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,556 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,567 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 33 | [El Bolas](https://open.spotify.com/track/5gP4fy4hP3TSyh6nuE25wB) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS) | 2:50 |
 | 34 | [El Hombre Alegre \- En Vivo](https://open.spotify.com/track/4gjJ95Tps8wTzegFSM7llF) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1XBHkino209lUqg5yra3wO) | 3:31 |
 | 35 | [El H](https://open.spotify.com/track/1ipRWFeVZQ449C0HL8K8kS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V) | 2:44 |
-| 36 | [La Pasadita \- En vivo](https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD) | 2:29 |
-| 37 | [Solo Por Bonita](https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Solo Por Bonita](https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI) | 2:12 |
+| 36 | [Solo Por Bonita](https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Solo Por Bonita](https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI) | 2:12 |
+| 37 | [La Pasadita \- En vivo](https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD) | 2:29 |
 | 38 | [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 |
 | 39 | [Prohibido \- En vivo](https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E) | 2:52 |
 | 40 | [El Mas Poderoso \- En Vivo](https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1XBHkino209lUqg5yra3wO) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Que las Cuartitos No Falten](https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V) | 2:59 |
 | 50 | [El Sultan](https://open.spotify.com/track/4f1M1VZzl83tWeV6CyBGLj) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL \(En Vivo\)](https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU) | 3:15 |
 
-Snapshot ID: `ar2igAAAAACbLufFZ1SB1r3BSXYZ2b+G`
+Snapshot ID: `ar70AAAAAADPNdM29smtFKlk93TQ03H3`

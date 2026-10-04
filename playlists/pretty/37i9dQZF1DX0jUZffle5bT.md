@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jUZffle5bT.md) - [plain]
 
 > The Latin soundtrack of the 2020s! Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,750 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,764 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

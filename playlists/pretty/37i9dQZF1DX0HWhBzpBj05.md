@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,717 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,705 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 59 | [Sleigh Ride \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 2:59 |
 | 60 | [All Alone on Christmas](https://open.spotify.com/track/7kwAGjaoIvIEfL2poi9A1U) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 4:09 |
 | 61 | [Carol of the Bells](https://open.spotify.com/track/2jLjMwY8thbmBhis9CsjFe) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Mannheim Steamroller Christmas Symphony II](https://open.spotify.com/album/5eoDnNf0YWYPH9KmFnLyaM) | 3:56 |
-| 62 | [White Christmas](https://open.spotify.com/track/72Z28IsvEVLjSWdUKEQgZ0) | [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:38 |
+| 62 | [White Christmas](https://open.spotify.com/track/72Z28IsvEVLjSWdUKEQgZ0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:38 |
 | 63 | [Christmas Eve / Sarajevo 12/24 \- Instrumental](https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [Christmas Eve and Other Stories](https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT) | 3:25 |
 | 64 | [Hark! The Herald Angels Sing \- Remastered 1999](https://open.spotify.com/track/2BLwLAc1swTc4TC7K3J506) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:21 |
 | 65 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:10 |

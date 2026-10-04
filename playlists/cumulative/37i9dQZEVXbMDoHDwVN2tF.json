@@ -9683,6 +9683,32 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234849,
+      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+      "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
+    },
+    {
+      "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
@@ -13606,6 +13632,28 @@
       "duration_ms": 213520,
       "name": "Drankin N Smokin",
       "url": "https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv"
+    },
+    {
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "album": {
@@ -22842,7 +22890,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -34646,7 +34694,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 336000,
       "name": "OLIVIA LA FLAKA",
       "url": "https://open.spotify.com/track/6756nr1dYiw5aNLSgIHNOI"
@@ -37000,7 +37048,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 190690,
       "name": "Pink Clouding",
       "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
@@ -38820,6 +38868,24 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
     },
     {
       "album": {
@@ -43872,6 +43938,28 @@
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {
@@ -55182,7 +55270,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

@@ -1,12 +1,12 @@
 {
   "description": "This is Harrison. The essential tracks, all in one playlist.",
-  "num_followers": 516,
+  "num_followers": 518,
   "original_name": "This Is Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAC89YOt7yN6dWlPu3/0Ru38",
+  "snapshot_id": "ar70AAAAAABBbiCBUJNet3RaivuaU3NH",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
       },
       "artists": [
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
+      "duration_ms": 120502,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
     },
     {
       "added_at": null,
@@ -451,18 +447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
+        "name": "Neon Future II",
+        "url": "https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W"
       },
       "artists": [
         {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Albin Myers",
+          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
         }
       ],
-      "duration_ms": 120502,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
+      "duration_ms": 201210,
+      "name": "Holding Up The World (feat. Harrison & Albin Myers)",
+      "url": "https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3"
     },
     {
       "added_at": null,
@@ -487,26 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Future II",
-        "url": "https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W"
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
       "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         },
         {
-          "name": "Albin Myers",
-          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 201210,
-      "name": "Holding Up The World (feat. Harrison & Albin Myers)",
-      "url": "https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3"
+      "duration_ms": 142500,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 252000,
       "name": "You're Light (feat. Maddee)",
       "url": "https://open.spotify.com/track/2QGCr7Oj6F1sgSLaMr64Ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "a l l i e",
-          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
-        }
-      ],
-      "duration_ms": 215741,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parallel World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32m2OO7A1J6wuDO8FUNZ50"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 145811,
       "name": "Play No Games (Harrison Remix)",
       "url": "https://open.spotify.com/track/32fG2SvpIGVJxYQsSzGMzE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        }
+      ],
+      "duration_ms": 215741,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Once Upon A Time",
+        "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
+      },
+      "artists": [
+        {
+          "name": "Kill The Buzz",
+          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Once Upon A Time",
+      "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
@@ -743,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon A Time",
-        "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
-      },
-      "artists": [
-        {
-          "name": "Kill The Buzz",
-          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "Once Upon A Time",
-      "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
       },
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -806,11 +806,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "GUV",
+          "url": "https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw"
         }
       ],
-      "duration_ms": 146459,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/4WjYVP5dZtOhK86ntwMY7i"
+      "duration_ms": 194000,
+      "name": "So Far From Home",
+      "url": "https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR"
     }
   ],
   "unique_name": "This Is Harrison",

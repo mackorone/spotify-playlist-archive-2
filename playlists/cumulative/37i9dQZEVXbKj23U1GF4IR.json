@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -3680,7 +3680,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 217625,
       "name": "Ashke",
       "url": "https://open.spotify.com/track/5vTJrmnmJMAvFjrUpUWxyy"
@@ -6492,7 +6492,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -9701,6 +9701,24 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/3Y17l0VZgYEdZ7Zo4kKgCN"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179898,
+      "name": "Classic PT2",
+      "url": "https://open.spotify.com/track/41Y8xu4OoUH1wHdnQgpJky"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -10012,6 +10030,32 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234849,
+      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+      "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
     },
     {
       "album": {
@@ -13862,6 +13906,28 @@
       "duration_ms": 224000,
       "name": "Drag Path",
       "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
+    },
+    {
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "album": {
@@ -41033,6 +41099,24 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -46005,6 +46089,28 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
+    },
+    {
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd"
       },
@@ -46238,7 +46344,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -53426,7 +53532,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"

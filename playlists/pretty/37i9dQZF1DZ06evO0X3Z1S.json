@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88431,
+  "num_followers": 88429,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABg83GCpSMhgH5e8eMrlKMk",
+  "snapshot_id": "ar70AAAAAAA7UFpbNyowo3W3JTTekwic",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Something Stupid (feat. AWA)",
         "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 173220,
       "name": "I See Love - From Hotel Transylvania 3",
       "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 194720,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "yes, and? (remixes)",
-        "url": "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "yes, and? - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cyan",
         "url": "https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 164782,
       "name": "In Your Arms Tonight",
       "url": "https://open.spotify.com/track/2Ka17lh9JIVVTZetW8Cbnv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "yes, and? (remixes)",
+        "url": "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "yes, and? - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p"
     },
     {
       "added_at": null,

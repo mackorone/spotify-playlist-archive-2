@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Camargo
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,571 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,637 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

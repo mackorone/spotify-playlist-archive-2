@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. Classics to brand new tracks across heavy, power, doom, thrash, and sludge\. Cover: Trivium
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,416,096 likes - 200 songs - 14 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,416,225 likes - 200 songs - 14 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

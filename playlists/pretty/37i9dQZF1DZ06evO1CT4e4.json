@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 11103,
+  "num_followers": 11104,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAB+dzm+6erfhggo1PRPGmZX",
+  "snapshot_id": "ar70AAAAAAA+D71mh1FlwhnGnwrJf6sd",
   "tracks": [
     {
       "added_at": null,
@@ -79,26 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 51306,
-      "name": "Partita, Op. 2: I. Toccatina",
-      "url": "https://open.spotify.com/track/3t1ehEZp3HVWB9ae9uDueL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 223000,
       "name": "Vater unser",
       "url": "https://open.spotify.com/track/1ydSSd3qrfhef9cmoB5j7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 51306,
+      "name": "Partita, Op. 2: I. Toccatina",
+      "url": "https://open.spotify.com/track/3t1ehEZp3HVWB9ae9uDueL"
     },
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 706693,
-      "name": "Fratres (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e4rt: Spiegel im Spiegel",
         "url": "https://open.spotify.com/album/2F238ewBYteHd1bVVoLvuz"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 625986,
       "name": "Spiegel im Spiegel",
       "url": "https://open.spotify.com/track/58i6YHZ4xZtxwGMhWVOWFD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 706693,
+      "name": "Fratres (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Berliner Messe; Magnificat; Annum per Annum; 7 Antiphons",
-        "url": "https://open.spotify.com/album/7ghHg8jDEhYfXDRIXgbHY0"
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
       "artists": [
         {
@@ -484,17 +484,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Polyphony",
-          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
         },
         {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 206240,
-      "name": "Berliner Messe: I. Kyrie",
-      "url": "https://open.spotify.com/track/7IcX4mmOHx4ugKiciQrFxv"
+      "duration_ms": 250746,
+      "name": "The Deer's Cry",
+      "url": "https://open.spotify.com/track/4Fjv84kmmnz02yCyAsHYxb"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+        "name": "P\u00e4rt: Berliner Messe; Magnificat; Annum per Annum; 7 Antiphons",
+        "url": "https://open.spotify.com/album/7ghHg8jDEhYfXDRIXgbHY0"
       },
       "artists": [
         {
@@ -528,17 +528,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
         },
         {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
         }
       ],
-      "duration_ms": 185240,
-      "name": "Alleluia-Tropus",
-      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
+      "duration_ms": 206240,
+      "name": "Berliner Messe: I. Kyrie",
+      "url": "https://open.spotify.com/track/7IcX4mmOHx4ugKiciQrFxv"
     },
     {
       "added_at": null,
@@ -563,6 +563,30 @@
       "duration_ms": 239206,
       "name": "Kleine Litanei",
       "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Alleluia-Tropus",
+      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
     },
     {
       "added_at": null,
@@ -599,30 +623,6 @@
       "duration_ms": 576360,
       "name": "Tabula rasa: I. Ludus. Con moto - Live",
       "url": "https://open.spotify.com/track/62a9yYZe25B02RPN8ymjQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "The Deer's Cry",
-      "url": "https://open.spotify.com/track/4Fjv84kmmnz02yCyAsHYxb"
     },
     {
       "added_at": null,
@@ -675,30 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Kanon Pokajanen: Kondakion",
-      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Choral Music",
         "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 161026,
       "name": "Morning Star",
       "url": "https://open.spotify.com/track/0YsOmHmPAUsTyDQP3uPzdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Kanon Pokajanen: Kondakion",
+      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
     },
     {
       "added_at": null,
@@ -771,6 +771,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 449386,
+      "name": "Littlemore Tractus",
+      "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
         "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
@@ -815,34 +843,6 @@
       "duration_ms": 126090,
       "name": "O-Antiphonen - O Schl\u00fcssel Davids",
       "url": "https://open.spotify.com/track/1FDHW15yZPD8gQmLMima6g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Tractus",
-        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "Tallinn Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 449386,
-      "name": "Littlemore Tractus",
-      "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
     },
     {
       "added_at": null,
@@ -915,30 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
-        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Hymn to a Great City for 2 Pianos",
-      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 71613,
       "name": "Mommy\u2019s Kiss",
       "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
+        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Hymn to a Great City for 2 Pianos",
+      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
     },
     {
       "added_at": null,
@@ -1103,30 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "Symphony No. 2: III",
-      "url": "https://open.spotify.com/track/4C9DIuIqyXlPEyV7Z56KxH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Choral Music",
         "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 343440,
       "name": "The Woman with the Alabaster Box",
       "url": "https://open.spotify.com/track/7uiSEQHpyLRiCnu9lHPxhv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 287373,
+      "name": "Symphony No. 2: III",
+      "url": "https://open.spotify.com/track/4C9DIuIqyXlPEyV7Z56KxH"
     },
     {
       "added_at": null,

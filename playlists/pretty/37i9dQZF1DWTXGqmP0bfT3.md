@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,564 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,680 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 149 | [Small Town Syndrome](https://open.spotify.com/track/1iF43TRxhGRq1ZUCnHrjXr) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Make Them Suffer](https://open.spotify.com/album/4IlFCPiC0DlO0wip7BjQwr) | 3:48 |
 | 150 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
 
-Snapshot ID: `AAAAAEVHH4NC+P7uGq2e57T3gIOoCXnn`
+Snapshot ID: `AAAAAJXeUo403fL3OKZojX9W4CBAxzH1`

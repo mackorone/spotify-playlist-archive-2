@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/5vkDhjTPCkd4NIs6XVtjbZ"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140645,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/6yPJwUOy13ceAFTnsRwYCx"
+    },
+    {
+      "album": {
         "name": "Are You With Me?",
         "url": "https://open.spotify.com/album/0nJZ3MC23bIYlQ6e3Zn7Hm"
       },
@@ -332,6 +350,24 @@
       "duration_ms": 183715,
       "name": "Are You With Me?",
       "url": "https://open.spotify.com/track/4cTqE0VtYMiBNqldx2R4e0"
+    },
+    {
+      "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
       "album": {
@@ -1100,6 +1136,24 @@
       "duration_ms": 215280,
       "name": "Circles",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "album": {
+        "name": "Clever",
+        "url": "https://open.spotify.com/album/0aLQLvlKBiD3Cwt2wd4maJ"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213635,
+      "name": "Clever",
+      "url": "https://open.spotify.com/track/7kAA4QQq89UalAJUb4J9bp"
     },
     {
       "album": {
@@ -2100,7 +2154,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 143996,
       "name": "Don\u2019t Wanna Know",
       "url": "https://open.spotify.com/track/1sUqkrwC2nvgZdGH4a10Me"
@@ -2122,6 +2176,28 @@
       "duration_ms": 231086,
       "name": "Doors",
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "album": {
@@ -3440,7 +3516,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
@@ -3610,7 +3686,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
@@ -7272,7 +7348,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 165700,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/7ovySrfS1s6nY0VIdEnd9n"
@@ -7460,6 +7536,28 @@
       "duration_ms": 237250,
       "name": "So Good (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {
@@ -7981,6 +8079,24 @@
     },
     {
       "album": {
+        "name": "Too Close For Running",
+        "url": "https://open.spotify.com/album/5rkPZZREcGzY34cLajIzcg"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172440,
+      "name": "Tandem Bike",
+      "url": "https://open.spotify.com/track/6NUrORpYDdSFLYk96VrQlr"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
@@ -8090,6 +8206,24 @@
       "duration_ms": 167295,
       "name": "That's So True - Spotify Singles",
       "url": "https://open.spotify.com/track/39aMRjb5zKxNmYT4B0ztcW"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/4FF0Te5R85sLW8MNvehHKK"
     },
     {
       "album": {
@@ -8792,7 +8926,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 143439,
       "name": "UH OH!",
       "url": "https://open.spotify.com/track/0qFJaAtOXhT94nwgRxPVpI"
@@ -9476,7 +9610,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 226283,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
@@ -9534,7 +9668,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -9552,7 +9686,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 297262,
       "name": "Willing and Able",
       "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
@@ -9810,6 +9944,24 @@
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
+    },
+    {
+      "album": {
+        "name": "Your Side Of The Bar",
+        "url": "https://open.spotify.com/album/1ve3AFIPZ1Xi8pYvIxJadY"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183669,
+      "name": "Your Side Of The Bar",
+      "url": "https://open.spotify.com/track/1RBAAvXYioQEegEkK1Q4M9"
     },
     {
       "album": {

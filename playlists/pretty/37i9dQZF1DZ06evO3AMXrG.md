@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,714 likes - 42 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,775 likes - 42 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 5 | [La Complicidad](https://open.spotify.com/track/0BM1KdSASETfvFIZu4jK6l) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 6:04 |
 | 6 | [Camanance](https://open.spotify.com/track/5P1LE2M9yWPDDs4pHJJvZN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 4:30 |
 | 7 | [Te Creí](https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 4:02 |
-| 8 | [Saca, Prende Y Sorprende](https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Saca, Prende Y Sorprende](https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0) | 5:57 |
+| 8 | [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 |
 | 9 | [Baja la Tensión](https://open.spotify.com/track/3Ppo2RC5ViwcJWJ6A1obDN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 4:26 |
 | 10 | [Malherido](https://open.spotify.com/track/17H2cw23TdtkfzOiq6booX) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 4:36 |
-| 11 | [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 |
+| 11 | [Saca, Prende Y Sorprende](https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Saca, Prende Y Sorprende](https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0) | 5:57 |
 | 12 | [Un Deseo](https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:22 |
 | 13 | [Para Estar](https://open.spotify.com/track/5rYS63g3KKshTaKPhyeHj6) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 4:56 |
 | 14 | [En bucle](https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 5:16 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 41 | [Ideas Nuevas](https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:11 |
 | 42 | [Sobrevolando](https://open.spotify.com/track/6CM3CKkVFpNd7blvc6kpvN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 4:27 |
 
-Snapshot ID: `ar2igAAAAAC4YlQmA3qtkER9h222w0Pt`
+Snapshot ID: `ar70AAAAAAA6w7zs6uATjofUyg7kZDtR`

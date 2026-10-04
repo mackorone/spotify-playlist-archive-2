@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,802 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,813 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 29 | [Mãe](https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Dona Jacira](https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax), [Anna Tréa](https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 4:58 |
 | 30 | [Pequenas Alegrias da Vida Adulta \(feat\. Marcos Valle e Thiago Ventura\)](https://open.spotify.com/track/78m3BiWZ2dLGzElYwrIfFD) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Thiago Ventura](https://open.spotify.com/artist/5fk2j97tfvbVybgZvWmhs0) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 4:52 |
 | 31 | [Triunfo \(A Rua É Nóiz\)](https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla) | 3:29 |
-| 32 | [Alma Gêmea](https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rafa Kabelo](https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 4:00 |
-| 33 | [Seu Jogo](https://open.spotify.com/track/7eCfwimC5tQcGIEd4BkX5Q) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Essa É a Nossa Música](https://open.spotify.com/album/0c3nNfCc448zTAxQ1x5Wmo) | 3:57 |
-| 34 | [Mil Coisas](https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/31hE6DJXzhWh5sLoW3Xl88) | [Mil Coisas](https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W) | 3:22 |
-| 35 | [Mesmas Cores & Mesmos Valores](https://open.spotify.com/track/6r9YsN2G3BjljAKop4ZriS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 2:06 |
+| 32 | [Seu Jogo](https://open.spotify.com/track/7eCfwimC5tQcGIEd4BkX5Q) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Essa É a Nossa Música](https://open.spotify.com/album/0c3nNfCc448zTAxQ1x5Wmo) | 3:57 |
+| 33 | [Alma Gêmea](https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rafa Kabelo](https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 4:00 |
+| 34 | [Mesmas Cores & Mesmos Valores](https://open.spotify.com/track/6r9YsN2G3BjljAKop4ZriS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 2:06 |
+| 35 | [Mil Coisas](https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/31hE6DJXzhWh5sLoW3Xl88) | [Mil Coisas](https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W) | 3:22 |
 | 36 | [Ooorra \- Ao Vivo](https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 4:44 |
 | 37 | [Para Tio](https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [LR Beats](https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7), [Damien Seth](https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [RPB/Para Tio](https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw) | 3:46 |
 | 38 | [Só Isso](https://open.spotify.com/track/6HWD7W8mDDnSy18GFwuHt7) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [A Ordem Natural das Coisas / Chiclete com Banana \- Ao Vivo](https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:40 |
 | 50 | [Oi Compadre \- Ao Vivo](https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:06 |
 
-Snapshot ID: `ar2igAAAAAA9Yz4mNXO7Lho3AufpCrzb`
+Snapshot ID: `ar70AAAAAABGmc3Vs4L8uQC+6/BLtKBt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,446 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,470 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

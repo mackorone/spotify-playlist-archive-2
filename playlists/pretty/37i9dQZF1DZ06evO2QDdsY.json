@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16929,
+  "num_followers": 16930,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABCP0D3FYC9/ZxLr74FMyDg",
+  "snapshot_id": "ar70AAAAAAACREuKdT2J/LW03Nla1QUE",
   "tracks": [
     {
       "added_at": null,
@@ -550,11 +550,15 @@
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
         }
       ],
-      "duration_ms": 142586,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC"
+      "duration_ms": 125613,
+      "name": "Changed (Feat. The Blind Boys Of Alabama)",
+      "url": "https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf"
     },
     {
       "added_at": null,
@@ -622,15 +626,11 @@
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
         }
       ],
-      "duration_ms": 125613,
-      "name": "Changed (Feat. The Blind Boys Of Alabama)",
-      "url": "https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf"
+      "duration_ms": 142586,
+      "name": "Inside Me",
+      "url": "https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 183634,
+      "name": "Don't Start (feat. Valerie June)",
+      "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story of Michael and Tanya",
         "url": "https://open.spotify.com/album/4DsL4fp1EBMXavK10WxBkl"
       },
@@ -691,22 +711,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "JPEG RAW",
-        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+        "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
+        "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 183634,
-      "name": "Don't Start (feat. Valerie June)",
-      "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
+      "duration_ms": 219961,
+      "name": "Friendship [Feat. Carla Thomas, Stax Music Academy]",
+      "url": "https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W"
     },
     {
       "added_at": null,
@@ -743,26 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
-        "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
+        "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
-        },
-        {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 219961,
-      "name": "Friendship [Feat. Carla Thomas, Stax Music Academy]",
-      "url": "https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W"
+      "duration_ms": 209426,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 194000,
       "name": "Cry Baby - feat. Valerie June",
       "url": "https://open.spotify.com/track/10TS4rn0t7GRGEB3gGLjUv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
-        "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 19 min
+86 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [En la playa](https://open.spotify.com/track/1wOsSDOOXIx01XstsQXxp2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 4:09 | 2022-10-26 |  |
 | [En mi coche](https://open.spotify.com/track/2J4GESip4F72CDrrGQksJp) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:02 | 2022-10-26 |  |
 | [Estoy pintando tu sonrisa](https://open.spotify.com/track/5Q7bqhsyIM6Ns3zUWZNMqL) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Esta Es Tu Vida](https://open.spotify.com/album/04SU7UlCSrIujoewyo5P08) | 2:14 | 2022-10-26 |  |
+| [Gilipollas](https://open.spotify.com/track/4y0A1ot2Vg2Sbvfa2PHSeO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Gilipollas](https://open.spotify.com/album/50drLygk6ym0QNIgKALnhS) | 3:35 | 2026-10-04 |  |
 | [Hace un año](https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:03 | 2022-10-26 |  |
 | [Huellas En La Bajamar](https://open.spotify.com/track/6DvzPlatpPYy9ONS61cEDk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [En La Playa](https://open.spotify.com/album/0oGCqVHaevPFm5mzgTsUsL) | 3:07 | 2025-07-04 | 2025-07-05 |
 | [Indiana](https://open.spotify.com/track/2leObSGpCETIDpfGkqAgfU) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:53 | 2023-03-26 |  |
@@ -77,7 +78,7 @@
 | [Te quiero](https://open.spotify.com/track/5ULNuAoAozLAc721tRcPbX) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:45 | 2024-11-07 |  |
 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 | 2022-10-26 | 2026-03-06 |
 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 | 2024-02-10 | 2024-03-10 |
-| [Te Vi \(with Albert Hammond\)](https://open.spotify.com/track/1CnYkECrVRHHfguk01Zn07) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [En La Playa](https://open.spotify.com/album/0oGCqVHaevPFm5mzgTsUsL) | 3:45 | 2022-10-26 |  |
+| [Te Vi \(with Albert Hammond\)](https://open.spotify.com/track/1CnYkECrVRHHfguk01Zn07) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [En La Playa](https://open.spotify.com/album/0oGCqVHaevPFm5mzgTsUsL) | 3:45 | 2022-10-26 | 2026-10-04 |
 | [Temblando](https://open.spotify.com/track/55f3QOU8TENHmome949PN8) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:10 | 2025-11-25 | 2026-08-16 |
 | [Temblando](https://open.spotify.com/track/5oHH3wAhMt2McYsA6bBKMw) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:10 | 2022-10-26 |  |
 | [Tengo una chica](https://open.spotify.com/track/2ryq4M0wF5EqpGbxLTbHYM) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 3:52 | 2022-10-26 |  |

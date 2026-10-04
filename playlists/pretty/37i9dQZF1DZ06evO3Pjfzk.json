@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 117893,
+  "num_followers": 117911,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAD63npQQHfKkehnjwwCYwjy",
+  "snapshot_id": "ar70AAAAAAA+2P0GsHPbzmwdfkAg5kbL",
   "tracks": [
     {
       "added_at": null,
@@ -627,38 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Story House",
-        "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Two Story House",
-      "url": "https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Hillbilly Hippie",
-      "url": "https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
         "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 226753,
       "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
       "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Hillbilly Hippie",
+      "url": "https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Story House",
+        "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Two Story House",
+      "url": "https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g"
     },
     {
       "added_at": null,

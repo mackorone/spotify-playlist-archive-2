@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33882,
+  "num_followers": 33884,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABSARtdykc9dlcEJEg4RNF4",
+  "snapshot_id": "ar70AAAAAADF775wEDas+54d0JaDU2Bl",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 257293,
-      "name": "Love Don't Leave Me Waiting",
-      "url": "https://open.spotify.com/track/46Y60rjFW7VNqbwhNjh42o"
+      "duration_ms": 235080,
+      "name": "High Hope",
+      "url": "https://open.spotify.com/track/0A332vQjskOY6sjP00MgvA"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 235080,
-      "name": "High Hope",
-      "url": "https://open.spotify.com/track/0A332vQjskOY6sjP00MgvA"
+      "duration_ms": 257293,
+      "name": "Love Don't Leave Me Waiting",
+      "url": "https://open.spotify.com/track/46Y60rjFW7VNqbwhNjh42o"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 287333,
+      "name": "Wedding Ring",
+      "url": "https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mavis Staples I'll Take You There: An All-Star Concert Celebration (Deluxe / Live)",
         "url": "https://open.spotify.com/album/6MJb2k5X1k25ebj7ZyixCb"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 287333,
-      "name": "Wedding Ring",
-      "url": "https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Swell Season",
         "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
       },
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Flag Day",
-      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Between Two Shores",
         "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 266242,
       "name": "Time Will Be The Healer",
       "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Longitude",
+        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 377328,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/1x651IG9goWsHgtgOFIezP"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longitude",
-        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
       "artists": [
         {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
         },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 377328,
-      "name": "Fitzcarraldo",
-      "url": "https://open.spotify.com/track/1x651IG9goWsHgtgOFIezP"
+      "duration_ms": 249773,
+      "name": "Flag Day",
+      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burn the Maps",
+        "url": "https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 239386,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Didn't He Ramble",
         "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 189599,
       "name": "Just to Be the One (Funkhaus Version)",
       "url": "https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn the Maps",
-        "url": "https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 239386,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo"
     },
     {
       "added_at": null,
@@ -1007,18 +1007,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Settle (Vol. 1 - Transmissions East)",
-        "url": "https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1"
+        "name": "The Answer Is Yes",
+        "url": "https://open.spotify.com/album/6SmEezXLAEnn0ukYjcrdXZ"
       },
       "artists": [
         {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
         }
       ],
-      "duration_ms": 323540,
-      "name": "Didn't He Ramble (Funkhaus Version)",
-      "url": "https://open.spotify.com/track/52mNViayZN6tYChVWmaX01"
+      "duration_ms": 307185,
+      "name": "The Answer Is Yes",
+      "url": "https://open.spotify.com/track/5q27RB8LAAH6iNmmXdqczc"
     }
   ],
   "unique_name": "This Is Glen Hansard",

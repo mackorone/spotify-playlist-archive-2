@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,615 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,625 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 43 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 |
 | 44 | [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 |
 
-Snapshot ID: `ar2igAAAAAAsnj5P/PU6iSJ9unWZc44M`
+Snapshot ID: `ar70AAAAAABxYZbH+D7fDTWXMVU4KIU0`

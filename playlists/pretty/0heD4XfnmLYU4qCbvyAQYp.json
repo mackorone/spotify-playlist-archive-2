@@ -1,13 +1,29 @@
 {
   "description": "The best  indie rock tracks. | Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc.  Submit on IG @reinhardzwisler Cover: Lord Huron",
-  "num_followers": 4757,
+  "num_followers": 4756,
   "original_name": "Indie Rock",
   "owner": {
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAPQ4iwQqfhd0I4ZnypNPKHKtM85Ch2",
+  "snapshot_id": "AAAPRGR2toVeJ0+bvTYIt6v2axLRr80F",
   "tracks": [
+    {
+      "added_at": "2026-10-03 18:54:49",
+      "album": {
+        "name": "Adamak",
+        "url": "https://open.spotify.com/album/3mGrtHfwBmpzi1V5GU1DhG"
+      },
+      "artists": [
+        {
+          "name": "ARVANwave",
+          "url": "https://open.spotify.com/artist/5uO5G0LFlfkixcRCGGvx1E"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Adamak",
+      "url": "https://open.spotify.com/track/63I8aEaFFHMOC9HAntBflc"
+    },
     {
       "added_at": "2026-09-27 23:40:22",
       "album": {

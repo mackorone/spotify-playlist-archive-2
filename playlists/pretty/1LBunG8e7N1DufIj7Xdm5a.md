@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,903 songs - 11 day 1 hr 45 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,907 songs - 11 day 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4911,5 +4911,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4901 | [Rhythm of Today](https://open.spotify.com/track/0Ambv3LtpfWr5wKH1dZ5RX) | [Pure Queen](https://open.spotify.com/artist/4tDTJCLg5Z7TRuNPt2zN5o) | [Rhythm of Today](https://open.spotify.com/album/0uQj0af0UNC5mCFteBvxNE) | 4:36 |
 | 4902 | [Tuuli kuljettaa](https://open.spotify.com/track/6GdzkADsuQVmdxVv2YZEcO) | [Presidenttikuningas](https://open.spotify.com/artist/09CvbZF0xb31mQGO44VOSo) | [Tuuli kuljettaa](https://open.spotify.com/album/7J7xevI9cqKAEVoH4Zb3qn) | 7:38 |
 | 4903 | [Antarctica](https://open.spotify.com/track/7mpk8wnLKaNgd0XJ5ldgrF) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 3:51 |
+| 4904 | [More Than The Stars](https://open.spotify.com/track/0rzxNu6mAMhRixNHMJAIln) | [Nathan Ahrens](https://open.spotify.com/artist/7LTRl7M8SVCrpJkkZRnPfO) | [More Than The Stars](https://open.spotify.com/album/4gIN84rAuZCbK99P4HQWTm) | 3:34 |
+| 4905 | [Echoes Of You](https://open.spotify.com/track/31acji34PHBBhRghyzOslO) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Echoes Of You](https://open.spotify.com/album/2szjVkJIog1a6V01GynIrT) | 3:39 |
+| 4906 | [Starlight](https://open.spotify.com/track/7dQlIwSVi8cp4wg1ZegF1Z) | [The Sweaters](https://open.spotify.com/artist/2hhVb3U03MW5ikPSPUyWuR) | [Ashes From The Stars](https://open.spotify.com/album/7px4qrVusoVI6zRoGiehGN) | 3:49 |
+| 4907 | [Clutter](https://open.spotify.com/track/4ifWQHZnCxZCqP28QazfoD) | [Death Cassette](https://open.spotify.com/artist/2nmAxRXGD7nTztIEwIaHdX) | [Clutter](https://open.spotify.com/album/2zj2uC4hXuLhT6mOoIb5jF) | 2:47 |
 
-Snapshot ID: `AAAKYI0WNN3xm3wQ359jCZ8oOX469lMs`
+Snapshot ID: `AAAKZKZ+m3BCIM5kCkpcOVHuNQP4Vhr2`

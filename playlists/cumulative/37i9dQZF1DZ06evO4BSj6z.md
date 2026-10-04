@@ -4,7 +4,7 @@
 
 > This is Sasha Keable\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 22 min
+58 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Careless Over You](https://open.spotify.com/track/3Sz3IZZzkH4h1h1ZJghbVw) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:24 | 2025-08-02 |  |
 | [ceiling fan](https://open.spotify.com/track/1aT6EBdtCy8VY0WsZLxWbS) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 1:32 | 2026-02-11 |  |
 | [Chase Me](https://open.spotify.com/track/1IvfYmvPAkS3PpIEZxNp5B) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Honey](https://open.spotify.com/album/1rdVX1CfqEydMADUJAVVXB) | 3:25 | 2025-08-02 |  |
-| [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 | 2025-08-02 |  |
+| [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 | 2025-08-02 | 2026-10-04 |
 | [Don't Get Lost](https://open.spotify.com/track/5LgHHLy2dZZsbOQBmPDvHB) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 3:42 | 2025-08-02 |  |
 | [Exception](https://open.spotify.com/track/0pbPiK8zJedhwBHOKPz9Fx) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 4:06 | 2025-08-02 |  |
 | [FEEL SOMETHING](https://open.spotify.com/track/20QCGkd9sKJKuBbkWUkb3b) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 2:32 | 2026-02-12 |  |
@@ -43,6 +43,7 @@
 | [nobody](https://open.spotify.com/track/0IEJyXHC9aykHdpp6yPEEN) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 | 2026-02-11 |  |
 | [Only for Tonight](https://open.spotify.com/track/589gA0C2byuvVvySpiBK0z) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Only for Tonight](https://open.spotify.com/album/2It6kbXECr2WZmGCzWGX38) | 4:32 | 2025-08-02 |  |
 | [Opening Arms](https://open.spotify.com/track/229Enf6eB8tVscej1QD2qd) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 2:50 | 2025-08-02 |  |
+| [options](https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [options](https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy) | 3:32 | 2026-10-04 |  |
 | [Overtime \(feat\. Sasha Keable\)](https://open.spotify.com/track/0qhIlKdtSF0uVDhLzHiSsJ) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Forever \(Pt\. II\) \- EP](https://open.spotify.com/album/2g6Vy9zuQupmFv9Y4AAZ4m) | 3:12 | 2025-08-02 |  |
 | [Put Your Love On Me \- Stylo G Mix](https://open.spotify.com/track/7oo0Qh2os8dcR5mhFUmZ5r) | [Diztortion](https://open.spotify.com/artist/35vjmhmFFVoYLg4gPJBvEV), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Put Your Love On Me \(Stylo G Mix\)](https://open.spotify.com/album/41BZcJBiIZCXoBclGYUHaj) | 3:07 | 2025-08-02 |  |
 | [REPLICA \(feat\. Sasha Keable\)](https://open.spotify.com/track/1ZsfLZkWw8KgcwPIp6sseQ) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:34 | 2026-05-17 |  |

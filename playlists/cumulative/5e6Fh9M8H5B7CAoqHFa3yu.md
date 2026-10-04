@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,652 songs - 6 day 10 hr 34 min
+2,654 songs - 6 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Dove potremmo volare](https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:07 | 2025-06-10 |  |
 | [Down ina Ghetto](https://open.spotify.com/track/1cWNEXP0gozd93bKLSiytJ) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 4:00 | 2024-03-23 |  |
 | [Dr\. Greenthumb \- Fun Lovin' Criminals Instrumental](https://open.spotify.com/track/7549MvijdL7cQJU0UiKCdz) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fun Lovin' Criminals](https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv), [I.S.P.](https://open.spotify.com/artist/2agVIudMI27A0xWOjxor2Z) | [Dr\. Greenthumb EP](https://open.spotify.com/album/2V1B0dGrw9WlJDLHCJhp9y) | 3:56 | 2026-02-07 |  |
+| [Draakje Daan Durft Te Vliegen](https://open.spotify.com/track/3OuaGFZ8TtB7bxNsd1fZOw) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [Draakje Daan Durft Te Vliegen](https://open.spotify.com/album/6QihQOCt61dMfcGE5DveWk) | 1:47 | 2026-10-03 |  |
 | [Dragon Fire Dub](https://open.spotify.com/track/4iWIPmBwpKyxa1KjerCrkK) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:33 | 2024-05-01 |  |
 | [Dramatique](https://open.spotify.com/track/5xNtYcHeaLw9kvtzYZtXwj) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [Dramatique](https://open.spotify.com/album/64Rs1xyVBtbsNEw7DAkfPF) | 3:51 | 2025-11-08 |  |
 | [Dream](https://open.spotify.com/track/5MkILPrg3sr4Rq5OcHK7ih) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 3:42 | 2024-05-01 |  |
@@ -1248,6 +1249,7 @@
 | [La La La](https://open.spotify.com/track/0y1c2QSFcGFMq8YPCUQQ6Z) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s), [Byron](https://open.spotify.com/artist/6M12R2edCw7XnuIOABZAcV) | [La La La](https://open.spotify.com/album/7vR7M2kTI49tTaHBe6veyb) | 2:41 | 2024-07-08 |  |
 | [La linea del mare](https://open.spotify.com/track/1VEyJSdJeyiPSZ1b66c0EV) | [Terso](https://open.spotify.com/artist/68UQjiFaI4yhJwhK9DfLYf) | [La linea del mare](https://open.spotify.com/album/0hxA5eezHkjrbUXd9tteC2) | 2:57 | 2026-07-27 |  |
 | [La Mia Parte Migliore](https://open.spotify.com/track/46X4n8eLod6FOsEWL5ec2X) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [La Mia Parte Migliore](https://open.spotify.com/album/3BNCUUKYKHBY3NaNDU2HW8) | 4:15 | 2024-09-11 |  |
+| [La Música te Salva](https://open.spotify.com/track/01g4UErYYoMIIj4Y3bQf6T) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [La Música te Salva](https://open.spotify.com/album/0mg1HX7tRrOyJTUY2VkTB2) | 3:12 | 2026-10-03 |  |
 | [La notte è mia](https://open.spotify.com/track/1e0gOhesGPO3cxuViKbRzv) | [NeroVivo](https://open.spotify.com/artist/0op0Ux45RUDErA0Fi00qew) | [La notte è mia](https://open.spotify.com/album/57ebWCFaqk8GWgv3cYSEQj) | 2:56 | 2025-08-14 |  |
 | [La Parade des Loups\-Garous](https://open.spotify.com/track/2ljY6wNce0YG6W0l2EPZ2v) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [La Parade des Loups\-Garous](https://open.spotify.com/album/6kjozTIjsT44vc18E8yDIG) | 3:51 | 2025-07-20 |  |
 | [La Porta dell' Est \(Trieste è così\)](https://open.spotify.com/track/51Sra4wnL833h6knzB72YA) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [La Porta dell' Est \(Trieste è così\)](https://open.spotify.com/album/3SNaeqdZ3BRk7b9waYNdmk) | 4:30 | 2025-11-14 |  |

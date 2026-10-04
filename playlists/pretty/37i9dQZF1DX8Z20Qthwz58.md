@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,617 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,631 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 41 | [Woo](https://open.spotify.com/track/3OGSCPdVyj6FWJSm8bx70q) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:12 |
 | 42 | [Dandelion](https://open.spotify.com/track/3bqmErC7qZn0BMQHGfnxby) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:30 |
 | 43 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 |
-| 44 | [Be](https://open.spotify.com/track/47d52vNfgM4z0Us5QmP4TZ) | [DoBeat](https://open.spotify.com/artist/2nujFuydbIGyhalGKHMYb6) | [Be](https://open.spotify.com/album/2hJebRkn9Z3PpLSDgODtDE) | 3:20 |
+| 44 | [Be](https://open.spotify.com/track/47d52vNfgM4z0Us5QmP4TZ) | [Do Binnali](https://open.spotify.com/artist/2nujFuydbIGyhalGKHMYb6) | [Be](https://open.spotify.com/album/2hJebRkn9Z3PpLSDgODtDE) | 3:20 |
 | 45 | [Filll up the glass](https://open.spotify.com/track/2iBya25xIpYzYsOhQgQayt) | [KAIAVANT](https://open.spotify.com/artist/2xTSAzEj9nYkoVr2nptxFe) | [Spring](https://open.spotify.com/album/3s9tviPOi7o3KUV2JHTqz2) | 3:40 |
 | 46 | [WYA](https://open.spotify.com/track/5whsr6IaUmrwDRsb8vI1ba) | [CLADI](https://open.spotify.com/artist/2SK3DBft7HTqdzudpRYbYR) | [WYA](https://open.spotify.com/album/5YLJahKZqwIifVLzMH0l3x) | 3:44 |
 | 47 | [Sover \(feat\. EFFY\)](https://open.spotify.com/track/0wKiDGK0fkx6dSDCpa0zl9) | [VIN](https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4), [EFFY](https://open.spotify.com/artist/5Hq1SKAbACg8QBPQalqUGD) | [Sover](https://open.spotify.com/album/3KNFq8vyJ8soYkdRh0xlfS) | 2:42 |

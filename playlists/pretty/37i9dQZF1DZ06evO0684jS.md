@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,835 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,831 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 36 | [Woman Like Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:49 |
 | 37 | [The Way Life Goes \(feat\. Nicki Minaj & Oh Wonder\) \- Remix](https://open.spotify.com/track/6GNifiuBPrKFpwNBYnooFm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Way Life Goes \(feat\. Nicki Minaj & Oh Wonder\) \[Remix\]](https://open.spotify.com/album/6x8tzop53PDl2tvjIXB9a0) | 4:28 |
 | 38 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 |
-| 39 | [Ball For Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:26 |
-| 40 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
-| 41 | [Touchin, Lovin \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Trigga \(Deluxe\)](https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP) | 3:41 |
-| 42 | [IDOL](https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:20 |
+| 39 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
+| 40 | [Ball For Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:26 |
+| 41 | [IDOL](https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:20 |
+| 42 | [Touchin, Lovin \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Trigga \(Deluxe\)](https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP) | 3:41 |
 | 43 | [Beez In The Trap](https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 4:28 |
 | 44 | [Swish Swish](https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:02 |
 | 45 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 49 | [You The Boss](https://open.spotify.com/track/24XPxbzGwOlPKf1pdf1ZtW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [You The Boss](https://open.spotify.com/album/0zsPvg31izQ7kbbeF4arbL) | 4:40 |
 | 50 | [Kissing Strangers](https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Kissing Strangers](https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R) | 3:22 |
 
-Snapshot ID: `ar2igAAAAAA5D0dreGLrMNTa2SrW2lKm`
+Snapshot ID: `ar70AAAAAAARa7Zw+L957xA+AZyr+BhT`

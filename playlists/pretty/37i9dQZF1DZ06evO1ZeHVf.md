@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,482 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,498 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 24 | [Blessed Assurance](https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue) | [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Celebrating Fisk! \(The 150th Anniversary Album\)](https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF) | 3:40 |
 | 25 | [I Surrender All](https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:29 |
 | 26 | [Blessed Assurance \- Live/Bonus Track](https://open.spotify.com/track/4KO6WWPDNsZRXK6yn7EJQm) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 3:32 |
-| 27 | [Never Lost](https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:10 |
-| 28 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 |
+| 27 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 |
+| 28 | [Never Lost](https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:10 |
 | 29 | [Great Is Thy Faithfulness](https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:21 |
 | 30 | [Come Fill My Heart](https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:48 |
 | 31 | [His Strength Is Perfect](https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [Jesus Loves Me](https://open.spotify.com/track/1HhMmo7BiHudre8MRAUn4w) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The Hymns](https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9) | 3:06 |
 | 50 | [We Pray](https://open.spotify.com/track/2sy5wBrwnEDlOyYgL8SdTm) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This \(Deluxe Edition\)](https://open.spotify.com/album/69WCyVxbWHRWxWcTZmDhlP) | 6:02 |
 
-Snapshot ID: `ar2igAAAAACz5kqSS8WrA4UlJDRMgsHy`
+Snapshot ID: `ar70AAAAAADkGY1D9YASYzPy5eAmSqLQ`

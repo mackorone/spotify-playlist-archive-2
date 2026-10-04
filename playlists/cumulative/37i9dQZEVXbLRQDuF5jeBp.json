@@ -14917,6 +14917,24 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/3Y17l0VZgYEdZ7Zo4kKgCN"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179898,
+      "name": "Classic PT2",
+      "url": "https://open.spotify.com/track/41Y8xu4OoUH1wHdnQgpJky"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -15466,6 +15484,32 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234849,
+      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+      "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
     },
     {
       "album": {
@@ -21487,6 +21531,28 @@
     },
     {
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
@@ -23816,7 +23882,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 250546,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
@@ -24420,7 +24486,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 221958,
       "name": "expectations",
       "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
@@ -24658,7 +24724,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
@@ -27225,6 +27291,24 @@
     },
     {
       "album": {
+        "name": "Friends That I Don't Like",
+        "url": "https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217897,
+      "name": "Freakin\u2019 Out",
+      "url": "https://open.spotify.com/track/2LSltDwOzq2yoBliFUnY41"
+    },
+    {
+      "album": {
         "name": "Freakin\u2019 Out",
         "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
       },
@@ -27236,7 +27320,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 217897,
       "name": "Freakin\u2019 Out",
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
@@ -35826,7 +35910,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 228836,
       "name": "I Can't Love You Anymore",
       "url": "https://open.spotify.com/track/61rwYQu9An4QWrcCUyFUyq"
@@ -39096,7 +39180,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d"
@@ -39114,7 +39198,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -47640,7 +47724,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 240100,
       "name": "maggots for brains",
       "url": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI"
@@ -55298,7 +55382,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 149663,
       "name": "nothing",
       "url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i"
@@ -62826,6 +62910,24 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
     },
     {
       "album": {
@@ -70958,6 +71060,28 @@
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {
@@ -88284,6 +88408,28 @@
       "duration_ms": 334084,
       "name": "Who\u2019s Afraid of Little Old Me?",
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
+    },
+    {
+      "album": {
+        "name": "Friends That I Don't Like",
+        "url": "https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Why Don\u2019t You Say So (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/0JTvM3WnB7C2X8LxOcnCS5"
     },
     {
       "album": {

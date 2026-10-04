@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Jae Stephens
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,746 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,754 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

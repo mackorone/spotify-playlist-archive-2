@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,612 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,651 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 49 | [Dying Inside](https://open.spotify.com/track/71yv2oUlDswarpajuXlw5O) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/592j1syleeHJWGP5a4kYPm) | 3:10 |
 | 50 | [Empty \- 2025 Remastered](https://open.spotify.com/track/3HrNcD2Loy5lKsNZ3069Ye) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:25 |
 
-Snapshot ID: `ar2igAAAAACUxHmVUrGJh/jLF9+prT0z`
+Snapshot ID: `ar70AAAAAAC0RhKOmJyRXrGkSy09oJif`

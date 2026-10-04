@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-539 songs - 1 day 2 hr 48 min
+540 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 | 2023-12-30 | 2026-04-21 |
 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 | 2023-12-30 |  |
 | [Make the Night a Little Longer](https://open.spotify.com/track/11XXkGv4pof3CTz6c3dmMx) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Baby It's You](https://open.spotify.com/album/1uCxbnVYLbYGToExqSqWw9) | 2:29 | 2023-12-30 |  |
+| [Mexican Divorce](https://open.spotify.com/track/0NerTQRI6Cp5tIUWH5xjD3) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT), [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Under The Boardwalk Lights](https://open.spotify.com/album/0WAk0vTSelmI3sBDg7Gs3h) | 2:35 | 2026-10-03 |  |
 | [Mexican Divorce \- Single Version](https://open.spotify.com/track/11riJrU1R8Mx2okH11JRxd) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:35 | 2023-12-30 | 2025-12-19 |
 | [Michael](https://open.spotify.com/track/5zDVmuTRgRBD1N0uYwTVQn) | [The Highwaymen](https://open.spotify.com/artist/42zQWH4QjEPz9xO4tJpgjZ) | [The Highwaymen](https://open.spotify.com/album/6ryogWsABhSoIfcWUIjPql) | 2:46 | 2023-12-30 | 2024-05-27 |
 | [Mona Lisa](https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:14 | 2025-12-28 | 2026-04-21 |

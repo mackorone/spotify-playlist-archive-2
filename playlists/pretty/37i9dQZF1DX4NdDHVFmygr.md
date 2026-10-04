@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains du moment\. Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,500 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,638 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 7 | [LAMARA](https://open.spotify.com/track/2L3tTR70X3MTvBbU3Mcor6) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [LAMARA](https://open.spotify.com/album/2kWkiUrRJmA6ovFfiOCeGG) | 2:59 |
 | 8 | [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 |
 | 9 | [SATA 9TTALA](https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:33 |
-| 10 | [FORAS](https://open.spotify.com/track/1349sJ9c4sT6KBgUqZiK6S) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [FORAS](https://open.spotify.com/album/0DvwAM1ehhlLSaANGCVCS5) | 2:52 |
+| 10 | [7OLM KBIR](https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [7OLM KBIR](https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF) | 3:37 |
 | 11 | [PRINCES DE LA VILLE](https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Hoba Hoba Spirit](https://open.spotify.com/artist/2aZPgvcYQD2z4NIoO8x8Gi) | [A MAN WITH A GUN](https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV) | 3:37 |
 | 12 | [DEMMI MARROKI](https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [DEMMI MARROKI](https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp) | 3:31 |
 | 13 | [Cheraniya](https://open.spotify.com/track/3EwiqimqS7nPvWExYo3jx1) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Cheraniya](https://open.spotify.com/album/2C0dO2uVSXLigLwcdxOErk) | 2:50 |
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 19 | [Manzakine](https://open.spotify.com/track/1ExnYU3XbOW7mEIfaNeKX0) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Hajib](https://open.spotify.com/artist/4AJJyl9SLTjnRqzCGf0t6W) | [MANZAKINE x FIDÈLE](https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm) | 2:57 |
 | 20 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 |
 | 21 | [Houwa 2](https://open.spotify.com/track/5X6apZSO77oz98QahNlVG3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa 2](https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan) | 2:10 |
-| 22 | [7OLM KBIR](https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [7OLM KBIR](https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF) | 3:37 |
-| 23 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
-| 24 | [WARDA](https://open.spotify.com/track/6h12Wm7WN4HUwKiquHjaNK) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:59 |
-| 25 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 |
-| 26 | [PER LA VITA](https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [PER LA VITA](https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z) | 3:12 |
-| 27 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
-| 28 | [Majnoun](https://open.spotify.com/track/1bwxIPCP0sX7p3Svj3ZCak) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Majnoun](https://open.spotify.com/album/0GS1y6yGaY2OkoGdKSC0hq) | 2:48 |
+| 22 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
+| 23 | [WARDA](https://open.spotify.com/track/6h12Wm7WN4HUwKiquHjaNK) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:59 |
+| 24 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 |
+| 25 | [PER LA VITA](https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [PER LA VITA](https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z) | 3:12 |
+| 26 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
+| 27 | [Majnoun](https://open.spotify.com/track/1bwxIPCP0sX7p3Svj3ZCak) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Majnoun](https://open.spotify.com/album/0GS1y6yGaY2OkoGdKSC0hq) | 2:48 |
+| 28 | [FORAS](https://open.spotify.com/track/1349sJ9c4sT6KBgUqZiK6S) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [FORAS](https://open.spotify.com/album/0DvwAM1ehhlLSaANGCVCS5) | 2:52 |
 | 29 | [MON PAYS](https://open.spotify.com/track/7lpIzkaN94dhq5fuNc7v59) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [MON PAYS](https://open.spotify.com/album/5JdwrDTz88fZcX9RYa6agm) | 3:31 |
 | 30 | [DFN](https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:03 |
 | 31 | [Quand elle danse](https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Quand elle danse](https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [El Hlawa](https://open.spotify.com/track/6GO2By21Bc9nWETXxhCHvN) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [El Hlawa](https://open.spotify.com/album/3nzMdlYU0HMchzRzajMAtH) | 3:12 |
 | 50 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 |
 
-Snapshot ID: `AAAAAHAOUAaYFNmr8oj/WwGRabzI0WPI`
+Snapshot ID: `AAAAACjQk5gEOLGcuVMWb+zQui0Esgmi`

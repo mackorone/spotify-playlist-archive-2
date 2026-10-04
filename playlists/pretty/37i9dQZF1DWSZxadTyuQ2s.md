@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > The sound of Afrobeats echoing around the world\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,341 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,395 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 79 | [Patience](https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:20 |
 | 80 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 |
 
-Snapshot ID: `AAAAAB6ATj9gHjqQbVeQsv+HyJXUr+iM`
+Snapshot ID: `AAAAAF7DeiNh6qHrZqvoqHXG315ELIqI`

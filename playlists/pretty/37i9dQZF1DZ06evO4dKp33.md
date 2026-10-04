@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 
 > This is PinkPantheress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,315 likes - 46 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,364 likes - 46 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 | 45 | [Romeo + Rachel Chinouriri](https://open.spotify.com/track/1RXvponMOTq9sp8sKKXp7H) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:46 |
 | 46 | [Nice to Know You](https://open.spotify.com/track/39BYU2nLFR8Q1RcPdVvUMn) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:50 |
 
-Snapshot ID: `ar2igAAAAABU8V2c+eJkD9LNUzcJRXZF`
+Snapshot ID: `ar70AAAAAADYe4Pxb1AKMuql5EuGKG4u`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-870 songs - 2 day 5 hr 54 min
+871 songs - 2 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,8 +362,8 @@
 | [PUZZLE](https://open.spotify.com/track/09O5p1IP5i2xldBScLpXX7) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PUZZLE](https://open.spotify.com/album/7L8b9ERkqqs8F0rtjYrofV) | 4:36 | 2025-04-27 | 2025-06-20 |
 | [PUZZLE](https://open.spotify.com/track/5NTtQCnREVVfZuBjVMF4dm) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Pulsatilla cernua](https://open.spotify.com/album/3o7lBZIpr8OQZx8DMJgnOk) | 4:38 | 2025-06-19 | 2025-10-29 |
 | [Rashisa](https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rashisa](https://open.spotify.com/album/4XOkiHZhn0dnTGgFgAnNzV) | 5:02 | 2025-08-07 | 2025-11-21 |
-| [Really Really](https://open.spotify.com/track/50HetESAgZlIMF7atFpBRK) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [POPS](https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g) | 3:06 | 2026-09-30 |  |
-| [REBON](https://open.spotify.com/track/7hORRB8tJcRsi9aK0D0LGc) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [REBON / BUGS LIFE / DIGITAL GIRL](https://open.spotify.com/album/28ktl53fSmJ3FqWjG8VFdH) | 2:39 | 2026-09-24 | 2026-10-03 |
+| [Really Really](https://open.spotify.com/track/50HetESAgZlIMF7atFpBRK) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [POPS](https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g) | 3:06 | 2026-09-30 | 2026-10-04 |
+| [REBON](https://open.spotify.com/track/7hORRB8tJcRsi9aK0D0LGc) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [REBON / BUGS LIFE / DIGITAL GIRL](https://open.spotify.com/album/28ktl53fSmJ3FqWjG8VFdH) | 2:39 | 2026-09-24 |  |
 | [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-09 | 2024-08-23 |
 | [RED OUT](https://open.spotify.com/track/5sQUXxfkbDpauiEXFc4Rcr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 2:31 | 2024-08-22 | 2024-10-06 |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-08-29 | 2024-01-20 |
@@ -818,7 +818,7 @@
 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2025-02-06 | 2025-05-10 |
 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-18 | 2024-07-24 |
 | [真っ白](https://open.spotify.com/track/3GiADMmI5jfkhF2o4a2G8N) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [真っ白](https://open.spotify.com/album/2aKu1BAfHa6EJBX4ibdaQI) | 4:54 | 2025-03-07 | 2025-05-10 |
-| [瞞し](https://open.spotify.com/track/26Qm11RkM99q8AXizwwdF1) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [POPS](https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g) | 5:19 | 2026-09-30 |  |
+| [瞞し](https://open.spotify.com/track/26Qm11RkM99q8AXizwwdF1) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [POPS](https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g) | 5:19 | 2026-09-30 | 2026-10-04 |
 | [瞬き](https://open.spotify.com/track/7hIfpcdUZcyCKHYy8gp49E) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 5:25 | 2025-12-11 | 2026-01-15 |
 | [硝子窓](https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [硝子窓](https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG) | 3:37 | 2023-09-16 | 2023-10-18 |
 | [祝福](https://open.spotify.com/track/1VoTe7qVyqyMNLgZpQeugO) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:12 | 2023-10-05 | 2024-03-17 |
@@ -832,6 +832,7 @@
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2021-03-27\* | 2021-05-27 |
 | [紫苑](https://open.spotify.com/track/4dFGAtzdQ0C7WowKPZXc8J) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [紫苑](https://open.spotify.com/album/7kCkbIhyJo0h2P4tgRkxRR) | 5:24 | 2022-10-24 | 2022-12-08 |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-04-18 | 2023-09-13 |
+| [結び](https://open.spotify.com/track/2j0mQg77Ivev2aIksyiiqc) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [結び](https://open.spotify.com/album/6EiurupQASTiD9uFEJwxqg) | 3:26 | 2026-10-03 |  |
 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 | 2024-05-01 | 2024-07-24 |
 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2022-12-17 | 2023-02-27 |
 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 | 2025-09-02 | 2025-12-18 |

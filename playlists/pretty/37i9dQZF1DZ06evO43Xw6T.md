@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,589 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,623 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 36 | [Ya Corazón](https://open.spotify.com/track/4TXmASLbpCtP3zIbzEXRpj) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/4Wdhlkgk5f2UTPAmN1OIeZ) | 2:57 |
 | 37 | [La Mamoncita del Insta](https://open.spotify.com/track/2nNcHQLFf62ArlArXjBaiY) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4KuUfV5YK4Ru8GHi2V0pB0) | 3:13 |
 | 38 | [X TI](https://open.spotify.com/track/65zEkNLbIn9Idf2NmcYSVt) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [NOCTURNO](https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk) | 3:14 |
-| 39 | [Rosita](https://open.spotify.com/track/3GARXzSTz07Wy4pX7PbmfJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Muchacho Alegre](https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq) | 2:49 |
-| 40 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
+| 39 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
+| 40 | [Rosita](https://open.spotify.com/track/3GARXzSTz07Wy4pX7PbmfJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Muchacho Alegre](https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq) | 2:49 |
 | 41 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 |
 | 42 | [Brasilia](https://open.spotify.com/track/6GVVcy83JingFYrxI7qDyR) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ay Weyy](https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY) | 2:35 |
 | 43 | [TENDIDO](https://open.spotify.com/track/5jgvoAw4cyAYdxhPN7zwZb) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 49 | [Amarre](https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Amarre](https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14) | 2:59 |
 | 50 | [F's](https://open.spotify.com/track/6qtOaQrYTqyAZdNMCmGQwr) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:50 |
 
-Snapshot ID: `ar2igAAAAAAzF0HsNQemhZlv+veqVcQO`
+Snapshot ID: `ar70AAAAAABRe0mQ2895gPda2tg50zSZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: Mother's Cake
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,115 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,117 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

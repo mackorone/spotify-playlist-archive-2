@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 305765,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/4lQfnSLKKSKlep9ASNoTbo"
@@ -6700,7 +6700,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -10834,7 +10834,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
@@ -13298,6 +13298,28 @@
       "duration_ms": 173217,
       "name": "DraMa",
       "url": "https://open.spotify.com/track/5gwoYr9IrcgFrvCvzgfzyH"
+    },
+    {
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "album": {
@@ -20039,6 +20061,24 @@
     },
     {
       "album": {
+        "name": "Gjort Allting Igen",
+        "url": "https://open.spotify.com/album/4xkiGsURCn3aFmCSKULkGf"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147112,
+      "name": "Gjort Allting Igen",
+      "url": "https://open.spotify.com/track/4iuBy5w5oKIaX6ihgX1CYd"
+    },
+    {
+      "album": {
         "name": "Glad U Came (feat. ZieZie)",
         "url": "https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9"
       },
@@ -25837,6 +25877,24 @@
     },
     {
       "album": {
+        "name": "Your Turn In Blue (Deluxe)",
+        "url": "https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184696,
+      "name": "Idileey",
+      "url": "https://open.spotify.com/track/1LubZfwcC7CCQIbx11IQVU"
+    },
+    {
+      "album": {
         "name": "Igen",
         "url": "https://open.spotify.com/album/1iuLlpN0sB5dFelFzBVjmx"
       },
@@ -28696,7 +28754,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
@@ -32368,7 +32426,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -33354,6 +33412,32 @@
       "duration_ms": 157173,
       "name": "MAGAZINE",
       "url": "https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F"
+    },
+    {
+      "album": {
+        "name": "MAGDALENA (Aldrig Sur)",
+        "url": "https://open.spotify.com/album/1fT2C8Jt5StSKrbJaBF4Sh"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167819,
+      "name": "MAGDALENA (Aldrig Sur)",
+      "url": "https://open.spotify.com/track/6QtbCt8sbLLvERICOpULnB"
     },
     {
       "album": {
@@ -35050,7 +35134,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 125357,
       "name": "Mi Chico - Official - Jason Derulo x Melody",
       "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
@@ -36572,7 +36656,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
@@ -47255,6 +47339,28 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
+    },
+    {
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd"
       },
@@ -47974,6 +48080,24 @@
       "duration_ms": 203520,
       "name": "SOVA",
       "url": "https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt"
+    },
+    {
+      "album": {
+        "name": "Vad g\u00f6r jag nu?",
+        "url": "https://open.spotify.com/album/62Uo1Igpb6FTRC5mL8CUcj"
+      },
+      "artists": [
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199567,
+      "name": "Sovplats",
+      "url": "https://open.spotify.com/track/2uoSI0416OaFQfhZcm2GHB"
     },
     {
       "album": {
@@ -49880,7 +50004,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -50222,7 +50346,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -50982,7 +51106,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 152807,
       "name": "S\u00f6mnmolnet",
       "url": "https://open.spotify.com/track/1vTEu9w2nKcMTfssLnzZEx"
@@ -51376,7 +51500,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
@@ -51394,7 +51518,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -52154,7 +52278,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -56130,7 +56254,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 175686,
       "name": "Vem du \u00e4n \u00e4r",
       "url": "https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P"
@@ -56594,7 +56718,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 138947,
       "name": "Vila med mig",
       "url": "https://open.spotify.com/track/5JxKpEkR3Gqvf4OA8VLrBR"
@@ -57300,6 +57424,24 @@
       "duration_ms": 198618,
       "name": "V\u00e4nner",
       "url": "https://open.spotify.com/track/5wMUzY8FFxQ3aHdri7uuiP"
+    },
+    {
+      "album": {
+        "name": "V\u00e4nner tittar inte s\u00e5 p\u00e5 varandra",
+        "url": "https://open.spotify.com/album/0pTjP3KCy5PLkXblNIsKNb"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165016,
+      "name": "V\u00e4nner tittar inte s\u00e5 p\u00e5 varandra",
+      "url": "https://open.spotify.com/track/6ctL6rLr0hNhau3v3wGhHo"
     },
     {
       "album": {

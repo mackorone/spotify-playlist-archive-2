@@ -4,7 +4,7 @@
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-40 songs - 1 hr 40 min
+41 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Irresponsible](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:04 | 2024-01-10 |  |
 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 | 2024-01-10 |  |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-02-10 |  |
+| [Molly](https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Molly](https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0) | 3:12 | 2026-10-04 |  |
 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 | 2026-04-05 |  |
 | [Noah](https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 2:39 | 2026-06-14 |  |
 | [Picky](https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:20 | 2024-01-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 
 > This is Kanye West\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,972 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,112 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 12 | [OK \(feat\. Don Toliver\)](https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [BULLY \- DELUXE](https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh) | 2:38 |
 | 13 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 |
 | 14 | [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 |
-| 15 | [Gold Digger](https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:27 |
-| 16 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 |
+| 15 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 |
+| 16 | [Gold Digger](https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:27 |
 | 17 | [I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:03 |
 | 18 | [All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:59 |
 | 19 | [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:35 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 43 | [Dark Fantasy](https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:40 |
 | 44 | [Erase Me \- Main](https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:12 |
 | 45 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 |
-| 46 | [Mercy](https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mercy](https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv) | 5:29 |
-| 47 | [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 |
+| 46 | [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 |
+| 47 | [Mercy](https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mercy](https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv) | 5:29 |
 | 48 | [Put On](https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Recession](https://open.spotify.com/album/06k3QI4XXhSrvAqTh8mAdE) | 5:21 |
 | 49 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 |
 | 50 | [E.T.](https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:49 |
 
-Snapshot ID: `ar2igAAAAAAnkRODg7hUdYWA7H3V0QHo`
+Snapshot ID: `ar70AAAAAABME3Ar4p2fHz91yjpM3+5n`

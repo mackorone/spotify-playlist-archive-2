@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,917 likes - 34 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,016 likes - 34 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 33 | [Gravity](https://open.spotify.com/track/47BhgqJy3oRTGzjNTgf3hq) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 3:10 |
 | 34 | [Can't Deny It](https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:44 |
 
-Snapshot ID: `ar2igAAAAAC7qD7Ygy+Vgi6jus0JtN7p`
+Snapshot ID: `ar70AAAAAACSZc73/LMYX145Z2mw2cqW`

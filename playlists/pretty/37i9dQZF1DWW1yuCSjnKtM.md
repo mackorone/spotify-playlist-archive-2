@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > Hot right now 📈 cover: Cloonee, Prospa and Tristan Henry
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,479 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,475 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

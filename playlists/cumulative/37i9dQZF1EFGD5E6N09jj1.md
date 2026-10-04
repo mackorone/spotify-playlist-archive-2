@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-282 songs - 15 hr 12 min
+283 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Mean girls featuring julian casablancas](https://open.spotify.com/track/11J4S7N9cyB1Xvx2ClzTkt) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:46 | 2024-12-13 |  |
 | [Miss U](https://open.spotify.com/track/764YDnFgsAFrqJgDwiY84V) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:05 | 2023-12-30 |  |
 | [Moonlight](https://open.spotify.com/track/2PSfFKZqZPCSPB0wKUxpsq) | [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [TOTAL XANARCHY](https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H) | 3:31 | 2023-12-30 | 2026-01-15 |
-| [Moonlight](https://open.spotify.com/track/5G1VHdOog0ZhnaURm9CoK3) | [Lil XanniK](https://open.spotify.com/artist/3ahjZbbalgCMwieFg3GrCu) | [S4D](https://open.spotify.com/album/4kgFAxFqpRmn5Qw69NwZTM) | 1:30 | 2026-01-14 |  |
+| [Moonlight](https://open.spotify.com/track/4iT8EOPws0Z01UsfQW71Qy) | [Lil XanniK](https://open.spotify.com/artist/3ahjZbbalgCMwieFg3GrCu) | [Moonlight](https://open.spotify.com/album/0fMtYan7n5gzAcWoAVBxSI) | 1:30 | 2026-10-03 |  |
+| [Moonlight](https://open.spotify.com/track/5G1VHdOog0ZhnaURm9CoK3) | [Lil XanniK](https://open.spotify.com/artist/3ahjZbbalgCMwieFg3GrCu) | [S4D](https://open.spotify.com/album/4kgFAxFqpRmn5Qw69NwZTM) | 1:30 | 2026-01-14 | 2026-10-04 |
 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 | 2023-12-30 |  |
 | [My Reminder](https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 | 2026-03-04 |  |
 | [My Sex](https://open.spotify.com/track/6owoifqMA61WEpm6i2IivB) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [My Sex](https://open.spotify.com/album/2boD2HxLljj0KtuTB23OFb) | 4:21 | 2023-12-30 |  |

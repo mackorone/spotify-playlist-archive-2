@@ -8409,6 +8409,32 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234849,
+      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+      "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
+    },
+    {
+      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -12182,7 +12208,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -20452,7 +20478,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -28514,7 +28540,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 216806,
       "name": "Nano",
       "url": "https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW"
@@ -30936,7 +30962,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -33655,6 +33681,24 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -34252,7 +34296,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 244013,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
@@ -38123,6 +38167,28 @@
     },
     {
       "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
+    },
+    {
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd"
       },
@@ -40026,7 +40092,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -40044,7 +40110,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"

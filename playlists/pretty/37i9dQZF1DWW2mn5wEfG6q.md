@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > The Indie highlights of 2013\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,031 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,043 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 96 | [So Good At Being in Trouble](https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn) | 3:50 |
 | 97 | [Blondie](https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 3:14 |
 | 98 | [Miracle Mile](https://open.spotify.com/track/7lMQmn9eXfnUwkrYcpHwvr) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/0uQ7R0muujuP3OOu5Q9ZAg) | 3:00 |
-| 99 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 |
+| 99 | [Shuggie](https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw) | 3:21 |
 | 100 | [Only](https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 4:28 |
 
 Snapshot ID: `AAAAACF7eI7B9Z3A+927YaGAZQ0u1Q2l`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Mackeeper
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,558 likes - 72 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,643 likes - 72 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

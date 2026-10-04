@@ -517,6 +517,6 @@
 | [You're So Uninviting](https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k), [Molly Coleman](https://open.spotify.com/artist/3zVctuiATB47XZXKAgzPZD) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:15 | 2026-04-06 | 2026-05-14 |
 | [Your Flow](https://open.spotify.com/track/7w3PDDIQ9mO58DnRpbwRFJ) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Your Flow](https://open.spotify.com/album/5IMkL1GoZJlrtEqnNGR5Wn) | 3:00 | 2026-04-02 | 2026-05-14 |
 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 | 2026-01-09 | 2026-02-20 |
-| [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 | 2026-08-15 |  |
+| [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [BONCHI](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 | 2026-08-15 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

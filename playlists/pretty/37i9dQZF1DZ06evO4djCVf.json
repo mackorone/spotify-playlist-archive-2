@@ -1,13 +1,29 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 105193,
+  "num_followers": 105224,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAADj2346qAPYrmN5OBSgSfyj",
+  "snapshot_id": "ar70AAAAAACN+96v8XM4ovROmaP8w79g",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/4o6Q9UNplVun5nsP2FRRvt"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 171075,
+      "name": "Pijnstiller",
+      "url": "https://open.spotify.com/track/11wW1i3hmPCBO49XNgxcHx"
+    },
     {
       "added_at": null,
       "album": {
@@ -391,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
-        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "De Helft Van Wat Je Doet",
-      "url": "https://open.spotify.com/track/7f2rMSEF8WLqcbd6tvwlH1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iemand Van Vroeger",
         "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
       },
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glass House Sessions",
-        "url": "https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc"
+        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
+        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 191513,
-      "name": "Altijd Wel Iemand",
-      "url": "https://open.spotify.com/track/1wRIRVwfQS1rE99l0owSjc"
+      "duration_ms": 203013,
+      "name": "De Helft Van Wat Je Doet",
+      "url": "https://open.spotify.com/track/7f2rMSEF8WLqcbd6tvwlH1"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
-        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
+        "name": "Glass House Sessions",
+        "url": "https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 211550,
-      "name": "'t Geeft Niet",
-      "url": "https://open.spotify.com/track/2kWjR4AwkP46dDV7WuEYEI"
+      "duration_ms": 191513,
+      "name": "Altijd Wel Iemand",
+      "url": "https://open.spotify.com/track/1wRIRVwfQS1rE99l0owSjc"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
       "duration_ms": 176396,
       "name": "Iemand Van Vroeger",
       "url": "https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
+        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 211550,
+      "name": "'t Geeft Niet",
+      "url": "https://open.spotify.com/track/2kWjR4AwkP46dDV7WuEYEI"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
-        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171237,
-      "name": "Straks Is Het Te Laat",
-      "url": "https://open.spotify.com/track/7EDgU3nwMkU9YesCHKz6Io"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iemand Van Vroeger",
         "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 183870,
       "name": "Zinloos",
       "url": "https://open.spotify.com/track/0dgmDxjOPwf3bZCDPGIuI9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
+        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 171237,
+      "name": "Straks Is Het Te Laat",
+      "url": "https://open.spotify.com/track/7EDgU3nwMkU9YesCHKz6Io"
     },
     {
       "added_at": null,
@@ -583,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glass House Sessions",
+        "url": "https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 162768,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/0pLJnBuPRp0waRkDwZoHYM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
         "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
@@ -599,22 +631,6 @@
       "duration_ms": 218028,
       "name": "Lampedusa",
       "url": "https://open.spotify.com/track/6inAiQLdh6IVzBBrAGaO1I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glass House Sessions",
-        "url": "https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 162768,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/0pLJnBuPRp0waRkDwZoHYM"
     },
     {
       "added_at": null,

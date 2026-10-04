@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Andrea Bejar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,280 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,275 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

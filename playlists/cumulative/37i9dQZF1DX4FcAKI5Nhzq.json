@@ -23917,6 +23917,24 @@
     },
     {
       "album": {
+        "name": "Rhythm Check (Walking together)",
+        "url": "https://open.spotify.com/album/30PWWtppSIC3830ieDiG2h"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167894,
+      "name": "Rhythm Check (Walking together)",
+      "url": "https://open.spotify.com/track/5rIHbOZZ5i9cssXAUPlNae"
+    },
+    {
+      "album": {
         "name": "riBBon",
         "url": "https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw"
       },

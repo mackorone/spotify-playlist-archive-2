@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,116 likes - 42 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,145 likes - 42 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 10 | [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 |
 | 11 | [Dios Es Un Stalker](https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:10 |
 | 12 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 |
-| 13 | [Antes de Morirme \- feat\. ROSALÍA](https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/3toVfR6MhCCxb08Y0WJYL9) | 3:19 |
-| 14 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
+| 13 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
+| 14 | [Antes de Morirme \- feat\. ROSALÍA](https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/3toVfR6MhCCxb08Y0WJYL9) | 3:19 |
 | 15 | [Sexo, Violencia y Llantas](https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:20 |
 | 16 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 |
 | 17 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 41 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
 | 42 | [Aute Cuture](https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aute Cuture](https://open.spotify.com/album/23irnvaijPHVE7682D4G3f) | 2:27 |
 
-Snapshot ID: `ar2igAAAAAAjvwt25UsPqFcIbAZKfY7h`
+Snapshot ID: `ar70AAAAAADC/eJyHojxFGxfkcGr8a8/`

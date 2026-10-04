@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,168,229 likes - 200 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,168,302 likes - 200 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 199 | [Where We Wander](https://open.spotify.com/track/5zQHpd8xbB4JfEpelH0PEZ) | [Second Cup](https://open.spotify.com/artist/6K4cUa3X1A8IxOyuzwYlBz) | [Where We Wander](https://open.spotify.com/album/0ad90ri8Zih5XANHdfIAs5) | 2:09 |
 | 200 | [Roosevelt Hotel](https://open.spotify.com/track/2BhVxXIkQ5mAZ5yewY62MY) | [Mr Clyde](https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby) | [Roosevelt Hotel](https://open.spotify.com/album/4tmbiEVsGPSUCnPjePHVAQ) | 2:20 |
 
-Snapshot ID: `AAAAAJGdTswnSE6VoLGlTu8c2Njer5gR`
+Snapshot ID: `AAAAALVsnnOOz48LxHJwCipIAL7VoK8r`

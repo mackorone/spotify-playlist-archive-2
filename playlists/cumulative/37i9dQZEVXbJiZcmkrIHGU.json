@@ -8528,7 +8528,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 219365,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU"
@@ -8648,7 +8648,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -9996,7 +9996,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 225834,
       "name": "BbY WOW",
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
@@ -13524,7 +13524,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -17668,7 +17668,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 206164,
       "name": "Cleveland!",
       "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
@@ -18948,6 +18948,24 @@
       "duration_ms": 173320,
       "name": "CRUSH (with Travis Scott)",
       "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
+    },
+    {
+      "album": {
+        "name": "Cry Baby Cry",
+        "url": "https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Cry Baby Cry",
+      "url": "https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG"
     },
     {
       "album": {
@@ -25178,7 +25196,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -28056,6 +28074,32 @@
       "duration_ms": 178923,
       "name": "Feuer \u00fcber Deutschland",
       "url": "https://open.spotify.com/track/5TvAx4B21LtPUoP5t5upBI"
+    },
+    {
+      "album": {
+        "name": "Feuermelder",
+        "url": "https://open.spotify.com/album/1gA0oDh54mtOsr7FVp5nWK"
+      },
+      "artists": [
+        {
+          "name": "1019",
+          "url": "https://open.spotify.com/artist/3r82jUxl7ThSdOhB90Qn6u"
+        },
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        },
+        {
+          "name": "Nizi19",
+          "url": "https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "Feuermelder",
+      "url": "https://open.spotify.com/track/6i47bNSWEEWa6VmLZrZmXS"
     },
     {
       "album": {
@@ -47477,6 +47521,28 @@
     },
     {
       "album": {
+        "name": "LEBKUCHENHERZ",
+        "url": "https://open.spotify.com/album/6d8qFx0U6qDU2EvvXTF9MH"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156768,
+      "name": "LEBKUCHENHERZ",
+      "url": "https://open.spotify.com/track/0QhRLYQ2N3KhkgOu2VfURs"
+    },
+    {
+      "album": {
         "name": "LECHE",
         "url": "https://open.spotify.com/album/6VeiFPAPEIho1qq5yfgFcl"
       },
@@ -51690,7 +51756,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
@@ -58892,7 +58958,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 178000,
       "name": "Niemals",
       "url": "https://open.spotify.com/track/4sQLcCNICsrx3eJCRzIkDM"
@@ -62082,7 +62148,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -64596,7 +64662,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 190690,
       "name": "Pink Clouding",
       "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
@@ -65582,6 +65648,28 @@
       "duration_ms": 146546,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/3mynByp1pJOsjCkrSLrjbC"
+    },
+    {
+      "album": {
+        "name": "Porzellan",
+        "url": "https://open.spotify.com/album/7gvPJDMYou0XnDGcOmqqO9"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "Porzellan",
+      "url": "https://open.spotify.com/track/5bDWgqubENQqlPoORYNtIQ"
     },
     {
       "album": {
@@ -68592,7 +68680,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -70010,7 +70098,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -78477,6 +78565,28 @@
     },
     {
       "album": {
+        "name": "WALDEMAR HOF",
+        "url": "https://open.spotify.com/album/0skGShVY3HY9vS4RhA7oKM"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "10am",
+          "url": "https://open.spotify.com/artist/3iWJZxxo0n6y471ll6Z5N4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138059,
+      "name": "TAKE ME HOME",
+      "url": "https://open.spotify.com/track/4RzZ7CBMYqHu7YbJGemNYW"
+    },
+    {
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz"
       },
@@ -78686,7 +78796,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
@@ -78704,7 +78814,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/5vXnH99Tn0qAh84SWU5sfc"
@@ -89494,6 +89604,28 @@
       "duration_ms": 212114,
       "name": "West Connect (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg"
+    },
+    {
+      "album": {
+        "name": "WALDEMAR HOF",
+        "url": "https://open.spotify.com/album/0skGShVY3HY9vS4RhA7oKM"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "WHAT A TIME (feat. Souly)",
+      "url": "https://open.spotify.com/track/0imakjuiCsEFCmpUaz7PDJ"
     },
     {
       "album": {

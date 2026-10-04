@@ -3501,6 +3501,28 @@
     },
     {
       "album": {
+        "name": "TARA",
+        "url": "https://open.spotify.com/album/4sbqzspvKJPwW9rUe1EXZg"
+      },
+      "artists": [
+        {
+          "name": "Douglas Bastos",
+          "url": "https://open.spotify.com/artist/4o7zEsCdVDbEbIhnubiH5y"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399179,
+      "name": "TARA",
+      "url": "https://open.spotify.com/track/31UpjqpgCw9EyexkTMkeDC"
+    },
+    {
+      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
       },

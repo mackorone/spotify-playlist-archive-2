@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,192 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,274 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 32 | [Chuper Amigos](https://open.spotify.com/track/6h8oQHda1vXeex187OLud3) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 4:05 |
 | 33 | [Juro Que Nunca Volveré \- En Vivo](https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Besos y Copas Desde Hollywood \(En Vivo\)](https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE) | 3:29 |
 | 34 | [Puño de Tierra \- En Vivo Desde Los Ángeles 2011](https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mírame Desde Staples Center \(En Vivo Desde Los Ángeles 2011\)](https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U) | 3:31 |
-| 35 | [Querida Socia](https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 2:58 |
-| 36 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
+| 35 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
+| 36 | [Querida Socia](https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 2:58 |
 | 37 | [Jefa de Jefas](https://open.spotify.com/track/6Lwdlm1EPGrlZhh9BrL415) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:00 |
 | 38 | [Paloma Negra \- En Vivo](https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra Desde Monterrey \(En Vivo\)](https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN) | 3:23 |
-| 39 | [Que Ganas de No Verte Nunca Más \- Pop](https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 3:53 |
-| 40 | [Dama Divina](https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:36 |
+| 39 | [Dama Divina](https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:36 |
+| 40 | [Que Ganas de No Verte Nunca Más \- Pop](https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 3:53 |
 | 41 | [Cuando Abras los Ojos](https://open.spotify.com/track/7DgqG1GwFqEN5tsNpCbTEr) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:44 |
 | 42 | [Ajustando Cuentas](https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ajustando Cuentas](https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV) | 3:42 |
 | 43 | [Detrás de Mi Ventana \- Banda](https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 49 | [La Misma Gran Señora](https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 3:01 |
 | 50 | [Las Mismas Costumbres](https://open.spotify.com/track/3N9IiTrJOqVECQy9zvhvPq) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:25 |
 
-Snapshot ID: `ar2igAAAAAD9bhSrN1DlXinKZms5t0YW`
+Snapshot ID: `ar70AAAAAABpV9ePqY3eM7+Ca6y75lOh`

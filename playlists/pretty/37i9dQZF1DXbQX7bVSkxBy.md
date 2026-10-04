@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,928 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,007 likes - 50 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

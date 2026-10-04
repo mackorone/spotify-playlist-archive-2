@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,437 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,442 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

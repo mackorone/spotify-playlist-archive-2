@@ -15353,6 +15353,24 @@
     },
     {
       "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253213,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1"
+    },
+    {
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk"
       },
@@ -17204,6 +17222,24 @@
       "duration_ms": 194700,
       "name": "I Love Lucy",
       "url": "https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291796,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
     },
     {
       "album": {
@@ -22494,6 +22530,28 @@
       "duration_ms": 91106,
       "name": "March Of The Witch Hunters - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/4HXWWEFUAs4ixa4oLC08Z6"
+    },
+    {
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339890,
+      "name": "Margaret (feat. Bleachers)",
+      "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"
     },
     {
       "album": {
@@ -32356,8 +32414,8 @@
       },
       "artists": [
         {
-          "name": "Drifters",
-          "url": "https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ"
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
         }
       ],
       "date_added": "2026-09-11",

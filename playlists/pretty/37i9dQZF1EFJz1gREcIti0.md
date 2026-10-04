@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 33 | [Dear Soulmate](https://open.spotify.com/track/2OcTokSU4FnEaIMpNSAh9F) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:20 |
 | 34 | [Clockwork](https://open.spotify.com/track/3QPLboX38WnMhQDWSDuqcY) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:30 |
 | 35 | [Above The Chinese Restaurant](https://open.spotify.com/track/4bQaYjJTtUC1tNlZGDwENU) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:43 |
-| 36 | [Sweet Dream](https://open.spotify.com/track/3HhrQvdp1HIVluWLEgdAsV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:02 |
-| 37 | [Just Like Chet](https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:36 |
+| 36 | [Just Like Chet](https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:36 |
+| 37 | [Sweet Dream](https://open.spotify.com/track/3HhrQvdp1HIVluWLEgdAsV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:02 |
 | 38 | [Trouble](https://open.spotify.com/track/0Ah2wJirVEGUITkcPU6ali) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 2:51 |
 | 39 | [Carousel](https://open.spotify.com/track/5FkxMMCUmSu0C00FXAuPPO) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:19 |
 | 40 | [I Could Imagine](https://open.spotify.com/track/6goWg0ZCPHgDThVR8thWNX) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 2:39 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 104 | [Granola](https://open.spotify.com/track/23HzlKhW6II5C0dyTMXJh2) | [drumaq](https://open.spotify.com/artist/6YxiJtz5oCCcDsMGiLNMh5) | [Vitamin D](https://open.spotify.com/album/6PlHbEXvDCH52Iq5NO2gAf) | 3:21 |
 | 105 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 |
 | 106 | [1 of 1](https://open.spotify.com/track/4G67MRybTVTYariSY5WBXB) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:45 |
-| 107 | [can you say the same](https://open.spotify.com/track/389KxeDYFxsl6tLycdBqLq) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:15 |
-| 108 | [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 |
+| 107 | [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 |
+| 108 | [can you say the same](https://open.spotify.com/track/389KxeDYFxsl6tLycdBqLq) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:15 |
 | 109 | [Hot Cocoa](https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/1i5Mfk31QPBTMH5dbZjavr) | 3:38 |
 | 110 | [Coconut Oil](https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:01 |
 | 111 | [pink starburst](https://open.spotify.com/track/4njZsHyu8iHpZmT8sV4Mjn) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 2:55 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 150 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 151 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `Acd5rgAAAACPlTa0A2hhw9mmpsgZNf5B`
+Snapshot ID: `Acd/TgAAAABcXStTh/Hi16huvR9dpRJx`

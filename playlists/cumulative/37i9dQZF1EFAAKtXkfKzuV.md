@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 4 hr 10 min
+90 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Don't Leave Because I Love You](https://open.spotify.com/track/6loNQhnowrsiqMFyIaGUIs) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Don't Leave Because I Love You](https://open.spotify.com/album/5xnYK3kE1cOCetnHljNwm1) | 2:51 | 2025-11-15 |  |
 | [Don't Wake Me Up](https://open.spotify.com/track/1CqdtosAf3DaK6HWbee2JX) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [JEMKA](https://open.spotify.com/artist/5eeQYpsEkVTJCXPZnp5gTt), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Don't Wake Me Up](https://open.spotify.com/album/2DOtUcaMZeiUkQ1qB5nDBb) | 2:14 | 2024-10-23 |  |
 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 | 2023-06-29 |  |
-| [Easy To Love](https://open.spotify.com/track/5Bns5x2e8ypUcDVuE1uyIm) | [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Easy To Love](https://open.spotify.com/album/708yPIVpuslXntjeYcZ2de) | 2:37 | 2025-01-09 | 2025-04-12 |
+| [Easy To Love](https://open.spotify.com/track/5Bns5x2e8ypUcDVuE1uyIm) | [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Easy To Love](https://open.spotify.com/album/708yPIVpuslXntjeYcZ2de) | 2:37 | 2025-01-09 |  |
 | [end of the world](https://open.spotify.com/track/1ZoCqQEuhoOEW4PQhVDovL) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [the wind is picking up](https://open.spotify.com/album/0zo7swJcqnoxLTWvBAtl19) | 3:09 | 2025-06-26 |  |
 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 | 2023-06-29 |  |
 | [expressionist](https://open.spotify.com/track/05eJFgVGhJ7a0VWAVUDVLu) | [willow&ash](https://open.spotify.com/artist/4SySVprkFG0en1cbm3tT83) | [expressionist](https://open.spotify.com/album/2DDXR705jFqEQVuXIoo4kp) | 3:06 | 2026-09-08 |  |
@@ -96,6 +96,7 @@
 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 | 2023-06-29 | 2026-05-27 |
 | [When I Wake Up](https://open.spotify.com/track/6URUyQLdPdKgCySVgryLpH) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 2:54 | 2023-06-29 |  |
 | [Wrong Side of Love](https://open.spotify.com/track/6uShcdguw0MhXGHlUpLz2L) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Wrong Side of Love](https://open.spotify.com/album/0FxreyHyZihHMyvcnM97bi) | 3:05 | 2025-09-14 |  |
+| [zu spät](https://open.spotify.com/track/4VtscvS6vlYW8upIxRL0YV) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [was wenn alles gut geht?](https://open.spotify.com/album/1gOweaW2dGjmbyObUdL8Bp) | 3:20 | 2026-10-03 |  |
 | [Über dich](https://open.spotify.com/track/3qM79gu83nz6RiT98UGWTI) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:04 | 2023-06-29 |  |
 
 \*This playlist was first scraped on 2023-06-30. Prior content cannot be recovered.

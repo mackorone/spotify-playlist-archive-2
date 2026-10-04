@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,194 songs - 4 day 23 hr 58 min
+2,195 songs - 5 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1067,7 +1067,7 @@
 | [LEMONADE](https://open.spotify.com/track/7jx5CmnSDhVbLD9Eww6QLB) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album \(GISELLE Special Version\)](https://open.spotify.com/album/7ED3mOUgYLjyvtRDrrSyrn) | 3:07 | 2026-06-01 | 2026-06-08 |
 | [Lemonade](https://open.spotify.com/track/6txVOdSbg928oeGhlVUrdK) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:10 | 2021-09-19 | 2021-10-03 |
 | [LEMONHEAD \(feat\. 42 Dugg\)](https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:10 | 2021-06-27 | 2021-06-28 |
-| [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 | 2026-07-25 |  |
+| [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 | 2026-07-25 | 2026-10-04 |
 | [Less than a Lover](https://open.spotify.com/track/1gK5uqArBDmAJSr0DwvJ1b) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/5ROqmKvvTaQ9IOHlElStj2) | 2:25 | 2026-08-05 | 2026-09-22 |
 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 | 2022-01-08 | 2022-01-19 |
 | [LET IT GO \(feat\. Justin Bieber & 21 Savage\)](https://open.spotify.com/track/1cEhrSF6EylAEqdhUGuNpX) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 2:45 | 2021-05-05 | 2021-05-23 |
@@ -1976,6 +1976,7 @@
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-23 | 2024-03-25 |
 | [UDDUN](https://open.spotify.com/track/4duZ9kMY4BvRubmBlKEWkI) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [Ghenn](https://open.spotify.com/album/69FHIXspR1TqcpIfmS0ZZR) | 2:32 | 2022-03-04 | 2022-03-07 |
 | [Ugly duckling \(Feat\. sunwoojunga, BOBBY\) \(Prod\. R.Tee\)](https://open.spotify.com/track/4CtEpNW39gY6bHWFDfoXKG) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 3:28 | 2022-12-25 | 2023-01-04 |
+| [UGRS RIGHT HERE!](https://open.spotify.com/track/6UH7SnRSS8NkopwZiowol5) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [MONOLITH](https://open.spotify.com/album/3d5fZhrTMffq3V9q8jxw4q) | 3:10 | 2026-10-03 |  |
 | [ULSSIGU](https://open.spotify.com/track/651GMkAaR0JbpzZXRvdQ3D) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 2](https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O) | 3:21 | 2025-08-31 | 2026-03-22 |
 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 | 2023-12-23 | 2025-12-07 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-18 | 2025-12-28 |

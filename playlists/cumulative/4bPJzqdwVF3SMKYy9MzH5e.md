@@ -4,7 +4,7 @@
 
 > 
 
-2,460 songs - 5 day 12 hr 12 min
+2,461 songs - 5 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2467,6 +2467,7 @@
 | [✻H+3+ЯД✻7luCJIo0T6..\. \(Slowed + Reverb\)](https://open.spotify.com/track/0DRky0I9vrl7UPCQofTXVW) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6..\. \(Remixes\)](https://open.spotify.com/album/6m5OWHRT8APtCCY0Rf1c4S) | 3:58 | 2024-05-29 |  |
 | [うずまき](https://open.spotify.com/track/6pD8zEYJc0096VvUQAcEO0) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | […Because I’m Young Arrogant and Hate Everything You Stand For](https://open.spotify.com/album/2e5IzvDrIc8656bHTx3fE5) | 3:52 | 2022-06-11 |  |
 | [カガミ](https://open.spotify.com/track/45XVGZl9w7BoTo4bR9NRJo) | [AKIBA](https://open.spotify.com/artist/5y51w1wj1qFCNOAU1b7BEc) | [LOST DREAMS](https://open.spotify.com/album/1E5E8rT0PHW9aizrC8atjY) | 2:18 | 2022-12-14 |  |
+| [你喜欢我闪耀的样子吗???](https://open.spotify.com/track/4hf1LcGhGfZaqIIzhwRUhS) | [Xextapes](https://open.spotify.com/artist/6Bz6u2PFf3Bptxqnk4ZXAK) | [你喜欢我闪耀的样子吗???](https://open.spotify.com/album/0Yg2VSz0cANfbris0wVPvj) | 1:56 | 2026-10-04 |  |
 | [彼女が12\-14年間自分を切](https://open.spotify.com/track/2o57RiydGNsZmm7dLJLbhP) | [Rory in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N) | [黄色いチケット](https://open.spotify.com/album/1IOKPGvO8NCw5aD7nKbqEx) | 1:30 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2023-06-01. Prior content cannot be recovered.

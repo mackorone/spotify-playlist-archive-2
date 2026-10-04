@@ -4,7 +4,7 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-172 songs - 8 hr 39 min
+173 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Mercy](https://open.spotify.com/track/21EIQVCOJd52ka7xpmIcQP) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/0EXsVBTG8GyITT2d6q9ECW) | 2:29 | 2026-05-12 |  |
 | [Minotaur's Song](https://open.spotify.com/track/2dQ9lOVqtl9EgImXB2pTxd) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Minotaur's Song](https://open.spotify.com/album/7A00y2WsNkhrOJMdYmVHDx) | 2:50 | 2023-09-15 | 2024-09-14 |
 | [Movin' Fast \- Version 2](https://open.spotify.com/track/4O1Nu8a47K7VbF3pVBYU2o) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 2:06 | 2024-03-04 | 2024-03-16 |
+| [Nest](https://open.spotify.com/track/6FYu6uQqdrdw2aSXuxKCAo) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [NEST](https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If) | 2:02 | 2026-10-04 |  |
 | [On My Way.](https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [On My Way.](https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST) | 3:07 | 2022-09-14 |  |
 | [Only Death Can Separate Us](https://open.spotify.com/track/11phAxtq0J8bWpKa8JAg4T) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ) | 2:26 | 2025-11-11 | 2026-05-14 |
 | [Only Death Can Separate Us](https://open.spotify.com/track/6wLP6lDOoap3D3T2Tjkt8u) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:26 | 2026-05-15 | 2026-09-20 |
@@ -161,7 +162,7 @@
 | [Talk 2 Me](https://open.spotify.com/track/1IIzlkKTsF7YEpKKluX1pz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/6FSEqIn7lAhwyy0neZmb0D) | 2:19 | 2026-05-16 |  |
 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 | 2022-09-14 | 2026-05-16 |
 | [The Everlasting Father of Lights](https://open.spotify.com/track/1yxyolS2aWCYo7ndctqjui) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 7:07 | 2022-09-14 | 2022-10-13 |
-| [Wars](https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:23 | 2022-09-14 |  |
+| [Wars](https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:23 | 2022-09-14 | 2026-10-04 |
 | [We Are Still In Love](https://open.spotify.com/track/2vMzU3vRcesyByz6Y9xRYJ) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9) | 3:35 | 2024-09-01 | 2026-05-17 |
 | [We Are Still In Love](https://open.spotify.com/track/3JJhBch0AWO0QY18dSd0Wc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD) | 3:35 | 2026-05-17 |  |
 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 | 2024-09-16 | 2025-08-10 |

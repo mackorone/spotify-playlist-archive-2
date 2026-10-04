@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65978,
+  "num_followers": 65993,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAADMR3OHLJGy5mI9W/N8nZPN",
+  "snapshot_id": "ar70AAAAAADnHkDUHB5QCdv+5Ao9n6EU",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 191118,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEST",
+        "url": "https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 122008,
+      "name": "Nest",
+      "url": "https://open.spotify.com/track/6FYu6uQqdrdw2aSXuxKCAo"
     },
     {
       "added_at": null,
@@ -727,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 334285,
+      "name": "Days Are Getting Shorter",
+      "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As We Walk into Forever",
         "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
       },
@@ -739,22 +771,6 @@
       "duration_ms": 151500,
       "name": "Hold",
       "url": "https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "3:35am",
-      "url": "https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC"
     },
     {
       "added_at": null,
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
       },
       "artists": [
         {
@@ -788,25 +804,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 334285,
-      "name": "Days Are Getting Shorter",
-      "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
     },
     {
       "added_at": null,
@@ -859,34 +875,6 @@
       "duration_ms": 168000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/09qORSpYUi5pq5jcqQtaS7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        },
-        {
-          "name": "Taylor Armstrong",
-          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Wars",
-      "url": "https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG"
     }
   ],
   "unique_name": "This Is Montell Fish",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: YHWH Nailgun
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,320 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,309 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

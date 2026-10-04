@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31969,
+  "num_followers": 31968,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAndwyOCBFx3x4irSup696M",
+  "snapshot_id": "ar70AAAAAACUntzByQ0iyQiByKjkgT/4",
   "tracks": [
     {
       "added_at": null,
@@ -120,21 +120,17 @@
       "added_at": null,
       "album": {
         "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
       },
       "artists": [
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Polvo de Gigantes",
-      "url": "https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV"
+      "duration_ms": 187986,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/6PCraJHi3KJGHleSU0Qviw"
     },
     {
       "added_at": null,
@@ -192,17 +188,21 @@
       "added_at": null,
       "album": {
         "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+        "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
       },
       "artists": [
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 187986,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/6PCraJHi3KJGHleSU0Qviw"
+      "duration_ms": 157066,
+      "name": "Polvo de Gigantes",
+      "url": "https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 184764,
+      "name": "Cuando Te Duele El Alma",
+      "url": "https://open.spotify.com/track/4dPizCyaoZ4W72WwLhCPF5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 230323,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde Antes De Nacer",
-        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 184764,
-      "name": "Cuando Te Duele El Alma",
-      "url": "https://open.spotify.com/track/4dPizCyaoZ4W72WwLhCPF5"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despierto",
-        "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 189013,
-      "name": "Encima De Mil",
-      "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Antes De Nacer",
         "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 167850,
       "name": "El Perfume",
       "url": "https://open.spotify.com/track/7zo4xVCnSlXgIFcAGW22S4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Despierto",
+        "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 189013,
+      "name": "Encima De Mil",
+      "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "10 Veces Mejor",
-      "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Antes De Nacer",
         "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 198576,
       "name": "Espectador",
       "url": "https://open.spotify.com/track/0F0JtbK8wOn1PyXC4PL8jv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "10 Veces Mejor",
+      "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Si Te Volviera A Conocer",
+      "url": "https://open.spotify.com/track/5ihj6KU1TyKH6ie6izhLEi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Entrego",
         "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 207000,
       "name": "Me Entrego",
       "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde Antes De Nacer",
-        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 127933,
-      "name": "Si Te Volviera A Conocer",
-      "url": "https://open.spotify.com/track/5ihj6KU1TyKH6ie6izhLEi"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "unas ac\u00fasticas",
-        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Salto de Fe",
-      "url": "https://open.spotify.com/track/48EdXAASoIWLZviugfzfkw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
@@ -655,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "unas ac\u00fasticas",
+        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Salto de Fe",
+      "url": "https://open.spotify.com/track/48EdXAASoIWLZviugfzfkw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quiero",
         "url": "https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap"
       },
@@ -671,6 +671,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/2vP1AAw7D6pybjllO8EZBE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
       },
@@ -683,6 +723,26 @@
       "duration_ms": 175320,
       "name": "Un Pedacito de Ti",
       "url": "https://open.spotify.com/track/65rNTveNX91Df29bbplB09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extra\u00f1o",
+        "url": "https://open.spotify.com/album/1sMatqibwIjRjGzUAa3IAe"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 197846,
+      "name": "Extra\u00f1o",
+      "url": "https://open.spotify.com/track/0gAlJBvU3mhhJsR52vPvBh"
     },
     {
       "added_at": null,
@@ -710,55 +770,11 @@
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/2vP1AAw7D6pybjllO8EZBE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prometo",
-        "url": "https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extra\u00f1o",
-        "url": "https://open.spotify.com/album/1sMatqibwIjRjGzUAa3IAe"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 197846,
-      "name": "Extra\u00f1o",
-      "url": "https://open.spotify.com/track/0gAlJBvU3mhhJsR52vPvBh"
+      "duration_ms": 174106,
+      "name": "Amanec\u00ed Nublado",
+      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 252285,
       "name": "Leyenda",
       "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Amanec\u00ed Nublado",
-      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
     },
     {
       "added_at": null,

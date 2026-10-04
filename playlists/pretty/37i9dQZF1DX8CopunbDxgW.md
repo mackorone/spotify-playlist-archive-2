@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > go tell your friends you love them ❤️ 🤲 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,668 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,661 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,089 likes - 100 songs - 5 hr 14 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,088 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 7 | [making out](https://open.spotify.com/track/5SQWCnd28UO4FrMwUYpQN5) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [making out](https://open.spotify.com/album/2kVA2DXxldHD7H9HNs0ah0) | 3:28 |
 | 8 | [Fantasy \(Baby if u know me\) \(feat\. Kosmo Kint\)](https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Fantasy \(Baby if u know me\) \(feat\. Kosmo Kint\)](https://open.spotify.com/album/0QPCBavysOWUEif1OZZDRl) | 3:09 |
 | 9 | [I Need Your Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:54 |
-| 10 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 10 | [Track \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Track \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 11 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
 | 12 | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC) | 3:18 |
 | 13 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |

@@ -13633,6 +13633,24 @@
     },
     {
       "album": {
+        "name": "Clutter",
+        "url": "https://open.spotify.com/album/2zj2uC4hXuLhT6mOoIb5jF"
+      },
+      "artists": [
+        {
+          "name": "Death Cassette",
+          "url": "https://open.spotify.com/artist/2nmAxRXGD7nTztIEwIaHdX"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167536,
+      "name": "Clutter",
+      "url": "https://open.spotify.com/track/4ifWQHZnCxZCqP28QazfoD"
+    },
+    {
+      "album": {
         "name": "Cntrl",
         "url": "https://open.spotify.com/album/1Hq1GfwDxxO6xRNypJtLQu"
       },
@@ -50099,6 +50117,24 @@
     },
     {
       "album": {
+        "name": "More Than The Stars",
+        "url": "https://open.spotify.com/album/4gIN84rAuZCbK99P4HQWTm"
+      },
+      "artists": [
+        {
+          "name": "Nathan Ahrens",
+          "url": "https://open.spotify.com/artist/7LTRl7M8SVCrpJkkZRnPfO"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "More Than The Stars",
+      "url": "https://open.spotify.com/track/0rzxNu6mAMhRixNHMJAIln"
+    },
+    {
+      "album": {
         "name": "MORGANA",
         "url": "https://open.spotify.com/album/7gbCwFFT1mIkQNyER5O2kr"
       },
@@ -71504,6 +71540,24 @@
       "duration_ms": 198119,
       "name": "Starlettes",
       "url": "https://open.spotify.com/track/0t5hCP5NETsbkVj5AL2zOo"
+    },
+    {
+      "album": {
+        "name": "Ashes From The Stars",
+        "url": "https://open.spotify.com/album/7px4qrVusoVI6zRoGiehGN"
+      },
+      "artists": [
+        {
+          "name": "The Sweaters",
+          "url": "https://open.spotify.com/artist/2hhVb3U03MW5ikPSPUyWuR"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229776,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/7dQlIwSVi8cp4wg1ZegF1Z"
     },
     {
       "album": {

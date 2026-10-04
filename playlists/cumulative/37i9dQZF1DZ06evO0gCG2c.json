@@ -480,10 +480,40 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 185333,
       "name": "Boom Body",
       "url": "https://open.spotify.com/track/2FIGowzgXPaIuZhcFNdT2P"
+    },
+    {
+      "album": {
+        "name": "Boom Body (feat. Akon & Aidonia) [Shaz Remix]",
+        "url": "https://open.spotify.com/album/1cbcQuTr4lgZtBu1lhd4J8"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Shaz",
+          "url": "https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161800,
+      "name": "Boom Body (feat. Akon & Aidonia) - Shaz Remix",
+      "url": "https://open.spotify.com/track/56WqzVe7x1bY3QTYZ1oMqh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haïti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,808 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,810 likes - 40 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 39 | [KOUPAB](https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Bedjine](https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv) | [JIJE'M](https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc) | 5:16 |
 | 40 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
 
-Snapshot ID: `AAAAAB3N/xAf+EJv5w30tRYIW/oMxmog`
+Snapshot ID: `AAAAAPDERhba4SUUNBnCqtGYRoJRZ/FG`

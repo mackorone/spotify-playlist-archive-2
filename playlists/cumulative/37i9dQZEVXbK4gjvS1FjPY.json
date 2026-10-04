@@ -768,7 +768,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg"
@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 219365,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU"
@@ -4082,7 +4082,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -5360,6 +5360,24 @@
       "duration_ms": 181600,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
+    },
+    {
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "album": {
@@ -7114,7 +7132,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -8778,7 +8796,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -10534,6 +10552,24 @@
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283226,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/3orEOtd8CPL8GFlpRpKuoE"
     },
     {
       "album": {
@@ -13533,6 +13569,24 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
@@ -14482,7 +14536,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -15327,6 +15381,28 @@
     },
     {
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269186,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt"
+    },
+    {
+      "album": {
         "name": "I GOT YOU",
         "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
       },
@@ -15880,7 +15956,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 241066,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
@@ -16688,7 +16764,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -19338,6 +19414,28 @@
       "duration_ms": 212496,
       "name": "Lost Cause",
       "url": "https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M"
+    },
+    {
+      "album": {
+        "name": "Hyperion",
+        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202093,
+      "name": "Lost in the Fire (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {
       "album": {
@@ -24176,7 +24274,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
@@ -24916,7 +25014,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 190690,
       "name": "Pink Clouding",
       "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
@@ -26812,7 +26910,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -27326,7 +27424,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-06-24",
+      "date_removed": null,
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -30192,7 +30290,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 198840,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
@@ -31601,6 +31699,24 @@
     },
     {
       "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339023,
+      "name": "Take My Breath",
+      "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
+    },
+    {
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
       },
@@ -32767,6 +32883,24 @@
     },
     {
       "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242253,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
+    },
+    {
+      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -32902,7 +33036,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
@@ -32974,7 +33108,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -32992,7 +33126,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -34308,7 +34442,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -34712,7 +34846,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 219864,
       "name": "UNETHICAL",
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
@@ -35302,7 +35436,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 308575,
       "name": "Wake Me Up (feat. Justice)",
       "url": "https://open.spotify.com/track/5ehXToeJ8Tgc4wMhY42Oul"
@@ -39442,7 +39576,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 295940,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8"
@@ -39460,7 +39594,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/3LZ9j8ja4j6ycSUpCA8fXX"

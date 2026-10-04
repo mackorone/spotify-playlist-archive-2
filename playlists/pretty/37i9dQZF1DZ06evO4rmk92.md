@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,898 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,905 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 42 | [Love Letters \- Remastered](https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:43 |
 | 43 | [It's All In The Game](https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:07 |
 | 44 | [Ansiedad](https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 3:27 |
-| 45 | [How I'd Love To Love You](https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:19 |
-| 46 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Touch Of Your Lips](https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU) | 4:46 |
+| 45 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Touch Of Your Lips](https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU) | 4:46 |
+| 46 | [How I'd Love To Love You](https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:19 |
 | 47 | [’Tis Autumn](https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [BD Music & Cabu Present Nat King Cole](https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq) | 3:09 |
 | 48 | [Aquellos Ojos Verdes](https://open.spotify.com/track/1Lf7vlpJi4QoVSGhNpdZrZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos \(Expanded Edition\)](https://open.spotify.com/album/2iAQVxwMt60xXVe7VDrofV) | 2:13 |
 | 49 | [You'll Never Know](https://open.spotify.com/track/7J8H9xheQH3hurV0BgBrxo) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Billy May Sessions](https://open.spotify.com/album/263ABA7g5jinFRqq2KXQsT) | 2:43 |
 | 50 | [El Bodeguero \(Grocer's Cha\-Cha\)](https://open.spotify.com/track/4DfK9livSlasQjziFFVEql) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:24 |
 
-Snapshot ID: `ar2igAAAAABeb9UFT2wk7SxEbyc7LCTe`
+Snapshot ID: `ar70AAAAAABYDfg1hFrYL5ArgV1QOIsC`

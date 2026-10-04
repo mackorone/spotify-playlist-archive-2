@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music across Africa\. Cover: Big Nyagz & Tina Ardor
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,095 likes - 110 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,101 likes - 110 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

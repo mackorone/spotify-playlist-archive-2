@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 69657,
+  "num_followers": 69676,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAbNvimFVBRhbOvQ+fj0VlD",
+  "snapshot_id": "ar70AAAAAADPE/rKOzRgr74rzgnKsS1j",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 156640,
-      "name": "El Invencible",
-      "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
+      "duration_ms": 218373,
+      "name": "Golondrina Viajera",
+      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Golondrina Viajera",
-      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
+      "duration_ms": 156640,
+      "name": "El Invencible",
+      "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pos' Que No...Claro Que Si",
         "url": "https://open.spotify.com/album/5tOoa6i00CvfkkBGJSrJtP"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 179400,
       "name": "A Punto De Llorar",
       "url": "https://open.spotify.com/track/3Z2ZbacXEi2SCNNZhQNzrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Imitado, Jamas Igualado",
-        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "Mi Primer Amor (Meu Primeiro Amor)",
-      "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobre Los Rieles",
         "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 162560,
       "name": "Estabas Tan Linda",
       "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni El Diablo Te Va A Querer",
+        "url": "https://open.spotify.com/album/14ukGrCsnpYZcooY1fBfxY"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Ni El Diablo Te Va A Querer",
+      "url": "https://open.spotify.com/track/65mruN5u6IQMRIXubbhMQK"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni El Diablo Te Va A Querer",
-        "url": "https://open.spotify.com/album/14ukGrCsnpYZcooY1fBfxY"
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 174053,
-      "name": "Ni El Diablo Te Va A Querer",
-      "url": "https://open.spotify.com/track/65mruN5u6IQMRIXubbhMQK"
+      "duration_ms": 208973,
+      "name": "Mi Primer Amor (Meu Primeiro Amor)",
+      "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castillo de Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Firme",
         "url": "https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 211962,
       "name": "Presiento Que Voy a Llorar",
       "url": "https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castillo de Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
     },
     {
       "added_at": null,

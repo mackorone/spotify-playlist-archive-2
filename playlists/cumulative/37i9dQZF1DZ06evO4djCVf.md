@@ -4,7 +4,7 @@
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 29 min
+48 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Op Deze Dag \- uit Liefde Voor Muziek](https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:52 | 2025-07-20 |  |
 | [Papa](https://open.spotify.com/track/2m9KUW33lkjUji0oDCPIHl) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:17 | 2025-07-20 |  |
 | [Passie \- uit Liefde Voor Muziek](https://open.spotify.com/track/18J7FNm30eEK4FBtbMMrtA) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 4:11 | 2025-07-20 |  |
+| [Pijnstiller](https://open.spotify.com/track/11wW1i3hmPCBO49XNgxcHx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/4o6Q9UNplVun5nsP2FRRvt) | 2:51 | 2026-10-04 |  |
 | [Slapeloosheid](https://open.spotify.com/track/0gegvYa9Mexi7LPnAXN4lV) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 2:57 | 2025-07-20 | 2026-06-01 |
 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 | 2026-06-01 |  |
 | [Spiegelbeeld](https://open.spotify.com/track/43nBXdQvogPKHqRQEIqjeM) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 2:48 | 2025-07-20 |  |

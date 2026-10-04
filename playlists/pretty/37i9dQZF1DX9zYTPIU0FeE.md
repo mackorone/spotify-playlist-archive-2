@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Pilani Bubu
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,718 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,720 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

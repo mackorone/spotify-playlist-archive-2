@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 219365,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU"
@@ -9736,6 +9736,28 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "album": {
@@ -17252,7 +17274,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn"
@@ -24320,7 +24342,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -26624,7 +26646,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 190690,
       "name": "Pink Clouding",
       "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
@@ -33892,7 +33914,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 270213,
       "name": "The Chain - 2004 Remaster",
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
@@ -36668,7 +36690,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"

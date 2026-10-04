@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝒿𝓊𝓁𝒾](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,628 songs - 3 day 21 hr 46 min
+[𝒿𝓊𝓁𝒾](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,631 songs - 3 day 22 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1408,7 +1408,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1398 | [Do You Love Me](https://open.spotify.com/track/4T1gGKmEVvpsIzAiobeBov) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Do You Love Me](https://open.spotify.com/album/2wLwRpfQYtKX2Mi8Zl4Vjd) | 2:55 |
 | 1399 | [Love Man](https://open.spotify.com/track/16dz1n3ctolQbuZPtvHVqH) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Love Man](https://open.spotify.com/album/5K3FfkoIozJuEOhiwOm5SR) | 2:19 |
 | 1400 | [Wipe Out](https://open.spotify.com/track/1SXnikPeoiWybksa7TWIYh) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [The Best Of The Surfaris](https://open.spotify.com/album/0ZjSiJJ1Yb1T9ir1FKwjb3) | 2:40 |
-| 1401 | [Some Kind of Wonderful](https://open.spotify.com/track/7nn0V1maFiJDBDg2umSGMb) | [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:20 |
+| 1401 | [Some Kind of Wonderful](https://open.spotify.com/track/7nn0V1maFiJDBDg2umSGMb) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:20 |
 | 1402 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 1403 | [Cry to Me](https://open.spotify.com/track/0sDeU2murnLh4yVHQ5IV70) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Rock 'N Soul](https://open.spotify.com/album/152R8N9N0ACnWPNOBIO4M8) | 2:34 |
 | 1404 | [Merengue \(Dirty Dancing\)](https://open.spotify.com/track/1rYa1qkdwpPbvcToWFIQjy) | [The Hollywood Band](https://open.spotify.com/artist/2cuAG9AxABbkEKng37i0Th) | [Dirty Dance Songs \(Hits From Dirty Dancing\)](https://open.spotify.com/album/5ZpREPSJZ3f4UzVy3dFQIA) | 2:15 |
@@ -1636,5 +1636,8 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1626 | [Blur](https://open.spotify.com/track/0Y7exe8Yu2nbuIvGDRGXcz) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:08 |
 | 1627 | [Mannequin](https://open.spotify.com/track/3buxlp1m5TLONPem13GSpt) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 4:06 |
 | 1628 | [Bad Girls](https://open.spotify.com/track/11SB3yglKUxKMidlcb5vmz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Dinner](https://open.spotify.com/album/4pytTxyqxFZOuIgjcBVGzp) | 4:11 |
+| 1629 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
+| 1630 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 |
+| 1631 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
 
-Snapshot ID: `AAAN0giWUJs3oMDNq8XqfKplrJfUOLmO`
+Snapshot ID: `AAAN1dG/5T2uSq5RCXcrj2x0xANn6HiJ`

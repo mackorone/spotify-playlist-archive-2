@@ -1,33 +1,13 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 440940,
+  "num_followers": 440968,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACFPdWRhBtSgMVBkvUNIpqj",
+  "snapshot_id": "ar70AAAAAAAifUFs96SP0w4wMkwsfDbC",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 195680,
-      "name": "Need It (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1cMMVJ4FDqhCci9efd1BU6"
-    },
     {
       "added_at": null,
       "album": {
@@ -55,6 +35,26 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 195680,
+      "name": "Need It (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1cMMVJ4FDqhCci9efd1BU6"
     },
     {
       "added_at": null,
@@ -391,6 +391,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bedroom Tour Playlist",
+        "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
+      },
+      "artists": [
+        {
+          "name": "Niykee Heaton",
+          "url": "https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "duration_ms": 245722,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 257545,
+      "name": "Get Right Witcha",
+      "url": "https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
         "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
       },
@@ -415,46 +455,6 @@
       "duration_ms": 177352,
       "name": "My Family - from \"The Addams Family\"",
       "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 257545,
-      "name": "Get Right Witcha",
-      "url": "https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bedroom Tour Playlist",
-        "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
-      },
-      "artists": [
-        {
-          "name": "Niykee Heaton",
-          "url": "https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 245722,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 262308,
-      "name": "Drip (feat. Migos)",
-      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peek A Boo",
         "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
       },
@@ -695,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 262308,
+      "name": "Drip (feat. Migos)",
+      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Label II",
         "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
       },
@@ -707,26 +707,6 @@
       "duration_ms": 207682,
       "name": "Freak No More",
       "url": "https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quality Control: Control The Streets Volume 2",
-        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 258741,
-      "name": "Frosted Flakes",
-      "url": "https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 274207,
       "name": "Sloppy Toppy (feat. Migos & Peewee Longway)",
       "url": "https://open.spotify.com/track/1OLABkcTvWfXE2xs5Yb2Ex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 258741,
+      "name": "Frosted Flakes",
+      "url": "https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ"
     },
     {
       "added_at": null,
@@ -951,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Decided.",
+        "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Sacrifices",
+      "url": "https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Excuse My French (Deluxe 2.0)",
         "url": "https://open.spotify.com/album/1l3H0aPipDIi5XAbthkciZ"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 272693,
       "name": "Moses",
       "url": "https://open.spotify.com/track/5FW3FOoBJHGnrRHWVMJE11"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Decided.",
-        "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Sacrifices",
-      "url": "https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5"
     }
   ],
   "unique_name": "This Is Migos",

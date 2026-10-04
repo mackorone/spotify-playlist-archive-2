@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfQQ5UXqF0s.md) - [plain]
 
 > ¡Nuestros amados 90 los recordamos así! Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,395 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,531 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

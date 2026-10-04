@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 
 > pop that \*hits different\* featuring nick ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,222 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,187 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

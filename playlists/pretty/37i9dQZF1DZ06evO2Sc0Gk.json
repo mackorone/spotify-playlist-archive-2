@@ -1,13 +1,33 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21556,
+  "num_followers": 21557,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABL0kpzj/K0a9gNBQMqSZr7",
+  "snapshot_id": "ar70AAAAAABT/UP2CRCJk9pHG19DUaTo",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
     {
       "added_at": null,
       "album": {
@@ -811,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 119290,
-      "name": "Saudi Arabia",
-      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hide Your Love",
         "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
       },
@@ -843,6 +847,22 @@
       "duration_ms": 157959,
       "name": "Hide Your Love",
       "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 119290,
+      "name": "Saudi Arabia",
+      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
     },
     {
       "added_at": null,
@@ -959,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 156715,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/6T1UPPaTavTq4WlR2U9rKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Walk Alone",
         "url": "https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9"
       },
@@ -983,22 +1019,6 @@
       "duration_ms": 214710,
       "name": "Never Walk Alone",
       "url": "https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 156715,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/6T1UPPaTavTq4WlR2U9rKB"
     },
     {
       "added_at": null,
@@ -1039,22 +1059,6 @@
       "duration_ms": 216000,
       "name": "Body",
       "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F1 The Album",
-        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 173149,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
     }
   ],
   "unique_name": "This Is Mr Eazi",

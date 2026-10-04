@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,291 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,350 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

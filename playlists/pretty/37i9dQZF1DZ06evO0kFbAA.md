@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,449 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,458 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 40 | [Ballad Medley](https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 10:07 |
 | 41 | [Aguas de Marco](https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Jazz Moods \- Cool](https://open.spotify.com/album/4lORlHfONAF7M3pVUZMpLk) | 4:42 |
 | 42 | [Sambalero](https://open.spotify.com/track/22OmNTzHQP1lGDHLq2iq5z) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG) | 2:15 |
-| 43 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
-| 44 | [You Turned The Tables On Me](https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:56 |
+| 43 | [You Turned The Tables On Me](https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:56 |
+| 44 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
 | 45 | [Fools Rush In \(Where Angels Fear to Tread\)](https://open.spotify.com/track/75UUJlBF9DCOfctq8VetnG) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Complete Roost Recordings](https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64) | 2:27 |
 | 46 | [O Morro Nao Tem Vez](https://open.spotify.com/track/1NF8RxcyP6qWaipOfusQp2) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG) | 6:53 |
-| 47 | [Samba Dees Days](https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 3:32 |
-| 48 | [Grandfather's Waltz](https://open.spotify.com/track/02KOM4CMj7RcOGonUJUXc8) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 6:28 |
-| 49 | [Manha De Carnaval \(Morning of Carnaval\)](https://open.spotify.com/track/54Qk897P1MR7fPh1hYzCKl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Big Band Bossa Nova](https://open.spotify.com/album/6cxMl748yPkmJk1WNDaNgw) | 5:47 |
+| 47 | [Grandfather's Waltz](https://open.spotify.com/track/02KOM4CMj7RcOGonUJUXc8) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 6:28 |
+| 48 | [Samba Dees Days](https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 3:32 |
+| 49 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
 | 50 | [Serenade In Blue](https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:53 |
 
-Snapshot ID: `ar2igAAAAABLi2jr+LQ63HOHFOVhJ62i`
+Snapshot ID: `ar70AAAAAAAo4q7ZAfR8wCdP32bIs4s/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,880 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,963 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 23 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/4JbyNMvp3BqVILVy4Bbevf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:44 |
 | 24 | [Tomorrow Comes Today](https://open.spotify.com/track/6BL4PpswVjH9BAajbIbpmZ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:13 |
 | 25 | [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 |
-| 26 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
-| 27 | [Plastic Beach \(feat\. Mick Jones and Paul Simonon\)](https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX), [Paul Simonon](https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:47 |
+| 26 | [Plastic Beach \(feat\. Mick Jones and Paul Simonon\)](https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX), [Paul Simonon](https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:47 |
+| 27 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
 | 28 | [Sleeping Powder](https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Sleeping Powder](https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu) | 2:46 |
 | 29 | [Delirium \(feat\. Mark E\. Smith\)](https://open.spotify.com/track/4uIXvy8PbYLEhs0PZgaP8p) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Mark E\. Smith](https://open.spotify.com/artist/2OkI92pmbuPtH6b1GDtrvJ) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 3:52 |
-| 30 | [Souk Eye](https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:34 |
-| 31 | [Saturnz Barz \(feat\. Popcaan\)](https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:01 |
+| 30 | [Saturnz Barz \(feat\. Popcaan\)](https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:01 |
+| 31 | [Souk Eye](https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:34 |
 | 32 | [Superfast Jellyfish \(feat\. Gruff Rhys and De La Soul\)](https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 2:54 |
 | 33 | [The God of Lying \(feat\. IDLES\)](https://open.spotify.com/track/5nrbuDZe5Hod1nUsND6QUA) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 3:09 |
 | 34 | [Baby Queen](https://open.spotify.com/track/3FwCEB2BNFzWQ9rn4goCXZ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 49 | [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 |
 | 50 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5h5FY6vmtDpgXF91BUexO0) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:41 |
 
-Snapshot ID: `ar2igAAAAAC36l8oBsmbgOJKuJxdvxhG`
+Snapshot ID: `ar70AAAAAABX0+MpXcRBvuiJYfSd0/p8`

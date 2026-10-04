@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11629,
+  "num_followers": 11627,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABBRWDxoDuxHA4sjiBwnd1L",
+  "snapshot_id": "ar70AAAAAABc0yFo9LFGQ8gh6VzwFAlP",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Color Purple New Broadway Cast",
-          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "The Color Purple (Reprise)",
-      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
@@ -703,34 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
+        },
         {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          "name": "Color Purple New Broadway Cast",
+          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+      "duration_ms": 234731,
+      "name": "The Color Purple (Reprise)",
+      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
     },
     {
       "added_at": null,
@@ -759,6 +727,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
@@ -775,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
         }
       ],
-      "duration_ms": 237387,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -811,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
+      "duration_ms": 237387,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,208 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,283 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 99 | [Por Você \- Sozinho e Bem Acompanhado](https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Sozinho e Bem Acompanhado](https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto) | 3:26 |
 | 100 | [Leve](https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:55 |
 
-Snapshot ID: `AAAAAHDfG2Xda2W0yyf5aSHIELm1l/WW`
+Snapshot ID: `AAAAAP5Uv0DWtGF4UiIiHK3C8wH7vjfa`

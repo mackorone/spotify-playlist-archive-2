@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,343 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,369 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

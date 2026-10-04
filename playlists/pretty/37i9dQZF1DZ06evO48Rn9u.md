@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,471 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,496 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 32 | [Silver Lining](https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:50 |
 | 33 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 |
 | 34 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/661XFV3LB1wpEFSmumnXUM) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 2:53 |
-| 35 | [Dime Store Cowgirl](https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:34 |
+| 35 | [Late To The Party](https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:37 |
 | 36 | [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 |
 | 37 | [simple times](https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:47 |
 | 38 | [Superbloom \(feat\. Leon Bridges\)](https://open.spotify.com/track/7FSHsMrNTP7umpgVHuR7IS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:02 |
-| 39 | [Late To The Party](https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:37 |
+| 39 | [Dime Store Cowgirl](https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:34 |
 | 40 | [Can't Help Falling in Love](https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Can't Help Falling in Love \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY) | 2:48 |
 | 41 | [Lost In Translation](https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost In Translation](https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM) | 3:16 |
 | 42 | [Irish Goodbye](https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 49 | [good wife](https://open.spotify.com/track/64PsLB0bc1LJoZwogWO3ok) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:51 |
 | 50 | [waves \(feat\. Kacey Musgraves\) \- Remix](https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:06 |
 
-Snapshot ID: `ar2igAAAAAAp8yGpkbugrELKPJJM//RJ`
+Snapshot ID: `ar70AAAAAAARt590OUl+l3z2Lofkb7hz`

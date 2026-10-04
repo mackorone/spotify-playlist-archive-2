@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN, Blaqbonez, TML Vibes, Lojay, Mr Eazi, DJ Tunez and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,512 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,650 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

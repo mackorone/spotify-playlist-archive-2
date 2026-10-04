@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,030 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,011 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 | 136 | [Is It Real \- Acoustic](https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Two Lives EP](https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC) | 2:47 |
 | 137 | [Medicine \- Acoustic](https://open.spotify.com/track/7iLlwpist1NrZq3PU9EXF1) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Medicine \(Acoustic\)](https://open.spotify.com/album/2wncDDW5aUdRDOc8p610cJ) | 4:22 |
 | 138 | [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 |
-| 139 | [better on my own \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [better on my own \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i) | 3:48 |
+| 139 | [better on my own \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [better on my own \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i) | 3:48 |
 | 140 | [Pantalla azul](https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Sentir Que No Sabes](https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l) | 2:57 |
 | 141 | [I Love It](https://open.spotify.com/track/2jslzA7O0v1o15sN3z6SV6) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [I Love It](https://open.spotify.com/album/6Xd37dauCtwJi10I25dnHR) | 3:18 |
 | 142 | [Reencontrarnos](https://open.spotify.com/track/7kqw8vYKO1ApxwpQXaivRy) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Reencontrarnos](https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5) | 4:17 |

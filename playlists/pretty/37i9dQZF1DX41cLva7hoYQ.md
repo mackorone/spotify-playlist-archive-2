@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 
 > Jazz piano ballads to help you focus during the workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,683 likes - 129 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,755 likes - 129 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

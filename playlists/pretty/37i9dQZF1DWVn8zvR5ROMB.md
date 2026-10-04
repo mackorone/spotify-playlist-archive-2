@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kameron Marlowe, Miranda Lambert with Ella Langley, Gavin Adcock and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,091 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,144 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 34 | [Always on Mine](https://open.spotify.com/track/7HKTqPbAU71vKcPPIdlNvA) | [Grayson Ratliff](https://open.spotify.com/artist/26ZU1kIqEJPPDFaZwc8jCn) | [Always on Mine](https://open.spotify.com/album/0GWncIGLZXHjWqe5GJkKpi) | 3:39 |
 | 35 | [More or Less](https://open.spotify.com/track/6aDotKYmoqzr7IPkLhVec9) | [Brooks Hoffman](https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q) | [More or Less](https://open.spotify.com/album/5mNs1fkhlOM3yDDVDixvXY) | 2:23 |
 | 36 | [Play House](https://open.spotify.com/track/37xDS20vyIGOfUbtHfWeXs) | [Charly Reynolds](https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp) | [Play House](https://open.spotify.com/album/6b3e6KsMXWXL1xXAqptHQH) | 3:09 |
-| 37 | [Losing Team](https://open.spotify.com/track/2F8w4qhClbrENsOBtKm3id) | [Lily Grace](https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD), [Nicco Sanchez](https://open.spotify.com/artist/0DMbEFPz1jUpoCzedjye3x) | [Losing Team](https://open.spotify.com/album/0XYiW74NizCgxHinFCg8TS) | 2:19 |
+| 37 | [Losing Team](https://open.spotify.com/track/2F8w4qhClbrENsOBtKm3id) | [Lily Grace](https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD) | [Losing Team](https://open.spotify.com/album/0XYiW74NizCgxHinFCg8TS) | 2:19 |
 | 38 | [Chem History](https://open.spotify.com/track/1jhnfm4tSokvx0zJH0LaYf) | [Hailey Benedict](https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce) | [Chem History](https://open.spotify.com/album/0v90juXnWglwaqBr9XSuBN) | 3:08 |
 | 39 | [Mother's Eyes](https://open.spotify.com/track/4XzcG0BP5i0fOVaKiCngE4) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Mother's Eyes](https://open.spotify.com/album/6Aqi92M33EcChzwienvOaH) | 3:45 |
 | 40 | [Where We Can’t Be Found](https://open.spotify.com/track/7A3BGoREczM5kCRr3hQAGL) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Where We Can’t Be Found](https://open.spotify.com/album/489oMKQbst1MTSk7RdixWe) | 3:46 |

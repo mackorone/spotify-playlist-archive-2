@@ -4,7 +4,7 @@
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-125 songs - 8 hr 33 min
+126 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Anybody Seen My Baby? \- Remastered 2009](https://open.spotify.com/track/4tXr9v3K7nWW1aebWqR1B7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 4:31 | 2022-01-09 |  |
 | [As Tears Go By \- Mono Version](https://open.spotify.com/track/1LD75COdR1n8jTIjommyS2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [December’s Children \(And Everybody’s\)](https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP) | 2:45 | 2022-01-09 |  |
 | [Baby Please Don't Go \- Live / Instrumental](https://open.spotify.com/track/2XSi3vyadAKVd4eTdyWvAJ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Live At The Checkerboard Lounge](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW) | 2:00 | 2023-12-13 | 2024-01-01 |
+| [Bad Luck Hideaway](https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mr Charm](https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9) | 3:50 | 2026-10-04 |  |
 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 | 2022-01-09 |  |
 | [Bitch \- 2009 Mix](https://open.spotify.com/track/01JYvQ6udfhUw9Jed9EzoK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:37 | 2022-01-14 |  |
 | [Bite My Head Off](https://open.spotify.com/track/5C6p9XU3B36GPyfzcNBP6R) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:31 | 2023-11-10 | 2024-07-22 |
@@ -80,7 +81,7 @@
 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 | 2022-01-09 |  |
 | [Monkey Man](https://open.spotify.com/track/5m6livL7ccIS92wq16n52r) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:11 | 2022-01-09 | 2026-08-27 |
 | [Moonlight Mile \- 2009 Mix](https://open.spotify.com/track/3w7hnMNX4zVZeBJ6LisTjT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:57 | 2022-01-09 |  |
-| [Mother's Little Helper](https://open.spotify.com/track/44xykY61s1aKsgf40A5cyI) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath \(UK Version\)](https://open.spotify.com/album/1MaP82K4mOoGYW5Ej0eUyM) | 2:44 | 2022-01-09 |  |
+| [Mother's Little Helper](https://open.spotify.com/track/44xykY61s1aKsgf40A5cyI) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath \(UK Version\)](https://open.spotify.com/album/1MaP82K4mOoGYW5Ej0eUyM) | 2:44 | 2022-01-09 | 2026-10-04 |
 | [Mr Charm](https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 | 2026-07-12 |  |
 | [Never Wanna Lose You](https://open.spotify.com/track/35lIzvRVigUkb830xs4bru) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:30 | 2026-07-12 | 2026-07-26 |
 | [No Expectations \- 50th Anniversary Edition](https://open.spotify.com/track/49ScE2M6RIqfeHnnP4v94B) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 3:57 | 2025-02-25 | 2026-04-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,643,139 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,643,190 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

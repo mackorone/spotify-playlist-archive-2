@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,374 likes - 277 songs - 17 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,375 likes - 277 songs - 17 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,14 +150,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 140 | [The Windfall \(Everything For Nothing\)](https://open.spotify.com/track/1nEHVp6LKiADEHf9CKlSYN) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 5:14 |
 | 141 | [The Wolf That Lives in Lindsey](https://open.spotify.com/track/19f1nGM9U0SM3rApsTlPWT) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/6xgCRTWpAnisscgnOXR57V) | 6:35 |
 | 142 | [The Sire of Sorrow \(Job's Sad Song\)](https://open.spotify.com/track/2ViLGVtuZyCY3cQb8mmsyi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 7:07 |
-| 143 | [You Dream Flat Tires](https://open.spotify.com/track/2iZSxXkKzQNSiyq3LOJgaj) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 3:46 |
-| 144 | [Turbulent Indigo](https://open.spotify.com/track/5c6QtppE0IKNbJR1z4RKCu) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 3:34 |
+| 143 | [Turbulent Indigo](https://open.spotify.com/track/5c6QtppE0IKNbJR1z4RKCu) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 3:34 |
+| 144 | [You Dream Flat Tires](https://open.spotify.com/track/2iZSxXkKzQNSiyq3LOJgaj) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 3:46 |
 | 145 | [Harlem in Havana](https://open.spotify.com/track/6pfkGtQL3TmOeEyuTi99r6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:27 |
 | 146 | [Man from Mars](https://open.spotify.com/track/4XsIy4Eqwdm5z4kne83rvY) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:09 |
 | 147 | [A Chair in the Sky](https://open.spotify.com/track/0MokMMTzjrucDlCB7pj6TO) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/6xgCRTWpAnisscgnOXR57V) | 6:42 |
 | 148 | [Ray's Dad's Cadillac](https://open.spotify.com/track/513A9NcbRW1bLQVdup4SCc) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 4:33 |
-| 149 | [Good Friends](https://open.spotify.com/track/3Fh8qnLTdkWXStJwBpMtq6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:28 |
-| 150 | [Paprika Plains](https://open.spotify.com/track/4YyxzSIOmxRaanNiy5Ui6a) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 16:21 |
+| 149 | [Paprika Plains](https://open.spotify.com/track/4YyxzSIOmxRaanNiy5Ui6a) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 16:21 |
+| 150 | [Good Friends](https://open.spotify.com/track/3Fh8qnLTdkWXStJwBpMtq6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:28 |
 | 151 | [Last Chance Lost](https://open.spotify.com/track/76keUnX6s7sKyWav3F8fo3) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 3:14 |
 | 152 | [Yvette in English](https://open.spotify.com/track/5BnL8EP2JfNddrdtcPc2Rd) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 5:16 |
 | 153 | [Borderline](https://open.spotify.com/track/1Nrhb4a35ODasSOcbBhhvM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 4:47 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 276 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 277 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `Acd5pAAAAAA3zBr+S5iQQ8BBrKH+qx6j`
+Snapshot ID: `Acd/RAAAAACaYMibqZvvLpFJqf6eWnJ4`

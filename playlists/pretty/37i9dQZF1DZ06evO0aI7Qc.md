@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,648 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,669 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 17 | [SU CASA](https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:18 |
 | 18 | [DIOS TESTIGO](https://open.spotify.com/track/1TsCrwD4t8rrrGeE1pH4dz) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DIOS TESTIGO](https://open.spotify.com/album/7Gbu1Y6tV3EcBmR9RF4b6H) | 2:42 |
 | 19 | [Balenciaga](https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Balenciaga](https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3) | 2:33 |
-| 20 | [OTRO PA TI](https://open.spotify.com/track/6ee409xj8oSEdvJzEz5gT1) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Los Locos Nunca Mueren](https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp) | 2:12 |
-| 21 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
+| 20 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
+| 21 | [OTRO PA TI](https://open.spotify.com/track/6ee409xj8oSEdvJzEz5gT1) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Los Locos Nunca Mueren](https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp) | 2:12 |
 | 22 | [NIMODO QUE NO](https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:11 |
 | 23 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 |
 | 24 | [Pobre No](https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [Polvo de Hadas](https://open.spotify.com/track/1BeJcPh87ayQXulFU5FPD3) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:53 |
 | 50 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 |
 
-Snapshot ID: `ar2igAAAAABvfeSuCiX1W+N/MOFCPu7B`
+Snapshot ID: `ar70AAAAAABfBDc93fNHUN1niTS4RfSX`

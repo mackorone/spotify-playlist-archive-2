@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,195 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,298 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

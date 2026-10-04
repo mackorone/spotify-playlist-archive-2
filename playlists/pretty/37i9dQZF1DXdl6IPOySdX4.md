@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,219,493 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,219,809 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 99 | [Sex with my Ex](https://open.spotify.com/track/36LKcafeByy2ybG5783w7e) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Sex with my Ex](https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA) | 2:59 |
 | 100 | [more than just a little bit](https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [more than just a little bit](https://open.spotify.com/album/3F8UGnSi7OTQg03Ag3xtxv) | 2:40 |
 
-Snapshot ID: `AAAAANdTxSKL5moxw2xZ+/qgh4IemOkL`
+Snapshot ID: `AAAAACPws9d52UncxFPodf0y0g1vo8Kf`

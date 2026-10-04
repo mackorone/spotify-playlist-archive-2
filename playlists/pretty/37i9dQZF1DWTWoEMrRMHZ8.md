@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Leo Middea
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,981 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,995 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

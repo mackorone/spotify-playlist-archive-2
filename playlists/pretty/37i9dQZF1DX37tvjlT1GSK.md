@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Cover: Los Terricolas, Tony Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,758 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,769 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Ni Con Patrulla](https://open.spotify.com/track/5KsUOwCSFIKKBsBxyCfgnS) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 2:40 |
 | 125 | [Casi Algo](https://open.spotify.com/track/2InFGvJZvQjiGZixFFvvj1) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casi Algo](https://open.spotify.com/album/1Tk99mHlULtaxKGSjkrgEA) | 3:33 |
 
-Snapshot ID: `AAAAAGygiAVSh3D4/vD7MrQ8lJ2f8Ubf`
+Snapshot ID: `AAAAAA9mpVdB/bN3/EQ73X9ioLHxzax+`

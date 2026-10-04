@@ -72,6 +72,24 @@
     {
       "album": {
         "name": "After",
+        "url": "https://open.spotify.com/album/08jaQi23Bkl6uLwDd8YXbS"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187413,
+      "name": "After",
+      "url": "https://open.spotify.com/track/7pkKJG3w9pndGTNRX4RC3Y"
+    },
+    {
+      "album": {
+        "name": "After",
         "url": "https://open.spotify.com/album/6eBGU82lcUD0wpn4qniZwS"
       },
       "artists": [
@@ -86,7 +104,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 195370,
       "name": "After",
       "url": "https://open.spotify.com/track/1pdhtPOKEVcBokZiVFb31D"
@@ -220,6 +238,28 @@
       "duration_ms": 227093,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7wb8HaXttfcAYRYsdIyZEN"
+    },
+    {
+      "album": {
+        "name": "Amor Factura",
+        "url": "https://open.spotify.com/album/1h7JuQPSEah0C3z7S4gDXS"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236894,
+      "name": "Amor Factura",
+      "url": "https://open.spotify.com/track/7iEZfHR0SE3DMSEAuHsvcq"
     },
     {
       "album": {
@@ -542,7 +582,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 177500,
       "name": "bloodstream (Official Music Video)",
       "url": "https://open.spotify.com/track/3bssyIRidCzKTV6yvZymSo"
@@ -777,6 +817,32 @@
     },
     {
       "album": {
+        "name": "Cold Shoulder",
+        "url": "https://open.spotify.com/album/6wCOqXBibiO2nuue5y7c0d"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245169,
+      "name": "Cold Shoulder",
+      "url": "https://open.spotify.com/track/3bsa6vaFDGt0KlE8540RWO"
+    },
+    {
+      "album": {
         "name": "Corpo Nu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5CtcWymLux2A0CmDhwH4vo"
       },
@@ -972,10 +1038,32 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 252302,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/1Ywk7HecwsfJWy2pxaaQZM"
+    },
+    {
+      "album": {
+        "name": "Different Religion (feat. Model/Actriz)",
+        "url": "https://open.spotify.com/album/5tzFFaD5t63vOcKpSktIDN"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233386,
+      "name": "Different Religion (feat. Model/Actriz)",
+      "url": "https://open.spotify.com/track/1GcpSlH0WVIJLLQnkdUrlw"
     },
     {
       "album": {
@@ -1214,7 +1302,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 569376,
       "name": "Falling Back - Extended Version",
       "url": "https://open.spotify.com/track/1UmERnfXBNJaVJKcUeWpDh"
@@ -1396,7 +1484,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 239210,
       "name": "Happiness Is So Sad",
       "url": "https://open.spotify.com/track/157QjsVq8YdtPgJrd57PFp"
@@ -1526,7 +1614,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 255978,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/45rR6DD2pBxDcWmMARbrjm"
@@ -1807,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Lali, Tini - 1Amor (EN VIVO) / @River - Buenos Aires 2026",
+        "url": "https://open.spotify.com/album/5ppEBJTRzFXMRKJxAOBZ7J"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120320,
+      "name": "Lali, Tini - 1Amor (EN VIVO) / @River - Buenos Aires 2026",
+      "url": "https://open.spotify.com/track/6Eg7a09lTggpzzdOHs76WM"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Get Married",
         "url": "https://open.spotify.com/album/1Z3yuKtcV0YIzjaItbMtsQ"
       },
@@ -1818,7 +1924,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 217194,
       "name": "Let\u2019s Get Married",
       "url": "https://open.spotify.com/track/0Deu4mcMzGG37yDf8B4L57"
@@ -2281,6 +2387,36 @@
     },
     {
       "album": {
+        "name": "NI TAN SANTX",
+        "url": "https://open.spotify.com/album/4nlxLo6TH0ILTMa3sS0FId"
+      },
+      "artists": [
+        {
+          "name": "EON",
+          "url": "https://open.spotify.com/artist/1Bt6FvbEO0j0bYOqZTabUd"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "L Prince",
+          "url": "https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "NI TAN SANTX",
+      "url": "https://open.spotify.com/track/31NbhHVGmaepwIhjiFFscr"
+    },
+    {
+      "album": {
         "name": "Nicole Kidman",
         "url": "https://open.spotify.com/album/0HCLdQDbY4uVGjb6p1j8oF"
       },
@@ -2484,7 +2620,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 359659,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3cWbxSR8DZS4Zu8cGwYlPT"
@@ -2502,7 +2638,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 277368,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/1BMvI5DMWsAaGtrfNEFQBX"
@@ -2752,6 +2888,24 @@
       "duration_ms": 230279,
       "name": "Que Nadie Sepa",
       "url": "https://open.spotify.com/track/7EimtFVVIXTqNql0r1YsmE"
+    },
+    {
+      "album": {
+        "name": "Quebec",
+        "url": "https://open.spotify.com/album/0L6bQfeKp1m44vTfPERNCr"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/2ob7ZotnJQiHcmbERf0OZR"
     },
     {
       "album": {
@@ -3127,6 +3281,28 @@
     },
     {
       "album": {
+        "name": "Solar Eclipse",
+        "url": "https://open.spotify.com/album/23u1az0GHfnvl6IhBo2ysD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244877,
+      "name": "Solar Eclipse",
+      "url": "https://open.spotify.com/track/2i7UeRxnQjnNaDXFf1K8K0"
+    },
+    {
+      "album": {
         "name": "Solifican12 (En Vivo desde Per\u00fa)",
         "url": "https://open.spotify.com/album/4QTgHGJVnjJJgsqqPfyGin"
       },
@@ -3467,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "TOO",
+        "url": "https://open.spotify.com/album/3cfpxG4KKUccs4cTJo2UR9"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169365,
+      "name": "TOO",
+      "url": "https://open.spotify.com/track/0TmSmxjPMqFkBOJpPFwCKF"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/01ynN8qJ1KTcK71oIpocdJ"
       },
@@ -3688,10 +3882,28 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 197864,
       "name": "Why - In Studio",
       "url": "https://open.spotify.com/track/2iQ0g5vxIy1829lC20hwHU"
+    },
+    {
+      "album": {
+        "name": "YO QUIERO",
+        "url": "https://open.spotify.com/album/7z2ArEjoHtjQAhAGuBhLlK"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363664,
+      "name": "YO QUIERO - REMIX",
+      "url": "https://open.spotify.com/track/1P3aLI0xuER7OMlDGpREXd"
     },
     {
       "album": {

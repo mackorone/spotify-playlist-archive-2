@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,306 likes - 47 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,315 likes - 47 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 6 | [HOY](https://open.spotify.com/track/5Lik2PinuEVEcHEwCDGlkC) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:52 |
 | 7 | [Qué Show](https://open.spotify.com/track/6IyXRF2ZE8QTMpwzyWl2DX) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Qué Show](https://open.spotify.com/album/7cyzIV3psbJtHnCRojkZW1) | 2:28 |
 | 8 | [Sólo Tú](https://open.spotify.com/track/4LuCgpmtwJTYjMJMBUQ36a) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Sólo Tú](https://open.spotify.com/album/5DCdfrzUQWPYiVV21M5too) | 2:37 |
-| 9 | [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 |
+| 9 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 |
 | 10 | [QUIERO QUE SEAS TÚ](https://open.spotify.com/track/17zEyidYyN0gGmJKTiEBTN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:28 |
-| 11 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 |
+| 11 | [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 |
 | 12 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
 | 13 | [Beso \- Spotify Singles](https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Beso \- Spotify Singles](https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs) | 2:23 |
 | 14 | [ME MUERO](https://open.spotify.com/track/0M7sYHAZNHOaYe7mTCAkH5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:47 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 38 | [Nuestro Final](https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:05 |
 | 39 | [Contigo](https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Contigo](https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm) | 2:50 |
 | 40 | [Expectante](https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Expectante](https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h) | 2:34 |
-| 41 | [NO TE ENAMORES DE NADIE](https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 3:09 |
+| 41 | [JÁLATE CONMIGO](https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:58 |
 | 42 | [Esto Avanza](https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:23 |
 | 43 | [Bailando \- Live](https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Bailando \(Live\)](https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP) | 3:09 |
 | 44 | [NOCHE NEGRA](https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:53 |
-| 45 | [JÁLATE CONMIGO](https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:58 |
+| 45 | [NO TE ENAMORES DE NADIE](https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 3:09 |
 | 46 | [48 Horas](https://open.spotify.com/track/64LyZmq9ovBu6GrDOhtf2m) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:21 |
 | 47 | [Loko](https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko](https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt) | 2:08 |
 
-Snapshot ID: `ar2igAAAAAAmNjxFUrxUHzd+usIMyYpP`
+Snapshot ID: `ar70AAAAAADUDjlmy+ft4/u1427oiamW`

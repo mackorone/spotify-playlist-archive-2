@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,059 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,102 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 99 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FML](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 |
 | 100 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
 
-Snapshot ID: `AAAAAIo07gjxfGGthIxEEcxIXiBwFFcq`
+Snapshot ID: `AAAAAFYvkF3vj3kp3bbR7K+hHx1hWIQN`

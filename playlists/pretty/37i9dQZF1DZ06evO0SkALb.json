@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12961,
+  "num_followers": 12959,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAhqWVkUEOLp1hoYg4wvkvw",
+  "snapshot_id": "ar70AAAAAADJgqDxfLRqHOGFxq6a1qAO",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
       "artists": [
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        },
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Fine Brown Frame",
-      "url": "https://open.spotify.com/track/529bZN7XbpbDog5xQqC3wA"
+      "duration_ms": 267400,
+      "name": "You've Made Me So Very Happy",
+      "url": "https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt"
     },
     {
       "added_at": null,
@@ -291,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
       },
       "artists": [
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        },
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 267400,
-      "name": "You've Made Me So Very Happy",
-      "url": "https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt"
+      "duration_ms": 185360,
+      "name": "Fine Brown Frame",
+      "url": "https://open.spotify.com/track/529bZN7XbpbDog5xQqC3wA"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 293213,
       "name": "Sit Down and Talk to Me",
       "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Dead End Street",
-      "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 209040,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Dead End Street",
+      "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
       "artists": [
         {
@@ -556,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 294720,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX"
+      "duration_ms": 176466,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
     },
     {
       "added_at": null,
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 278946,
-      "name": "Ain't That Loving You (For More Reasons Than One)",
-      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
+      "duration_ms": 294720,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
       "duration_ms": 199573,
       "name": "Georgia On My Mind - Remastered 2006",
       "url": "https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "Ain't That Loving You (For More Reasons Than One)",
+      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0RHxOjkG1CpNAGba3nN9c5"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 317360,
-      "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live at the Mark Hellinger Theatre, New York, NY - November 1977",
-      "url": "https://open.spotify.com/track/5z0pKiEk0me8RdNYh4gOvj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormy Monday",
         "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Be Anything (But Be Mine)",
+      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0RHxOjkG1CpNAGba3nN9c5"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 223493,
-      "name": "Be Anything (But Be Mine)",
-      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
+      "duration_ms": 317360,
+      "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live at the Mark Hellinger Theatre, New York, NY - November 1977",
+      "url": "https://open.spotify.com/track/5z0pKiEk0me8RdNYh4gOvj"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Portrait Of The Blues",
         "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 184026,
       "name": "A Lover's Question",
       "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "I Go Crazy",
-      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
     },
     {
       "added_at": null,

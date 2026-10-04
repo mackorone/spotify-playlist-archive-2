@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 205091,
       "name": "Alcatraz",
       "url": "https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s"
@@ -11742,7 +11742,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -14000,7 +14000,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 183714,
       "name": "Faz Bem",
       "url": "https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa"
@@ -19217,6 +19217,24 @@
     },
     {
       "album": {
+        "name": "Isaltino",
+        "url": "https://open.spotify.com/album/5pAN7IqUrjblw2lq4nCBP0"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222257,
+      "name": "Isaltino",
+      "url": "https://open.spotify.com/track/50iakLZIlmMPjJlye2Fc84"
+    },
+    {
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
       },
@@ -24175,6 +24193,40 @@
     },
     {
       "album": {
+        "name": "Mentira ou Verdade",
+        "url": "https://open.spotify.com/album/1GMrZpzfl1pReQkPYPuNX1"
+      },
+      "artists": [
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "$CAM",
+          "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        },
+        {
+          "name": "Ian Durso",
+          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103759,
+      "name": "Mentira ou Verdade",
+      "url": "https://open.spotify.com/track/71LFe32b7ne58NiL1jvwmp"
+    },
+    {
+      "album": {
         "name": "= (Christmas Edition)",
         "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
       },
@@ -24404,7 +24456,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 222178,
       "name": "Meu Deus",
       "url": "https://open.spotify.com/track/6jx4yp7a9uUUN28Hr244fp"
@@ -25728,7 +25780,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -26940,7 +26992,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -31274,7 +31326,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 143371,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB"
@@ -35224,6 +35276,56 @@
       "duration_ms": 179014,
       "name": "Sessenta e Nove",
       "url": "https://open.spotify.com/track/2Gu2068uXkND6e08anKmwd"
+    },
+    {
+      "album": {
+        "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & DJ Glenner)",
+        "url": "https://open.spotify.com/album/2L2HIKhijLbqTOHNGLIw2b"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Dj Daltin no Beat",
+          "url": "https://open.spotify.com/artist/2lFKqFqItmkHQB8jKilc44"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Mc Bruninho da Praia",
+          "url": "https://open.spotify.com/artist/7579yDSrhA6ZAArOo7m6UT"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431219,
+      "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & DJ Glenner)",
+      "url": "https://open.spotify.com/track/7By1xSEpnisnvOK6CvrEk1"
     },
     {
       "album": {
@@ -39374,7 +39476,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"

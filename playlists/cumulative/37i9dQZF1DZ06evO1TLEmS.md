@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-123 songs - 7 hr 54 min
+124 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Inventing The Wheel](https://open.spotify.com/track/3THN2eGuIxehrQPYhEE0Gr) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer \(Deluxe Edition\)](https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1) | 4:17 | 2024-10-04 | 2024-12-27 |
 | [Inventing The Wheel](https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Inventing The Wheel](https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw) | 4:17 | 2023-04-06 | 2024-08-25 |
 | [Invisible Chalk](https://open.spotify.com/track/0slesDIGIjKVz9FkivKbE3) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 3:28 | 2025-10-23 | 2025-10-30 |
+| [It Ain't Me Babe \(with Madison Cunningham\)](https://open.spotify.com/track/37pWuJFpyEfuyzAtCDMTBC) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [It Ain't Me Babe \(with Madison Cunningham\)](https://open.spotify.com/album/6Ywyu9QyC9Ryiorl356Vqy) | 4:19 | 2026-10-04 |  |
 | [John Wayne](https://open.spotify.com/track/61D7FDCFgp9U4h6VgpRN0t) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:55 | 2022-09-16 | 2023-01-27 |
 | [L.A\. \(Looking Alive\)](https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:48 | 2022-09-16 |  |
 | [Last Boat To Freedom](https://open.spotify.com/track/4EmXzLFLqPKspA94RIYYM9) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:25 | 2022-09-16 | 2023-06-09 |

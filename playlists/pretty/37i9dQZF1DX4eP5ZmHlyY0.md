@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,562 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,609 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

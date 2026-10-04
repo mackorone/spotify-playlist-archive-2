@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating South Africa's most beloved hits\. Cover: The Mahotella Queens, lordkez
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,332 likes - 60 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,372 likes - 60 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

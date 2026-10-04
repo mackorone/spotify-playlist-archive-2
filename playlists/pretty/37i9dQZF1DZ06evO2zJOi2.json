@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 778372,
+  "num_followers": 778497,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABaG3ricuPXfHWkIj3lE9Lv",
+  "snapshot_id": "ar70AAAAAABecl/Pfa8CZt5Loc067VbD",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOWER SHOPS (THE ALBUM)",
-        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
       "artists": [
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 214405,
-      "name": "Flower Shops (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
+      "duration_ms": 251776,
+      "name": "Neon Moon (with Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72"
     },
     {
       "added_at": null,
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+        "name": "FLOWER SHOPS (THE ALBUM)",
+        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
         },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 251776,
-      "name": "Neon Moon (with Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72"
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
     },
     {
       "added_at": null,

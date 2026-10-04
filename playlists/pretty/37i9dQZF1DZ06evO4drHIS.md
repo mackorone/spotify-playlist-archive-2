@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,014 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,023 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 16 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7MGXwJHmW6l38uVkAQFuCQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:52 |
 | 17 | [Si Nos Dejamos Querer](https://open.spotify.com/track/4ib3BMMkFenoPc8NckbzQf) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [25 Aniversario](https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA) | 2:33 |
 | 18 | [Cucurrucucú Paloma](https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 4:41 |
-| 19 | [No Te Apartes de Mí](https://open.spotify.com/track/5fHc0yLAyEAmzF3VDCXlDw) | [Cumbia Machine](https://open.spotify.com/artist/3nMgAD8mwuLXwtSNUzw8qc), [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes de Mí](https://open.spotify.com/album/7wHS73JJOpGAJwhNqrMdIk) | 3:52 |
-| 20 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
-| 21 | [Canción Para Olvidarte](https://open.spotify.com/track/5XqnEgOf00MMHogOTTFtjx) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 2:44 |
+| 19 | [Canción Para Olvidarte](https://open.spotify.com/track/5XqnEgOf00MMHogOTTFtjx) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 2:44 |
+| 20 | [No Te Apartes de Mí](https://open.spotify.com/track/5fHc0yLAyEAmzF3VDCXlDw) | [Cumbia Machine](https://open.spotify.com/artist/3nMgAD8mwuLXwtSNUzw8qc), [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes de Mí](https://open.spotify.com/album/7wHS73JJOpGAJwhNqrMdIk) | 3:52 |
+| 21 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
 | 22 | [A Través Del Vaso](https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Través Del Vaso](https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ) | 3:02 |
 | 23 | [Morí](https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:44 |
 | 24 | [Paloma Negra](https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:25 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 39 | [Vete](https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Vete](https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq) | 3:03 |
 | 40 | [Mi Meta Contigo \- Versión Mariachi](https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Meta Contigo \(Versión Mariachi\)](https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg) | 3:08 |
 | 41 | [Nadie Como Tú](https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nadie Como Tú](https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1) | 3:30 |
-| 42 | [Nos Ganó El Amor](https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:07 |
-| 43 | [Como Tú](https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 2:42 |
-| 44 | [Cuando Hablo De Ti](https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 |
+| 42 | [Cuando Hablo De Ti](https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 |
+| 43 | [Nos Ganó El Amor](https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:07 |
+| 44 | [Como Tú](https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 2:42 |
 | 45 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
 | 46 | [Así Es La Vida](https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:06 |
 | 47 | [¿Por Qué Dejaste Que Te Amara?](https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cuando Te Enamores](https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 49 | [No Te Apartes De Mí](https://open.spotify.com/track/1YVXnczV8oqpMqn8RVsW35) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:59 |
 | 50 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 |
 
-Snapshot ID: `ar2igAAAAADktuKnhIEJHw0KwKqHZhYU`
+Snapshot ID: `ar70AAAAAAAHzKdPjYr0Xy23NBd7AxcQ`

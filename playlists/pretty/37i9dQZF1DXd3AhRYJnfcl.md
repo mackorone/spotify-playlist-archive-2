@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: زيد خالد وناصر
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,822 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,900 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

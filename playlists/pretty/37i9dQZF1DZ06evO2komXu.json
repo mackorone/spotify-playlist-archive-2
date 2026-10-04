@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 59162,
+  "num_followers": 59177,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACFHGfwCYvD2KC+FX801c3g",
+  "snapshot_id": "ar70AAAAAABW+nIiCwaIaGgwM0Ksv6fU",
   "tracks": [
     {
       "added_at": null,
@@ -388,13 +388,13 @@
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 164718,
-      "name": "Amazing (feat. kwn)",
-      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
+      "duration_ms": 225310,
+      "name": "Gimme Dat (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
     },
     {
       "added_at": null,
@@ -466,15 +466,11 @@
         {
           "name": "Ayra Starr",
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 225310,
-      "name": "Gimme Dat (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
+      "duration_ms": 181788,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/7yxVQdvFEbjo9viqUuxxnP"
     },
     {
       "added_at": null,
@@ -542,11 +538,15 @@
         {
           "name": "Ayra Starr",
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 181788,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/7yxVQdvFEbjo9viqUuxxnP"
+      "duration_ms": 164718,
+      "name": "Amazing (feat. kwn)",
+      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280034,
+  "num_followers": 280046,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABJh6iSDLpBHDnubpjovPy3",
+  "snapshot_id": "ar70AAAAAABoLHIqhvSN0N6nhQ9mdiLO",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Esque\u00e7o",
-        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
-      },
-      "artists": [
-        {
-          "name": "Niara",
-          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "N\u00e3o Esque\u00e7o",
-      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm"
       },
@@ -219,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Esque\u00e7o",
+        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
+      },
+      "artists": [
+        {
+          "name": "Niara",
+          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "N\u00e3o Esque\u00e7o",
+      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEXE",
-        "url": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 146204,
-      "name": "MEXE",
-      "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/5dn4OFXeSlzgrXTGmxnCqd"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 306281,
       "name": "DEIXA ESTAR",
       "url": "https://open.spotify.com/track/4niIqdF6vxGx3Ae1UY3VN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEXE",
+        "url": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 146204,
+      "name": "MEXE",
+      "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
+      "duration_ms": 240400,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
     },
     {
       "added_at": null,
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Me Usa",
-      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
     },
     {
       "added_at": null,
@@ -979,30 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+        "name": "Vai Passar Mal Remixes",
+        "url": "https://open.spotify.com/album/0FMRLnUbj1in2fX3yxbmx3"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "Mc Aleff",
-          "url": "https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1"
-        },
-        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
         }
       ],
-      "duration_ms": 174213,
-      "name": "BRUXARIA 3000",
-      "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
+      "duration_ms": 181000,
+      "name": "Open Bar (Lean On)",
+      "url": "https://open.spotify.com/track/4WiViQB00IRESI6RBo7QaU"
     },
     {
       "added_at": null,

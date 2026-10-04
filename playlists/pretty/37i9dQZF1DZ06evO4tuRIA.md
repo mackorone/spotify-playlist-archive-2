@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,097 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,125 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 20 | [Vida Peligrosa El Solecito \(En Vivo\)](https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:01 |
 | 21 | [RANCHO MC](https://open.spotify.com/track/1zK8d2a9L8pBQ8dgvarae1) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:10 |
 | 22 | [Chevrolet 4X4](https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 3:14 |
-| 23 | [UN CAFECITO](https://open.spotify.com/track/2Wrmn4iCuxTFytg2AXuZaZ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [UN CAFECITO](https://open.spotify.com/album/6t3ZfvNZP1dEMd45nmmfFN) | 2:37 |
-| 24 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
+| 23 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
+| 24 | [UN CAFECITO](https://open.spotify.com/track/2Wrmn4iCuxTFytg2AXuZaZ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [UN CAFECITO](https://open.spotify.com/album/6t3ZfvNZP1dEMd45nmmfFN) | 2:37 |
 | 25 | [LOKO](https://open.spotify.com/track/2ULfDRz0Ik8E8M9RzWV2LZ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:11 |
 | 26 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 |
 | 27 | [Barba Negra \(feat\. Tito Torbellino Jr.\)](https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tito Torbellino Jr.](https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 49 | [La Pantera \(En Vivo\)](https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:11 |
 | 50 | [UN WOODCITO](https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:55 |
 
-Snapshot ID: `ar2igAAAAABuJ9jf0HuQwrpSXuaShb7K`
+Snapshot ID: `ar70AAAAAAAFHAysxUh5fLsODWGz/92/`

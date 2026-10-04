@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401,210 likes - 101 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,206 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 7 | [500 Horses](https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:48 |
 | 8 | [Butterflies](https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Butterflies](https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW) | 3:13 |
 | 9 | [Come Back To Me](https://open.spotify.com/track/0hi1Ih9flyXlfBxv9fwtSq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Come Back To Me](https://open.spotify.com/album/3NwVixCirzTrl8ovF5zSxZ) | 3:06 |
-| 10 | [Get Like You](https://open.spotify.com/track/3JnWRfZr9hAx6togM06icV) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Cookie](https://open.spotify.com/artist/2p9qW241w4tWxILtJyBmZc) | [Get Like You](https://open.spotify.com/album/6uq0uiGhA4TKWIPnk6AIev) | 6:42 |
+| 10 | [Get Like You](https://open.spotify.com/track/3JnWRfZr9hAx6togM06icV) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Cookie](https://open.spotify.com/artist/3lWaJCgIdzXSnfqrkzPOZU) | [Get Like You](https://open.spotify.com/album/6uq0uiGhA4TKWIPnk6AIev) | 6:42 |
 | 11 | [New Life](https://open.spotify.com/track/5tFO2Q2PNRZafF76yrH9jc) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [New Life](https://open.spotify.com/album/1CY4ywLOvU3m7b2rEEk34X) | 2:40 |
 | 12 | [Close to Close](https://open.spotify.com/track/4Fkd7z5YtgO2BFVqdTcTd4) | [FEMI ISHOLA](https://open.spotify.com/artist/1M1eX7IsJIMl96uTcPHHEI), [Menace4hire](https://open.spotify.com/artist/4oFfYNnynfSqQVW3hOfIMb) | [Kiwi Salad!](https://open.spotify.com/album/4qkbwCwfTcFBhoYBHu1Z9H) | 2:00 |
 | 13 | [Edge Of The Earth \- Lunch Break Freestyle](https://open.spotify.com/track/2HWnASR2XgSp2icDv0dC8i) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Edge Of The Earth \(Lunch Break Freestyle\)](https://open.spotify.com/album/1Z4AxH0nd5qSFIAmtlwYU7) | 2:03 |

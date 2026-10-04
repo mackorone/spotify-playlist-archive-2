@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,930 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,961 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 26 | [Raw \(Might Just\)](https://open.spotify.com/track/6YXOWhiHHnywkCNKJTdGNj) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 3:30 |
 | 27 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
 | 28 | [Mannequin Challenge \(feat\. Juice WRLD\)](https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:42 |
-| 29 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 |
-| 30 | [Power](https://open.spotify.com/track/2KztZVOEdCkJJHIXcdy6lM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 3:15 |
+| 29 | [Power](https://open.spotify.com/track/2KztZVOEdCkJJHIXcdy6lM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 3:15 |
+| 30 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 |
 | 31 | [pick up the phone \(feat\. Quavo\)](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [pick up the phone \(feat\. Quavo\)](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 |
 | 32 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:47 |
 | 33 | [Surf \(feat\. Gunna\)](https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:04 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 47 | [Just Like Me \(feat\. Young Thug\)](https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:40 |
 | 48 | [Superman \(feat\. Young Thug\)](https://open.spotify.com/track/1t9dT5JBC9x5WaAJpQzU1I) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:12 |
 | 49 | [Halftime](https://open.spotify.com/track/4BP0An7SXctTY4kF41JxIQ) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:46 |
-| 50 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
+| 50 | [Tell Her Nothing](https://open.spotify.com/track/5NIFj42IEueGwtG3AfGbcI) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Tell Her Nothing](https://open.spotify.com/album/23GqCmiLqpRumFdxcHJnp6) | 3:44 |
 
-Snapshot ID: `ar2igAAAAACU83r65IWFVGR95YYTw5EV`
+Snapshot ID: `ar70AAAAAAAz80NsEB2Ot3zVn3P5mR9X`

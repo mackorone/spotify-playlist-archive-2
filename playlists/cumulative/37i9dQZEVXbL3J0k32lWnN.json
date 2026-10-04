@@ -9291,6 +9291,24 @@
     },
     {
       "album": {
+        "name": "Der Bor To Verdener I Mig",
+        "url": "https://open.spotify.com/album/4GjijJTBu4uFQtB828W8Rf"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "Dag Etter",
+      "url": "https://open.spotify.com/track/0yXbholP1jDYnkFXo7XwqH"
+    },
+    {
+      "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
       },
@@ -12896,7 +12914,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 144950,
       "name": "d\u00f8 med dig",
       "url": "https://open.spotify.com/track/2q5nkpJMREI1QHUEOKFBJj"
@@ -13070,7 +13088,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 164959,
       "name": "El Corte Ingl\u00e9s",
       "url": "https://open.spotify.com/track/23tSqCpMjwduaFQCOHVZvf"
@@ -19996,6 +20014,24 @@
       "duration_ms": 140303,
       "name": "Har Du Det S\u00e5dan Her? (feat. KESI)",
       "url": "https://open.spotify.com/track/5UV3zCn6evCz5PQMBvyAwC"
+    },
+    {
+      "album": {
+        "name": "Har Du M\u00e6rket Dig Selv?",
+        "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190248,
+      "name": "Har Du M\u00e6rket Dig Selv?",
+      "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
     },
     {
       "album": {
@@ -41530,7 +41566,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 180690,
       "name": "Sky Priority",
       "url": "https://open.spotify.com/track/2u93yYc7np2Ci3JKketMCw"
@@ -42279,6 +42315,24 @@
     },
     {
       "album": {
+        "name": "SODA",
+        "url": "https://open.spotify.com/album/1Oc0wPHNFMdpvAB6F0H0zc"
+      },
+      "artists": [
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128647,
+      "name": "SODA",
+      "url": "https://open.spotify.com/track/2qQW6QYAqpRXWkIjiABgys"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -42318,6 +42372,28 @@
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {
@@ -45318,7 +45394,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -48985,6 +49061,28 @@
     },
     {
       "album": {
+        "name": "Vant Til (feat. KESI)",
+        "url": "https://open.spotify.com/album/6QB8wUJIn4hjk6W0Q8ZxCw"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146204,
+      "name": "Vant Til (feat. KESI)",
+      "url": "https://open.spotify.com/track/0HuDb66kQr9d0Y0nHaG37U"
+    },
+    {
+      "album": {
         "name": "Blah Blah Blah",
         "url": "https://open.spotify.com/album/02Nnnr4gylRa7Z060ELUBO"
       },
@@ -49148,7 +49246,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 171542,
       "name": "Verden Er Din Freestyle",
       "url": "https://open.spotify.com/track/2diC8dzDfEd93W5CxhkMHZ"

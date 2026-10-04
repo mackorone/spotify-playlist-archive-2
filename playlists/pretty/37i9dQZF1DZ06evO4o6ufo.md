@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,458 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,505 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 |
 | 50 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL) | 2:29 |
 
-Snapshot ID: `ar2igAAAAACnX6Pu2f2ELislNBZygqZX`
+Snapshot ID: `ar70AAAAAAAaSK9hYeycjxHI8GejO/B6`

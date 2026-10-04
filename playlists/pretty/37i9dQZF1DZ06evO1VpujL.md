@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,035 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,041 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 31 | [Doom Riff](https://open.spotify.com/track/1bFpr9RuXPpIw7dbFAlLgC) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:48 |
 | 32 | [Start First](https://open.spotify.com/track/0YiMuZ0z4xtfdkdj7wOiIl) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 2:49 |
 | 33 | [Loud and Clear](https://open.spotify.com/track/2o7PvxONvn3b5n8uRben7D) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:31 |
-| 34 | [Cause Ah Riot](https://open.spotify.com/track/31dOPJ62Idpq6eJA7KOKnO) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:04 |
+| 34 | [State of Emergency](https://open.spotify.com/track/0z0IXlH0JZSIbLTq7oU06f) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 4:03 |
 | 35 | [Game Over](https://open.spotify.com/track/2OLzB5nuueydMIuLQxhKOk) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 4:11 |
 | 36 | [Ruling Force](https://open.spotify.com/track/4pvGRrSuY0VUUJfzsrPAFI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 3:52 |
 | 37 | [Machine \(Ft\. Gary Stringer\)](https://open.spotify.com/track/0MrL61At3ad6kVdjefaZMH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:32 |
-| 38 | [State of Emergency](https://open.spotify.com/track/0z0IXlH0JZSIbLTq7oU06f) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 4:03 |
+| 38 | [Cause Ah Riot](https://open.spotify.com/track/31dOPJ62Idpq6eJA7KOKnO) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:04 |
 | 39 | [Shut Ya Mouth](https://open.spotify.com/track/0Ng9ji1k1QYwpzHXIwxNfc) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:43 |
 | 40 | [Open Eyed](https://open.spotify.com/track/2sEPalDxv2IxnVnjlDFa8R) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 4:42 |
 | 41 | [Cut Dem](https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 49 | [Days Like These](https://open.spotify.com/track/5XdFU7eQHlD2nqv2VnncVP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 |
 | 50 | [Sound the Siren](https://open.spotify.com/track/6uhIs0YwxmT2SehGWrFsBH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:20 |
 
-Snapshot ID: `ar2igAAAAAAHzgF6qUBAHRhtS2AiN2GR`
+Snapshot ID: `ar70AAAAAAB5wuzGyW+ZKa6WM+Py8dRT`

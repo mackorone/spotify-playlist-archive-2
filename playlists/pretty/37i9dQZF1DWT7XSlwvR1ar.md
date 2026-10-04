@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115,632 likes - 150 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115,691 likes - 150 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

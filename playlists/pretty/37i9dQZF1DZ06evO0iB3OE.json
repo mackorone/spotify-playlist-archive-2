@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 11058,
+  "num_followers": 11063,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAADXzUZKdUiHAJha0y9AGXxG",
+  "snapshot_id": "ar70AAAAAADatpqVmeGmxi4FgjFfeqtw",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Culiacan Con Servando ZL",
+        "url": "https://open.spotify.com/album/50LIglz8oy1KJ9ys8GjEbB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Corazon Duro (En Vivo)",
+      "url": "https://open.spotify.com/track/0fV373c5T4q4UbjiG64zdm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Millon Y Medio Y Pasaditooo",
         "url": "https://open.spotify.com/album/6zM6WwCnlkpiLnLVJI9ksS"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 162631,
       "name": "De Huarache y Sombrero / Huarache De Tres Piquetes",
       "url": "https://open.spotify.com/track/5NrcpNz06ZxDwjKFv13Ja5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde Culiacan Con Servando ZL",
-        "url": "https://open.spotify.com/album/50LIglz8oy1KJ9ys8GjEbB"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Corazon Duro (En Vivo)",
-      "url": "https://open.spotify.com/track/0fV373c5T4q4UbjiG64zdm"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Los Pioneros",
-          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
-        }
-      ],
-      "duration_ms": 147330,
-      "name": "La Pasadita - En Vivo",
-      "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
@@ -771,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+        "name": "En Vivo Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Los Pioneros",
+          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 149973,
-      "name": "Por Que No Vienes",
-      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
+      "duration_ms": 147330,
+      "name": "La Pasadita - En Vivo",
+      "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 145402,
       "name": "Dejame",
       "url": "https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Por Que No Vienes",
+      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
     },
     {
       "added_at": null,

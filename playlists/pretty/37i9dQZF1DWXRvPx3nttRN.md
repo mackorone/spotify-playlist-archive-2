@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,260 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,282 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,12 +99,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 89 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
 | 90 | [Wonderful Life](https://open.spotify.com/track/0cqLFzFYsQurUI3McUZkLg) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Wonderful Life](https://open.spotify.com/album/5PzrmeHkX1u2Gt4j4O4oYr) | 4:07 |
 | 91 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/3JH3oqHNVUYFVr1JyVlRsC) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:02 |
-| 92 | [This Love \- Acoustic](https://open.spotify.com/track/3uYzfyifC7J1j1IEjN1xz6) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW) | 4:15 |
-| 93 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 |
-| 94 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/3LUBsjAuvdCcPVHvwQhVOJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me \(Acoustic Version\)](https://open.spotify.com/album/74DlSwELqP1vuk3ynNVvMk) | 3:44 |
-| 95 | [Bruises](https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm) | 3:38 |
-| 96 | [My My My! \- Acoustic](https://open.spotify.com/track/3gj3LT3OavgXPtnqYLMQuO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My! \(Acoustic\)](https://open.spotify.com/album/1Nbozy5kVFXtxWgYbts3vB) | 3:43 |
-| 97 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
+| 92 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
+| 93 | [This Love \- Acoustic](https://open.spotify.com/track/3uYzfyifC7J1j1IEjN1xz6) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW) | 4:15 |
+| 94 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 |
+| 95 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/3LUBsjAuvdCcPVHvwQhVOJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me \(Acoustic Version\)](https://open.spotify.com/album/74DlSwELqP1vuk3ynNVvMk) | 3:44 |
+| 96 | [Bruises](https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm) | 3:38 |
+| 97 | [My My My! \- Acoustic](https://open.spotify.com/track/3gj3LT3OavgXPtnqYLMQuO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My! \(Acoustic\)](https://open.spotify.com/album/1Nbozy5kVFXtxWgYbts3vB) | 3:43 |
 | 98 | [Rather Be](https://open.spotify.com/track/4Y9ZPnecYXbE7KxDVRq0Cm) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0nPQ4uEOKLeGQ35Mcs94xH) | 4:07 |
 | 99 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/2QfNZWOVYeycSM2bmrpm9W) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Wake Me Up](https://open.spotify.com/album/0SjMEy7ulz2ygRziPJl7v0) | 3:45 |
 | 100 | [Rely On Me](https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu) | 3:39 |

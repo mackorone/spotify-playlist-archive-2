@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 968713,
+  "num_followers": 968853,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACAaq4ttK8mgZMC3kALFXT3",
+  "snapshot_id": "ar70AAAAAABcUK/jdORbOBNWjlO+U7rW",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cruisin' with Junior H",
-        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 240388,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md"
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+        "name": "Cruisin' with Junior H",
+        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+      "duration_ms": 240388,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md"
     },
     {
       "added_at": null,

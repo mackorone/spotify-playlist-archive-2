@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9840,
+  "num_followers": 9841,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAoVpdGCjdBiKzHUcDKYMwo",
+  "snapshot_id": "ar70AAAAAACQE6vjGptALicJVw9z7j+b",
   "tracks": [
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Rainha do Vinho",
+      "url": "https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soffisticada",
         "url": "https://open.spotify.com/album/2u6XX2uoP8vFrJrmkaAzrt"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 203076,
       "name": "Face Card",
       "url": "https://open.spotify.com/track/1HHCTTpYyRZTXyofa5dADX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Rainha do Vinho",
-      "url": "https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX"
     },
     {
       "added_at": null,

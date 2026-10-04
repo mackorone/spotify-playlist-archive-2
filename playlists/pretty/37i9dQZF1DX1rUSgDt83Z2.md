@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,819 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,832 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

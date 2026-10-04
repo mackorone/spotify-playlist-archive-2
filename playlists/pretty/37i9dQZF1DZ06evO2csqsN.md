@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,812 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,825 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 7 | [ErrTime \(feat\. Latto\) \[Remix\]](https://open.spotify.com/track/4hcQDZwYcx3qXTzfegb45N) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [AM I THE DRAMA? \(ErrTime Edition\)](https://open.spotify.com/album/4wQ6C0rMkwvWsANBN1kZXO) | 2:26 |
 | 8 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 9 | [Housekeeping Knows \(feat\. Latto\)](https://open.spotify.com/track/3YPEtDvQWStCH8eCq0Fl8Z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 3:06 |
-| 10 | [Go Girl \(with Latto & Doja Cat\)](https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:50 |
-| 11 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
+| 10 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
+| 11 | [Go Girl \(with Latto & Doja Cat\)](https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:50 |
 | 12 | [Chrome Heart Diaper Bag](https://open.spotify.com/track/1IHpMe3bxgL9iDHpJAzvim) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 2:56 |
 | 13 | [BOTA](https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BOTA](https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ) | 2:58 |
 | 14 | [GOMF \(feat\. GloRilla\)](https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GOMF \(feat\. GloRilla\)](https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [A\-Town Girl](https://open.spotify.com/track/2FPn9y8gvvrp9gydZmGpvT) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:32 |
 | 50 | [Sunshine \(feat\. Lil Wayne & Childish Gambino\)](https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 3:26 |
 
-Snapshot ID: `ar2igAAAAADHFAQM3mDCq7ykIYiNQfI5`
+Snapshot ID: `ar70AAAAAACJCwjAe3tjUjdfXWJZmR0j`

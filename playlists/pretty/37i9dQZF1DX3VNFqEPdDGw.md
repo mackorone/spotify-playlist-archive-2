@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Inderpal Moga, Intense, Jazzy B & Chani Nattan
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,643 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,659 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

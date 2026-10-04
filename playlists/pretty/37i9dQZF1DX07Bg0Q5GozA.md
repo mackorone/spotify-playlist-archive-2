@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: BICEP
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,506 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,484 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Crush Forever](https://open.spotify.com/track/0NLRlg2rElM8r4rU53Zqd0) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Crush Forever](https://open.spotify.com/album/13ibuOKOy1lAxVJ2e8O6Sz) | 4:32 |
 | 75 | [Black Techno Guy](https://open.spotify.com/track/0GQ7Xh6mfh71Q0Az8sg3LT) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Techno Guy](https://open.spotify.com/album/3OO4Kb2Iw1qljp75qXh3hF) | 3:00 |
 
-Snapshot ID: `AAAAADI+xrUo4DQ8YWaBEpEqEU2ouzdD`
+Snapshot ID: `AAAAAFd7fmaeEz+ca83lO+9OUkQCLwgR`

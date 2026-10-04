@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-108 songs - 8 hr 10 min
+109 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Come Jesus Come](https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ) | 5:01 | 2025-03-16 | 2025-03-17 |
 | [Come Ye, Disconsolate](https://open.spotify.com/track/7iZ285acdKmeSg01yL8s3L) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 5:15 | 2024-07-06 | 2024-07-22 |
 | [Didn't We Papa](https://open.spotify.com/track/78OG7lHn94tKlXKegYVYWR) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Go](https://open.spotify.com/album/2vUXb5h6EOjpUdRfPT58vo) | 3:34 | 2025-11-16 | 2025-12-14 |
+| [Don't Be Afraid](https://open.spotify.com/track/2HoSLr1uEWKK7GUDJn3ZEO) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:32 | 2026-10-04 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/5qcAI2okoSPebBpM6f0hdz) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 3:34 | 2023-05-12 | 2024-03-12 |
 | [Don't Drive Your Mama Away](https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 10:23 | 2023-05-12 | 2026-09-21 |
 | [Don't Give Up](https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:21 | 2023-05-12 |  |
@@ -90,7 +91,7 @@
 | [Satan, We're Gonna Tear Your Kingdom Down](https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Greenleaf \(Gospel Companion Soundtrack, Vol\. 1\)](https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ) | 4:08 | 2023-05-12 | 2026-08-27 |
 | [Satan, You're a Liar](https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:50 | 2023-05-12 | 2026-03-19 |
 | [So Satisfied](https://open.spotify.com/track/4YojWdG5mZdMR5hEPgGeuv) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 4:06 | 2024-11-14 | 2025-01-03 |
-| [Sow Righteous Seeds](https://open.spotify.com/track/50BFszWY6FXWYy1QheXecM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 3:57 | 2026-09-19 |  |
+| [Sow Righteous Seeds](https://open.spotify.com/track/50BFszWY6FXWYy1QheXecM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 3:57 | 2026-09-19 | 2026-10-04 |
 | [Steal Away to Jesus](https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Heart to Yours](https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS) | 3:27 | 2023-05-12 | 2026-08-27 |
 | [Strong Man](https://open.spotify.com/track/226jnN4L43ACMq1CdP96py) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 5:40 | 2023-05-12 |  |
 | [Survive This](https://open.spotify.com/track/6SwndAQPxptKnqFEmPrLTj) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 4:58 | 2024-08-17 | 2024-08-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,567,490 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,567,510 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Cyanide](https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [MINDFULL](https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb) | 3:06 |
 | 75 | [Adrenaline](https://open.spotify.com/track/0tsq2ep6prmyRMEI1niqZv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Adrenaline](https://open.spotify.com/album/78TPbebDwkSG8BgvCTAiMj) | 2:35 |
 
-Snapshot ID: `AAAAAH2/YKNLn0guurZ+/kGo3T+SadEd`
+Snapshot ID: `AAAAABJCWerYyKP9SAAuS9lnfpd5namL`

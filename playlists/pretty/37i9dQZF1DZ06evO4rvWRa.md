@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,848 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,878 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 25 | [Heartbreak Melody](https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Heartbreak Melody](https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4) | 3:11 |
 | 26 | [Legends Never Die \- Remix](https://open.spotify.com/track/5481KTfiIDDOvTqgtevdIj) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Legends Never Die \(Remix\)](https://open.spotify.com/album/1ITtdilZvKZAIIzZDZskCi) | 2:47 |
 | 27 | [Heart over Mind](https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 3:09 |
-| 28 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
-| 29 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
+| 28 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
+| 29 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
 | 30 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 |
 | 31 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 |
 | 32 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Not Home](https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Not Home](https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM) | 2:00 |
 | 50 | [Fade](https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Origins](https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT) | 4:24 |
 
-Snapshot ID: `ar2igAAAAADPiogESnfOvXT6ABQwIpk/`
+Snapshot ID: `ar70AAAAAAD38Z4+AP3UZ/hdHFwam6bd`

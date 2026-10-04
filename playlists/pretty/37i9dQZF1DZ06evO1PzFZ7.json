@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151105,
+  "num_followers": 151100,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABZMgXnIrZOGjnVlpZJeszR",
+  "snapshot_id": "ar70AAAAAAAgj/CGX03XVAhBr89dpA20",
   "tracks": [
     {
       "added_at": null,
@@ -695,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "MORVN",
+          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
         }
       ],
-      "duration_ms": 183817,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
+      "duration_ms": 220000,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
     },
     {
       "added_at": null,
@@ -731,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amiga M\u00eda",
-        "url": "https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "MORVN",
-          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
+      "duration_ms": 183817,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
     },
     {
       "added_at": null,
@@ -771,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "China De Los Ojos Negros",
-        "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
+        "name": "Yuri y Sus Amigos del Regional Mexicano",
+        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
       },
       "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 154835,
-      "name": "China De Los Ojos Negros",
-      "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
+      "duration_ms": 226032,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
     },
     {
       "added_at": null,
@@ -803,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yuri y Sus Amigos del Regional Mexicano",
-        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
+        "name": "China De Los Ojos Negros",
+        "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
       },
       "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 226032,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
+      "duration_ms": 154835,
+      "name": "China De Los Ojos Negros",
+      "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
     },
     {
       "added_at": null,

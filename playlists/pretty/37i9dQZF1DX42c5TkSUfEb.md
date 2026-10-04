@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,633 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,649 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

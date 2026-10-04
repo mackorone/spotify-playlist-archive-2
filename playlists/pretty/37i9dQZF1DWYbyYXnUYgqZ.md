@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: HEARTSTEEL\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,742 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,738 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

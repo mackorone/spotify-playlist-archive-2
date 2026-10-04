@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,297 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,299 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 50 | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ) | 2:27 |
 
-Snapshot ID: `ar2igAAAAACXFUN1S3Q7FEVRfS+nOLZj`
+Snapshot ID: `ar70AAAAAAAUiHzwI3D6AsAwiW+ZObZy`

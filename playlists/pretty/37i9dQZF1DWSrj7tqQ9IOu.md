@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : Ben PLG
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,578 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,599 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

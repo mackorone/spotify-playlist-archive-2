@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6m3hSTUS0vdJhCUl1EBPXA">Abby Keen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-71 songs - 3 hr 32 min
+74 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,8 @@
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2025-05-02 |  |
 | [Close To You](https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:54 | 2025-05-02 |  |
 | [Daylight](https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:31 | 2025-05-02 |  |
+| [DON'T BELIEVE IT](https://open.spotify.com/track/5TbTOkgK8UAjtjIuIVPAjE) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:07 | 2026-10-03 |  |
+| [Elevator](https://open.spotify.com/track/4gEEozprPbT7FqIXM7ktRc) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 3:30 | 2026-10-03 |  |
 | [Evolution](https://open.spotify.com/track/4CYY2tnLIZbULH7338WKk0) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Evolution](https://open.spotify.com/album/6wFWz9PjdvA0V6JSiyVDAe) | 3:15 | 2025-05-02 |  |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2025-05-02 |  |
 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/63IC8gaszSBCasV9THojiT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:28 | 2025-05-02 |  |
@@ -67,6 +69,7 @@
 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 | 2025-05-02 |  |
 | [Rosas](https://open.spotify.com/track/5foNspX05ryNh2LqKTz4nn) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:02 | 2025-05-02 |  |
 | [Shades](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Shades](https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS) | 2:31 | 2025-05-02 |  |
+| [Simple Things](https://open.spotify.com/track/5Ut8wOcu6qNQ5Y8uty3m0I) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 3:20 | 2026-10-03 |  |
 | [SOMETHING MORE](https://open.spotify.com/track/1QD5FRoUo6gcxAzq7bg2ae) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [SOMETHING MORE](https://open.spotify.com/album/5QRERCg5VMNxhV2V2OISah) | 2:43 | 2025-05-02 |  |
 | [Speak Up](https://open.spotify.com/track/2JlFrcyUSZQw0iX6DK1pK5) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:07 | 2025-05-02 |  |
 | [Stay With Me](https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [The Sun Comes Up](https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p) | 3:25 | 2025-05-02 |  |

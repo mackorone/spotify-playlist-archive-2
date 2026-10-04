@@ -1,12 +1,12 @@
 {
   "description": "This is Yo-Yo Ma. The essential tracks, all in one playlist.",
-  "num_followers": 103557,
+  "num_followers": 103571,
   "original_name": "This Is Yo-Yo Ma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAD665D8OZdfUj78HUhW1FLz",
+  "snapshot_id": "ar70AAAAAAA+xGPXapZBO++YIsvqkfFG",
   "tracks": [
     {
       "added_at": null,
@@ -36,8 +36,8 @@
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
         },
         {
           "name": "Yo-Yo Ma",
@@ -48,9 +48,9 @@
           "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
-      "duration_ms": 174266,
-      "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",
-      "url": "https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO"
+      "duration_ms": 109800,
+      "name": "Wiegenlied, Op. 49, No. 4 (Arr. for Cello and Piano) [Brahms Lullaby]",
+      "url": "https://open.spotify.com/track/59cPOVxrn3Yjwydl1pullI"
     },
     {
       "added_at": null,
@@ -176,8 +176,8 @@
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
           "name": "Yo-Yo Ma",
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
-      "duration_ms": 109800,
-      "name": "Wiegenlied, Op. 49, No. 4 (Arr. for Cello and Piano) [Brahms Lullaby]",
-      "url": "https://open.spotify.com/track/59cPOVxrn3Yjwydl1pullI"
+      "duration_ms": 174266,
+      "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Six Evolutions - Bach: Cello Suites",
-        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: V. Menuets I & II",
-      "url": "https://open.spotify.com/track/52ef2T9KALMGFdLt3RdeUn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beethoven for Three: Symphony No. 3 \"Eroica\" and Leonore Overture No. 3",
         "url": "https://open.spotify.com/album/3Hw8f8DBaeohURaMuWo2Bb"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 812000,
       "name": "Leonore Overture No. 3 in C Major, Op. 72b",
       "url": "https://open.spotify.com/track/3Yz8BuiJ47zkKpbYhFPHMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Six Evolutions - Bach: Cello Suites",
+        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: V. Menuets I & II",
+      "url": "https://open.spotify.com/track/52ef2T9KALMGFdLt3RdeUn"
     },
     {
       "added_at": null,
@@ -1191,8 +1191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach Trios",
-        "url": "https://open.spotify.com/album/5SbylfazVixJi7hahuuzvH"
+        "name": "Bach: Cello Suites Nos. 1, 5 & 6",
+        "url": "https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg"
       },
       "artists": [
         {
@@ -1202,19 +1202,11 @@
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
         }
       ],
-      "duration_ms": 258360,
-      "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio",
-      "url": "https://open.spotify.com/track/6bj2r3CKqXhMnvb07VY4iR"
+      "duration_ms": 198426,
+      "name": "Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande",
+      "url": "https://open.spotify.com/track/5k89hpsgTdxmt2Y5m1lWGs"
     },
     {
       "added_at": null,
@@ -1239,8 +1231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Cello Suites Nos. 1, 5 & 6",
-        "url": "https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg"
+        "name": "Bach Trios",
+        "url": "https://open.spotify.com/album/5SbylfazVixJi7hahuuzvH"
       },
       "artists": [
         {
@@ -1250,11 +1242,19 @@
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
         }
       ],
-      "duration_ms": 198426,
-      "name": "Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande",
-      "url": "https://open.spotify.com/track/5k89hpsgTdxmt2Y5m1lWGs"
+      "duration_ms": 258360,
+      "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio",
+      "url": "https://open.spotify.com/track/6bj2r3CKqXhMnvb07VY4iR"
     },
     {
       "added_at": null,
@@ -1287,26 +1287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dvor\u00e1k Album",
-        "url": "https://open.spotify.com/album/2Br6zyRNv6sOyquElz7nXh"
+        "name": "Bach: Cello Suites Nos. 1, 5 & 6",
+        "url": "https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg"
       },
       "artists": [
         {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Patricia Zander",
-          "url": "https://open.spotify.com/artist/3awsO3EshEt2f0FkcBYYpC"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Gypsy Songs, Op. 55, B. 104: No. 4, Songs My Mother Taught Me (Arr. F. Kreisler for Cello & Piano)",
-      "url": "https://open.spotify.com/track/6wK08nOPL1aZW4oL2A9PUp"
+      "duration_ms": 116026,
+      "name": "Cello Suite No. 5 in C Minor, BWV 1011: III. Courante",
+      "url": "https://open.spotify.com/track/3gJem1ky3SSSdBAkgHk5sA"
     }
   ],
   "unique_name": "This Is Yo-Yo Ma",

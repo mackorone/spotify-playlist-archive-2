@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,317 likes - 46 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,316 likes - 46 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 45 | [Vagando Voy](https://open.spotify.com/track/5TV0CzAeiTbKY2mcsdDmkJ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:07 |
 | 46 | [Gabino Barrera](https://open.spotify.com/track/0O2Xy6fraAVq3q841IYH9T) | [Country Roland Band](https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Country Roland Vs\. Los Relampagos](https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1) | 2:44 |
 
-Snapshot ID: `ar2igAAAAABo2os3VZFKZSQzyvDzVrsJ`
+Snapshot ID: `ar70AAAAAAB7BKYGvvrO2aFxUCx4j41Q`

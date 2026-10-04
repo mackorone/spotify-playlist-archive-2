@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,057 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,068 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 19 | [Revelaciones de un Cholo](https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Revelaciones de un Cholo \(Explicit\)](https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw) | 3:56 |
 | 20 | [LAS CULATAS](https://open.spotify.com/track/2Yf9O2NcWVu88Rj1iQMKyt) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [LEY DE VIDA](https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz) | 2:36 |
 | 21 | [El Pop](https://open.spotify.com/track/398SNFwt3tJRVk2JVxt7El) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:03 |
-| 22 | [Area 81](https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 2:45 |
-| 23 | [Criminales de Verdad \- En Vivo](https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:07 |
+| 22 | [Criminales de Verdad \- En Vivo](https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:07 |
+| 23 | [Area 81](https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 2:45 |
 | 24 | [JEFAZO](https://open.spotify.com/track/0lfeNu6f5qXqe1omcMrhRE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [LEY DE VIDA](https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz) | 2:54 |
 | 25 | [Triste Historia](https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:50 |
 | 26 | [Pongámonos De Acuerdo](https://open.spotify.com/track/24AQa9DkSsiRILa2se6Mht) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pongámonos de Acuerdo](https://open.spotify.com/album/3aUyCfkToMeF5JTFpHhogK) | 3:08 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 42 | [Sin Hacer Ruido](https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Sin Hacer Ruido](https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs) | 2:35 |
 | 43 | [Según Te Extraño](https://open.spotify.com/track/6nI8ZKphg3xJ6k3Nm69XE8) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:45 |
 | 44 | [El Pinky](https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Pinky](https://open.spotify.com/album/3fcnlKU8TRjOmpsvVgEhrD) | 3:05 |
-| 45 | [Caravana de Carros](https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Caravana de Carros](https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2) | 3:40 |
-| 46 | [Porte Fino \- En Vivo](https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:10 |
-| 47 | [Problemas Mentales](https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:51 |
-| 48 | [El Fabi](https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Fabi](https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic) | 2:40 |
-| 49 | [Diez Mandamientos](https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Diez Mandamientos](https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn) | 3:27 |
-| 50 | [Señor de la A \- En Vivo](https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:14 |
+| 45 | [Porte Fino \- En Vivo](https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:10 |
+| 46 | [Caravana de Carros](https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Caravana de Carros](https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2) | 3:40 |
+| 47 | [El Fabi](https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Fabi](https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic) | 2:40 |
+| 48 | [Problemas Mentales](https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:51 |
+| 49 | [Señor de la A \- En Vivo](https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:14 |
+| 50 | [Diez Mandamientos](https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Diez Mandamientos](https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn) | 3:27 |
 
-Snapshot ID: `ar2igAAAAAANES6GtTKPVB5AeJ2ehWE2`
+Snapshot ID: `ar70AAAAAACtwRFXNPNDewMl0XGXrV5v`

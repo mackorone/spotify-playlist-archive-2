@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 
 > This is Asake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,829 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,942 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ego \- Live in London](https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY Live in London \(Spotify Live\)](https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB) | 2:39 |
 | 2 | [Bad Boy \- Live in London](https://open.spotify.com/track/7cVfyaApAStNeOqArVln4c) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY Live in London \(Spotify Live\)](https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB) | 2:51 |
 | 3 | [Gratitude](https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:49 |
-| 4 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 |
-| 5 | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA) | 2:38 |
+| 4 | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA) | 2:38 |
+| 5 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 |
 | 6 | [Nzaza](https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:03 |
 | 7 | [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 |
 | 8 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 31 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 |
 | 32 | [Mood](https://open.spotify.com/track/5obTyAhp9xms15FjibgrBy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:51 |
 | 33 | [What's Up My G](https://open.spotify.com/track/2LjZYCOYldHWhzQ1G5XJ81) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:50 |
-| 34 | [Getting Paid ​\(f​eat​\. Asake, Wizkid, Skillibeng​\)](https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:28 |
+| 34 | [2Factor](https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 3:46 |
 | 35 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 |
-| 36 | [2Factor](https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 3:46 |
+| 36 | [Getting Paid ​\(f​eat​\. Asake, Wizkid, Skillibeng​\)](https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:28 |
 | 37 | [2:30](https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:18 |
 | 38 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 |
 | 39 | [Baba God](https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:44 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 48 | [Bad Girl \(feat\. Asake\)](https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
 | 49 | [New Religion](https://open.spotify.com/track/0U6EtYtNKv8t3o9cjniLn2) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:33 |
 
-Snapshot ID: `ar2igAAAAACd3tKNqwmtzfHSeczRbbf5`
+Snapshot ID: `ar70AAAAAADz3eBqUashB+OhDqKsViK7`

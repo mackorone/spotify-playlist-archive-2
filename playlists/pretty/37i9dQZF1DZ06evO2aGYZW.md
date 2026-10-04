@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 
 > This is Macklemore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,499 likes - 48 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,539 likes - 48 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 | 26 | [1984](https://open.spotify.com/track/3qlcuL2Bse822wDSXmg1YE) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 3:24 |
 | 27 | [Shadow \(feat\. IRO\) \- From Songland](https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Shadow \(feat\. IRO\) \[From Songland\]](https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3) | 2:57 |
 | 28 | [Intentions \(feat\. Dan Caplen\)](https://open.spotify.com/track/51Bpjq1BdQlS3V852vJCw7) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [GEMINI](https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2) | 3:50 |
-| 29 | [Drug Dealer \(feat\. Ariana DeBoo\)](https://open.spotify.com/track/2zM1k4PnL573ayLHqpQaQN) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ariana DeBoo](https://open.spotify.com/artist/5ZpkHItfsaTaVtErDGDJ4v) | [Drug Dealer \(feat\. Ariana DeBoo\)](https://open.spotify.com/album/3ef118ZZtTNsk0Z1h3Ak6E) | 3:43 |
-| 30 | [St\. Ides](https://open.spotify.com/track/7bkZhh7uKi9b60fjob2XGt) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:39 |
+| 29 | [St\. Ides](https://open.spotify.com/track/7bkZhh7uKi9b60fjob2XGt) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:39 |
+| 30 | [Drug Dealer \(feat\. Ariana DeBoo\)](https://open.spotify.com/track/2zM1k4PnL573ayLHqpQaQN) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ariana DeBoo](https://open.spotify.com/artist/5ZpkHItfsaTaVtErDGDJ4v) | [Drug Dealer \(feat\. Ariana DeBoo\)](https://open.spotify.com/album/3ef118ZZtTNsk0Z1h3Ak6E) | 3:43 |
 | 31 | [Starting Over \(feat\. Ben Bridwell\)](https://open.spotify.com/track/7gSyfcCtcnlHDbA8O3Lnls) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:11 |
 | 32 | [DAY YOU DIE \(feat\. Sarah Barthel of Phantogram\)](https://open.spotify.com/track/1e2jQhHijtvLCNUTZ1MKbC) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Sarah Barthel](https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 3:12 |
 | 33 | [My Oh My](https://open.spotify.com/track/6Pi7FM06HeixUs0TChN1yh) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [The Heist \(Deluxe Edition\)](https://open.spotify.com/album/2pFX16u42q0e5F5vRmmzYT) | 4:17 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 | 47 | [FDT \- Pt\. 2](https://open.spotify.com/track/6ZcCLhMqQEZEzsDhhS767O) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [FDT \(Pt\. 2\)](https://open.spotify.com/album/7It7smBGs7Ie1KS2iYtKP5) | 3:42 |
 | 48 | [American](https://open.spotify.com/track/5m4X2HQ0eiviwuKPoREanT) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [The Unplanned Mixtape](https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k) | 4:13 |
 
-Snapshot ID: `ar2igAAAAACoL8UtdChCdR+V7dtG6UdJ`
+Snapshot ID: `ar70AAAAAAA9iFOO+fy8LgugEuV4UxjU`

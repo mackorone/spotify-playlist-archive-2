@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 397648,
+  "num_followers": 397669,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABvfeSuCiX1W+N/MOFCPu7B",
+  "snapshot_id": "ar70AAAAAABfBDc93fNHUN1niTS4RfSX",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Locos Nunca Mueren",
-        "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 132782,
-      "name": "OTRO PA TI",
-      "url": "https://open.spotify.com/track/6ee409xj8oSEdvJzEz5gT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Locos Nunca Mueren",
+        "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 132782,
+      "name": "OTRO PA TI",
+      "url": "https://open.spotify.com/track/6ee409xj8oSEdvJzEz5gT1"
     },
     {
       "added_at": null,

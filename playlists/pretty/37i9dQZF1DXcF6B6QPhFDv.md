@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. It's alive with Dexter and the Moonrocks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,158,175 likes - 84 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,158,146 likes - 84 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

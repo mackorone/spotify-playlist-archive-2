@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,509 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,516 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 6 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
 | 7 | [Something To Talk About](https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:47 |
 | 8 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 |
-| 9 | [Love Has No Pride \- 2008 Remaster](https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:48 |
-| 10 | [Call It Home](https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Call It Home, Vol\. 1](https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0) | 4:08 |
+| 9 | [Call It Home](https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Call It Home, Vol\. 1](https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0) | 4:08 |
+| 10 | [Love Has No Pride \- 2008 Remaster](https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:48 |
 | 11 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/0Ujhv3IvhIKshwbq6Ws0Ub) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Genius Loves Company](https://open.spotify.com/album/1q7GZdqLKlHHwJ6vEISxKE) | 4:34 |
 | 12 | [Dimming Of The Day](https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Longing In Their Hearts](https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI) | 3:39 |
 | 13 | [I’m In The Mood \- feat\. Bonnie Raitt](https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:31 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 33 | [I Don't Want Anything To Change \- Live](https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Bonnie Raitt And Friends](https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A) | 5:00 |
 | 34 | [You](https://open.spotify.com/track/0gvmmdReQ6mZ9fVFiRaLOZ) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Longing In Their Hearts](https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI) | 4:27 |
 | 35 | [Write Me a Few of Your Lines / Kokomo Blues \- 2008 Remaster](https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:36 |
-| 36 | [Love Letter](https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:04 |
-| 37 | [That Song About the Midway \- 2008 Remaster](https://open.spotify.com/track/1MsYN2LmlINM37KGbfs91P) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 4:44 |
+| 36 | [That Song About the Midway \- 2008 Remaster](https://open.spotify.com/track/1MsYN2LmlINM37KGbfs91P) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 4:44 |
+| 37 | [Love Letter](https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:04 |
 | 38 | [Kisses Sweeter than Wine](https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF) | 4:43 |
 | 39 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
 | 40 | [Good Man, Good Woman](https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 49 | [Since I Fell for You \- 2008 Remaster](https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:06 |
 | 50 | [Live Wire](https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 5:09 |
 
-Snapshot ID: `ar2igAAAAABRWjkI+1FI9xSKJpnkzFeu`
+Snapshot ID: `ar70AAAAAACDDRs1BdkgeDJs2ZJHIBDB`

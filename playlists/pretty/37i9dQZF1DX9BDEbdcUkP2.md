@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 
 > The songs of the 1960s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,585 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,598 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 59 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 60 | [I Will Follow Him](https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac) | [Peggy March](https://open.spotify.com/artist/5EVZqrbIyEYGGite2sMhDk) | [I Will Follow Him](https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg) | 2:28 |
 | 61 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
-| 62 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
+| 62 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
 | 63 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
 | 64 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
 | 65 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |

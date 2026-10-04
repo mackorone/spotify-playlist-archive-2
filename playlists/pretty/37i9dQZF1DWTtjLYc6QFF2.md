@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно із ТУЧЕЮ 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,111 likes - 63 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,112 likes - 63 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 33 | [Саботаж](https://open.spotify.com/track/3V68pSYOImbsfXhvJgew0G) | [Nadeen](https://open.spotify.com/artist/5I9DCiCIPlBl87jmdKtUBG) | [Саботаж](https://open.spotify.com/album/6L0sD5f5FLSxHdzOcNRke3) | 2:57 |
 | 34 | [Моя любов – твоя опора](https://open.spotify.com/track/3WbF5v7cKRNwEqu0aH3jnI) | [TARABAROVA](https://open.spotify.com/artist/6tj6mp6fHJW5q7EfUXBXk2), [Твоя опора](https://open.spotify.com/artist/2rZNK7SuABIuRiNuh5u8U4) | [Моя любов – твоя опора](https://open.spotify.com/album/2s8F880xgPUo8hv5mwiMi1) | 3:21 |
 | 35 | [Загубитись](https://open.spotify.com/track/6OktiVUw92gMUdeiIVpQmv) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [Загубитись](https://open.spotify.com/album/2CTg7p1Jv5N2PxjeZuiXlm) | 2:27 |
-| 36 | [Вітер надії](https://open.spotify.com/track/4mKBnWoCizSXGIxTtanoFI) | [Евгения Власова](https://open.spotify.com/artist/1Udv4HJmZ7oqtamyzFbS8I) | [Вітер надії](https://open.spotify.com/album/5TJBCECZxf8JRE1biqYGOo) | 3:38 |
+| 36 | [Вітер надії](https://open.spotify.com/track/4mKBnWoCizSXGIxTtanoFI) | [Євгенія Власова](https://open.spotify.com/artist/1Udv4HJmZ7oqtamyzFbS8I) | [Вітер надії](https://open.spotify.com/album/5TJBCECZxf8JRE1biqYGOo) | 3:38 |
 | 37 | [Море](https://open.spotify.com/track/0dtsl1XjvQ3tUi6SXyDfJH) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG), [Gorim!](https://open.spotify.com/artist/3RfWs4NjYsge0GNjSjNw5v) | [Море](https://open.spotify.com/album/54Nz4J2HBZ86JHv0sQvdtl) | 2:55 |
 | 38 | [з нами все буде гаразд](https://open.spotify.com/track/7y9cGbxg6yH3PISdvM1Ajg) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [з нами все буде гаразд](https://open.spotify.com/album/3d3t4SdZukoFwf17xZHm14) | 2:31 |
 | 39 | [Будь собою](https://open.spotify.com/track/6XvGRFCMrting8Q8NOozuw) | [Sofia Nersesian](https://open.spotify.com/artist/4M0p75o40AGZ20cGcLTyy4) | [Будь собою](https://open.spotify.com/album/7s6La6RJsqLI2xSuj5PLvo) | 2:53 |

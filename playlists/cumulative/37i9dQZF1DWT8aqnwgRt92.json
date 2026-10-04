@@ -31263,6 +31263,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u308c\u3082\u306e",
+        "url": "https://open.spotify.com/album/5WKWmWFYeBU5aN2yRlRXhI"
+      },
+      "artists": [
+        {
+          "name": "\u3053\u305f\u306b",
+          "url": "https://open.spotify.com/artist/4F7KxmlJgFS4wjf8ulIJAq"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296921,
+      "name": "\u3044\u308c\u3082\u306e",
+      "url": "https://open.spotify.com/track/4LxioLlC4EC5wbTAPY7ipC"
+    },
+    {
+      "album": {
         "name": "\u3046\u3063\u3059\u3089",
         "url": "https://open.spotify.com/album/6IFlGGP8pWOO6KMGFIyHlT"
       },
@@ -53536,6 +53554,24 @@
       "duration_ms": 203000,
       "name": "\u98a8\u306e\u4e2d",
       "url": "https://open.spotify.com/track/5sP17r2ILuTv2ih5fnLGjx"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306e\u4e2d\u306f\u8d70\u308b\u3063\u304d\u3083\u306a\u3044\u3063\uff01",
+        "url": "https://open.spotify.com/album/1Lk41WCPIDfpqESGmgygCf"
+      },
+      "artists": [
+        {
+          "name": "Sangatsu no Phantasia",
+          "url": "https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223006,
+      "name": "\u98a8\u306e\u4e2d\u306f\u8d70\u308b\u3063\u304d\u3083\u306a\u3044\u3063\uff01",
+      "url": "https://open.spotify.com/track/4fK5Y2ExgkIIurCMwt688I"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 187589,
+  "num_followers": 187623,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAzF0HsNQemhZlv+veqVcQO",
+  "snapshot_id": "ar70AAAAAABRe0mQ2895gPda2tg50zSZ",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proyecto X",
+        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "Proyecto X",
+      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 169911,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/3GARXzSTz07Wy4pX7PbmfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proyecto X",
-        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "Proyecto X",
-      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
     },
     {
       "added_at": null,

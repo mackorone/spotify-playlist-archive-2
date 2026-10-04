@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta and Jast
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,651 likes - 311 songs - 15 hr 21 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,652 likes - 311 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

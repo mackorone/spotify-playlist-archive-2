@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Jodie Harsh",
-  "num_followers": 34956,
+  "num_followers": 34955,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-07-13 23:00:03",
       "album": {
-        "name": "Hot and Stupid",
-        "url": "https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW"
-      },
-      "artists": [
-        {
-          "name": "Beth McCarthy",
-          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Hot and Stupid",
-      "url": "https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40"
-    },
-    {
-      "added_at": "2026-07-13 23:00:03",
-      "album": {
         "name": "grit",
         "url": "https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 133176,
       "name": "grit",
       "url": "https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1"
+    },
+    {
+      "added_at": "2026-07-13 23:00:03",
+      "album": {
+        "name": "Hot and Stupid",
+        "url": "https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW"
+      },
+      "artists": [
+        {
+          "name": "Beth McCarthy",
+          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Hot and Stupid",
+      "url": "https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

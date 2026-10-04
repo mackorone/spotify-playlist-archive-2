@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,179 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,199 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 24 | [Skin O' My Teeth \- 2004 Remastered](https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:15 |
 | 25 | [Hey God?!](https://open.spotify.com/track/2vwrGgIy5cUeU375P6w8aL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 3:28 |
 | 26 | [Rust In Peace...Polaris](https://open.spotify.com/track/1A9bOtUg91RLO9nGzXF8ao) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:36 |
-| 27 | [Mechanix](https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 4:25 |
-| 28 | [Conquer Or Die](https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:33 |
+| 27 | [Conquer Or Die](https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:33 |
+| 28 | [Mechanix](https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 4:25 |
 | 29 | [Puppet Parade](https://open.spotify.com/track/7bcdR8mEMVJNybCFC7dTlX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 4:40 |
 | 30 | [Poison Was The Cure](https://open.spotify.com/track/5ONVnHYT7srwxU9UDsJH2k) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 2:58 |
 | 31 | [Kill The King](https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 3:42 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 37 | [This Was My Life](https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:43 |
 | 38 | [We’ll Be Back](https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:29 |
 | 39 | [99 Ways To Die](https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:58 |
-| 40 | [Addicted To Chaos \- Remastered 2004](https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 5:27 |
+| 40 | [The Conjuring \- Remastered](https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:02 |
 | 41 | [Architecture Of Aggression](https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:39 |
-| 42 | [The Conjuring \- Remastered](https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:02 |
+| 42 | [Addicted To Chaos \- Remastered 2004](https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 5:27 |
 | 43 | [Almost Honest \- Remastered 2004 / Remixed](https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 4:08 |
-| 44 | [The Threat Is Real](https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:22 |
+| 44 | [Devils Island \- 2004 Remaster](https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:05 |
 | 45 | [Foreclosure Of A Dream \- 2004 Remastered](https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:22 |
-| 46 | [Devils Island \- 2004 Remaster](https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:05 |
+| 46 | [The Threat Is Real](https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:22 |
 | 47 | [Reckoning Day \- Remastered 2004](https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:34 |
 | 48 | [The Sick, The Dying… And The Dead!](https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:04 |
-| 49 | [Hook In Mouth \- Remastered](https://open.spotify.com/track/3DCrXcdOW9iWUPtcEFH2er) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 4:48 |
-| 50 | [My Last Words \- Remastered](https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:55 |
+| 49 | [My Last Words \- Remastered](https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:55 |
+| 50 | [Hook In Mouth \- Remastered](https://open.spotify.com/track/3DCrXcdOW9iWUPtcEFH2er) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 4:48 |
 
-Snapshot ID: `ar2igAAAAACn5R43EahbEHoHTjQOQzhg`
+Snapshot ID: `ar70AAAAAABjdsbxMoufDoccPp7BI8nH`

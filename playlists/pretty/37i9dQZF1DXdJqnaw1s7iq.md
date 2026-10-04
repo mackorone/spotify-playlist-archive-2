@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,368 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,396 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

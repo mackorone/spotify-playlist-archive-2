@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,372 likes - 39 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,497 likes - 39 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 29 | [Up Down \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:17 |
 | 30 | [McArthur](https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McArthur](https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj) | 3:51 |
 | 31 | [Only Thing That’s Gone](https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Dangerous: The Double Album](https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T) | 3:16 |
-| 32 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [FLOWER SHOPS \(THE ALBUM\)](https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O) | 3:34 |
+| 32 | [Neon Moon \(with Morgan Wallen\)](https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:11 |
 | 33 | [Talkin' Tennessee](https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:41 |
-| 34 | [Neon Moon \(with Morgan Wallen\)](https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:11 |
+| 34 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [FLOWER SHOPS \(THE ALBUM\)](https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O) | 3:34 |
 | 35 | [Chain Smokin'](https://open.spotify.com/track/47FkZKuNcRg98jF9yrPPdm) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Chain Smokin'](https://open.spotify.com/album/3lNt5Hj6h9VVwO45I8uYJN) | 3:42 |
 | 36 | [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 |
 | 37 | [If I Know Me](https://open.spotify.com/track/7zK4UxuBYdenyXNHJ3U6HA) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 2:37 |
 | 38 | [Stand By Me \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:39 |
 | 39 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 3:25 |
 
-Snapshot ID: `ar2igAAAAABaG3ricuPXfHWkIj3lE9Lv`
+Snapshot ID: `ar70AAAAAABecl/Pfa8CZt5Loc067VbD`

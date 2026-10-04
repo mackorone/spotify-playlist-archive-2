@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,222 songs - 6 day 21 hr 39 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,224 songs - 6 day 21 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3230,5 +3230,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3220 | [One Last Moment](https://open.spotify.com/track/5CGNVCtb6IMEH1hPiguLLU) | [Onlynumbers](https://open.spotify.com/artist/14lZi2xEonJg9DyYk9JBak), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [One Last Moment](https://open.spotify.com/album/2CKRBj408wey09TSEV0ngv) | 5:11 |
 | 3221 | [Embers](https://open.spotify.com/track/0UnZxfPhkox7pIn7IEzquD) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Embers](https://open.spotify.com/album/0MJDL62UIHs9OxHimtS1Hk) | 3:06 |
 | 3222 | [ANYONE](https://open.spotify.com/track/55TOVINL2wCho02OH61wy9) | [Dejection](https://open.spotify.com/artist/6zZaIorzBeHeXNSEb7JB1u) | [ANYONE](https://open.spotify.com/album/12Eu48iF87fxP1T1Xnm6Gk) | 3:28 |
+| 3223 | [TASTE MY LOVE](https://open.spotify.com/track/1h0D1JG3S9UOcB6mDDHFf2) | [BenjaJ](https://open.spotify.com/artist/3aJEcJWbsZjj4Z6fFtS236), [Tegula](https://open.spotify.com/artist/7erXXZUcSqdSacH5QkMuwf) | [TASTE MY LOVE](https://open.spotify.com/album/0PneEJds71bNGIXthaENEP) | 2:25 |
+| 3224 | [Rush](https://open.spotify.com/track/7JBoKdaO00m3iT6A1r4YzZ) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Atonement](https://open.spotify.com/album/05m026Xi7o5ny7cpBpXoWQ) | 3:29 |
 
-Snapshot ID: `AAANASj8kg7+45lEDySybflH4WUKHWuq`
+Snapshot ID: `AAANA4HQyPsK3oD0jO6uvjNl6FScgSGO`

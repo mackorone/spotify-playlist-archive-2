@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/349318">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,636 likes - 98 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,650 likes - 98 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

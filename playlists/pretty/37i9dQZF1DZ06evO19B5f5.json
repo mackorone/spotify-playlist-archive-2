@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACEP1ynnWfQWpmPEORZjAsZ",
+  "snapshot_id": "ar70AAAAAACLDxYtKaBRe3+V4qx5BdM6",
   "tracks": [
     {
       "added_at": null,
@@ -351,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hanging By Your Halo",
-        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
+        "name": "All of #OneSongAWeek",
+        "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
       },
       "artists": [
+        {
+          "name": "Frank Hamilton",
+          "url": "https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa"
+        },
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 195697,
-      "name": "Hanging By Your Halo",
-      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
+      "duration_ms": 216000,
+      "name": "Flaws & Ceilings",
+      "url": "https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2"
     },
     {
       "added_at": null,
@@ -399,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All of #OneSongAWeek",
-        "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
+        "name": "Hanging By Your Halo",
+        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
       },
       "artists": [
-        {
-          "name": "Frank Hamilton",
-          "url": "https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa"
-        },
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Flaws & Ceilings",
-      "url": "https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2"
+      "duration_ms": 195697,
+      "name": "Hanging By Your Halo",
+      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
     },
     {
       "added_at": null,

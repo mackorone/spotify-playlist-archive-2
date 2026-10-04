@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Cicada
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,541 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,634 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

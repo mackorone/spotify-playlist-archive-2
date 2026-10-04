@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,566 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,830 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vou Tacar na Peka](https://open.spotify.com/track/4Km7b1kLOaedAljmarYeWx) | [Coral das Quebradas](https://open.spotify.com/artist/13W2ppQdsYiWw9zynrNzjZ), [MC Kauan PV](https://open.spotify.com/artist/71wi4mvYLNprbPHLb8qgyQ), [MC Zignani](https://open.spotify.com/artist/3XGGA9Vjm3cNvl73jvZloq), [Oracioh MC](https://open.spotify.com/artist/1OqNsqv0gLsTj3lxHGuPM3), [Mc DR](https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG) | [Vou Tacar na Peka](https://open.spotify.com/album/1SVnaj34lbY4xUlTPuUDCh) | 1:06 |
+| 1 | [Vou Tacar na Peka](https://open.spotify.com/track/4Km7b1kLOaedAljmarYeWx) | [Coral das Quebradas](https://open.spotify.com/artist/13W2ppQdsYiWw9zynrNzjZ), [MC Kauan PV](https://open.spotify.com/artist/71wi4mvYLNprbPHLb8qgyQ), [MC Zignani](https://open.spotify.com/artist/3XGGA9Vjm3cNvl73jvZloq), [Mc DR](https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG), [Oracioh MC](https://open.spotify.com/artist/1OqNsqv0gLsTj3lxHGuPM3) | [Vou Tacar na Peka](https://open.spotify.com/album/1SVnaj34lbY4xUlTPuUDCh) | 1:06 |
 | 2 | [Sem Preocupação](https://open.spotify.com/track/0b9lrWDQmnAupoTn7UJbST) | [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP), [DJ Gu](https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw) | [Sem Preocupação](https://open.spotify.com/album/185M917GoWcMBs9IHsqWy6) | 2:48 |
 | 3 | [TOMA NO CU \(Maria Gasolina\)](https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8) | [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE) | [TOMA NO CU \(Maria Gasolina\)](https://open.spotify.com/album/4BbzXZrZxvRxcyB0MZzGiB) | 1:31 |
 | 4 | [Cuida do Pet](https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Mc Iguinho Ct](https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Cuida do Pet](https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a) | 7:39 |

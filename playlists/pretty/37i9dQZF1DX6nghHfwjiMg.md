@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Artistas para descubrir 📸 Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,267 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,271 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

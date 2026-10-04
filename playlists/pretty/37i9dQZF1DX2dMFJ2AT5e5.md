@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > pintas, rolas y amigxs 🍻 Fontaines D.C\. en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,663 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,646 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

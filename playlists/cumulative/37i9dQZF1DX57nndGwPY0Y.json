@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "options",
+        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212131,
+      "name": "options",
+      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
+    },
+    {
+      "album": {
         "name": "Proud",
         "url": "https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3707,
+  "num_followers": 3708,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAB1ICQ0FkWgZ8fmwpJGregb",
+  "snapshot_id": "ar70AAAAAAC6fqFLv8sXauvowlZ++kbQ",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 301182,
-      "name": "Met\u00e1fora",
-      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Que Eu Sinto Faz Barulho",
         "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 178542,
       "name": "Efeito Mandela",
       "url": "https://open.spotify.com/track/72bgfihRCD9wIAQggaWP4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 301182,
+      "name": "Met\u00e1fora",
+      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
     },
     {
       "added_at": null,
@@ -747,30 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Respeito \u00c9 Pra Quem Tem",
         "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
       },
@@ -791,6 +767,26 @@
       "duration_ms": 234090,
       "name": "Respeito \u00c9 Pra Quem Tem",
       "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 172009,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
     },
     {
       "added_at": null,
@@ -839,22 +835,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
       },
       "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 172009,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
+      "duration_ms": 206197,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
       "added_at": null,
@@ -999,30 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40\u02da.40",
-        "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
-      },
-      "artists": [
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 159455,
-      "name": "Stop Time",
-      "url": "https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trono de Vidro",
         "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 161896,
       "name": "Paz Terr\u00edvel",
       "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40\u02da.40",
+        "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 159455,
+      "name": "Stop Time",
+      "url": "https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Cabelinho com Marina Sena, Simone Mendes, Drake, Pixote, Bruno & Marrone Pabllo Vittar e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,313,032 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,313,126 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

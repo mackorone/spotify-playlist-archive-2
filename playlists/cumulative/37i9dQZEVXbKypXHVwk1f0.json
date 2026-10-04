@@ -7393,6 +7393,24 @@
     },
     {
       "album": {
+        "name": "Con Esos Celos",
+        "url": "https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133142,
+      "name": "Con Esos Celos",
+      "url": "https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt"
+    },
+    {
+      "album": {
         "name": "Noche Bah\u00eda",
         "url": "https://open.spotify.com/album/0VYjaU634QW8kddznBR0p1"
       },
@@ -17405,6 +17423,28 @@
     },
     {
       "album": {
+        "name": "NO PASA NADA HOMBRE",
+        "url": "https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Jukiar",
+      "url": "https://open.spotify.com/track/1nnh1lotoDxDMcIgiyB1zi"
+    },
+    {
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
       },
@@ -23114,7 +23154,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 299650,
       "name": "Mi Ni\u00f1a Consentida",
       "url": "https://open.spotify.com/track/3oUJsKxso4PwXC8Vn1okgt"
@@ -25270,7 +25310,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 158036,
       "name": "no tiene sentido",
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
@@ -26044,6 +26084,28 @@
       "duration_ms": 250000,
       "name": "Ojos Brujos",
       "url": "https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq"
+    },
+    {
+      "album": {
+        "name": "NO PASA NADA HOMBRE",
+        "url": "https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Ojos Brujos",
+      "url": "https://open.spotify.com/track/4tAwuKIsQeflnb51Er77cU"
     },
     {
       "album": {
@@ -28928,6 +28990,24 @@
       "duration_ms": 237525,
       "name": "PLAYA DEL INGL\u00c9S",
       "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
+    },
+    {
+      "album": {
+        "name": "PLAYA FR\u00cdA",
+        "url": "https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "PLAYA FR\u00cdA",
+      "url": "https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS"
     },
     {
       "album": {
@@ -33622,7 +33702,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 251360,
       "name": "SI EST\u00c1S CON ALGUIEN",
       "url": "https://open.spotify.com/track/7nyk5uxevcijIfl1FlJgmA"
@@ -39704,7 +39784,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 271751,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm"

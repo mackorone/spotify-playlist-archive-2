@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Chasing that runner's high! Countdown to the New York Marathon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,458 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,513 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

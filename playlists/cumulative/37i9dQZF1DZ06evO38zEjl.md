@@ -4,7 +4,7 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-141 songs - 14 hr 33 min
+142 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Charm \(Over "Burundi Cloud"\)](https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 21:30 | 2022-05-29 |  |
 | [Chemistry](https://open.spotify.com/track/0OsMpLnqd6pkoT1OqgkQSA) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:54 | 2022-05-29 |  |
 | [Clairvoyance](https://open.spotify.com/track/0SXeDhoNKnhp3h1R1wGtd2) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 1:05 | 2022-05-29 |  |
+| [Club Gris\-Gris](https://open.spotify.com/track/4UxI8Os3CLTNCTBLYm1cKT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Music Is Invisible \(Pentimento Volume Three\)](https://open.spotify.com/album/7y6nrogjpYO43Z0V1Gdlq8) | 9:43 | 2026-10-04 |  |
 | [Cobra Moon](https://open.spotify.com/track/3LyderlPV3MLJSpzC9Wphf) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 4:55 | 2024-02-07 | 2024-04-19 |
 | [Cobra Moon](https://open.spotify.com/track/7fxJEhbvh96daiTbfCSx8P) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 4:55 | 2022-05-30 | 2022-10-13 |
 | [Cool Down Coda](https://open.spotify.com/track/37hDxJi6gOtqqqAKmrrxUL) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 1:45 | 2022-05-29 | 2023-02-15 |
@@ -146,7 +147,7 @@
 | [Warriors \[Original Fictions\]](https://open.spotify.com/track/3TmN0l2UAezBewz9Gv36E2) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [City: Works Of Fiction](https://open.spotify.com/album/4kmxYbRDqGg9YPZInmOYgF) | 9:23 | 2025-05-18 | 2026-09-03 |
 | [Waterfront District](https://open.spotify.com/track/1x8zmbCwwpjk9FtZXwmZrG) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:22 | 2023-03-30 | 2025-04-16 |
 | [Wing Melodies](https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 7:33 | 2022-05-30 |  |
-| [Ya Andalucin](https://open.spotify.com/track/47DrzRMA800FMIMRi5eBsB) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 2:25 | 2022-05-29 |  |
+| [Ya Andalucin](https://open.spotify.com/track/47DrzRMA800FMIMRi5eBsB) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 2:25 | 2022-05-29 | 2026-10-04 |
 | [Ya Safwa Ti](https://open.spotify.com/track/3HIOAlsSQQI8PtI5sNcK1F) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 5:17 | 2022-06-20 | 2026-09-05 |
 | [Zahori](https://open.spotify.com/track/5HYLKZoFm2V3RLCNGP4lDl) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 4:56 | 2022-05-29 | 2026-08-04 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 19499,
+  "num_followers": 19501,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAZEvtIV22oSPD9Bf+yjkqa",
+  "snapshot_id": "ar70AAAAAABC5RXk0DdfZ0DAiAeyApRS",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of Love (Remastered)",
-        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart In Motion",
         "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 239493,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of Love (Remastered)",
+        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead (Remastered)",
-        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Doubly Good To You - Remastered",
-      "url": "https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House Of Love (Remastered)",
         "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 249386,
       "name": "Lucky One",
       "url": "https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Doubly Good To You - Remastered",
+      "url": "https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT"
     },
     {
       "added_at": null,
@@ -827,26 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FAITHFUL: Go and Speak",
-        "url": "https://open.spotify.com/album/0mm5FD6nio4NSm9YMa0Vum"
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
       },
       "artists": [
         {
-          "name": "FAITHFUL",
-          "url": "https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW"
-        },
-        {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 320626,
-      "name": "A Woman",
-      "url": "https://open.spotify.com/track/6hCJLBQi1UmxvryFRZgwHu"
+      "duration_ms": 214760,
+      "name": "My Jesus, I Love Thee",
+      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
     },
     {
       "added_at": null,

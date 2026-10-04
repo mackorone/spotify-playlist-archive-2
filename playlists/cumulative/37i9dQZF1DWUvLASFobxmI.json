@@ -3581,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "Bragado",
+        "url": "https://open.spotify.com/album/4vmP29ek1PBQs21zttHJOl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Mercado",
+          "url": "https://open.spotify.com/artist/2horMImTmjmQUUwfmiRXiP"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "COVA 31",
+      "url": "https://open.spotify.com/track/1VOIqRMekQhtWrVjpdBlgM"
+    },
+    {
+      "album": {
         "name": "COZUMEL",
         "url": "https://open.spotify.com/album/6DuZAzkAYXFOfgZMmFon28"
       },
@@ -7532,6 +7550,24 @@
       "duration_ms": 184578,
       "name": "Entre Copas y Recuerdos",
       "url": "https://open.spotify.com/track/1L9aruC74PW1G7LxsN14FJ"
+    },
+    {
+      "album": {
+        "name": "Romanticos",
+        "url": "https://open.spotify.com/album/5To49olSMfnzhSAdxXYPi6"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198225,
+      "name": "Entre Golpes Y Besos",
+      "url": "https://open.spotify.com/track/4XkWzUXLNSrJ6O9o7ogVOD"
     },
     {
       "album": {
@@ -11538,7 +11574,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 176120,
       "name": "Lo Que He Vivido",
       "url": "https://open.spotify.com/track/1m7H78jmbBzsXFrpIXfKL1"
@@ -16724,7 +16760,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 146350,
       "name": "Recuerdos De Ni\u00f1o",
       "url": "https://open.spotify.com/track/56xdph8ib9mB3hdwCYvzFK"

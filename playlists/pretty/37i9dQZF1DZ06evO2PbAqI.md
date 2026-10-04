@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 
 > This is Lacuna Coil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,926 likes - 48 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,934 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,24 +37,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 | 27 | [Falling Again](https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [In a Reverie](https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG) | 5:07 |
 | 28 | [Daylight Dancer](https://open.spotify.com/track/4EnbEcYpoGQAIGNLaZa4Nn) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies](https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN) | 3:50 |
 | 29 | [Within Me](https://open.spotify.com/track/23iFER67b8UKCW67hQTJOs) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 3:38 |
-| 30 | [Upsidedown](https://open.spotify.com/track/0dA9TfUtgoVZTWiGUEXiIq) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Dark Adrenaline](https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6) | 3:03 |
-| 31 | [Veneficium](https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 6:11 |
+| 30 | [Veneficium](https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 6:11 |
+| 31 | [Upsidedown](https://open.spotify.com/track/0dA9TfUtgoVZTWiGUEXiIq) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Dark Adrenaline](https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6) | 3:03 |
 | 32 | [Unspoken](https://open.spotify.com/track/3RaxN3FA8bvtjHPBEaDnID) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies](https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN) | 3:37 |
 | 33 | [What I See](https://open.spotify.com/track/5MZFXKHRKB59gb7KZPAaBi) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 3:41 |
-| 34 | [The House of Shame](https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 5:17 |
-| 35 | [Apocalypse](https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:17 |
+| 34 | [Apocalypse](https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:17 |
+| 35 | [The House of Shame](https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 5:17 |
 | 36 | [Self Deception](https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies](https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN) | 3:31 |
 | 37 | [To the Edge](https://open.spotify.com/track/1ljUMhT0vIaNhMRrf8RYXr) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 3:21 |
-| 38 | [Heaven's a Lie XX](https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 4:07 |
-| 39 | [Save Me](https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:36 |
+| 38 | [Save Me](https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:36 |
+| 39 | [Heaven's a Lie XX](https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 4:07 |
 | 40 | [Tight Rope](https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies](https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN) | 4:15 |
 | 41 | [Downfall](https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 4:21 |
-| 42 | [Swamped XX](https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 3:32 |
-| 43 | [Sword of Anger](https://open.spotify.com/track/61DtDotCR1DeZPbI6Ky0UP) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 3:55 |
+| 42 | [Sword of Anger](https://open.spotify.com/track/61DtDotCR1DeZPbI6Ky0UP) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 3:55 |
+| 43 | [Swamped XX](https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 3:32 |
 | 44 | [Stars](https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [The Eps\- Lacuna Coil/halflife](https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG) | 4:41 |
 | 45 | [You Love Me 'Cause I Hate You](https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 3:49 |
 | 46 | [I Like It](https://open.spotify.com/track/1CxtFFOZHWMR6oiG3GbIiq) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Shallow Life](https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0) | 3:42 |
 | 47 | [Tight Rope XX](https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 3:37 |
 | 48 | [To Live Is To Hide](https://open.spotify.com/track/3yWIPGvQ7QcOhKx2gNImQW) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Unleashed Memories \(Re\-Release + Bonus\)](https://open.spotify.com/album/3FQgJtOcKfuTlRkKIkCAV2) | 4:34 |
+| 49 | [Senzafine](https://open.spotify.com/track/0WZXtSE1w08YDvU0nA7nF7) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Unleashed Memories \(Re\-Release + Bonus\)](https://open.spotify.com/album/3FQgJtOcKfuTlRkKIkCAV2) | 3:53 |
 
-Snapshot ID: `ar2igAAAAAAWNY7fLft8WOcqEo/yoy8p`
+Snapshot ID: `ar70AAAAAAAWRzsnlgAaAWadXpDrVQrR`

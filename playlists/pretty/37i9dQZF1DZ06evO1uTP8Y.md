@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,404 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,418 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 43 | [Wicked](https://open.spotify.com/track/617frgZYXehBNs3Sz6zwS8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:21 |
 | 44 | [Intro \(Landmine\)](https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 1:08 |
 | 45 | [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:47 |
-| 46 | [Holier \(SHOWBIZ\)](https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH) | [Olli P](https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Holier \(SHOWBIZ\)](https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG) | 2:26 |
-| 47 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
+| 46 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
+| 47 | [Holier \(SHOWBIZ\)](https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH) | [Olli P](https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Holier \(SHOWBIZ\)](https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG) | 2:26 |
 | 48 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 |
 | 49 | [Water](https://open.spotify.com/track/33LzALMkQ2EmCnCoKS8K6w) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:21 |
 | 50 | [Hold You Down](https://open.spotify.com/track/58rGKqZE9EiSAmPIeMLaKu) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:38 |
 
-Snapshot ID: `ar2igAAAAADlBwT674dfVHwaXWDFqRWp`
+Snapshot ID: `ar70AAAAAADyP0MBZtIPZO57oIoGLiOu`

@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 12 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 |
 | 13 | [happy for me](https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [happy for me](https://open.spotify.com/album/5BMliAH2ieqeKktKa1qsbK) | 3:11 |
 | 14 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 |
-| 15 | [Hope](https://open.spotify.com/track/2578bme2WY6JktfQyFCsX3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 4:39 |
-| 16 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
+| 15 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
+| 16 | [Hope](https://open.spotify.com/track/2578bme2WY6JktfQyFCsX3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 4:39 |
 | 17 | [Little Dreaming](https://open.spotify.com/track/1JF4ZteKMtYMXpNrN6622p) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:23 |
 | 18 | [Dizzy](https://open.spotify.com/track/3yklxY8pm64CJ3BJSSjvEL) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:32 |
 | 19 | [Drama](https://open.spotify.com/track/5THILFqD2wJquN3U4la6PS) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [Drama](https://open.spotify.com/album/68c8XhtNLFN9SPm9O4M9vW) | 2:32 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 49 | [Baggage](https://open.spotify.com/track/5B1ZzhdccdLGZFNHksTcOx) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [Baggage](https://open.spotify.com/album/0Lfi7gQjlxf7HMy0HzYt6p) | 2:41 |
 | 50 | [Hurt When You Hurt Me](https://open.spotify.com/track/3Fl5MQNYh1MIpAOpHYAVpr) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:01 |
 | 51 | [Waiting For You](https://open.spotify.com/track/6CG4xX5mY60t2DzdNt7kFQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [Waiting For You](https://open.spotify.com/album/0dLzKyJTrAQYFC26js8zjo) | 2:41 |
-| 52 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 |
-| 53 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 52 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 53 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 |
 | 54 | [Rain](https://open.spotify.com/track/22p47jS1KK3VFwxTk6b7Gu) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Rain](https://open.spotify.com/album/7hv3rn6CsQxaGdX61qkFIr) | 4:08 |
 | 55 | [not around](https://open.spotify.com/track/6GlD9ntcLBrncwEbC72nN0) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:12 |
 | 56 | [Already Famous](https://open.spotify.com/track/3n1ytwz1wg6VIOf2dq0UQc) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Already Famous](https://open.spotify.com/album/4sMWUY5FFG9LIr3CUi0MOj) | 2:34 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 95 | [Hiding on the Highway](https://open.spotify.com/track/2gkAI6XS9SZyznLE3AdHz6) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Outlaw in Love](https://open.spotify.com/album/5NRkJYAKmV8VojGaDBmbby) | 3:25 |
 | 96 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `Acd5mgAAAACaQyzNXMmtBNNBO7kTIo1q`
+Snapshot ID: `Acd/OgAAAABH3fOEP1b1oE214Wa0Av8I`

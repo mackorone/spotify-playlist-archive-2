@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 68 | [Bandera](https://open.spotify.com/track/4mJSGwBPMlqQ8NbkT42laK) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Bandera Move](https://open.spotify.com/album/1PIn3KqFgK4UOexNEjHXqP) | 2:48 |
 | 69 | [Insecure](https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:11 |
 | 70 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
-| 71 | [All I See Is Gold](https://open.spotify.com/track/4LPLeiZJLYNGPdI3oo4PFz) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 2:53 |
-| 72 | [Fly Away](https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:55 |
+| 71 | [Fly Away](https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:55 |
+| 72 | [All I See Is Gold](https://open.spotify.com/track/4LPLeiZJLYNGPdI3oo4PFz) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 2:53 |
 | 73 | [Neva Neva](https://open.spotify.com/track/3kkTirqEG0FgeCSZLYXgut) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 3:18 |
 | 74 | [Love Life \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/4BFb06t2AWUA3mWMbIePmA) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Psycadelik Thoughtz](https://open.spotify.com/album/5NsQCNMLdKVFF1DwOIK6wm) | 3:36 |
 | 75 | [No R&B](https://open.spotify.com/track/2SJgwPonGSJlFm0Wfjn8cj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:34 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 185 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 186 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `Acd5hgAAAAAlaHZsMUB8LZBDXjFfpKdf`
+Snapshot ID: `Acd/WAAAAAAR0GW8KeXoh1rjELzCGbwZ`

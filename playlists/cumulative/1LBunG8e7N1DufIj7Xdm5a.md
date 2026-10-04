@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,847 songs - 10 day 22 hr 51 min
+4,850 songs - 10 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,6 +748,7 @@
 | [Clout Chase \(another\)](https://open.spotify.com/track/2G4WOE6qWsiaLFUGRP1fid) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Rap Music](https://open.spotify.com/album/6lQku2RcXD7DkkoVLRsVO1) | 2:22 | 2025-09-17 |  |
 | [Club's alive neon gleam Stars above in our dream](https://open.spotify.com/track/2tO2XxnmLCZiqWgz0CQA27) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 2:07 | 2025-09-18 |  |
 | [CLUB27](https://open.spotify.com/track/1MFn0KPMspqpa0ILqbOzln) | [Pit](https://open.spotify.com/artist/14ZHs6m8Ux6wJ2N3H3iG7y) | [I peggiori insuccessi](https://open.spotify.com/album/2I88zlfqeMrQ2Ambn4NRDh) | 2:56 | 2025-06-01 |  |
+| [Clutter](https://open.spotify.com/track/4ifWQHZnCxZCqP28QazfoD) | [Death Cassette](https://open.spotify.com/artist/2nmAxRXGD7nTztIEwIaHdX) | [Clutter](https://open.spotify.com/album/2zj2uC4hXuLhT6mOoIb5jF) | 2:47 | 2026-10-03 |  |
 | [Cntrl](https://open.spotify.com/track/51HmjVo8lAH1twucy7t2BP) | [Jeremiah Denis](https://open.spotify.com/artist/6AEHyEcZyO5lqd13SS5nYl) | [Cntrl](https://open.spotify.com/album/1Hq1GfwDxxO6xRNypJtLQu) | 1:39 | 2026-03-17 |  |
 | [COCA E MIGNOTTE NEL LOCALE A MILANO](https://open.spotify.com/track/14GYz3XIXbm8fE9RMjYIUt) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [COCA E MIGNOTTE NEL LOCALE A MILANO](https://open.spotify.com/album/1OBzAPfAD3ub25FX34INYq) | 3:05 | 2025-04-04 |  |
 | [Cocoon](https://open.spotify.com/track/2zuuDEvomuzLVJUNOsQp8C) | [Kat MacKenzie](https://open.spotify.com/artist/17U9gqJry6GtFBLzX9vOpa) | [Cocoon](https://open.spotify.com/album/5XIYncE7rtVQEpSxgryCTX) | 4:17 | 2025-07-03 |  |
@@ -2739,6 +2740,7 @@
 | [Moonlit Whispers](https://open.spotify.com/track/5x6VsnbXMzu7govRd7unst) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 3:26 | 2025-09-17 |  |
 | [Moonlit Whispers \(another\)](https://open.spotify.com/track/543RsrC5OtWQc5awni72Nz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 3:29 | 2025-09-17 |  |
 | [More](https://open.spotify.com/track/1X12Gbvf0p2OanuEMdTtYs) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [More](https://open.spotify.com/album/11uNZPo0TkJPvTaxftwkaX) | 4:40 | 2026-04-30 |  |
+| [More Than The Stars](https://open.spotify.com/track/0rzxNu6mAMhRixNHMJAIln) | [Nathan Ahrens](https://open.spotify.com/artist/7LTRl7M8SVCrpJkkZRnPfO) | [More Than The Stars](https://open.spotify.com/album/4gIN84rAuZCbK99P4HQWTm) | 3:34 | 2026-10-03 |  |
 | [MORGANA](https://open.spotify.com/track/3hI1v1zEpzMKUyW5ag5b1v) | [Riccardo Vello](https://open.spotify.com/artist/2lYG0KD6sE1BpKejG6SPUb) | [MORGANA](https://open.spotify.com/album/7gbCwFFT1mIkQNyER5O2kr) | 3:08 | 2025-06-05 |  |
 | [Morning](https://open.spotify.com/track/6PekiAX0Z5yXzqorGJ2nfK) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Morning](https://open.spotify.com/album/231ZEfl2LN3wru2Lt6biQc) | 3:16 | 2023-11-10 |  |
 | [Morning day super](https://open.spotify.com/track/3Ph3scnAom0bTDZlUtTa2k) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super pop beat](https://open.spotify.com/album/4DXyhPDVxKIv06QyLMek7z) | 2:55 | 2025-09-12 |  |
@@ -3909,6 +3911,7 @@
 | [Stardust](https://open.spotify.com/track/6thBJcGwEV8L9cOmmctnTI) | [Glasess](https://open.spotify.com/artist/04jFeoskw4vFWX6asrVMn4) | [Stardust](https://open.spotify.com/album/13jNDVimT07I7m6MnpIVet) | 5:23 | 2025-06-04 |  |
 | [Stare Online](https://open.spotify.com/track/0LKakVn6VymP1uXDAjkkQJ) | [Blue Necturn](https://open.spotify.com/artist/1kEJUbDeAQTgw8G84Y7FQJ) | [Navigatore](https://open.spotify.com/album/3lRbDmXJsb7vrvb7xPQyb9) | 2:22 | 2025-06-20 |  |
 | [Starlettes](https://open.spotify.com/track/0t5hCP5NETsbkVj5AL2zOo) | [Mister Merguez](https://open.spotify.com/artist/6aTAnRWB9OJuAXPEtUknFL) | [Starlettes](https://open.spotify.com/album/0FuQZsJeqgFvZOstppGpKq) | 3:18 | 2025-05-28 |  |
+| [Starlight](https://open.spotify.com/track/7dQlIwSVi8cp4wg1ZegF1Z) | [The Sweaters](https://open.spotify.com/artist/2hhVb3U03MW5ikPSPUyWuR) | [Ashes From The Stars](https://open.spotify.com/album/7px4qrVusoVI6zRoGiehGN) | 3:49 | 2026-10-03 |  |
 | [Starlight Chase](https://open.spotify.com/track/7o1bfZKa225y7SA7OG4jrB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop](https://open.spotify.com/album/7xkxN6YkU4fH74izGu47G1) | 3:29 | 2025-09-13 |  |
 | [Starlight Chase \(another\)](https://open.spotify.com/track/1IXc9V3rYahAmXs0iKbn3C) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop](https://open.spotify.com/album/7xkxN6YkU4fH74izGu47G1) | 3:04 | 2025-09-13 |  |
 | [Starlight Glow](https://open.spotify.com/track/2qXsiyVbz9o7Gb9niOtyes) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [K\-Pop in English](https://open.spotify.com/album/6jDpOM9wGvIhzz5DNLamVM) | 2:14 | 2025-06-07 |  |

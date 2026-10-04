@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Bless Your Name (with Tasha Cobbs Leonard)",
+        "url": "https://open.spotify.com/album/3UhdzjZTcxZZvQiQ2hj9tb"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315565,
+      "name": "Bless Your Name (with Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/27WAjfVwNEAH7GKkWgvw9U"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -2484,7 +2506,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 204601,
       "name": "Together (We'll Get Through This)",
       "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
@@ -2654,7 +2676,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 409506,
       "name": "Wonderful Grace",
       "url": "https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC"
@@ -2702,7 +2724,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 480546,
       "name": "You Know My Name",
       "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"

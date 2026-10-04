@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Tiësto, Franky Rizardo,  DJ HEARTSTRING, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,243 likes - 125 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,357 likes - 125 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

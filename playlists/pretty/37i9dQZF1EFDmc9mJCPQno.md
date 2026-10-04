@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 63 | [Latest Ghost \- Piano Version](https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World \(Piano Versions\)](https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T) | 2:51 |
 | 64 | [Priorities](https://open.spotify.com/track/74JMCtnIUVepy6Iz6FLqzx) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Priorities](https://open.spotify.com/album/2Jwz8d47Z1SjssxwYGMMEE) | 3:13 |
 | 65 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
-| 66 | [Sodom & Gomorrah](https://open.spotify.com/track/3x3kYVMHdqwConilMGjZzi) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 3:09 |
-| 67 | [Natural at Disaster](https://open.spotify.com/track/65qXKpoW3V9B8o95DrdFCS) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:18 |
+| 66 | [Natural at Disaster](https://open.spotify.com/track/65qXKpoW3V9B8o95DrdFCS) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:18 |
+| 67 | [Sodom & Gomorrah](https://open.spotify.com/track/3x3kYVMHdqwConilMGjZzi) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 3:09 |
 | 68 | [Glitch](https://open.spotify.com/track/427YDFALgy520LbhzWwbNf) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:16 |
 | 69 | [Kiss Ur Face Forever](https://open.spotify.com/track/7B4KpsPtxx6SK7rX1k650O) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:47 |
 | 70 | [Send My Love To John](https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:25 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 90 | [Talk to Me](https://open.spotify.com/track/3ZL2ee9L5Mq6QgUcnlnmgj) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:28 |
 | 91 | [Love Has Different Ways to Say Goodbye](https://open.spotify.com/track/4NqzHL8KnCbMmi6sOmHsuc) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:06 |
 | 92 | [Pills](https://open.spotify.com/track/7uQ5PzE3jeek7OQHiSkxTz) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Wherever I Go, I Want To Leave](https://open.spotify.com/album/4blsuHsL3FdV5hwoKAk7nS) | 2:57 |
-| 93 | [If Looks Could Kill](https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [If Looks Could Kill](https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO) | 3:29 |
-| 94 | [Waschesalon](https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:12 |
+| 93 | [Waschesalon](https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:12 |
+| 94 | [If Looks Could Kill](https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [If Looks Could Kill](https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO) | 3:29 |
 | 95 | [Slutphase](https://open.spotify.com/track/1R3QjFdho8jtsv38Hd2BIL) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/79Go9MHdjw3lw66GOQXgOK) | 2:43 |
 | 96 | [Backwards](https://open.spotify.com/track/1pgKXLlRX9hnQGpIEdJbrW) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [ColoRise](https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr) | 2:41 |
 | 97 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 134 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 135 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `Acd5mgAAAAC15FAVY1veSAIaFQ7WT0N4`
+Snapshot ID: `Acd/OgAAAAAfQuyLuASGSaShkXXU3ue4`

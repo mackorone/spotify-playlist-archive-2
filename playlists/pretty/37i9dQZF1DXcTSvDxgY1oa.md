@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Wilson A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 92 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107 likes - 92 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

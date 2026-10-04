@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > wesh, wesh, pookie, pookie / li ho zittiti tutti, guarda come stanno muti
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,298 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,300 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

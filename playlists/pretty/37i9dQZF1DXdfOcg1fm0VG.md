@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,051 likes - 152 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,077 likes - 152 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 3 | [Gyldenmist Descending](https://open.spotify.com/track/49AbONakUzWztEdwBlpRmy) | [Cris Velasco](https://open.spotify.com/artist/13bb43GIQWR0f6rYeQcrUV) | [Mistfall Hunter \(Original Video Game Soundtrack\)](https://open.spotify.com/album/3U1HTj8CrrD2RThZa1HnwE) | 3:19 |
 | 4 | [Water, Earth, Fire, Air](https://open.spotify.com/track/2ODSvWmgOeZV2fgSMvLAEd) | [Takeshi Furukawa](https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5) | [Avatar: The Last Airbender: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/53LggP1aehWy2TneWgQusD) | 1:46 |
 | 5 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 |
-| 6 | [The One I Once Knew \(feat\. Amelia Jones\)](https://open.spotify.com/track/3OUPVajFhRrNmQcTB8LeC1) | [Petri Alanko](https://open.spotify.com/artist/0KXjJXTWZsTVzswKWbb2Xp), [CONTROL Resonant](https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l), [Amelia Jones](https://open.spotify.com/artist/0Uv93GRFEH3dmviyk3sGWe) | [CONTROL Resonant \(Original Soundtrack\)](https://open.spotify.com/album/5LxLCAfp8l1USzUOSIbgHP) | 3:02 |
+| 6 | [The One I Once Knew \(feat\. Amelia Jones\)](https://open.spotify.com/track/3OUPVajFhRrNmQcTB8LeC1) | [Petri Alanko](https://open.spotify.com/artist/0KXjJXTWZsTVzswKWbb2Xp), [CONTROL Resonant](https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l), [Amelia Jones](https://open.spotify.com/artist/1S8s6zVDemTvwoVUs80IE4) | [CONTROL Resonant \(Original Soundtrack\)](https://open.spotify.com/album/5LxLCAfp8l1USzUOSIbgHP) | 3:02 |
 | 7 | [Logan \- From "Marvel's Wolverine"](https://open.spotify.com/track/38jLY8almdujt5nZy8rseO) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Logan \(From "Marvel's Wolverine"\)](https://open.spotify.com/album/1UljqvpAOZtw0vkAda75VG) | 6:30 |
 | 8 | [The Witcher 3: Wild Hunt \- Remastered Orchestral Medley](https://open.spotify.com/track/5ZWYxqQHSWllU62Q9PHSdx) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [The Witcher 3: Wild Hunt \- Remastered Orchestral Medley](https://open.spotify.com/album/2rkgoSBXsKqXrvyKHO5vaK) | 2:10 |
 | 9 | [The Prize](https://open.spotify.com/track/52OFbGqmiCNV5nPLP11WjV) | [Stephen Lukach](https://open.spotify.com/artist/59OpIi4DXe7wIKhFt7bOq9), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Black Flag: Resynced \(Original Game Soundtrack\)](https://open.spotify.com/album/1aKVX5Eiql11CnPwUYgRXW) | 2:07 |

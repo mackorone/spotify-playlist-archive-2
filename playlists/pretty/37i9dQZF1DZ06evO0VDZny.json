@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 523419,
+  "num_followers": 523503,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAB+SYP7di71DOojZ9U7IxBa",
+  "snapshot_id": "ar70AAAAAABdHrcHiCn7EHcaJaKF3r5o",
   "tracks": [
     {
       "added_at": null,
@@ -667,42 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        }
-      ],
-      "duration_ms": 207982,
-      "name": "losT_404.nll",
-      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Count Your Blessings | Repented",
-        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 131940,
-      "name": "A Lot Like Vegas - 2026 Repented",
-      "url": "https://open.spotify.com/track/2eVe1iElkSZB34FmsiHT9V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -723,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
       },
       "artists": [
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Rahzel",
-          "url": "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
         }
       ],
-      "duration_ms": 240586,
-      "name": "heavy metal (feat. Rahzel)",
-      "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
+      "duration_ms": 131940,
+      "name": "A Lot Like Vegas - 2026 Repented",
+      "url": "https://open.spotify.com/track/2eVe1iElkSZB34FmsiHT9V"
     },
     {
       "added_at": null,
@@ -763,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Rahzel",
+          "url": "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "heavy metal (feat. Rahzel)",
+      "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Count Your Blessings | Repented",
         "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 219783,
       "name": "Tell Slater Not to Wash His Dick - 2026 Repented",
       "url": "https://open.spotify.com/track/64JZAC5iYe4eymrII98Fwg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "duration_ms": 207982,
+      "name": "losT_404.nll",
+      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
     },
     {
       "added_at": null,
@@ -852,13 +852,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
         }
       ],
-      "duration_ms": 209611,
-      "name": "followU.bnd",
-      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
+      "duration_ms": 309218,
+      "name": "med!cine.fbk",
+      "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

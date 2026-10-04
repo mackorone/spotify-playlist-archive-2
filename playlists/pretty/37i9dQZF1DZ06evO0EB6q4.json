@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 269109,
+  "num_followers": 269144,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABsQLdIwYVokkEb2qoDbeMd",
+  "snapshot_id": "ar70AAAAAADHuzzk30f3rH5HVsRApSYe",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 172816,
-      "name": "Duelo",
-      "url": "https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFROROCKSTAR",
         "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 183891,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 172816,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para los Dolidos",
-        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
+        "name": "Mi amor",
+        "url": "https://open.spotify.com/album/1W1xb28Qsjn4PEzfF5TWyE"
       },
       "artists": [
         {
@@ -572,13 +572,13 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         },
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 156403,
-      "name": "Para los Dolidos",
-      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
+      "duration_ms": 178619,
+      "name": "Mi amor",
+      "url": "https://open.spotify.com/track/4MSfzsuYdlcvNH1jogSjb2"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi amor",
-        "url": "https://open.spotify.com/album/1W1xb28Qsjn4PEzfF5TWyE"
+        "name": "Para los Dolidos",
+        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
       },
       "artists": [
         {
@@ -612,13 +612,13 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         },
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 178619,
-      "name": "Mi amor",
-      "url": "https://open.spotify.com/track/4MSfzsuYdlcvNH1jogSjb2"
+      "duration_ms": 156403,
+      "name": "Para los Dolidos",
+      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
     },
     {
       "added_at": null,

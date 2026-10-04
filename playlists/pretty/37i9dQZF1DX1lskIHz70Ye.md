@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,296 likes - 103 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,310 likes - 103 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

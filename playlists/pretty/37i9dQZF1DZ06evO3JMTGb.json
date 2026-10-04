@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAB6Lz068Zr4hNCEAbhUmN8y",
+  "snapshot_id": "ar70AAAAAAA0vOcUhNB8sOxsOr2ZVtqc",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 521986,
-      "name": "Collecting eyes",
-      "url": "https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h"
+      "duration_ms": 199093,
+      "name": "Comes with sunrise",
+      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Comes with sunrise",
-      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
+      "duration_ms": 521986,
+      "name": "Collecting eyes",
+      "url": "https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Sugi",
-      "url": "https://open.spotify.com/track/1abxSo1leLk7qdlZaKg2mN"
+      "duration_ms": 242000,
+      "name": "Calibrating Sense",
+      "url": "https://open.spotify.com/track/4VT2PYRCp9xD7KBVHm1fIr"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Calibrating Sense",
-      "url": "https://open.spotify.com/track/4VT2PYRCp9xD7KBVHm1fIr"
+      "duration_ms": 232000,
+      "name": "Sugi",
+      "url": "https://open.spotify.com/track/1abxSo1leLk7qdlZaKg2mN"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
       "duration_ms": 230000,
       "name": "Connotes Beauty",
       "url": "https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Quake",
-        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
-      },
-      "artists": [
-        {
-          "name": "OTOOTO",
-          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
-        },
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 311077,
-      "name": "Silver Age",
-      "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
     },
     {
       "added_at": null,

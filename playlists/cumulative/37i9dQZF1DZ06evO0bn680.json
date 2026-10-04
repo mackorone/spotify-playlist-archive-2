@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 120480,
       "name": "Lord, For Thy Tender Mercy's Sake",
       "url": "https://open.spotify.com/track/1yNEdZnBIiPH6rFpuvu6VQ"
@@ -4502,6 +4502,28 @@
       "duration_ms": 438400,
       "name": "VII. Lux aeterna",
       "url": "https://open.spotify.com/track/6L8iSepfVRALylaq5x3wsH"
+    },
+    {
+      "album": {
+        "name": "Was I the lamb?",
+        "url": "https://open.spotify.com/album/4x3BNPaqQfbEsbfhyQzTv2"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214360,
+      "name": "Was I the lamb?",
+      "url": "https://open.spotify.com/track/6BGNdiehW0CgnJfRyQubvI"
     },
     {
       "album": {

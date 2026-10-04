@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,035 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,064 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

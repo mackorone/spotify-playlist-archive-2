@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: CRAVITY\)
 
-1,814 songs - 4 day 0 hr 42 min
+1,815 songs - 4 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1276,6 +1276,7 @@
 | [Retro Romance](https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Retro Romance](https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN) | 2:32 | 2024-09-26 | 2024-11-26 |
 | [Revolution](https://open.spotify.com/track/59jcTRUaGUbKAjjmguiINC) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [DECOHERENCE](https://open.spotify.com/album/5xobv4mIR1C2BiSts7WDxL) | 3:09 | 2020-10-22 | 2021-01-18 |
 | [REWIND](https://open.spotify.com/track/3gnby6MCtW10Zl0EvA308e) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [CONNECT](https://open.spotify.com/album/4JdZ37sM1QoMhUvY3nzorw) | 3:09 | 2024-01-10 | 2024-02-27 |
+| [Rhythm Check \(Walking together\)](https://open.spotify.com/track/5rIHbOZZ5i9cssXAUPlNae) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Rhythm Check \(Walking together\)](https://open.spotify.com/album/30PWWtppSIC3830ieDiG2h) | 2:47 | 2026-10-02 |  |
 | [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 | 2021-06-16 | 2021-08-25 |
 | [RIDE](https://open.spotify.com/track/6kEZ2GttdwQeAj7lz58vkh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [RIDE](https://open.spotify.com/album/6IRkfG9VKLl8sil1EgEwvV) | 3:03 | 2021-08-25 | 2021-10-28 |
 | [RIDE](https://open.spotify.com/track/4bWza2UuXLn2d21YFi1XXj) | [KNK](https://open.spotify.com/artist/5zx2slDKDXNn1e6779RzPd) | [KNK AIRLINE](https://open.spotify.com/album/67o91ctnyaMxfi8OSokpcS) | 3:33 | 2020-10-13\* | 2020-11-16 |

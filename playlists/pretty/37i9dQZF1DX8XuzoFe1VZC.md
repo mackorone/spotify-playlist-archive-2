@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 
 > Alegría para tus mañanas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,774 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,777 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Check your vibe with Epic Records\. cover: Future &amp; Metro Boomin
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,813 likes - 49 songs - 2 hr 29 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,815 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

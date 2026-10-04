@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women at full volume\. Haven is co\-curating EQUAL Singapore & Malaysia this month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,373 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,372 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

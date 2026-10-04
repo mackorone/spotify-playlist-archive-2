@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these classical and instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,797 likes - 120 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,802 likes - 120 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 119 | [Variations concertantes, Op\. 17/MWV Q 19: I\. Thema](https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Variations concertantes, Op\. 17/MWV Q 19/I\. Thema](https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG) | 1:05 |
 | 120 | [Souvenir d'un lieu cher, Op\. 42: III\. Mélodie \(Arr\. Heifetz for Violin & Piano\)](https://open.spotify.com/track/3LRRy5Afbkhp56QQnDPrff) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [Lambert Orkis](https://open.spotify.com/artist/5240jtaiVokuoHcbh9Cfd3) | [Tchaikovsky: Souvenir d'un lieu cher, Op\. 42: III\. Mélodie \(Arr\. Heifetz for Violin & Piano\)](https://open.spotify.com/album/0RTnFw9279oDwm89sM8o0v) | 4:16 |
 
-Snapshot ID: `AAAAAOoIA4xSw7lj555TsyatduhBCWzD`
+Snapshot ID: `AAAAAHjBPBCqx+ia/7lq0Iykxy8zL8dB`

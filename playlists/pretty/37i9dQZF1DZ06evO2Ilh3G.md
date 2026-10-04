@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,336 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,335 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 49 | [Realist In It \(feat\. Gucci Mane & Offset\)](https://open.spotify.com/track/2WqTKOAUmv7hz9ZzGnXHrY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:42 |
 | 50 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 
-Snapshot ID: `ar2igAAAAACXLaEGu5lkryGq2tSLD0Qq`
+Snapshot ID: `ar70AAAAAAC9pMP9WrMlUArHQ2izL63O`

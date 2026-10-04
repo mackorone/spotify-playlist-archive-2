@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "\u306f\u3066\u306a",
+        "url": "https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190275,
+      "name": "It's a Beautiful Life",
+      "url": "https://open.spotify.com/track/6MDybif93uNBUDPlcSFl2E"
+    },
+    {
+      "album": {
         "name": "\u51e1\u624d",
         "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
@@ -618,6 +636,24 @@
       "duration_ms": 196000,
       "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
       "url": "https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu"
+    },
+    {
+      "album": {
+        "name": "\u306f\u3066\u306a",
+        "url": "https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229039,
+      "name": "\u30b5\u30fc\u30d3\u30b9\u30a8\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/4x7FxtOoeIAtDU1mTggeOa"
     },
     {
       "album": {

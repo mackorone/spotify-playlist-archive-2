@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,156 likes - 191 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,157 likes - 191 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 190 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 191 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Acd5mgAAAABqVCHK/bCEGRIJ0t1u5ck/`
+Snapshot ID: `Acd/OgAAAACqmwj27T3/sp51HGzQmtYY`

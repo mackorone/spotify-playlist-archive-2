@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,281 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,289 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 30 | [A Ver A Qué Horas \- En Vivo](https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [A Ver A Qué Horas \(En Vivo\)](https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a) | 2:33 |
 | 31 | [Si Se Trata De Ti](https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [No Tiene Precio](https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B) | 3:03 |
 | 32 | [¿Quién Es El Patrón? \- En Vivo](https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos Y Rancheras En Vivo \(En Vivo Desde Mazatlán, Sinaloa/México 2016\)](https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r) | 2:41 |
-| 33 | [Aquí No Se Termina \- En Vivo](https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK) | 3:19 |
-| 34 | [El Número 1](https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 2:43 |
+| 33 | [El Número 1](https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 2:43 |
+| 34 | [Aquí No Se Termina \- En Vivo](https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK) | 3:19 |
 | 35 | [El Pájaro Azul \- En Vivo](https://open.spotify.com/track/6yv8dwewBWu7Fc4VSI1IiT) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:21 |
 | 36 | [El Magnate](https://open.spotify.com/track/22uW5mLiatfm466E6tNLvQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 2:10 |
 | 37 | [Sueña](https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 3:28 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 41 | [Sabes Que Lo Hago](https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Sabes Que Lo Hago](https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz) | 3:13 |
 | 42 | [Me Perdí De Un Amor](https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Segunda Temporada](https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt) | 2:37 |
 | 43 | [Culpable Soy Yo \- En Vivo Desde El Rancho](https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 3:39 |
-| 44 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
-| 45 | [Los Amores De Julia \- En Vivo](https://open.spotify.com/track/1WfsEweuDGT4bp7H4LlC6n) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Sones Y Caballos \(En Vivo\)](https://open.spotify.com/album/4IaBBesdQqQlel5hGHGz8j) | 3:22 |
-| 46 | [Fibras Sensibles](https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Fibras Sensibles](https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm) | 3:20 |
-| 47 | [De Nuestro Amor No Queda Nada](https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [De Nuestro Amor No Queda Nada](https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt) | 3:35 |
+| 44 | [Los Amores De Julia \- En Vivo](https://open.spotify.com/track/1WfsEweuDGT4bp7H4LlC6n) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Sones Y Caballos \(En Vivo\)](https://open.spotify.com/album/4IaBBesdQqQlel5hGHGz8j) | 3:22 |
+| 45 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
+| 46 | [De Nuestro Amor No Queda Nada](https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [De Nuestro Amor No Queda Nada](https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt) | 3:35 |
+| 47 | [Fibras Sensibles](https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Fibras Sensibles](https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm) | 3:20 |
 | 48 | [El Tarasco \- En Vivo](https://open.spotify.com/track/59JBXKZfy7XjAz1eVpeFO7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:01 |
 | 49 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/5opgaluT0rfHMV2j1o5msW) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/2w7wcxm7qdWAGcwHIyR0WE) | 2:34 |
 | 50 | [Los Consentidos De Don Chuy](https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Los Consentidos De Don Chuy](https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W) | 3:44 |
 
-Snapshot ID: `ar2igAAAAAAItzyq1zCsWHI/K3GZaxeZ`
+Snapshot ID: `ar70AAAAAAAAmB9e8qYqyf07DdoPHK+x`

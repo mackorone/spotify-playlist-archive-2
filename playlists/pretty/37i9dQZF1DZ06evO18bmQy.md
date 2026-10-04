@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,787 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,786 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [dom quixote](https://open.spotify.com/track/1022ivrjojItif9boBylZz) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:45 |
 | 50 | [Oto Patamá](https://open.spotify.com/track/7AMSNqs5ApBmjuUQo8xEsd) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE) | 3:58 |
 
-Snapshot ID: `ar2igAAAAAAemKwrPeSRiL+m5FnL+09r`
+Snapshot ID: `ar70AAAAAACNKXlVBtoWnafyH+B6i0sl`

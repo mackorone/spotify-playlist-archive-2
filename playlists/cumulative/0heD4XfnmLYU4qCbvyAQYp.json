@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Adamak",
+        "url": "https://open.spotify.com/album/3mGrtHfwBmpzi1V5GU1DhG"
+      },
+      "artists": [
+        {
+          "name": "ARVANwave",
+          "url": "https://open.spotify.com/artist/5uO5G0LFlfkixcRCGGvx1E"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Adamak",
+      "url": "https://open.spotify.com/track/63I8aEaFFHMOC9HAntBflc"
+    },
+    {
+      "album": {
         "name": "Age Of Innocence",
         "url": "https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq"
       },

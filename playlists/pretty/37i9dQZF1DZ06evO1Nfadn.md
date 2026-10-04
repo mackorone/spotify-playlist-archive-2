@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,537 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,553 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 6 | [Cómo La Luna](https://open.spotify.com/track/3QaDuk77U04e1EURbWzUFu) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 3:01 |
 | 7 | [Quiero Volver](https://open.spotify.com/track/48gGONL6yRaf8NrT9R8DV7) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:49 |
 | 8 | [El Condor Pasa](https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Condor Pasa](https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR) | 2:49 |
-| 9 | [Mil Gracias](https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 3:17 |
+| 9 | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \- 30 Aniversario En Vivo](https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \(30 Aniversario En Vivo\)](https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl) | 3:35 |
 | 10 | [El Teterete](https://open.spotify.com/track/6lNUzwn5EjRBdYjjt2KbhK) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:56 |
 | 11 | [Aniversario de un Adiós](https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:27 |
-| 12 | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \- 30 Aniversario En Vivo](https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \(30 Aniversario En Vivo\)](https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl) | 3:35 |
+| 12 | [Mil Gracias](https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 3:17 |
 | 13 | [Tumbando Caña \- Live Version](https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 3:09 |
 | 14 | [Vamos A Bailar](https://open.spotify.com/track/6HXKHHC9T5weilLjvaDXiP) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:48 |
 | 15 | [Porque Es Amor](https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Si la Ven por Ahí](https://open.spotify.com/track/1yOEp1DlTTSbC5AM2WzVIK) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:52 |
 | 50 | [A mis padres](https://open.spotify.com/track/1TN6hXn1VlNfEcERIGqMdP) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 2:35 |
 
-Snapshot ID: `ar2igAAAAACx1UGume5zmvivgFTvfoEx`
+Snapshot ID: `ar70AAAAAAACf2E8UYWwKnFULPzQ8zw0`

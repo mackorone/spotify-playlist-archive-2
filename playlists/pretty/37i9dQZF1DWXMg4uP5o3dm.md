@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,346 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,372 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

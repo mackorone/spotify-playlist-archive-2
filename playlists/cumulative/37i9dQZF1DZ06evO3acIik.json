@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "NEST",
+        "url": "https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122008,
+      "name": "Nest",
+      "url": "https://open.spotify.com/track/6FYu6uQqdrdw2aSXuxKCAo"
+    },
+    {
+      "album": {
         "name": "On My Way.",
         "url": "https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST"
       },
@@ -3074,7 +3092,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 203720,
       "name": "Wars",
       "url": "https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG"

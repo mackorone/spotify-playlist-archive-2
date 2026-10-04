@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,909 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,912 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 50 | [Training Season](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:29 |
 
-Snapshot ID: `MlMuiAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`

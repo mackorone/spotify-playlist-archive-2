@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,749 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,759 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 31 | [Virgen](https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/126xvNTHDugqvllz6O0v4h) | 4:31 |
 | 32 | [QUÉ LÍO](https://open.spotify.com/track/2lqlHNnVrKT3Pqolktx1nK) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [EL PEOR HOMBRE DEL MUNDO](https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb) | 2:12 |
 | 33 | [4 Life](https://open.spotify.com/track/3T2dGGsL9eEZofkoih3YpP) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [4 Life](https://open.spotify.com/album/39PEyxBEGMFlGdGIgCrCn9) | 2:47 |
-| 34 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
+| 34 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
 | 35 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
 | 36 | [Doma](https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:08 |
 | 37 | [DE MEDALLO PA MOROVIS](https://open.spotify.com/track/0YJyWgMaPwbhZmpXi8FBbf) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LA AMENAZA](https://open.spotify.com/album/0i7JDOjUAImPE2fOqbFamJ) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Te Estoy Correteando](https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:13 |
 | 50 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |
 
-Snapshot ID: `MlMuiAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`

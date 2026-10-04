@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,336,005 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,335,976 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Me & U \- Sammy Virji Remix](https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Me & U \(Sammy Virji Remix\)](https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3) | 3:21 |
 | 75 | [Camera \(CYRIL Remix\)](https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Camera \(CYRIL Remix\)](https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n) | 2:43 |
 
-Snapshot ID: `AAAAAE4YJ4nLOXOP7p7KNh9+ybPlVi4u`
+Snapshot ID: `AAAAANn8uoVJZDo4VXpkvSLHoHJ0SWoJ`

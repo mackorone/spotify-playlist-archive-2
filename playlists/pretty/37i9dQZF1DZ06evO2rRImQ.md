@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,300 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,334 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 24 | [Me Está Tirando El Rollo](https://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:37 |
 | 25 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
 | 26 | [Tres Recuerdos](https://open.spotify.com/track/2dgwZntNk1YJO9SiFyydHb) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 3:17 |
-| 27 | [Experto En Fracasos \(Contando Penas\)](https://open.spotify.com/track/1eGB9VAzPMpIPCA562WrUv) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Canto Para Ti](https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK) | 2:30 |
+| 27 | [Llorar, Llorar](https://open.spotify.com/track/2PWwos1TVcbQdOGHndeDr6) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Canto Para Ti](https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK) | 3:42 |
 | 28 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 |
 | 29 | [Al Ver Que Te Vas](https://open.spotify.com/track/4JSZYFKUFdGSvsru6tuQOU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 3:05 |
 | 30 | [Los Gustos Que Me Doy](https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:48 |
-| 31 | [Llorar, Llorar](https://open.spotify.com/track/2PWwos1TVcbQdOGHndeDr6) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Canto Para Ti](https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK) | 3:42 |
+| 31 | [Experto En Fracasos \(Contando Penas\)](https://open.spotify.com/track/1eGB9VAzPMpIPCA562WrUv) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Canto Para Ti](https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK) | 2:30 |
 | 32 | [Una Noche Cualquiera](https://open.spotify.com/track/2szSSBPaBH6skMDz6IQxUW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:30 |
 | 33 | [Ya Se Fue](https://open.spotify.com/track/4F20AZ3B6JMKvaPcTiy9GY) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 3:12 |
 | 34 | [Tiempo](https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [Elegiste Un Error](https://open.spotify.com/track/7kmrbuDn7yI4t0VoHIV9PR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:56 |
 | 50 | [Extráñame](https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:50 |
 
-Snapshot ID: `ar2igAAAAADV4S2wDOWw9QKXK9udi8bj`
+Snapshot ID: `ar70AAAAAAC0irreOy7koGkZ8enmc+X9`

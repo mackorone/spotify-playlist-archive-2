@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: NOVELISTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,385 likes - 200 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,401 likes - 200 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

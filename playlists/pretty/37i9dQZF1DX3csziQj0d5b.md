@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 
 > Music to take the pain of homework away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,934,647 likes - 121 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,934,774 likes - 121 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

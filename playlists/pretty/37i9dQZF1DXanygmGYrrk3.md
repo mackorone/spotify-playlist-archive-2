@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 
 > ¡Tus canciones favoritas del momento, todas en un solo lugar! Cover: Julion Álvarez
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,697 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,850 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10541,
+  "num_followers": 10542,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAC+Li0xXe/qisqC+Ybanuq0",
+  "snapshot_id": "ar70AAAAAAC/zy8IdiFKdEukNrg5BzPT",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Quisiera Amarte Menos",
-      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
+      "duration_ms": 203728,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 203728,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
+      "duration_ms": 216973,
+      "name": "Quisiera Amarte Menos",
+      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
+        "name": "Voy A Pedirte Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Dulce Morena",
-      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
+      "duration_ms": 161026,
+      "name": "Cajita De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy A Pedirte Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Cajita De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
+      "duration_ms": 177706,
+      "name": "Dulce Morena",
+      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Son Pasiones",
-        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 215405,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
+      "duration_ms": 191164,
+      "name": "Amigo de la Luna",
+      "url": "https://open.spotify.com/track/5FqhnthUoK7zljqUpO1Cbi"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+        "name": "Pa Que Son Pasiones",
+        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
       },
       "artists": [
         {
@@ -668,9 +668,25 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 191164,
-      "name": "Amigo de la Luna",
-      "url": "https://open.spotify.com/track/5FqhnthUoK7zljqUpO1Cbi"
+      "duration_ms": 215405,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asomate a Mi Alma",
+        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 174419,
+      "name": "Te Pido y Te Ruego",
+      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
       "duration_ms": 217336,
       "name": "Vuela Paloma",
       "url": "https://open.spotify.com/track/56JWh6yS9DbgHQH6wwtI3y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Asomate a Mi Alma",
-        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 174419,
-      "name": "Te Pido y Te Ruego",
-      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
     },
     {
       "added_at": null,

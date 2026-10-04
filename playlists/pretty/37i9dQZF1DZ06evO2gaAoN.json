@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 88360,
+  "num_followers": 88390,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABtjoYmZ72ddhxtG23M2u7i",
+  "snapshot_id": "ar70AAAAAADDU8uqOaEjyCcvtI5elfli",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getting Late",
         "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 254557,
       "name": "Getting Late",
       "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Capitão Fausto
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,777 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,781 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 9 | [Não Canto Porque Sonho](https://open.spotify.com/track/3mG6GWAF7XlQxSD8pIWV3F) | [Pedro Branco](https://open.spotify.com/artist/7BCNNSSoCrteCcRoEKlm0g), [Noiserv](https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys), [Tipo](https://open.spotify.com/artist/6i09xszvXLDEQps4uMzqck) | [Não Canto Porque Sonho](https://open.spotify.com/album/1FW4Zl8cuSF7jxfc5MaxPu) | 4:14 |
 | 10 | [Um Mais Um](https://open.spotify.com/track/37MIhQy5RKshiLFp7yF70E) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [Um Mais Um](https://open.spotify.com/album/4uIMh5zR0GYAnSaLf2Ehfy) | 2:51 |
 | 11 | [Coisas Simples](https://open.spotify.com/track/42mg6aq8u2myBFdBNMFo63) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Coisas Simples](https://open.spotify.com/album/5auvzmaGYrLSWdbPZtNR9x) | 4:03 |
-| 12 | [Três Noites](https://open.spotify.com/track/0YhGFP3CunA6eyStmO75kn) | [Nunca Mates o Mandarim](https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ), [Luís Lucas](https://open.spotify.com/artist/7KVGKC9RZijUdgCqOrdHPe) | [Três Noites](https://open.spotify.com/album/7l7GOiEDROdjCT4rI0vsa2) | 4:55 |
+| 12 | [Três Noites \- Versão Alternativa](https://open.spotify.com/track/0YhGFP3CunA6eyStmO75kn) | [Nunca Mates o Mandarim](https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ), [Luís Lucas](https://open.spotify.com/artist/7KVGKC9RZijUdgCqOrdHPe) | [Três Noites \(Versão Alternativa\)](https://open.spotify.com/album/7l7GOiEDROdjCT4rI0vsa2) | 4:55 |
 | 13 | [O Pack Inteiro](https://open.spotify.com/track/3fLT6NRziCLgg2jQY6fxsT) | [PZ](https://open.spotify.com/artist/6c9SE6fHc4wrrmvXlx21OE), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [O Pack Inteiro](https://open.spotify.com/album/6A81qhsxy9gzEBP9nzkFi7) | 3:20 |
 | 14 | [Sou Gente Outra Vez](https://open.spotify.com/track/0j05nCNwPM2xZY9K9Icxlb) | [Cassete Pirata](https://open.spotify.com/artist/2VQ14XaMYiXOr7lLePbZrf) | [Sou Gente Outra Vez](https://open.spotify.com/album/7qfjxVM3xHJ4KQJU0C3MA1) | 3:25 |
 | 15 | [Fala Bem](https://open.spotify.com/track/6DOB7QK6gio2SfxQeDsWSt) | [Rita Redshoes](https://open.spotify.com/artist/3Bce8amCAcl1Icpz8ebKVy) | [Fala Bem](https://open.spotify.com/album/7LYs2BW6mdSS227wRPhCkF) | 2:37 |

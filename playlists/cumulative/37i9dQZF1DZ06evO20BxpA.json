@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Fastas Hellus vs. Hungrious Carnivorus",
+      "url": "https://open.spotify.com/track/1DanQsEQ3iR01A7rbzi4kc"
+    },
+    {
+      "album": {
         "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
       },
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 145546,
       "name": "Like the Sea Is Breathing",
       "url": "https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt"
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 172213,
       "name": "My Client Is Innocent",
       "url": "https://open.spotify.com/track/0j0Yks4eVZokpRBv3h2nEL"
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 111413,
       "name": "The Shallow Seas",
       "url": "https://open.spotify.com/track/1vjuL6knzg5Xhh3bdaUUJ7"

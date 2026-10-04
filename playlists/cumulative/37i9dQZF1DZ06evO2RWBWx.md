@@ -4,7 +4,7 @@
 
 > This is imase\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 3 min
+55 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Holy Light](https://open.spotify.com/track/3tv7UdosUc9mFML6crORV7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:17 | 2023-12-26 | 2025-12-09 |
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2023-12-26 |  |
 | [I say bye](https://open.spotify.com/track/3E4UUWzgGUH9555Hpp7dNn) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 3:02 | 2024-08-02 | 2025-09-28 |
+| [It's a Beautiful Life](https://open.spotify.com/track/6MDybif93uNBUDPlcSFl2E) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [はてな](https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS) | 3:10 | 2026-10-04 |  |
 | [LIT](https://open.spotify.com/track/3c4qpbU1K8l4ZJbpo15TNH) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:50 | 2024-05-18 |  |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-12-26 |  |
 | [NIGHT DANCER](https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:30 | 2024-02-08 | 2026-06-16 |
@@ -40,6 +41,7 @@
 | [アナログライフ](https://open.spotify.com/track/6iYr7CUH6RckGSB3yGOm81) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:13 | 2023-12-26 |  |
 | [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-06 |  |
 | [ココロウチュウ](https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ココロウチュウ](https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb) | 3:16 | 2024-09-27 |  |
+| [サービスエリア](https://open.spotify.com/track/4x7FxtOoeIAtDU1mTggeOa) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [はてな](https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS) | 3:49 | 2026-10-04 |  |
 | [ツナガルウチュウ！](https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ツナガルウチュウ！](https://open.spotify.com/album/39TMwItqzO5ze6rmqGKPuz) | 2:40 | 2024-09-27 |  |
 | [ヒロイン](https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ヒロイン](https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5) | 3:22 | 2023-12-26 |  |
 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 | 2023-12-26 |  |

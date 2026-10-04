@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Binomio de Oro de América
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,743 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,757 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

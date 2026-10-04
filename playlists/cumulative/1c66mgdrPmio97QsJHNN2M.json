@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 160429,
       "name": "All The Reasons Why",
       "url": "https://open.spotify.com/track/4yAND3BiQHXlBfeg13ixAS"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 222644,
       "name": "Atomic Nucleus",
       "url": "https://open.spotify.com/track/5hD7s4IhEGs213qBeo0L98"
@@ -4232,7 +4232,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 240349,
       "name": "Baryone",
       "url": "https://open.spotify.com/track/0alxcYdVfPtZwa9tgEPpWh"
@@ -6000,7 +6000,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 128035,
       "name": "Boring B!tch",
       "url": "https://open.spotify.com/track/6tTisZ5MR7wD8m37EXOEsK"
@@ -6072,7 +6072,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 252145,
       "name": "Bosun",
       "url": "https://open.spotify.com/track/3KbrMcw3NcxDZ8yRh60wc5"
@@ -6622,7 +6622,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 263702,
       "name": "Brothers and Sisters (Stop the Hate)",
       "url": "https://open.spotify.com/track/4Iyy0mLEmGAYgnHUJ6vdnz"
@@ -7766,7 +7766,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 174857,
       "name": "Centered",
       "url": "https://open.spotify.com/track/15DiUJAOfFXa4ry8TVCl4I"
@@ -8018,7 +8018,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 150500,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/43PAtXAIIMItWW4B2kJAiQ"
@@ -9054,7 +9054,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 173400,
       "name": "Coming Home to You",
       "url": "https://open.spotify.com/track/7ilMscDOYPEn90JdJqtewb"
@@ -9162,7 +9162,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 225321,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/1ar3gYsWn4lgL6OLGm37HU"
@@ -9296,7 +9296,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 254188,
       "name": "Cosmic Dust",
       "url": "https://open.spotify.com/track/6qsgG8cSOIzlbx7V0m0roo"
@@ -9314,7 +9314,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 179734,
       "name": "Cosmic Rays",
       "url": "https://open.spotify.com/track/5q65o7RTiq8KG13jt4HdFm"
@@ -11404,7 +11404,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 136126,
       "name": "Diva's Sins",
       "url": "https://open.spotify.com/track/27Q8d6iJeodOlGSTXTYBU3"
@@ -15602,7 +15602,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 277874,
       "name": "Fermion",
       "url": "https://open.spotify.com/track/5FeDG9kHAmqS6gbSRXECr2"
@@ -16712,7 +16712,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 179200,
       "name": "Forget-Me-Not",
       "url": "https://open.spotify.com/track/0oGA4vdW816Yx0hRbKOsB1"
@@ -16742,6 +16742,24 @@
       "duration_ms": 132677,
       "name": "forgetful",
       "url": "https://open.spotify.com/track/1bQBCiGzlMZ0RFJnaXrChy"
+    },
+    {
+      "album": {
+        "name": "Forgiving Me",
+        "url": "https://open.spotify.com/album/0cRDeg33hdK9t6J4MsLEbo"
+      },
+      "artists": [
+        {
+          "name": "Trailblazer Queen",
+          "url": "https://open.spotify.com/artist/2Il87xYAinPz9wkrioSt4D"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146919,
+      "name": "Forgiving Me",
+      "url": "https://open.spotify.com/track/6kTA4n20BKVSWD6FKvwsjS"
     },
     {
       "album": {
@@ -18089,6 +18107,24 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/5HtJN02L3QFKBdHiF5jPue"
+      },
+      "artists": [
+        {
+          "name": "RCN",
+          "url": "https://open.spotify.com/artist/6fgNKyVoYkhEkBWReaMsFO"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146720,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/55ya9qCI9GwkpCSdNDlFtW"
+    },
+    {
+      "album": {
         "name": "GO GET IT",
         "url": "https://open.spotify.com/album/0wVoya1GzId4aYOWfOqahA"
       },
@@ -18576,7 +18612,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 170866,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/48rSu3S4LLopdqHRAN7JUN"
@@ -19305,6 +19341,24 @@
     },
     {
       "album": {
+        "name": "hard to reach",
+        "url": "https://open.spotify.com/album/2Kklf8fGvrPQocnrriNrqb"
+      },
+      "artists": [
+        {
+          "name": "jules.xoc",
+          "url": "https://open.spotify.com/artist/5KO50Ro2QliqrCesFb82EC"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84287,
+      "name": "hard to reach",
+      "url": "https://open.spotify.com/track/041BuZUpzJS67WMlYvcjLJ"
+    },
+    {
+      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/7FXa7VysnuvTxgsKQkccZP"
       },
@@ -19378,7 +19432,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 160608,
       "name": "Hate You Now",
       "url": "https://open.spotify.com/track/03Px3tU5F6AcGSgWqUXN95"
@@ -22620,7 +22674,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 209680,
       "name": "I wish",
       "url": "https://open.spotify.com/track/6ihooC7b37rZqSii4LzYes"
@@ -23294,7 +23348,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 180020,
       "name": "If You Never Left",
       "url": "https://open.spotify.com/track/4H5zrimUQYq1Kb1eYlJ7gp"
@@ -26182,7 +26236,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 237215,
       "name": "Lepton",
       "url": "https://open.spotify.com/track/2KZo0Nv0GO0oAnkCKc66ub"
@@ -26600,7 +26654,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 231916,
       "name": "Life's Good",
       "url": "https://open.spotify.com/track/2h9mFYqMemc0hAgqfks6Bx"
@@ -28432,7 +28486,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 234082,
       "name": "Love, Cherish and Laugh",
       "url": "https://open.spotify.com/track/0R7Bou9pgg2rECHa4SPWFN"
@@ -29851,6 +29905,24 @@
     },
     {
       "album": {
+        "name": "Mera Ghar",
+        "url": "https://open.spotify.com/album/73srkvedWIfX7x8vGFm7YG"
+      },
+      "artists": [
+        {
+          "name": "Tejas Sharma",
+          "url": "https://open.spotify.com/artist/62zTVM9ICp0bQfYO2Km66X"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190875,
+      "name": "Mera Ghar",
+      "url": "https://open.spotify.com/track/16W5qv4PfkYsLvPatrvts2"
+    },
+    {
+      "album": {
         "name": "Mercury (Alive)",
         "url": "https://open.spotify.com/album/5HyrqsZeQ50BafVkqIGpJv"
       },
@@ -31028,7 +31100,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "Muon",
       "url": "https://open.spotify.com/track/1HOsEYLpPqcNUwrHQlVOya"
@@ -34962,7 +35034,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 179172,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/136IV9AGzmFSy3IYDYh7lL"
@@ -35442,7 +35514,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 189465,
       "name": "Particles",
       "url": "https://open.spotify.com/track/49h7bW06TzrFLrF8YLi6sg"
@@ -37038,7 +37110,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 174673,
       "name": "Proof Of Concept",
       "url": "https://open.spotify.com/track/6lNhSanI1skH4OosyY9P6E"
@@ -37056,7 +37128,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 175708,
       "name": "Proton",
       "url": "https://open.spotify.com/track/1RBuxgLzMhXAUVpvLgHV2l"
@@ -37294,7 +37366,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 251773,
       "name": "Quark",
       "url": "https://open.spotify.com/track/6Vxy6AZOxEoS5Cyck5nPvI"
@@ -37774,7 +37846,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 208080,
       "name": "Ready to fly",
       "url": "https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x"
@@ -38540,7 +38612,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 189660,
       "name": "Rheum",
       "url": "https://open.spotify.com/track/59eYdw83aWMLoJPW6kgdNZ"
@@ -43604,7 +43676,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 179352,
       "name": "Stroll in the Sun",
       "url": "https://open.spotify.com/track/17sI3RmSvGBraRrRnbeArO"
@@ -44984,7 +45056,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 204289,
       "name": "Tau Neutrino",
       "url": "https://open.spotify.com/track/2baRIWyOx7rzjpGYSYzBMc"
@@ -45308,7 +45380,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 201485,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/14xVr1mTSAwFY22RgIEzkb"
@@ -45518,6 +45590,24 @@
       "duration_ms": 192719,
       "name": "The Beautiful Dissolution",
       "url": "https://open.spotify.com/track/3ksVA3QdIiqhbLvjTHoHJE"
+    },
+    {
+      "album": {
+        "name": "The Bells Don't Lie",
+        "url": "https://open.spotify.com/album/7nHxUIvxbQGOxEwAYH5R13"
+      },
+      "artists": [
+        {
+          "name": "Barbara Borgelin",
+          "url": "https://open.spotify.com/artist/3IsHx0vZYapvC5YBkFOv2V"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191632,
+      "name": "The Bells Don't Lie",
+      "url": "https://open.spotify.com/track/6DQtUgOiby83cErHtuyEcu"
     },
     {
       "album": {
@@ -45792,6 +45882,24 @@
       "duration_ms": 227387,
       "name": "The Endth (Waiting Room)",
       "url": "https://open.spotify.com/track/3Q7dmGqNAIEmJR9Lznx1IJ"
+    },
+    {
+      "album": {
+        "name": "The Face Behind Me",
+        "url": "https://open.spotify.com/album/6snsBx6Vnwt1egxxUMu2bx"
+      },
+      "artists": [
+        {
+          "name": "akatasamattin",
+          "url": "https://open.spotify.com/artist/6ryJdofQKSvwIsc2U4G4mP"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "The Face Behind Me",
+      "url": "https://open.spotify.com/track/3E0lNoF1kuTmDyW5RKBhSN"
     },
     {
       "album": {
@@ -46898,7 +47006,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 243234,
       "name": "The Twerking Song",
       "url": "https://open.spotify.com/track/2rcpN2VorTLV76EZwtgjKc"
@@ -50203,6 +50311,24 @@
     },
     {
       "album": {
+        "name": "VILLAGE",
+        "url": "https://open.spotify.com/album/49wnSlYM86Mk6jdna1pNcJ"
+      },
+      "artists": [
+        {
+          "name": "Snow64",
+          "url": "https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183144,
+      "name": "VILLAGE",
+      "url": "https://open.spotify.com/track/0SORlWWpb9l91UUtsIby45"
+    },
+    {
+      "album": {
         "name": "CYNICISM",
         "url": "https://open.spotify.com/album/4XVnvJWIxsgLBJsfvh3cia"
       },
@@ -51458,7 +51584,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 184600,
       "name": "What Do You Think?",
       "url": "https://open.spotify.com/track/4PfAbnetZ9d8fZUIYeKZD9"

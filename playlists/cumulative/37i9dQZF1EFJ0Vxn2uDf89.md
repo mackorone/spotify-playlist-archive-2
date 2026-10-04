@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 10 hr 46 min
+191 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Growing Song](https://open.spotify.com/track/1b3qzPiOsoGOJvNRSLWJ6u) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:27 | 2026-07-27 |  |
 | [Guiding Light](https://open.spotify.com/track/4BeR7pAPOTuMJyZI8Xwuzp) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [three](https://open.spotify.com/album/1ooobrQ5GnZuoVvmGJit4f) | 2:57 | 2026-07-27 |  |
 | [Halloween](https://open.spotify.com/track/5aeQMQDWe64gVnVYSOqW6A) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:55 | 2026-07-27 |  |
+| [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 | 2026-10-03 |  |
 | [hard pill to swallow](https://open.spotify.com/track/517TggqOi6WDbDzwHX1dnf) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [hard pill to swallow](https://open.spotify.com/album/2Y0wGYccG6XJXrSwIMbkcO) | 3:01 | 2026-07-27 |  |
 | [Hatchet](https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:00 | 2026-07-27 |  |
 | [Head To Head](https://open.spotify.com/track/6RVYfaLq4SmoNONX5irBw1) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Ivory](https://open.spotify.com/album/0hdZJH49Zo6sQzdhN0Y5dQ) | 2:58 | 2026-07-27 |  |

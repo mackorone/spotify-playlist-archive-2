@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,601 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,598 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

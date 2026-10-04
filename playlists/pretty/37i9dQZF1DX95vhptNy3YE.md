@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,726 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,714 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

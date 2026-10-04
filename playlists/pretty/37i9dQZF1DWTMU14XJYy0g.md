@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Emblemas de nuestro rock 📸 Cruzando El Charco
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,747 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,746 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 79 | [Extrañas Intenciones](https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8) | 2:48 |
 | 80 | [Otro día en la oficina](https://open.spotify.com/track/3l3CzAaI5fuW4SDGYBrjVW) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Otro día en la oficina](https://open.spotify.com/album/5dSgACQErVdBj1fDrAfQp9) | 4:19 |
 
-Snapshot ID: `AAAAANzq9LqL5Zibr8xkZpjPWcfRJuQm`
+Snapshot ID: `AAAAAASUgxrURBnHKegCvxw0RbSWTlqI`

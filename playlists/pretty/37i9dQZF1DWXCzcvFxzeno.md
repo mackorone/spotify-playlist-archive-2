@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,876 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,300 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

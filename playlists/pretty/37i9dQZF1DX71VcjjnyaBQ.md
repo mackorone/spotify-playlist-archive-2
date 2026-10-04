@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Soft jazz for slow mornings, first coffee, and the quiet before the day starts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,055 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,116 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

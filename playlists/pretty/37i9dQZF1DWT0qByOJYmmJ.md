@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón\. Luciano Daniel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,101 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,082 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 51 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
 | 52 | [Tiempo](https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG) | [Andrés Almeida](https://open.spotify.com/artist/3ufL1LFCtKv9PY0G1jOesk) | [Tiempo](https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9) | 4:02 |
 | 53 | [Cupido \- Acústico](https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cupido \(Acústico\)](https://open.spotify.com/album/3tYs8S99Xsefox2C08Jb3d) | 3:16 |
-| 54 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
+| 54 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 |
 | 55 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 |
 | 56 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
 | 57 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 |
 | 58 | [Ya Corazón](https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK) | 2:57 |
-| 59 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 |
+| 59 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
 | 60 | [Déjenme Llorar](https://open.spotify.com/track/61paDgouceUmuVTsoUO5TD) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:55 |
 | 61 | [Niña Bonita](https://open.spotify.com/track/2T6IW1nQ2CTctvnYrWqM6R) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Niña Bonita](https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA) | 4:23 |
 | 62 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/2iPaUU7QA953Vup7SWKMrL) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |

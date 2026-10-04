@@ -4,7 +4,7 @@
 
 > Today's R&B hits only\. Music videos only available on Premium.
 
-61 songs - 3 hr 15 min
+62 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 | 2026-05-20 |  |
 | [Non Negotiables](https://open.spotify.com/track/3HUhrokD6jm8EH8qK1gIuZ) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Fuck, Marry, Kill](https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG) | 2:37 | 2026-05-20 |  |
 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 | 2026-05-20 |  |
+| [options](https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [options](https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy) | 3:32 | 2026-10-03 |  |
 | [Proud](https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Proud](https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6) | 2:10 | 2026-07-24 |  |
 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 | 2026-07-27 |  |
 | [Reclusive](https://open.spotify.com/track/2E3c3APiNL1g2syAGwBHCP) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:06 | 2026-05-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Osmán Música
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,626 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,625 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

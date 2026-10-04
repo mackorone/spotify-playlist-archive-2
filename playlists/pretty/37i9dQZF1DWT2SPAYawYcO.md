@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Dom Dolla, Solumun, Skepta, Noah Kahn, Fontaines D.C., Victoria Monet, SZA + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,599 likes - 88 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,609 likes - 88 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

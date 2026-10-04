@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,729 likes - 293 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,765 likes - 293 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 12 | [Sevmek Demek](https://open.spotify.com/track/1MmTBJzjF3p89FjVSDGbt7) | [Cem Ergunoğlu](https://open.spotify.com/artist/5XcAA5c3de8ToTegz4Zmbf) | [Seni Tanıyorum Season 1 \(Netflix Dizisi Müzikleri\)](https://open.spotify.com/album/1Nui2M4XMVpQObjWHVqDSk) | 5:13 |
 | 13 | [Windmill Showdown](https://open.spotify.com/track/2O8Mq7qacfjmxDHiC2qM3I) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Shaun the Sheep: The Beast of Mossy Bottom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Aj599n2SDVKJPGmxqe1tr) | 2:25 |
 | 14 | [For Hearth and Home](https://open.spotify.com/track/0aw2UoWCwLexLfbYUAYg2y) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of my Blood \(Season 2 Original Series Soundtrack\)](https://open.spotify.com/album/1MzzczScFfaoZ8G0JQWyMh) | 3:56 |
-| 15 | [Main Titles Extended \(from "Resident Evil" Soundtrack\) \(feat\. Aaron Esposito\)](https://open.spotify.com/track/5zMtCgSWlFt3O5kFq3Mjbw) | [Hays Holladay](https://open.spotify.com/artist/2rcjIwc9iPMdaOMCSECtzk), [Ryan Holladay](https://open.spotify.com/artist/5Avhvu4chjrA10c0p70cOc), [Aaron Esposito](https://open.spotify.com/artist/5XV3qh8P9Y6KgCXdiKt837) | [Main Titles Extended / Skybridge Reprise from Resident Evil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1x9CzzJnCKwa0F18HVEYNy) | 2:24 |
+| 15 | [Main Titles Extended \(from "Resident Evil" Soundtrack\) \(feat\. AAESPO\)](https://open.spotify.com/track/5zMtCgSWlFt3O5kFq3Mjbw) | [Hays Holladay](https://open.spotify.com/artist/2rcjIwc9iPMdaOMCSECtzk), [Ryan Holladay](https://open.spotify.com/artist/5Avhvu4chjrA10c0p70cOc), [AAESPO](https://open.spotify.com/artist/6zhjVmPJZu9cmiv82lQv5D) | [Main Titles Extended / Skybridge Reprise from Resident Evil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1x9CzzJnCKwa0F18HVEYNy) | 2:24 |
 | 16 | [Marfil and Sebastian \(Love Theme\)](https://open.spotify.com/track/4NAnAJ0hLTWF7OFgHUm82T) | [Luis Almau](https://open.spotify.com/artist/0PaEBrGZKZQdXmVcItehnq) | [Enfrentados: Marfil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/046BtnDvq4hJBXCCbaMJvT) | 2:23 |
 | 17 | [The Full Truth](https://open.spotify.com/track/7JFPyvdXTsAO4qK9NeyijN) | [John Dragonetti](https://open.spotify.com/artist/2QTjftZMiIxzvBBv97JEnn) | [Turning Point: Generation 9/11 \(Soundtrack from the Netflix Documentary Series\)](https://open.spotify.com/album/497ijVRywIQrUkWNcQpNqF) | 3:38 |
 | 18 | [Like Your Sister](https://open.spotify.com/track/2rMhjUqTNNPYSWtVgFMApF) | [Tim Despic](https://open.spotify.com/artist/1sedNTR7wwc4L2GwvxAceP) | [Fall 2: Deadpoint \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UeykyGGXLixTr6b3VE8N2) | 4:04 |

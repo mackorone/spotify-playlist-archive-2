@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 grootste hits in NL met cover: Qlas, Antoon & Boef
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,257 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,289 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

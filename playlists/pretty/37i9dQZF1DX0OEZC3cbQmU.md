@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,336,647 likes - 75 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,336,779 likes - 75 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

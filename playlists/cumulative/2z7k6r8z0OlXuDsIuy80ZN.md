@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md) - cumulative - [plain](/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN)
 
-### [Lista de LOS40 \(Oficial\) \- Ariana Grande en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
+### [Lista de LOS40 \(Oficial\) \- Karol G, Judeline y rusowsky en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-420 songs - 21 hr 57 min
+421 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-01-15 | 2022-04-17 |
 | [Colorín Colorado](https://open.spotify.com/track/2WSLiFW6zmSsPWWDmG8IOi) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Colorín Colorado](https://open.spotify.com/album/6BUZ3G4ECoOwOwn4w77LKA) | 3:14 | 2022-03-26 | 2022-10-16 |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-11-04 | 2024-06-09 |
+| [CONEXIÓN PSÍQUICA](https://open.spotify.com/track/6rWIHEedAYET828v7QY22S) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:40 | 2026-10-03 |  |
 | [Conmigo no lloras](https://open.spotify.com/track/2AGGQ8sSLALwFtuY0VuQQ9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Conmigo no lloras](https://open.spotify.com/album/2DsQL94YqBZRU5I7w93tl0) | 3:22 | 2025-08-23 | 2026-01-25 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-24 | 2024-09-08 |
 | [Contrato](https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Contrato](https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno) | 3:24 | 2024-08-17 | 2024-12-30 |
@@ -223,7 +224,7 @@
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-15 | 2023-11-12 |
 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 | 2022-07-23 | 2023-03-19 |
 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 | 2023-06-24 | 2023-10-01 |
-| [las guapas no morimos de verdad](https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [las guapas no morimos de verdad](https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z) | 3:30 | 2026-04-04 |  |
+| [las guapas no morimos de verdad](https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [las guapas no morimos de verdad](https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z) | 3:30 | 2026-04-04 | 2026-10-04 |
 | [las guapas no morimos de verdad](https://open.spotify.com/track/39Evd0rSSm0XX0dMia4c3k) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [Catarsis](https://open.spotify.com/album/1QIfadQdSg2TG94kFEssqU) | 3:31 | 2026-03-23 | 2026-04-05 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-10-01 | 2023-02-05 |
 | [Latidos](https://open.spotify.com/track/0M1WVPWkzCXrC9oNc83dke) | [Polo Nandez](https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM), [Zeper](https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL) | [Latidos](https://open.spotify.com/album/3TpEupd2alBt0zDzDTIln7) | 3:22 | 2022-07-23 | 2023-02-05 |

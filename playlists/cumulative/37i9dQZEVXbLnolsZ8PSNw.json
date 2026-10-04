@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -9400,7 +9400,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 142222,
       "name": "Clean Baby Sleep White Noise (Loopable)",
       "url": "https://open.spotify.com/track/4yVBarJHjhhzP1q7fU4p0W"
@@ -9794,6 +9794,32 @@
       "duration_ms": 192340,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234849,
+      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+      "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
     },
     {
       "album": {
@@ -13513,6 +13539,28 @@
     },
     {
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF"
       },
@@ -13694,7 +13742,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
@@ -19402,7 +19450,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -32666,7 +32714,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
@@ -33744,7 +33792,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 158848,
       "name": "On 2nite",
       "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
@@ -35968,7 +36016,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 190690,
       "name": "Pink Clouding",
       "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
@@ -37418,6 +37466,24 @@
       "duration_ms": 241693,
       "name": "Pussy Palace",
       "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
     },
     {
       "album": {
@@ -41884,6 +41950,28 @@
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {
@@ -46436,7 +46524,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"

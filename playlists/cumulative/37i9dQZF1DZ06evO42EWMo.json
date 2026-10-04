@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Fuckery (Me & Mr Jones - Original Demo)",
+        "url": "https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151840,
+      "name": "Fuckery - Me & Mr Jones / Original Demo",
+      "url": "https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX"
+    },
+    {
+      "album": {
         "name": "Lioness: Hidden Treasures",
         "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
       },

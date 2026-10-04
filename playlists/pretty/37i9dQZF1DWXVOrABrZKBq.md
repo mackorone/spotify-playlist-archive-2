@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Gazo, La Mano 1.9
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,322 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,343 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

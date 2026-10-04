@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,621 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,620 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,28 +35,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 | 25 | [Cloudwalker Ii](https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:26 |
 | 26 | [Than Is The Mater](https://open.spotify.com/track/4wq5a2xNT37uka9mc3aKo9) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 4:14 |
 | 27 | [Grandiflora](https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 0:48 |
-| 28 | [The Way Of Time](https://open.spotify.com/track/6H3RIEciwvaGoOT8LX5Xtj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN) | 7:45 |
-| 29 | [Adagiati](https://open.spotify.com/track/7sGGstyG6WbJGQnvIEI47g) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:51 |
-| 30 | [Startoucher](https://open.spotify.com/track/0MSEhfQE0256xTKHtaNkXB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:02 |
+| 28 | [Startoucher](https://open.spotify.com/track/0MSEhfQE0256xTKHtaNkXB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:02 |
+| 29 | [The Way Of Time](https://open.spotify.com/track/6H3RIEciwvaGoOT8LX5Xtj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN) | 7:45 |
+| 30 | [From a Solid To a Liquid](https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 5:18 |
 | 31 | [Miniature Rock Dwellers](https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 1:04 |
 | 32 | [Oi\-1](https://open.spotify.com/track/32mArz1WHM1MwRVOnHcge3) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 5:09 |
-| 33 | [From a Solid To a Liquid](https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 5:18 |
-| 34 | [Novelty Waves](https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:27 |
+| 33 | [Novelty Waves](https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:27 |
+| 34 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
 | 35 | [Moistened and Dried](https://open.spotify.com/track/4nNsftfbVUOj8Q9b2pUl1F) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 2:25 |
-| 36 | [Time Of Man](https://open.spotify.com/track/4O503tMZ2yqRCgE3KqFcii) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN) | 5:27 |
-| 37 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
-| 38 | [Stordjupta](https://open.spotify.com/track/4Px3C56StrFkcNsAjjJ7AQ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 3:08 |
+| 36 | [Adagiati](https://open.spotify.com/track/7sGGstyG6WbJGQnvIEI47g) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:51 |
+| 37 | [Microgravity](https://open.spotify.com/track/4SxmbfErnDroZYcn3q1x6p) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:12 |
+| 38 | [En\-Trance](https://open.spotify.com/track/3MuqxmK0A3nCyzyhrfp8Da) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 4:40 |
 | 39 | [Too Fragile to Walk On](https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 4:51 |
 | 40 | [The Old Way Was Gone](https://open.spotify.com/track/0LuW6Y4PPjz00eEhlbW0l3) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN) | 5:35 |
-| 41 | [Microgravity](https://open.spotify.com/track/4SxmbfErnDroZYcn3q1x6p) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:12 |
-| 42 | [En\-Trance](https://open.spotify.com/track/3MuqxmK0A3nCyzyhrfp8Da) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 4:40 |
+| 41 | [Stordjupta](https://open.spotify.com/track/4Px3C56StrFkcNsAjjJ7AQ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 3:08 |
+| 42 | [Decryption](https://open.spotify.com/track/0xlN3TAg9tMkuALgL0bsno) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:03 |
 | 43 | [Arafura](https://open.spotify.com/track/2yJMu2hzbQ8MQur8HwaSVV) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 5:04 |
-| 44 | [Like The End Of The World](https://open.spotify.com/track/7B61PeLH0lioSbbb0GyIiG) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN) | 6:47 |
+| 44 | [Time Of Man](https://open.spotify.com/track/4O503tMZ2yqRCgE3KqFcii) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN) | 5:27 |
 | 45 | [Kyle](https://open.spotify.com/track/4SiHAz5DhGVoMtq34Tx6JB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 1:13 |
-| 46 | [Decryption](https://open.spotify.com/track/0xlN3TAg9tMkuALgL0bsno) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:03 |
+| 46 | [Just One Kiss](https://open.spotify.com/track/54t2dTQ7ckm1BxvFsaibHZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 5:01 |
 | 47 | [In Triple Time](https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 5:50 |
-| 48 | [All Stars Have Names](https://open.spotify.com/track/5rnKYVL52r6WcOOrxyIUbR) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN) | 8:09 |
-| 49 | [Genkai\-1](https://open.spotify.com/track/6ewLQwmkpJYKaQkA4GNFtd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 6:37 |
-| 50 | [Mir](https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:18 |
+| 48 | [Like The End Of The World](https://open.spotify.com/track/7B61PeLH0lioSbbb0GyIiG) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Way Of Time](https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN) | 6:47 |
+| 49 | [Mir](https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:18 |
+| 50 | [Genkai\-1](https://open.spotify.com/track/6ewLQwmkpJYKaQkA4GNFtd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 6:37 |
 
-Snapshot ID: `ar2igAAAAAAyh7ebUvMFwU6HMqeHzAdV`
+Snapshot ID: `ar70AAAAAACypzENQ+FypWOaRmNArO1U`

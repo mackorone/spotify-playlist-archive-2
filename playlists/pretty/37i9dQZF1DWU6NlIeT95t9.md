@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future of Pakistani music ♥️ Cover: HAVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,655 likes - 85 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,669 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 700116,
+  "num_followers": 700145,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAjvwt25UsPqFcIbAZKfY7h",
+  "snapshot_id": "ar70AAAAAADC/eJyHojxFGxfkcGr8a8/",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/3toVfR6MhCCxb08Y0WJYL9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 199994,
-      "name": "Antes de Morirme - feat. ROSAL\u00cdA",
-      "url": "https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 234784,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/3toVfR6MhCCxb08Y0WJYL9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 199994,
+      "name": "Antes de Morirme - feat. ROSAL\u00cdA",
+      "url": "https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek"
     },
     {
       "added_at": null,

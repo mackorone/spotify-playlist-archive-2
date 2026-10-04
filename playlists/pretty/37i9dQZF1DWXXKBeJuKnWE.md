@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The sound of the underground\. Cover: Gurriers
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,896 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,885 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [Do What's Right \(Happy\)](https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Alone Together](https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg) | 3:11 |
 | 100 | [dull blade disguise](https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Injury Episode](https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2) | 4:23 |
 
-Snapshot ID: `AAAAACnD6C7zFvdu8vQubSHm1Os5ZUVZ`
+Snapshot ID: `AAAAAPmcwIHu8L+KpMHTns694+Ry3iSS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,333 likes - 43 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,334 likes - 43 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 42 | [Eat It Uh](https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [Eat It Uh](https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr) | 1:39 |
 | 43 | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG) | 3:24 |
 
-Snapshot ID: `ar2igAAAAAAQqfjtYLbz9/M5NLIb9u2Y`
+Snapshot ID: `ar70AAAAAAAn2M0Ch7+mtosjR5rS/gXM`

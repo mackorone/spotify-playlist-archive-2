@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906 likes - 104 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906 likes - 103 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,23 +94,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 84 | [Match Point](https://open.spotify.com/track/34U0T2a4EuIlsTIDJcFgcz) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:38 |
 | 85 | [La Meglio Gioventù](https://open.spotify.com/track/1KRTSDtOVwd4oTZ1gfzluB) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [La Meglio Gioventù](https://open.spotify.com/album/27YISdUuV8GRGMRuAvMdVz) | 3:10 |
 | 86 | [Qué es](https://open.spotify.com/track/4GKGNCzRNLVyiImJ0kRXiN) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:20 |
-| 87 | [La sfida contro il tempo](https://open.spotify.com/track/3JChn2cFbSZTtmQY4SvfOb) | [Ninna e Matti](https://open.spotify.com/artist/3ddOmMXJS1tUjF60vzU9eo) | [La sfida contro il tempo](https://open.spotify.com/album/6sNrtP2h6fSF3RvV39c0GY) | 3:04 |
-| 88 | [Cos'è](https://open.spotify.com/track/61lqeoXo5yzoYm2WBkAYEf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:20 |
-| 89 | [melodrama \- spanish version](https://open.spotify.com/track/58VNLfh2s8c0hIIyt6pSju) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama \(spanish version\)](https://open.spotify.com/album/6ZnPYFp4Kdbq0tktEyiNUZ) | 2:28 |
-| 90 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
-| 91 | [Graffiti \(feat\. Emma\)](https://open.spotify.com/track/7bXzLHaVFzhpbuM4wewmIj) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Venduti](https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF) | 3:34 |
-| 92 | [MI FIDO DI TE](https://open.spotify.com/track/3YKmi0tPQL4mpcDIvXQbUV) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [MI FIDO DI TE](https://open.spotify.com/album/2jgeoZfOlI6KCyBPvPApxz) | 3:09 |
-| 93 | [Chiedere aiuto](https://open.spotify.com/track/2O0bztgttWP5etXYEJB98A) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Chiedere aiuto](https://open.spotify.com/album/0qfb5ZB9yzHoS6koD5lw2N) | 2:33 |
-| 94 | [SE FINISSE L'AMORE](https://open.spotify.com/track/7zAub2y3CBN6flSbXHE28f) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/69mCnKvD4x8fWENzqUbGdU) | 2:46 |
-| 95 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 |
-| 96 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/3gqln1UCgcXnjG5lGQmCU1) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:03 |
-| 97 | [4:30](https://open.spotify.com/track/5Nn6eNhRdxBAOY1EbgwoA3) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:06 |
-| 98 | [CENTOMILA](https://open.spotify.com/track/4EFxaNq7V6LzMZv6dNdL2r) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 3:07 |
-| 99 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 |
-| 100 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
+| 87 | [Cos'è](https://open.spotify.com/track/61lqeoXo5yzoYm2WBkAYEf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:20 |
+| 88 | [melodrama \- spanish version](https://open.spotify.com/track/58VNLfh2s8c0hIIyt6pSju) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama \(spanish version\)](https://open.spotify.com/album/6ZnPYFp4Kdbq0tktEyiNUZ) | 2:28 |
+| 89 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
+| 90 | [Graffiti \(feat\. Emma\)](https://open.spotify.com/track/7bXzLHaVFzhpbuM4wewmIj) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Venduti](https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF) | 3:34 |
+| 91 | [MI FIDO DI TE](https://open.spotify.com/track/3YKmi0tPQL4mpcDIvXQbUV) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [MI FIDO DI TE](https://open.spotify.com/album/2jgeoZfOlI6KCyBPvPApxz) | 3:09 |
+| 92 | [Chiedere aiuto](https://open.spotify.com/track/2O0bztgttWP5etXYEJB98A) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Chiedere aiuto](https://open.spotify.com/album/0qfb5ZB9yzHoS6koD5lw2N) | 2:33 |
+| 93 | [SE FINISSE L'AMORE](https://open.spotify.com/track/7zAub2y3CBN6flSbXHE28f) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/69mCnKvD4x8fWENzqUbGdU) | 2:46 |
+| 94 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 |
+| 95 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/3gqln1UCgcXnjG5lGQmCU1) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:03 |
+| 96 | [4:30](https://open.spotify.com/track/5Nn6eNhRdxBAOY1EbgwoA3) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:06 |
+| 97 | [CENTOMILA](https://open.spotify.com/track/4EFxaNq7V6LzMZv6dNdL2r) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 3:07 |
+| 98 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 |
+| 99 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
+| 100 | [Niente Da Perdere](https://open.spotify.com/track/1hkI9llv6C123opgiGoDBj) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:21 |
 | 101 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
-| 102 | [Niente Da Perdere](https://open.spotify.com/track/1hkI9llv6C123opgiGoDBj) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:21 |
-| 103 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
-| 104 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
+| 102 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
+| 103 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 
-Snapshot ID: `Acd5rgAAAACQbzhopTFU/b4zndPnEvTF`
+Snapshot ID: `Acd/TgAAAABPhxjtJua8ucjoHHtrDvVr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,417 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,650 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 30 | [Te Juro Que Te Amo](https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Juro Que Te Amo](https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H) | 3:28 |
 | 31 | [Coleccionando Heridas](https://open.spotify.com/track/3A6JavykTX0AKvePIwxzaA) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Coleccionando Heridas](https://open.spotify.com/album/49FioVijez4ufouOFO0GOu) | 3:52 |
 | 32 | [Si Te Pudiera Mentir \- En Vivo](https://open.spotify.com/track/4QmzK1fWkPU8h23ZTf5dOH) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:03 |
-| 33 | [Eva María \- En Vivo](https://open.spotify.com/track/1CozjSifqoiO7EQCxASENG) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:56 |
-| 34 | [Para Que Seas Feliz \- Desde Mexico](https://open.spotify.com/track/2FjZ1xUf2HASAodSGlnyTw) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Para Que Seas Feliz \(Desde Mexico\)](https://open.spotify.com/album/4OpxCiCgxucjYara2UOhno) | 4:03 |
+| 33 | [Para Que Seas Feliz \- Desde Mexico](https://open.spotify.com/track/2FjZ1xUf2HASAodSGlnyTw) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Para Que Seas Feliz \(Desde Mexico\)](https://open.spotify.com/album/4OpxCiCgxucjYara2UOhno) | 4:03 |
+| 34 | [Eva María \- En Vivo](https://open.spotify.com/track/1CozjSifqoiO7EQCxASENG) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:56 |
 | 35 | [Mi Primer Día Sin Ti](https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Primer Día Sin Ti](https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5) | 3:10 |
 | 36 | [Sangoloteadito \- En Vivo](https://open.spotify.com/track/1YccRG4LRtwmfQApetIieU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:14 |
 | 37 | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 49 | [todo me vale madre](https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [todo me vale madre](https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx) | 2:56 |
 | 50 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
 
-Snapshot ID: `ar2igAAAAACJaB9wu4XI29haSkxqcutu`
+Snapshot ID: `ar70AAAAAABx6dB+A2yCH3S97HnaJkyS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 
 > sad beats for the feels 🌧️💔 when everything's a little too much
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,501 likes - 95 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,463 likes - 95 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,448 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,449 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 99 | [You, Me and The Mountains \- Live Off The Floor](https://open.spotify.com/track/3VyzVPoGB0ikZcAjWnCRdf) | [Ryan Lindsay](https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu), [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [You, Me and The Mountains \(Live Off The Floor\)](https://open.spotify.com/album/1f2GXONeh0Rbu1ETjLw9uk) | 3:48 |
 | 100 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 
-Snapshot ID: `AAAAAHWPrzHb/KOxgh4o9gFZVIx8YBiU`
+Snapshot ID: `AAAAALFWNtR/uD+M7bEph+TwuP//2nOH`

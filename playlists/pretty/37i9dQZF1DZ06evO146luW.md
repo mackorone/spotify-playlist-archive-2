@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,479 likes - 49 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,484 likes - 49 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 48 | [Never Leave](https://open.spotify.com/track/60BIPuGD04bcqHPV1qSja0) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 3:59 |
 | 49 | [Better Without You](https://open.spotify.com/track/12lagnH3LHPUHTXkQhAGph) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:21 |
 
-Snapshot ID: `ar2igAAAAAC/dO5B5smFXTF7RhUl+8IG`
+Snapshot ID: `ar70AAAAAAAck75Z2e5KVACPAUo0/zAG`

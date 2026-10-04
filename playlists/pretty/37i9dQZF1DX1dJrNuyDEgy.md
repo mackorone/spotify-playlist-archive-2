@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Tuve que salir del rancho pa poder vivir cantando, Caitime como te extraño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,015 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,034 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

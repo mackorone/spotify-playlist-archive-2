@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,657 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,663 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 49 | [Getcha Back](https://open.spotify.com/track/0gRFT4DkEpiYuSc2KlebWF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 2:59 |
 | 50 | [Wouldn’t It Be Nice](https://open.spotify.com/track/4gySZmwNJcFvVUR0SaELUK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:13 |
 
-Snapshot ID: `ar2igAAAAADJ9a+yZIzbuemH/r7uOz9X`
+Snapshot ID: `ar70AAAAAABs9vxHm4OYWm/40kdY5V2d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416 likes - 189 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 417 likes - 189 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 131 | [chaNGE](https://open.spotify.com/track/4M0M2KF95LkvfM5CFexPZb) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIVE.EVIL](https://open.spotify.com/album/2BAS4qtHxRitgAaHF4mLLR) | 1:40 |
 | 132 | [RESSURECT](https://open.spotify.com/track/5uVI3sDRqfbBL2SUzewtik) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/4Oph4YGsWzU9KAvZuuuG8z) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/6BNLRL7UHe27t2D0nw9lqV) | 2:54 |
 | 133 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 |
-| 134 | [Damaged Feelings](https://open.spotify.com/track/1uVfXaNoJicLDMEEntCKDw) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:17 |
-| 135 | [ROOM OF SMILES \(feat\. Uhmeer & Dayne Jordan\)](https://open.spotify.com/track/1IGsipdqanheKcO7iauH4u) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd), [Dayne Jordan](https://open.spotify.com/artist/3ryEOBMCxD6GPLBOL7Wzmr) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:27 |
+| 134 | [ROOM OF SMILES \(feat\. Uhmeer & Dayne Jordan\)](https://open.spotify.com/track/1IGsipdqanheKcO7iauH4u) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd), [Dayne Jordan](https://open.spotify.com/artist/3ryEOBMCxD6GPLBOL7Wzmr) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:27 |
+| 135 | [Damaged Feelings](https://open.spotify.com/track/1uVfXaNoJicLDMEEntCKDw) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:17 |
 | 136 | [CRAZY](https://open.spotify.com/track/514v7VPMH5MEy6RV6FCu7G) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 2:27 |
 | 137 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
 | 138 | [Feels CoreCore](https://open.spotify.com/track/3grRcy3rbsNz4ao4X8apku) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 188 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 189 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `Acd5mgAAAAAvyF7mezS4LodV3+GiRWSS`
+Snapshot ID: `Acd/OgAAAAChO7PdGBiWB/zWkvuau/bk`

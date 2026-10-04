@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 
 > Turn anywhere into a sing\-along party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,116 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,157 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

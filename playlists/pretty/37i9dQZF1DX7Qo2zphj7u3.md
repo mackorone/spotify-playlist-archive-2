@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Las románticas de hoy con las de siempre\. Cover: Abraham Mateo & Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,933,452 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933,460 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

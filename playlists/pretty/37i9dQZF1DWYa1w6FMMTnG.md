@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,690 likes - 83 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,259 likes - 83 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

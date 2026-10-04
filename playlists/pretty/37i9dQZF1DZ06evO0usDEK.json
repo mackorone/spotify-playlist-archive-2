@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49744,
+  "num_followers": 49742,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAC+HoBcVXckjOMnnbIJzxdO",
+  "snapshot_id": "ar70AAAAAAAH/gP9KYOBPxe+3nH4aqHf",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 436453,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 420160,
       "name": "Ballad of the Sad Young Men",
       "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 436453,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Sunday and Sister Jones",
-      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roberta Flack Featuring Donny Hathaway",
         "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 246066,
       "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Sunday and Sister Jones",
+      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quiet Fire",
         "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
@@ -743,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm the One",
-        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
       },
       "artists": [
         {
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 238506,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
+      "duration_ms": 212840,
+      "name": "And so It Goes",
+      "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 271640,
       "name": "Can We Find Love Again",
       "url": "https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "And so It Goes",
-      "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Love",
-        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
-      },
-      "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "I Just Came Here To Dance",
-      "url": "https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live & More",
         "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 570800,
       "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
       "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Love",
+        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+      },
+      "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "I Just Came Here To Dance",
+      "url": "https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL"
     },
     {
       "added_at": null,

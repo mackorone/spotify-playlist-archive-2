@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,613 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,617 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Rescue](https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 5:19 |
 | 50 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
 
-Snapshot ID: `ar2igAAAAADpRt//WeDMgKIdWajcTJbS`
+Snapshot ID: `ar70AAAAAACT6tH017lUrz0BjETeeKsx`

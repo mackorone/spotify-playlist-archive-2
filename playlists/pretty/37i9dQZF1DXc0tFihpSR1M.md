@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,600 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,592 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

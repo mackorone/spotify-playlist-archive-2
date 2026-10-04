@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > Al mil para entrenar sin parar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,551 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,584 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

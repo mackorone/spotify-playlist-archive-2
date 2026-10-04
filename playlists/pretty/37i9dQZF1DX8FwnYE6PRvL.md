@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 
 > The ultimate rock party playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,781,094 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,781,220 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 99 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
 | 100 | [Banquet](https://open.spotify.com/track/4juzduULFJiZVIcrC1tkxE) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/1VpqO2dBJdAS3YAimXlhEM) | 3:21 |
 
-Snapshot ID: `AAAAACVWwYor0aB1fZo+LV8QUEtUPF5R`
+Snapshot ID: `AAAAAFLh+ibtTwzOMQBs0oPTUIbPnJhR`

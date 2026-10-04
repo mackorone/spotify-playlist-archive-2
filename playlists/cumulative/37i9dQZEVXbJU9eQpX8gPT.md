@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,175 songs - 4 day 21 hr 40 min
+2,176 songs - 4 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-21 | 2024-03-20 |
 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 | 2024-03-19 |  |
 | [3iytou Lbouliss](https://open.spotify.com/track/5JuxnGT8mSP7olUSx6w6ET) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/398Fh5aL7eVdWRNosUR6pm) | 2:29 | 2021-05-23 | 2021-06-06 |
-| [3oud Ned](https://open.spotify.com/track/2QNi63loCz71LN8MnK38db) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [3oud Ned](https://open.spotify.com/album/7nzIgE8K3tivGiXYI18lvL) | 3:30 | 2024-10-02 |  |
+| [3oud Ned](https://open.spotify.com/track/2QNi63loCz71LN8MnK38db) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [3oud Ned](https://open.spotify.com/album/7nzIgE8K3tivGiXYI18lvL) | 3:30 | 2024-10-02 | 2026-10-04 |
 | [3VN](https://open.spotify.com/track/5YLsHxD1Pb6Vvk9QYPC2ch) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 2:33 | 2022-01-29 | 2022-02-02 |
 | [3yan](https://open.spotify.com/track/7gDnXDzGXDunxMOkfsEzLS) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 2:27 | 2021-08-01 | 2021-08-14 |
 | [5 STAR](https://open.spotify.com/track/5LUMggX4PsqW6MFaQW1GW8) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:42 | 2026-05-23 | 2026-10-02 |
@@ -70,6 +70,7 @@
 | [7ELMET ADO 7](https://open.spotify.com/track/4DyKrsE5szRRY1RI5RPnNu) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [7ELMET ADO 7](https://open.spotify.com/album/6DmsYnrT4mzhW1lb9eUBnm) | 8:00 | 2025-12-28 | 2026-02-05 |
 | [7elmetAdo 6](https://open.spotify.com/track/3zwyy5k02gQJ6QjA2S78qE) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [7elmetAdo 6](https://open.spotify.com/album/7taTjootisSbnt336bke3d) | 7:42 | 2023-01-01 | 2023-01-10 |
 | [7jab](https://open.spotify.com/track/6kyMIEOOPOb9NAbHid5I5B) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 3:04 | 2022-05-28 | 2022-05-30 |
+| [7OLM KBIR](https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [7OLM KBIR](https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF) | 3:37 | 2026-10-03 |  |
 | [7YATI](https://open.spotify.com/track/2P9o39lTzv5Ot1rmRaVMrs) | [Ridouane.officiel1](https://open.spotify.com/artist/6CWdfBwZpsPKVYzIZucTKG) | [7YATI](https://open.spotify.com/album/6jeqpxMp1ODiZ6hdZXpeGk) | 2:35 | 2023-10-17 | 2023-10-19 |
 | [999](https://open.spotify.com/track/1z5GERONTAixk3yYhxMyg3) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:14 | 2023-01-07 | 2023-01-19 |
 | [999](https://open.spotify.com/track/6byhaAmWs8DEL8veyvFXnO) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:14 | 2023-01-08 | 2023-01-10 |
@@ -295,7 +296,7 @@
 | [Bola](https://open.spotify.com/track/3BOo2w8IGRHAgVrTLPEkLg) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [DEIMI](https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 3:35 | 2025-09-13 | 2025-09-19 |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-04-28 | 2024-09-03 |
 | [Bombonera](https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 3:31 | 2025-06-07 | 2025-06-11 |
-| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-06-28 |  |
+| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-06-28 | 2026-10-04 |
 | [Bonne année](https://open.spotify.com/track/6H2GjPvnzQp3SeSD3ATQQk) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Nessun Dorma](https://open.spotify.com/album/3P3HOG65MAutJUYkKfByN9) | 3:09 | 2021-07-04 | 2021-07-15 |
 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 | 2024-07-27 | 2024-10-23 |
 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 | 2025-12-20 | 2026-05-24 |
@@ -1393,7 +1394,7 @@
 | [Nifi](https://open.spotify.com/track/1BhnBaTsEXx7AddmTJgHvI) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:24 | 2022-01-29 | 2022-01-31 |
 | [NIKEY](https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 4:33 | 2024-02-10 | 2024-11-05 |
 | [NINAO](https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3) | 2:47 | 2025-02-27 | 2025-08-20 |
-| [NINJA \(feat\. GIMS\)](https://open.spotify.com/track/5JSDLfkAEYMm0DeYNqQd5e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SALGOAT \(Vol\. 2 \- Extension\)](https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g) | 3:06 | 2026-06-27 | 2026-09-20 |
+| [NINJA \(feat\. GIMS\)](https://open.spotify.com/track/5JSDLfkAEYMm0DeYNqQd5e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SALGOAT \(Vol\. 2 \- Extension\)](https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g) | 3:06 | 2026-06-27 |  |
 | [Niya](https://open.spotify.com/track/7raUFkCEhCAuizf45DLu0Q) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/398Fh5aL7eVdWRNosUR6pm) | 3:20 | 2021-05-23 | 2021-05-25 |
 | [Niya \(feat\. ElGrandeToto\)](https://open.spotify.com/track/1gOnmylQfRosw6DLJff6af) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Intégral 2 \#POV](https://open.spotify.com/album/1Pp29brafMioAYDYXJSM1D) | 3:12 | 2023-06-25 | 2023-11-29 |
 | [Niya \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3OaHQoMlGe9jnk12UNEvJd) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Niya \(feat\. ElGrandeToto\)](https://open.spotify.com/album/6r9TDL8g5fBwFPCwFqgvc9) | 3:12 | 2023-06-17 | 2023-06-26 |

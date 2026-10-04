@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,587 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,695 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 2 | [Di Que Sí](https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:10 |
 | 3 | [El Mayor de los Ranas \- En Vivo](https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7) | 2:54 |
 | 4 | [El Rescate](https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin) | 2:34 |
-| 5 | [Cero Miedo](https://open.spotify.com/track/45ehHeg9Kr5ZK3sFRnbjOv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Cero Miedo](https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK) | 2:24 |
+| 5 | [Si Fuera Fácil](https://open.spotify.com/track/0c8Jj4m8nORPaOSpcr5gx0) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/5QHkQIUSlHrdunxUefdVYd) | 2:50 |
 | 6 | [El Doctor](https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA) | 3:54 |
-| 7 | [Si Fuera Fácil](https://open.spotify.com/track/0c8Jj4m8nORPaOSpcr5gx0) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/5QHkQIUSlHrdunxUefdVYd) | 2:50 |
+| 7 | [Cero Miedo](https://open.spotify.com/track/45ehHeg9Kr5ZK3sFRnbjOv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Cero Miedo](https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK) | 2:24 |
 | 8 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
 | 9 | [Solo Me Dejaste](https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5) | 3:06 |
 | 10 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 15 | [A ti](https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [On fire](https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8) | 2:47 |
 | 16 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
 | 17 | [Adicto A Ti](https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Adicto A Ti](https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ) | 2:18 |
-| 18 | [Chamán](https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Chamán](https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi) | 2:47 |
-| 19 | [El Comerciante](https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW) | 4:05 |
+| 18 | [El Comerciante](https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW) | 4:05 |
+| 19 | [Chamán](https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Chamán](https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi) | 2:47 |
 | 20 | [Bling Bling](https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Bling Bling](https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy) | 2:42 |
 | 21 | [La Vida Ruina \(feat\. Ariel Camacho\)](https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [La Vida Ruina \(Version Deluxe\)](https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb) | 3:33 |
 | 22 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 49 | [El Veintitantos](https://open.spotify.com/track/4G5JHiDWJFQQikkoWR6Ujw) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA) | 2:47 |
 | 50 | [Duele Tu Abandono \- En Vivo](https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan) | 3:46 |
 
-Snapshot ID: `ar2igAAAAABFl/IcW1YCWGLgzxyQlBAN`
+Snapshot ID: `ar70AAAAAADDh/GrMGl2bJyrYBHRImkE`

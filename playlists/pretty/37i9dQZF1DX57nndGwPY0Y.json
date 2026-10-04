@@ -1,13 +1,77 @@
 {
   "description": "Today's R&B hits only. Music videos only available on Premium.",
-  "num_followers": 6024,
+  "num_followers": 6055,
   "original_name": "R&B Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGBUSDFZ8c/Fe0NUbAcKXXAeaEQY",
+  "snapshot_id": "AAAAANV3VyxFEHl5AgEkvBkazvXoKyDu",
   "tracks": [
+    {
+      "added_at": "2026-06-28 23:57:33",
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 182257,
+      "name": "risk it all",
+      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
+    },
+    {
+      "added_at": "2026-07-27 23:19:48",
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
+    },
+    {
+      "added_at": "2026-10-03 05:11:43",
+      "album": {
+        "name": "options",
+        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 212131,
+      "name": "options",
+      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
+    },
+    {
+      "added_at": "2026-09-04 03:54:46",
+      "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 165558,
+      "name": "TABOO",
+      "url": "https://open.spotify.com/track/4vkXnpiy4sI4nNfb07TZR7"
+    },
     {
       "added_at": "2026-09-04 03:54:46",
       "album": {
@@ -25,6 +89,38 @@
       "url": "https://open.spotify.com/track/4LBVzZBuJoDyHK8xYHxpGF"
     },
     {
+      "added_at": "2026-05-20 15:48:09",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2026-06-21 21:01:35",
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+    },
+    {
       "added_at": "2026-09-04 03:54:46",
       "album": {
         "name": "For A Good Time...",
@@ -39,22 +135,6 @@
       "duration_ms": 228348,
       "name": "After The Club",
       "url": "https://open.spotify.com/track/5sy9yiJcr7XzxBMRdYeAcv"
-    },
-    {
-      "added_at": "2026-07-27 23:19:48",
-      "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
     },
     {
       "added_at": "2026-09-04 03:54:46",
@@ -75,70 +155,6 @@
       "duration_ms": 207085,
       "name": "Alive (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4LMRZo0fJ9UcfvVqvsn6CY"
-    },
-    {
-      "added_at": "2026-06-28 23:57:33",
-      "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 182257,
-      "name": "risk it all",
-      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
-    },
-    {
-      "added_at": "2026-09-04 03:54:46",
-      "album": {
-        "name": "LVRS PARADISE (SIDE B)",
-        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 165558,
-      "name": "TABOO",
-      "url": "https://open.spotify.com/track/4vkXnpiy4sI4nNfb07TZR7"
-    },
-    {
-      "added_at": "2026-06-21 21:01:35",
-      "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
-    },
-    {
-      "added_at": "2026-05-20 15:48:09",
-      "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2026-07-24 04:26:22",

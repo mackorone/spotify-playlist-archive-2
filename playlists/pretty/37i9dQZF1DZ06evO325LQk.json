@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACb4/2o9ISWKBDpkeo8iuld",
+  "snapshot_id": "ar70AAAAAADsCV1qLFTR+VS0XnPFfFk7",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VYZEE",
         "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 202531,
       "name": "VYZEE",
       "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": null,
@@ -247,26 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+        "name": "MSMSMSM",
+        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
       },
       "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "BC Kingdom",
-          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
         }
       ],
-      "duration_ms": 232374,
-      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
-      "url": "https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo"
+      "duration_ms": 215628,
+      "name": "MSMSMSM",
+      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
     },
     {
       "added_at": null,
@@ -303,18 +295,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MSMSMSM",
-        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
         }
       ],
-      "duration_ms": 215628,
-      "name": "MSMSMSM",
-      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
+      "duration_ms": 232374,
+      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+      "url": "https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 281636,
-      "name": "Eeehhh",
-      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Go Down",
         "url": "https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 146069,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 281636,
+      "name": "Eeehhh",
+      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "BC Kingdom",
-          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
-        }
-      ],
-      "duration_ms": 251189,
-      "name": "Pony Whip",
-      "url": "https://open.spotify.com/track/1ORL2w9mpbWLUT6lHcqOgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunscreen",
         "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
       },
@@ -663,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
+        }
+      ],
+      "duration_ms": 251189,
+      "name": "Pony Whip",
+      "url": "https://open.spotify.com/track/1ORL2w9mpbWLUT6lHcqOgs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
         }
       ],
-      "duration_ms": 215021,
-      "name": "Berlin Nightmare (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
+      "duration_ms": 117010,
+      "name": "Gallop (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
       "duration_ms": 303800,
       "name": "WONDERFUL LOVE",
       "url": "https://open.spotify.com/track/4nBJYU9oQsbXjuFhXOQHjM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 191949,
-      "name": "XTC Acid",
-      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 191949,
+      "name": "XTC Acid",
+      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
         }
       ],
-      "duration_ms": 117010,
-      "name": "Gallop (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
+      "duration_ms": 215021,
+      "name": "Berlin Nightmare (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Miranda Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,234 likes - 125 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,386 likes - 125 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 42393,
+  "num_followers": 42395,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACFPeKEleqbLJjhCMPSwooV",
+  "snapshot_id": "ar70AAAAAACARXDNEm6hIA4Ko0BNfSJX",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,30 @@
       "duration_ms": 420674,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/3qMZllzbXn78eELMyhAdDv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gord\u00e3o Chefe",
+        "url": "https://open.spotify.com/album/1M8Mm44LHgr2I1ETApqAHt"
+      },
+      "artists": [
+        {
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        }
+      ],
+      "duration_ms": 331776,
+      "name": "Sinto Muito Baby",
+      "url": "https://open.spotify.com/track/5dWnzsv1zr2H7howC8wKKV"
     },
     {
       "added_at": null,

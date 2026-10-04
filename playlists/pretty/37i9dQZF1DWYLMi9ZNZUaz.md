@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,423 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,455 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

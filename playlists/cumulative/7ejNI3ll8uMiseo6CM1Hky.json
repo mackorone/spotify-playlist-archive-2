@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Endacopia Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/3deWubBeE8hYy2uqPXfHJT"
+      },
+      "artists": [
+        {
+          "name": "Packtion",
+          "url": "https://open.spotify.com/artist/716MXSsG0WrqmDfj8yv5ja"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68802,
+      "name": "Codetalker",
+      "url": "https://open.spotify.com/track/6i7ICv9BcNzi2yZpfetZdT"
+    },
+    {
+      "album": {
         "name": "Cotton Candy",
         "url": "https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE"
       },

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,848 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,883 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
 | 2 | [TU TU TU](https://open.spotify.com/track/0L5gbpFGU06vqSHacOxgka) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:31 |
-| 3 | [Rey León](https://open.spotify.com/track/5ikzjvLe1zsAJkgimIz1ev) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:07 |
-| 4 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
+| 3 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
+| 4 | [Rey León](https://open.spotify.com/track/5ikzjvLe1zsAJkgimIz1ev) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:07 |
 | 5 | [El Ruddy](https://open.spotify.com/track/0WRDEEv5z9DMmKECGxBK2b) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:03 |
 | 6 | [Te Amo](https://open.spotify.com/track/7lTBFudN674Thpm376zGuV) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/1b8glbu39phYQ6HZ3gCWea) | 3:13 |
 | 7 | [Eres Veneno](https://open.spotify.com/track/3K6Ihg1zWhhPwiiT3p1Mw7) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Expansión](https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf) | 2:05 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 13 | [Muchachita De Ojos Tristes \- En Vivo](https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:44 |
 | 14 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 |
 | 15 | [No Quiero Perderte](https://open.spotify.com/track/3kuQmp8Y0DNBjGAgawhnT8) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/7dsHqJqqvS4IY7XMAfk4pG) | 2:39 |
-| 16 | [Pideme la Luna](https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 2:47 |
-| 17 | [El De Las Mieles](https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0) | 3:25 |
+| 16 | [El De Las Mieles](https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0) | 3:25 |
+| 17 | [Pideme la Luna](https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 2:47 |
 | 18 | [Los Principios](https://open.spotify.com/track/1THb7Ne4qeAhbbKRqmQcBA) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Queridos Amigos](https://open.spotify.com/album/4uqLBrLJJC5Sd3N9LGs1Fz) | 2:53 |
 | 19 | [Ciudad Peligrosa](https://open.spotify.com/track/6sI3A0IW1QN6gyrMtEaoQu) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ciudad Peligrosa](https://open.spotify.com/album/1F5GpSmnkJrhzBYSjCCbPW) | 3:46 |
 | 20 | [Mujeron](https://open.spotify.com/track/242nrMqGE5rtGaje4N51fc) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR) | 3:26 |
 | 50 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 |
 
-Snapshot ID: `ar2igAAAAAArb1YvTujO3vse182dfDWB`
+Snapshot ID: `ar70AAAAAACt/beN241633aOM8TmG3y/`

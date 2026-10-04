@@ -5,6 +5,78 @@
   "tracks": [
     {
       "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40554,
+      "name": "$horty skit",
+      "url": "https://open.spotify.com/track/76rR9qYDP4URqNADQMR0Pg"
+    },
+    {
+      "album": {
+        "name": "1 Leben lang",
+        "url": "https://open.spotify.com/album/6EZ4IsdnEBIPCHiiE8nTxI"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138972,
+      "name": "1 Leben lang",
+      "url": "https://open.spotify.com/track/6eesOIdqCyLWF7j8iSUOKS"
+    },
+    {
+      "album": {
+        "name": "1 Leben lang (Bundle)",
+        "url": "https://open.spotify.com/album/1tTcsnkZUyxxFwGSU2qWMR"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139011,
+      "name": "1 Leben lang - matheas fav",
+      "url": "https://open.spotify.com/track/0XDDDIdjZi1ZQIvPHhjbk2"
+    },
+    {
+      "album": {
+        "name": "1 Leben lang (Bundle)",
+        "url": "https://open.spotify.com/album/1tTcsnkZUyxxFwGSU2qWMR"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136007,
+      "name": "1 Leben lang - sped up",
+      "url": "https://open.spotify.com/track/1C763eXCbCO2PR7iHWXgEH"
+    },
+    {
+      "album": {
         "name": "SCHERBENHAUS",
         "url": "https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M"
       },
@@ -99,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Aguilera Christina",
+        "url": "https://open.spotify.com/album/4SKWxTdvlXcFXbH4NeKRTB"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "Aguilera Christina",
+      "url": "https://open.spotify.com/track/3ySIm2Y0PMfkJCwHPOQykL"
+    },
+    {
+      "album": {
         "name": "traence",
         "url": "https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE"
       },
@@ -114,6 +204,24 @@
       "duration_ms": 185066,
       "name": "All white",
       "url": "https://open.spotify.com/track/3o4DCIy3KGlRLjqbNwJhD3"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143130,
+      "name": "ALLEIN",
+      "url": "https://open.spotify.com/track/1NdsWLtQVYABhM72vF3oit"
     },
     {
       "album": {
@@ -269,6 +377,24 @@
     },
     {
       "album": {
+        "name": "birds",
+        "url": "https://open.spotify.com/album/5c8ZviKZol2R0Ce2h5uO33"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "birds",
+      "url": "https://open.spotify.com/track/3aTBITPIwTfsqI8y1dbwOj"
+    },
+    {
+      "album": {
         "name": "KULT",
         "url": "https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz"
       },
@@ -284,6 +410,24 @@
       "duration_ms": 222727,
       "name": "BLU RAY",
       "url": "https://open.spotify.com/track/3eI25pZPGVisbHUcGc8zqq"
+    },
+    {
+      "album": {
+        "name": "DONT TRY THIS AT HOME",
+        "url": "https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102631,
+      "name": "BOOK BAG",
+      "url": "https://open.spotify.com/track/4SnqrWUQ6Ii2Bwe9ArKxoh"
     },
     {
       "album": {
@@ -575,6 +719,28 @@
     },
     {
       "album": {
+        "name": "DONT TRY THIS AT HOME",
+        "url": "https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        },
+        {
+          "name": "idolinjo",
+          "url": "https://open.spotify.com/artist/7slJ8mgbVwvyPEzQMJ5qYO"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "FRONTPAGE",
+      "url": "https://open.spotify.com/track/7fb3D6aVEIU6P5L6J8oUxQ"
+    },
+    {
+      "album": {
         "name": "Fussballer \u26bd\ufe0f",
         "url": "https://open.spotify.com/album/0vY4PEsfG24NoCi71jLpY7"
       },
@@ -685,6 +851,28 @@
     },
     {
       "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Tom Hengst",
+          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156399,
+      "name": "GERMAN DREAM",
+      "url": "https://open.spotify.com/track/1dI7p6eKrifseIDC0isY7L"
+    },
+    {
+      "album": {
         "name": "Gesagt Getan",
         "url": "https://open.spotify.com/album/0IeJq03H8GLnjmnQYX9CIB"
       },
@@ -722,6 +910,24 @@
       "duration_ms": 164147,
       "name": "GHETTO GOSPEL",
       "url": "https://open.spotify.com/track/5nMDsxrWNZsJ61qdTzm7OG"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157673,
+      "name": "GIRLS NIGHT",
+      "url": "https://open.spotify.com/track/3XGyzbloYVg9rWO2anCbeE"
     },
     {
       "album": {
@@ -833,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Halleluja",
+      "url": "https://open.spotify.com/track/4Fkx5o8Im6eS4IQ2P4scPb"
+    },
+    {
+      "album": {
         "name": "Bossbaby Tape",
         "url": "https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq"
       },
@@ -848,6 +1072,42 @@
       "duration_ms": 126153,
       "name": "Hart gehen ohne Grund",
       "url": "https://open.spotify.com/track/4zST3MYTa3Mj31aMyhLUel"
+    },
+    {
+      "album": {
+        "name": "DONT TRY THIS AT HOME",
+        "url": "https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109654,
+      "name": "HASS ODER LIEB ES",
+      "url": "https://open.spotify.com/track/1eUhtQgwyWRZZeTSWogny5"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190206,
+      "name": "HATER",
+      "url": "https://open.spotify.com/track/4khKHse9TmZ8fGs5aUyAZg"
     },
     {
       "album": {
@@ -870,6 +1130,32 @@
       "duration_ms": 172120,
       "name": "Hier oben",
       "url": "https://open.spotify.com/track/2sBcWePtEzOXMzdvJIiLYn"
+    },
+    {
+      "album": {
+        "name": "Ich falle in Frieden (Deluxe)",
+        "url": "https://open.spotify.com/album/4FqZDl238SgxOnB2JD30RI"
+      },
+      "artists": [
+        {
+          "name": "Gianni Suave",
+          "url": "https://open.spotify.com/artist/1krJvMu9OkhIxX5cMoZGLb"
+        },
+        {
+          "name": "Ramzey",
+          "url": "https://open.spotify.com/artist/4LiSTXiV4QgUW5ZmJMaAm5"
+        },
+        {
+          "name": "Tom Hengst",
+          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Hoch",
+      "url": "https://open.spotify.com/track/46J1w8OPUxruyaNPGNvt81"
     },
     {
       "album": {
@@ -906,6 +1192,46 @@
       "duration_ms": 166344,
       "name": "HOMERUN",
       "url": "https://open.spotify.com/track/1EuMOnjaKu5mK9sGmTuMIV"
+    },
+    {
+      "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "Igotthisfeeling",
+      "url": "https://open.spotify.com/track/4WQpuOW1vyL1nfqZAUud74"
+    },
+    {
+      "album": {
+        "name": "DONT TRY THIS AT HOME",
+        "url": "https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145975,
+      "name": "INTERLUDE",
+      "url": "https://open.spotify.com/track/0b5pVfha6s9naqBeZUJnjB"
     },
     {
       "album": {
@@ -953,6 +1279,42 @@
     },
     {
       "album": {
+        "name": "Kaltblut",
+        "url": "https://open.spotify.com/album/6F2WmbKGPC2NQCtogZe2rY"
+      },
+      "artists": [
+        {
+          "name": "Bambita",
+          "url": "https://open.spotify.com/artist/5VRTu30WwBk1CacbGruYWT"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Kaltblut",
+      "url": "https://open.spotify.com/track/7FBPhx8xt7R5iKPUpO1omc"
+    },
+    {
+      "album": {
+        "name": "traence",
+        "url": "https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160653,
+      "name": "Kann nicht warten",
+      "url": "https://open.spotify.com/track/1QBEj0mG8w2Dg0yxGlWdF8"
+    },
+    {
+      "album": {
         "name": "Bis Hierher",
         "url": "https://open.spotify.com/album/6AuAIsbkZUFcASEPVG744R"
       },
@@ -986,6 +1348,28 @@
       "duration_ms": 126147,
       "name": "Knacks",
       "url": "https://open.spotify.com/track/3ybjum625F3vjuMJZzfQ5T"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138224,
+      "name": "KOMM N\u00c4HER",
+      "url": "https://open.spotify.com/track/6AyMpyLG4LUHniExd4hRZc"
     },
     {
       "album": {
@@ -1097,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4SJlI83lQrhKAQG53uobmU"
+    },
+    {
+      "album": {
         "name": "Bossbaby Tape",
         "url": "https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq"
       },
@@ -1187,6 +1593,28 @@
     },
     {
       "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106373,
+      "name": "MILLIES",
+      "url": "https://open.spotify.com/track/0L7pC2UBcxH0vQDvBeygMQ"
+    },
+    {
+      "album": {
         "name": "Moneyfeen",
         "url": "https://open.spotify.com/album/2h0BSzn8CrAUCYENsGpbFI"
       },
@@ -1206,6 +1634,46 @@
       "duration_ms": 159000,
       "name": "Moneyfeen",
       "url": "https://open.spotify.com/track/0AuQf2tbJaP5gNw6xVUtc0"
+    },
+    {
+      "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197506,
+      "name": "Motte",
+      "url": "https://open.spotify.com/track/2GMODpP7Gm5vI1upzdRnCz"
+    },
+    {
+      "album": {
+        "name": "Motte - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3X0i9hsZ5bGKTwnEdQ3401"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194632,
+      "name": "Motte - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/59M3Xo9vAqydNkaEwBYtO9"
     },
     {
       "album": {
@@ -1445,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100773,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1ldGKrswcYHf1dVrIQEhqF"
+    },
+    {
+      "album": {
         "name": "Party in Billstedt",
         "url": "https://open.spotify.com/album/2MiojjDyzx8gOcJWQ24tqS"
       },
@@ -1521,6 +2007,132 @@
     },
     {
       "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105394,
+      "name": "prelude allein",
+      "url": "https://open.spotify.com/track/5cuNuLsvZ8gQNFtAwxqYGe"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28383,
+      "name": "prelude german dream",
+      "url": "https://open.spotify.com/track/01evqoqXak7CRQfusYyKff"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14112,
+      "name": "prelude girls night",
+      "url": "https://open.spotify.com/track/5ee8yJCvuureS0rSQDJywm"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53482,
+      "name": "prelude komm n\u00e4her",
+      "url": "https://open.spotify.com/track/2NjDjsLx26IeQWZtXbmT7L"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31846,
+      "name": "prelude rich bitch",
+      "url": "https://open.spotify.com/track/3du0roc5SYpqGzxMJCzxUE"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149586,
+      "name": "PREMIUM CHAYA",
+      "url": "https://open.spotify.com/track/3JmFFDkQ91JCesqIKzYkDl"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45654,
+      "name": "premium outro",
+      "url": "https://open.spotify.com/track/71sUd2pvKNxpDteulxtgcC"
+    },
+    {
+      "album": {
         "name": "SCHERBENHAUS",
         "url": "https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M"
       },
@@ -1543,6 +2155,28 @@
     },
     {
       "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "Regentage",
+      "url": "https://open.spotify.com/track/5PzxDjckViRSIthxbO66VT"
+    },
+    {
+      "album": {
         "name": "Cold Exposure",
         "url": "https://open.spotify.com/album/1J1k0DkFsty571I4H8ee0H"
       },
@@ -1558,6 +2192,42 @@
       "duration_ms": 140307,
       "name": "Rendevouz",
       "url": "https://open.spotify.com/track/2hdRHsfNsiZThDXFLA1BOT"
+    },
+    {
+      "album": {
+        "name": "DONT TRY THIS AT HOME",
+        "url": "https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "RIC FLAIR",
+      "url": "https://open.spotify.com/track/3Yhkz4n2VyWHijaZSJMC88"
+    },
+    {
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148469,
+      "name": "RICH BITCH",
+      "url": "https://open.spotify.com/track/0KwDfeMNRdw6h8fZVma1Ef"
     },
     {
       "album": {
@@ -1655,6 +2325,32 @@
     },
     {
       "album": {
+        "name": "Seite an Seite",
+        "url": "https://open.spotify.com/album/56he14BpKsirM76ZLonOa1"
+      },
+      "artists": [
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210418,
+      "name": "Seite an Seite",
+      "url": "https://open.spotify.com/track/7FwiW63H6Ului0e2nDhlkc"
+    },
+    {
+      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/5MfLxCDK86zZkjz1b15VLL"
       },
@@ -1717,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151706,
+      "name": "So weit weg (Molek\u00fcl)",
+      "url": "https://open.spotify.com/track/4zM3hlAbAOIjDn4rawv9XM"
+    },
+    {
+      "album": {
         "name": "traence",
         "url": "https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE"
       },
@@ -1750,6 +2464,24 @@
       "duration_ms": 217156,
       "name": "Some2Prove / Tea Time",
       "url": "https://open.spotify.com/track/3Njm5IIFsj6wMh4kRkabgc"
+    },
+    {
+      "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140813,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/6xEa5BXEjrJrJoztiYNnCs"
     },
     {
       "album": {
@@ -1807,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "DONT TRY THIS AT HOME",
+        "url": "https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125507,
+      "name": "STOP",
+      "url": "https://open.spotify.com/track/10wN7VGTQH6EyFTtc6Jquk"
+    },
+    {
+      "album": {
         "name": "SCHERBENHAUS",
         "url": "https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M"
       },
@@ -1826,6 +2576,24 @@
       "duration_ms": 185776,
       "name": "Strasse brennt",
       "url": "https://open.spotify.com/track/5JFLVMxSuepBp8O4oL8nHj"
+    },
+    {
+      "album": {
+        "name": "sum2prove",
+        "url": "https://open.spotify.com/album/1qEOjUnBtxpxgcQHpRUGLT"
+      },
+      "artists": [
+        {
+          "name": "Joje",
+          "url": "https://open.spotify.com/artist/2S6bNoFLN4xiDSoEHlPE3s"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91200,
+      "name": "sum2prove",
+      "url": "https://open.spotify.com/track/1q7IYCxubbwfV282bpcK9H"
     },
     {
       "album": {
@@ -2033,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143373,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/5xQti0eelxFmlIsFkwoast"
+    },
+    {
+      "album": {
         "name": "Vorbei",
         "url": "https://open.spotify.com/album/0tJQ5qWoPH5wrUCx24OUQY"
       },
@@ -2157,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140771,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/72tfgwu0AurwnMyhpxOK4c"
+    },
+    {
+      "album": {
         "name": "SCHERBENHAUS",
         "url": "https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M"
       },
@@ -2176,6 +2980,24 @@
       "duration_ms": 148836,
       "name": "Wir gehen rein!",
       "url": "https://open.spotify.com/track/4ZwiWNSqJiKdUZC4Afqmob"
+    },
+    {
+      "album": {
+        "name": "work life balance",
+        "url": "https://open.spotify.com/album/20NecpMT468TQi84dtSMYM"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147925,
+      "name": "work life balance",
+      "url": "https://open.spotify.com/track/0wjnOT3bQwMD752qIAn2W5"
     },
     {
       "album": {
@@ -2242,6 +3064,24 @@
       "duration_ms": 137601,
       "name": "ZAHLTAG",
       "url": "https://open.spotify.com/track/4iIHvqwjvL4MW2KDmatV0H"
+    },
+    {
+      "album": {
+        "name": "Zwilling",
+        "url": "https://open.spotify.com/album/2kZQkjTic3M1mG1dVIB0Av"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104709,
+      "name": "Zwilling",
+      "url": "https://open.spotify.com/track/28eswYbPQEl1dCvxz5lWQc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFItw315L6Cwi"

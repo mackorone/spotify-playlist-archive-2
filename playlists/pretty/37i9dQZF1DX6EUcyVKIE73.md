@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,431 likes - 50 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,439 likes - 50 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,433 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,462 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

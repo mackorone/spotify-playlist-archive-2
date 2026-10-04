@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 
 > This is Tems\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,419 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,483 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 | 29 | [Mine](https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:40 |
 | 30 | [Avoid Things](https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:44 |
 | 31 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
-| 32 | [MOVE \(feat\. Grace Jones & Tems\)](https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:23 |
+| 32 | [Interference](https://open.spotify.com/track/5Bngj85IUf1HrAWGhMAwRn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:55 |
 | 33 | [I'm Not Sure](https://open.spotify.com/track/7jHpwhLjUpeyHnMtGXySnJ) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:17 |
-| 34 | [Interference](https://open.spotify.com/track/5Bngj85IUf1HrAWGhMAwRn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:55 |
+| 34 | [MOVE \(feat\. Grace Jones & Tems\)](https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:23 |
 | 35 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
 | 36 | [Mr Rebel](https://open.spotify.com/track/4SYnhnD6V2sqa6Zc0SsGlq) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Mr Rebel](https://open.spotify.com/album/5j85aoLtCfduYh17a2Evlr) | 3:56 |
 | 37 | [You Get Me](https://open.spotify.com/track/7AeyaupKxGgxfpXH6lVVdE) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:27 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 | 42 | [Too Bad](https://open.spotify.com/track/1YVBEEDyXlWHOrZCgbSsot) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 3:55 |
 | 43 | [No Woman No Cry](https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 |
 | 44 | [Good Time](https://open.spotify.com/track/39uiJ40PjYT9TZTtwGOYcR) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Enjoy Your Life](https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL) | 3:16 |
-| 45 | [Soon](https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Blackmagic Version 3.0 \(Starving Artist\)](https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5) | 3:04 |
+| 45 | [Peace](https://open.spotify.com/track/45f0EfCC7vMYIXnoQtjP6K) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Mirage](https://open.spotify.com/album/4tzbxDfUjflwTUB58jPlqI) | 3:14 |
 | 46 | [Tales By Moonlight](https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 2:48 |
-| 47 | [Peace](https://open.spotify.com/track/45f0EfCC7vMYIXnoQtjP6K) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Mirage](https://open.spotify.com/album/4tzbxDfUjflwTUB58jPlqI) | 3:14 |
+| 47 | [Soon](https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Blackmagic Version 3.0 \(Starving Artist\)](https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5) | 3:04 |
 | 48 | [Falling](https://open.spotify.com/track/14AZvDYPvlYIGYAFC3GU0F) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [T.A.P \(Talk About Poe\)](https://open.spotify.com/album/3DlhJ97XCthypfMPdgb3Mx) | 3:12 |
 | 49 | [Trouble](https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7) | [DRB Lasgidi](https://open.spotify.com/artist/5jypR313fdSfpa6y1GMLqZ), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Pioneers](https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv) | 3:14 |
 | 50 | [Decided](https://open.spotify.com/track/0imwtLGiD7fCyWq7SpslPl) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Decided](https://open.spotify.com/album/3Ws47GZEN8ZZbfrVSSZev4) | 3:00 |
 
-Snapshot ID: `ar2igAAAAABJDsMT01YXVJoLzPkeXAto`
+Snapshot ID: `ar70AAAAAACVK2NFT3RztcBrZ422p+TA`

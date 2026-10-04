@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by Arab artists\. Cover: Nadine El Roubi
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,396 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,394 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

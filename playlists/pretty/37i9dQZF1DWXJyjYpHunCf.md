@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,081 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,093 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

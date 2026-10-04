@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,899 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,900 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 34 | [Mechanised Swaggie](https://open.spotify.com/track/4UEmxVxIln6Lcpk5NxljFx) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Makin' A Mile](https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v) | 3:18 |
 | 35 | [Along The Road To Gundagai \- Remaster 1995](https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [I'll Take Mine Country Style](https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59) | 1:52 |
 | 36 | [The Bloke Who Serves The Beer](https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:00 |
-| 37 | [I'm Going Back Again To Yarrawonga \- Live](https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty..\. Live Into The 90's](https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB) | 1:32 |
-| 38 | [The Man From Snowy River](https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 7:43 |
+| 37 | [The Man From Snowy River](https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 7:43 |
+| 38 | [I'm Going Back Again To Yarrawonga \- Live](https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty..\. Live Into The 90's](https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB) | 1:32 |
 | 39 | [Plains Of Peppimenarti \- 1998 Remaster](https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 3:13 |
 | 40 | [Paddy William](https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 4:32 |
 | 41 | [Abalinga Mail](https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | ['99](https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 49 | [By A Fire Of Gidgee Coal \- 1996 Digital Remaster](https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty Sings Stan Coster](https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp) | 2:58 |
 | 50 | [Old Time Country Halls](https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 2:54 |
 
-Snapshot ID: `ar2igAAAAACi8jIxhm7YixblFusvp9BI`
+Snapshot ID: `ar70AAAAAADe44CCza/KEbRriloqDtRk`

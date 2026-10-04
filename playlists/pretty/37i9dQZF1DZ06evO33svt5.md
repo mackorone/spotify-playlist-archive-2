@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 
 > This is Doja Cat\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,927 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,027 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 18 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
 | 19 | [Like That \(feat\. Gucci Mane\)](https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:43 |
 | 20 | [motive \(with Doja Cat\)](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:47 |
-| 21 | [Jealous Type](https://open.spotify.com/track/03JZr55j9bIj1d2RQJ7Yq9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 2:43 |
+| 21 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 |
 | 22 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 |
-| 23 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 |
+| 23 | [Jealous Type](https://open.spotify.com/track/03JZr55j9bIj1d2RQJ7Yq9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 2:43 |
 | 24 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 |
 | 25 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
 | 26 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 39 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
 | 40 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
 | 41 | [In Your Eyes \(with Doja Cat\) \- Remix](https://open.spotify.com/track/0UnTaVkntyh3vqvLEvbpQx) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [In Your Eyes \(Remix\)](https://open.spotify.com/album/0Jh3A8NAbc9eFpdUfhDedt) | 3:57 |
-| 42 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 |
-| 43 | [Demons](https://open.spotify.com/track/6vb4kCEIM7zrwuHlxFbfeB) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:15 |
+| 42 | [Demons](https://open.spotify.com/track/6vb4kCEIM7zrwuHlxFbfeB) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:15 |
+| 43 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 |
 | 44 | [Cards](https://open.spotify.com/track/3C5yxZTCcDOi4pnFEnKJdC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:43 |
 | 45 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 |
 | 46 | [No Police](https://open.spotify.com/track/2XheCI3rWOUChSH5ntgVw9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Purrr!](https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 49 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
 | 50 | [Go Girl \(with Latto & Doja Cat\)](https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:50 |
 
-Snapshot ID: `ar2igAAAAACYD0NkOBUW5tvA5ggf0L3J`
+Snapshot ID: `ar70AAAAAACCOddhqpLt84WBUhfFq0fp`

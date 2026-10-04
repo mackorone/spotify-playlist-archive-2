@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 
 > The biggest songs of the 1950s\. Cover: Elvis Presley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,884,366 likes - 150 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,884,551 likes - 150 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 123 | [Not Fade Away](https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:22 |
 | 124 | [Lollipop](https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Hits](https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf) | 2:09 |
 | 125 | [Oh Boy! \- Overdubbed Version](https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Not Fade Away: The Complete Studio Recordings And More](https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x) | 2:07 |
-| 126 | [There Goes My Baby \- Single Version; 2019 Remaster](https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP) | [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ) | [Definitive Soul: The Drifters](https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO) | 2:10 |
+| 126 | [There Goes My Baby \- Single Version; 2019 Remaster](https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Definitive Soul: The Drifters](https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO) | 2:10 |
 | 127 | [Wonderful! Wonderful! \(with Ray Conniff & His Orchestra & Chorus\) \- Single Version](https://open.spotify.com/track/5bDVkMLsBJgNL3eejUhBKF) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 2:49 |
 | 128 | [Money \(That's What I Want\)](https://open.spotify.com/track/0jqr2lIlIU09FsuSOibDdA) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Very Best Of](https://open.spotify.com/album/4Q06dq3TI47Aqm3NyH1bTO) | 2:40 |
 | 129 | [Come On\-A My House](https://open.spotify.com/track/3GVyT9fBXuEkGs1STo2WHZ) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 1:56 |

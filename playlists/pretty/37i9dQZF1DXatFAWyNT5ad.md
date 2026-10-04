@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,547 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,559 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 149 | [First To Go](https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [First To Go](https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl) | 2:53 |
 | 150 | [kiss](https://open.spotify.com/track/4YMfLF4haKEI8GQqqbIqYi) | [garbagebarbie](https://open.spotify.com/artist/67Ct1lxXgZ2IFOsrEwrGhV) | [kiss](https://open.spotify.com/album/22t4xIkItHYbVqNJ6wkDcK) | 3:11 |
 
-Snapshot ID: `AAAAADsuyIW1BvCH997+Cfq6Of+9XA7u`
+Snapshot ID: `AAAAAEEgTqAXvj8CxSOJR1Rzsxwaegls`

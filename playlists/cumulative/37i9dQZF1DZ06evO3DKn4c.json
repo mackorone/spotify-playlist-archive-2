@@ -1175,6 +1175,32 @@
     },
     {
       "album": {
+        "name": "Gord\u00e3o Chefe",
+        "url": "https://open.spotify.com/album/1M8Mm44LHgr2I1ETApqAHt"
+      },
+      "artists": [
+        {
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331776,
+      "name": "Sinto Muito Baby",
+      "url": "https://open.spotify.com/track/5dWnzsv1zr2H7howC8wKKV"
+    },
+    {
+      "album": {
         "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
         "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },

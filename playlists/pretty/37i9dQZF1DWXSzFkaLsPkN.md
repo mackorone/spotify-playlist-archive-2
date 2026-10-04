@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Anurag Vashisht
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,521 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,519 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

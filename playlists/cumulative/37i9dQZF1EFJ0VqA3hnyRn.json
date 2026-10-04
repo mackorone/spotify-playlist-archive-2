@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 172540,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
@@ -7468,10 +7468,32 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 195192,
       "name": "Welcome To St Tropez",
       "url": "https://open.spotify.com/track/2uhEXYOwmbEWH3ZEdAi0jT"
+    },
+    {
+      "album": {
+        "name": "Welcome to St. Tropez (2K27)",
+        "url": "https://open.spotify.com/album/41HkYXomkTBZkDdlLoguLd"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        {
+          "name": "Kalenna",
+          "url": "https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133245,
+      "name": "Welcome to St. Tropez (2K27) - DJ Antoine & Mad Mark Radio Edit",
+      "url": "https://open.spotify.com/track/31hhekajaG0AfdPr2lYUHp"
     },
     {
       "album": {

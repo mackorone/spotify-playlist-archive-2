@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,083 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,273 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 59 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13) | 2:37 |
 | 60 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 |
 
-Snapshot ID: `AAAAAMFI4L7gFwct4p7qEFiRJriqevAe`
+Snapshot ID: `AAAAAAo+iEc/Rfyaj7lk9FZVbwSyITKM`

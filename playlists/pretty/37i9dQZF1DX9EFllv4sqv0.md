@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 
 > Level up your gaming with these afro tracks\. Cover: Magixx
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,225 likes - 79 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,244 likes - 79 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 254963,
+  "num_followers": 254974,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAADHSqmMBPMkIX4JkbKcTBSH",
+  "snapshot_id": "ar70AAAAAAANeOOnK3mEBcK+b5sC+Tdr",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Una Emocion para Siempre",
-      "url": "https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stilelibero",
         "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Una Emocion para Siempre",
+      "url": "https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Musica Es",
         "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
       },
@@ -171,6 +171,46 @@
       "duration_ms": 242106,
       "name": "Por Ti Me Casare",
       "url": "https://open.spotify.com/track/7a551oQYN0mjS9Fiu2nQSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "Pi\u00f9 che puoi (feat. Cher)",
+      "url": "https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calma Apparente",
+        "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "I Belong to You (feat. Anastacia)",
+      "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
     },
     {
       "added_at": null,
@@ -219,46 +259,6 @@
       "duration_ms": 275733,
       "name": "Se Bastasse Una Canzone",
       "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 251413,
-      "name": "Pi\u00f9 che puoi (feat. Cher)",
-      "url": "https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calma Apparente",
-        "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "I Belong to You (feat. Anastacia)",
-      "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 180279,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 (Spanish Version)",
         "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 276920,
       "name": "Un Segundo de Paz",
       "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 180279,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calma Aparente (Spanish Version)",
-        "url": "https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 250853,
-      "name": "Esta Pasando Noviembre",
-      "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Certi Momenti",
         "url": "https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 253746,
       "name": "Ma che bello questo amore",
       "url": "https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calma Aparente (Spanish Version)",
+        "url": "https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 250853,
+      "name": "Esta Pasando Noviembre",
+      "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "Solo junto a ti",
-      "url": "https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vita Ce N'\u00e8",
         "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 191013,
       "name": "Vita Ce N'\u00e8",
       "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "Solo junto a ti",
+      "url": "https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla"
     },
     {
       "added_at": null,

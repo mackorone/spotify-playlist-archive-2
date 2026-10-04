@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,614 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,625 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Solo Le Dije](https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Algo Ritmos](https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc) | 3:56 |
 | 100 | [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 |
 
-Snapshot ID: `AAAAADxvc6OUCSEsDQG+XYzA56xXuBx9`
+Snapshot ID: `AAAAALGnc1kX9J3dSSDQ0UivlQJh/Ok2`

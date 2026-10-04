@@ -4,7 +4,7 @@
 
 > This is The Beatles\. The essential tracks, all in one playlist.
 
-82 songs - 3 hr 55 min
+83 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Do You Want To Know A Secret \- Remastered 2009](https://open.spotify.com/track/7Aobt67JnaF7qN8jCCKvHq) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 1:57 | 2022-10-24 |  |
 | [Don't Let Me Down \- Remastered 2009](https://open.spotify.com/track/3evG0BIqEFMMP7lVJh1cSf) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:35 | 2022-10-24 |  |
 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 | 2022-10-24 |  |
-| [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 | 2022-10-24 |  |
+| [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 | 2022-10-24 | 2026-10-04 |
 | [Eleanor Rigby \- Remastered 2009](https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:06 | 2022-10-24 |  |
 | [For No One \- Remastered 2009](https://open.spotify.com/track/1kDkaFlmkdEZiVUogaP9OZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 1:59 | 2022-10-24 |  |
 | [Free As A Bird \(2025 Mix\)](https://open.spotify.com/track/6XNF8RS4XH1o4ljx1A1r8m) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Free As A Bird \(2025 Mix\)](https://open.spotify.com/album/4xapkZNwiVtC9SGOQJfHCW) | 4:27 | 2025-08-24 | 2025-09-20 |
@@ -50,6 +50,7 @@
 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 | 2022-10-24 | 2024-02-09 |
 | [I Will \- Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:45 | 2022-10-24 |  |
 | [I'll Follow The Sun \- Remastered 2009](https://open.spotify.com/track/45WX2cfbL8bCIqv3rOq1G3) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 1:48 | 2022-10-24 |  |
+| [I'm Looking Through You \(Second Version \- Take 3\)](https://open.spotify.com/track/4GQD3CsNLLNMh3tcqeYn8Y) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Super Deluxe\)](https://open.spotify.com/album/3ICK3lBLOuStuhttDJOtnq) | 3:22 | 2026-10-04 |  |
 | [I've Just Seen A Face \- Remastered 2009](https://open.spotify.com/track/788U1Sqej9M6c4iikuDGxO) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:05 | 2022-10-24 | 2025-03-12 |
 | [If I Fell \- Remastered 2009](https://open.spotify.com/track/1hgvykolO4kBIEozATmpyj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:19 | 2022-10-24 |  |
 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 | 2022-10-24 |  |

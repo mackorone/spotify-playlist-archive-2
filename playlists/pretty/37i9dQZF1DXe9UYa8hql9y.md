@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 
 > Pura rolita pa' empedar con la plebada
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,693 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,738 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

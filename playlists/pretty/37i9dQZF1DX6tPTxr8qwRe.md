@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Emei on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,741 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,723 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

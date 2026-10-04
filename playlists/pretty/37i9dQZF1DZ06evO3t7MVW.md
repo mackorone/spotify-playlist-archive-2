@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,321 likes - 47 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,346 likes - 47 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 42 | [Golden Hour](https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:26 |
 | 43 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 |
 | 44 | [Love Me Easy](https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG) | [ANORA](https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Love Me Easy](https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj) | 2:50 |
-| 45 | [Fight the Feeling](https://open.spotify.com/track/5ZnQmeqBxKPkEeQYcKg87F) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 5:02 |
-| 46 | [Livin' It](https://open.spotify.com/track/0fe0BzO1VQRG8OV4YEecNO) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 5:59 |
+| 45 | [Livin' It](https://open.spotify.com/track/0fe0BzO1VQRG8OV4YEecNO) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 5:59 |
+| 46 | [Fight the Feeling](https://open.spotify.com/track/5ZnQmeqBxKPkEeQYcKg87F) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 5:02 |
 | 47 | [Vibes Alive](https://open.spotify.com/track/7yOOIQQe46Ycy31neFu6JR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 4:48 |
 
-Snapshot ID: `ar2igAAAAACSfJz+FsP3Bf08ETB7db9H`
+Snapshot ID: `ar70AAAAAABsKr81oIJabaAfbgLvw9ye`

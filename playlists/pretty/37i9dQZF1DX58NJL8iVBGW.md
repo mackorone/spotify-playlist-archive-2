@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,159 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,248 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

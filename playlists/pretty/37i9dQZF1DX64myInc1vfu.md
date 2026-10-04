@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,814 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,840 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 74 | [Se Me Olvidó](https://open.spotify.com/track/0pLAITuQmy20vFVydGtt6O) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 1:47 |
 | 75 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 |
 
-Snapshot ID: `AAAAAIggTqu6gDPiOUA0u8bed37GwGaE`
+Snapshot ID: `AAAAAHm3nvNjc/CdvBArx9UTaLWYPtsV`

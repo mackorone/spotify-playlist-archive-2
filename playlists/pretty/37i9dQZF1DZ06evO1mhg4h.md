@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 
 > This is kessoku band\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,530 likes - 32 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,530 likes - 32 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 18 | [あのバンド \-恒星\- Live ver.](https://open.spotify.com/track/2M4VFiQx8J9z8KjojIXH8t) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:05 |
 | 19 | [私なんか \-We will B\- Live ver.](https://open.spotify.com/track/0F3FAV7WT4owJsAsnvHnQF) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 2:42 |
 | 20 | [青春コンプレックス\-instrumental\-](https://open.spotify.com/track/1eBJIQFMrwRy0bDhaGsMyK) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/2i6HcZ86ErsCwxib4T11bk) | 3:25 |
-| 21 | [カラカラ](https://open.spotify.com/track/1ofAXq6xfHjn6ZUxdsY3YW) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:25 |
+| 21 | [Distortion!!](https://open.spotify.com/track/3l8rIBKJUDQFqQfKvcpQ1w) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 |
 | 22 | [星座になれたら \-恒星\- Live ver.](https://open.spotify.com/track/3Rtv7KXHFVcjWYlPFOxDvc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:41 |
 | 23 | [あのバンド \-We will B\- Live ver.](https://open.spotify.com/track/6gsQSBxFiKYI33VI4Kt6RA) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:04 |
 | 24 | [光の中へ\-instrumental\-](https://open.spotify.com/track/1t8KHcCAzyvXrCc4AIuZjN) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 31 | [カラカラ \-恒星\- Live ver.](https://open.spotify.com/track/0BlWCoGxEBkMjq61eVWhOD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:34 |
 | 32 | [カラカラ \-We will B\- Live ver.](https://open.spotify.com/track/2TeeUxAD3AhHaHmMoIFkDB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:33 |
 
-Snapshot ID: `ar2igAAAAAB8NQdMoy2pav7DabyFPXLZ`
+Snapshot ID: `ar70AAAAAAAzgO4JQcfY9RAo7gMGsT8O`

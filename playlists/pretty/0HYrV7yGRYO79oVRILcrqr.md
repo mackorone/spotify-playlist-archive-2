@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,906 likes - 123 songs - 7 hr 50 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,906 likes - 127 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,5 +131,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 121 | [Prom Queen’s a Bitch](https://open.spotify.com/track/6lpsZrFiFWXi2vr3rQdT2a) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Fuck Your Mixtape](https://open.spotify.com/album/3JtPkApJUDwKGM50w1Cb9h) | 2:00 |
 | 122 | [Mama im back again](https://open.spotify.com/track/35c0JZOp0565wa2265Boqk) | [J addy 360 degrees](https://open.spotify.com/artist/2U4dxYLYrPCJ0hwF7C6PyF) | [Mama im back again](https://open.spotify.com/album/5mVYSJmXZT894IYqBe2qeA) | 3:02 |
 | 123 | [Two Weeks Notice](https://open.spotify.com/track/4ec7rEphhHk3V5rjn64A8G) | [Chaz Mason](https://open.spotify.com/artist/6IGb012Y9A2RHpb4m3v0dt) | [Two Weeks Notice](https://open.spotify.com/album/74pUBAVcmfpgTo7qixuq2R) | 4:08 |
+| 124 | [No Quit Son](https://open.spotify.com/track/0w6hPcUBWSsKHb8W9RAaWZ) | [John DeRosa](https://open.spotify.com/artist/1tnHPbA944rAQOgmtz4Mmt) | [No Quit Son](https://open.spotify.com/album/64yremFOO5v7Gtp2JE34wk) | 4:20 |
+| 125 | [Highway Cricket](https://open.spotify.com/track/16ArNql4lUmXSGsD0GeEbW) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 4:11 |
+| 126 | [Fields of Life](https://open.spotify.com/track/2ZKwoUgERG8768n6ZQ6V6w) | [William Drake](https://open.spotify.com/artist/3Y40ISCrUgYcnwGexhaGxu) | [Fields of Life](https://open.spotify.com/album/1kIcy1XnVk1yFQL7FJQUVM) | 2:26 |
+| 127 | [біли троянди](https://open.spotify.com/track/3V6RRSOeREtm9aZBFSdLyH) | [Gigakript](https://open.spotify.com/artist/4HSmSVozX7LDAlWRpfqL8T) | [Тільки Рок](https://open.spotify.com/album/3gWo1Y2sznqFno2yJobq7q) | 4:57 |
 
-Snapshot ID: `AAAMqO86ck5PXphzaDFHHLthRE42HMEX`
+Snapshot ID: `AAAMrCCntrxP/9mbXc8jIXliOJFnab+c`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,315 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,314 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 41 | [Mergulhe](https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:36 |
 | 42 | [Não Reclame](https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:26 |
 | 43 | [De Valor em Valor](https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 4:28 |
-| 44 | [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 |
-| 45 | [Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Benção / A Mensagem da Cruz \- Ao vivo](https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [100 Anos do Movimento Pentecostal](https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU) | 13:55 |
+| 44 | [Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Benção / A Mensagem da Cruz \- Ao vivo](https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [100 Anos do Movimento Pentecostal](https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU) | 13:55 |
+| 45 | [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 |
 | 46 | [Deus Responde](https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:32 |
 | 47 | [Deus Velará por Ti](https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:00 |
 | 48 | [Ele Tem Poder](https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 3:57 |
 | 49 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
 | 50 | [Campeões da Luz](https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 3:47 |
 
-Snapshot ID: `ar2igAAAAABBH02Dcu2Z21tbPkI/iCM1`
+Snapshot ID: `ar70AAAAAABg0kgxWNyHuPpNBhS5QTNz`

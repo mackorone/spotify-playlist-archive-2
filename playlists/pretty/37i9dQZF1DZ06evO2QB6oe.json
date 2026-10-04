@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 71128,
+  "num_followers": 71137,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACKK+kHIB0ALZ23QhjnqU5/",
+  "snapshot_id": "ar70AAAAAAB0HjXYkmoi+JIy2J0AvYOE",
   "tracks": [
     {
       "added_at": null,
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iko Iko (My Bestie) (feat. Small Jam)",
-        "url": "https://open.spotify.com/album/73ikyU6v9zvR63RwjKWikR"
-      },
-      "artists": [
-        {
-          "name": "Justin Wellington",
-          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Small Jam",
-          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Iko Iko (My Bestie) (feat. Small Jam)",
-      "url": "https://open.spotify.com/track/3pnxj3KnSjqO1Qkl2qLHIz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Relevo",
         "url": "https://open.spotify.com/album/58BCinurA7NihCoPpBiHtN"
       },
@@ -511,6 +487,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Iko Iko (My Bestie) (feat. Small Jam)",
+        "url": "https://open.spotify.com/album/73ikyU6v9zvR63RwjKWikR"
+      },
+      "artists": [
+        {
+          "name": "Justin Wellington",
+          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Small Jam",
+          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Iko Iko (My Bestie) (feat. Small Jam)",
+      "url": "https://open.spotify.com/track/3pnxj3KnSjqO1Qkl2qLHIz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Tu Manera (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 207073,
-      "name": "Divina",
-      "url": "https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUNAY",
         "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 186976,
       "name": "La S\u00e1bana y los Pies",
       "url": "https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 207073,
+      "name": "Divina",
+      "url": "https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx"
     },
     {
       "added_at": null,

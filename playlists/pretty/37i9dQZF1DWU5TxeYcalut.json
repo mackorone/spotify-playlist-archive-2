@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163283,
+  "num_followers": 163289,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,34 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "K\u00e2ndra",
+        "url": "https://open.spotify.com/album/6B8497B5HQZv2Shd7AOn0w"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "Sergio Reze",
+          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
+        },
+        {
+          "name": "Z\u00e9 Godoy",
+          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
+        }
+      ],
+      "duration_ms": 460190,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/7eNAye3KKT13agV313oImc"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Sol e Luz (feat. Thiago Rabello & Salom\u00e3o Soares)",
         "url": "https://open.spotify.com/album/6HPwMeV7txYMEWmNo6By8e"
       },
@@ -899,34 +927,6 @@
       "duration_ms": 304880,
       "name": "Sampa",
       "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "K\u00e2ndra",
-        "url": "https://open.spotify.com/album/6B8497B5HQZv2Shd7AOn0w"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "Sergio Reze",
-          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
-        },
-        {
-          "name": "Z\u00e9 Godoy",
-          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
-        }
-      ],
-      "duration_ms": 460190,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/7eNAye3KKT13agV313oImc"
     },
     {
       "added_at": "2025-09-19 14:12:16",

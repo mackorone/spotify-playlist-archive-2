@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,513 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,514 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 16 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
 | 17 | [See See Rider](https://open.spotify.com/track/0HsYttDxOv3neiw3L0wimY) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Soul On Fire: The Best Of LaVern Baker](https://open.spotify.com/album/656bjmiiDmAKjaC9U5HXbh) | 2:29 |
 | 18 | [Port Of Rico](https://open.spotify.com/track/1sosNXybNRxp2wSzc5Dxg4) | [Illinois Jacquet](https://open.spotify.com/artist/6HzzZqLS76PGbKaw6dIMHZ) | [Verve: The Sound Of America: The Singles Collection](https://open.spotify.com/album/0nQJ2qTc9ZOz5eTpJ1KFqT) | 2:44 |
-| 19 | [Bip Bam](https://open.spotify.com/track/3sWg8GcNZw9Fpl8hTZZnMk) | [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ), [Clyde McPhatter](https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS) | [Bip Bam](https://open.spotify.com/album/0DFd3Ibq9jxsbf6IErbbSh) | 2:47 |
+| 19 | [Bip Bam](https://open.spotify.com/track/3sWg8GcNZw9Fpl8hTZZnMk) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT), [Clyde McPhatter](https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS) | [Bip Bam](https://open.spotify.com/album/0DFd3Ibq9jxsbf6IErbbSh) | 2:47 |
 | 20 | [How Many More Years](https://open.spotify.com/track/2E7v7z3kTTt16LlnI8bliJ) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Sun Years](https://open.spotify.com/album/4ZHtFUQnmNodE0BfEnkiVq) | 2:42 |
 | 21 | [Pink Champagne \- Single Version](https://open.spotify.com/track/2njf0L6mSpf6BN1fEh0t6K) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI) | [Specialty Profiles: Sam Cooke & The Soul Stirrers](https://open.spotify.com/album/6Y0ZHWrPCzTPtNg9GM6CeJ) | 3:02 |
 | 22 | [I Don't Know](https://open.spotify.com/track/4QIMnzXSrDuyyS2fyRXUDK) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [The Chess Blues\-Rock Songbook](https://open.spotify.com/album/4IMf3vkYqNxCQswnMECYWI) | 3:11 |

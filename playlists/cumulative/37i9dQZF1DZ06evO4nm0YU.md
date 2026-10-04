@@ -4,7 +4,7 @@
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-98 songs - 9 hr 3 min
+99 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [La Fama](https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 5:21 | 2022-09-08 |  |
 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 | 2024-07-24 | 2025-10-22 |
 | [La Puerta](https://open.spotify.com/track/58dIEHSLlW9EAq0RUgR1Wk) | [Jose Rosa](https://open.spotify.com/artist/4w4Id52CiziAmi9TwdcsE6), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [ADE 2022](https://open.spotify.com/album/6qvcDjlEGgS5nkzaLGU8UK) | 8:19 | 2024-02-19 | 2024-02-22 |
+| [Lo Dejé Llorando \- Remastered 2026](https://open.spotify.com/track/3IstEpODh6VNNZ9yxXPVia) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento! \(Remastered 2026\)](https://open.spotify.com/album/5IoVB9Wno2XjspNIJY315u) | 4:46 | 2026-10-04 |  |
 | [Loco](https://open.spotify.com/track/5sR8QlZ63YSyrbOIUdqHFt) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 5:25 | 2022-09-08 |  |
 | [Mentira](https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:42 | 2022-09-10 | 2025-10-26 |
 | [Mentira](https://open.spotify.com/track/2Qq1i7TeLJZzkrz2DuAZjG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Complete Studio Albums, Vol\. 1](https://open.spotify.com/album/2834vfmvqq8UutYQ9f1XyD) | 6:42 | 2025-10-29 | 2026-02-27 |
@@ -93,7 +94,7 @@
 | [Timbalero](https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [49 Minutes](https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72) | 8:17 | 2022-09-08 |  |
 | [Todo Tiene Su Final](https://open.spotify.com/track/7r0ckjpJUZwOASD1VLJgS7) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:03 | 2022-09-08 |  |
 | [Triste Y Vacía](https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 6:11 | 2022-09-08 |  |
-| [Tu No Puedes Conmigo](https://open.spotify.com/track/1Cva3BnPjMPPYuAsd2NHIo) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 3:25 | 2026-03-03 |  |
+| [Tu No Puedes Conmigo](https://open.spotify.com/track/1Cva3BnPjMPPYuAsd2NHIo) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 3:25 | 2026-03-03 | 2026-10-04 |
 | [Tus Ojos](https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:35 | 2025-10-09 |  |
 | [Tus Ojos](https://open.spotify.com/track/2qGOhy0tSbvClnQhgBkkoC) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 3:36 | 2022-10-07 | 2025-10-09 |
 | [Tú Bien Lo Sabes](https://open.spotify.com/track/10tGX9oQ2xa1mgAXu8Cmc7) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 4:10 | 2022-09-14 | 2022-10-13 |

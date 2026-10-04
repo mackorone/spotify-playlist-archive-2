@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 125508,
+  "num_followers": 125520,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAC+gzTdNHlN6MrbRf21Wn78",
+  "snapshot_id": "ar70AAAAAACU+yEENCzWFkF7Ka/Biakg",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Turpentine",
-      "url": "https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
       },
@@ -403,22 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Not Alone [Feat. Brandi Carlile]",
-        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
       "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 309746,
-      "name": "You're Not Alone [Feat. Brandi Carlile]",
-      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+      "duration_ms": 178320,
+      "name": "Turpentine",
+      "url": "https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL"
     },
     {
       "added_at": null,
@@ -439,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+        "name": "You're Not Alone [Feat. Brandi Carlile]",
+        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
       },
       "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 152946,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
+      "duration_ms": 309746,
+      "name": "You're Not Alone [Feat. Brandi Carlile]",
+      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
     },
     {
       "added_at": null,
@@ -487,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
       "artists": [
         {
@@ -496,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 242329,
-      "name": "A War With Time",
-      "url": "https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh"
+      "duration_ms": 152946,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
       "duration_ms": 279213,
       "name": "You Without Me",
       "url": "https://open.spotify.com/track/1976jJn3uLmKNUa9cIWm5q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 242329,
+      "name": "A War With Time",
+      "url": "https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Returning To Myself",
-      "url": "https://open.spotify.com/track/7kw7I7P3MmYKfD4a4bf41l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Returning To Myself",
+      "url": "https://open.spotify.com/track/7kw7I7P3MmYKfD4a4bf41l"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "How (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brandy Clark",
         "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
       },
@@ -723,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -735,26 +735,6 @@
       "duration_ms": 201493,
       "name": "Hard Way Home",
       "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djesse Vol. 4",
-        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0drXyxyFFvnaQxnYOszTo9"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 345026,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0drXyxyFFvnaQxnYOszTo9"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 303593,
-      "name": "Broken Horses",
-      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 233362,
       "name": "(I Can\u2019t Get No) Satisfaction",
       "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
     }
   ],
   "unique_name": "This Is Brandi Carlile",

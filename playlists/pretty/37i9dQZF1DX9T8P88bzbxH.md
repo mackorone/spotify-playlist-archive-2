@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > All the way till dawn\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,246 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,254 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

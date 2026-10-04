@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 
 > The biggest songs of the 1960s\. Cover: Aretha Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,194,148 likes - 150 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,194,207 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 | 138 | [Eve Of Destruction](https://open.spotify.com/track/1Zi2ezNOqt9y9irC11xYpN) | [Barry McGuire](https://open.spotify.com/artist/6xdkfNRMtBzeu7t4wyum2X) | [Eve Of Destruction](https://open.spotify.com/album/1ue4XKSgfovqJp8wgoyaOX) | 3:35 |
 | 139 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 140 | [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 |
-| 141 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
+| 141 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
 | 142 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
 | 143 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
 | 144 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 |

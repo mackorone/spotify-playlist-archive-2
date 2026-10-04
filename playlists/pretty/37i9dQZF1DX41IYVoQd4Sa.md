@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,504 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,509 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 49 | [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 |
 | 50 | [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 |
 
-Snapshot ID: `AAAAAFKCEB5HZwn5W8IsIMSMG+b3B+3k`
+Snapshot ID: `AAAAAPCQA3DtSIEnW0Yt2sBd7MC/T/D3`

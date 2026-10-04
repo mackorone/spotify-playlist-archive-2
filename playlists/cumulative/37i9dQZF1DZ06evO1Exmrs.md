@@ -4,7 +4,7 @@
 
 > This is Noah Kahan\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 52 min
+106 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 | 2026-04-26 |  |
 | [Downfall](https://open.spotify.com/track/0cvrMGzr2LhZAG5SP8KDUB) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 4:15 | 2026-05-05 |  |
 | [Downfall](https://open.spotify.com/track/5tGnphp8D9Doa2ZULhJSMx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:15 | 2026-04-26 | 2026-05-05 |
+| [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-04 |  |
 | [End of August](https://open.spotify.com/track/4fEUmNN8KK5sNqvKjBstKg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 | 2026-04-26 |  |
 | [End of August](https://open.spotify.com/track/5LlExBVApHgxWQf6BbsCwo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 5:17 | 2026-05-10 | 2026-05-20 |
 | [Everywhere, Everything](https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:17 | 2023-11-10 | 2024-12-18 |

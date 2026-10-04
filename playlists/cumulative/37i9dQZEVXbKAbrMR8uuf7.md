@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-2,296 songs - 4 day 23 hr 33 min
+2,297 songs - 4 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1280,7 +1280,7 @@
 | [MELTDOWN](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-29 | 2023-07-31 |
 | [MEMORIAS](https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:48 | 2022-04-02 | 2022-05-08 |
 | [Mencionar](https://open.spotify.com/track/5gEkHtIiOoTuKqcMyxVrqJ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:21 | 2024-01-20 | 2024-01-27 |
-| [Menor](https://open.spotify.com/track/41VHFt4usQQWI44LwDp9DU) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Dalvin La Melodia](https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 3:22 | 2025-11-29 | 2026-09-30 |
+| [Menor](https://open.spotify.com/track/41VHFt4usQQWI44LwDp9DU) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Dalvin La Melodia](https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 3:22 | 2025-11-29 |  |
 | [Mensaje Directo \(DM\)](https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Mensaje Directo \(DM\)](https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9) | 3:40 | 2025-10-25 | 2025-11-08 |
 | [Mentir](https://open.spotify.com/track/3p1MPQ3bJkhKtEY9IPVja4) | [Ross](https://open.spotify.com/artist/7lwOihV9I5lVA9erA5HgrS) | [Mentir](https://open.spotify.com/album/1bOZ74CTZMI7vKuwdO1AWr) | 2:46 | 2024-04-07 | 2024-04-09 |
 | [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 | 2023-10-14 | 2024-03-05 |
@@ -1413,7 +1413,8 @@
 | [NO ME VOY A RENDIR](https://open.spotify.com/track/2nimqWdsJx1lk64zytdePz) | [BTG](https://open.spotify.com/artist/252QLNw7gOVXjuDeTQ5RQ3), [Black Chaka 227](https://open.spotify.com/artist/52gMmoTLpsIDEY5INIMy6L) | [Never Stop Dreaming](https://open.spotify.com/album/2D3zu3n6ZVpr4cWolfNm3z) | 3:05 | 2025-08-11 | 2025-08-13 |
 | [NO PARE \- REMIX](https://open.spotify.com/track/64eezAxFI6wjCPcshao8Pe) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [NO PARE \(REMIX\)](https://open.spotify.com/album/4pyrlTwGbdl8NXHVSNty1k) | 3:05 | 2023-10-18 | 2023-12-05 |
 | [No Pasa De Moda](https://open.spotify.com/track/2yAU2njV0eS9iVJKf22Eoc) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [No Pasa De Moda](https://open.spotify.com/album/48vQQD0fnP8eE3EPYai0qm) | 2:47 | 2023-04-15 | 2023-04-27 |
-| [No Se Dejan Mete Cabra](https://open.spotify.com/track/3JZstfGTNaova0zdnCS7Oc) | [Ronny GTA](https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu) | [No Se Dejan Mete Cabra](https://open.spotify.com/album/6CCFblYuLEypJmDEQtirkD) | 1:51 | 2026-06-20 |  |
+| [No Se Dejan Mete Cabra](https://open.spotify.com/track/3JZstfGTNaova0zdnCS7Oc) | [Ronny GTA](https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu) | [No Se Dejan Mete Cabra](https://open.spotify.com/album/6CCFblYuLEypJmDEQtirkD) | 1:51 | 2026-06-20 | 2026-10-04 |
+| [No Se Dejan Mete Cabra](https://open.spotify.com/track/79wD7AZuxICF7os0pL4vJK) | [Ronny GTA](https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu) | [No Se Dejan Mete Cabra](https://open.spotify.com/album/7lbMfzQATptx4qnr2FrmOO) | 1:51 | 2026-10-03 |  |
 | [No Silence](https://open.spotify.com/track/4YReOpPbhvvIrQAOvfe38B) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [No Silence](https://open.spotify.com/album/3jr4SV8Hl15UoN9WNchy85) | 3:31 | 2026-06-20 |  |
 | [No Somo Hermano](https://open.spotify.com/track/2hvKoCgHW5tZ7QjtK4UqIh) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [No Somo Hermano](https://open.spotify.com/album/3G2TWdoZqeCdfFvpiIsow5) | 2:11 | 2023-12-24 | 2024-02-21 |
 | [No soy Eterno](https://open.spotify.com/track/0aPs3kmiqmt9QG7gWXdefA) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:31 | 2023-10-08 | 2023-10-15 |
@@ -1552,7 +1553,7 @@
 | [Perco Freestyle](https://open.spotify.com/track/6yU4IKONFqXy10VT4k3Apf) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [Huracan](https://open.spotify.com/album/5NVEOZ9m86QvE7Kub643vM) | 2:33 | 2025-09-16 | 2025-09-18 |
 | [Perco Freestyle](https://open.spotify.com/track/5VbC8dy8EiTBKAbsytNmjZ) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [Huracan](https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv) | 2:34 | 2025-09-11 | 2025-09-17 |
 | [Perdóname](https://open.spotify.com/track/4PBdIae0zykvqRJtrTQa8f) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Perdóname](https://open.spotify.com/album/3LSk2Get6M94s45qxRA39W) | 3:30 | 2024-01-02 | 2024-04-02 |
-| [Perfect](https://open.spotify.com/track/03CL9rKPlc8OHevgg6zGCr) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [Perfect](https://open.spotify.com/album/6WYIocfhyOkwJsIBLuwkoz) | 2:12 | 2025-05-14 |  |
+| [Perfect](https://open.spotify.com/track/03CL9rKPlc8OHevgg6zGCr) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [Perfect](https://open.spotify.com/album/6WYIocfhyOkwJsIBLuwkoz) | 2:12 | 2025-05-14 | 2026-10-04 |
 | [PERFuMITO NUEVO](https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:20 | 2025-01-06 | 2026-02-15 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-19 |
 | [Pero Dime](https://open.spotify.com/track/4L2LYBPs8jkXrcIxfRMhJm) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/4fA3kV7anxoTyggHcR3HPM) | 4:05 | 2024-12-25 | 2025-01-04 |

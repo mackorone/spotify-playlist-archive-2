@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYrBOuMqXdyTIxzKBxUzLkCW7mG",
+  "snapshot_id": "AAAAAAz8bQTuuz5axyDLEXVZ5beOu/3Q",
   "tracks": [
     {
       "added_at": "2026-10-01 22:01:37",
@@ -83,6 +83,46 @@
     {
       "added_at": "2026-10-01 22:01:37",
       "album": {
+        "name": "100 Tranen",
+        "url": "https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "100 Tranen",
+      "url": "https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M"
+    },
+    {
+      "added_at": "2026-10-01 22:01:37",
+      "album": {
+        "name": "Google Vertalen",
+        "url": "https://open.spotify.com/album/15iwB2s4oFEYs2cyNLed4I"
+      },
+      "artists": [
+        {
+          "name": "Safouu",
+          "url": "https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Google Vertalen",
+      "url": "https://open.spotify.com/track/1SX1zcUoxN2LIZuxM2gJ1N"
+    },
+    {
+      "added_at": "2026-10-01 22:01:37",
+      "album": {
         "name": "Grof Geschud",
         "url": "https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY"
       },
@@ -111,30 +151,6 @@
       "duration_ms": 143122,
       "name": "TOKYO",
       "url": "https://open.spotify.com/track/1bDOSa2VxFDMOTd2tEsuNE"
-    },
-    {
-      "added_at": "2026-10-01 22:01:37",
-      "album": {
-        "name": "100 Tranen",
-        "url": "https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F"
-      },
-      "artists": [
-        {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
-        },
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "100 Tranen",
-      "url": "https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M"
     },
     {
       "added_at": "2026-10-01 22:01:37",
@@ -215,22 +231,6 @@
     {
       "added_at": "2026-10-01 22:01:37",
       "album": {
-        "name": "Al Blancocino",
-        "url": "https://open.spotify.com/album/4wHUcYPm0jRvqVDYpaTPMM"
-      },
-      "artists": [
-        {
-          "name": "Leblanco",
-          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
-        }
-      ],
-      "duration_ms": 141473,
-      "name": "Al Blancocino",
-      "url": "https://open.spotify.com/track/5xqYeSU1PxLW4Eh4f7Cq52"
-    },
-    {
-      "added_at": "2026-10-01 22:01:37",
-      "album": {
         "name": "Fijnproever",
         "url": "https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ"
       },
@@ -243,6 +243,54 @@
       "duration_ms": 120000,
       "name": "CC",
       "url": "https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q"
+    },
+    {
+      "added_at": "2026-10-01 22:01:37",
+      "album": {
+        "name": "\u2018Love Not Free\u2019 & 580S",
+        "url": "https://open.spotify.com/album/6ftGcAC7wqKPQUWcKRS5KZ"
+      },
+      "artists": [
+        {
+          "name": "NOBODYPANICC",
+          "url": "https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg"
+        }
+      ],
+      "duration_ms": 119758,
+      "name": "\u2018Love Not Free\u2019",
+      "url": "https://open.spotify.com/track/0dX7n8yV4yF5elJyzk8VQN"
+    },
+    {
+      "added_at": "2026-10-03 22:00:05",
+      "album": {
+        "name": "HAC \u00e0 DOS",
+        "url": "https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI"
+      },
+      "artists": [
+        {
+          "name": "247Loosey",
+          "url": "https://open.spotify.com/artist/5MxaJCmQcD7J3leCOMgkvH"
+        }
+      ],
+      "duration_ms": 141369,
+      "name": "HAC \u00e0 DOS",
+      "url": "https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU"
+    },
+    {
+      "added_at": "2026-10-01 22:01:37",
+      "album": {
+        "name": "Al Blancocino",
+        "url": "https://open.spotify.com/album/4wHUcYPm0jRvqVDYpaTPMM"
+      },
+      "artists": [
+        {
+          "name": "Leblanco",
+          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "Al Blancocino",
+      "url": "https://open.spotify.com/track/5xqYeSU1PxLW4Eh4f7Cq52"
     },
     {
       "added_at": "2026-10-01 22:01:37",
@@ -283,18 +331,22 @@
     {
       "added_at": "2026-10-01 22:01:37",
       "album": {
-        "name": "\u2018Love Not Free\u2019 & 580S",
-        "url": "https://open.spotify.com/album/6ftGcAC7wqKPQUWcKRS5KZ"
+        "name": "Haast",
+        "url": "https://open.spotify.com/album/3LAzeYbgU0cZmh5WbNiZD5"
       },
       "artists": [
         {
-          "name": "NOBODYPANICC",
-          "url": "https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg"
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7"
+        },
+        {
+          "name": "VL Disappear",
+          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
         }
       ],
-      "duration_ms": 119758,
-      "name": "\u2018Love Not Free\u2019",
-      "url": "https://open.spotify.com/track/0dX7n8yV4yF5elJyzk8VQN"
+      "duration_ms": 185753,
+      "name": "Haast",
+      "url": "https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE"
     },
     {
       "added_at": "2026-10-01 22:01:37",
@@ -355,26 +407,6 @@
     {
       "added_at": "2026-10-01 22:01:37",
       "album": {
-        "name": "ANTWOORD",
-        "url": "https://open.spotify.com/album/2nYltZhCFDDwFOPj9JAjE7"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        },
-        {
-          "name": "Zeldzame",
-          "url": "https://open.spotify.com/artist/2ugsl1M9AwZ7ZrA5J9V4Vw"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "ANTWOORD",
-      "url": "https://open.spotify.com/track/2XOhXbRSOBTixs6KdaD0tZ"
-    },
-    {
-      "added_at": "2026-10-01 22:01:37",
-      "album": {
         "name": "STRAAT VAN HORMUZ",
         "url": "https://open.spotify.com/album/4Icu867uMbpG2Kq7R0EYIh"
       },
@@ -391,26 +423,6 @@
     {
       "added_at": "2026-10-01 22:01:37",
       "album": {
-        "name": "Nog Eentje",
-        "url": "https://open.spotify.com/album/32VwBxghakjxh8E5WpiZsQ"
-      },
-      "artists": [
-        {
-          "name": "NOELL3",
-          "url": "https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB"
-        },
-        {
-          "name": "Andr\u00e9lon",
-          "url": "https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2"
-        }
-      ],
-      "duration_ms": 120967,
-      "name": "Nog Eentje",
-      "url": "https://open.spotify.com/track/7okdNqY2vbL28fK2ShS6Zo"
-    },
-    {
-      "added_at": "2026-10-01 22:01:37",
-      "album": {
         "name": "Lost Boys",
         "url": "https://open.spotify.com/album/1CtnhAtFo2zQP56mmlSTOG"
       },
@@ -423,26 +435,6 @@
       "duration_ms": 226517,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/4d55Fj4LomExB8oVUFG34W"
-    },
-    {
-      "added_at": "2026-10-01 22:01:37",
-      "album": {
-        "name": "Haast",
-        "url": "https://open.spotify.com/album/3LAzeYbgU0cZmh5WbNiZD5"
-      },
-      "artists": [
-        {
-          "name": "LV",
-          "url": "https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7"
-        },
-        {
-          "name": "VL Disappear",
-          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Haast",
-      "url": "https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE"
     },
     {
       "added_at": "2026-10-01 22:01:37",
@@ -479,22 +471,6 @@
       "duration_ms": 166159,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
-    },
-    {
-      "added_at": "2026-10-01 22:01:37",
-      "album": {
-        "name": "Google Vertalen",
-        "url": "https://open.spotify.com/album/15iwB2s4oFEYs2cyNLed4I"
-      },
-      "artists": [
-        {
-          "name": "Safouu",
-          "url": "https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Google Vertalen",
-      "url": "https://open.spotify.com/track/1SX1zcUoxN2LIZuxM2gJ1N"
     },
     {
       "added_at": "2026-10-01 22:01:37",
@@ -567,6 +543,26 @@
     {
       "added_at": "2026-10-01 22:01:37",
       "album": {
+        "name": "ANTWOORD",
+        "url": "https://open.spotify.com/album/2nYltZhCFDDwFOPj9JAjE7"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "Zeldzame",
+          "url": "https://open.spotify.com/artist/2ugsl1M9AwZ7ZrA5J9V4Vw"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "ANTWOORD",
+      "url": "https://open.spotify.com/track/2XOhXbRSOBTixs6KdaD0tZ"
+    },
+    {
+      "added_at": "2026-10-01 22:01:37",
+      "album": {
         "name": "Supaa Amazing",
         "url": "https://open.spotify.com/album/4LUV0mQ6HnmdbALfo0ERk0"
       },
@@ -635,6 +631,26 @@
       "duration_ms": 120000,
       "name": "Prada",
       "url": "https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD"
+    },
+    {
+      "added_at": "2026-10-01 22:01:37",
+      "album": {
+        "name": "Nog Eentje",
+        "url": "https://open.spotify.com/album/32VwBxghakjxh8E5WpiZsQ"
+      },
+      "artists": [
+        {
+          "name": "NOELL3",
+          "url": "https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB"
+        },
+        {
+          "name": "Andr\u00e9lon",
+          "url": "https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2"
+        }
+      ],
+      "duration_ms": 120967,
+      "name": "Nog Eentje",
+      "url": "https://open.spotify.com/track/7okdNqY2vbL28fK2ShS6Zo"
     },
     {
       "added_at": "2026-10-01 22:01:37",
@@ -799,6 +815,22 @@
     {
       "added_at": "2026-10-01 22:01:37",
       "album": {
+        "name": "Spoedassistentie",
+        "url": "https://open.spotify.com/album/3Ptv43L9PQuODramS9VNXF"
+      },
+      "artists": [
+        {
+          "name": "BVL",
+          "url": "https://open.spotify.com/artist/0uh9dHfZu6d53AyFVaFolJ"
+        }
+      ],
+      "duration_ms": 127659,
+      "name": "Spoedassistentie",
+      "url": "https://open.spotify.com/track/581t1W6xIiTafsksdcSbi9"
+    },
+    {
+      "added_at": "2026-10-01 22:01:37",
+      "album": {
         "name": "Mashakil",
         "url": "https://open.spotify.com/album/4viU1BpfiU4LPAHgBO9uL2"
       },
@@ -911,22 +943,6 @@
       "duration_ms": 84915,
       "name": "GEILA FREESTYLE",
       "url": "https://open.spotify.com/track/3iXcxNl2DlKytXwXSvWNQB"
-    },
-    {
-      "added_at": "2026-10-01 22:01:37",
-      "album": {
-        "name": "Spoedassistentie",
-        "url": "https://open.spotify.com/album/3Ptv43L9PQuODramS9VNXF"
-      },
-      "artists": [
-        {
-          "name": "BVL",
-          "url": "https://open.spotify.com/artist/0uh9dHfZu6d53AyFVaFolJ"
-        }
-      ],
-      "duration_ms": 127659,
-      "name": "Spoedassistentie",
-      "url": "https://open.spotify.com/track/581t1W6xIiTafsksdcSbi9"
     },
     {
       "added_at": "2026-10-01 22:01:37",
@@ -1055,22 +1071,6 @@
       "duration_ms": 230087,
       "name": "Andersom (feat. Boef)",
       "url": "https://open.spotify.com/track/5kYM2ac4h8SDGyoT6O7Q0i"
-    },
-    {
-      "added_at": "2026-10-01 22:01:37",
-      "album": {
-        "name": "Gangster Ben",
-        "url": "https://open.spotify.com/album/1us4CmQlZGL2QySScsrept"
-      },
-      "artists": [
-        {
-          "name": "Blacka",
-          "url": "https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW"
-        }
-      ],
-      "duration_ms": 126521,
-      "name": "Gangster Ben",
-      "url": "https://open.spotify.com/track/21179u71xPUY3RocZgjLmJ"
     },
     {
       "added_at": "2026-10-01 22:01:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E06AbSENEw.md) - [plain]
 
 > Le meilleur des années 2010 en 100 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,645 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,662 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E06AbSENEw.md) - [plain]
 | 99 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:41 |
 | 100 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:37 |
 
-Snapshot ID: `AAAAAM5rN5KLoF8dEtad/wJ1vj9IqCXN`
+Snapshot ID: `AAAAAEwa6b+L1ZUxTEDoVbloElBsiMAW`

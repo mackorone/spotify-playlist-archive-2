@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 126898,
+  "num_followers": 126905,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABeb9UFT2wk7SxEbyc7LCTe",
+  "snapshot_id": "ar70AAAAAABYDfg1hFrYL5ArgV1QOIsC",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 139226,
-      "name": "How I'd Love To Love You",
-      "url": "https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Touch Of Your Lips",
         "url": "https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 286173,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 139226,
+      "name": "How I'd Love To Love You",
+      "url": "https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co"
     },
     {
       "added_at": null,

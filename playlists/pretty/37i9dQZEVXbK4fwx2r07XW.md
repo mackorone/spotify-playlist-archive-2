@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,317 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,334 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 | 49 | [Be Her](https://open.spotify.com/track/13HD3tYTiz8oSRxWzXEq7g) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:37 |
 | 50 | [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 |
 
-Snapshot ID: `MlMuiAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`

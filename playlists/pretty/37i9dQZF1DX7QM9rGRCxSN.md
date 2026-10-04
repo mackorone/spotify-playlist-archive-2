@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,400 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,411 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [pasan los días](https://open.spotify.com/track/0gndtLhT5ExWIKmRJo6TUx) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C) | [pasan los días](https://open.spotify.com/album/4JEbDeeXUEQ97zkDFGcQLK) | 2:44 |
 | 50 | [Míráme](https://open.spotify.com/track/59vdxakMPGSDidajykh9sa) | [Buh](https://open.spotify.com/artist/6QWJGmTjhSkRhtOcNWJJat) | [El Split de Buh & Millones de Colores](https://open.spotify.com/album/7KNtgrH3CJojbrDzBtePCR) | 0:54 |
 
-Snapshot ID: `AAAAADcVd1V+/T3dcYwxPFNr/Ms2F2nD`
+Snapshot ID: `AAAAAF6MEjEooHjQ/vAOLc6rLM5850vg`

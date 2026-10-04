@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 240220,
+  "num_followers": 240245,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABbRWWdRBjlfiDmaCefsc/l",
+  "snapshot_id": "ar70AAAAAADXriZsyOCqCzYyYE+AtGtg",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         },
         {
-          "name": "Los Buchones de Culiacan",
-          "url": "https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 199836,
-      "name": "Trato De Muerte",
-      "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
+      "duration_ms": 168653,
+      "name": "Qu\u00e9 Tiene De Malo",
+      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
     },
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Los Buchones de Culiacan",
+          "url": "https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa"
         }
       ],
-      "duration_ms": 168653,
-      "name": "Qu\u00e9 Tiene De Malo",
-      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
+      "duration_ms": 199836,
+      "name": "Trato De Muerte",
+      "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,992 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,994 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 13 | [Why Do You Love Me?](https://open.spotify.com/track/6mnDez8mWJqlTyp6GjCKKR) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 4:51 |
 | 14 | [Late October \- 2005 Digital Remaster](https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:44 |
 | 15 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
-| 16 | [Little Heart \- 2013 Remaster](https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 7:38 |
+| 16 | [Faraon \- 2013 Remaster](https://open.spotify.com/track/5MGYcaAg4dci4djv6VfPL1) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:17 |
 | 17 | [Bloody And Blunt](https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 2:13 |
 | 18 | [The Pearl \- 2005 Digital Remaster](https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:14 |
 | 19 | [Steal Away \- Remastered 2004](https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Eugene Bowen](https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 1:29 |
-| 20 | [Faraon \- 2013 Remaster](https://open.spotify.com/track/5MGYcaAg4dci4djv6VfPL1) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:17 |
+| 20 | [Little Heart \- 2013 Remaster](https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 7:38 |
 | 21 | [Eyes Are Mosaics](https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 4:09 |
 | 22 | [The Silver Ball \- 2005 Digital Remaster](https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:31 |
 | 23 | [Among Fields Of Crystal \- Remastered 2004](https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 49 | [A Formless Path](https://open.spotify.com/track/2WdSMNXQIX2X9CJ8GZcTyW) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 4:23 |
 | 50 | [Sandtreader](https://open.spotify.com/track/3FJoVDx4afHl2IE9FGn0zJ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 5:34 |
 
-Snapshot ID: `ar2igAAAAABnxJtFoY+gnSA7AE9pybQS`
+Snapshot ID: `ar70AAAAAACWBE2xS3P+tBi5UI8z94vp`

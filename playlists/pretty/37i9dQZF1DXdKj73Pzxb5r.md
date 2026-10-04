@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: More on Mumbles
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,437 likes - 113 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,443 likes - 113 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 672061,
+  "num_followers": 672128,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACQygMfQar8mHdMCzrG0gDD",
+  "snapshot_id": "ar70AAAAAACcNs1SApAnfGeCBQFHzDrD",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turtleneck & Chain (Explicit Version)",
+        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Motherlover",
+      "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 217266,
       "name": "Family",
       "url": "https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turtleneck & Chain (Explicit Version)",
-        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
-      },
-      "artists": [
-        {
-          "name": "The Lonely Island",
-          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "Motherlover",
-      "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
     },
     {
       "added_at": null,

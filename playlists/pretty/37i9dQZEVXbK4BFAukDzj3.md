@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,208 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,214 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Babydoll](https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Babydoll](https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq) | 2:58 |
 | 50 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 
-Snapshot ID: `MlMuiAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 965250,
+  "num_followers": 965396,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAADuaRaqNOQQP+NUtu+foW5J",
+  "snapshot_id": "ar70AAAAAADLqBCbfv8c8Z+Hqs0zGyWb",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: My Prerogative",
-        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Do Somethin'",
-      "url": "https://open.spotify.com/track/77rzoJ5VaC2BLB1IkjGnoi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Britney (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 206960,
       "name": "Boys",
       "url": "https://open.spotify.com/track/4rIz1mOBHqIo6Mk7DzuoPs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits: My Prerogative",
+        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "Do Somethin'",
+      "url": "https://open.spotify.com/track/77rzoJ5VaC2BLB1IkjGnoi"
     },
     {
       "added_at": null,
@@ -740,13 +740,29 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         },
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         }
       ],
-      "duration_ms": 172906,
-      "name": "Matches",
-      "url": "https://open.spotify.com/track/5x0ON9RTinvk06U7SwLXjW"
+      "duration_ms": 230253,
+      "name": "Make Me... (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/7JGoiIouGqreRXOrHFAIyr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/4PoTu14Wi2o9l0Rb09gBCa"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 163952,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/6QicTxeiSaRkPnkGDUvYOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/4PoTu14Wi2o9l0Rb09gBCa"
     },
     {
       "added_at": null,
@@ -812,13 +812,13 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         },
         {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 230253,
-      "name": "Make Me... (feat. G-Eazy)",
-      "url": "https://open.spotify.com/track/7JGoiIouGqreRXOrHFAIyr"
+      "duration_ms": 172906,
+      "name": "Matches",
+      "url": "https://open.spotify.com/track/5x0ON9RTinvk06U7SwLXjW"
     },
     {
       "added_at": null,

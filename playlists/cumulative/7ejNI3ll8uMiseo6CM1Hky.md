@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-198 songs - 11 hr 3 min
+199 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/track/5EcejFT18sRlINSUm9UrN2) | [Lyamev](https://open.spotify.com/artist/66JRvwn4ZWl96JJauc7xXa) | [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/album/3DBq5ATRCN44y57HL3HCzl) | 1:21 | 2025-11-23 |  |
 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 | 2026-07-21 |  |
 | [Closer](https://open.spotify.com/track/3F4M4IaluOCuLto737CRXq) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Closer](https://open.spotify.com/album/4MibJfBVUOE0xrGJVg6WXS) | 4:31 | 2018-12-06 |  |
+| [Codetalker](https://open.spotify.com/track/6i7ICv9BcNzi2yZpfetZdT) | [Packtion](https://open.spotify.com/artist/716MXSsG0WrqmDfj8yv5ja) | [Endacopia Game Soundtrack, Vol\. 2](https://open.spotify.com/album/3deWubBeE8hYy2uqPXfHJT) | 1:08 | 2026-10-03 |  |
 | [Cotton Candy](https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Cotton Candy](https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE) | 2:51 | 2024-12-03 | 2025-01-09 |
 | [Crystal Dolphin](https://open.spotify.com/track/6kx8Hf1Udk4V0Ivq6zpoyG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Crust Fm](https://open.spotify.com/album/2YZJ2QWjBY1tDqcy8u4nkC) | 1:55 | 2019-04-27 |  |
 | [Cuphead Rap](https://open.spotify.com/track/3GMuEUTFL1sNfLrY4q4qW5) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [O.P.](https://open.spotify.com/album/2FbTHUdaQgMPVKR0mfmvvN) | 3:51 | 2020-03-26 |  |

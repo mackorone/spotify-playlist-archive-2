@@ -4,12 +4,13 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-190 songs - 12 hr 19 min
+191 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A blaze of light](https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2) | [momo.wav](https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA) | [A blaze of light](https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr) | 2:50 | 2026-08-17 |  |
 | [A Ghost](https://open.spotify.com/track/3iqVEqY5MhqWWnefad3AAr) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [A Ghost](https://open.spotify.com/album/1Q7KenxMx2VIjtfAIoZh1R) | 3:01 | 2026-02-06 | 2026-04-05 |
+| [Adamak](https://open.spotify.com/track/63I8aEaFFHMOC9HAntBflc) | [ARVANwave](https://open.spotify.com/artist/5uO5G0LFlfkixcRCGGvx1E) | [Adamak](https://open.spotify.com/album/3mGrtHfwBmpzi1V5GU1DhG) | 2:54 | 2026-10-03 |  |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2025-11-04 | 2025-12-08 |
 | [Alive \- Radio Mix](https://open.spotify.com/track/7pBej7hqxOtuJLTOFPhtjU) | [Mousik](https://open.spotify.com/artist/3IcHQz5yyO1XOXcBJv7Ng8) | [Alive](https://open.spotify.com/album/3beMNU6D4T0tGCafy9ogHl) | 3:14 | 2026-08-27 |  |
 | [All of the Secrets](https://open.spotify.com/track/75I2z8EnpgGZE5aNz7ELhf) | [Jeffro Bean](https://open.spotify.com/artist/3m7gofjm9zfgc8U0dBa1Ok), [J.D\. Minor](https://open.spotify.com/artist/7vtyibQSoRMsbVnvOcjgiQ) | [All of the Secrets](https://open.spotify.com/album/7DvcV1EG6EegUMmJ2HjzhM) | 4:36 | 2026-08-27 |  |

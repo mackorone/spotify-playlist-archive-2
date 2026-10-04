@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלך\. שירים יפים מישראל והעולם\. קאבר: פול טראנק
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,723 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,724 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

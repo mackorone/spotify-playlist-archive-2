@@ -4,7 +4,7 @@
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 38 min
+63 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cupid \- Deluxe Edition Version](https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:48 | 2026-03-06 |  |
 | [Don't Go To Strangers \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/3kt92YozPwnpnE5yQziJ60) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 4:36 | 2025-10-28 |  |
 | [Fuck Me Pumps](https://open.spotify.com/track/1FLzTxrNNgqrAEsQvHJ9Gx) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:20 | 2025-10-28 |  |
+| [Fuckery \- Me & Mr Jones / Original Demo](https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Fuckery \(Me & Mr Jones \- Original Demo\)](https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp) | 2:31 | 2026-10-04 |  |
 | [Half Time](https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 3:50 | 2025-10-28 |  |
 | [He Can Only Hold Her](https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:44 | 2026-03-13 |  |
 | [He Can Only Hold Her](https://open.spotify.com/track/3eVo0wD4kGwF3gshtecZso) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:46 | 2025-10-28 | 2026-03-13 |

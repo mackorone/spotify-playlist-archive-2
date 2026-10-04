@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,666 likes - 70 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,669 likes - 70 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

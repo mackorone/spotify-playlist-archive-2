@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,770 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,778 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 39 | [Lay Down \(feat\. GloRilla\) \- Remix](https://open.spotify.com/track/65XnjGELsYIUOLsEYZKwKn) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lay Down \(feat\. GloRilla\) \[Remix\]](https://open.spotify.com/album/1o6b0z1PJwMSPcPXfQQHir) | 3:33 |
 | 40 | [Accent \(feat\. GloRilla\)](https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:19 |
 | 41 | [Blessed](https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:36 |
-| 42 | [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 |
-| 43 | [Can You Please \(feat\. GloRilla\)](https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Can You Please](https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI) | 2:34 |
+| 42 | [Can You Please \(feat\. GloRilla\)](https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Can You Please](https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI) | 2:34 |
+| 43 | [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 |
 | 44 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 |
 | 45 | [Don't Know \(GloRidaz Bonus\)](https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 2:32 |
 | 46 | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Out Loud Thinking](https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:50 |
 | 50 | [Eat 'Em Up](https://open.spotify.com/track/77vHCGBBmOiu8gQFsHBXdc) | [Reese's Puffs](https://open.spotify.com/artist/2QFZNaEkhZ7tXUU2W3QSQl), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Eat 'Em Up](https://open.spotify.com/album/6alxQLTcjpRf7SYfUcmfCF) | 1:19 |
 
-Snapshot ID: `ar2igAAAAAAlqS/J8RZK9lJPVGsqAr3B`
+Snapshot ID: `ar70AAAAAAAn7vh1ZWjrKQJP/KN+4H0A`

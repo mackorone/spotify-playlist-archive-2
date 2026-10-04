@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,016 likes - 150 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,134 likes - 150 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 55 | [Up on the Roof](https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:37 |
 | 56 | [Break It To Me Gently](https://open.spotify.com/track/5JccvAiwcZ7n3urnXqWPsG) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [..."Let Me Sing"](https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4) | 2:44 |
 | 57 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
-| 58 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
-| 59 | [Are You Lonesome Tonight?](https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 3:06 |
-| 60 | [The Look Of Love](https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Look Of Love \(Expanded Edition\)](https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh) | 3:36 |
+| 58 | [Are You Lonesome Tonight?](https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 3:06 |
+| 59 | [The Look Of Love](https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Look Of Love \(Expanded Edition\)](https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh) | 3:36 |
+| 60 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
 | 61 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
 | 62 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
 | 63 | [Till There Was You \- Remastered 1995](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 87 | [Skyline Pigeon](https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:37 |
 | 88 | [Honey \(I Miss You\)](https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Gary Puckett & The Union Gap Featuring "Young Girl"](https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M) | 4:12 |
 | 89 | [As Tears Go By \- \(Original Single Mono Version\)](https://open.spotify.com/track/5rUwnfuvEebahvFInZB8mC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Singles 1965\-1967](https://open.spotify.com/album/1IeXdR2ptc5Jhxmko89CgE) | 2:45 |
-| 90 | [This Magic Moment](https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3), [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ) | [Hits](https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9) | 2:27 |
+| 90 | [This Magic Moment](https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3), [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Hits](https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9) | 2:27 |
 | 91 | [For Your Precious Love](https://open.spotify.com/track/4HiOvJ1lASRijDaaqtZQ9N) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO), [Jerry Butler](https://open.spotify.com/artist/0U2mUJuJkthantMGmsJygP) | [For Your Precious Love...](https://open.spotify.com/album/2PHrZGSFqrXwJ4RM5svp4T) | 2:45 |
 | 92 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
 | 93 | [Its Been a Long, Long Time](https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ) | [Kitty Kallen](https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II) | [Kitty Kallen's Coloring Book](https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU) | 3:24 |

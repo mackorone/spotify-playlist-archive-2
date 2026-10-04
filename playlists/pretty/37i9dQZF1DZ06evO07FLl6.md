@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,150 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,166 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 42 | [Julien dans l'ascenseur \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/187EUpV70OeUMCGwz1GaT7) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:09 |
 | 43 | [Studio Discussion \- One](https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Complete Columbia Studio Recordings](https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz) | 0:30 |
 | 44 | [Oleo \- RVG Remastered 2008](https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder 2008 Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 5:12 |
-| 45 | [The Duke](https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:34 |
-| 46 | [I Loves You, Porgy \(From "Porgy & Bess"\)](https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:13 |
+| 45 | [I Loves You, Porgy \(From "Porgy & Bess"\)](https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:13 |
+| 46 | [The Duke](https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:34 |
 | 47 | [Straight, No Chaser \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 10:35 |
 | 48 | [Airegin \- RVG Remastered 2008](https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder 2008 Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 4:59 |
 | 49 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/2cKH6blsLnE8oEEmAu34YB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband](https://open.spotify.com/album/0m3hXmvbvwjpIXai7HOWys) | 5:44 |
 | 50 | [How Deep Is The Ocean](https://open.spotify.com/track/3egtoc5ShzYYaTbFHuMtQS) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [A Night of Miles Davis](https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi) | 4:38 |
 
-Snapshot ID: `ar2igAAAAAAkXA30T3d+vGgKIriMmrJG`
+Snapshot ID: `ar70AAAAAAAem1QU90+HMYmpCNpYnaNI`

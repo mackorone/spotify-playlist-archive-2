@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "I Think You're In Love With Me",
+        "url": "https://open.spotify.com/album/2u3EqWV93xDtwTogBNAI4V"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194639,
+      "name": "I Think You're In Love With Me",
+      "url": "https://open.spotify.com/track/2F08tQVMVWZY4kFfCcANoX"
+    },
+    {
+      "album": {
         "name": "If You Never Broke My Heart",
         "url": "https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN"
       },

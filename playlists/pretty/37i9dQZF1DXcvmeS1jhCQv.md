@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: SOAK
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,601 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,610 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,421 likes - 116 songs - 6 hr 15 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,421 likes - 117 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 114 | [I Love To Boogie \(From "Billy Elliot"\)](https://open.spotify.com/track/2yCXjCr32mfkJ4JPxQ35dz) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Dandy In The Underworld](https://open.spotify.com/album/0yKKzDz0Uod7oCHb10pBwt) | 2:15 |
 | 115 | [Twisted](https://open.spotify.com/track/3lnjiEMyKpAPtOEZR6Heyb) | [Anna Marx](https://open.spotify.com/artist/0uVaLTYvT29QKgp1NIkPp8) | [Twisted](https://open.spotify.com/album/1PKXY8u4zqwEuOfAJbFPkG) | 2:22 |
 | 116 | [Leaving Lewis](https://open.spotify.com/track/0ALm9JXJJWok8bmnF0fTcI) | [Willie Campbell](https://open.spotify.com/artist/1f9HLcCq2yssKl9qIhpXAU) | [Leaving Lewis](https://open.spotify.com/album/70qBYevsHzieH2yI36dmXg) | 3:18 |
+| 117 | [A Reckless Expenditure](https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [A Reckless Expenditure](https://open.spotify.com/album/4SGD85gF2YlRVSaXarQSTX) | 1:49 |
 
-Snapshot ID: `AACE3zcs78O0vdNtYfiSPQPteGrg9kie`
+Snapshot ID: `AACE4XK7yVE0htCjol+efgVteG8FBZbL`

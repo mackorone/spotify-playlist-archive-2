@@ -4,7 +4,7 @@
 
 > Chill r&b\. Cover: Sasha Keable
 
-1,816 songs - 4 day 3 hr 41 min
+1,818 songs - 4 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,6 +780,7 @@
 | [I Tried](https://open.spotify.com/track/3TAp8qfC53qxlzES7ndQ9I) | [REMI](https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2) | [I Tried](https://open.spotify.com/album/5eYl7iDIe77e2BaqfVpApg) | 3:34 | 2026-05-08 | 2026-09-19 |
 | [I Want U](https://open.spotify.com/track/4K5rlQ6RVXRj6YdjnzSdTV) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [I Want U](https://open.spotify.com/album/66zinMdb5QXAXZ15bbzFpB) | 3:33 | 2026-09-04 |  |
 | [I Want U](https://open.spotify.com/track/6wcqflUBDVLwvt1j3yv0hN) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [I Want U](https://open.spotify.com/album/0cmel8MlOfabznNse6LrTJ) | 3:33 | 2026-08-28 | 2026-09-05 |
+| [I Want You](https://open.spotify.com/track/43oTdiVKrsSc4ITvM2VGgs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:56 | 2026-10-03 |  |
 | [I Want You Around](https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:32 | 2019-10-11 | 2020-06-13 |
 | [I WANT YOU BACK](https://open.spotify.com/track/2uT340YoNU82MQmG7fgKk0) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz) | [I WANT YOU BACK](https://open.spotify.com/album/0RduEW1uFQjiR2J25MmG3H) | 3:18 | 2026-04-03 |  |
 | [I Win](https://open.spotify.com/track/3YQIq2JBC6qk3NgABjxrMO) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [I Win](https://open.spotify.com/album/1DTSQOWzN1AjizgQ505HrM) | 2:13 | 2025-11-14 | 2026-02-07 |
@@ -848,7 +849,7 @@
 | [Journey To The Sun \(feat\. Ariel J.\)](https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Ariel J.](https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa) | [Journey To The Sun \(feat\. Ariel J.\)](https://open.spotify.com/album/1XQSX1VNJPrSR5UEhmlrL9) | 3:50 | 2026-01-16 | 2026-08-01 |
 | [Juice](https://open.spotify.com/track/2wG9CUSBZaF15R2ohLAnoe) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [War + Raindrops \- EP](https://open.spotify.com/album/5ZipLDlHox3k4OL9X2qwSf) | 3:28 | 2019-07-10\* | 2019-10-08 |
 | [JUICY](https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [JUICY](https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP) | 3:12 | 2025-09-12 | 2026-01-15 |
-| [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 | 2026-09-11 |  |
+| [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 | 2026-09-11 | 2026-10-04 |
 | [June 15th](https://open.spotify.com/track/6LikRE4RwaYvfm79UwEU3X) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [June 15th](https://open.spotify.com/album/3NZoQUV5mWoXx9CrCZvulx) | 2:43 | 2023-05-12 | 2024-02-24 |
 | [June 1st](https://open.spotify.com/track/4sGytBCmSavdzoFQdXoTX2) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [HAPPY 2 BE HERE \(Anniversary Edition\)](https://open.spotify.com/album/1djR94Uyy0vjecCXfOdXng) | 1:51 | 2021-02-27 | 2021-10-23 |
 | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5iIHoQxObmmmsLL4lbAaCp) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:45 | 2024-06-14 | 2024-09-28 |
@@ -1549,7 +1550,7 @@
 | [Swing My Way](https://open.spotify.com/track/7mUS0pwQq454agqAj1bhHE) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:40 | 2023-06-16 | 2024-02-10 |
 | [SWITCH](https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SWITCH](https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW) | 1:44 | 2023-03-24 | 2023-09-17 |
 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 | 2023-09-29 | 2024-07-19 |
-| [swv](https://open.spotify.com/track/6GJc93iZwtT1sennWoDYLa) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [SLIDER II](https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or) | 2:42 | 2026-01-09 |  |
+| [swv](https://open.spotify.com/track/6GJc93iZwtT1sennWoDYLa) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [SLIDER II](https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or) | 2:42 | 2026-01-09 | 2026-10-04 |
 | [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 | 2025-06-20 | 2026-02-07 |
 | [T.B.D.](https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0) | [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv) | [T.B.D.](https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP) | 3:03 | 2023-10-06 | 2024-06-22 |
 | [TABOO](https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [TABOO](https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10) | 2:45 | 2026-03-06 | 2026-08-01 |
@@ -1801,6 +1802,7 @@
 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 | 2023-09-22 | 2023-11-18 |
 | [Yamz](https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Yamz](https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ) | 4:05 | 2022-11-25 | 2023-01-21 |
 | [Yearning](https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Yearning](https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq) | 2:53 | 2026-09-18 |  |
+| [Yeeha](https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Yeeha](https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB) | 3:59 | 2026-10-03 |  |
 | [YES](https://open.spotify.com/track/6mSFZqIAC0is8g7B9bdl2m) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [YES](https://open.spotify.com/album/7mTgsCUAA1iQGNz7S4TrOr) | 3:43 | 2026-07-10 |  |
 | [YES IT IS](https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:48 | 2024-09-27 | 2025-02-15 |
 | [YES IT IS \(feat\. Muni Long & Marsha Ambrosius\) \[REMIX\]](https://open.spotify.com/track/348qRxgLJ8qWtyYtZlHSNR) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [YES IT IS \(REMIX\)](https://open.spotify.com/album/1Viv4fJ9b6pQH98zby2XxA) | 4:02 | 2025-09-06 | 2026-04-11 |

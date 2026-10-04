@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,083 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,090 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 13 | [Desafinado](https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:08 |
 | 14 | [Bim Bom](https://open.spotify.com/track/2QNZSb9xMwUzZ6eepum6m2) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 1:16 |
 | 15 | [Palpite Infeliz](https://open.spotify.com/track/41hMxxMGTD38PTN10YMDKR) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 3:53 |
-| 16 | [Ela e Carioca](https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Brazil 2](https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT) | 3:04 |
+| 16 | ['S Wonderful](https://open.spotify.com/track/3lSpczrXGWy6Bzc28KGHhE) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 4:09 |
 | 17 | [Vivo Sohando \- Stereo Version](https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:56 |
 | 18 | [Desafinado](https://open.spotify.com/track/2gHQYQuoGGjpa6I1Km5kSh) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 1:58 |
-| 19 | ['S Wonderful](https://open.spotify.com/track/3lSpczrXGWy6Bzc28KGHhE) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 4:09 |
+| 19 | [Ela e Carioca](https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Brazil 2](https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT) | 3:04 |
 | 20 | [Meditação \- Ultimate Mix](https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:46 |
 | 21 | [The Girl From Ipanema \- Single Version](https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:47 |
 | 22 | [Samba Da Minha Terra \- Live At Carnegie Hall/1964](https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 3:08 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 40 | [Aguas de Março](https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz / Gilberto ‘76](https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8) | 5:45 |
 | 41 | [Izaura](https://open.spotify.com/track/4im3cvYs2A3dIjBDlXJU3C) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:28 |
 | 42 | [O Barquinho](https://open.spotify.com/track/6Ik8XZNTmccrLsDAntx9iO) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 2:30 |
-| 43 | [Você Vai Ver](https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:56 |
-| 44 | [Corcovado](https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Corcovado](https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza) | 1:58 |
+| 43 | [Corcovado](https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Corcovado](https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza) | 1:58 |
+| 44 | [Você Vai Ver](https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:56 |
 | 45 | [É preciso Perdoar](https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:08 |
 | 46 | [Um Abraco No Bonfa \- Live At Carnegie Hall/1964](https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:51 |
-| 47 | [Desde Que O Samba E Samba](https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 3:54 |
-| 48 | [Eu Vim Da Bahia](https://open.spotify.com/track/6PaGKXRsHpFFcd2DV5ToY1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz / Gilberto ‘76](https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8) | 4:10 |
+| 47 | [Eu Vim Da Bahia](https://open.spotify.com/track/6PaGKXRsHpFFcd2DV5ToY1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz / Gilberto ‘76](https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8) | 4:10 |
+| 48 | [Desde Que O Samba E Samba](https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 3:54 |
 | 49 | [Undiú](https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 6:37 |
 | 50 | [Saudade Fêz Um Samba](https://open.spotify.com/track/5pDxXDEmEKKa658VxDH29J) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw) | 1:47 |
 
-Snapshot ID: `ar2igAAAAAA/HG+i6DOcBYCI8W8BXwAg`
+Snapshot ID: `ar70AAAAAAAP6K196L6yJA9pQfqkxLWu`

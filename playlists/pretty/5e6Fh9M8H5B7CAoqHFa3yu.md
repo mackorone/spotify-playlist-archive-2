@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,718 songs - 6 day 14 hr 25 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,720 songs - 6 day 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2726,5 +2726,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2716 | [Nightfall](https://open.spotify.com/track/1ZxBd5l7IKz7SIDdqarzXa) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:40 |
 | 2717 | [Sweet Dreams](https://open.spotify.com/track/40rTpjhIAw6h8DujR13VuY) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beat Tape 1](https://open.spotify.com/album/0MzgGHyTQ7D0gZhS5Ucxy3) | 2:34 |
 | 2718 | [Kiss My Baby Goodbye](https://open.spotify.com/track/5QpwBp5IRU7sC1OFocsL9s) | [Aly Berry](https://open.spotify.com/artist/5cKQvzBmGmmwUoUp0ZQYI7) | [Kiss My Baby Goodbye](https://open.spotify.com/album/2EnFl6F2TJ0nhSDP5SHxbE) | 2:56 |
+| 2719 | [La Música te Salva](https://open.spotify.com/track/01g4UErYYoMIIj4Y3bQf6T) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [La Música te Salva](https://open.spotify.com/album/0mg1HX7tRrOyJTUY2VkTB2) | 3:12 |
+| 2720 | [Draakje Daan Durft Te Vliegen](https://open.spotify.com/track/3OuaGFZ8TtB7bxNsd1fZOw) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [Draakje Daan Durft Te Vliegen](https://open.spotify.com/album/6QihQOCt61dMfcGE5DveWk) | 1:47 |
 
-Snapshot ID: `AAALn7UkceotkKT8bjj05B/bl8ZWwBhI`
+Snapshot ID: `AAALoW095UsAoHltEbPdcQ3GL5Z/ludN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,938 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,981 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [2009 Reggie Bush](https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 3:24 |
 | 50 | [AWKWARD CAR DRIVE](https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [GERM HAS A DEATHWISH](https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23) | 1:49 |
 
-Snapshot ID: `ar2igAAAAACSa97JkbmiJkhrxCRhxf1a`
+Snapshot ID: `ar70AAAAAAAOPGnmrUi7Yf6xx3TaxJAf`

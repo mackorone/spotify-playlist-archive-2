@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,237 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,341 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 124 | [God](https://open.spotify.com/track/7hzkt0Vdmqo1xAADVseb3y) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [God](https://open.spotify.com/album/3li9CStMM1QmEd5A35ImP7) | 3:32 |
 | 125 | [A Month Or Two](https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 3:11 |
 
-Snapshot ID: `AAAAAM70SuTkrvCg9ufZ771l+2R17RCh`
+Snapshot ID: `AAAAAO1IChJEb7XzsALOzjEVaibAZKkD`

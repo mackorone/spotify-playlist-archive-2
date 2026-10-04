@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Grace Ives
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,224 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,237 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

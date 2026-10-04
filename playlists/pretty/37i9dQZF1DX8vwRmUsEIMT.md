@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,529 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,537 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 12 | [See You In My Dreams \(feat\. SZA\)](https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:38 |
 | 13 | [How Lonely](https://open.spotify.com/track/4sjZn5XgFvFEilkZ2HbCvB) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [How Lonely](https://open.spotify.com/album/0szH0V7q7wxhn47PBYQfVl) | 3:45 |
 | 14 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
-| 15 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 15 | [Track \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Track \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 16 | [options](https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [options](https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy) | 3:32 |
 | 17 | [Gameshow](https://open.spotify.com/track/42YJvxWu8ABMMesKInBw80) | [Skream & Benga](https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Gameshow](https://open.spotify.com/album/0nvhh2fwBf8eKBUqtFZ9Gy) | 3:01 |
 | 18 | [World's Greatest!](https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [World's Greatest!](https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A) | 3:50 |

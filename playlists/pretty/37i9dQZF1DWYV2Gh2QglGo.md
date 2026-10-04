@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Madeline Merlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,550 likes - 200 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,549 likes - 200 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,135 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,135 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 34 | [Rainy Days and Mondays](https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 6:35 |
 | 35 | [I’m Sold on You](https://open.spotify.com/track/7lGyHxdp14qdveB9CSuGUx) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’m Sold on You](https://open.spotify.com/album/2NcbspIsbWVrNmJBDaNlP5) | 2:03 |
 | 36 | [This is my song](https://open.spotify.com/track/1wzgrrdlW28uQAr5s5rCtV) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [This is my song](https://open.spotify.com/album/1WAQLZA5LNz5nHfLEbUanT) | 3:00 |
-| 37 | [Guess Who Loves Me](https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:37 |
+| 37 | [I’ve Got Love For You](https://open.spotify.com/track/60ffDCaVzED9bU4aJseNb1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’ve Got Love For You](https://open.spotify.com/album/1FpqODUCOe2eFvRWjR6xur) | 2:16 |
 | 38 | [What's Easy for Two Is so Hard for One](https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:17 |
-| 39 | [I’ve Got Love For You](https://open.spotify.com/track/60ffDCaVzED9bU4aJseNb1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’ve Got Love For You](https://open.spotify.com/album/1FpqODUCOe2eFvRWjR6xur) | 2:16 |
+| 39 | [Guess Who Loves Me](https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:37 |
 | 40 | [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 |
-| 41 | [I Didn't Know](https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:46 |
+| 41 | [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 |
 | 42 | [You're My One & Only Baby](https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:14 |
-| 43 | [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 |
+| 43 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
 | 44 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
-| 45 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
+| 45 | [Jack Be Nimble](https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old School Soul Masters](https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh) | 2:45 |
 | 46 | [Dance Boy](https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:13 |
-| 47 | [Jack Be Nimble](https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old School Soul Masters](https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh) | 2:45 |
-| 48 | [ALL THE TIME](https://open.spotify.com/track/2ChIzSUiDAn9D7nf6MyLOv) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [ザ・イントゥルーダーズ・アー・トゥゲザー](https://open.spotify.com/album/5OcIlk2jXD9ikgWwlmMqsa) | 2:09 |
-| 49 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
-| 50 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
+| 47 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
+| 48 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
+| 49 | [I Didn't Know](https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:46 |
 
-Snapshot ID: `ar2igAAAAAC5Dxg5od/Fqk7hVDMduZ1w`
+Snapshot ID: `ar70AAAAAABCf8wl7Bl1PtH5VgF6tLJ9`

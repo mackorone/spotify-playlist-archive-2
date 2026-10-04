@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 117342,
+  "num_followers": 117354,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABBLjFgGTHBylJhlobt0jtr",
+  "snapshot_id": "ar70AAAAAAB7y+QYHfIbX2JgxSV5uc0K",
   "tracks": [
     {
       "added_at": null,
@@ -751,38 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "What Sober Couldn't Say",
-      "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 254838,
-      "name": "Rain Your Blood On Me",
-      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 254887,
       "name": "Out In the Rain",
       "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 254838,
+      "name": "Rain Your Blood On Me",
+      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "What Sober Couldn't Say",
+      "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
     },
     {
       "added_at": null,

@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Message To Love (Live At Berkeley - 1st Show)",
+        "url": "https://open.spotify.com/album/3Mopoz7RPHqwNameTOsCvz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332800,
+      "name": "Message To Love - Live At Berkeley - 1st Show",
+      "url": "https://open.spotify.com/track/1cERuP1cDlK5XFWndnTDWC"
+    },
+    {
+      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 221360,
       "name": "Things I Used to Do",
       "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"

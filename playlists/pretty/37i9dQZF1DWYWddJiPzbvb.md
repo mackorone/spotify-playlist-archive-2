@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWddJiPzbvb.md) - [plain]
 
 > Chilled songs that you are familiar with \- no surprises!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,216,599 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,216,709 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

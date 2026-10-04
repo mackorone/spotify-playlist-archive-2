@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,110 likes - 55 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,118 likes - 55 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

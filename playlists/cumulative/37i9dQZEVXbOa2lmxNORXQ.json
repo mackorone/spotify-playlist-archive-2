@@ -10862,7 +10862,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -10928,7 +10928,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -11464,7 +11464,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 255905,
       "name": "En Las Noches Frias",
       "url": "https://open.spotify.com/track/0a0JiZejbYYem1W31fldde"
@@ -12182,7 +12182,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 187076,
       "name": "EXCESOS",
       "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
@@ -28945,6 +28945,24 @@
     },
     {
       "album": {
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
+    },
+    {
+      "album": {
         "name": "Rip Pusho (Por Pillo)",
         "url": "https://open.spotify.com/album/1glIQIaBqot8i4xbZVOExL"
       },
@@ -35620,7 +35638,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 240000,
       "name": "VAMO A VEL",
       "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"

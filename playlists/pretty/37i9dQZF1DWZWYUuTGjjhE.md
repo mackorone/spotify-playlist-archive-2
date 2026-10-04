@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,048 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,047 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 26 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:48 |
 | 27 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Definitive Collection](https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y) | 2:43 |
 | 28 | [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 |
-| 29 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [Drifters](https://open.spotify.com/artist/2V30mUQ9pgabonDNKsiVWQ) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
+| 29 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
 | 30 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
 | 31 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
 | 32 | [Cry to Me](https://open.spotify.com/track/2sCf9tz6LHByczuVT7rqIx) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:34 |

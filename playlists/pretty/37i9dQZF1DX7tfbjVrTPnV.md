@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > New and classic releases from Americana stalwarts\. Cover: Wynonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,318 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,373 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

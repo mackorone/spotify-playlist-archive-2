@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,299,718 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,299,817 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 |
 | 100 | [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 |
 
-Snapshot ID: `AAAAADbhbEgFz4dL3ExtpTbusI8si7Ms`
+Snapshot ID: `AAAAAIdyFJ5zDy6m1neoliTRYp+AQwOS`

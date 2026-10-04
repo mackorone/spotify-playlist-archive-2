@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 4Aces
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,050 likes - 172 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,063 likes - 172 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

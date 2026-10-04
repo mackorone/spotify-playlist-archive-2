@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2458,
+  "num_followers": 2457,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAADH9V0WKu9O5YxkQ7mZ8uiL",
+  "snapshot_id": "ar70AAAAAABdmYPaciQfR59WATQWoOkT",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AFROLANDIA",
+        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 172434,
+      "name": "MAZA",
+      "url": "https://open.spotify.com/track/0CpbXYbLQk4ALP7geleeSs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RUMBA",
         "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFROLANDIA",
-        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 172434,
-      "name": "MAZA",
-      "url": "https://open.spotify.com/track/0CpbXYbLQk4ALP7geleeSs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLOSS DIOR",
         "url": "https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 147096,
       "name": "GLOSS DIOR",
       "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Credo",
+        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
     },
     {
       "added_at": null,
@@ -615,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Credo",
-        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
+        "name": "BELIKBOY",
+        "url": "https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc"
       },
       "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 127384,
-      "name": "Mi Credo",
-      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
+      "duration_ms": 165000,
+      "name": "BELIKBOY",
+      "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
     },
     {
       "added_at": null,
@@ -667,26 +687,6 @@
       "duration_ms": 199384,
       "name": "Vino Rosa",
       "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BELIKBOY",
-        "url": "https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc"
-      },
-      "artists": [
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "BELIKBOY",
-      "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
     },
     {
       "added_at": null,

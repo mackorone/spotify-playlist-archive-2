@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 209499,
+  "num_followers": 209539,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACoL8UtdChCdR+V7dtG6UdJ",
+  "snapshot_id": "ar70AAAAAAA9iFOO+fy8LgugEuV4UxjU",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drug Dealer (feat. Ariana DeBoo)",
-        "url": "https://open.spotify.com/album/3ef118ZZtTNsk0Z1h3Ak6E"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ariana DeBoo",
-          "url": "https://open.spotify.com/artist/5ZpkHItfsaTaVtErDGDJ4v"
-        }
-      ],
-      "duration_ms": 223458,
-      "name": "Drug Dealer (feat. Ariana DeBoo)",
-      "url": "https://open.spotify.com/track/2zM1k4PnL573ayLHqpQaQN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 219106,
       "name": "St. Ides",
       "url": "https://open.spotify.com/track/7bkZhh7uKi9b60fjob2XGt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drug Dealer (feat. Ariana DeBoo)",
+        "url": "https://open.spotify.com/album/3ef118ZZtTNsk0Z1h3Ak6E"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ariana DeBoo",
+          "url": "https://open.spotify.com/artist/5ZpkHItfsaTaVtErDGDJ4v"
+        }
+      ],
+      "duration_ms": 223458,
+      "name": "Drug Dealer (feat. Ariana DeBoo)",
+      "url": "https://open.spotify.com/track/2zM1k4PnL573ayLHqpQaQN"
     },
     {
       "added_at": null,

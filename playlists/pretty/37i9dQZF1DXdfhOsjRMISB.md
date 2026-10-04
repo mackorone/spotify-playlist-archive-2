@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 
 > Country music to accompany you on the open road\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,151 likes - 150 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,411 likes - 150 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

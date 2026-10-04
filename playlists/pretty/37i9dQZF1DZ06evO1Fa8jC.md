@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,013 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,023 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 17 | [Hoy Reggae](https://open.spotify.com/track/1dATWMFFBjvBsmjmyWz8TO) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy Reggae](https://open.spotify.com/album/46IvQS6P6JAxSsHh4ZO79h) | 4:23 |
 | 18 | [Viento](https://open.spotify.com/track/7teQAzSEf3wAM4VMI4jBxW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Viento](https://open.spotify.com/album/3XS34tvsxuuFBAATKDndML) | 4:54 |
 | 19 | [Una Perla en Mi Vida \- Versión 25 Años](https://open.spotify.com/track/3yoT4Lsk5dwmM95lAWTiWL) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:40 |
-| 20 | [Flaca huella](https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:07 |
-| 21 | [Puedo](https://open.spotify.com/track/0TWTda4yD1jdsIlRTQLoA0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:15 |
+| 20 | [Puedo](https://open.spotify.com/track/0TWTda4yD1jdsIlRTQLoA0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:15 |
+| 21 | [Flaca huella](https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:07 |
 | 22 | [Las Preguntas](https://open.spotify.com/track/10onZ2HMiHn5qxlc5TVVU2) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Las Preguntas](https://open.spotify.com/album/53YzTeBi9F8MsaDDSeaigC) | 4:43 |
 | 23 | [El Ángel \- Versión 25 Años](https://open.spotify.com/track/11WUrYOeZgefPOIuEDxJd8) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:06 |
 | 24 | [Suena la Alarma](https://open.spotify.com/track/1JhSOyxBOmnHBr4RnGkMBe) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Capitán Pelusa](https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:07 |
 | 50 | [Boys Don't Cry](https://open.spotify.com/track/4E2RRctYO1FJwBK3u36xQr) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 2:48 |
 
-Snapshot ID: `ar2igAAAAAA4JRz6KthCG0MmjYnA1Mtg`
+Snapshot ID: `ar70AAAAAAD7JeFiU8JDS5Ry0Xrl4A48`

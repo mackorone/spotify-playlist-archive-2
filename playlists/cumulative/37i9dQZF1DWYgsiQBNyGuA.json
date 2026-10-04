@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-08",
-  "description": "Soul to brighten up your day. Cover: The Womack Sisters",
+  "description": "Soul to brighten up your day. Cover: NAO",
   "name": "Soulful Day",
   "tracks": [
     {
@@ -1171,6 +1171,28 @@
     },
     {
       "album": {
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242842,
+      "name": "Don\u2019t Look Any Further (with Lianne La Havas)",
+      "url": "https://open.spotify.com/track/39DPy7HQzepfCdxTy9KD18"
+    },
+    {
+      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY"
       },
@@ -1258,6 +1280,24 @@
       "duration_ms": 185603,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/3nHgOnUhWqLoc5OPUjvDqi"
+    },
+    {
+      "album": {
+        "name": "Eugene / Save The World",
+        "url": "https://open.spotify.com/album/6Dusr0zMg57KbTwHFapiQj"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165511,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/7qmkXF08ElAFoN7Wrn3FW1"
     },
     {
       "album": {
@@ -1551,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Made In Chicago",
+        "url": "https://open.spotify.com/album/3vbq0insUQLxjiFWTcAuce"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6cBP7BZg8nZ5fZtmRMsuRw"
+    },
+    {
+      "album": {
         "name": "Follow the Sunshine",
         "url": "https://open.spotify.com/album/0nlNfR2ijY767dFDKaX3DB"
       },
@@ -1620,6 +1678,24 @@
       "duration_ms": 305829,
       "name": "Free",
       "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
+    },
+    {
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "Gentlewoman",
+      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
     },
     {
       "album": {
@@ -1868,7 +1944,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 119791,
       "name": "Hash Browns",
       "url": "https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7"
@@ -2359,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186665,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/4sIhUC7HG2VWAsuQPwIrXw"
+    },
+    {
+      "album": {
         "name": "Movin' On",
         "url": "https://open.spotify.com/album/6SQyKna2OOhwpwVIrvmMEH"
       },
@@ -2836,7 +2930,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 263845,
       "name": "Love In The Middle - Live",
       "url": "https://open.spotify.com/track/1gzmQd8rqhwGIUfKHIy8VZ"
@@ -3140,7 +3234,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 172933,
       "name": "Move (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG"
@@ -3224,6 +3318,24 @@
       "duration_ms": 213983,
       "name": "My Home (Love Brings Us Here)",
       "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
+    },
+    {
+      "album": {
+        "name": "Songs In The Key Of Life - The EP",
+        "url": "https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238930,
+      "name": "My Life Story Of Love",
+      "url": "https://open.spotify.com/track/3fcek9ONujbKm7piCwDBMN"
     },
     {
       "album": {
@@ -4058,7 +4170,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
@@ -4184,7 +4296,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 200536,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
@@ -5536,7 +5648,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 179438,
       "name": "Work it Out",
       "url": "https://open.spotify.com/track/0prfGgEUQBSdeZCuhaOswM"

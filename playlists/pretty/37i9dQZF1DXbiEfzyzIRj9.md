@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: Dom Dolla, Skepta & Solomun \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,964 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,974 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,838 songs - 7 day 7 hr 1 min
+2,840 songs - 7 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1649,6 +1649,7 @@
 | [いつ逢えたら](https://open.spotify.com/track/6YLUfjcftTF3N4LmKR6OIM) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [いつ逢えたら](https://open.spotify.com/album/5ZfeL7vTGeENYg7RRq6lby) | 4:05 | 2023-04-10 | 2023-04-12 |
 | [いのちのパレヱド](https://open.spotify.com/track/0IerodT2kkmffBh02FflGJ) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [いのちのパレヱド](https://open.spotify.com/album/1rVMxPiU2H6GVFLEmZV695) | 2:49 | 2025-10-02 | 2026-01-15 |
 | [いらないもの](https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [いらないもの](https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl) | 3:05 | 2024-10-03 | 2025-01-12 |
+| [いれもの](https://open.spotify.com/track/4LxioLlC4EC5wbTAPY7ipC) | [こたに](https://open.spotify.com/artist/4F7KxmlJgFS4wjf8ulIJAq) | [いれもの](https://open.spotify.com/album/5WKWmWFYeBU5aN2yRlRXhI) | 4:56 | 2026-10-02 |  |
 | [うっすら](https://open.spotify.com/track/0rMZDFNaPkcmyoE5RM3Qpz) | [直田姫奈](https://open.spotify.com/artist/7yVbYbyIiTFWEb6gOBUFES) | [うっすら](https://open.spotify.com/album/6IFlGGP8pWOO6KMGFIyHlT) | 4:05 | 2026-01-15 | 2026-01-21 |
 | [うるわし](https://open.spotify.com/track/5kvESVLeUE6ldAIYpBcstS) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [うるわし](https://open.spotify.com/album/4cnaJ9wIlBUVnZJLsPg9Q4) | 4:00 | 2026-01-15 | 2026-04-08 |
 | [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 | 2023-09-12 | 2023-11-22 |
@@ -2821,6 +2822,7 @@
 | [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 | 2022-08-09 | 2022-09-21 |
 | [風のゆくえ \- from CrosSing](https://open.spotify.com/track/4Ed4O9ETPQOCU9kD7gkZFT) | [名塚佳織](https://open.spotify.com/artist/7DNrt1OR5Dv7YNcpDmn5fD) | [風のゆくえ \- from CrosSing](https://open.spotify.com/album/0elDQ19Kzj8mWzx5fQmfML) | 4:29 | 2026-02-24 | 2026-03-04 |
 | [風の中](https://open.spotify.com/track/5sP17r2ILuTv2ih5fnLGjx) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [風の中](https://open.spotify.com/album/6PYt8GA4Sq0No0LSyYTdMj) | 3:23 | 2022-07-26 | 2022-10-02 |
+| [風の中は走るっきゃないっ！](https://open.spotify.com/track/4fK5Y2ExgkIIurCMwt688I) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [風の中は走るっきゃないっ！](https://open.spotify.com/album/1Lk41WCPIDfpqESGmgygCf) | 3:43 | 2026-10-02 |  |
 | [風化](https://open.spotify.com/track/1Rkis9FsnVHd43Tdw52yF4) | [Nanashi no Taro](https://open.spotify.com/artist/32xxJA5U8ot0QZPDllZ1po) | [風化](https://open.spotify.com/album/2cPe6RMbaxOBUXiv7hWG7F) | 3:42 | 2024-10-03 | 2024-10-30 |
 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 | 2026-04-12 | 2026-07-15 |
 | [飛ぶ鳥は](https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [飛ぶ鳥は](https://open.spotify.com/album/7yFZRlYUvUq0UIo6wMzbjR) | 3:50 | 2022-05-28 | 2022-07-06 |

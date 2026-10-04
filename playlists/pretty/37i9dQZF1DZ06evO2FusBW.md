@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,254 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,256 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 23 | [On a Cloud](https://open.spotify.com/track/4FLnSfoyAZ1upX2uerS9XO) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 3:46 |
 | 24 | [Meditation 3](https://open.spotify.com/track/2eVjNpkhzfAw7Ck8xAonbs) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 333](https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf) | 3:50 |
 | 25 | [Sky opus fire](https://open.spotify.com/track/17TnDe1wOMBxUAiVtVRot2) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:53 |
-| 26 | [New World](https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:47 |
+| 26 | [Peace of Mind](https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 4:22 |
 | 27 | [My Lady's Chords](https://open.spotify.com/track/24CF1RQhwSyyrH14v9vtFG) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 3:26 |
 | 28 | [Brave Heart](https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Portraits in Film](https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB) | 3:19 |
 | 29 | [Ever After](https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 4:12 |
-| 30 | [Peace of Mind](https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 4:22 |
+| 30 | [New World](https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:47 |
 | 31 | [Law of One](https://open.spotify.com/track/6F49Fonv14f9GaCLCmLNk3) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 5:39 |
 | 32 | [Perfect Balance](https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 1:54 |
 | 33 | [Costa da Caparica](https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:41 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 40 | [Sakura](https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:49 |
 | 41 | [Meditation 111](https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 111](https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC) | 2:22 |
 
-Snapshot ID: `ar2igAAAAABv8GcT2PQJRTxRD7tmOIdz`
+Snapshot ID: `ar70AAAAAADX2RcTIcLTVbKW8VcS9TGy`

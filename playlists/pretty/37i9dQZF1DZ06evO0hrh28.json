@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 255356,
+  "num_followers": 255338,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAADtwrXav+7dCwKbLJOasC9h",
+  "snapshot_id": "ar70AAAAAADlWXeOcUsv1HdoS0rQiwTX",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "pasarella \ud83d\udc60",
-        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        }
-      ],
-      "duration_ms": 162245,
-      "name": "pasarella \ud83d\udc60",
-      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apambichao",
         "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 162360,
       "name": "Cumbia Playera",
       "url": "https://open.spotify.com/track/7JWUbHhM6oeCJ31L949K5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "pasarella \ud83d\udc60",
+        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "duration_ms": 162245,
+      "name": "pasarella \ud83d\udc60",
+      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chain",
-        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 139518,
-      "name": "La Chain",
-      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "perfectas",
         "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 218120,
       "name": "perfectas",
       "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Chain",
+        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 139518,
+      "name": "La Chain",
+      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
     },
     {
       "added_at": null,

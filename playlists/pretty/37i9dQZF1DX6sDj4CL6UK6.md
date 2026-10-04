@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: The F16s
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,236 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,235 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,840 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,841 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 31 | [Slipmami On The Radar Freestyle](https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB), [OG Bahia](https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1) | [Slipmami On The Radar Freestyle](https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz) | 1:16 |
 | 32 | [Pertenço Às Ruas](https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:15 |
 | 33 | [Vai, Slip](https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:17 |
-| 34 | [Face Card](https://open.spotify.com/track/1HHCTTpYyRZTXyofa5dADX) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ), [HEYJIMMYJAY](https://open.spotify.com/artist/3Yzl6uPJuLMrw1olHrCPX1) | [Soffisticada](https://open.spotify.com/album/2u6XX2uoP8vFrJrmkaAzrt) | 3:23 |
-| 35 | [Rainha do Vinho](https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je) | 2:27 |
+| 34 | [Rainha do Vinho](https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je) | 2:27 |
+| 35 | [Face Card](https://open.spotify.com/track/1HHCTTpYyRZTXyofa5dADX) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ), [HEYJIMMYJAY](https://open.spotify.com/artist/3Yzl6uPJuLMrw1olHrCPX1) | [Soffisticada](https://open.spotify.com/album/2u6XX2uoP8vFrJrmkaAzrt) | 3:23 |
 | 36 | [Vem Cá](https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Raikage](https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:42 |
 | 37 | [Velotrol](https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 1:30 |
 | 38 | [Slipmami On The Radar Freestyle Pt\. 2](https://open.spotify.com/track/5BZhhKdfLRCeZMD2rrGgb5) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Slipmami On The Radar Freestyle Pt\. 2](https://open.spotify.com/album/6xZSYwLGujgmf7kHIUzNhM) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 49 | [FOFINHO SUBMISSO](https://open.spotify.com/track/3L18ZuWtiptTLd2wbqE9P3) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju), [NORA](https://open.spotify.com/artist/27ITClgUCIc7jbTZfp8Q4r) | [FOFINHO SUBMISSO](https://open.spotify.com/album/6OZtQ1z5yC4tDnQQ6dPu69) | 3:26 |
 | 50 | [TODO MUNDO SABE](https://open.spotify.com/track/1Xs3BC1GoDf1H1IKMdiPXD) | [Sayle](https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [TODO MUNDO SABE](https://open.spotify.com/album/1gvwcjVtaCb7r0HHRh6xcA) | 2:20 |
 
-Snapshot ID: `ar2igAAAAAAoVpdGCjdBiKzHUcDKYMwo`
+Snapshot ID: `ar70AAAAAACQE6vjGptALicJVw9z7j+b`

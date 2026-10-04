@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,144 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,147 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 49 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:31 |
 | 50 | [Blood Brothers](https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:34 |
 
-Snapshot ID: `ar2igAAAAAD39og/ganElWf+kMlPaZkp`
+Snapshot ID: `ar70AAAAAAB+75VNpE13dMqfktdQOktM`

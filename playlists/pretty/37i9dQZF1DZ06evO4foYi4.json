@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABETfKHDuWzihVTzEwzZ9S2",
+  "snapshot_id": "ar70AAAAAADEHE8LC2JVml94qFcjGo0W",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 188653,
-      "name": "I Should Watch TV",
-      "url": "https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 188653,
+      "name": "I Should Watch TV",
+      "url": "https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL"
     },
     {
       "added_at": null,

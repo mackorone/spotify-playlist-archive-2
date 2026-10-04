@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"
+    },
+    {
+      "album": {
         "name": "Night at the Opera",
         "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
       },

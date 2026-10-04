@@ -4,12 +4,12 @@
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-123 songs - 7 hr 9 min
+124 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Song To Sing](https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [A Song To Sing](https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd) | 2:59 | 2025-07-13 |  |
-| [Actin' Up](https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:25 | 2022-09-08 |  |
+| [Actin' Up](https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:25 | 2022-09-08 | 2026-10-04 |
 | [Ain’t In Kansas Anymore](https://open.spotify.com/track/0BUxYYHPvkYOOGgX4aI2W4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 3:14 | 2024-08-10 | 2026-09-07 |
 | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/track/2EiJiEYSo7vfryttFuDuIw) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/album/080pSIFP4RIZmTbyRrwsE0) | 3:14 | 2024-07-14 |  |
 | [Airstream Song](https://open.spotify.com/track/5FXLX6lLO3SWATDIqfTCzz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 2:48 | 2023-05-12 | 2024-05-02 |
@@ -98,6 +98,7 @@
 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 | 2022-09-08 |  |
 | [Smokin' and Drinkin' \(feat\. Little Big Town\)](https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 5:30 | 2022-09-08 | 2024-08-10 |
 | [Smokin' and Drinkin' \- Commentary](https://open.spotify.com/track/1F5XzECYlqNC38etC41rVF) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum Spotify Commentary](https://open.spotify.com/album/3KA9nD37o4VCO1UpyzVAF4) | 0:38 | 2024-06-25 | 2024-06-27 |
+| [Snakeskin Boots](https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Crisco](https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng) | 4:09 | 2026-10-04 |  |
 | [Someone Else’s Arms \(ft\. Miranda Lambert\)](https://open.spotify.com/track/5m0dWNggsT8N7MUs1Qu69M) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Someone Else's Arms](https://open.spotify.com/album/3qv7PjVXcJZYMGIxl2uDkO) | 3:50 | 2026-06-18 | 2026-08-02 |
 | [Somethin' Bad \(with Carrie Underwood\)](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2022-09-08 |  |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-24 | 2026-05-17 |

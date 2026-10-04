@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by: <a href="https://artists.spotify.com/songwriter/34YzezAI3nKTv5PilX7qGn">Sasha Alex Sloan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,775 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,795 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

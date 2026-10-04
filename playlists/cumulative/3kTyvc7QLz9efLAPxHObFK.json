@@ -50029,6 +50029,24 @@
     },
     {
       "album": {
+        "name": "Atonement",
+        "url": "https://open.spotify.com/album/05m026Xi7o5ny7cpBpXoWQ"
+      },
+      "artists": [
+        {
+          "name": "Yoshiko",
+          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/7JBoKdaO00m3iT6A1r4YzZ"
+    },
+    {
+      "album": {
         "name": "TOO FAST",
         "url": "https://open.spotify.com/album/4AnDQnvSjUu2KFJ6M3egdF"
       },
@@ -55938,6 +55956,28 @@
       "duration_ms": 181318,
       "name": "Tanano - Original Mix",
       "url": "https://open.spotify.com/track/2N0iQCQOQnR9yV3tZfjFQ2"
+    },
+    {
+      "album": {
+        "name": "TASTE MY LOVE",
+        "url": "https://open.spotify.com/album/0PneEJds71bNGIXthaENEP"
+      },
+      "artists": [
+        {
+          "name": "BenjaJ",
+          "url": "https://open.spotify.com/artist/3aJEcJWbsZjj4Z6fFtS236"
+        },
+        {
+          "name": "Tegula",
+          "url": "https://open.spotify.com/artist/7erXXZUcSqdSacH5QkMuwf"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "TASTE MY LOVE",
+      "url": "https://open.spotify.com/track/1h0D1JG3S9UOcB6mDDHFf2"
     },
     {
       "album": {

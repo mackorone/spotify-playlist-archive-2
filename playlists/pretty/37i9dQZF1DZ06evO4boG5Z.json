@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 30385,
+  "num_followers": 30390,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABHTZE4CAmUVUTBdDgnKOeR",
+  "snapshot_id": "ar70AAAAAADObi5GNLellOoP7Ni6oLBB",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 184960,
-      "name": "Man Or Mouse",
-      "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
+      "duration_ms": 127000,
+      "name": "Boring Planet",
+      "url": "https://open.spotify.com/track/3OQfwNOhDOodlqBYixpc3A"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 127000,
-      "name": "Boring Planet",
-      "url": "https://open.spotify.com/track/3OQfwNOhDOodlqBYixpc3A"
+      "duration_ms": 184960,
+      "name": "Man Or Mouse",
+      "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,382 likes - 100 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,401 likes - 100 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,212 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,213 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 33 | [REVERSI](https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:49 |
 | 34 | [MONDO PIECE](https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 5:28 |
 | 35 | [NO MAP](https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:55 |
-| 36 | [シリウス](https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:51 |
-| 37 | [Fight For Liberty（album ver.）](https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:15 |
+| 36 | [Fight For Liberty（album ver.）](https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:15 |
+| 37 | [シリウス](https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:51 |
 | 38 | [白昼夢](https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 3:20 |
 | 39 | [ビタースウィート](https://open.spotify.com/track/04kM1N15bkZxI0KlQB4tXb) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:30 |
 | 40 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 44 | [AFTER LIFE](https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 5:12 |
 | 45 | [Bye\-Bye to you](https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Bye\-Bye to you](https://open.spotify.com/album/6Z7Mzo45DiFgAHm1DQwWvo) | 4:08 |
 | 46 | [DEJAVU](https://open.spotify.com/track/4MxC12Xsx3eQtbUO0rRi5c) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ナノ・セカンド](https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P) | 4:00 |
-| 47 | [来鳥江](https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [山田孝之](https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P), [Aiemu](https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt) | [来鳥江](https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB) | 3:39 |
-| 48 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 |
+| 47 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 |
+| 48 | [来鳥江](https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [山田孝之](https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P), [Aiemu](https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt) | [来鳥江](https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB) | 3:39 |
 | 49 | [ZERO BREAKOUT POINT](https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb) | 3:33 |
 | 50 | [If...Hello](https://open.spotify.com/track/7zktx1s5bo9dqsQWiVEllC) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 2:41 |
 
-Snapshot ID: `ar2igAAAAADrw8kNvmx3rOG6lKtK8Kdw`
+Snapshot ID: `ar70AAAAAAAUiyJRbU7DZKSlq21s6EPC`

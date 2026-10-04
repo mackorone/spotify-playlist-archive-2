@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124 likes - 319 songs - 19 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,123 likes - 319 songs - 19 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,8 +257,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 247 | [Fight For Us \(feat\. Fave\)](https://open.spotify.com/track/3ql6nigejt92coPUMuPshO) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Generation of Kings](https://open.spotify.com/album/5K0fHzMU1aBOlWnKkZYqK4) | 3:17 |
 | 248 | [Vulnerable \(feat\. Travis Scott\)](https://open.spotify.com/track/46aqy8ZnoeCM5z4CidMSni) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Aquarius](https://open.spotify.com/album/0kAjVhWydfRkTlG95XWHOB) | 3:26 |
 | 249 | [R.G.](https://open.spotify.com/track/1wg7lAk7YpKA90pFwSERZS) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Rich Gang \(Deluxe Version\)](https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB) | 2:53 |
-| 250 | [Where You Are](https://open.spotify.com/track/6un4TmGD2zyNCpDsEY6TzJ) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Opia](https://open.spotify.com/album/1ZzzTOX2ZFiGjaEdy1e1F6) | 3:08 |
-| 251 | [Mine](https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 2:44 |
+| 250 | [Mine](https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 2:44 |
+| 251 | [Where You Are](https://open.spotify.com/track/6un4TmGD2zyNCpDsEY6TzJ) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Opia](https://open.spotify.com/album/1ZzzTOX2ZFiGjaEdy1e1F6) | 3:08 |
 | 252 | [Project Baby \(Remix\)](https://open.spotify.com/track/4QMVleuOKpfvpuloHBsBgH) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Project Baby \(Remix\)](https://open.spotify.com/album/4WHjKjDoV88TpAFn47i1L8) | 2:37 |
 | 253 | [Reflection](https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:12 |
 | 254 | [Gimme What I Want](https://open.spotify.com/track/6YEAjS6kiOQEkLv6dI5IOA) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 2:59 |
@@ -277,8 +277,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 267 | [My House](https://open.spotify.com/track/2hUV9lOrC6ul4p4WbgLneh) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Finally Famous \(Deluxe\)](https://open.spotify.com/album/19DGkH750PrQMMnKqBAxfY) | 3:33 |
 | 268 | [Patience](https://open.spotify.com/track/2v0HEvoISO2ZIWxgzzHk3U) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Spectrum](https://open.spotify.com/album/71DEJkhoME6hrXisBGWoQd) | 3:20 |
 | 269 | [Rich Shit](https://open.spotify.com/track/29uJqsQwlbLKA797fTo4hi) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Cheater](https://open.spotify.com/album/62lnNIiyfmRak3vHQL89zV) | 2:20 |
-| 270 | [All I Know](https://open.spotify.com/track/6wK2uzNdEnUs7NCb4guyvl) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The R.E.D\. Album](https://open.spotify.com/album/6PvZnd9Q2ymDo3gpoM5I37) | 4:03 |
-| 271 | [Future](https://open.spotify.com/track/5F3inqOUMtTl6lW1MDGxwY) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA) | [\#1 Girl](https://open.spotify.com/album/72Dqv9RL9xaG5fwEClkC6w) | 3:23 |
+| 270 | [Future](https://open.spotify.com/track/5F3inqOUMtTl6lW1MDGxwY) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA) | [\#1 Girl](https://open.spotify.com/album/72Dqv9RL9xaG5fwEClkC6w) | 3:23 |
+| 271 | [All I Know](https://open.spotify.com/track/6wK2uzNdEnUs7NCb4guyvl) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The R.E.D\. Album](https://open.spotify.com/album/6PvZnd9Q2ymDo3gpoM5I37) | 4:03 |
 | 272 | [Clean Edit](https://open.spotify.com/track/0lR9C9p0w0EaYU1ENet9Ty) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 2:08 |
 | 273 | [Another Dose](https://open.spotify.com/track/1UA7A9ipmYOYXMtJGjShzy) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 3:54 |
 | 274 | [Lifestyles of the Rich & Hated \(feat\. Rick Ross\)](https://open.spotify.com/track/1KvKPSssiIgALGatBVmlCj) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [When It's Dark Out \(Deluxe Edition\)](https://open.spotify.com/album/5a4Yx5hc7VRHUBeNX56euP) | 3:54 |
@@ -328,4 +328,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 318 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 319 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Acd5rgAAAADC6ISWlOXbcfvqSL4dVu+J`
+Snapshot ID: `Acd/TgAAAAAlB581aLuT7TzFBvoa5EqI`

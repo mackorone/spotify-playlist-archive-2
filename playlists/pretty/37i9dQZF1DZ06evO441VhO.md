@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,955 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,956 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 30 | [The Juggernauts](https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:59 |
 | 31 | [Happy Endings at the Movies](https://open.spotify.com/track/4Su8xgxckDz9s1yLCPvFB2) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:55 |
 | 32 | [Playmate of the Year](https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF) | 2:57 |
-| 33 | [Lay Me to Rest](https://open.spotify.com/track/4CJFj7Wl9qKZkmNaj5GB7Z) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:39 |
-| 34 | [So What](https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:56 |
-| 35 | [Pulling Teeth](https://open.spotify.com/track/1ZFqHKSXzQtyI5hs8WYDnD) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 3:13 |
+| 33 | [So What](https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:56 |
+| 34 | [Lay Me to Rest](https://open.spotify.com/track/4CJFj7Wl9qKZkmNaj5GB7Z) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:39 |
+| 35 | [I Know What You Did Last Summer](https://open.spotify.com/track/02fWbPqRqpk0wWo8jEksqd) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:45 |
 | 36 | [Sirens](https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:26 |
 | 37 | [Into You](https://open.spotify.com/track/2mZVENOSjFDXtUgWzucYEo) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 3:11 |
 | 38 | [Mental Health](https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 49 | [Headrush](https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:43 |
 | 50 | [Evil Anonymous](https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 2:56 |
 
-Snapshot ID: `ar2igAAAAAB3TCfTi1CZ97WfR/r55Wk4`
+Snapshot ID: `ar70AAAAAAAvtw2D7xwND0h2blJWAPs8`

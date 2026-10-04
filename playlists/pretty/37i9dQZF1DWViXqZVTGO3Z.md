@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,285 likes - 200 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,278 likes - 200 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 126 | [King Of Glory](https://open.spotify.com/track/0PY75pHIWpk2hbBYMA4de7) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Christmassy](https://open.spotify.com/album/1pSwM6AgM5svFoacMh9WY1) | 2:23 |
 | 127 | [Noel \(He Is Born\) \- Acoustic](https://open.spotify.com/track/17Lfjg1DnlDBc7BsVz1uOG) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [Noel \(He Is Born\)](https://open.spotify.com/album/0qBNdc9efGihbsXN2x8Wkg) | 4:21 |
 | 128 | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/track/0WqMFT1BrV53fUDpkxPPBK) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Laura Cooksey](https://open.spotify.com/artist/6MWom32rnuJDTw1LnnvsxK), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/album/5Da36nhwnnXFK3A3eAJxio) | 4:33 |
-| 129 | [Go Tell 'Em](https://open.spotify.com/track/2s3D0fcZr4mVagNppwjiCG) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Go Tell 'Em](https://open.spotify.com/album/1TIJr6PcQbLxWohrL2cbER) | 2:28 |
-| 130 | [O Holy Night](https://open.spotify.com/track/3R2hkvfbrV4ig1zW4pBmMW) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Christian Carols](https://open.spotify.com/album/2ZxCaMDNTiLchIYZoP0toC) | 5:44 |
+| 129 | [O Holy Night](https://open.spotify.com/track/3R2hkvfbrV4ig1zW4pBmMW) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Christian Carols](https://open.spotify.com/album/2ZxCaMDNTiLchIYZoP0toC) | 5:44 |
+| 130 | [Go Tell 'Em](https://open.spotify.com/track/2s3D0fcZr4mVagNppwjiCG) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Go Tell 'Em](https://open.spotify.com/album/1TIJr6PcQbLxWohrL2cbER) | 2:28 |
 | 131 | [Glory In The Highest](https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:51 |
 | 132 | [The One](https://open.spotify.com/track/4eTJECZAqZU9pfoB3JNwoF) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Every Christmas](https://open.spotify.com/album/417JYo0idxISlugwKE4fsb) | 3:53 |
 | 133 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/4859UK92TjODjB39UrCZo4) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/0V7o9iGSCjoeJ3QIkMnl5z) | 5:03 |

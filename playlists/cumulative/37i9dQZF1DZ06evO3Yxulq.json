@@ -1851,6 +1851,40 @@
     },
     {
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/0kvSqSMY938nmodq2k5pq0"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "date_added": "2026-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283833,
+      "name": "Pa'lante",
+      "url": "https://open.spotify.com/track/3NLK5CBJ9wl8NyPkmhs3AM"
+    },
+    {
+      "album": {
         "name": "Solo Tu...Lo Unico Que Quiero",
         "url": "https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq"
       },
@@ -2318,7 +2352,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 338293,
       "name": "Seguirte",
       "url": "https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ"

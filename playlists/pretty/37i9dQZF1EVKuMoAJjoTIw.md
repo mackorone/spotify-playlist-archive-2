@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIXWjKL8vlIdd>The Script</a>, <a href=spotify:playlist:37i9dQZF1EIUutZ8JokfM0>Katy Perry</a>, <a href=spotify:playlist:37i9dQZF1EIXaxtFcfbvNU>TV Girl</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIVIqVkf7wk6q>She & Him</a>, <a href=spotify:playlist:37i9dQZF1EIXaxtFcfbvNU>TV Girl</a>, <a href=spotify:playlist:37i9dQZF1EIUAb1pCe6QOZ>Whiskey Myers</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 |
-| 2 | [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 |
-| 3 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 |
+| 1 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 |
+| 2 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 |
+| 3 | [Broken Window Serenade](https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/304hLSMc8ZSHvMsh9YS4Jk) | 5:46 |
 | 4 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 |
 | 5 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 |
 | 6 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |

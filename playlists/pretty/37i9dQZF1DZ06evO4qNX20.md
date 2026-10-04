@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,705 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,739 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 34 | [Por Una Rencilla Vieja](https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:40 |
 | 35 | [Quisiera Ser Pajarillo](https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:17 |
 | 36 | [El Dos Dedos \- Remastered 2025](https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:27 |
-| 37 | [María De La Luz](https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 4:02 |
-| 38 | [Tino Quintero](https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 3:46 |
+| 37 | [Tino Quintero](https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 3:46 |
+| 38 | [María De La Luz](https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 4:02 |
 | 39 | [El Pávido Návido](https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 2:54 |
 | 40 | [Reto a la Muerte](https://open.spotify.com/track/7oY11deENXtxFukMtNLXbb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 3:00 |
 | 41 | [Dinastía de los Ochoa \- Remastered 2025](https://open.spotify.com/track/72lurftDROYvnKSIzgQPwn) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [El Gallo de Sinaloa](https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Gallo de Sinaloa](https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H) | 3:27 |
 | 50 | [El General Y El Sargento](https://open.spotify.com/track/706w1kXEx2B5IaviFLTpIK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Con Sus 17 Mejores Exitos](https://open.spotify.com/album/6EUR1fKyYifEHVaFSPhEIM) | 3:25 |
 
-Snapshot ID: `ar2igAAAAAApHD2MEX+En/KmOHYGMlI0`
+Snapshot ID: `ar70AAAAAADt3d/2PtCVQB9W0vIQByui`

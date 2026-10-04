@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Esa Risty
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Karnamereka, Lavora
 
-601 songs - 2 day 2 hr 28 min
+603 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Janji Temani](https://open.spotify.com/track/6JLmc1SXTnF79K8pSiiPCL) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Janji Temani](https://open.spotify.com/album/2cXVW2AxCA8kZqJD2UlqgN) | 4:16 | 2023-06-09 | 2024-03-09 |
 | [Janji Tok!](https://open.spotify.com/track/3DPoVLhW3Av9Esa3yMjYju) | [Cita Amelia](https://open.spotify.com/artist/71LNVQpsM6kpHm93kvAj40) | [Janji Tok!](https://open.spotify.com/album/1Me22JDZU4Plyp83MigBEW) | 3:54 | 2023-08-31 | 2023-10-08 |
 | [Jaran Goyang](https://open.spotify.com/track/00G0MhqxlDn3VjmCMrMAnF) | [Ajeng Febria](https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg), [Joko Sinyo](https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1) | [Jaran Goyang](https://open.spotify.com/album/0KgtxmmZQ65UnVh0TZJ3fv) | 4:30 | 2024-04-25 | 2025-01-31 |
+| [Jawa Bukan Hama](https://open.spotify.com/track/1pL1QXPKJl6Dm9i2RXehvJ) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [KAJAWI](https://open.spotify.com/artist/4JLFY6fICG1BFaw8Jc5KzR), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Jawa Bukan Hama](https://open.spotify.com/album/1RZGhl3EezB1zvXJtwxDmn) | 3:50 | 2026-10-03 |  |
 | [Jejantunging Kalbu](https://open.spotify.com/track/378sjjoEHRfAjFBlBCNdoI) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Jejantunging Kalbu](https://open.spotify.com/album/424Gy6dFu4JBKBxGqEt12i) | 5:18 | 2024-10-18 | 2025-09-20 |
 | [Jejantunging Kalbu](https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Jejantunging Kalbu](https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y) | 4:29 | 2024-08-09 | 2024-12-27 |
 | [Jiwarungsit](https://open.spotify.com/track/0CTcOv4NP9mU046khNKfVc) | [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Jiwarungsit](https://open.spotify.com/album/3n9fqu8PrnMhcS19wvMGGz) | 5:00 | 2025-08-28 | 2025-11-07 |
@@ -354,6 +355,7 @@
 | [Not You No In](https://open.spotify.com/track/5BYHafet3rl0DMDvUanpwy) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Kristin D](https://open.spotify.com/artist/2DwMeXS8DhOF0fPRRsSZJJ) | [Not You No In](https://open.spotify.com/album/0ttLzRa1gRqg3ROQD19Iwn) | 5:15 | 2024-07-25 | 2024-12-13 |
 | [NOTO](https://open.spotify.com/track/4Y00qBQr1stACixu1qpkEP) | [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [NOTO](https://open.spotify.com/album/38w7jKNuo32QhJ6YHTN4yK) | 5:42 | 2026-02-26 |  |
 | [Nresnani](https://open.spotify.com/track/7wadKAqv8tjMsDZ9yr0dGP) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF), [Tadeus Lavora](https://open.spotify.com/artist/4fpDardVw4cIf577YhcYMm) | [Nresnani](https://open.spotify.com/album/5uhAn7VJZPkpkPpcJCYbRs) | 5:25 | 2024-11-28 | 2025-06-27 |
+| [Nresnani](https://open.spotify.com/track/4gKJrV0o1upMKWp62sqfZI) | [Karnamereka](https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq), [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Tadeus Lavora](https://open.spotify.com/artist/4fpDardVw4cIf577YhcYMm), [Ratih SDE](https://open.spotify.com/artist/3hA9id8iAytOj6P8c2F6d8) | [Nresnani](https://open.spotify.com/album/5IGZ28W23QuUTQoyIzeEhf) | 3:32 | 2026-10-03 |  |
 | [Nresnani](https://open.spotify.com/track/3xM5ljrKKRa3smVZF2ObFf) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Nresnani](https://open.spotify.com/album/42y04fYST8LC6KCZcayUNf) | 4:30 | 2024-10-04 |  |
 | [Nresnani](https://open.spotify.com/track/3GErPF0Jefm11hx6b8xh0c) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Nresnani](https://open.spotify.com/album/2viXoe6IXeZjSCUHZoM5cp) | 4:46 | 2024-11-14 | 2025-03-14 |
 | [Nresnani \- Accoustic Version](https://open.spotify.com/track/2d5ge8cLWayiZ1QySSs9gC) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Nresnani \(Accoustic Version\)](https://open.spotify.com/album/720X2yLc6ErIxR9pNYjeZ5) | 4:05 | 2024-11-21 | 2025-06-13 |

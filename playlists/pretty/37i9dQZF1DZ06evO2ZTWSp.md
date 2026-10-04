@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,610 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,597 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [Stairway To Heaven](https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sasha Flute](https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 7:48 |
 | 50 | [Let 'em Say](https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Caroline Smith](https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE) | [Let 'em Say](https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp) | 3:20 |
 
-Snapshot ID: `ar2igAAAAABfDinUAI4Y9P3Ua6+GhYUp`
+Snapshot ID: `ar70AAAAAACZcC9RH+m3lJjb0ajMTAIT`

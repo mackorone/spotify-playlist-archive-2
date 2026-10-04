@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,872 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,879 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 49 | [Legends Never Die \- with Shania Twain](https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Show Pony](https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT) | 3:52 |
 | 50 | [I Ain't Goin' Down](https://open.spotify.com/track/3wYYeT35QwPaJ207ao4UTh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 3:44 |
 
-Snapshot ID: `ar2igAAAAACsrL7gl+JACgrj++FlcjJD`
+Snapshot ID: `ar70AAAAAADMzdHHDfQULnt3mNIR1tLn`

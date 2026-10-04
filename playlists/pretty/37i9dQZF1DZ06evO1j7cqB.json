@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11654,
+  "num_followers": 11656,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABNrI56hMajsUXjxetT2qNn",
+  "snapshot_id": "ar70AAAAAAAkAIlcKsRxsU8f+eNi92iE",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
       "duration_ms": 236338,
       "name": "For Hearth and Home",
       "url": "https://open.spotify.com/track/0aw2UoWCwLexLfbYUAYg2y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "March of Giants Theme - Man Ye the Shell (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3mqoDjHJ4Q779smSSLyNFn"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 257452,
+      "name": "March of Giants Theme - Man Ye the Shell (Original Game Soundtrack)",
+      "url": "https://open.spotify.com/track/2W7KuHPg6Uqph2y9asQprB"
     },
     {
       "added_at": null,
@@ -514,11 +530,35 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Rory Kinnear",
+          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
+        },
+        {
+          "name": "Daniel Weyman",
+          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
         }
       ],
-      "duration_ms": 274481,
-      "name": "The Sun Yet Shines",
-      "url": "https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy"
+      "duration_ms": 139988,
+      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
+      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
     },
     {
       "added_at": null,
@@ -539,22 +579,6 @@
       "duration_ms": 369640,
       "name": "Ashes (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
     },
     {
       "added_at": null,
@@ -582,19 +606,11 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Rory Kinnear",
-          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
-        },
-        {
-          "name": "Daniel Weyman",
-          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
         }
       ],
-      "duration_ms": 139988,
-      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
-      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
+      "duration_ms": 274481,
+      "name": "The Sun Yet Shines",
+      "url": "https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy"
     },
     {
       "added_at": null,
@@ -615,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Remembering Faye (From \"God of War Ragnar\u00f6k\" Soundtrack) (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/4o4b7iMmstPFwnvkuT3Ngy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -647,6 +643,22 @@
       "duration_ms": 223866,
       "name": "Lullaby of the Giants (From \"God of War\" Soundtrack)",
       "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 565666,
+      "name": "Letting Go (From \"God of War Ragnar\u00f6k\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
     },
     {
       "added_at": null,
@@ -687,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 565666,
-      "name": "Letting Go (From \"God of War Ragnar\u00f6k\" Soundtrack)",
-      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
@@ -719,6 +715,26 @@
       "duration_ms": 201773,
       "name": "The Summoning (feat. Raya Yarbrough)",
       "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Remembering Faye (From \"God of War Ragnar\u00f6k\" Soundtrack) (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/4o4b7iMmstPFwnvkuT3Ngy"
     },
     {
       "added_at": null,
@@ -771,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+        "name": "Outlander: Season 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
       },
       "artists": [
         {
@@ -780,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Witch of the Woods (From \"God of War\" Soundtrack)",
-      "url": "https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He"
+      "duration_ms": 204666,
+      "name": "Brianna and Roger Theme",
+      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 190186,
       "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
       "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Blood of my Blood (Season 2 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1MzzczScFfaoZ8G0JQWyMh"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 277311,
-      "name": "Shoulder to Shoulder",
-      "url": "https://open.spotify.com/track/7jGFKqKG8RrqiOj4iL37uz"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Witch of the Woods (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
       },
@@ -863,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
+        "name": "Outlander: Blood of my Blood (Season 2 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1MzzczScFfaoZ8G0JQWyMh"
       },
       "artists": [
         {
@@ -872,25 +888,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Brianna and Roger Theme",
-      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marvel's Agents of S.H.I.E.L.D.",
-        "url": "https://open.spotify.com/album/0QC50e0EZ0MAYLbbbeit0M"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Agents of S.H.I.E.L.D. Overture",
-      "url": "https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5"
+      "duration_ms": 277311,
+      "name": "Shoulder to Shoulder",
+      "url": "https://open.spotify.com/track/7jGFKqKG8RrqiOj4iL37uz"
     }
   ],
   "unique_name": "This Is Bear McCreary",

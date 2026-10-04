@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,186 likes - 180 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,283 likes - 180 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

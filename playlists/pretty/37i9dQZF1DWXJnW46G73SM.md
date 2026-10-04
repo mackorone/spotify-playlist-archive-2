@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > شجّع المنتَج المحلي\. الغلاف: تاج
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,005 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

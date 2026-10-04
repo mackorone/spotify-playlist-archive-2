@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACJIalP837HCeUWtV0tCx5f",
+  "snapshot_id": "ar70AAAAAAAqdVD8r1aKlChE3L5NUGuv",
   "tracks": [
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
         }
       ],
-      "duration_ms": 237717,
-      "name": "O QUE DIZEM OS N\u00daMEROS",
-      "url": "https://open.spotify.com/track/069ERpRoR9EI7QnOQhdOYb"
+      "duration_ms": 165906,
+      "name": "CUMULONIMBUS",
+      "url": "https://open.spotify.com/track/5dUASzzjSVo1iUK3rpk8Rl"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conversas Que Nunca Tivemos",
+        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 283469,
+      "name": "Conversas Que Nunca Tivemos",
+      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hora de Acordar",
         "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conversas Que Nunca Tivemos",
-        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 283469,
-      "name": "Conversas Que Nunca Tivemos",
-      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CUMULONIMBUS",
         "url": "https://open.spotify.com/album/2oM08HKSXGEuxgtlJ5HwNy"
       },
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
         }
       ],
-      "duration_ms": 165906,
-      "name": "CUMULONIMBUS",
-      "url": "https://open.spotify.com/track/5dUASzzjSVo1iUK3rpk8Rl"
+      "duration_ms": 237717,
+      "name": "O QUE DIZEM OS N\u00daMEROS",
+      "url": "https://open.spotify.com/track/069ERpRoR9EI7QnOQhdOYb"
     },
     {
       "added_at": null,
@@ -1015,22 +1015,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guizo de Cascavel",
-        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
+        "name": "Abre Caminhos",
+        "url": "https://open.spotify.com/album/2j7dJMTEZ5iaADJkue5dlQ"
       },
       "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 226026,
-      "name": "Pegapacap\u00e1",
-      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
+      "duration_ms": 202199,
+      "name": "Abre Caminhos",
+      "url": "https://open.spotify.com/track/4InPGpczdrOVATP2fz0HMd"
     },
     {
       "added_at": null,
@@ -1059,22 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abre Caminhos",
-        "url": "https://open.spotify.com/album/2j7dJMTEZ5iaADJkue5dlQ"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 202199,
-      "name": "Abre Caminhos",
-      "url": "https://open.spotify.com/track/4InPGpczdrOVATP2fz0HMd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Sol",
         "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 206643,
       "name": "Meu Sol",
       "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guizo de Cascavel",
+        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "Pegapacap\u00e1",
+      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
     },
     {
       "added_at": null,

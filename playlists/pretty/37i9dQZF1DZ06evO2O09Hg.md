@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,663,818 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,663,855 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 49 | [Black & White](https://open.spotify.com/track/1fCeXjoRExPP2qwSBh2aST) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:06 |
 | 50 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
 
-Snapshot ID: `ar2igAAAAABJTJbf8qAy3TMdiA8b8fW9`
+Snapshot ID: `ar70AAAAAAAxmF8RfeRTKveYqQCrGj4Q`

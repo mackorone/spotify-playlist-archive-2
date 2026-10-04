@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,086 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,082 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

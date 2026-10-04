@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 41537,
+  "num_followers": 41553,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAACx1UGume5zmvivgFTvfoEx",
+  "snapshot_id": "ar70AAAAAAACf2E8UYWwKnFULPzQ8zw0",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Canciones Favoritas",
-        "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
+        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Mil Gracias",
-      "url": "https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO"
+      "duration_ms": 215520,
+      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 215520,
-      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
+      "duration_ms": 197640,
+      "name": "Mil Gracias",
+      "url": "https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO"
     },
     {
       "added_at": null,

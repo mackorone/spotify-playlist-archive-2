@@ -1,12 +1,12 @@
 {
   "description": "This is Rio. The essential tracks, all in one playlist.",
-  "num_followers": 2943,
+  "num_followers": 2942,
   "original_name": "This Is Rio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAABPUeoZiN6fJMLsq1GkdEf3",
+  "snapshot_id": "ar70AAAAAABCvKSP2qlFcZo47FYzt+v9",
   "tracks": [
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
+        "name": "33",
+        "url": "https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 190533,
-      "name": "Vac\u00edo",
-      "url": "https://open.spotify.com/track/3YrooSB4vVvAGoewSpPYMX"
+      "duration_ms": 154555,
+      "name": "No Puedes Olvidarme",
+      "url": "https://open.spotify.com/track/4YjgkkJfnxL8CbrNJr1ZNG"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0"
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 154555,
-      "name": "No Puedes Olvidarme",
-      "url": "https://open.spotify.com/track/4YjgkkJfnxL8CbrNJr1ZNG"
+      "duration_ms": 190533,
+      "name": "Vac\u00edo",
+      "url": "https://open.spotify.com/track/3YrooSB4vVvAGoewSpPYMX"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 247560,
-      "name": "Para Amarte",
-      "url": "https://open.spotify.com/track/2AU3KqGwiwL7CCsfRFJqj7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq"
       },
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vuelta al Barrio Vol.1",
-        "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r"
       },
       "artists": [
         {
@@ -732,9 +716,25 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 181105,
-      "name": "Estoy Cantando",
-      "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
+      "duration_ms": 272133,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/3ZbEy885gVoMyywzvKFl31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 247560,
+      "name": "Para Amarte",
+      "url": "https://open.spotify.com/track/2AU3KqGwiwL7CCsfRFJqj7"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
+        "name": "De Vuelta al Barrio Vol.1",
+        "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 240013,
-      "name": "Est\u00e1 en la M\u00fasica",
-      "url": "https://open.spotify.com/track/15ua6CkFnuyUj4GkSMgdYh"
+      "duration_ms": 181105,
+      "name": "Estoy Cantando",
+      "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Qu\u00e9",
-        "url": "https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r"
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 272133,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/3ZbEy885gVoMyywzvKFl31"
+      "duration_ms": 240013,
+      "name": "Est\u00e1 en la M\u00fasica",
+      "url": "https://open.spotify.com/track/15ua6CkFnuyUj4GkSMgdYh"
     },
     {
       "added_at": null,

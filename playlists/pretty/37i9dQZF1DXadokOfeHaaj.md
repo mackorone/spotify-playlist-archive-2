@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Maribou State
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,019 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,022 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

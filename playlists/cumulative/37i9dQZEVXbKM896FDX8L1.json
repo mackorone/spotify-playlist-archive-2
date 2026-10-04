@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 219365,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU"
@@ -11691,6 +11691,28 @@
     },
     {
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "album": {
         "name": "Songs of Sonder",
         "url": "https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow"
       },
@@ -11756,7 +11778,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 258816,
       "name": "Dreams - 2001 Remaster",
       "url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ"
@@ -11774,7 +11796,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -18978,7 +19000,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "How Lonely",
       "url": "https://open.spotify.com/track/4sjZn5XgFvFEilkZ2HbCvB"
@@ -27456,7 +27478,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -33587,6 +33609,28 @@
     },
     {
       "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/6xEbjbvcJzDK7qXy1hsbCX"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        },
+        {
+          "name": "Dart",
+          "url": "https://open.spotify.com/artist/6osq4qbA2enSjbGxYviPgj"
+        }
+      ],
+      "date_added": "2026-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189891,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5Alk9qfDLzHZlsWimnJble"
+    },
+    {
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H"
       },
@@ -38018,7 +38062,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-04",
       "duration_ms": 173386,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Los mejores lentos del rock\. Foto: reybruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,449 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,461 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 99 | [Ahora 2](https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El Pozo Brillante](https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1) | 3:01 |
 | 100 | [Se Quiere Matar](https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:47 |
 
-Snapshot ID: `AAAAAKyJpr00rcisTyKKNFibDaBAvkpx`
+Snapshot ID: `AAAAAAf4IF5/NWe79tMEX1O1rm8yM1En`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,718 likes - 26 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,728 likes - 26 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 | 21 | [Chattermax](https://open.spotify.com/track/2fjzQBE5mdrkmjYI3WkAWK) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Steve Peach](https://open.spotify.com/artist/66pztm8M3eSLgxel3BVsY5) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:21 |
 | 22 | [The Weekend](https://open.spotify.com/track/4gfxbgos8kfCZybOnMgmns) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [David Barber](https://open.spotify.com/artist/1QHNRO6583iWucRIG2QB1i) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:37 |
 | 23 | [Puppets](https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 1:45 |
-| 24 | [Cricket](https://open.spotify.com/track/3lKbohZkDt7f2TtS0b41XL) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Pluto Jonze](https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:36 |
+| 24 | [Bin Night](https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:13 |
 | 25 | [Flat Pack](https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 3:38 |
-| 26 | [Bin Night](https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:13 |
+| 26 | [Cricket](https://open.spotify.com/track/3lKbohZkDt7f2TtS0b41XL) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Pluto Jonze](https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:36 |
 
-Snapshot ID: `ar2igAAAAABVkbVJJgjKh4TiV3GlwPqa`
+Snapshot ID: `ar70AAAAAADyezi1anHMsHdQzkr3Kcik`

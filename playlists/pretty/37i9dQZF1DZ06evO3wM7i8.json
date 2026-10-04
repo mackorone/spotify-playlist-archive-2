@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 36971,
+  "num_followers": 36976,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ar2igAAAAAAwM6UI7vu/7B1Uk0X79wgA",
+  "snapshot_id": "ar70AAAAAACaYbwehWeIyoee7gMvcPdi",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt",
-        "url": "https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 187594,
-      "name": "Sweet Georgia Brown",
-      "url": "https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Django Reinhardt",
         "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 149960,
       "name": "Naguine",
       "url": "https://open.spotify.com/track/3tLFWTuHRrBOFppiDA3pHT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Django Reinhardt",
+        "url": "https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 187594,
+      "name": "Sweet Georgia Brown",
+      "url": "https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "You Rascal You",
+      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol.12 / 1940 - 1941",
         "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 168400,
       "name": "Swing 42",
       "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "You Rascal You",
-      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
     },
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Rex Stewart",
+          "url": "https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa"
+        }
+      ],
+      "duration_ms": 145973,
+      "name": "Montmartre",
+      "url": "https://open.spotify.com/track/0XX4H46p4ahalPWzLz1zrr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangology (feat. St\u00e9phane Grappelli)",
         "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
       },
@@ -539,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Rex Stewart",
-          "url": "https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa"
-        }
-      ],
-      "duration_ms": 145973,
-      "name": "Montmartre",
-      "url": "https://open.spotify.com/track/0XX4H46p4ahalPWzLz1zrr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol6 / 1937",
         "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
       },
@@ -571,30 +571,6 @@
       "duration_ms": 198800,
       "name": "Improvisation sur le 1er mvt concerto r\u00e9 mineur",
       "url": "https://open.spotify.com/track/0ITMcSpAs4tjp4PZk0cRz8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Louis Blues",
-        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
-      },
-      "artists": [
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 186437,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
     },
     {
       "added_at": null,
@@ -647,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Topsy",
-      "url": "https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -680,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 176052,
-      "name": "Honeysuckle Rose",
-      "url": "https://open.spotify.com/track/50gUKvSt2vFvxq84SX5ZXi"
+      "duration_ms": 186437,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
     },
     {
       "added_at": null,
@@ -723,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Topsy",
+      "url": "https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Django Reinhardt",
         "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
@@ -735,22 +711,6 @@
       "duration_ms": 182866,
       "name": "My Serenade",
       "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2xsWxOTPFJKKA6xy7874HC"
     },
     {
       "added_at": null,
@@ -772,9 +732,25 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 184197,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/4Xd6tNggPuGqq6DMdwymCp"
+      "duration_ms": 176052,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/50gUKvSt2vFvxq84SX5ZXi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2xsWxOTPFJKKA6xy7874HC"
     },
     {
       "added_at": null,
@@ -819,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Anniversary Song",
-      "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -852,9 +812,25 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 173161,
-      "name": "It Was So Beautiful",
-      "url": "https://open.spotify.com/track/23MCn1hqzitd00ctBSofv5"
+      "duration_ms": 184197,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/4Xd6tNggPuGqq6DMdwymCp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Anniversary Song",
+      "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
     },
     {
       "added_at": null,
@@ -891,6 +867,30 @@
       "duration_ms": 168813,
       "name": "Tea for Two",
       "url": "https://open.spotify.com/track/3J0vC7T9DmAJdXDIp8Xq7v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Louis Blues",
+        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
+      },
+      "artists": [
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 173161,
+      "name": "It Was So Beautiful",
+      "url": "https://open.spotify.com/track/23MCn1hqzitd00ctBSofv5"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol.2 / 1936 - 1937",
+        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "After You're Gone",
+      "url": "https://open.spotify.com/track/0gGBsUh6KzomYrr4oQGlHC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 181009,
       "name": "Viper's Dream",
       "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol.2 / 1936 - 1937",
-        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "After You're Gone",
-      "url": "https://open.spotify.com/track/0gGBsUh6KzomYrr4oQGlHC"
     },
     {
       "added_at": null,

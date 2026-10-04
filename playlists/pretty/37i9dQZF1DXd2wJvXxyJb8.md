@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647,720 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,647,733 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vou Tacar na Peka](https://open.spotify.com/track/4Km7b1kLOaedAljmarYeWx) | [Coral das Quebradas](https://open.spotify.com/artist/13W2ppQdsYiWw9zynrNzjZ), [MC Kauan PV](https://open.spotify.com/artist/71wi4mvYLNprbPHLb8qgyQ), [MC Zignani](https://open.spotify.com/artist/3XGGA9Vjm3cNvl73jvZloq), [Oracioh MC](https://open.spotify.com/artist/1OqNsqv0gLsTj3lxHGuPM3), [Mc DR](https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG) | [Vou Tacar na Peka](https://open.spotify.com/album/1SVnaj34lbY4xUlTPuUDCh) | 1:06 |
+| 1 | [Vou Tacar na Peka](https://open.spotify.com/track/4Km7b1kLOaedAljmarYeWx) | [Coral das Quebradas](https://open.spotify.com/artist/13W2ppQdsYiWw9zynrNzjZ), [MC Kauan PV](https://open.spotify.com/artist/71wi4mvYLNprbPHLb8qgyQ), [MC Zignani](https://open.spotify.com/artist/3XGGA9Vjm3cNvl73jvZloq), [Mc DR](https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG), [Oracioh MC](https://open.spotify.com/artist/1OqNsqv0gLsTj3lxHGuPM3) | [Vou Tacar na Peka](https://open.spotify.com/album/1SVnaj34lbY4xUlTPuUDCh) | 1:06 |
 | 2 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 |
 | 3 | [Raparigas](https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4) | [Filho do Piseiro](https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW) | [Só Poesias No Médio Grave \(Vol.1\)](https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS) | 2:16 |
 | 4 | [TOMA NO CU \(Maria Gasolina\)](https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8) | [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE) | [TOMA NO CU \(Maria Gasolina\)](https://open.spotify.com/album/4BbzXZrZxvRxcyB0MZzGiB) | 1:31 |

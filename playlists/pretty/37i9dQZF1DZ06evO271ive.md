@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,374 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,386 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 44 | [Bow Bow Bow \- F My Baby Daddy Freestyle](https://open.spotify.com/track/6jxSWts4DsWiC8w48A1Yri) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Bow Bow Bow \(F My Baby Daddy Freestyle\)](https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l) | 1:21 |
 | 45 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
 | 46 | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm) | 3:44 |
-| 47 | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BOTH WAYS](https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN) | 2:27 |
-| 48 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:54 |
+| 47 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:54 |
+| 48 | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BOTH WAYS](https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN) | 2:27 |
 | 49 | [Don't Trust Em](https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Don't Trust Em](https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV) | 3:30 |
 | 50 | [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:32 |
 
-Snapshot ID: `ar2igAAAAABs0yXMFWLC0Utrd7uwz06E`
+Snapshot ID: `ar70AAAAAACJPAnwhRNRJWKat5P7bgAr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,304 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,309 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 32 | [Insuperable](https://open.spotify.com/track/1ivbpcbZlCnqjvv6UjUDTe) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Insuperable](https://open.spotify.com/album/6aZZbJJ1WlK9Uxwz5WaZ7e) | 2:51 |
 | 33 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
 | 34 | [capaz \(merengueton\)](https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L) | 2:53 |
-| 35 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
+| 35 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
 | 36 | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:24 |
 | 37 | [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 |
 | 38 | [De Lejitos \- Remix](https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
 | 50 | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/track/15AlCAcyTVSqibPxZbTwRg) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Maluma \- Hits Pa' Siempre](https://open.spotify.com/album/4rtnFaG2TPzcifzZIZ9VDh) | 4:38 |
 
-Snapshot ID: `MlMuiAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlSHEAAAAAAAAAAAAAAAAAAAAAAAAGVu`

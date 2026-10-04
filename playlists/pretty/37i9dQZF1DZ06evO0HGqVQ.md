@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,465 likes - 46 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,477 likes - 46 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 45 | [Quisiera Ser Como Tu](https://open.spotify.com/track/4i6MltBTLgpUaitF1JmfDe) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 4:48 |
 | 46 | [Te Quiero Como Eres](https://open.spotify.com/track/49Y9MIid1kzJYaULdsJ7S8) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Orgullo Vallenato](https://open.spotify.com/album/58XJDLb5RJOKVfGEx4OoRA) | 4:43 |
 
-Snapshot ID: `ar2igAAAAADNT9DDqkVsyNuz1whkGFn6`
+Snapshot ID: `ar70AAAAAAC90YSmHyBWMr9+x3YaPf/l`

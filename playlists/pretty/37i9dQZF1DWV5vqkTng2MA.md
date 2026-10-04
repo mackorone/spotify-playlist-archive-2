@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Frank Mastra
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,748 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,800 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
